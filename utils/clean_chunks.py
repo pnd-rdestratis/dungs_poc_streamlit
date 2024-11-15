@@ -86,9 +86,16 @@ def replace_umlauts(json_str: str) -> str:
         json_str = json_str.replace(umlaut, replacement)
     return json_str
 
+def remove_page_numbers_objects(data: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """
+    Removes all objects with type 'PageNumber' from a list of dictionaries.
+    """
+    filtered_data = [obj for obj in data if obj.get('type') != 'PageNumber']
+    return filtered_data
+
 def process_json_file(file_path: Path) -> None:
     """
-    Processes a single JSON file by removing Image objects, replacing umlauts,
+    Processes a single JSON file by removing Image objects, PageNumber objects, replacing umlauts,
     adding child relationships, and cleaning metadata.
     """
     try:
@@ -100,6 +107,11 @@ def process_json_file(file_path: Path) -> None:
         original_length = len(data)
         filtered_data = remove_image_objects(data)
         images_removed = original_length - len(filtered_data)
+
+        # Remove PageNumber objects
+        before_page_numbers = len(filtered_data)
+        filtered_data = remove_page_numbers_objects(filtered_data)
+        page_numbers_removed = before_page_numbers - len(filtered_data)
 
         # Build child relationships
         enhanced_data = build_child_relationships(filtered_data)
@@ -116,7 +128,7 @@ def process_json_file(file_path: Path) -> None:
         with open(file_path, 'w', encoding='utf-8') as file:
             json.dump(final_data, file, ensure_ascii=False, indent=2)
 
-        print(f"Processed {file_path.name}: removed {images_removed} Image objects, cleaned metadata")
+        print(f"Processed {file_path.name}: removed {images_removed} Image objects, {page_numbers_removed} PageNumber objects, cleaned metadata")
 
     except json.JSONDecodeError as e:
         print(f"JSON Error in {file_path}: {str(e)}")
@@ -129,7 +141,7 @@ def main() -> None:
     """
     Main function that walks through the directory and processes JSON files.
     """
-    folder_path = Path("../chunks")
+    folder_path = Path("../chunks_settings_2")
 
     if not folder_path.exists():
         print(f"Error: Directory {folder_path} does not exist")
