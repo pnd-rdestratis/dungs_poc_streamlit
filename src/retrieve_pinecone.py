@@ -12,8 +12,7 @@ index_name = 'dungs-poc-2'
 index = pc.Index(index_name)
 
 # Define an example question
-question = "MBE Datenblatt: Welchen Druckverlust / Arbeitsbereich hat ein MBC bei XXX m³/h"
-
+question = "MBE-DMS Anleitung: Wie wird der DMS eingebaut??"
 # Generate an embedding for the question
 response = client.embeddings.create(
     input=question,
@@ -28,7 +27,7 @@ results = index.query(
     include_metadata=True,
     hybrid_config={
         "text_query": question,
-        "alpha": 0.3,
+        "alpha": 0.5,
         "metric_type": "dotproduct"
     }
 )
@@ -87,7 +86,6 @@ print("=" * 100)
 for match_id, info in id_relationships.items():
     print(f"\n🎯 MATCHED CHUNK:")
     print(f"Vector Score: {info['score']:.4f}")
-    print(f"Text Score: {info['text_score']}")
     print(f"ID: {match_id}")
     print(f"Text: {info['text']}")
     print(f"File: {info['filename']}, Page: {info['page_number']}")
@@ -95,7 +93,7 @@ for match_id, info in id_relationships.items():
     # Print all chunks from the same page
     if info['filename'] and info['page_number'] is not None:
         page_chunks = pages_to_fetch[(info['filename'], info['page_number'])]
-        print(f"\n📄 OTHER CHUNKS ON THE SAME PAGE ({len(page_chunks)} total chunks):")
+        #print(f"\n📄 OTHER CHUNKS ON THE SAME PAGE ({len(page_chunks)} total chunks):")
         for chunk in page_chunks:
             if chunk['id'] != match_id:  # Skip the matched chunk
                 content = chunk['metadata']['text_as_html'] if 'text_as_html' in chunk['metadata'] else chunk['metadata'].get('text', 'No text found')

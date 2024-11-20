@@ -1,0 +1,5 @@
+openai
+pinecone-client
+torch
+transformers[torch]
+sentencepiece
