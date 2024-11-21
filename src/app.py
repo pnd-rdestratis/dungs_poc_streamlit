@@ -61,6 +61,7 @@ with col1:
     # Search settings
     with st.expander("Search Settings", expanded=True):
         top_k = st.slider("Number of results", 1, 20, 5)
+        show_pdfs = st.toggle('📄 Show PDF Sources', value=False)
 
 with col2:
     query = st.text_input("Enter your search query:")
@@ -76,7 +77,7 @@ with col2:
             )
 
             if results:
-                for i, r in enumerate(results):  # Add enumerate to get an index
+                for i, r in enumerate(results):
                     page_num = int(float(r['page']))
 
                     with st.expander(
@@ -86,18 +87,17 @@ with col2:
                         st.markdown("**Text:**")
                         st.write(r['text'])
 
-                        # Display PDF using streamlit-pdf-viewer
-                        pdf_path = DOCS_PATH / r['source']
-                        if pdf_path.exists():
-                            st.markdown(f"**📄 {r['source']} (Page {page_num}):**")
-                            pdf_viewer(
-                                pdf_path,
-                                width=700,
-                                pages_to_render=[page_num],
-                                render_text=True,
-                                key=f"pdf_viewer_{i}_{page_num}"  # Add unique key
-                            )
-
+                        if show_pdfs:
+                            pdf_path = DOCS_PATH / r['source']
+                            if pdf_path.exists():
+                                st.markdown(f"**Source: {r['source']} (Page {page_num})**")
+                                pdf_viewer(
+                                    pdf_path,
+                                    width=700,
+                                    pages_to_render=[page_num],
+                                    render_text=True,
+                                    key=f"pdf_viewer_{i}_{page_num}"
+                                )
 
             else:
                 st.warning("No results found")
