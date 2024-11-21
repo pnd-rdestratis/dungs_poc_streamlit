@@ -1,40 +1,35 @@
 import os
 from pinecone import Pinecone
 from langchain_openai import OpenAIEmbeddings
-from collections import Counter
+from typing import List, Dict
 
-def initialize_clients():
+def initialize_clients(index_name: str):
+    """Initialize clients with specified index name."""
     pc = Pinecone(api_key=os.getenv('PINECONE_API_KEY'))
-    index = pc.Index('dungs-poc-hybrid-2')
-    embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+    index = pc.Index(index_name)
+    embeddings = OpenAIEmbeddings(
+        api_key=os.getenv('OPENAI_API_KEY'),
+        model="text-embedding-3-large"
+    )
     return index, embeddings
 
-def get_sparse_vector(text: str):
-    # Simple keyword-based sparse vector
-    words = text.lower().split()
-    word_counts = Counter(words)
-
-    return {
-        'indices': list(range(len(word_counts))),
-        'values': [float(count) for count in word_counts.values()]
-    }
-
-def search(query: str, index, embeddings, selected_file=None, top_k=5, alpha=0.5):
-    # Get dense vector (semantic)
+def search(query: str, index, embeddings, selected_file=None, top_k=5) -> List[Dict]:
+    """Search the specified index with the query."""
+    # Get vector embedding for the query
     vector = embeddings.embed_documents([query])[0]
 
-    # Add file filter only if a specific file is selected
+    # Add file filter if a specific file is selected
     filter_dict = {"filename": selected_file} if selected_file else None
 
-    # Search with both vectors
+    # Search with vector
     results = index.query(
         vector=vector,
-        filter=filter_dict,  # Will be None for "All Documents"
+        filter=filter_dict,
         top_k=top_k,
-        include_metadata=True,
-        alpha=alpha
+        include_metadata=True
     )
 
+    # Format results
     return [
         {
             'text': match['metadata']['text'],
@@ -44,3 +39,19 @@ def search(query: str, index, embeddings, selected_file=None, top_k=5, alpha=0.5
         }
         for match in results['matches']
     ]
+
+if __name__ == "__main__":
+    # Example usage
+    index_name = "dungs-poc-by-title-chunking"
+    query = "What is the purpose of the MPA41?"
+
+    index, embeddings = initialize_clients(index_name)
+    results = search(query, index, embeddings)
+
+    print(f"\nResults for query: '{query}'\n")
+    for i, result in enumerate(results, 1):
+        print(f"Result {i}:")
+        print(f"Score: {result['score']:.4f}")
+        print(f"Source: {result['source']}, Page: {result['page']}")
+        print(f"Text: {result['text'][:200]}...")
+        print("-" * 80)
