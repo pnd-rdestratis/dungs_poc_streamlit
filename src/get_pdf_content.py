@@ -52,7 +52,11 @@ I will provide you with:
 1. Relevant chunks from the vector search
 2. Full page content and images from the PDFs
 
-Please cite your sources using the format (Filename, Page X) when providing information.
+Please structure your response in this format:
+Provide your answer with inline citations using [Filename, Page X] format
+
+
+This formatting is crucial for creating clickable links in the interface.
 
 Relevant chunks from vector search:
 """
@@ -137,27 +141,3 @@ def process_pdf_page(pdf_path: str, page_number: int, output_dir: str = "output"
 
     except Exception as e:
         raise Exception(f"Error processing PDF: {str(e)}")
-
-if __name__ == "__main__":
-    # Your specific PDF file and page
-    pdf_path = "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MPA41_Handbuch.pdf"
-    page_number = 5
-    output_dir = "output"
-
-    try:
-        # Process PDF page
-        text, image_path = process_pdf_page(pdf_path, page_number, output_dir)
-        print(f"\nProcessed PDF page {page_number}")
-        print(f"Image saved to: {image_path}")
-
-        # Analyze content with GPT-4 Vision
-        print("\nAnalyzing content with GPT-4 Vision...")
-        analysis = analyze_page_content(image_path, text)
-
-        print("\nAnalysis Results:")
-        print("-" * 80)
-        print(analysis)
-        print("-" * 80)
-
-    except Exception as e:
-        print(f"Error: {str(e)}")
