@@ -3,6 +3,7 @@ from retrieve_hybrid import initialize_clients, search
 import os
 from pathlib import Path
 from streamlit_pdf_viewer import pdf_viewer
+from get_pdf_content import analyze_content_with_llm
 
 # Set environment variables from Streamlit secrets
 os.environ['PINECONE_API_KEY'] = st.secrets['PINECONE_API_KEY']
@@ -54,19 +55,21 @@ with col1:
         "MPA41_Handbuch.pdf"
     ]
     selected_file = st.selectbox("Select document:", files)
-
-    # Convert selection to None if "All Documents" is selected
     selected_file = None if selected_file == "All Documents" else selected_file
 
     # Search settings
     with st.expander("Search Settings", expanded=True):
         top_k = st.slider("Number of results", 1, 20, 5)
         show_pdfs = st.toggle('📄 Show PDF Sources', value=False)
+        use_llm = st.toggle('🤖 Get LLM Response', value=False)
 
 with col2:
-    query = st.text_input("Enter your search query:")
+    # Use a form to control when the search is triggered
+    with st.form(key='search_form'):
+        query = st.text_input("Enter your search query:")
+        submit_button = st.form_submit_button("Search")
 
-    if query:
+    if submit_button and query:
         try:
             results = search(
                 query=query,
@@ -76,7 +79,31 @@ with col2:
                 top_k=top_k
             )
 
-            if results:
+            if results:  # First check if we have results
+                if use_llm:  # Then check if LLM is enabled
+                    with st.spinner('Analyzing content with LLM...'):
+                        with st.chat_message("assistant"):
+                            response_stream = analyze_content_with_llm(
+                                query,
+                                results,
+                                DOCS_PATH,
+                                stream=True
+                            )
+                            full_response = ""
+                            message_placeholder = st.empty()
+
+                            # Process the streaming response
+                            for chunk in response_stream:
+                                if hasattr(chunk.choices[0].delta, 'content') and chunk.choices[0].delta.content is not None:
+                                    full_response += chunk.choices[0].delta.content
+                                    # Update the message placeholder with the accumulated response
+                                    message_placeholder.markdown(full_response + "▌")
+
+                            # Final update without the cursor
+                            message_placeholder.markdown(full_response)
+                        st.markdown("---")
+
+                # Show regular search results (moved outside the use_llm condition)
                 for i, r in enumerate(results):
                     page_num = int(float(r['page']))
 
@@ -99,7 +126,7 @@ with col2:
                                     key=f"pdf_viewer_{i}_{page_num}"
                                 )
 
-            else:
+            else:  # No results found condition moved here
                 st.warning("No results found")
 
         except Exception as e:
