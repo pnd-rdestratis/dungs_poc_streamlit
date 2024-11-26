@@ -6,7 +6,7 @@ from typing import Tuple, List, Set, Dict
 import base64
 from openai import OpenAI
 import os
-
+import shutil
 def encode_image(image_path):
     """Encode image to base64."""
     with open(image_path, "rb") as image_file:
@@ -19,8 +19,15 @@ def get_unique_pages(results: List[Dict]) -> List[Tuple[str, int]]:
         unique_pages.add((r['source'], int(float(r['page']))))
     return list(unique_pages)
 
+
 def analyze_content_with_llm(query: str, results: List[Dict], docs_path: Path, stream=True) -> str:
     """Analyze content using GPT-4 Vision with both chunks and PDF pages."""
+    # Clear output directory at the start of each search
+    output_dir = "output"
+    if Path(output_dir).exists():
+        shutil.rmtree(output_dir)
+    Path(output_dir).mkdir(exist_ok=True)
+
     client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
     # Get unique pages
@@ -53,9 +60,13 @@ I will provide you with:
 2. Full page content and images from the PDFs
 
 Please structure your response in this format:
-Provide your answer with inline citations using [Filename, Page X] format
 
 
+When possible try to structure the respone nicely, using bullet points ore lists eletments.
+
+Always respond in the same language as the question. So if a question is asked in German but the documents are
+in English, you still need to respond in German.
+Provide your answer with inline citations using [Filename, Page X] format (no matter which language).
 This formatting is crucial for creating clickable links in the interface.
 
 Relevant chunks from vector search:
@@ -86,6 +97,7 @@ Relevant chunks from vector search:
     response = client.chat.completions.create(
         model="gpt-4o",
         messages=messages,
+        temperature=0.1,
         max_tokens=1000,
         stream=stream
     )

@@ -3,7 +3,7 @@ from retrieve_hybrid import initialize_clients, search
 import os
 from pathlib import Path
 from streamlit_pdf_viewer import pdf_viewer
-from get_pdf_content import analyze_content_with_llm
+from llm_processing import analyze_content_with_llm
 
 # Set environment variables from Streamlit secrets
 os.environ['PINECONE_API_KEY'] = st.secrets['PINECONE_API_KEY']
@@ -51,10 +51,11 @@ def display_single_pdf_source(filename: str, page: int, key_prefix: str):
         )
 
 def extract_citation(text: str) -> list:
-    """Extract filename and page number from citation format [filename, Page X]."""
+    """Extract filename and page number from citation format [filename, Page/Seite X]."""
     citations = []
     import re
-    pattern = r'\[(.*?), Page (\d+)\]'
+    # Handle both English "Page" and German "Seite"
+    pattern = r'\[(.*?),\s*(?:Page|Seite)\s*(\d+)\]'
     matches = re.findall(pattern, text)
     return [(filename, int(page)) for filename, page in matches]
 
@@ -107,8 +108,7 @@ def main():
                 if results:
                     # LLM Response Section
                     if use_llm:
-                        st.markdown("### LLM Analysis")
-                        with st.spinner('Analyzing content...'):
+                        with st.spinner('Durchsuche Dokumente...'):
                             response_stream = analyze_content_with_llm(
                                 query,
                                 results,
