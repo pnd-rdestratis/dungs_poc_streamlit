@@ -37,17 +37,18 @@ FILES = [
     "MPA41_Handbuch.pdf"
 ]
 
-def display_single_pdf_source(filename: str, page: int, key_prefix: str):
+def display_single_pdf_source(filename: str, page: int, key_prefix: str, counter: int):
     """Display a single PDF source."""
     pdf_path = DOCS_PATH / filename
     if pdf_path.exists():
         st.markdown(f"**{filename} (Page {page})**")
         pdf_viewer(
             pdf_path,
-            width=700,
+            width=800,
+            height=800,
             pages_to_render=[page],
             render_text=True,
-            key=f"{key_prefix}_{filename}_{page}"
+            key=f"{key_prefix}_{filename}_{page}_{counter}"  # Added counter to make key unique
         )
 
 def extract_citation(text: str) -> list:
@@ -133,8 +134,8 @@ def main():
                                 citations = extract_citation(full_response)
                                 if citations:
                                     st.markdown("### Response Sources")
-                                    for filename, page in citations:
-                                        display_single_pdf_source(filename, page, "llm_response")
+                                    for idx, (filename, page) in enumerate(citations):
+                                        display_single_pdf_source(filename, page, "llm_response", idx)
 
                             st.markdown("---")
 
@@ -151,7 +152,8 @@ def main():
                                 if pdf_path.exists():
                                     pdf_viewer(
                                         pdf_path,
-                                        width=700,
+                                        width=800,
+                                        height=800,
                                         pages_to_render=[page_num],
                                         render_text=True,
                                         key=f"search_pdf_{i}_{page_num}"
