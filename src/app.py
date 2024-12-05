@@ -90,14 +90,6 @@ def main():
     st.sidebar.image("src/logo.png", width=150)
 
     with st.sidebar:
-        with st.expander("⚙️ Advanced Settings", expanded=False):
-            st.markdown("*💡 'Basic Chunking 500 Tokens Enriched' provides best accuracy across all documents*")
-            selected_index_name = st.radio(
-                "Select Vector Index:",
-                options=list(INDEXES.keys()),
-                index=list(INDEXES.keys()).index("Basic Chunking 500 Tokens Enriched")
-            )
-
         # Transform filenames for display
         display_names, display_to_file = transform_filenames()
 
@@ -106,7 +98,13 @@ def main():
         selected_file = None if selected_display_name == "All Documents" else display_to_file[selected_display_name]
 
         # Search settings
-        with st.expander("🔍 Search Settings", expanded=True):
+        with st.expander("⚙️ Advanced Settings", expanded=False):
+            st.markdown("*💡 'Basic Chunking 500 Tokens Enriched' provides best accuracy across all documents*")
+            selected_index_name = st.radio(
+                "Select Vector Index:",
+                options=list(INDEXES.keys()),
+                index=list(INDEXES.keys()).index("Basic Chunking 500 Tokens Enriched")
+            )
             top_k = st.slider("Number of results", 1, 20, 5)
             show_pdfs = st.toggle('📄 Show PDF Sources', value=True)
             use_llm = st.toggle('🤖 Get LLM Response', value=True)
