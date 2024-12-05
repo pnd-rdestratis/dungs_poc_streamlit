@@ -21,7 +21,7 @@ def get_unique_pages(results: List[Dict]) -> List[Tuple[str, int]]:
 
 
 def analyze_content_with_llm(query: str, results: List[Dict], docs_path: Path, stream=True) -> str:
-    """Analyze content using GPT-4 Vision with both chunks and PDF pages."""
+    """Analyze content using GPT-4o with both chunks and PDF pages."""
     # Clear output directory at the start of each search
     output_dir = "output"
     if Path(output_dir).exists():
@@ -68,6 +68,8 @@ Always respond in the same language as the question. So if a question is asked i
 in English, you still need to respond in German.
 Provide your answer with inline citations using [Filename, Page X] format (no matter which language).
 This formatting is crucial for creating clickable links in the interface.
+Please consider that potentially not all content is relevant to respond to the question.
+
 
 Relevant chunks from vector search:
 """

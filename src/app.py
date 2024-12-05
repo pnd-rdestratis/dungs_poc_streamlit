@@ -14,14 +14,14 @@ DOCS_PATH = Path("/Users/riccardodestratis/PycharmProjects/dungs_poc/documents")
 
 # Page config
 st.set_page_config(page_title="Dungs Search", layout="wide")
-st.sidebar.image("src/logo.png", width=150)
 
 # Index options
 INDEXES = {
     "Chunking by Title": "dungs-poc-by-title-chunking",
     "Chunking by Page": "dungs-poc-by-page-chunking",
     "Basic Chunking 500 Tokens": "dungs-poc-basic-chunking",
-    "Basic Chunking 1000 Tokens": "dungs-poc-basic-chunking-1000"
+    "Basic Chunking 1000 Tokens": "dungs-poc-basic-chunking-1000",
+    "Basic Chunking 500 Tokens Enriched": "dungs-poc-basic-chunking-500-enriched"
 }
 
 # Available documents
@@ -48,26 +48,56 @@ def display_single_pdf_source(filename: str, page: int, key_prefix: str, counter
             height=800,
             pages_to_render=[page],
             render_text=True,
-            key=f"{key_prefix}_{filename}_{page}_{counter}"  # Added counter to make key unique
+            key=f"{key_prefix}_{filename}_{page}_{counter}"
         )
 
 def extract_citation(text: str) -> list:
     """Extract filename and page number from citation format [filename, Page/Seite X]."""
     citations = []
     import re
-    # Handle both English "Page" and German "Seite"
     pattern = r'\[(.*?),\s*(?:Page|Seite)\s*(\d+)\]'
     matches = re.findall(pattern, text)
     return [(filename, int(page)) for filename, page in matches]
 
-def main():
-    st.title("📚 Documentation RAG PoC")
+def transform_filenames():
+    """Transform filenames by removing .pdf extension for display while keeping original mapping."""
+    display_to_file = {"All Documents": "All Documents"}
+    display_names = ["All Documents"]
 
-    # Select index
-    selected_index_name = st.sidebar.radio(
-        "Select Vector Index:",
-        options=list(INDEXES.keys())
-    )
+    for filename in FILES[1:]:  # Skip "All Documents"
+        display_name = filename.replace('.pdf', '')
+        display_to_file[display_name] = filename
+        display_names.append(display_name)
+
+    return display_names, display_to_file
+
+def main():
+    st.title("📚 Support Co-Pilot")
+
+    # Sidebar content
+    st.sidebar.image("src/logo.png", width=150)
+
+    with st.sidebar:
+        with st.expander("⚙️ Advanced Settings", expanded=False):
+            st.markdown("*💡 'Basic Chunking 500 Tokens Enriched' provides best accuracy across all documents*")
+            selected_index_name = st.radio(
+                "Select Vector Index:",
+                options=list(INDEXES.keys()),
+                index=list(INDEXES.keys()).index("Basic Chunking 500 Tokens Enriched")
+            )
+
+        # Transform filenames for display
+        display_names, display_to_file = transform_filenames()
+
+        # Document selection
+        selected_display_name = st.selectbox("Select document:", display_names)
+        selected_file = None if selected_display_name == "All Documents" else display_to_file[selected_display_name]
+
+        # Search settings
+        with st.expander("🔍 Search Settings", expanded=True):
+            top_k = st.slider("Number of results", 1, 20, 5)
+            show_pdfs = st.toggle('📄 Show PDF Sources', value=True)
+            use_llm = st.toggle('🤖 Get LLM Response', value=True)
 
     # Initialize index
     try:
@@ -76,47 +106,35 @@ def main():
         st.error(f"Error initializing: {str(e)}")
         st.stop()
 
-    # Layout
-    col1, col2 = st.columns([1, 2])
+    # Search input
+    query = st.text_input("Enter your search query:")
 
-    with col1:
-        # Document selection
-        selected_file = st.selectbox("Select document:", FILES)
-        selected_file = None if selected_file == "All Documents" else selected_file
+    if query:
+        try:
+            results = search(
+                query=query,
+                index=index,
+                embeddings=embeddings,
+                selected_file=selected_file,
+                top_k=top_k
+            )
 
-        # Search settings
-        with st.expander("Search Settings", expanded=True):
-            top_k = st.slider("Number of results", 1, 20, 5)
-            show_pdfs = st.toggle('📄 Show PDF Sources', value=False)
-            use_llm = st.toggle('🤖 Get LLM Response', value=False)
+            if results:
+                # LLM Response Section with two columns
+                if use_llm:
+                    with st.spinner('Durchsuche Dokumente...'):
+                        response_stream = analyze_content_with_llm(
+                            query,
+                            results,
+                            DOCS_PATH,
+                            stream=True
+                        )
 
-    with col2:
-        # Search form
-        with st.form(key='search_form'):
-            query = st.text_input("Enter your search query:")
-            submit_button = st.form_submit_button("Search")
+                        # Create two columns for LLM response and sources
+                        llm_col1, llm_col2 = st.columns([1, 1])
 
-        if submit_button and query:
-            try:
-                results = search(
-                    query=query,
-                    index=index,
-                    embeddings=embeddings,
-                    selected_file=selected_file,
-                    top_k=top_k
-                )
-
-                if results:
-                    # LLM Response Section
-                    if use_llm:
-                        with st.spinner('Durchsuche Dokumente...'):
-                            response_stream = analyze_content_with_llm(
-                                query,
-                                results,
-                                DOCS_PATH,
-                                stream=True
-                            )
-
+                        with llm_col1:
+                            st.markdown("#### LLM Response")
                             # Display streaming response
                             full_response = ""
                             message_placeholder = st.empty()
@@ -129,40 +147,42 @@ def main():
 
                             message_placeholder.markdown(full_response)
 
-                            # Display LLM response sources
+                        # Display LLM sources in right column
+                        with llm_col2:
                             if show_pdfs:
                                 citations = extract_citation(full_response)
                                 if citations:
-                                    st.markdown("### Response Sources")
+                                    st.markdown("#### LLM Response Sources")
                                     for idx, (filename, page) in enumerate(citations):
                                         display_single_pdf_source(filename, page, "llm_response", idx)
 
-                            st.markdown("---")
+                        # Separator
+                        st.markdown("---")
 
-                    # Search Results Section
-                    st.markdown("### RAG Sources")
-                    for i, r in enumerate(results):
-                        page_num = int(float(r['page']))
-                        with st.expander(f"Score: {r['score']:.6f} | {r['source']} | Page: {page_num}", expanded=False):
-                            st.markdown("**Text:**")
-                            st.write(r['text'])
+                # RAG Sources Section (full width, below columns)
+                st.markdown("### RAG Sources")
+                for i, r in enumerate(results):
+                    page_num = int(float(r['page']))
+                    with st.expander(f"Score: {r['score']:.6f} | {r['source']} | Page: {page_num}", expanded=False):
+                        if show_pdfs:
+                            pdf_path = DOCS_PATH / r['source']
+                            if pdf_path.exists():
+                                pdf_viewer(
+                                    pdf_path,
+                                    width=800,
+                                    height=800,
+                                    pages_to_render=[page_num],
+                                    render_text=True,
+                                    key=f"search_pdf_{i}_{page_num}"
+                                )
 
-                            if show_pdfs:
-                                pdf_path = DOCS_PATH / r['source']
-                                if pdf_path.exists():
-                                    pdf_viewer(
-                                        pdf_path,
-                                        width=800,
-                                        height=800,
-                                        pages_to_render=[page_num],
-                                        render_text=True,
-                                        key=f"search_pdf_{i}_{page_num}"
-                                    )
-                else:
-                    st.warning("No results found")
+                        st.markdown("**Chunk Content:**")
+                        st.write(r['text'])
+            else:
+                st.warning("No results found")
 
-            except Exception as e:
-                st.error(f"Search error: {str(e)}")
+        except Exception as e:
+            st.error(f"Search error: {str(e)}")
 
 if __name__ == "__main__":
     main()

@@ -1,7 +1,8 @@
-openai
-pinecone-client
-torch
-transformers[torch]
-sentencepiece
-streamlit
-langchain-openai
+langchain-openai==0.2.9
+openai==1.54.5
+pinecone-client==5.0.1
+sentencepiece==0.2.0
+streamlit==1.40.1
+streamlit-pdf-viewer==0.0.19
+torch==2.5.1
+transformers==4.46.3

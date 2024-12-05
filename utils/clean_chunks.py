@@ -141,7 +141,7 @@ def main() -> None:
     """
     Main function that walks through the directory and processes JSON files.
     """
-    folder_path = Path("../chunks_settings_2")
+    folder_path = Path("../src/chunks/unstructured/basic_chunking/enriched_chunks")
 
     if not folder_path.exists():
         print(f"Error: Directory {folder_path} does not exist")

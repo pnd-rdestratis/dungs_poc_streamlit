@@ -21,11 +21,6 @@ def clean_metadata(chunk: Dict) -> Dict:
         'languages': chunk['metadata'].get('languages'),
         'page_number': chunk['metadata'].get('page_number')
     }
-
-    # For tables, include HTML representation
-    if chunk.get('type') == 'Table':
-        metadata['text_as_html'] = chunk['metadata'].get('text_as_html')
-
     return metadata
 
 def check_existing_ids(index, ids: List[str]) -> set:
@@ -55,20 +50,14 @@ def process_batch(batch: List[Dict], client: OpenAI, existing_ids: set) -> List[
         if not new_chunks:
             return []
 
-        # Get texts, using text_as_html for tables and regular text for other types
         texts_for_embedding = []
         valid_chunks = []
 
         for chunk in new_chunks:
-            # Clean and validate text
-            if chunk.get('type') == 'Table':
-                text_to_use = chunk['metadata'].get('text_as_html', '')
-            else:
-                text_to_use = chunk.get('text', '')
+            text_to_use = chunk.get('text', '')
 
             # Clean text and ensure it's not empty or None
             if text_to_use and isinstance(text_to_use, str):
-                # Handle Unicode and clean text
                 try:
                     # Normalize Unicode characters
                     text_to_use = text_to_use.encode('ascii', 'ignore').decode('ascii')
@@ -99,11 +88,7 @@ def process_batch(batch: List[Dict], client: OpenAI, existing_ids: set) -> List[
         for i, chunk in enumerate(valid_chunks):
             if i < len(response.data):  # Ensure we have embedding data
                 metadata = clean_metadata(chunk)
-                # Store the text we used for embedding
-                if chunk.get('type') == 'Table':
-                    metadata['text'] = chunk['metadata'].get('text_as_html', '')
-                else:
-                    metadata['text'] = chunk.get('text', '')
+                metadata['text'] = chunk.get('text', '')
                 metadata['type'] = chunk.get('type')
 
                 vectors.append({
@@ -119,8 +104,8 @@ def process_batch(batch: List[Dict], client: OpenAI, existing_ids: set) -> List[
         return []
 
 def main():
-    index_name = 'dungs-poc-basic-chunking-1000'
-    chunks_dir = Path("chunks/unstructured/basic_chunking_1000_tokens")
+    index_name = 'dungs-poc-basic-chunking-500-enriched'
+    chunks_dir = Path("chunks/unstructured/basic_chunking/enriched_chunks")
     batch_size = 100
 
     try:
@@ -138,7 +123,6 @@ def main():
         index = pc.Index(index_name)
     except Exception as e:
         raise Exception(f"Failed to create/access Pinecone index: {str(e)}")
-
 
     total_files_processed = 0
     total_chunks_processed = 0
