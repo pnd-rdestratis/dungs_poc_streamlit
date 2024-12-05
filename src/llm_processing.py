@@ -70,8 +70,14 @@ Provide your answer with inline citations using [Filename, Page X] format (no ma
 This formatting is crucial for creating clickable links in the interface.
 Please consider that potentially not all content is relevant to respond to the question.
 
+If you cannot answer the question based on the provided content tell the user.
+If the document name in the retrieved chunks does not match the document name specified in the question
+Tell the user something like this:
 
-Relevant chunks from vector search:
+Search over all documents was not successful, please try again by selecting the specific document in the Sidebar.
+Also this should always be in the language of the user's query
+
+Potentially Relevant chunks from vector search:
 """
 
     # Add chunks information

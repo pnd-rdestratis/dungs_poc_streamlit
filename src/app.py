@@ -10,7 +10,7 @@ os.environ['PINECONE_API_KEY'] = st.secrets['PINECONE_API_KEY']
 os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
 
 # Base path for documents
-DOCS_PATH = Path("/Users/riccardodestratis/PycharmProjects/dungs_poc/documents")
+DOCS_PATH = Path(__file__).parent.parent / "documents"
 
 # Page config
 st.set_page_config(page_title="Dungs Search", layout="wide")
@@ -51,13 +51,25 @@ def display_single_pdf_source(filename: str, page: int, key_prefix: str, counter
             key=f"{key_prefix}_{filename}_{page}_{counter}"
         )
 
+
 def extract_citation(text: str) -> list:
     """Extract filename and page number from citation format [filename, Page/Seite X]."""
-    citations = []
     import re
     pattern = r'\[(.*?),\s*(?:Page|Seite)\s*(\d+)\]'
     matches = re.findall(pattern, text)
-    return [(filename, int(page)) for filename, page in matches]
+
+    # Use a set to track seen citations while preserving order
+    seen = set()
+    unique_citations = []
+
+    for filename, page in matches:
+        citation = (filename, int(page))
+        # Only add if we haven't seen this exact combination before
+        if citation not in seen:
+            seen.add(citation)
+            unique_citations.append(citation)
+
+    return unique_citations
 
 def transform_filenames():
     """Transform filenames by removing .pdf extension for display while keeping original mapping."""
