@@ -84,7 +84,7 @@ def transform_filenames():
     return display_names, display_to_file
 
 def main():
-    st.title("📚 Support Co-Pilot")
+    st.title("📚 Supportcenter Assistant")
 
     # Sidebar content
     st.sidebar.image("src/logo.png", width=150)

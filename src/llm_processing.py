@@ -77,6 +77,9 @@ Tell the user something like this:
 Search over all documents was not successful, please try again by selecting the specific document in the Sidebar.
 Also this should always be in the language of the user's query
 
+If the query specified a document, but this is not mentioned in the chunks then the  chunks are probably not relevant
+and you need to tell that to the user asking to select the correct document instead. 
+
 Potentially Relevant chunks from vector search:
 """
 
