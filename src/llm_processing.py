@@ -51,37 +51,35 @@ def analyze_content_with_llm(query: str, results: List[Dict], docs_path: Path, s
         })
 
     # Prepare the prompt
-    prompt = f"""Please answer the following question based on the provided content:
+    prompt = f"""
+    Please answer the following question based on the provided content:
 
-Question: {query}
+    Question: {query}
 
-I will provide you with:
-1. Relevant chunks from the vector search
-2. Full page content and images from the PDFs
+    ### Information Provided:
+    1. Chunks from the vector search.
+    2. Full page content and images extracted from the PDFs.
 
-Please structure your response in this format:
+    ### Response Guidelines:
+    - Structure your response clearly, using bullet points or list elements where appropriate.
+    - Always answer in the same language as the question. For example, if the question is in German but the documents are in English, respond in German.
+    - Include inline citations always in this specifc format [Filename, Page X] for every reference (regardless of the language). This is essential for creating clickable links in the interface.
+    - Only use content that is relevant to answer the question. If certain information does not contribute to the response, omit it.
 
+    ### Handling Special Cases:
+    1. If you cannot answer the question based on the provided content:  
+       Inform the user that the content is insufficient to provide an answer.  
 
-When possible try to structure the respone nicely, using bullet points ore lists eletments.
+    2. If the document name in the retrieved chunks does not match the document name specified in the question:  
+       Notify the user with the following message (translated into the query's language):  
+       "Search over all documents was not successful. Please try again by selecting the specific document in the sidebar."  
 
-Always respond in the same language as the question. So if a question is asked in German but the documents are
-in English, you still need to respond in German.
-Provide your answer with inline citations using [Filename, Page X] format (no matter which language).
-This formatting is crucial for creating clickable links in the interface.
-Please consider that potentially not all content is relevant to respond to the question.
+    3. If the query specifies a document, but this document is not mentioned in the chunks:  
+       Inform the user that the chunks are likely not relevant and suggest selecting the correct document in the sidebar.
 
-If you cannot answer the question based on the provided content tell the user.
-If the document name in the retrieved chunks does not match the document name specified in the question
-Tell the user something like this:
-
-Search over all documents was not successful, please try again by selecting the specific document in the Sidebar.
-Also this should always be in the language of the user's query
-
-If the query specified a document, but this is not mentioned in the chunks then the  chunks are probably not relevant
-and you need to tell that to the user asking to select the correct document instead. 
-
-Potentially Relevant chunks from vector search:
-"""
+    ### Provided Data:
+    Potentially relevant chunks from vector search:
+    """
 
     # Add chunks information
     for r in results:
