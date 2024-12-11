@@ -1,5 +1,7 @@
 import fitz
 from PIL import Image
+from openai import AzureOpenAI
+from langchain_openai import AzureChatOpenAI
 import io
 from pathlib import Path
 from typing import Tuple, List, Set, Dict
@@ -20,22 +22,29 @@ def get_unique_pages(results: List[Dict]) -> List[Tuple[str, int]]:
     return list(unique_pages)
 
 
+
 def analyze_content_with_llm(query: str, results: List[Dict], docs_path: Path, stream=True) -> str:
     """Analyze content using GPT-4o with both chunks and PDF pages."""
+    from langchain_openai import AzureChatOpenAI
+
+    # Initialize Azure OpenAI through LangChain
+    llm = AzureChatOpenAI(
+        openai_api_version="2024-08-01-preview",
+        azure_deployment="gpt-4o",
+        azure_endpoint="https://azure-openai-dungs.openai.azure.com",
+        streaming=True,
+        temperature=0.1
+    )
+
     # Clear output directory at the start of each search
     output_dir = "output"
     if Path(output_dir).exists():
         shutil.rmtree(output_dir)
     Path(output_dir).mkdir(exist_ok=True)
 
-    client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
-
-    # Get unique pages
+    # Get unique pages and process them
     unique_pages = get_unique_pages(results)
-
-    # Process each unique page
     page_contents = []
-    images_and_texts = []
 
     for filename, page_num in unique_pages:
         text, image_path = process_pdf_page(
@@ -65,7 +74,7 @@ def analyze_content_with_llm(query: str, results: List[Dict], docs_path: Path, s
     - Always answer in the same language as the question. For example, if the question is in German but the documents are in English, respond in German.
     - Include inline citations always in this specifc format [Filename, Page X] for every reference (regardless of the language). This is essential for creating clickable links in the interface.
     - Only use content that is relevant to answer the question. If certain information does not contribute to the response, omit it.
-
+    - Don't mention stuff like: The provided information says... only mention that if you cannot find the relevant information required to answer the question
     ### Handling Special Cases:
     1. If you cannot answer the question based on the provided content:  
        Inform the user that the content is insufficient to provide an answer.  
@@ -76,6 +85,7 @@ def analyze_content_with_llm(query: str, results: List[Dict], docs_path: Path, s
 
     3. If the query specifies a document, but this document is not mentioned in the chunks:  
        Inform the user that the chunks are likely not relevant and suggest selecting the correct document in the sidebar.
+       Or that he they shuold specify the question more precisely.
 
     ### Provided Data:
     Potentially relevant chunks from vector search:
@@ -85,38 +95,11 @@ def analyze_content_with_llm(query: str, results: List[Dict], docs_path: Path, s
     for r in results:
         prompt += f"\nFrom {r['source']}, Page {int(float(r['page']))}: {r['text']}\n"
 
-    # Create messages with text and images
-    messages = [{"role": "user", "content": [{"type": "text", "text": prompt}]}]
-
-    # Add images and their full page content
-    for page in page_contents:
-        messages[0]["content"].extend([
-            {
-                "type": "image_url",
-                "image_url": {
-                    "url": f"data:image/jpeg;base64,{page['image']}"
-                }
-            },
-            {
-                "type": "text",
-                "text": f"\nFull page content from {page['filename']}, Page {page['page']}:\n{page['text']}"
-            }
-        ])
-
-    response = client.chat.completions.create(
-        model="gpt-4o",
-        messages=messages,
-        temperature=0.1,
-        max_tokens=1000,
-        stream=stream
-    )
-
-    if stream:
-        # Return the streaming response generator
-        return response
-    else:
-        # Return complete response for non-streaming case
-        return response.choices[0].message.content
+    try:
+        return llm.stream(prompt)
+    except Exception as e:
+        print(f"Azure OpenAI Error: {str(e)}")
+        return f"An error occurred: {str(e)}"
 
 
 def process_pdf_page(pdf_path: str, page_number: int, output_dir: str = "output") -> Tuple[str, str]:

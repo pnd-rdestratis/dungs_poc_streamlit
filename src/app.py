@@ -7,7 +7,8 @@ from llm_processing import analyze_content_with_llm
 
 # Set environment variables from Streamlit secrets
 os.environ['PINECONE_API_KEY'] = st.secrets['PINECONE_API_KEY']
-os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
+os.environ['AZURE_OPENAI_API_KEY'] = st.secrets['AZURE_OPENAI_API_KEY']  # Changed from OPENAI_API_KEY
+
 
 # Base path for documents
 DOCS_PATH = Path(__file__).parent.parent / "documents"
@@ -130,7 +131,7 @@ def main():
             )
 
             if results:
-                # LLM Response Section with two columns
+
                 if use_llm:
                     with st.spinner('Durchsuche Dokumente...'):
                         response_stream = analyze_content_with_llm(
@@ -149,13 +150,14 @@ def main():
                             full_response = ""
                             message_placeholder = st.empty()
 
+                            # Updated streaming handling
                             for chunk in response_stream:
-                                if hasattr(chunk.choices[0].delta, 'content') and chunk.choices[
-                                    0].delta.content is not None:
-                                    full_response += chunk.choices[0].delta.content
-                                    message_placeholder.markdown(full_response + "▌")
+                                if chunk.content is not None:
+                                    full_response += chunk.content
+                                    message_placeholder.markdown(full_response + "|")
 
                             message_placeholder.markdown(full_response)
+
 
                         # Display LLM sources in right column
                         with llm_col2:

@@ -6,3 +6,4 @@ streamlit==1.40.1
 streamlit-pdf-viewer==0.0.19
 torch==2.5.1
 transformers==4.46.3
+PyMuPDF==1.25.0
