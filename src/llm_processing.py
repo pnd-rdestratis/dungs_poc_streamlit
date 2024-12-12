@@ -1,6 +1,5 @@
 import fitz
 from PIL import Image
-from openai import AzureOpenAI
 from langchain_openai import AzureChatOpenAI
 import io
 from pathlib import Path
@@ -25,9 +24,6 @@ def get_unique_pages(results: List[Dict]) -> List[Tuple[str, int]]:
 
 def analyze_content_with_llm(query: str, results: List[Dict], docs_path: Path, stream=True) -> str:
     """Analyze content using GPT-4o with both chunks and PDF pages."""
-    from langchain_openai import AzureChatOpenAI
-
-    # Initialize Azure OpenAI through LangChain
     llm = AzureChatOpenAI(
         openai_api_version="2024-08-01-preview",
         azure_deployment="gpt-4o",

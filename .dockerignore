@@ -1,0 +1,4 @@
+.idea
+.streamlit/secrets.toml
+.venv
+.git
