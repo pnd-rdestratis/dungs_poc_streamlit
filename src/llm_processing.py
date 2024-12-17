@@ -57,7 +57,7 @@ def analyze_content_with_llm(query: str, results: List[Dict], docs_path: Path, s
 
     # Prepare the prompt
     prompt = f"""
-    Please answer the following question based on the provided content:
+    You are a support Center Assistant for Dungs, a manufactrer of Combustion Control products . Please answer the following question based on the provided content:
 
     Question: {query}
 
