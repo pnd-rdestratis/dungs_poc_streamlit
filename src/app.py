@@ -5,6 +5,7 @@ from pathlib import Path
 from streamlit_pdf_viewer import pdf_viewer
 from llm_processing import analyze_content_with_llm
 from dotenv import load_dotenv
+#from utils.enrich_chunks import fix_encoding_issues
 
 USE_STREAMLIT_SECRETS = False
 
@@ -39,25 +40,35 @@ INDEXES = {
     "Basic Chunking All Documents":"dungs-poc-basic-chunking-all-documents"
 }
 
-# Replacement for the FILES list:
-def get_all_pdfs(docs_path: Path) -> list:
-    """Scan the documents directory and all subdirectories for PDF files."""
-    pdf_files = []
+def get_all_pdfs(docs_path: Path) -> dict:
+    """Scan the documents directory and all subdirectories for PDF files.
+    Returns a dictionary of categories/folders and their PDF files."""
+    categories = {}
+    categories["All Categories"] = []  # Initialize with empty list
     
     # Add the "All Documents" option first
-    pdf_files.append("All Documents")
+    categories["All Categories"].append("All Documents")
     
     # Walk through all directories and subdirectories
     for root, _, files in os.walk(docs_path):
-        for file in files:
-            if file.lower().endswith('.pdf'):
-                # Get the relative path from DOCS_PATH
-                rel_path = os.path.relpath(os.path.join(root, file), docs_path)
-                pdf_files.append(rel_path)
+        pdf_files = [file for file in files if file.lower().endswith('.pdf')]
+        if not pdf_files:
+            continue
+            
+        rel_root = os.path.relpath(root, docs_path)
+        category = "Root" if rel_root == "." else rel_root
+        
+        if category not in categories:
+            categories[category] = []
+        
+        for file in pdf_files:
+            file_path = os.path.join(rel_root, file) if rel_root != "." else file
+            categories[category].append(file_path)
+            # Also add to All Categories
+            if file_path not in categories["All Categories"]:
+                categories["All Categories"].append(file_path)
     
-    return pdf_files
-
-FILES = get_all_pdfs(DOCS_PATH)
+    return categories
 
 def display_single_pdf_source(filename: str, page: int, key_prefix: str, counter: int):
     """Display a single PDF source with subfolder support."""
@@ -101,15 +112,20 @@ def extract_citation(text: str) -> list:
 
     return unique_citations
 
-def transform_filenames():
+def transform_filenames(files_list):
     """Transform filenames by removing .pdf extension for display while keeping original mapping."""
-    display_to_file = {"All Documents": "All Documents"}
-    display_names = ["All Documents"]
+    display_to_file = {}
+    display_names = []
 
-    for filename in FILES[1:]:  # Skip "All Documents"
-        display_name = filename.replace('.pdf', '')
-        display_to_file[display_name] = filename
-        display_names.append(display_name)
+    for filename in files_list:
+        if filename == "All Documents" or filename == "All Files in Category":
+            # Keep special options as is
+            display_to_file[filename] = filename
+            display_names.append(filename)
+        else:
+            display_name = filename.replace('.pdf', '')
+            display_to_file[display_name] = filename
+            display_names.append(display_name)
 
     return display_names, display_to_file
 
@@ -127,16 +143,57 @@ def main():
     st.title("📚 Supportcenter Assistant")
     st.write("I am your AI Supportcenter Assistant, ask me anything about the Test Documents!")
 
+    # Get PDF files organized by categories
+    categories_dict = get_all_pdfs(DOCS_PATH)
+    
+    # Extract all category names
+    category_names = list(categories_dict.keys())
+    if "All Categories" in category_names:
+        # Ensure "All Categories" is the first item
+        category_names.remove("All Categories")
+        category_names = ["All Categories"] + sorted(category_names)
+    
     # Sidebar content
     st.sidebar.image("src/logo.png", width=150)
 
     with st.sidebar:
-        # Transform filenames for display
-        display_names, display_to_file = transform_filenames()
+        # Category selection
+        selected_category = st.sidebar.selectbox("Select Product Category:", category_names)
 
-        # Document selection
-        selected_display_name = st.selectbox("Select document:", display_names)
-        selected_file = None if selected_display_name == "All Documents" else display_to_file[selected_display_name]
+        # Get files for the selected category
+        if selected_category in categories_dict:
+            category_files = categories_dict[selected_category]
+        else:
+            # Fallback if category not found
+            category_files = ["All Documents"]
+
+        # Add an "All Files in Category" option at the top of the document selection
+        if selected_category != "All Categories":
+            display_names, display_to_file = transform_filenames(["All Files in Category"] + category_files)
+        else:
+            display_names, display_to_file = transform_filenames(category_files)
+
+        # Document selection (filtered by preceding category selection)
+        selected_display_name = st.sidebar.selectbox("Select document:", display_names)
+
+        # Determine filter mode
+        if selected_display_name == "All Files in Category":
+            # Filter by category only
+            selected_file = None
+            filter_mode = "category"
+        elif selected_display_name == "All Documents":
+            # Don't filter
+            selected_file = None
+            filter_mode = "all"
+        else:
+            # Get the original filename from the display name
+            selected_file = display_to_file[selected_display_name]
+            
+            # Determine if we're filtering by category or specific file
+            if selected_category != "All Categories" and selected_file != "All Documents":
+                filter_mode = "file"
+            else:
+                filter_mode = "category"
 
         # Search settings
         with st.expander("⚙️ Advanced Settings", expanded=False):
@@ -162,11 +219,24 @@ def main():
 
     if query:
         try:
+            # Determine what to search based on the filter mode
+            search_file = None
+            search_category = None
+
+            if filter_mode == "file":
+                # Search in a specific file
+                search_file = selected_file
+            elif filter_mode == "category" and selected_category != "All Categories":
+                # Search in all files of a specific category
+                search_category = selected_category
+
+            # Call the search function with the appropriate filter
             results = search(
                 query=query,
                 index=index,
                 embeddings=embeddings,
-                selected_file=selected_file,
+                selected_file=search_file,
+                selected_category=search_category,
                 top_k=top_k
             )
 
