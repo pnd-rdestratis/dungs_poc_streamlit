@@ -2,6 +2,9 @@ import os
 from pinecone import Pinecone
 from langchain_openai import OpenAIEmbeddings
 from typing import List, Dict
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def initialize_clients(index_name: str):
     """Initialize clients with specified index name."""
@@ -42,8 +45,8 @@ def search(query: str, index, embeddings, selected_file=None, top_k=5) -> List[D
 
 if __name__ == "__main__":
     # Example usage
-    index_name = "dungs-poc-by-title-chunking"
-    query = "What is the purpose of the MPA41?"
+    index_name = "dungs-poc-basic-chunking-all-documents"
+    query = "fachkraft zielgruppe gas "
 
     index, embeddings = initialize_clients(index_name)
     results = search(query, index, embeddings)

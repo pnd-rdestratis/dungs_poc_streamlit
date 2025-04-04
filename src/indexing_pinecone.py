@@ -5,6 +5,9 @@ import json
 from pathlib import Path
 import time
 from typing import List, Dict, Any
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Initialize clients
 try:
@@ -19,7 +22,10 @@ def clean_metadata(chunk: Dict) -> Dict:
         'filename': chunk['metadata'].get('filename'),
         'filetype': chunk['metadata'].get('filetype'),
         'languages': chunk['metadata'].get('languages'),
-        'page_number': chunk['metadata'].get('page_number')
+        'page_number': chunk['metadata'].get('page_number'),
+        'product_category': chunk['metadata'].get('product_category'),
+        'product_id': chunk['metadata'].get('product_id'),
+        'product_name': chunk['metadata'].get('product_name'),
     }
     return metadata
 
@@ -104,7 +110,7 @@ def process_batch(batch: List[Dict], client: OpenAI, existing_ids: set) -> List[
         return []
 
 def main():
-    index_name = 'dungs-poc-basic-chunking-500-enriched'
+    index_name = 'dungs-poc-basic-chunking-all-documents'
     chunks_dir = Path("chunks/unstructured/basic_chunking/enriched_chunks")
     batch_size = 100
 

@@ -35,7 +35,8 @@ INDEXES = {
     "Chunking by Page": "dungs-poc-by-page-chunking",
     "Basic Chunking 500 Tokens": "dungs-poc-basic-chunking",
     "Basic Chunking 1000 Tokens": "dungs-poc-basic-chunking-1000",
-    "Basic Chunking 500 Tokens Enriched": "dungs-poc-basic-chunking-500-enriched"
+    "Basic Chunking 500 Tokens Enriched": "dungs-poc-basic-chunking-500-enriched",
+    "Basic Chunking All Documents":"dungs-poc-basic-chunking-all-documents"
 }
 
 # Available documents
