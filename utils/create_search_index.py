@@ -1,6 +1,80 @@
 import os
 import json
 
+def create_product_index(chunks_directory):
+    """
+    Create a product index dictionary with product information.
+    Takes only the first chunk from each JSON file.
+    
+    Args:
+        chunks_directory: Path to the directory containing the enriched chunks
+        
+    Returns:
+        dict: A dictionary with product information organized by product ID
+    """
+    # Initialize the product index structure
+    product_index = {
+        "products": []
+    }
+    
+    # Track already processed product IDs to avoid duplicates
+    processed_product_ids = set()
+    
+    # Process each JSON file in the directory
+    for filename in os.listdir(chunks_directory):
+        if filename.endswith('.json'):
+            file_path = os.path.join(chunks_directory, filename)
+            
+            with open(file_path, 'r', encoding='utf-8') as f:
+                try:
+                    chunk_data = json.load(f)
+                    
+                    # Take only the first chunk
+                    if chunk_data and isinstance(chunk_data, list) and len(chunk_data) > 0:
+                        first_item = chunk_data[0]
+                        
+                        # Check if metadata exists and contains necessary fields
+                        if 'metadata' in first_item:
+                            metadata = first_item['metadata']
+                            
+                            # Extract product info
+                            product_category = metadata.get('product_category', '')
+                            product_id = metadata.get('product_id', '')
+                            source_filename = metadata.get('filename', 'unknown.pdf')
+                        
+                            product_entry = {
+                                "filename": source_filename,
+                                "product_category": product_category,
+                                "product_id": product_id
+                            }
+                            
+                            product_index["products"].append(product_entry)
+                            processed_product_ids.add(product_id)
+                        
+                except json.JSONDecodeError:
+                    print(f"Error: Could not parse JSON in {file_path}")
+                except Exception as e:
+                    print(f"Error processing {file_path}: {str(e)}")
+    
+    print(f"Created product index with {len(product_index['products'])} unique products")
+    return product_index
+
+def save_product_index(product_index, output_dir):
+    """
+    Save the product index to a JSON file.
+    
+    Args:
+        product_index: The product index dictionary
+        output_dir: Directory to save the output file
+    """
+    os.makedirs(output_dir, exist_ok=True)
+    
+    output_file = os.path.join(output_dir, 'product_index.json')
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(product_index, f, ensure_ascii=False, indent=2)
+    
+    print(f"Product index saved to {output_file}")
+
 def extract_unique_product_values(chunks_directory):
     """
     Extract unique values for product categories, IDs, and names from enriched chunks.
@@ -97,6 +171,10 @@ if __name__ == "__main__":
     # Save to files
     save_to_files(categories, ids, names, OUTPUT_DIR)
     
+    # Create and save product index
+    product_index = create_product_index(CHUNKS_DIR)
+    save_product_index(product_index, OUTPUT_DIR)
+    
     # Print the first few entries of each list
     if categories:
         print("\nSample categories:", categories[:5])
@@ -104,3 +182,5 @@ if __name__ == "__main__":
         print("Sample product IDs:", ids[:5])
     if names:
         print("Sample product names:", names[:5])
+    if product_index["products"]:
+        print("Sample product index entries:", product_index["products"][:3])
