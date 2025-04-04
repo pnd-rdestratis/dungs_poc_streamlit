@@ -1,0 +1,133 @@
+-02-07_RepNews-2023-005_1R0_Filter Rp
+-12-20_RepNews-2023-019_Elimination-VDK-200-A_1R0
+2024-03-21_RepNews-2024-005_Partly-Phase-Out-DMA-Series_1R0_1
+2024-06-18_RepNews_2024-009_New-SAV_1R0
+2024-06-26_RepNews-2024-010_PhaseOut-DMV-MBC_1R0-1
+2024-07-16_RepNews-2024-011_MBC-300-700-standardisation_1R0
+2024-10-31_RepNews-2024-014_Gas-filter-portfolio_1R0
+2024-11-25_RepNews-2024-015_Consolidation-MVD-threaded-versions_1R0
+2024-11-25_RepNews-2024-015_Consolidation-MVD-threaded-versions_1R0-1
+2024-12-03_RepNews-2024-016_New-setpoint-adjuster-Pressure-Switches_1R0
+2024-12-12_RepNews_2024-017_Flow-Adjusting-Vavles_New-Nomenclature_1R0
+2025-02-04_RepNews_2025-001_Gross-price-structure-new-established-MVD-portfolio
+2025-02-25_RepNews_2025-002_MVD..6_KDI_valves_saleable_from_Urbach
+2025-03-13_RepNews_2025-003_FRM_H2_Ready_1R0
+2025-03-25_RepNews_2025-004_Consolidation_MVD_DN40-50_1R0
+2025-04-04_RepNews_2025-005_FRN-OH_1R0
+BA_MQMe_deUK_20230328
+BMA ATEX GW A4 HP alle Sprachen
+BMA Aust.anl. DSLC d. VPM-VC 24 VDC -D-
+BMA Austauschanleitung DSLC-VPM-VC -D-
+BMA DMV 5065-5125/11 eco D/GB/F/I
+BMA DMV-D.../11 DN 40-125 D/GB/F/I
+BMA DMV-D.../11 Rp 3/8-1/2 D/GB/F/I
+BMA FRM 100... DN 25-50 -D-
+BMA FRM-NOC -D-
+BMA FRSBV 1 bar D/GB/F/I
+BMA FRU D/GB/F/I
+BMA GW A5 D/GB/F/I
+BMA GW...A4 -D/GB/F/I-
+BMA Hydraulikbremse viersprachig D/GB/F/
+BMA KS...A2-7 -D/GB/F/I-
+BMA LGW A1 D/GB/F/I
+BMA LGW...A2 SGN - D/GB/F/I-
+BMA Leiterplatte MV... Deutsch
+BMA MB-D(LE) 405-412 B01 D/GB/F/I
+BMA MB-D(LE) 415-420 B01 D/GB/F/I
+BMA MB-VEF 407-412 B01 D/GB/F/I
+BMA MB-VEF 407-420 C01 D/GB/F/I
+BMA MB-ZRD(LE) 415-420 B01 D/GB/F/I
+BMA MBC 65/120 D/GB/F/I
+BMA MBC-700-WND D/GB/F/I
+BMA MBE-Sicherh-DW SG1 (D-GB-F-I-E)
+BMA MVD.../5 SG...D/GB/F/I
+BMA Magnete MB viersprachig D/GB/F/I
+BMA NOC -GB-
+BMA Stellantrieb DMA -D/GB/F/I-
+BMA VPS 504 D/GB/F/I
+BMA VPS 508 -D/GB/F/I-
+BMA-EPV-D
+BMA_Burner_head_V2_DE
+Compensators, 1, de_DE_Datenblatt
+DB ÃœB,NB...A4 -D-
+DB ÃœB,NB...A4 -D-_2
+DB DMV-...-D(LE) DN 65 - 125 -D-
+DB DMV-D/11 DN 65-125 eco -D-
+DB DMV-D/11 Rp 3/8-2 -D-
+DB DMV-D/11 Rp 3/8-2 -D-_2
+DB FRM 100.../250... DN 25-50 -D-
+DB FRNG -D-
+DB FRS -D-
+DB FRS -D-_2
+DB FRSBV 1 bar -D-
+DB FRU -D-
+DB FRU -D-_2
+DB GF/1 Rp 1/2-2 -D-
+DB GF/1 Rp 1/2-2 -D-_2
+DB GRS -D-
+DB GRS -D-_2
+DB GW 500 A4 -D-
+DB GW...A4, A4/2 HP -D-
+DB GW...A5 -D-
+DB GW...A6 -D-
+DB Gas and air filter -GB-
+DB KH -D-
+DB KH -D-_2
+DB KS...A2-7 -D-
+DB LGW...A1 -D-
+DB LGW...A1 -D-_2
+DB LGW...A2,A2P -D-
+DB LGW...A2,A2P -D-_2
+DB LGW...A4 -D-
+DB LV-D14, LV-D15 -D-
+DB MB-D(LE) 055 D01 -D-
+DB MB-D(LE) 405-412 B01 -D-
+DB MB-D(LE) 405-412 B01 -D-_2
+DB MB-D(LE) 405-412 B07 -D-
+DB MB-D(LE) 405-412 B07 -D-_2
+DB MB-VEF 407-412 B01 -D-
+DB MB-VEF 415-425 B01 -D-
+DB MB-ZRD(LE) 405-412 B01 -D-
+DB MB-ZRD(LE) 405-412 B01 -D-_2
+DB MBC-...-VEF DN 65 - 125 -D-
+DB MPA 41xx -D-
+DB MQM Pressure gauge -GB-
+DB MV 10.. -D-
+DB Magnetwechsel MBC+DMV/12 DN65-125
+DB Manometer -D-
+DB PB 2 -D-
+DB PB 2 -D-_2
+DB Programm GW/LGW - D-
+DB Programm GW/LGW - D-_2
+DB ProgrammÃ¼bersicht WhirlWind -D-
+DB Sondergasprogramm -D-
+DB Stellantriebe fÃ¼r DMK/DML -D-
+DB VPM-VC -D-
+DB VPM-VC 24 VDC -D-
+DB VPS 504 -D-
+DB VPS 504 -D-_2
+DB VPS 508 -D-
+DB, MV/4, MVD, MVD/5, MVDLE/5 -D-
+DB, MV/4, MVD, MVD/5, MVDLE/5 -D-_2
+DUNGS_HeatEngine_extended_installation_instruction_D
+Ersatzmagnetliste einstufig MVD../5, MVD
+FCD
+FCV-Gas
+Flow adjusting valve, 1, de_DE_Dateblatt
+GRS_BMA_D
+GW A6 - Data Sheet, 1, de_DE
+GW A6 - User Manual, 1, de_DE
+Gas filters, 1, de_DE_Datenblatt
+Gebrauchsanl. Venturi VSA D/GB/F/I/E
+Gebrauchsanleitung FRM DN 65-80 -D-
+Gebrauchsanleitung MBE D/GB/F/I/E
+LGW A4 - Data Sheet 1, 1, de_DE
+LGW A4 - User Manual, 1, de_DE
+MPA 41 V1_BMA_D
+Program_CE_2025
+RepNews 2015-02_MB Filter 405-407
+RepNews 2017-06_MB Filter 410-410
+RepNews_02_2019
+RepNews_06_2022
+Reparaturanleitung MeÃŸwerkwechsel SG 1-5
+Replacement_Parts_2024
