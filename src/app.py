@@ -1,11 +1,13 @@
 import streamlit as st
 from retrieve_pinecone import initialize_clients, search
 import os
+import json
 from pathlib import Path
 from streamlit_pdf_viewer import pdf_viewer
 from llm_processing import analyze_content_with_llm
 from dotenv import load_dotenv
-#from utils.enrich_chunks import fix_encoding_issues
+
+# from utils.enrich_chunks import fix_encoding_issues
 
 USE_STREAMLIT_SECRETS = False
 
@@ -27,6 +29,9 @@ else:
 # Base path for documents
 DOCS_PATH = Path(__file__).parent.parent / "documents"
 
+# Path to product index JSON file
+PRODUCT_INDEX_PATH = Path(__file__).parent.parent / "search_index_data" / "product_index.json"
+
 # Page config
 st.set_page_config(page_title="Dungs Search", layout="wide")
 
@@ -37,51 +42,107 @@ INDEXES = {
     "Basic Chunking 500 Tokens": "dungs-poc-basic-chunking",
     "Basic Chunking 1000 Tokens": "dungs-poc-basic-chunking-1000",
     "Basic Chunking 500 Tokens Enriched": "dungs-poc-basic-chunking-500-enriched",
-    "Basic Chunking All Documents":"dungs-poc-basic-chunking-all-documents"
+    "Basic Chunking All Documents": "dungs-poc-basic-chunking-all-documents"
 }
+
+# Set fixed index to use
+SELECTED_INDEX = "Basic Chunking All Documents"
+
+
+def load_product_index():
+    """Load product index from JSON file."""
+    try:
+        with open(PRODUCT_INDEX_PATH, 'r', encoding='utf-8') as f:
+            product_data = json.load(f)
+        return product_data.get('products', [])
+    except Exception as e:
+        st.error(f"Error loading product index: {str(e)}")
+        return []
+
+
+def get_category_to_products_mapping(products):
+    """Create a mapping from categories to their products."""
+    category_to_products = {}
+
+    # Add "All Categories" as first option
+    category_to_products["All Categories"] = ["All Documents"]
+
+    # Group products by category
+    for product in products:
+        category = product.get('product_category', '')
+        filename = product.get('filename', '')
+
+        if not category or not filename:
+            continue
+
+        if category not in category_to_products:
+            category_to_products[category] = []
+
+        # Add the product to its category list if not already there
+        if filename not in category_to_products[category]:
+            category_to_products[category].append(filename)
+
+        # Also add to All Categories
+        if filename not in category_to_products["All Categories"]:
+            category_to_products["All Categories"].append(filename)
+
+    return category_to_products
+
 
 def get_all_pdfs(docs_path: Path) -> dict:
     """Scan the documents directory and all subdirectories for PDF files.
     Returns a dictionary of categories/folders and their PDF files."""
     categories = {}
     categories["All Categories"] = []  # Initialize with empty list
-    
+
     # Add the "All Documents" option first
     categories["All Categories"].append("All Documents")
-    
+
     # Walk through all directories and subdirectories
     for root, _, files in os.walk(docs_path):
         pdf_files = [file for file in files if file.lower().endswith('.pdf')]
         if not pdf_files:
             continue
-            
+
         rel_root = os.path.relpath(root, docs_path)
         category = "Root" if rel_root == "." else rel_root
-        
+
         if category not in categories:
             categories[category] = []
-        
+
         for file in pdf_files:
             file_path = os.path.join(rel_root, file) if rel_root != "." else file
             categories[category].append(file_path)
             # Also add to All Categories
             if file_path not in categories["All Categories"]:
                 categories["All Categories"].append(file_path)
-    
+
     return categories
+
+
+def get_available_pdfs_with_product_index():
+    """Get available PDFs with product index information."""
+    # Load product index
+    products = load_product_index()
+
+    # Create category to products mapping
+    category_to_products = get_category_to_products_mapping(products)
+
+    return category_to_products
+
 
 def display_single_pdf_source(filename: str, page: int, key_prefix: str, counter: int):
     """Display a single PDF source with subfolder support."""
     # Try direct path first
     pdf_path = DOCS_PATH / filename
-    
+
     # If file doesn't exist at direct path, search subfolders
     if not pdf_path.exists():
         for root, _, files in os.walk(DOCS_PATH):
             if os.path.basename(filename) in files:
                 pdf_path = Path(os.path.join(root, os.path.basename(filename)))
                 break
-    
+
     if pdf_path.exists():
         st.markdown(f"**{filename} (Page {page})**")
         pdf_viewer(
@@ -94,6 +155,7 @@ def display_single_pdf_source(filename: str, page: int, key_prefix: str, counter
         )
     else:
         st.error(f"File not found: {filename}")
+
 
 def extract_citation(text: str) -> list:
     """Extract filename and page number from citation format [filename, Page/Seite X]."""
@@ -112,6 +174,7 @@ def extract_citation(text: str) -> list:
 
     return unique_citations
 
+
 def transform_filenames(files_list):
     """Transform filenames by removing .pdf extension for display while keeping original mapping."""
     display_to_file = {}
@@ -129,6 +192,7 @@ def transform_filenames(files_list):
 
     return display_names, display_to_file
 
+
 def main():
     st.markdown(
         r"""
@@ -143,16 +207,16 @@ def main():
     st.title("📚 Supportcenter Assistant")
     st.write("I am your AI Supportcenter Assistant, ask me anything about the Test Documents!")
 
-    # Get PDF files organized by categories
-    categories_dict = get_all_pdfs(DOCS_PATH)
-    
-    # Extract all category names
-    category_names = list(categories_dict.keys())
+    # Get product categories and documents from product index
+    category_to_products = get_available_pdfs_with_product_index()
+
+    # Extract all category names and sort them
+    category_names = list(category_to_products.keys())
     if "All Categories" in category_names:
         # Ensure "All Categories" is the first item
         category_names.remove("All Categories")
         category_names = ["All Categories"] + sorted(category_names)
-    
+
     # Sidebar content
     st.sidebar.image("src/logo.png", width=150)
 
@@ -161,8 +225,8 @@ def main():
         selected_category = st.sidebar.selectbox("Select Product Category:", category_names)
 
         # Get files for the selected category
-        if selected_category in categories_dict:
-            category_files = categories_dict[selected_category]
+        if selected_category in category_to_products:
+            category_files = category_to_products[selected_category]
         else:
             # Fallback if category not found
             category_files = ["All Documents"]
@@ -188,7 +252,7 @@ def main():
         else:
             # Get the original filename from the display name
             selected_file = display_to_file[selected_display_name]
-            
+
             # Determine if we're filtering by category or specific file
             if selected_category != "All Categories" and selected_file != "All Documents":
                 filter_mode = "file"
@@ -197,19 +261,15 @@ def main():
 
         # Search settings
         with st.expander("⚙️ Advanced Settings", expanded=False):
-            st.markdown("*💡 'Basic Chunking 500 Tokens Enriched' provides best accuracy across all documents*")
-            selected_index_name = st.radio(
-                "Select Vector Index:",
-                options=list(INDEXES.keys()),
-                index=list(INDEXES.keys()).index("Basic Chunking 500 Tokens Enriched")
-            )
+            # Note about the fixed index being used
+            st.markdown("*💡 Using 'Basic Chunking All Documents' for comprehensive search across all documents*")
             top_k = st.slider("Number of results", 1, 20, 5)
             show_pdfs = st.toggle('📄 Show PDF Sources', value=True)
             use_llm = st.toggle('🤖 Get LLM Response', value=True)
 
-    # Initialize index
+    # Initialize index with the fixed index
     try:
-        index, embeddings = initialize_clients(INDEXES[selected_index_name])
+        index, embeddings = initialize_clients(INDEXES[SELECTED_INDEX])
     except Exception as e:
         st.error(f"Error initializing: {str(e)}")
         st.stop()
@@ -287,14 +347,14 @@ def main():
                         if show_pdfs:
                             # Try direct path first
                             pdf_path = DOCS_PATH / r['source']
-                            
+
                             # If file doesn't exist at direct path, search subfolders
                             if not pdf_path.exists():
                                 for root, _, files in os.walk(DOCS_PATH):
                                     if os.path.basename(r['source']) in files:
                                         pdf_path = Path(os.path.join(root, os.path.basename(r['source'])))
                                         break
-                            
+
                             if pdf_path.exists():
                                 pdf_viewer(
                                     pdf_path,
@@ -314,6 +374,7 @@ def main():
 
         except Exception as e:
             st.error(f"Search error: {str(e)}")
+
 
 if __name__ == "__main__":
     main()
