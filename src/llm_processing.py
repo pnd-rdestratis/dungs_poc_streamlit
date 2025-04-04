@@ -69,6 +69,7 @@ def analyze_content_with_llm(query: str, results: List[Dict], docs_path: Path, s
     - Structure your response clearly, using bullet points or list elements where appropriate.
     - Always answer in the same language as the question. For example, if the question is in German but the documents are in English, respond in German.
     - Include inline citations always in this specifc format [Filename, Page X] for every reference (regardless of the language). This is essential for creating clickable links in the interface.
+    - Do never change the filename, even if contains weird looking decoded characters, the filneame needs to be passed exactly as you got it
     - Only use content that is relevant to answer the question. If certain information does not contribute to the response, omit it.
     - Don't mention stuff like: The provided information says... only mention that if you cannot find the relevant information required to answer the question
     ### Handling Special Cases:
@@ -82,6 +83,7 @@ def analyze_content_with_llm(query: str, results: List[Dict], docs_path: Path, s
     3. If the query specifies a document, but this document is not mentioned in the chunks:  
        Inform the user that the chunks are likely not relevant and suggest selecting the correct document in the sidebar.
        Or that he they shuold specify the question more precisely.
+
 
     ### Provided Data:
     Potentially relevant chunks from vector search:

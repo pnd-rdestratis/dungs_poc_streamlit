@@ -166,15 +166,33 @@ def extract_citation(text: str) -> list:
     seen = set()
     unique_citations = []
 
+    # Load product index to get actual filenames
+    products = load_product_index()
+    filename_map = {}
+
+    # Create mapping of normalized filenames to actual filenames
+    for product in products:
+        original = product.get('filename', '')
+        if original:
+            normalized = original.replace('â_„', '/')
+            filename_map[normalized] = original
+
     for filename, page in matches:
+        # Add .pdf extension if missing
+        if not filename.lower().endswith('.pdf'):
+            filename = f"{filename}.pdf"
+
+        # Check if this is a normalized version of a file in our index
+        if filename in filename_map:
+            # Use the original filename from our index
+            filename = filename_map[filename]
+
         citation = (filename, int(page))
         if citation not in seen:
             seen.add(citation)
             unique_citations.append(citation)
 
     return unique_citations
-
-
 def transform_filenames(files_list):
     """Transform filenames by removing .pdf extension for display while keeping original mapping."""
     display_to_file = {}
@@ -334,8 +352,26 @@ def main():
                                 if citations:
                                     st.markdown("#### LLM Response Sources")
                                     for idx, (filename, page) in enumerate(citations):
-                                        display_single_pdf_source(filename, page, "llm_response", idx)
+                                        pdf_path = DOCS_PATH / filename
 
+                                        if not pdf_path.exists():
+                                            for root, _, files in os.walk(DOCS_PATH):
+                                                if os.path.basename(filename) in files:
+                                                    pdf_path = Path(os.path.join(root, os.path.basename(filename)))
+                                                    break
+
+                                        if pdf_path.exists():
+                                            st.markdown(f"**{filename} (Page {page})**")
+                                            pdf_viewer(
+                                                pdf_path,
+                                                width=800,
+                                                height=800,
+                                                pages_to_render=[page],
+                                                render_text=True,
+                                                key=f"llm_response_{idx}_{page}"
+                                            )
+                                        else:
+                                            st.error(f"File not found: {filename}")
                         # Separator
                         st.markdown("---")
 
