@@ -39,22 +39,38 @@ INDEXES = {
     "Basic Chunking All Documents":"dungs-poc-basic-chunking-all-documents"
 }
 
-# Available documents
-FILES = [
-    "All Documents",
-    "FRM_Anleitung-engl.pdf",
-    "FRS_Anleitung.pdf",
-    "MBE-DMS_Anleitung.pdf",
-    "MBE-PS-GW_Anleitung.pdf",
-    "MBE-PS_Anleitung.pdf",
-    "MBE_Anleitung.pdf",
-    "MBE_Datenblatt.pdf",
-    "MPA41_Handbuch.pdf"
-]
+# Replacement for the FILES list:
+def get_all_pdfs(docs_path: Path) -> list:
+    """Scan the documents directory and all subdirectories for PDF files."""
+    pdf_files = []
+    
+    # Add the "All Documents" option first
+    pdf_files.append("All Documents")
+    
+    # Walk through all directories and subdirectories
+    for root, _, files in os.walk(docs_path):
+        for file in files:
+            if file.lower().endswith('.pdf'):
+                # Get the relative path from DOCS_PATH
+                rel_path = os.path.relpath(os.path.join(root, file), docs_path)
+                pdf_files.append(rel_path)
+    
+    return pdf_files
+
+FILES = get_all_pdfs(DOCS_PATH)
 
 def display_single_pdf_source(filename: str, page: int, key_prefix: str, counter: int):
-    """Display a single PDF source."""
+    """Display a single PDF source with subfolder support."""
+    # Try direct path first
     pdf_path = DOCS_PATH / filename
+    
+    # If file doesn't exist at direct path, search subfolders
+    if not pdf_path.exists():
+        for root, _, files in os.walk(DOCS_PATH):
+            if os.path.basename(filename) in files:
+                pdf_path = Path(os.path.join(root, os.path.basename(filename)))
+                break
+    
     if pdf_path.exists():
         st.markdown(f"**{filename} (Page {page})**")
         pdf_viewer(
@@ -63,8 +79,10 @@ def display_single_pdf_source(filename: str, page: int, key_prefix: str, counter
             height=800,
             pages_to_render=[page],
             render_text=True,
-            key=f"{key_prefix}_{filename}_{page}_{counter}"
+            key=f"{key_prefix}_{filename.replace('/', '_')}_{page}_{counter}"
         )
+    else:
+        st.error(f"File not found: {filename}")
 
 def extract_citation(text: str) -> list:
     """Extract filename and page number from citation format [filename, Page/Seite X]."""
@@ -197,7 +215,16 @@ def main():
                     page_num = int(float(r['page']))
                     with st.expander(f"Score: {r['score']:.6f} | {r['source']} | Page: {page_num}", expanded=False):
                         if show_pdfs:
+                            # Try direct path first
                             pdf_path = DOCS_PATH / r['source']
+                            
+                            # If file doesn't exist at direct path, search subfolders
+                            if not pdf_path.exists():
+                                for root, _, files in os.walk(DOCS_PATH):
+                                    if os.path.basename(r['source']) in files:
+                                        pdf_path = Path(os.path.join(root, os.path.basename(r['source'])))
+                                        break
+                            
                             if pdf_path.exists():
                                 pdf_viewer(
                                     pdf_path,
@@ -207,6 +234,8 @@ def main():
                                     render_text=True,
                                     key=f"search_pdf_{i}_{page_num}"
                                 )
+                            else:
+                                st.error(f"File not found: {r['source']}")
 
                         st.markdown("**Chunk Content:**")
                         st.write(r['text'])

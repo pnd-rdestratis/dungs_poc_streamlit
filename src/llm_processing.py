@@ -102,9 +102,24 @@ def process_pdf_page(pdf_path: str, page_number: int, output_dir: str = "output"
     """Extract text and create image from a specific PDF page."""
     # Create output directory if it doesn't exist
     Path(output_dir).mkdir(parents=True, exist_ok=True)
+    
+    # Check if file exists at provided path
+    pdf_path_obj = Path(pdf_path)
+    if not pdf_path_obj.exists():
+        # Search in document subfolders
+        docs_path = Path(__file__).parent.parent / "documents"
+        for root, _, files in os.walk(docs_path):
+            if os.path.basename(pdf_path) in files:
+                pdf_path = os.path.join(root, os.path.basename(pdf_path))
+                pdf_path_obj = Path(pdf_path)
+                break
+        
+        # If still not found, raise error
+        if not pdf_path_obj.exists():
+            raise FileNotFoundError(f"Could not find file: {pdf_path}")
 
     # Get filename without extension for output naming
-    pdf_name = Path(pdf_path).stem
+    pdf_name = pdf_path_obj.stem
 
     try:
         # Open PDF
