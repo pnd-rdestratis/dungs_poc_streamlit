@@ -1,0 +1,1542 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "8ae0cafe8923a3fe20d2566eb08ce887",
+    "text": "MBE  GasMultiBloc\u00ae Generation E \n\nDas Mehrfachstellger\u00e4t MBE ist eine Kombination aus dem Geh\u00e4use mit zwei Sicherheitsabsperrventilen (ValveBody) und zwei elektronischen Antrieben (ValveDrive) zur Bet\u00e4- tigung der Sicherheitsventile und zur optionalen Regelung\n\n.\n\n2 Sicherheitsabsperrventile nach EN 161\n\n.\n\nMaximaler Eingangsdruck bis zu 70 kPa (700 mbar)\n\n.\n\nSpannungsvarianten: 100-240 VAC & 24 VDC\n\n.\n\nReglerfunktion nach EN 88-1 & EN 88-3\n\n.\n\n3 Sensoren (PS) fiir den kompletten Regelbereich (0-50 kPa)\n\n.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztWEtv3DYQ/ivEHooYqL18iCLZWxwbQVE4MOImlzRY8DHcZb2SFqTkxjby3zvatdugSNpuTjrosqvHPPl9Q87ow+MCttBA269SWPxEFrXQzlhKndYOAo+holJ7F5SyteJULH4kiwZ6G2xvUf5xMV6sSjdkD8/3sPIZ8G9vkCnBmalZTc/oqLx/33QhxfQvArvceSjlbwl0rZk+E5IqUZtRbge5SaWkri2rp2g+PC7Q8hiHEJxWnz+iWAbf5bDadt72Xd6HuLP9ZrS7fFcgl2VO3tscULH02fapLK/v/cbm5jp3v4PvyzIM7bqsdp1fhs4P42qV5dX55eoCQ23d1vb92S7ExefP6C+mLbS2GYNYfEXmSaK/3+0l7G63TRgZZrF8er217XqwayhjQgto14sxjR0+WbVD42DMgY2eevjUP3kh5LUtV8O2T+eY6G8DpRbIa2gh702TSzJafnb6c4PGFmjin+BHw62QsopVpJXT0ccQK+9NHaKqmOQz+JMD/3/h6pnnnkttHAJKnTFWWGuZlgyhDH7GdXq4XthCrmCTo/Wb0sN2u4Y81jVUPRkLPpWeQGqB/NI1LrWHMrdDIQEarPzNQXYoQJrUk4c/IJGb5DeQN5D6Yl3Blc53mPSYGXnx3m7v4LwL9ydkaMNBHjl02+euTQX1WvKy7XMC95f0RU53cEIehkzOoT/4OyV9WuO6YhT5S39Pjg62UaHbjfHa0fVbWMMWVb4k8hubR8zu4NdxNb5GaIE7XPDG21pqbigXTIQa6S15xQz4mdCTI/TZlwC/a9EarLucHiB8C2QZJfU0SEuDojWPWlLOhBJBgI+GhRnkyYHMv73JkBZ3MnL5hrCaHVfrABE0ZXWwpqYSW9MQvNM0Gqt87WYaTI8Gx9c6R4A11845hh2nrpUUVS157SXecUZnkCcH8pX9lBo8wjO5TO0atUvIg78lLhU844mi5PbakheKUtI4m0+OKnqJ82aMDmcOpZiKEDlOJloqjfu+AStnPkyOD8cXfaU0cJA68IATiqikdtKwGCpXaUWVmUGeHMg3O9u2Y4R3NifbojsUoPSUV5S8f/mK/EB4Rd5fvDqq2KO0opZU18zH2odaMV5pIyU1ygTr6pkHk+PBd3TzuGtzMByLXAcdEVdjXGW8UEFCsHEGeXIg42iOx3sc2tv914XnBl7rU4aFfrgSR1U6zm5SchzlREAiUCOkEGCYs+NvxedjfXok+I5eHqzjktZOVpFp6jzXKnBhoabCRM5mkCcHsiA30JYujx/3rm9OSEwpk4B3t12zQ1f984c61AWc8MkLeir3Df5xbb1WFatBGy0UN4EawwNyorJGWSq4gZkak6PGf9X/xz8BwiQGcA=="
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "4b75f3153590e7d2d54608386621f197",
+    "text": "Hoher Durchfluss bei geringem Druckverlust\n\n.\n\nBiogas getestet bis max. 1,0 Vol. % H,S\n\n.\n\nBaukastensystem\n\n.\n\nEinfache Montage\n\n.\n\nLeichtbaudesign\n\n.\n\nWeltweite Zulassungen\n\nInhaltsverzeichnis MBE \n\nInhaltsverzeichnis MBE ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmNuK3EYQhl9FCHK3zPRBfcrlsgYbYmOwnUCMGaqrq2cU6zCoW2uvl333tJY1WYITmFwpoLmYkaZ/VVfpq1/d6ON9TR31NORDG+qfq9oxpq0QIbKoqLEaiQPy0HihvDEa66uq7ilDgAxFf18vB4c0zhPS93M64ETl5zEgN1Jwp7lmO7Zc/Djej6GN7b8IztOIlNJfCsGk5XYnFTNSu0V3pqlvU2rHIR2esvl4X5fISx5SCtY8fCqyiXCcwqEbEfI4PaZ4hnxa4u4/JJrSfmoRYQrlwpQnyG3av73DE0z922n8gzCnfZiHYzqcR9yHEeflbqX96+sXh5uS6uA7yHl3DrF+eCjzxbajAfolifoHmidFvjs/KuB87tqSWali/zTcwXCc4UhpKaim4VgvZZzLP4dh7j0tNfBlpkxf8xLj5XiiqbopBE6xm1OqPLXVkaZ2OFJf3Uwzfr6lqYzkJfz3md/AtBR7S++XMCXe3zuhIRWZVowp4QOLwUT0SpnoSJjSFWzrhNV1wu454A9DiUbHcWq/UfgnyFJaUsLK4BsrdGMpSMZAAppye8nRBnl1kK/b8QipGDyXAihXvk1VD193Fb9i1a9jt6t+ql5evbvM65KLRnNhmWAiCC2EUswaaJzymim3tcHq2uByrzvDwRqmZAFL3hvJdflE1JaxaMFukFcH+Rrmz1BcPqS78t1fuH778lD3oezcAITwzHPdeIlgZdMIHjbcq8P9H9ZvCDZq4haRPJDhEnRQPIgIXga5bdfXB/lFO0TAE1WvxyEX2UWmNjYSahVtwxsno3OsWBpAOmetjkJsvFfH+3JTY2BN2Xv5CM4WWzsvXeOoURyM4k3cIK8P8i/U4il7mEsB7XG4yNNBNWSRe2Udc6gcGmcMsQDorVBBbbhXh/tyT0dnlQoWTGQNOl5oC2kYCiUlOSX8Bnl1kH+jLn+hNlP1+9xBSiVZuszZXCuDLoBQlsXCmRNz0cWIAkxAvUFfBXTxHPqr4QRdTrc0fVse6UObqjJx9Rz7q37Ztf0At5BSR3KRBYMoEQVCOZfgUToT9PYW5f+M+9Ofn1kIJg=="
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "16a4c8d5302f848af6b20534f5920f0d",
+    "text": "ValveBody VB ValveBody VB 3 ValveDrive VD ValveDrive VD 4 PressureSensor PS PressureSensor PS 5 Technische Daten Technische Daten 6-8 6-8 Zulassungen Zulassungen 9 EinbaumaBe Einbauma\u00dfe 10 10 Druckabgriffe Druckabgriffe 11 11 MBE-Komponenten MBE-Komponenten 12-14 12-14",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ValveBody VB ValveBody VB</td><td>3</td></tr><tr><td>ValveDrive VD ValveDrive VD</td><td>4</td></tr><tr><td>PressureSensor PS PressureSensor PS</td><td>5</td></tr><tr><td>Technische Daten Technische Daten</td><td>6-8 6-8</td></tr><tr><td>Zulassungen Zulassungen</td><td>9</td></tr><tr><td>EinbaumaBe Einbauma\u00dfe</td><td>10 10</td></tr><tr><td>Druckabgriffe Druckabgriffe</td><td>11 11</td></tr><tr><td>MBE-Komponenten MBE-Komponenten</td><td>12-14 12-14</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9U01vozAQ/SsW503AkBBYVT1E6alaKVK7PWxbIWMPgQ3YyDbVZqv89x0T8km1B/CMPe95Pp5fPz2ooQFps0p434kXz1KRJEUEC6C0SEKWAg3DiKZRUCQiWHjfiNeAZYJZhvGfnjMyozrN4ehDxjXg0hPSRRTSNKZxMA0cuD9vlKiK6j8BrVYcjDlHhEGU0GQazYNFFKcurgXdVMZUSppsyOb100Nml0cUhcFs/45hGrjSIqsVZ1bpPsWW2dLx+j8NaOPrinOmBQKN1cxWxl/veMl0s9bqN3BrfNHJjclaxX2heOe6Zfwfy4dshanKvGbWTltRePs93ldUNUjWuCS8L2KGCLtr+wjWtnWFmWEV/nBcM7np2AaMK8gDufFcGS3uZLJrcnA1hLhj4Y/NmMlK29SO6s6yvIb7O1sCE7hoZ96/sPoDlkrsyMuSXDp3Pp66iOhg+Q7gH8E5Bg0c4sCx0tUHkJcVufIQIfqY2cHqWQbYWuMEOw1PII3SZP1ERjsn+HwMfwZeysrwEkjfQ3K7cQLHk4TgN6b41dUML5QbRF/YJ2A6hjxUMmddw5ZAjuZbFwSigBOKBoQGY+RKd3zL8o2uigIzvPTOUEooHUNRJ5NH1bRKorQw1xv/DA8ndEb6/5jkaWcsNH+7HEqhyYXn8i9ifWaZE/pFv1f4hMui7ozZdvoDs7jdOBPEkzAk/X9M86ikZVtLhvUECmckvMzaHzTmH2Tr7QdJOylfiTa6VhyZjWVE5iNxOEFczpykt/PEIV5PCUdz2/lDr79oJnZw1J9DR46FY7XuNR8f+rOr0tu//wOWX8n1"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "0f812436a6b48fccbf62280f8315f85d",
+    "text": "Systemzubehdr Systemzubeh\u00f6r 15 15 Durchflusskurven Durchflusskurven 16-22 16-22 Kontakt Kontakt 24 24",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Systemzubehdr Systemzubeh\u00f6r</td><td>15 15</td></tr><tr><td>Durchflusskurven Durchflusskurven</td><td>16-22 16-22</td></tr><tr><td>Kontakt Kontakt</td><td>24 24</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9U01vozAQ/SsW503AkBBYVT1E6alaKVK7PWxbIWMPgQ3YyDbVZqv89x0T8km1B/CMPe95Pp5fPz2ooQFps0p434kXz1KRJEUEC6C0SEKWAg3DiKZRUCQiWHjfiNeAZYJZhvGfnjMyozrN4ehDxjXg0hPSRRTSNKZxMA0cuD9vlKiK6j8BrVYcjDlHhEGU0GQazYNFFKcurgXdVMZUSppsyOb100Nml0cUhcFs/45hGrjSIqsVZ1bpPsWW2dLx+j8NaOPrinOmBQKN1cxWxl/veMl0s9bqN3BrfNHJjclaxX2heOe6Zfwfy4dshanKvGbWTltRePs93ldUNUjWuCS8L2KGCLtr+wjWtnWFmWEV/nBcM7np2AaMK8gDufFcGS3uZLJrcnA1hLhj4Y/NmMlK29SO6s6yvIb7O1sCE7hoZ96/sPoDlkrsyMuSXDp3Pp66iOhg+Q7gH8E5Bg0c4sCx0tUHkJcVufIQIfqY2cHqWQbYWuMEOw1PII3SZP1ERjsn+HwMfwZeysrwEkjfQ3K7cQLHk4TgN6b41dUML5QbRF/YJ2A6hjxUMmddw5ZAjuZbFwSigBOKBoQGY+RKd3zL8o2uigIzvPTOUEooHUNRJ5NH1bRKorQw1xv/DA8ndEb6/5jkaWcsNH+7HEqhyYXn8i9ifWaZE/pFv1f4hMui7ozZdvoDs7jdOBPEkzAk/X9M86ikZVtLhvUECmckvMzaHzTmH2Tr7QdJOylfiTa6VhyZjWVE5iNxOEFczpykt/PEIV5PCUdz2/lDr79oJnZw1J9DR46FY7XuNR8f+rOr0tu//wOWX8n1",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "17b08a413b046234fe316b1de438a273",
+    "text": "ValveBody (VB)  Der ValveBody ist die Kombi-  nation von zwei federbelasteten   Sicherheitsabsperrventilen in   einem Geh\u00e4use. Die Ventile sind   stromlos immer geschlossen. \n\nValveBody (VB)\n\n= KECIE e ol ol B B A1 ol cin & o DUNGSS 3k 1L i M 1 o oo == 0 b 0 - i = -_\u2014 \u20140\n\nValveDrive (VD) ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztVU1P3DAQ/SujHKoilV3nO6m0h24XIURBSBQugCLHHu+6TeLI9tJSxH/veAFRtajiuIdNYvnreeY9z8S+uo+wwx4H32gZfYQoY4rnJWaM1bUq21qUKGPBaTCrM8my6ANEPXouueeEv49Co3FmbQU+97ERFqnaGIzLNInrIi7YhIXFm/neSK30fwCjNQKde0EkLK3iapLmrEyLOuBGtL12TpvBNU9sru4jshx4pGnCsocbglkUxsqmM4J7YzcUR+5Xwe70wqF1U6uF4FbSQuct99pNz+7Eitv+zJpvKLybyvWwdM1oxFQasQ675aYn84NmQVSHtuPeT0apoocH8qd0hwPvA4noFcwTwt+NGwQfx04TM1IxfZru+LBc8yW6ICjCYRkFGSONNMO6bzFoSIMnjz99sHHJu1ucG3kH7y/newALtPAypp0HqRGOTd/qfYBh4wxuqfz6gRoUSrQtdtx5JKYAcK7FCu0KtXe8dbTN9pYUB1mgwzzqAXs4xNX1mjHM1g4nsCAPl48ocHqQBKPNNH1nHOi+J0YkSKyo63CYQND5vAVHPUmLSNDfqZjGiFmgl1Rx0eZcqSJhbZFXqi3KFMUuFbc8Ff+M8im3QdAtfg3QV6ItklRWQpSc4pszLosiztOsqgqVCVEn1S7aWxftN/3FvKxjVEnKW3ryrJBFLouaFWmJQnImd3HdurjO4Pjg89EBIJgufHN6P8WhJegCeAcGFhenh+fnkH6H+AtoOAGaBWNgNgMGLZV9Gp3BfnO9TlicwWPF3pQwSZ6UKssTURWyZJVSvE4US1VdsxqZUruE2YaEyf459heWTnc69xd7r13vN78B49NM9g=="
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e465acfacb5ee6745ee26704c5b59613",
+    "text": "ValveDrive (VD)  Der ValveDrive ist ein elek-  tronischer Stellantrieb mit   Schritt motor f\u00fcr die Spannungs-  varianten 100-240 VAC 50/60 Hz   und 24 VDC. Jeder ValveDrive   ist mit allen ValveBody-Ausf\u00fch-  rungen kombinierbar. Eine blaue   Betriebs- und eine optische   Stellungsanzeige sind standard-  m\u00e4\u00dfig im ValveDrive integriert.   Jeder ValveBody muss mit zwei   ValveDrives ausger\u00fcstet sein. \n\nFolgende Varianten sind verfiigbar:\n\n\u2022 VD-V-(AC/DC)\n\n.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztVE1P3DAQ/SujnEDqbpzPzXIDlqqt1KoSZS+AVo49ybokdmQ72wLiv3ccQICKKvXGgct+ZJ7fvDdvnPPbCDvsUfuNktEBRAlv8jxhjVgWDWZVkdZFLZdc1FVWV0tk0QeIevRccs8JfxuFHxtnRivw8T9uhEX6uidcZGmyLJOSzafDU703UjXqH4DBGoHOPSFSllVJNc8KtsjKZcANaHvlnDLabR7UnN9GxBx0ZFnK8rtLglkUxspNZwT3xk4SB+63gTc+c2hdbJUQ3Eo66LzlXrn4+7XYctt/t+YnCu9iOerWbQYjYmnEGKbl4q9HJ5sVSdV1x72fD7KJ7u6oX6M61LwPIqJXMA8Ifz1MCD4MnSJl5CJ+KHdctyNv0QVDEeo2CjYGerLRY19j8JCHTh5/+8Cx5t0OV1btEPbWq32AFVp49lA5D6g0UNBXMwBvjVZObAl06rGjdt4qrKFXHgBOxdYq76E3NC1oLkZGu2BBKoTTgWsdJkEkO24VHUQNCWOzNGewPjyGgsUlg083xDNqCWkO69XxHL6gfKkIJk2hIe9oWvelIyOvZ4eje+i5pS6WulH5yvS10gptze0cTpRGoIGOgecIJ/EkKTTEUDKDn+wFM8FfUMz1DaoWwSlCOc+1pMCpQR96YR4+ZaNaUP2LwZHBluitnxPZMxdBKvSjc5OHm1+oqP500AEfXYv23ojz6MGRtDmEeB+T/9xTohHl+NcNXJQp5wxTWVcik4iYZYJJkSyqsmBi8X4D39wN/Gg62lOJtAOP12LatB3aRqmW1vbgefTfuA0ud/gjnH9lBXKsk2ZRFSKt60SmZSFYInPEdFHwssrT9xV4cytwMaYsTel9N1vP9g6P49Xx/n9Fnog6lY3EkotlUzV5wnOslkkhiyYPb4D3yN9c5PPnAZ9pYsPWWHWD8j7kyz9ySgUR"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "a574c7bd1db736a2ca1d8d49872d3bd0",
+    "text": "\u2022 VD-R-(AC/DC) Ventilantrieb Auf/Zu und mit Druckregelungsfunktion\n\n\u2022 VD-(V/R)-(AC/DC)-POC Ventilantrieb Auf/Zu mit oder ohne Druckregelungsfunktion\n\nP == e e i b\n\n& 4 A \u2122 \u00a2 \u2014\n\n4 ... 24 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztVk1r3DAQ/SvCh5JAs9aXJauQQ5rtoYe2S2hzaBKMLI02btYfSHJpCPnvkZaElrKUHHrYw2KDZOtp5o3eY9DVQwEb6GGITWeLd6iwLSbp5ZwqwR0DzphijLbYGlnTShRvUdFD1FZHnfAPRZ40YZy9gZdvaIyHNGwDEskoUYIIvMB583a9H23nun8AJj8aCOE3gmJWk3rBKiyZUBk3ge+7ELpxCM0zm6uHIkXOPBJlzB9vEsyDGb1tNqPRcfRbipOOtzlu+S2AD6XvjNHepo0heh27UK7uza32/cqPP8DEUNp5WIdmGk1pRzPn0wrlp/cfmmWiOrQbHeNisq54fEz5XLeBQfeZRLED84yI99MWoadp0yVmqYryeXmjh/Ws1xByQQUM6yKXMaU/zTD3LeQaeM4U4VfMMa5niilFl8uTi5Ojs/NyeX6MLhPHLkWKvoMWnc2u/D6jebCo7yJa+tnceVjDJtfl5uEu58+5X2h91j6fxE/4mnOkZH/bRFBptGlrS6gQhkrFuCIGWi6kJjVjB5vssU2OLsuL4xernKy+nO+2S7ZKqtaj8XaA/2Ea4JI5zZ0QwuIa1zUhAoBYY5iRlaAH0+ydaVbo9BRBejrU/qn1xz7t2aUxB2NdpVrN21obTHTtqJaaOsmZwvrQGPZP41fpCrVUhshWGmptLRRXgkItTKukNcAP94L90/UN4ugMpbZPUtu/njHWeaDpcvc6xRWhrNKaVdZgirFyzvLa0Apcy7nAB8X3TnGOFosFohztEPjmCUYOxDM="
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "2aa247ec8c3df073980b4ba13c4a5320",
+    "text": "PressureSensor (PS)  Der PressureSensor ist ein hoch-  pr\u00e4ziser elektronischer Druck-  sensor mit digitalem Interface.   Der PS wird ausgangsseitig vom   ValveBody montiert.  Die Erfassung des Ausgangs-  drucks erfolgt durch den   PressureSensor. Das Drucksignal   wird \u00fcber das BUS-Kabel an den   VD-R \u00fcbermittelt. Der Sollwert   wird manuell am VD-R eingstellt.   \n\nS \") \u2018c ;f & B & \u00a2 A\n\nTechnische Daten MBE \n\nTechnische Daten MBE \n\nDUNGS\u00ae Combustion Controls\n\nMehrfachstellger\u00e4t MultiBloc\u00ae Generation E",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztV02P2zYQ/SuEDkUDdG3qg5LYnOJ6EQTFFos4m0sSGBQ5lNlIpEBSSTaL/e8dar1IGhTFHo3AB8OS+GbmzbwZinp3l8EAI9i4Nyr7nWSFBsVqwSSvZZ6X0HWQtwVXedt0Upc0+41kI0ShRBSIv8vSxT642Ut4vIe99IB/i8O8KYuc13lNV4vxsj46ZbT5H8DknYQQviEKWrZ5uyoZbcqaJ9wEfjQhGGfD/sjm3V2GnhOPsixodf8BYR6k82o/OCmi8wvFScRD8ru+CeDD2hsphVdoGKIX0YT19a08CD9ee/c3yBjWarZ92E9OrpWTc6pWWF9tLvdbpGq7QcS4mpTO7u8xnjYDWDEmEtl/YI6IeDstCDFNg0FmmMX6uDwI28+ih5ASysD2WUpjwid7O48dpBxYihThS0w+rj1WavawAxucJ79e754RsgVPflgwIRIwlhycPFwQMvn3M6VQfTVYBYJd8DF6Z02QB7zd+ll+RFB4MB1NJMr0JgpsFvLKRvBaSFiRY6Ad+Wy8ImIOPbJH3Uw0PfnkRgS8FcMn2Dh1S0ZnowEf0WxrgFyiD+Rne4KVJy+OthhUpeCBYAw39BgYe+uAGIvO/p3SimxFeOAaTG/FgIiFSMpMS6wVUQjY3Owu/hQdDETYo5+324vX31CYXoQBeaVkdm4YPiPLR1+jsDMMaDs+WGEJ+4DwhCckKfYo5qsRRcpQmh+HirVdTcuyVkxIXcsql2UOPG9lUbJWgD4P1ckN1ZN0bdta87pTQpSC1UljpvNcYWl50VBZn3U9OV135H32DCe/oDh+5Lkmv5AN/tJWIAry4mmycyi1BlEVrCqrotKcc8obylVXM8rKs+ynIHv9vexvQB4e3m1kCUYw7NP27kJSrGsDvBAgmrruqOSV5MCaWmqQ+Vnsn0hs2lRcso7jm7moWtbostXAGNZYadmy6iz2yYm9vfnr5W7ZvoH84cZuDskdXlo8zg7hSbI3TS5kxQo8n+WVaBRQynHaZUdLKBh0Z9lPTvYrOKRPkMNyEu/h+C0TydU8RLPBxI8t8RIs+CUUufy+F96YOGAvfPgHfPLK7w=="
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "44707fd31adfe6cd93f421e51228de05",
+    "text": "Nennweiten Nennweiten VB-050 VB-065 bis VB-150 VB-2L VB-2Y4L bis VB-6L VB-050: VB-065 bis VB-150: VB-2L: VB-2\u00bdL bis VB-6L: Rp 172 DN 65 - 150 NPT 172 NPS 212 Rp 1\u00bd - 2 DN 65 - 150 NPT 1\u00bd - 2 NPS 2\u00bd - 6",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Nennweiten Nennweiten</td><td>VB-050 VB-065 bis VB-150 VB-2L VB-2Y4L bis VB-6L VB-050: VB-065 bis VB-150: VB-2L: VB-2\u00bdL bis VB-6L:</td><td>Rp 172 DN 65 - 150 NPT 172 NPS 212 Rp 1\u00bd - 2 DN 65 - 150 NPT 1\u00bd - 2 NPS 2\u00bd - 6</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9Vm1vozgQ/isjpL3rqg0YQ4Ck3UrX3X6otptGbfdOp+0KGWMIV94ERtdu1fvtZ5uXkIRWVcIw88zj8djzND9eNJayjOXcT0JtCRryEA4jy/YWc2QvkEPn1HUWDLnYi6zQotoJaBnjJCScCPyLJg2/LpqKsv6d+bRi4qEITdfC5sIxHaQjmaziWREmUfIOoKwKyup6i8DI8kxPt+bItZyFxJWsypK6Toq89rtqfrxoglnWYVkY2a8/BaxitKhCPy0o4UWlSiwJ30he43vNqtqoEkpJFYrEmleEJ7WxfqYbUmXrqviHUV4bYZPHtV8W1AgL2shu1ca3i0v/iyg1D1LCuV6Gkfb6KtaLkpTlJJNFaBOYDsGfS4UgZZkmojKxC6MLpySPGxKzWm5IY3msyW2UwuPnTRYwuQdHeartsbmuSag9x+GcmDZxQ4bQgjBCA2QxPGeBJObsifuk9jc8S2XOGSdBys7P+IaRUDwqaZ6vWJ7/yxJRNGzNM0NEZPTPixmaI5APZw5BUkvTbD34Wn3/bV/3AUd5RMIS4CFXn4PMZefF1wI0QuGHBqEgHHEthypuSzBdDF9WIKhmINdfre+Vb7W+A2xikJCWQQCwoByBxZuC78RV4uBx2rUM2RSjb1BQhM9dn8Lzb+QpyUjKKrhM8licWVg19BGm3YIjVFm7/Ru37Xd8rev60LFtrx4ajLBjDi6B3+1QC3Cuh0Uy8qTD45qAgxBkAalO4L8V3CiXO7hikImm7bcPuFd/yS9Y310BtsVy2l/6Z1hXku3qCu5vQS7IFgqwm4u9Hn56CqVa/xOABwp6NJDpH9saVVu7Pv7R1LJNteqTuN0soRuYcg7bWzUVJDl8LbIgydXoQJZwsdQMyS8TGbYy5sjASFntJes/PWY59rTg5fagvsxuoclDGYMbJFpnoHaH6MQW+bKZhnnizIZG4RMkWJQfPGHLtdtdg/KCAb1DLLllEf4xjwxuqWCf67CBtyxmaZyIMYXWlKcUUc6GvRzP4QMIeavgGATtmgyRo5hl5AIuV+B5M2vidG6iKJfi90vIgDr+0Bl5Bh5KdHDgjj3qalxNUe6HIVhEkVKQPeo7ukkTdqGYW1vxRzvEv6X81JTEIC1Qpj5EJ0lJyjekiZL4sWOWDnVz7d7bEwAt0rok+acHDT9o7dxYDjI2h8Tfs5gFct+cZeI/D+HiEk74htLEkal+Beizasmxs31/Jza1NaMTHqPVa+2103Kp4SO17pV2V/mmBHesm53y7unhGwK8L5JvqF0vYb0QOO1VPurl6OOBsvVIt0O6Y6QQvD7uHQjKlBAOcBN1eG+Ln9SbNyRFikBL2ktB99Zqyv5Yj5Tl7fEeic17c743y+39MGGY5P5djjPIMW5veDtCw0AfjixMjSqoET2YQjjrBm56imA7L1Oj8N41Vz9Hup9A9/JWa68//wd1IRNB"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f53b51238e8fd95bfba95915a798ac1c",
+    "text": "Maximaler Eingangdruck Maximaler Eingangdruck VB-050 VB-065 0 VB-2L VB-2'2L...6L VB-050 VB-065\u2026150 VB-2L VB-2\u00bdL\u20266L max. kPa 600 mbar, ~N O kPa 700 mbar, g \u2014_\u2014 T T T iz PSI 240 \"W.C Prax. II TR \u00e9 PSI \u2014_\u2014 280 \"W.C ;; pmax. = 8 PSI (240 \"W.C.)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Maximaler Eingangdruck Maximaler Eingangdruck</td><td>VB-050 VB-065 0 VB-2L VB-2'2L...6L VB-050 VB-065\u2026150 VB-2L VB-2\u00bdL\u20266L</td><td>max. kPa 600 mbar, ~N O kPa 700 mbar, g \u2014_\u2014 T T T iz PSI 240 \"W.C Prax. II TR \u00e9 PSI \u2014_\u2014 280 \"W.C ;; pmax. = 8 PSI (240 \"W.C.)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9Vm1vozgQ/isjpL3rqg0YQ4Ck3UrX3X6otptGbfdOp+0KGWMIV94ERtdu1fvtZ5uXkIRWVcIw88zj8djzND9eNJayjOXcT0JtCRryEA4jy/YWc2QvkEPn1HUWDLnYi6zQotoJaBnjJCScCPyLJg2/LpqKsv6d+bRi4qEITdfC5sIxHaQjmaziWREmUfIOoKwKyup6i8DI8kxPt+bItZyFxJWsypK6Toq89rtqfrxoglnWYVkY2a8/BaxitKhCPy0o4UWlSiwJ30he43vNqtqoEkpJFYrEmleEJ7WxfqYbUmXrqviHUV4bYZPHtV8W1AgL2shu1ca3i0v/iyg1D1LCuV6Gkfb6KtaLkpTlJJNFaBOYDsGfS4UgZZkmojKxC6MLpySPGxKzWm5IY3msyW2UwuPnTRYwuQdHeartsbmuSag9x+GcmDZxQ4bQgjBCA2QxPGeBJObsifuk9jc8S2XOGSdBys7P+IaRUDwqaZ6vWJ7/yxJRNGzNM0NEZPTPixmaI5APZw5BUkvTbD34Wn3/bV/3AUd5RMIS4CFXn4PMZefF1wI0QuGHBqEgHHEthypuSzBdDF9WIKhmINdfre+Vb7W+A2xikJCWQQCwoByBxZuC78RV4uBx2rUM2RSjb1BQhM9dn8Lzb+QpyUjKKrhM8licWVg19BGm3YIjVFm7/Ru37Xd8rev60LFtrx4ajLBjDi6B3+1QC3Cuh0Uy8qTD45qAgxBkAalO4L8V3CiXO7hikImm7bcPuFd/yS9Y310BtsVy2l/6Z1hXku3qCu5vQS7IFgqwm4u9Hn56CqVa/xOABwp6NJDpH9saVVu7Pv7R1LJNteqTuN0soRuYcg7bWzUVJDl8LbIgydXoQJZwsdQMyS8TGbYy5sjASFntJes/PWY59rTg5fagvsxuoclDGYMbJFpnoHaH6MQW+bKZhnnizIZG4RMkWJQfPGHLtdtdg/KCAb1DLLllEf4xjwxuqWCf67CBtyxmaZyIMYXWlKcUUc6GvRzP4QMIeavgGATtmgyRo5hl5AIuV+B5M2vidG6iKJfi90vIgDr+0Bl5Bh5KdHDgjj3qalxNUe6HIVhEkVKQPeo7ukkTdqGYW1vxRzvEv6X81JTEIC1Qpj5EJ0lJyjekiZL4sWOWDnVz7d7bEwAt0rok+acHDT9o7dxYDjI2h8Tfs5gFct+cZeI/D+HiEk74htLEkal+Beizasmxs31/Jza1NaMTHqPVa+2103Kp4SO17pV2V/mmBHesm53y7unhGwK8L5JvqF0vYb0QOO1VPurl6OOBsvVIt0O6Y6QQvD7uHQjKlBAOcBN1eG+Ln9SbNyRFikBL2ktB99Zqyv5Yj5Tl7fEeic17c743y+39MGGY5P5djjPIMW5veDtCw0AfjixMjSqoET2YQjjrBm56imA7L1Oj8N41Vz9Hup9A9/JWa68//wd1IRNB",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "909a02b61570c8f633b39ed3548558a9",
+    "text": "Ausgangsdruckbereich Ausgangsdruckbereich Nur in Kombination mit PS-0 PS-10/40 PS-50/200 PS-0: PS-10/40: PS-50/200: VD-R und PS- O0kPa/0\"W.C 0,4-10 kPa/1,6-40 \"W.C 2,0-50 kPa/ 8,0-200 \"W.C. 0 kPa / 0 \"W.C. 0,4-10 kPa / 1,6-40 \"W.C. 2,0-50 kPa / 8,0-200 \"W.C. Regelgiite Regelg\u00fcte +5 % oder + 50 Pa (gemaB EN 88-3) Offnungszeit \u00d6ffnungszeit ca. 6 Sek. bis 100 % offen",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ausgangsdruckbereich Ausgangsdruckbereich</td><td>Nur in Kombination mit PS-0 PS-10/40 PS-50/200 PS-0: PS-10/40: PS-50/200:</td><td>VD-R und PS- O0kPa/0\"W.C 0,4-10 kPa/1,6-40 \"W.C 2,0-50 kPa/ 8,0-200 \"W.C. 0 kPa / 0 \"W.C. 0,4-10 kPa / 1,6-40 \"W.C. 2,0-50 kPa / 8,0-200 \"W.C.</td></tr><tr><td>Regelgiite Regelg\u00fcte</td><td>+5 % oder + 50 Pa</td><td>(gemaB EN 88-3)</td></tr><tr><td>Offnungszeit \u00d6ffnungszeit</td><td>ca. 6 Sek. bis 100 %</td><td>offen</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9Vm1vozgQ/isjpL3rqg0YQ4Ck3UrX3X6otptGbfdOp+0KGWMIV94ERtdu1fvtZ5uXkIRWVcIw88zj8djzND9eNJayjOXcT0JtCRryEA4jy/YWc2QvkEPn1HUWDLnYi6zQotoJaBnjJCScCPyLJg2/LpqKsv6d+bRi4qEITdfC5sIxHaQjmaziWREmUfIOoKwKyup6i8DI8kxPt+bItZyFxJWsypK6Toq89rtqfrxoglnWYVkY2a8/BaxitKhCPy0o4UWlSiwJ30he43vNqtqoEkpJFYrEmleEJ7WxfqYbUmXrqviHUV4bYZPHtV8W1AgL2shu1ca3i0v/iyg1D1LCuV6Gkfb6KtaLkpTlJJNFaBOYDsGfS4UgZZkmojKxC6MLpySPGxKzWm5IY3msyW2UwuPnTRYwuQdHeartsbmuSag9x+GcmDZxQ4bQgjBCA2QxPGeBJObsifuk9jc8S2XOGSdBys7P+IaRUDwqaZ6vWJ7/yxJRNGzNM0NEZPTPixmaI5APZw5BUkvTbD34Wn3/bV/3AUd5RMIS4CFXn4PMZefF1wI0QuGHBqEgHHEthypuSzBdDF9WIKhmINdfre+Vb7W+A2xikJCWQQCwoByBxZuC78RV4uBx2rUM2RSjb1BQhM9dn8Lzb+QpyUjKKrhM8licWVg19BGm3YIjVFm7/Ru37Xd8rev60LFtrx4ajLBjDi6B3+1QC3Cuh0Uy8qTD45qAgxBkAalO4L8V3CiXO7hikImm7bcPuFd/yS9Y310BtsVy2l/6Z1hXku3qCu5vQS7IFgqwm4u9Hn56CqVa/xOABwp6NJDpH9saVVu7Pv7R1LJNteqTuN0soRuYcg7bWzUVJDl8LbIgydXoQJZwsdQMyS8TGbYy5sjASFntJes/PWY59rTg5fagvsxuoclDGYMbJFpnoHaH6MQW+bKZhnnizIZG4RMkWJQfPGHLtdtdg/KCAb1DLLllEf4xjwxuqWCf67CBtyxmaZyIMYXWlKcUUc6GvRzP4QMIeavgGATtmgyRo5hl5AIuV+B5M2vidG6iKJfi90vIgDr+0Bl5Bh5KdHDgjj3qalxNUe6HIVhEkVKQPeo7ukkTdqGYW1vxRzvEv6X81JTEIC1Qpj5EJ0lJyjekiZL4sWOWDnVz7d7bEwAt0rok+acHDT9o7dxYDjI2h8Tfs5gFct+cZeI/D+HiEk74htLEkal+Beizasmxs31/Jza1NaMTHqPVa+2103Kp4SO17pV2V/mmBHesm53y7unhGwK8L5JvqF0vYb0QOO1VPurl6OOBsvVIt0O6Y6QQvD7uHQjKlBAOcBN1eG+Ln9SbNyRFikBL2ktB99Zqyv5Yj5Tl7fEeic17c743y+39MGGY5P5djjPIMW5veDtCw0AfjixMjSqoET2YQjjrBm56imA7L1Oj8N41Vz9Hup9A9/JWa68//wd1IRNB",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ee85f9c0ddcd96231a9a4272c41da4d0",
+    "text": "SchlieBzeit Schlie\u00dfzeit <1 Sek < 1 Sek. Schalthaufigkeit Schalth\u00e4ufigkeit max. 360/h Umgebungstemperatur Umgebungstemperatur -20 \u00b0C bis +60 \u00b0C -20 \u00b0C bis +60 \u00b0C",
+    "metadata": {
+      "text_as_html": "<table><tr><td>SchlieBzeit Schlie\u00dfzeit</td><td>&lt;1 Sek &lt; 1 Sek.</td><td/></tr><tr><td>Schalthaufigkeit Schalth\u00e4ufigkeit</td><td>max. 360/h</td></tr><tr><td>Umgebungstemperatur Umgebungstemperatur</td><td>-20 \u00b0C bis +60 \u00b0C -20 \u00b0C bis +60 \u00b0C</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9Vm1vozgQ/isjpL3rqg0YQ4Ck3UrX3X6otptGbfdOp+0KGWMIV94ERtdu1fvtZ5uXkIRWVcIw88zj8djzND9eNJayjOXcT0JtCRryEA4jy/YWc2QvkEPn1HUWDLnYi6zQotoJaBnjJCScCPyLJg2/LpqKsv6d+bRi4qEITdfC5sIxHaQjmaziWREmUfIOoKwKyup6i8DI8kxPt+bItZyFxJWsypK6Toq89rtqfrxoglnWYVkY2a8/BaxitKhCPy0o4UWlSiwJ30he43vNqtqoEkpJFYrEmleEJ7WxfqYbUmXrqviHUV4bYZPHtV8W1AgL2shu1ca3i0v/iyg1D1LCuV6Gkfb6KtaLkpTlJJNFaBOYDsGfS4UgZZkmojKxC6MLpySPGxKzWm5IY3msyW2UwuPnTRYwuQdHeartsbmuSag9x+GcmDZxQ4bQgjBCA2QxPGeBJObsifuk9jc8S2XOGSdBys7P+IaRUDwqaZ6vWJ7/yxJRNGzNM0NEZPTPixmaI5APZw5BUkvTbD34Wn3/bV/3AUd5RMIS4CFXn4PMZefF1wI0QuGHBqEgHHEthypuSzBdDF9WIKhmINdfre+Vb7W+A2xikJCWQQCwoByBxZuC78RV4uBx2rUM2RSjb1BQhM9dn8Lzb+QpyUjKKrhM8licWVg19BGm3YIjVFm7/Ru37Xd8rev60LFtrx4ajLBjDi6B3+1QC3Cuh0Uy8qTD45qAgxBkAalO4L8V3CiXO7hikImm7bcPuFd/yS9Y310BtsVy2l/6Z1hXku3qCu5vQS7IFgqwm4u9Hn56CqVa/xOABwp6NJDpH9saVVu7Pv7R1LJNteqTuN0soRuYcg7bWzUVJDl8LbIgydXoQJZwsdQMyS8TGbYy5sjASFntJes/PWY59rTg5fagvsxuoclDGYMbJFpnoHaH6MQW+bKZhnnizIZG4RMkWJQfPGHLtdtdg/KCAb1DLLllEf4xjwxuqWCf67CBtyxmaZyIMYXWlKcUUc6GvRzP4QMIeavgGATtmgyRo5hl5AIuV+B5M2vidG6iKJfi90vIgDr+0Bl5Bh5KdHDgjj3qalxNUe6HIVhEkVKQPeo7ukkTdqGYW1vxRzvEv6X81JTEIC1Qpj5EJ0lJyjekiZL4sWOWDnVz7d7bEwAt0rok+acHDT9o7dxYDjI2h8Tfs5gFct+cZeI/D+HiEk74htLEkal+Beizasmxs31/Jza1NaMTHqPVa+2103Kp4SO17pV2V/mmBHesm53y7unhGwK8L5JvqF0vYb0QOO1VPurl6OOBsvVIt0O6Y6QQvD7uHQjKlBAOcBN1eG+Ln9SbNyRFikBL2ktB99Zqyv5Yj5Tl7fEeic17c743y+39MGGY5P5djjPIMW5veDtCw0AfjixMjSqoET2YQjjrBm56imA7L1Oj8N41Vz9Hup9A9/JWa68//wd1IRNB",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fcee23c7b6e4654de04ffc26286b07c9",
+    "text": "Technische Daten MBE \n\nTechnische Daten MBE \n\nMehrfachstellger\u00e4t MultiBloc\u00ae Generation E",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztUstq3DAU/RWjdRnrYctSl6GhdDGQRbpKg7mWrscqfiHJ0DDMv1cyE1pKKVmGMitZ0rnn4aOnM8ERJ5xj6yz5WJAemqZBrgSzkgvGraIS6tpW0EmOgpMPBZkwgoUICX8m+aMNy+YNvu6xNR7TshOyRnCmJZP0QPPwfj8t1vXuH4DVLwZD+IXgVCimDqKmjZA641b0kwvBLXNor26eziQxZx9CcFpdnhPMo1m8bcfFQFz8bnGFOGTe8mtAH0rvjAFv02CIHqIL5cOLGcBPD375jiaG0m7zKbTrYkq7mC3/rVAe7+7bT8nq3I0Q42G1Pblckl7vRpxhyibIXzBXRHxZdwSs6+iSs5SivF6PMJ82OGHIgQjOJ5JjrOmknbepw5yhyUoRf8TM8YhmmF0wAxa7WJFki8z0KvJlSsMkjfxZNquMbrCXaGveCSORg+5r4E3Voe0ovZX9H5WNFa1YbTVWAqRRVFODlaFCSMZ0ZZtb2e+u7Df1SrVSFBmzWjcdKmkAtNSgVC8sdOLW6/vr9YiD78EMIeI4ntB/2yjFKhbHbYzuLgXPB4DFZ5zR71LF/e9v4dHFMb2F5582LXWC"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "45c1a2d3aa00d03159a408a761ea2540",
+    "text": "Medien Medien",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Medien Medien</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1V21v00gQ/iujSHdqdUm8thPH6SGkvhEiXoTUo3wAFK3tcbJXe+3bXQMt6n+/WdtJSuqWgOBLvZ2d95l9nvb91x5mmKM0C5H0jqDnJ144CZIgjZOpF7NRMgo9nIYxj6fumI/TXh96ORqecMNJ/2vPHha6qFSM699xESukT+3QnfieOw3cgA2ZNa7v8yIRqXhEoVRFjFpvNTzmh2449Mds4gdTq1eiyoXWopB60Wbz/muPPNs8fN9jo9uPpKYwLlSyyIqYm0LVKZbcrKxf561GpR0l4pirhAy1UdwI7by5jldc5W9U8S/GRjtJJZd6URaxkxRxZbulnVcn54szSlVGGTdmWCZp7/aW4qUiQ8lzm0SvQ6fVMNdlrcHLMhOUGVXhtNcZl8uKL1Hbgnoolz1bRkmShazyCG0Nk1qitmNj0zBk6LrJdDqJMAxizqfBlIdh6ic88ifWscEvZsH1YmXyzNo8MTzK8OkTs0Ke0EfZ49NXmAiU0HyeOCSx0hnm/ATOX8PInxx5zA1hhiiWEg2kmYIZ1wgJ1oeU5yKzLtw+eH3w4eDscvYOZuAF7LAPLmPwB7zj2vbeFGkKB0YVA4ivUNL1iaBzJRN4kXG1tG635h4cHB8eQiQ05PzLkAIwuCyyIfl73r+AgxSreGX68Jc3hg8VYxE7PYRPhYpwxTNDfV4Blxk1UuoSb2gBdbxqcuaSZ9cahzCX8CyzW7VcWmmtTIVRP07Oh8MhSHJiKD9DdmwdBCI0CkWEcgivKwWpEArIPrX3OKU1pWnCs7mAxi8s2971qXmijobwoljR4nze9gXhxp5aHzYNgXBm439GddWoDGkMea0xsj+T9JsRfZB3pmTv0/hXjIrc/lBTSb+j7iaf79eeBg/V3iynY/fWWe9wVCTX7SonTy/pfYgMLqm69dGDLiHZJ7UFLR3lAMdwQH10A5eaMFNVWSJ4jcgPXPcQ9lNrvNb5tQmdZ3hlVNuhY0nfrNIausWbpC4MxlefUEVCWiACyannZ/PXdtbuZOwzdxAyHy7iVWVurprU5plNxHn7EgICTDagpPdzQ8P61tF819H9si5KLqV16cAzhf9VKG+gQ7Yp6PJsAIPj0yO7YANvRI/4+LQPY+YEDJ7fQH19dnrkjeh4Cn+Bb9fwXNjG0MolvKI2NbtJqh8qj3nBw+6ooC7T+1W8RKGNBXpepZKvcgQiIYpwN22CgDpSAz8BRQInhHe15rGkGWK0jUZsUuStKu3KZ76iTU6A9ZkHelNlo7CXE2a9NHhw11XHQOoJcmVgc9pUMX8D43Ez/Pn5KYy9ab2yAaPTITx62xkoJ/8pURYKqewDtTPvFm8Xuq1wgwctGonMnnL7JAhgCDPrDhB40aNPLLhaw/tJXIpI1QyqFWqaoV2/DlnXHJdYKiFS01S8frnb2Txw/yfPy7/h1fzlIHTZbGcLrU0Dbrt2tIpb1bNHVXdC3CnaaTHOadi7d9sye/33RsPdj3HC7yCEDu5u4v8IgXu/kMC33HKfxZv270nk6x6tyZzIqCXzdYzB7+G2Tprak3ce4JM9CeB78N+F7Pvg8M7qt+BeN959BOEfQuWdkHcBeT8w3WDpaBeW72T5M9j8rb8tFD8OvA8h6c9CZSco7olTP4BSG4Sq/8Fo/6n5xyJT7/bj/7Xfh+s="
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ecfa03b55a329912355240d0226d06cc",
+    "text": "GemaB EN 437:2018 Geeignet flr Gase der Gasfamilien 1, 2, 3 (DVGW G 260), 100 % Wasserstoff (tro- cken), Bio- und Klargase (DVGW G 262 (A)) bis max. 1,0 Vol. % H,S (feucht, +25 \u00b0C) vorbehaltlich anlagenspezifischer Gasanalyse. In Flissiggasanlagen den MBE... nicht unter 0 \u00b0C betreiben. Nur fiir gasf\u00e9rmiges FIi siggas geeignet, fliissige Kohlenwasserstoffe zerst\u00e9ren die Dichtwerkstoffe. Gem\u00e4\u00df EN 437:2018 Geeignet f\u00fcr Gase der Gasfamilien 1, 2, 3 (DVGW G 260), 100 %",
+    "metadata": {
+      "text_as_html": "<table><tr><td>GemaB EN 437:2018 Geeignet flr Gase der Gasfamilien 1, 2, 3 (DVGW G 260), 100 % Wasserstoff (tro- cken), Bio- und Klargase (DVGW G 262 (A)) bis max. 1,0 Vol. % H,S (feucht, +25 \u00b0C) vorbehaltlich anlagenspezifischer Gasanalyse. In Flissiggasanlagen den MBE... nicht unter 0 \u00b0C betreiben. Nur fiir gasf\u00e9rmiges FIi siggas geeignet, fliissige Kohlenwasserstoffe zerst\u00e9ren die Dichtwerkstoffe. Gem\u00e4\u00df EN 437:2018 Geeignet f\u00fcr Gase der Gasfamilien 1, 2, 3 (DVGW G 260), 100 %</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1V21v00gQ/iujSHdqdUm8thPH6SGkvhEiXoTUo3wAFK3tcbJXe+3bXQMt6n+/WdtJSuqWgOBLvZ2d95l9nvb91x5mmKM0C5H0jqDnJ144CZIgjZOpF7NRMgo9nIYxj6fumI/TXh96ORqecMNJ/2vPHha6qFSM699xESukT+3QnfieOw3cgA2ZNa7v8yIRqXhEoVRFjFpvNTzmh2449Mds4gdTq1eiyoXWopB60Wbz/muPPNs8fN9jo9uPpKYwLlSyyIqYm0LVKZbcrKxf561GpR0l4pirhAy1UdwI7by5jldc5W9U8S/GRjtJJZd6URaxkxRxZbulnVcn54szSlVGGTdmWCZp7/aW4qUiQ8lzm0SvQ6fVMNdlrcHLMhOUGVXhtNcZl8uKL1Hbgnoolz1bRkmShazyCG0Nk1qitmNj0zBk6LrJdDqJMAxizqfBlIdh6ic88ifWscEvZsH1YmXyzNo8MTzK8OkTs0Ke0EfZ49NXmAiU0HyeOCSx0hnm/ATOX8PInxx5zA1hhiiWEg2kmYIZ1wgJ1oeU5yKzLtw+eH3w4eDscvYOZuAF7LAPLmPwB7zj2vbeFGkKB0YVA4ivUNL1iaBzJRN4kXG1tG635h4cHB8eQiQ05PzLkAIwuCyyIfl73r+AgxSreGX68Jc3hg8VYxE7PYRPhYpwxTNDfV4Blxk1UuoSb2gBdbxqcuaSZ9cahzCX8CyzW7VcWmmtTIVRP07Oh8MhSHJiKD9DdmwdBCI0CkWEcgivKwWpEArIPrX3OKU1pWnCs7mAxi8s2971qXmijobwoljR4nze9gXhxp5aHzYNgXBm439GddWoDGkMea0xsj+T9JsRfZB3pmTv0/hXjIrc/lBTSb+j7iaf79eeBg/V3iynY/fWWe9wVCTX7SonTy/pfYgMLqm69dGDLiHZJ7UFLR3lAMdwQH10A5eaMFNVWSJ4jcgPXPcQ9lNrvNb5tQmdZ3hlVNuhY0nfrNIausWbpC4MxlefUEVCWiACyannZ/PXdtbuZOwzdxAyHy7iVWVurprU5plNxHn7EgICTDagpPdzQ8P61tF819H9si5KLqV16cAzhf9VKG+gQ7Yp6PJsAIPj0yO7YANvRI/4+LQPY+YEDJ7fQH19dnrkjeh4Cn+Bb9fwXNjG0MolvKI2NbtJqh8qj3nBw+6ooC7T+1W8RKGNBXpepZKvcgQiIYpwN22CgDpSAz8BRQInhHe15rGkGWK0jUZsUuStKu3KZ76iTU6A9ZkHelNlo7CXE2a9NHhw11XHQOoJcmVgc9pUMX8D43Ez/Pn5KYy9ab2yAaPTITx62xkoJ/8pURYKqewDtTPvFm8Xuq1wgwctGonMnnL7JAhgCDPrDhB40aNPLLhaw/tJXIpI1QyqFWqaoV2/DlnXHJdYKiFS01S8frnb2Txw/yfPy7/h1fzlIHTZbGcLrU0Dbrt2tIpb1bNHVXdC3CnaaTHOadi7d9sye/33RsPdj3HC7yCEDu5u4v8IgXu/kMC33HKfxZv270nk6x6tyZzIqCXzdYzB7+G2Tprak3ce4JM9CeB78N+F7Pvg8M7qt+BeN959BOEfQuWdkHcBeT8w3WDpaBeW72T5M9j8rb8tFD8OvA8h6c9CZSco7olTP4BSG4Sq/8Fo/6n5xyJT7/bj/7Xfh+s=",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "970718c22c07124a59221550a516997f",
+    "text": "Wasserstoff (tro- vorbehaltlich anlagenspezifischer Gasanalyse. siggas geeignet, fl\u00fcssige Kohlenwasserstoffe zerst\u00f6ren die Dichtwerkstoffe.",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Wasserstoff (tro- vorbehaltlich anlagenspezifischer Gasanalyse. siggas geeignet, fl\u00fcssige Kohlenwasserstoffe zerst\u00f6ren die Dichtwerkstoffe.</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1V21v00gQ/iujSHdqdUm8thPH6SGkvhEiXoTUo3wAFK3tcbJXe+3bXQMt6n+/WdtJSuqWgOBLvZ2d95l9nvb91x5mmKM0C5H0jqDnJ144CZIgjZOpF7NRMgo9nIYxj6fumI/TXh96ORqecMNJ/2vPHha6qFSM699xESukT+3QnfieOw3cgA2ZNa7v8yIRqXhEoVRFjFpvNTzmh2449Mds4gdTq1eiyoXWopB60Wbz/muPPNs8fN9jo9uPpKYwLlSyyIqYm0LVKZbcrKxf561GpR0l4pirhAy1UdwI7by5jldc5W9U8S/GRjtJJZd6URaxkxRxZbulnVcn54szSlVGGTdmWCZp7/aW4qUiQ8lzm0SvQ6fVMNdlrcHLMhOUGVXhtNcZl8uKL1Hbgnoolz1bRkmShazyCG0Nk1qitmNj0zBk6LrJdDqJMAxizqfBlIdh6ic88ifWscEvZsH1YmXyzNo8MTzK8OkTs0Ke0EfZ49NXmAiU0HyeOCSx0hnm/ATOX8PInxx5zA1hhiiWEg2kmYIZ1wgJ1oeU5yKzLtw+eH3w4eDscvYOZuAF7LAPLmPwB7zj2vbeFGkKB0YVA4ivUNL1iaBzJRN4kXG1tG635h4cHB8eQiQ05PzLkAIwuCyyIfl73r+AgxSreGX68Jc3hg8VYxE7PYRPhYpwxTNDfV4Blxk1UuoSb2gBdbxqcuaSZ9cahzCX8CyzW7VcWmmtTIVRP07Oh8MhSHJiKD9DdmwdBCI0CkWEcgivKwWpEArIPrX3OKU1pWnCs7mAxi8s2971qXmijobwoljR4nze9gXhxp5aHzYNgXBm439GddWoDGkMea0xsj+T9JsRfZB3pmTv0/hXjIrc/lBTSb+j7iaf79eeBg/V3iynY/fWWe9wVCTX7SonTy/pfYgMLqm69dGDLiHZJ7UFLR3lAMdwQH10A5eaMFNVWSJ4jcgPXPcQ9lNrvNb5tQmdZ3hlVNuhY0nfrNIausWbpC4MxlefUEVCWiACyannZ/PXdtbuZOwzdxAyHy7iVWVurprU5plNxHn7EgICTDagpPdzQ8P61tF819H9si5KLqV16cAzhf9VKG+gQ7Yp6PJsAIPj0yO7YANvRI/4+LQPY+YEDJ7fQH19dnrkjeh4Cn+Bb9fwXNjG0MolvKI2NbtJqh8qj3nBw+6ooC7T+1W8RKGNBXpepZKvcgQiIYpwN22CgDpSAz8BRQInhHe15rGkGWK0jUZsUuStKu3KZ76iTU6A9ZkHelNlo7CXE2a9NHhw11XHQOoJcmVgc9pUMX8D43Ez/Pn5KYy9ab2yAaPTITx62xkoJ/8pURYKqewDtTPvFm8Xuq1wgwctGonMnnL7JAhgCDPrDhB40aNPLLhaw/tJXIpI1QyqFWqaoV2/DlnXHJdYKiFS01S8frnb2Txw/yfPy7/h1fzlIHTZbGcLrU0Dbrt2tIpb1bNHVXdC3CnaaTHOadi7d9sye/33RsPdj3HC7yCEDu5u4v8IgXu/kMC33HKfxZv270nk6x6tyZzIqCXzdYzB7+G2Tprak3ce4JM9CeB78N+F7Pvg8M7qt+BeN959BOEfQuWdkHcBeT8w3WDpaBeW72T5M9j8rb8tFD8OvA8h6c9CZSco7olTP4BSG4Sq/8Fo/6n5xyJT7/bj/7Xfh+s=",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "e42c74ef2b34633d8b81101000eae03d",
+    "text": "Ventil V1, Ventil V2 Ventil V1, Ventil V2 Klasse A (EN 161), Gruppe 2 (EN 13611) Klasse A (EN 161), Gruppe 2 (EN 13611) Elektrischer Anschluss Elektrischer Anschluss Steckverbindung nach DIN EN 175301-803 Schutzklasse Il (EN/UL 60730-1) Steckverbindung nach DIN EN 175301-803 Schutzklasse II (EN/UL 60730-1)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ventil V1, Ventil V2 Ventil V1, Ventil V2</td><td>Klasse A (EN 161), Gruppe 2 (EN 13611) Klasse A (EN 161), Gruppe 2 (EN 13611)</td></tr><tr><td>Elektrischer Anschluss Elektrischer Anschluss</td><td>Steckverbindung nach DIN EN 175301-803 Schutzklasse Il (EN/UL 60730-1) Steckverbindung nach DIN EN 175301-803 Schutzklasse II (EN/UL 60730-1)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1V21v00gQ/iujSHdqdUm8thPH6SGkvhEiXoTUo3wAFK3tcbJXe+3bXQMt6n+/WdtJSuqWgOBLvZ2d95l9nvb91x5mmKM0C5H0jqDnJ144CZIgjZOpF7NRMgo9nIYxj6fumI/TXh96ORqecMNJ/2vPHha6qFSM699xESukT+3QnfieOw3cgA2ZNa7v8yIRqXhEoVRFjFpvNTzmh2449Mds4gdTq1eiyoXWopB60Wbz/muPPNs8fN9jo9uPpKYwLlSyyIqYm0LVKZbcrKxf561GpR0l4pirhAy1UdwI7by5jldc5W9U8S/GRjtJJZd6URaxkxRxZbulnVcn54szSlVGGTdmWCZp7/aW4qUiQ8lzm0SvQ6fVMNdlrcHLMhOUGVXhtNcZl8uKL1Hbgnoolz1bRkmShazyCG0Nk1qitmNj0zBk6LrJdDqJMAxizqfBlIdh6ic88ifWscEvZsH1YmXyzNo8MTzK8OkTs0Ke0EfZ49NXmAiU0HyeOCSx0hnm/ATOX8PInxx5zA1hhiiWEg2kmYIZ1wgJ1oeU5yKzLtw+eH3w4eDscvYOZuAF7LAPLmPwB7zj2vbeFGkKB0YVA4ivUNL1iaBzJRN4kXG1tG635h4cHB8eQiQ05PzLkAIwuCyyIfl73r+AgxSreGX68Jc3hg8VYxE7PYRPhYpwxTNDfV4Blxk1UuoSb2gBdbxqcuaSZ9cahzCX8CyzW7VcWmmtTIVRP07Oh8MhSHJiKD9DdmwdBCI0CkWEcgivKwWpEArIPrX3OKU1pWnCs7mAxi8s2971qXmijobwoljR4nze9gXhxp5aHzYNgXBm439GddWoDGkMea0xsj+T9JsRfZB3pmTv0/hXjIrc/lBTSb+j7iaf79eeBg/V3iynY/fWWe9wVCTX7SonTy/pfYgMLqm69dGDLiHZJ7UFLR3lAMdwQH10A5eaMFNVWSJ4jcgPXPcQ9lNrvNb5tQmdZ3hlVNuhY0nfrNIausWbpC4MxlefUEVCWiACyannZ/PXdtbuZOwzdxAyHy7iVWVurprU5plNxHn7EgICTDagpPdzQ8P61tF819H9si5KLqV16cAzhf9VKG+gQ7Yp6PJsAIPj0yO7YANvRI/4+LQPY+YEDJ7fQH19dnrkjeh4Cn+Bb9fwXNjG0MolvKI2NbtJqh8qj3nBw+6ooC7T+1W8RKGNBXpepZKvcgQiIYpwN22CgDpSAz8BRQInhHe15rGkGWK0jUZsUuStKu3KZ76iTU6A9ZkHelNlo7CXE2a9NHhw11XHQOoJcmVgc9pUMX8D43Ez/Pn5KYy9ab2yAaPTITx62xkoJ/8pURYKqewDtTPvFm8Xuq1wgwctGonMnnL7JAhgCDPrDhB40aNPLLhaw/tJXIpI1QyqFWqaoV2/DlnXHJdYKiFS01S8frnb2Txw/yfPy7/h1fzlIHTZbGcLrU0Dbrt2tIpb1bNHVXdC3CnaaTHOadi7d9sye/33RsPdj3HC7yCEDu5u4v8IgXu/kMC33HKfxZv270nk6x6tyZzIqCXzdYzB7+G2Tprak3ce4JM9CeB78N+F7Pvg8M7qt+BeN959BOEfQuWdkHcBeT8w3WDpaBeW72T5M9j8rb8tFD8OvA8h6c9CZSco7olTP4BSG4Sq/8Fo/6n5xyJT7/bj/7Xfh+s=",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "0477b7ae13f0c9313338514ea841faaa",
+    "text": "Spannung / Frequenz Spannung / Frequenz VD- -AC: 100-240 VAC, 50/60 Hz VD- -DC:24 VDC + 30 % Einschaltdauer 100 % VD-\u2026-AC: 100-240 VAC, 50/60 Hz Einschaltdauer 100 % Leistungsaufnahme pro VD VD-...-AC: max. 16 VA /8 W pro Antrieb Einschaltstrom max. 1 A wahrend 0,02 s VD- -DC: max. 8 W pro Antrieb Einschaltstrom max. 10 A w\u00e9hrend 0,02 s Schutzart Schutzart IP 55 nach IEC 529 (EN 60529) IP 55 nach IEC 529 (EN 60529)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Spannung / Frequenz Spannung / Frequenz</td><td>VD- -AC: 100-240 VAC, 50/60 Hz VD- -DC:24 VDC + 30 % Einschaltdauer 100 % VD-\u2026-AC: 100-240 VAC, 50/60 Hz Einschaltdauer 100 %</td></tr><tr><td>Leistungsaufnahme pro VD</td><td>VD-...-AC: max. 16 VA /8 W pro Antrieb Einschaltstrom max. 1 A wahrend 0,02 s VD- -DC: max. 8 W pro Antrieb Einschaltstrom max. 10 A w\u00e9hrend 0,02 s</td></tr><tr><td>Schutzart Schutzart</td><td>IP 55 nach IEC 529 (EN 60529) IP 55 nach IEC 529 (EN 60529)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1V21v00gQ/iujSHdqdUm8thPH6SGkvhEiXoTUo3wAFK3tcbJXe+3bXQMt6n+/WdtJSuqWgOBLvZ2d95l9nvb91x5mmKM0C5H0jqDnJ144CZIgjZOpF7NRMgo9nIYxj6fumI/TXh96ORqecMNJ/2vPHha6qFSM699xESukT+3QnfieOw3cgA2ZNa7v8yIRqXhEoVRFjFpvNTzmh2449Mds4gdTq1eiyoXWopB60Wbz/muPPNs8fN9jo9uPpKYwLlSyyIqYm0LVKZbcrKxf561GpR0l4pirhAy1UdwI7by5jldc5W9U8S/GRjtJJZd6URaxkxRxZbulnVcn54szSlVGGTdmWCZp7/aW4qUiQ8lzm0SvQ6fVMNdlrcHLMhOUGVXhtNcZl8uKL1Hbgnoolz1bRkmShazyCG0Nk1qitmNj0zBk6LrJdDqJMAxizqfBlIdh6ic88ifWscEvZsH1YmXyzNo8MTzK8OkTs0Ke0EfZ49NXmAiU0HyeOCSx0hnm/ATOX8PInxx5zA1hhiiWEg2kmYIZ1wgJ1oeU5yKzLtw+eH3w4eDscvYOZuAF7LAPLmPwB7zj2vbeFGkKB0YVA4ivUNL1iaBzJRN4kXG1tG635h4cHB8eQiQ05PzLkAIwuCyyIfl73r+AgxSreGX68Jc3hg8VYxE7PYRPhYpwxTNDfV4Blxk1UuoSb2gBdbxqcuaSZ9cahzCX8CyzW7VcWmmtTIVRP07Oh8MhSHJiKD9DdmwdBCI0CkWEcgivKwWpEArIPrX3OKU1pWnCs7mAxi8s2971qXmijobwoljR4nze9gXhxp5aHzYNgXBm439GddWoDGkMea0xsj+T9JsRfZB3pmTv0/hXjIrc/lBTSb+j7iaf79eeBg/V3iynY/fWWe9wVCTX7SonTy/pfYgMLqm69dGDLiHZJ7UFLR3lAMdwQH10A5eaMFNVWSJ4jcgPXPcQ9lNrvNb5tQmdZ3hlVNuhY0nfrNIausWbpC4MxlefUEVCWiACyannZ/PXdtbuZOwzdxAyHy7iVWVurprU5plNxHn7EgICTDagpPdzQ8P61tF819H9si5KLqV16cAzhf9VKG+gQ7Yp6PJsAIPj0yO7YANvRI/4+LQPY+YEDJ7fQH19dnrkjeh4Cn+Bb9fwXNjG0MolvKI2NbtJqh8qj3nBw+6ooC7T+1W8RKGNBXpepZKvcgQiIYpwN22CgDpSAz8BRQInhHe15rGkGWK0jUZsUuStKu3KZ76iTU6A9ZkHelNlo7CXE2a9NHhw11XHQOoJcmVgc9pUMX8D43Ez/Pn5KYy9ab2yAaPTITx62xkoJ/8pURYKqewDtTPvFm8Xuq1wgwctGonMnnL7JAhgCDPrDhB40aNPLLhaw/tJXIpI1QyqFWqaoV2/DlnXHJdYKiFS01S8frnb2Txw/yfPy7/h1fzlIHTZbGcLrU0Dbrt2tIpb1bNHVXdC3CnaaTHOadi7d9sye/33RsPdj3HC7yCEDu5u4v8IgXu/kMC33HKfxZv270nk6x6tyZzIqCXzdYzB7+G2Tprak3ce4JM9CeB78N+F7Pvg8M7qt+BeN959BOEfQuWdkHcBeT8w3WDpaBeW72T5M9j8rb8tFD8OvA8h6c9CZSco7olTP4BSG4Sq/8Fo/6n5xyJT7/bj/7Xfh+s=",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "28947c2ced9c0f6990e0496b1a21d084",
+    "text": "Schmutzfangeinrichtung Schmutzfangeinrichtung Sieb Ein geeigneter Gasfilter muss vorgeschaltet werden. Sieb Vibrationsresistenz Vibrationsresistenz VD-...-AC: gepriift nach EN 13611 VD- -DC: gepriift nach EN 13611 & MIL-810G VD-\u2026-AC: gepr\u00fcft nach EN 13611 VD-\u2026-DC: gepr\u00fcft nach EN 13611 & MIL-810G",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Schmutzfangeinrichtung Schmutzfangeinrichtung</td><td>Sieb Ein geeigneter Gasfilter muss vorgeschaltet werden. Sieb</td></tr><tr><td>Vibrationsresistenz Vibrationsresistenz</td><td>VD-...-AC: gepriift nach EN 13611 VD- -DC: gepriift nach EN 13611 &amp; MIL-810G VD-\u2026-AC: gepr\u00fcft nach EN 13611 VD-\u2026-DC: gepr\u00fcft nach EN 13611 &amp; MIL-810G</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1V21v00gQ/iujSHdqdUm8thPH6SGkvhEiXoTUo3wAFK3tcbJXe+3bXQMt6n+/WdtJSuqWgOBLvZ2d95l9nvb91x5mmKM0C5H0jqDnJ144CZIgjZOpF7NRMgo9nIYxj6fumI/TXh96ORqecMNJ/2vPHha6qFSM699xESukT+3QnfieOw3cgA2ZNa7v8yIRqXhEoVRFjFpvNTzmh2449Mds4gdTq1eiyoXWopB60Wbz/muPPNs8fN9jo9uPpKYwLlSyyIqYm0LVKZbcrKxf561GpR0l4pirhAy1UdwI7by5jldc5W9U8S/GRjtJJZd6URaxkxRxZbulnVcn54szSlVGGTdmWCZp7/aW4qUiQ8lzm0SvQ6fVMNdlrcHLMhOUGVXhtNcZl8uKL1Hbgnoolz1bRkmShazyCG0Nk1qitmNj0zBk6LrJdDqJMAxizqfBlIdh6ic88ifWscEvZsH1YmXyzNo8MTzK8OkTs0Ke0EfZ49NXmAiU0HyeOCSx0hnm/ATOX8PInxx5zA1hhiiWEg2kmYIZ1wgJ1oeU5yKzLtw+eH3w4eDscvYOZuAF7LAPLmPwB7zj2vbeFGkKB0YVA4ivUNL1iaBzJRN4kXG1tG635h4cHB8eQiQ05PzLkAIwuCyyIfl73r+AgxSreGX68Jc3hg8VYxE7PYRPhYpwxTNDfV4Blxk1UuoSb2gBdbxqcuaSZ9cahzCX8CyzW7VcWmmtTIVRP07Oh8MhSHJiKD9DdmwdBCI0CkWEcgivKwWpEArIPrX3OKU1pWnCs7mAxi8s2971qXmijobwoljR4nze9gXhxp5aHzYNgXBm439GddWoDGkMea0xsj+T9JsRfZB3pmTv0/hXjIrc/lBTSb+j7iaf79eeBg/V3iynY/fWWe9wVCTX7SonTy/pfYgMLqm69dGDLiHZJ7UFLR3lAMdwQH10A5eaMFNVWSJ4jcgPXPcQ9lNrvNb5tQmdZ3hlVNuhY0nfrNIausWbpC4MxlefUEVCWiACyannZ/PXdtbuZOwzdxAyHy7iVWVurprU5plNxHn7EgICTDagpPdzQ8P61tF819H9si5KLqV16cAzhf9VKG+gQ7Yp6PJsAIPj0yO7YANvRI/4+LQPY+YEDJ7fQH19dnrkjeh4Cn+Bb9fwXNjG0MolvKI2NbtJqh8qj3nBw+6ooC7T+1W8RKGNBXpepZKvcgQiIYpwN22CgDpSAz8BRQInhHe15rGkGWK0jUZsUuStKu3KZ76iTU6A9ZkHelNlo7CXE2a9NHhw11XHQOoJcmVgc9pUMX8D43Ez/Pn5KYy9ab2yAaPTITx62xkoJ/8pURYKqewDtTPvFm8Xuq1wgwctGonMnnL7JAhgCDPrDhB40aNPLLhaw/tJXIpI1QyqFWqaoV2/DlnXHJdYKiFS01S8frnb2Txw/yfPy7/h1fzlIHTZbGcLrU0Dbrt2tIpb1bNHVXdC3CnaaTHOadi7d9sye/33RsPdj3HC7yCEDu5u4v8IgXu/kMC33HKfxZv270nk6x6tyZzIqCXzdYzB7+G2Tprak3ce4JM9CeB78N+F7Pvg8M7qt+BeN959BOEfQuWdkHcBeT8w3WDpaBeW72T5M9j8rb8tFD8OvA8h6c9CZSco7olTP4BSG4Sq/8Fo/6n5xyJT7/bj/7Xfh+s=",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "64b204a9d803d147bf5ae60366893edf",
+    "text": "Flls-\n\nTechnische Daten MBE \n\nTechnische Daten MBE \n\nDUNGS\u00ae Combustion Controls\n\nMehrfachstellger\u00e4t MultiBloc\u00ae Generation E\n\nEinschaltdauer\n\nEinbaulage\n\n100 %\n\nStehend senkrecht bis waagerecht liegend.\n\nWerkstoffe der gasbenetzten Teile\n\nGehause:\n\nDichtungen:\n\nAluminium\n\nNBR-Basis (VB-050 & VB-2L)\n\nVMQ (VB-065...150 & VB-2'2L 6L)\n\nZulassungen \n\nZulassungen \n\nCE\n\nEN 13611, EN 161; EN 126; EN 88-1; EN 88-3\n\ncULus: UL Listed to UL 429 and to ANSI Z21.21/CSA 6.5 C/I\n\nUL us\n\nVB-100 & VB-125:",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztmltv2zYUx78KYWA3oLF5v3RPTdoVBZKgW5IOaFcYh+ShrU2WDFHa1hX97qPcdEuLoo3fnEBPouTD6/9HnkPSr97OsMYNNv2yirOHZJaYBwg0WGEkj8o4K5mVPDGpFRqGswdktsEeIvRQ7N/OxsQyt0MX8MM7LkOH5bErkBnBmdNM0zkdM+9+37SxStUXDLZdGzDn/y04FZbZuVDUCO1Guy12myrnqm3y8ro1r97OSsljO4TgVL57Xcw6DG0Xl3UboG+7XRO30K/HchdXGbu86KoQoIslY+476Ku8eP4mrKHbPO/a3zH0eRGHZpWX2zYsYhuGcbTy4uz4yfJxaWrja+j7+Tam2bt3pb5U1djAZmzE7DM21xb9m+3OArbbuiotK71YXP9cQ7MaYIV57NAMm9Vs7Ma2fFk2w8bj2Acz1tTj3/1Yxk91nY/GnB8Kvaz6GmfF5FNxpTE8aheSkVqAlNImZzBJETylPtlJ3EMQ194U9xLDuqlyWCPZVUZKteSm2M82JfPnxI4ejYaYjDERmNU2gfIMmVZJGCfDJPY9EptzH2EcWyW4ppExC8EzZb1OkQfkk9gHJ/bjq/OnF78NlAKSk3bjhzwWV5JN37V1vpXsEoRNXgDFoEDJVGQfx1lFTFZQNs3xw5P9DNddgrDOPdb1CruRAJQ9ORvqvjouHb9G4ik22O2qIk9u5dwBdXA2RBdL5KaE9F5aL6WgyQYUaloCDoOF3Zdujyl8E54nVVO8A9R9hKEUdwOLc+jGEfgTL0fTz+DBIkgqKVi0kSljrEABSTqgJd7nwUx43As8PAz16Cz2QYN79CKZkKxzJkVtHdXGCKTeKSOcmNC4+2gwSsk3e1EhnC4j6riWOijjo0sepRMqMS/QKDpRcfepuOhxjU0kGZs/yvCse+KrTP6CUsX717rCVTGY70WOlskkDZ4Lg8YW8gowTqKigtEUxLSe3ANyfsXuj9y3KSGJ2JEVZF8C1v6fcdd6iaV1exHjtURNg1aBSxG9jkzrYKVEZqhP0U/E3H1inuIahowP93NCRsVYsEgclcVY6JBU+aATNwxYUBMYdx+Mx1XxNKVL2OzHhhOlYMVCDEEaYYosOqKVvgQuVHIxnWbfAzYe1cOmaqphsxcZ6JwSGiI3xkintDccTKSWOq+EEnEi4+6TcX78y9Ex5BKufv/i+IgqSr4lJcFPf9gLFQOKFSwcYxi8VBiVtWMUkgT1qPh0LHIPUHlx9vN7SLSaz+fsP1S+46dE78lLQOskOBYFC0kZ5bVVqJLgJlkT+RSpHgQv7qb8L4cact4FGLe8OdXMRKWC05wyo9BIblXZk6jIyj5WTyfp90DjZBnTDKITllrJSpgQBDVau7KquMin/7kcnsYnt7sHi84JitEKVXQMUiTOJKLjTgQrLE+Tsgeh7Kce/asT8qOLjnPChGbsARlTmv24e3K9e1p7xD4kxF7OHYKAmCD4EvyJGEA5FrQzAXTZOFDJJnTuPjrh6nTID8nVKTmtcpGJ9O34Irkj0OzeHp1fPCMvOZtztji5eET0XJGTxbP9blu5SAKtT9ZTwCJIoNJJq7mIJXI007nVYZB0E4wCwZBv5WGYozExl5yIUiOwlKSO3kdltFIMp4OnwxD302Xiq3Pyoz3j8dF4ZbrbKDKuvnQy+fpfemU+LQ=="
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "efef89e32a26283604fd14c34ba7ca8c",
+    "text": "FM Approval Class 7400\n\nAGA AS 4629-2005\n\nEAC\n\nTP TC 010/2011; TP TC 004/2011; TP TC 020/2011; TP TC 016/2011\n\nUA EN 13611, EN 161; EN 88-1\n\ncus ce\u00ae LISTED\n\nEinbauma\u00dfe \n\nEinbauma\u00dfe \n\n25  25  c  b  (38)  (e2)  d  a \n\n25  25 \n\n(e2)  a \n\n' EN 558, Reihe 1\n\n2Nur VB-...L Ausfiihrungen\n\n2 Nur VB-\u2026L Ausf\u00fchrungen 3 DN nach EN 1092-1:2007 PN 16 (raised face)\n\nEinbaumaBe",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "orig_elements": "eJztmU1v3DYQhv8KsZcmQOzl55BMT2vHLQIkhtE4vSTBYjgc2ir2C5I2aGD4v5fa2IhjGK19Wxc6SCtKQ2nI5yU5nP10NeEFL3nVz5s8eS0mPlkmSE6ClVr5HBBiCUBGQU4l2skrMVlyjxl7rPZXk+Fi3q23LfFtmefUcv3ZvVB5o1UEBfJQDpV3z5fr3JTmXww27Zq4635YaGmCCofGSW8gDnYbbpdN1zXrVTe/8ebT1aS+efDDGC3t9Zdq1jKt2zxfrAn7dbtzcYP95fDe6ceO227aNkTY5lqx61vsm2569o0usV2eteu/mPpumreri26+WdM0r2k79FY3fX90Mn9TXV2lBfb94SaXyfV1/V5pFrzC5eDE5AGbG4v+22ZngZvNoqme1VZMbx4vcHWxxQvuhgZNeHUxGZqxqXfmq+0y8dCGuLvT/sCmtCmGQyohSeTaepI22gDa5GyUd5PBtZ7/7gfj396L2ab28FdciOMFdp3wVu76/tatU2yHnvjK50OVWve+TCSZ6FyR1gGyZVNk/TITp4RaV1qjTJ6/TGa/z8Tsg7Cg44GW0j1JIKm+viBXYuArC2ksGRmiltFy0qNA9kQgd3mfzI7vIj5v+gU/hJayAR+Kt8FYlWubi629aoy0ECE6GtHuBdr7Y/8/R+RdLZyfifNjIZWcaqnUr+KmLO3PZX3vuYJd+UkzhUvRoYegoMYeWlLWRmVJMjrwkK0b5fT85fRxJk5OhTKg1KvdFVTN1N8QDp4mFvCoEUGyddn5QirIAJgoaCRv7Bie7odY7rKnbSeIP29ljTjEu7cfzk/e3EX+dlmrPoQ6Z1c0O6eCiaRjjiihRpneahtlMH5EvXeoH8vVEhgMlnSwlaZRmKM2qcYPbH0auT5PrqGu3ipko4doMACQhYQQirXWRRnzyPV5ci3eYB2o0bvsQw3yZUEZMGo15ACCGpfcveCq5E9buWaVcLvEYdXNhcWjQKN3zoRoU6zTMLgaYsUkk3d6iLE84wj6fwI6Adc9FqXCyC6DTqYW2eRAyRoP4wZ+D0FrJ8RwkBBJiBcmvKxn1vWchcDHcY+eIAUJJtdQy9ahHpMil0JIZABSHLnvLffHRdYYiVNwoIvHQlbpFHKd1anClZbHnOse8v0+hh85gLNxATI4F9mQSjnFXJKrQ5kpQZ3+R8D7B/iXIc/lXHgl/uDmksXT8l0YIoEDppzrCu1BG8wlE9SDddDjUr2HxPXpthV/Hh0cHh6+E7NtV5rmsq0u8+ppqc5sfLS5GG9zNjbVfbUi7aXE5IqHMf+1j+jFDfvPWy01fMc/xOaFbiQgjHhzKlZIl7s8uIz6QL3WUnpxNqTFxYsWm9rZoiDxyyfpRfmsQYJL2RKoVLInIznKoBijhTGvtod6ud2+HfED/7x++QdCNCVq"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "484a3c3af2a47c20e9b46c6833eecb12",
+    "text": "Typ Typ GroBe Gr\u00f6\u00dfe EinbaumaBe Einbauma\u00dfe Gewicht Gewicht Mittelraum- volumen Mittelraum\u00ad volumen a a b c c d d e e2 f g MBE-050- MBE-050-\u2026 Rp2/NPT2 Rp 2 / NPT 2 250 mm 250 mm 44 mm 44 mm 313 mm 313 mm 135 mm 135 mm 109 mm 109 mm 327 mm 327 mm - 8,9kg 8,9 kg 0,951 0,95 l",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Typ Typ</td><td>GroBe Gr\u00f6\u00dfe</td><td>EinbaumaBe Einbauma\u00dfe</td><td>Gewicht Gewicht</td><td>Mittelraum- volumen Mittelraum\u00ad volumen</td></tr><tr><td>a a</td><td>b</td><td>c c</td><td>d d</td><td>e e2</td><td>f</td><td>g</td></tr><tr><td>MBE-050- MBE-050-\u2026</td><td>Rp2/NPT2 Rp 2 / NPT 2</td><td>250 mm 250 mm</td><td>44 mm 44 mm</td><td>313 mm 313 mm</td><td>135 mm 135 mm</td><td>109 mm 109 mm</td><td>327 mm 327 mm</td><td>-</td><td>8,9kg 8,9 kg</td><td>0,951 0,95 l</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "018c8ee056bf8becc8a8dc34ee89e9f2",
+    "text": "MBE-2L- MBE\u00ad2L\u00ad\u2026 Rp 2/NPT 2 Rp 2 / NPT 2 9.8in 9.8 in 1.7in 1.7 in 12.3in 12.3 in 5.3in 5.3 in 4.3in 4.3 in 12.9in 12.9 in \u00ad 19.6 Ibs 19.6 lbs 0,951 0,95 l MBE-065- MBE-065-\u2026 *4DN 65 290 mm 106 mm 382mm 382 mm 180 mm 121 mm - 136 mm 13,5 kg 13,5 kg 2,361 2,36 l",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MBE-2L- MBE\u00ad2L\u00ad\u2026</td><td>Rp 2/NPT 2 Rp 2 / NPT 2</td><td>9.8in 9.8 in</td><td>1.7in 1.7 in</td><td>12.3in 12.3 in</td><td>5.3in 5.3 in</td><td>4.3in 4.3 in</td><td>12.9in 12.9 in</td><td>\u00ad</td><td>19.6 Ibs 19.6 lbs</td><td>0,951 0,95 l</td></tr><tr><td>MBE-065- MBE-065-\u2026</td><td>*4DN 65</td><td>290 mm</td><td>106 mm</td><td>382mm 382 mm</td><td>180 mm</td><td>121 mm</td><td>-</td><td>136 mm</td><td>13,5 kg 13,5 kg</td><td>2,361 2,36 l</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJydWN+PmzgQ/lcsHq8J+Ac25tTbh6pVdVJbrXq9h1O3igg42VyTEAG53qra/7322BjMhmzvHmKbYRjP+GNmPvL5e6T26qCO3WpXRb+iiFWCcFwUOU0FV9lGSKVYyZhUpFKqXEcLFB1UV1RFV2j975FZrNr63JSqv1arslF6AoMkY5TkgggcY/Mw3D/U1W6zu6JwaupSte2gQTGTRMaM44yJ3OidVHPYte2uPrYr583n75G2bPxgjOL08YtWa1RZN9VqX5dFVzfg4qno7o3d5M9WNW3S7MqyaCr9YNs1Rbdrk9uH8r5oDrdN/bcquzapzsdtuzrVZVLV5dmcVpu8f/Vm9Vq7elzvi66LT9UmenzU+212e3UsDsaJ6IKO0+geTqBRnE77nfZMR5G42/viuD0XW9WagCJ13EYmjJOWrI7nw1qZGAgGUTPgRrKKCiz4ukpLQdabKisZVjmWRBV5KgC3Tv3brYp2dd8d9uaZl12x3qubl929Kio9NWaJmvpbeyqOv91F9C66+fRwQvr3MunuL9x929SvFHrb3J0x3ggzVhvldct673Qzrftmd1wX50OhH+iX0wcmxtW3XXnfITfPaL3fdZ3aN9rcEv1T7w06aJCZHYrq7tjfskYSCBXCvSlQ0Vu+WftViUq/rlDl1wop6i82frUd2U3641zX1YPbprrRr8ISc7xE/eLuTDEVWruC+x9PNPlw+4mijydEUYL0GlF/l3KMDgdkJy9NUyOE0csYYUZoJy8ljBupnQYpzkEK02CBZmABJi9d+pVc5F+3SI/o69YL8SLnBJkR7a1wOGMbPH0HsVtA6DsHzPQQEJwCmjmGPJa7I9Ij2h2HKOJMC/UYCGnMjFRPYzEHKQ+FKQjTUKifzK2BfCy2bg9aeSzQ7+sWwWK/bv/DgehkdW+DXkwO4pf09Qck+IB/jkPgRICYpAYwSQMdGT5CyWU4CRPhm7LgGljk5sGDBRMEmXEW4L9G+JppXV1Gmb34cPsHooQi9iKFpdUefCBxas7ezCFQFICiAVA8xkZZT2NxRrQwi0n4vITn5RVEOWzNw41prt8uAzMsxjA/fyxY9kkvnyQ9wCzxKHkvwIyeoo0uwJ1D3ttphLq1QMUM+Km9n4bvQOregXT6DghpghVyLlg2TnI2A7+BnI0Tjf5fjGMBIIswxXMA8FracigZPCwZjMZYQ4vMPMH4ubAJdhibxRRjDbEWD9vwZ1J5fElpWLBTPINjFmQ3yRYYALTzYH0hdRkw41wk6QBfehk+c0mkwTAdFQ2TWf7ypwGUkJAyTEgecwCHXwFQAHRITBDMYk5MmppFAOHzgRPqqrFZPAlZlydscKRDSU5xiCORkEkwXa/MlDPbzMNUzWwqZnOpmtv7eZiq0qWqDFOVL5huP2acC5i/W8YD2Pw5sPkInywsqgLwFj+BN8G2qeIwOwVIxdWUzSBls8ne2NVlWIwBfz5+0pMx8pSMQV3W8mGjSTNlFNgUvZa6k0ucXsaVkgBQygy7oiykV2KRM4LMOBeOCOAU1zqvGL095uRHyFLIvJ9JXUKgQ4cNVoKqDDUnQEpIbxmmN6cOSFiMgZyJPHHsOrGfMNGj+7wxnzWTr4vR14D5kpl+rfSfF/7jQVFUoDUqUYU2aDvh6wEvdXzcMnBHuVFPtS23dmR66fiyI4TGqKHATy1abuvYbE9fHWF1FLXnpJ5z9kY1mwLWqBWALk7IpeMRrhohyw+R5YXaQcsDe97nKM2EoXlKBgF4jgfWbcXv3xNHvRzZcnzK06eRdSBAelcyeOx50tRjR3Esp1kiT156j02D7j1m2ldqXdJG2ayXAnm24AiBJwDeou3gBlnv5NDoJ07ajo1spzZOQmfuO7FrQQhcTLWLzJ6PNpnOuCj7E+RDx/MNrrfHbHMy2w4u0gF525x6F23/cQ1nifrO4lqJLZrWRW2RuFPRJvngohi76Oq5q+CuSPua3Bu0YOuqqr2Ug5dDatl66r10E9RN7aWtk31ldBWhRxtCtLtro6L3k4dH6cqVK1CuBvmS40zCHyXu35lPprhEj19+ALuNW4Y=",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "54363e8e7a8c10654798377684d48d97",
+    "text": "MBE-2Y MBE\u00ad2\u00bdL\u00ad\u2026 3+NPS 212 3+4NPS 2\u00bd 11.4in 111.4 in 4.2in 4.2 in 15.0in 15.0 in 71in 7.1 in 4.8in 4.8 in \u00ad 5.4in 5.4 in 29.7 Ibs 29.7 lbs 2,361 2,36 l MBE-080- MBE-080-\u2026 *4DN 80 310 mm 106 mm 106 mm 382 mm 382 mm 193 mm 193 mm 126 mm 126 mm - 146 mm 146 mm 14,5 kg 14,5 kg 2,681 2,68 l",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MBE-2Y MBE\u00ad2\u00bdL\u00ad\u2026</td><td>3+NPS 212 3+4NPS 2\u00bd</td><td>11.4in 111.4 in</td><td>4.2in 4.2 in</td><td>15.0in 15.0 in</td><td>71in 7.1 in</td><td>4.8in 4.8 in</td><td>\u00ad</td><td>5.4in 5.4 in</td><td>29.7 Ibs 29.7 lbs</td><td>2,361 2,36 l</td></tr><tr><td>MBE-080- MBE-080-\u2026</td><td>*4DN 80</td><td>310 mm</td><td>106 mm 106 mm</td><td>382 mm 382 mm</td><td>193 mm 193 mm</td><td>126 mm 126 mm</td><td>-</td><td>146 mm 146 mm</td><td>14,5 kg 14,5 kg</td><td>2,681 2,68 l</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "0135aaff26b58b8f9630dc9e0189f3dc",
+    "text": "MBE-3L- MBE\u00ad3L\u00ad\u2026 3NPS 3 12.2in 4.2in 4.2 in 15.0in 15.0 in 7.6in 7.6 in 5.9in 5.9 in \u00ad 5.7in 5.7 in 32.0lbs 32.0 lbs 2,681 2,68 l MBE-100- MBE-100-\u2026 *DN 100 350 mm 106 mm 382 mm 225 mm 140 mm - 171 mm 17,0 kg 17,0 kg 3,821 3,82 l",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MBE-3L- MBE\u00ad3L\u00ad\u2026</td><td>3NPS 3</td><td>12.2in</td><td>4.2in 4.2 in</td><td>15.0in 15.0 in</td><td>7.6in 7.6 in</td><td>5.9in 5.9 in</td><td>\u00ad</td><td>5.7in 5.7 in</td><td>32.0lbs 32.0 lbs</td><td>2,681 2,68 l</td></tr><tr><td>MBE-100- MBE-100-\u2026</td><td>*DN 100</td><td>350 mm</td><td>106 mm</td><td>382 mm</td><td>225 mm</td><td>140 mm</td><td>-</td><td>171 mm</td><td>17,0 kg 17,0 kg</td><td>3,821 3,82 l</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "20cf778135b3da23469487918d30a4c3",
+    "text": "MBE-4 MBE\u00ad4L\u00ad\u2026 \u2018NPS 4 13.8in in 4.2 in 15.0in 15.0 in 8.8in 8.8 in 5.5in 5.5 in \u00ad 6.7 in 6.7 in 37.51Ibs 37.5 lbs 3,821 3,82 l MBE-125- MBE-125-\u2026 \u00b0DN 125 400 mm 118 mm 118 mm 382mm 382 mm 253 mm 253 mm 176 mm 176 mm - 196 mm 196 mm 18,5 kg 18,5 kg 5,351 5,35 l",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MBE-4 MBE\u00ad4L\u00ad\u2026</td><td>\u2018NPS 4</td><td>13.8in</td><td>in 4.2 in</td><td>15.0in 15.0 in</td><td>8.8in 8.8 in</td><td>5.5in 5.5 in</td><td>\u00ad</td><td>6.7 in 6.7 in</td><td>37.51Ibs 37.5 lbs</td><td>3,821 3,82 l</td></tr><tr><td>MBE-125- MBE-125-\u2026</td><td>\u00b0DN 125</td><td>400 mm</td><td>118 mm 118 mm</td><td>382mm 382 mm</td><td>253 mm 253 mm</td><td>176 mm 176 mm</td><td>-</td><td>196 mm 196 mm</td><td>18,5 kg 18,5 kg</td><td>5,351 5,35 l</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "eab6e091aa333cd2be030809319d88cc",
+    "text": "MBE-5L-. MBE\u00ad5L\u00ad\u2026 \u2018NPS 5 5.7 in 4.6in 4.6 in 15.0in 15.0 in 10.9in 10.9 in 6.9in 6.9 in \u00ad 7.7in 7.7 in 40.7 Ibs 40.7 lbs 5,351 5,35 l MBE-150- MBE-150-\u2026 *4DN 150 480 mm 132mm 132 mm 382 mm 282 mm 204 mm - 216 mm 239kg 23,9 kg 6,931 6,93 l",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MBE-5L-. MBE\u00ad5L\u00ad\u2026</td><td>\u2018NPS 5</td><td>5.7 in</td><td>4.6in 4.6 in</td><td>15.0in 15.0 in</td><td>10.9in 10.9 in</td><td>6.9in 6.9 in</td><td>\u00ad</td><td>7.7in 7.7 in</td><td>40.7 Ibs 40.7 lbs</td><td>5,351 5,35 l</td></tr><tr><td>MBE-150- MBE-150-\u2026</td><td>*4DN 150</td><td>480 mm</td><td>132mm 132 mm</td><td>382 mm</td><td>282 mm</td><td>204 mm</td><td>-</td><td>216 mm</td><td>239kg 23,9 kg</td><td>6,931 6,93 l</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "cd8508b589ce438a019626b49b01a07a",
+    "text": "MBE-6L-. MBE\u00ad6L\u00ad\u2026 3+NPS 6 18.9in 5.2in 5.2 in 15.0in 15.0 in 11in 11.1 in 8.0in 8.0 in \u00ad 8.5in 8.5 in 52.7 Ibs 52.7 lbs 6,931 6,93 l",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MBE-6L-. MBE\u00ad6L\u00ad\u2026</td><td>3+NPS 6</td><td>18.9in</td><td>5.2in 5.2 in</td><td>15.0in 15.0 in</td><td>11in 11.1 in</td><td>8.0in 8.0 in</td><td>\u00ad</td><td>8.5in 8.5 in</td><td>52.7 Ibs 52.7 lbs</td><td>6,931 6,93 l</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJydWN+PmzgQ/lcsHq8J+Ac25tTbh6pVdVJbrXq9h1O3igg42VyTEAG53qra/7322BjMhmzvHmKbYRjP+GNmPvL5e6T26qCO3WpXRb+iiFWCcFwUOU0FV9lGSKVYyZhUpFKqXEcLFB1UV1RFV2j975FZrNr63JSqv1arslF6AoMkY5TkgggcY/Mw3D/U1W6zu6JwaupSte2gQTGTRMaM44yJ3OidVHPYte2uPrYr583n75G2bPxgjOL08YtWa1RZN9VqX5dFVzfg4qno7o3d5M9WNW3S7MqyaCr9YNs1Rbdrk9uH8r5oDrdN/bcquzapzsdtuzrVZVLV5dmcVpu8f/Vm9Vq7elzvi66LT9UmenzU+212e3UsDsaJ6IKO0+geTqBRnE77nfZMR5G42/viuD0XW9WagCJ13EYmjJOWrI7nw1qZGAgGUTPgRrKKCiz4ukpLQdabKisZVjmWRBV5KgC3Tv3brYp2dd8d9uaZl12x3qubl929Kio9NWaJmvpbeyqOv91F9C66+fRwQvr3MunuL9x929SvFHrb3J0x3ggzVhvldct673Qzrftmd1wX50OhH+iX0wcmxtW3XXnfITfPaL3fdZ3aN9rcEv1T7w06aJCZHYrq7tjfskYSCBXCvSlQ0Vu+WftViUq/rlDl1wop6i82frUd2U3641zX1YPbprrRr8ISc7xE/eLuTDEVWruC+x9PNPlw+4mijydEUYL0GlF/l3KMDgdkJy9NUyOE0csYYUZoJy8ljBupnQYpzkEK02CBZmABJi9d+pVc5F+3SI/o69YL8SLnBJkR7a1wOGMbPH0HsVtA6DsHzPQQEJwCmjmGPJa7I9Ij2h2HKOJMC/UYCGnMjFRPYzEHKQ+FKQjTUKifzK2BfCy2bg9aeSzQ7+sWwWK/bv/DgehkdW+DXkwO4pf09Qck+IB/jkPgRICYpAYwSQMdGT5CyWU4CRPhm7LgGljk5sGDBRMEmXEW4L9G+JppXV1Gmb34cPsHooQi9iKFpdUefCBxas7ezCFQFICiAVA8xkZZT2NxRrQwi0n4vITn5RVEOWzNw41prt8uAzMsxjA/fyxY9kkvnyQ9wCzxKHkvwIyeoo0uwJ1D3ttphLq1QMUM+Km9n4bvQOregXT6DghpghVyLlg2TnI2A7+BnI0Tjf5fjGMBIIswxXMA8FracigZPCwZjMZYQ4vMPMH4ubAJdhibxRRjDbEWD9vwZ1J5fElpWLBTPINjFmQ3yRYYALTzYH0hdRkw41wk6QBfehk+c0mkwTAdFQ2TWf7ypwGUkJAyTEgecwCHXwFQAHRITBDMYk5MmppFAOHzgRPqqrFZPAlZlydscKRDSU5xiCORkEkwXa/MlDPbzMNUzWwqZnOpmtv7eZiq0qWqDFOVL5huP2acC5i/W8YD2Pw5sPkInywsqgLwFj+BN8G2qeIwOwVIxdWUzSBls8ne2NVlWIwBfz5+0pMx8pSMQV3W8mGjSTNlFNgUvZa6k0ucXsaVkgBQygy7oiykV2KRM4LMOBeOCOAU1zqvGL095uRHyFLIvJ9JXUKgQ4cNVoKqDDUnQEpIbxmmN6cOSFiMgZyJPHHsOrGfMNGj+7wxnzWTr4vR14D5kpl+rfSfF/7jQVFUoDUqUYU2aDvh6wEvdXzcMnBHuVFPtS23dmR66fiyI4TGqKHATy1abuvYbE9fHWF1FLXnpJ5z9kY1mwLWqBWALk7IpeMRrhohyw+R5YXaQcsDe97nKM2EoXlKBgF4jgfWbcXv3xNHvRzZcnzK06eRdSBAelcyeOx50tRjR3Esp1kiT156j02D7j1m2ldqXdJG2ayXAnm24AiBJwDeou3gBlnv5NDoJ07ajo1spzZOQmfuO7FrQQhcTLWLzJ6PNpnOuCj7E+RDx/MNrrfHbHMy2w4u0gF525x6F23/cQ1nifrO4lqJLZrWRW2RuFPRJvngohi76Oq5q+CuSPua3Bu0YOuqqr2Ug5dDatl66r10E9RN7aWtk31ldBWhRxtCtLtro6L3k4dH6cqVK1CuBvmS40zCHyXu35lPprhEj19+ALuNW4Y=",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d6030066bdbf504979557c0984617bea",
+    "text": "10 ... 24\n\nDruckabgriffe \n\nDruckabgriffe  VB050  VB2L  VB065\u2026150  VB2\u00bdL\u20266L \n\nDUNGS\u00ae\n\nCombustion Controls\n\n3  4  2  1 \n\n3  4  2  1 \n\n1  2  pmax.  60 kPa  600 mbar  M  M  3  4  8 PSI  V1  V2  1  2  5 \n\n1,2,3,4\n\np1\n\npm\n\nVerschlussschraube Gs ISO 228\n\nVerschlussschraube\n\nNur firr Ausfiihrung VB-2L: Anschluss fiir Abblaseleitung NPT 1\n\n6  7  7  6  3  3  2  2  5  1  1  4 \n\n1,2,3,5\n\n1 2  3  4  5  pmax.  70 kPa  700 mbar  M  M  6  7  10 PSI  V1  V2 \n\np1\n\np1\n\npm\n\npm\n\np2\n\nVerschlussschraube Gs ISO 228",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "orig_elements": "eJztmttuG0cMhl9loGtXmvMhdzkUQQDHNZDEN0kgcIYcexudsLsqUgR593Ilp3GNoJGBXqyLBQSMteKsZvb7SQ5pvf8yoxWtadMvG5w9ETMHaGqVGrRRDhMomb3KRNppjAVodiZma+oBoQe2/zIb/lh2231b6Nt7WpaWeDjcUAWjVfLKy7kcJh8+X2+xqc2/GOzabaGu+26hpYkqzo2Twfg02O2oXTdd12w33fJ2Ne+/zPjOwzqM0dJ+/chmLZVti8vVtkC/bQ9L3EF/M9x38a6jtlu0TSnQIk/s+hb6pltc/lluoF1fttvfqfTdAveb626525YFbst+eFrd4vWzX5cveKmbvIK+n++wzr5+5e+rzYo2sB4WMfuBza1F/+fuYAG73arhlfEuFrcfr2BzvYdr6oYNzWhzPRu2seMry81+nWnYg5KHS+13biqg9tK7jLYwsIqhGElJRkWQrM+zYW09fe4PxlLM53Oh7fB935ZyAe2w+z/o7WDF5velYYrPNikno1TkQYH1nnxxKpAkb3GSxiikoe6SftHuyyfI121TK4m7uF+tedqPMOuoQwZPFMBEp2yVRDZ7Y2QmY1SdMI8ds7h6Jp0cBn1+eOPdh72W2qvbqx/2UmY8P17056fpAkq1AHEIKRGlColQ+UKusu/7hJP7j1EX7y5evhloHxP3yaE+ucwnAHA5J1sKhwFtsFoXgs3OplIm1uNj/Xy7zvtuuId4vt307XbVPYh5AVZJkJZyAYUSyWobapaGsESEifkImRshrBBaCHVaDDeaivdA0joecgSwFAxJzvbJ2wIT48fPOEYznM4LJ+sQU4qatIpEjpO/dblOjEfIWB0A79bweS6El+LTJQyjFOsMrRCvD6+jEKK4fPOKT3E85eogimGmO9H9ffI+cEI3JoQA/NAQK2sEFQYfs5mkMUJpnOkzc/awSj0WDYVMBnAquYLJVeBMrrGUFK2eOI+Q807dRfy26Vc/dOGC3lunakKu9DB6W201NccsC1AOYUI7QrTrk9BKsIofYgFHVqnstcKSwXkDCRKH6QntONDeb73+1CXvauGKt11uVvuu46GFfSbxshOv3vwmtI4PCvKoyLE6ao2OdCDnOLfz0c9YWZHT+iSX/6dcHqQRB7mYwCcAnXQtBjCqaqWSFFDHdBTcpJFHrpGLfStq07bi6b6rTXPT8v7E1bNf9PkT8XRzKx+2aNgi89o71kjTD0YXl2+FeljQic4UxyVm5BwVFWqbnXFAsXrIukxBZySCuqsPL0Q4vPyhhjSHivFQNA7VoxqqypOqR0c+FoZdZPIRXa6OSiTP8nRgVJ7Yj5D9sXp0D/LxGpJBiDEpn222WkNCGzXHnZwdB4CJ8wg5Dw59bBC5vxtJ4baRFO41ko4BQcl/dJJOCwGIsgJp5SsWhdF6GxAdsEJM8Dj9j2CE0jixscC5PIKJ0tVkIOhEoVg+J7pKqVbvph/+PF60nK0hBFKELlQtKRdVFLuyBoXJSDuhHSHa03pGOmPKwQZrfY6YnCuSKBNB0jmnOP1Y5/Gi9TYqPl9X6wo55DO2tVhtySVTxpim2n2MaPWJXhu91K7klFVmPw3IB26J0tqMAEpPaMeB9n5b5qcu+V90ej/+BctJWBw="
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e9e3d80eb8e1587c6060ed39bac7ed4c",
+    "text": "Nur fir Ausfiihrung VB...L: Anschluss fiir Abblaseleitung\n\nVB-2'%.L = 1%\" NPT\n\n4\n\nVB-3L 12\" NPT\n\nG% flr Systemzubehor\n\nVB-4 2 \" NPT\n\nVB-5L =2 \" NPT\n\n6,7\n\nVB-6L = 22\" NPT\n\nVerschlussschraube G4 ISO 228\n\nMBEKomponenten \n\nMBEKomponenten ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "orig_elements": "eJztmFtr3EYUx7/KIDB9SXfnfgn0IaYlhLquIWle0rDM5YxXZXVhRip1jb97j9YOCSUU1k/NopfVavSf0f/M+XE4ow/3DRygg37atal5SRrGFUROHaXK+BhoyilzC9RJ7gWntHlBmg4mn/zkUX/fLH92dZhLhE/3sIsF8PK4oBGcOc003RwnH593Q2pz+x+CsQwRav2s4FRYZjdCUSO0W3QjlK6ttR36unty8+G+wZUXHwK9yoePKCsQh5J2hyH6aShHi6Of9su6298qlLotbYy+JJxYp+Kntm5v7uLel+6mDH9AnOo2zf1t3Y1D3KYhzstu1e0vlz/tfkSrfTj4adqMKTcPD/i+3B6g991iovmK5kkx3Y1HhR/HQ4vOMIrt0+OD729nfwt1CaiB/rZZwhhxZNfPXYAlBsaOQ+Vz3rS0LFrIUkVQSSsvZcoyhhggJOtss3ib4K9pEV/PheS2kFdzzW27LxgeeX+52WyuXpJXfY37w1wrKhZJQO8VGWknVC3+Plm/9mXZrT/h3bIqLv9vlKKROuhsNU/RiZBtZswGHZTlOPQY7IrSN47S+8vv+XcXmyvyA2EXvzfk+ubdaZB4b1WKNAQqmdTUSCqNFc6J5LWlaYXkDCCRJyGRbJQma26yh4RMJCu449kprqPNVq5InAESWDfEFWH8GSXDa6khGg5cyIxtiZXGcBEzTwJ89nrl4wz4eH1B8qGQt3d1gu7vOcAed+YUSmhQXsQUgPGUrVIMggvCRSmszV6olZIzoASriCScPKeIeEldTo7RILAtFXjvVHKeS4VtqhErHueBh8LO9FmAWOUjjcG6SJkwlCkqwKgQkBWnHA8rIGcAiH5hTjutyEiVlZoDnmulktlYapLh3EDIkq5V4xygwKqhl/Msf05zmlxKTAkWnXb4qzMWkawlWGWMt2kl5CwIwbAfP5LhpXjsTslrSd68/RWZsSfhIoyTwSlLVfJ4oMmaOqnxEKMCc1Eou+Lyv8CFf5l9fM3PQzcOPRqDnnyZ7zcdzvtanoM3GqQTmQpKMceQEsXC4EAGbC6EW/P8Leb54z9de/MU"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "29e26844d67bc92ceeee011c108cac16",
+    "text": "ValveBody ValveBody Bezeichnung Bezeichnung Nennweite Nennweite Artikelnummer Artikelnummer VB-050 VB-050 Rp 11%%-2 Rp 1\u00bd - 2 274846 274846 VB-065 VB-065 DN 65 DN 65 274659 274659 VB-080 VB-080 DN 80 DN 80 274661 274661 VB-100 VB-100 DN 100 DN 100 274663 274663",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ValveBody ValveBody</td></tr><tr><td>Bezeichnung Bezeichnung Nennweite</td><td>Nennweite</td><td>Artikelnummer Artikelnummer</td></tr><tr><td>VB-050 VB-050</td><td>Rp 11%%-2 Rp 1\u00bd - 2</td><td>274846 274846</td></tr><tr><td>VB-065 VB-065</td><td>DN 65 DN 65</td><td>274659 274659</td></tr><tr><td>VB-080 VB-080</td><td>DN 80 DN 80</td><td>274661 274661</td></tr><tr><td>VB-100 VB-100</td><td>DN 100 DN 100</td><td>274663 274663</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9lF9v2yAQwL8KQurbWmNjY2fqIi3q3raq2rq+tJWFbZJ48z8B2dZV+e4FjqR25u4hHDnufr7j7rh/xqIRreh0Xlf4PcKsSNOCFdF6kYlswThLCCXxYp3ROGFlQfA7hFuhecU1N/bP2G5y1e9kKQ7/RV5KYYQDhimNwgULGblwzu687at6Xf/HYJB9KZR6tYgIzcLsgiYkpWxh7QYh21qpuu9U7qO5f8aGbOOgNCLx/tGYSVH2ssqbvuS6ly7Egeut5QbflZAqkHVZclkZR6Ul17UKbp7KLZftjex/iFKroNp1G5UPfRlUfbmzt6WCL6tP+ZUJtSsarvXFUK3xfm++t64b0fHWBoFnbLyFfhqcBR+GpjaRmSwCf9zwbrPjG6FsQlh0G2zTGIwm73ZtIWwOYWRUWvzROVf5VreNZV1qXjRieam3gldGSLtFZd+ogXcfHjB9wMs73vwSq756QsfdZaC3S7PIg8tyJf6Kutx2Jms03l+Lrvstai3Axfz+1XyUuv4pGhNpKySa/Bt9KDjEWJgA/Her5d3qnCQEgTA2ldN+HVAYnp2dR8juHnaEFBU6R9HRIErjLGYIBGhfswEqSxCIo9PVNTJKt45BLFkgEPOgDMLLyBhklG6dgFiIQMyCQuJARoxBVgtiiqKAovOoyCVnxAQVuezGWsdIAJXMo+D2w2QaVQJRJSdRpYBKZ1HRZ+TWo8v1zS0KzyJTRrd7q44p1PENaOix4D2Gf0PmEDkJh9NYCcRKZrHUQekURx2MTjERYKJZTOww8RQTO0w8xcSAiWcxicMkU0ziMCe1ZICZ73nmMGyKYQ7DppgMMNkIE/jBDOBJwXv/3Nhn5vUJmX0bpjPvh/lkdP2s+pmEKfRj58cLBspPkJ8UPxp+FnzP+yb3Xe2717er709oxNO28302bqdx+/h+gcaAVvC1hyJDWX0doWBQIl8TuHy4bn+/9nE/vPu39l7x/vEFGhQjmA=="
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "5617ba78913f671ab5fdfc2642d38a48",
+    "text": "VB-125 VB-125 DN 125 DN 125 274665 274665 VB-150 VB-150 DN 150 DN 150 274667 274667 VB-2L VB-2L NPT 1%2-2 NPT 1\u00bd - 2 274847 274847 VB-212L VB-2\u00bdL NPS 212 NPS 2\u00bd 274660 274660 VB-3L VB-3L NPS 3 NPS 3 274662 274662 VB-4L VB-4L NPS 4 NPS 4 274664 274664",
+    "metadata": {
+      "text_as_html": "<table><tr><td>VB-125 VB-125</td><td>DN 125 DN 125</td><td>274665 274665</td></tr><tr><td>VB-150 VB-150</td><td>DN 150 DN 150</td><td>274667 274667</td></tr><tr><td>VB-2L VB-2L</td><td>NPT 1%2-2 NPT 1\u00bd - 2</td><td>274847 274847</td></tr><tr><td>VB-212L VB-2\u00bdL</td><td>NPS 212 NPS 2\u00bd</td><td>274660 274660</td></tr><tr><td>VB-3L VB-3L</td><td>NPS 3 NPS 3</td><td>274662 274662</td></tr><tr><td>VB-4L VB-4L</td><td>NPS 4 NPS 4</td><td>274664 274664</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9lF9v2yAQwL8KQurbWmNjY2fqIi3q3raq2rq+tJWFbZJ48z8B2dZV+e4FjqR25u4hHDnufr7j7rh/xqIRreh0Xlf4PcKsSNOCFdF6kYlswThLCCXxYp3ROGFlQfA7hFuhecU1N/bP2G5y1e9kKQ7/RV5KYYQDhimNwgULGblwzu687at6Xf/HYJB9KZR6tYgIzcLsgiYkpWxh7QYh21qpuu9U7qO5f8aGbOOgNCLx/tGYSVH2ssqbvuS6ly7Egeut5QbflZAqkHVZclkZR6Ul17UKbp7KLZftjex/iFKroNp1G5UPfRlUfbmzt6WCL6tP+ZUJtSsarvXFUK3xfm++t64b0fHWBoFnbLyFfhqcBR+GpjaRmSwCf9zwbrPjG6FsQlh0G2zTGIwm73ZtIWwOYWRUWvzROVf5VreNZV1qXjRieam3gldGSLtFZd+ogXcfHjB9wMs73vwSq756QsfdZaC3S7PIg8tyJf6Kutx2Jms03l+Lrvstai3Axfz+1XyUuv4pGhNpKySa/Bt9KDjEWJgA/Her5d3qnCQEgTA2ldN+HVAYnp2dR8juHnaEFBU6R9HRIErjLGYIBGhfswEqSxCIo9PVNTJKt45BLFkgEPOgDMLLyBhklG6dgFiIQMyCQuJARoxBVgtiiqKAovOoyCVnxAQVuezGWsdIAJXMo+D2w2QaVQJRJSdRpYBKZ1HRZ+TWo8v1zS0KzyJTRrd7q44p1PENaOix4D2Gf0PmEDkJh9NYCcRKZrHUQekURx2MTjERYKJZTOww8RQTO0w8xcSAiWcxicMkU0ziMCe1ZICZ73nmMGyKYQ7DppgMMNkIE/jBDOBJwXv/3Nhn5vUJmX0bpjPvh/lkdP2s+pmEKfRj58cLBspPkJ8UPxp+FnzP+yb3Xe2717er709oxNO28302bqdx+/h+gcaAVvC1hyJDWX0doWBQIl8TuHy4bn+/9nE/vPu39l7x/vEFGhQjmA==",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "e94c0924c7ea1e2fc61c6f9165ed4857",
+    "text": "VB-5L VB-5L NPS 5 NPS 5 274666 274666 VB-6L VB-6L NPS 6 NPS 6 274668 274668",
+    "metadata": {
+      "text_as_html": "<table><tr><td>VB-5L VB-5L</td><td>NPS 5 NPS 5</td><td>274666 274666</td></tr><tr><td>VB-6L VB-6L</td><td>NPS 6 NPS 6</td><td>274668 274668</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9lF9v2yAQwL8KQurbWmNjY2fqIi3q3raq2rq+tJWFbZJ48z8B2dZV+e4FjqR25u4hHDnufr7j7rh/xqIRreh0Xlf4PcKsSNOCFdF6kYlswThLCCXxYp3ROGFlQfA7hFuhecU1N/bP2G5y1e9kKQ7/RV5KYYQDhimNwgULGblwzu687at6Xf/HYJB9KZR6tYgIzcLsgiYkpWxh7QYh21qpuu9U7qO5f8aGbOOgNCLx/tGYSVH2ssqbvuS6ly7Egeut5QbflZAqkHVZclkZR6Ul17UKbp7KLZftjex/iFKroNp1G5UPfRlUfbmzt6WCL6tP+ZUJtSsarvXFUK3xfm++t64b0fHWBoFnbLyFfhqcBR+GpjaRmSwCf9zwbrPjG6FsQlh0G2zTGIwm73ZtIWwOYWRUWvzROVf5VreNZV1qXjRieam3gldGSLtFZd+ogXcfHjB9wMs73vwSq756QsfdZaC3S7PIg8tyJf6Kutx2Jms03l+Lrvstai3Axfz+1XyUuv4pGhNpKySa/Bt9KDjEWJgA/Her5d3qnCQEgTA2ldN+HVAYnp2dR8juHnaEFBU6R9HRIErjLGYIBGhfswEqSxCIo9PVNTJKt45BLFkgEPOgDMLLyBhklG6dgFiIQMyCQuJARoxBVgtiiqKAovOoyCVnxAQVuezGWsdIAJXMo+D2w2QaVQJRJSdRpYBKZ1HRZ+TWo8v1zS0KzyJTRrd7q44p1PENaOix4D2Gf0PmEDkJh9NYCcRKZrHUQekURx2MTjERYKJZTOww8RQTO0w8xcSAiWcxicMkU0ziMCe1ZICZ73nmMGyKYQ7DppgMMNkIE/jBDOBJwXv/3Nhn5vUJmX0bpjPvh/lkdP2s+pmEKfRj58cLBspPkJ8UPxp+FnzP+yb3Xe2717er709oxNO28302bqdx+/h+gcaAVvC1hyJDWX0doWBQIl8TuHy4bn+/9nE/vPu39l7x/vEFGhQjmA==",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "576376fee110b7e60f5535eb58fe3023",
+    "text": "2.0 = \u2014 = s i 1 nMu 4 @ M L. =g o= e \u2014 =\n\n12 ... 24\n\nMBEKomponenten \n\nMBEKomponenten ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "orig_elements": "eJztlE1r3DAQhv+K8LnY+rSkwkIp7aG0KTm0pzQYfYw3LmvLSHJpCPnvlZakDSWUHJeyJ489r0bv+Bnp6q6BA8yw5GHyzWvUeG245JgyoiVjThHNLGihhZWsp142r1AzQzbeZFP0d00NhhS26ODxHQYXoTyOBYlklOie9LjFdfExPwc/jdM/BGsMDlL6o6CYKaJaJnDxoatuhThPKU1hScODm6u7plSuPhijmN9fF1kEF6IfDsGZHOLR4mryTa3bfU0QUxcn50z0ZWHK0eQpdZe37sbE+TKG7+By6vy27NOwBtf54Lb6t1J38fb98K5YXezB5Nyufmzu78t+43SAxczVRPOM5kGRb9ejwqzrYSrOShfdQ/pglv1m9pBqQw0s+6a2sZYvw7LNFmoPhNatMvzMtUhd9Vjww1yETcn+DZY44bk20njCTY+58BKEN1hZLiRR7gz29MDSFqMd+rZRTHgJEpoQQcvFhjh6gy7Qpxbt9ijsEPzWvGgUQCouOKU90ZyUo+2IUGYkfW9YiZU/j8LpjQKhqG1bRPlTwp9NrM38gC9V9QxpYTDG3goBghqurZRWWUKwwkZb48Yz6ZMgzZ6SLtt8DPMalmIMFvSiE828tr1UiqpR9dZhSV0vwJY7XmNHaH/m/H9wJsKPXoyg7MhH3xtJMPeOUeWxowrEmfPpcX4G7PUvFUKZ5w=="
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "fdd975949940ffa3f050aa39a5e5ec58",
+    "text": "Bezeichnung Artikel\u00ad nummer Spannung Ventil\u00ad funktion Regler\u00ad funktion Endlagen\u00ad schalter Stellungs\u00ad anzeige Betriebs\u00ad anzeige VD-V-AC VD-V-AC 272262 272262 100-240 VAC 50/60 Hz 100-240 VAC 50/60 Hz VD-V-AC-POC VD-V-AC-POC 275358 275358 [x|[x|x|x x [x|[x|x|x [x|[x|x|x",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Bezeichnung</td><td>Artikel\u00ad nummer</td><td>Spannung</td><td>Ventil\u00ad funktion</td><td>Regler\u00ad funktion</td><td>Endlagen\u00ad schalter</td><td>Stellungs\u00ad anzeige</td><td>Betriebs\u00ad anzeige</td></tr><tr><td>VD-V-AC VD-V-AC</td><td>272262 272262</td><td>100-240 VAC 50/60 Hz 100-240 VAC 50/60 Hz</td><td/><td/><td/><td/><td/></tr><tr><td>VD-V-AC-POC VD-V-AC-POC</td><td>275358 275358</td><td>[x|[x|x|x</td><td/><td>x</td><td>[x|[x|x|x</td><td>[x|[x|x|x</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVW1vmzAQ/isWn5diXkLC1EVql0r7Mq3KtmhSUiEDl4QVDLKdjr7kv88G85KURBWRztw9vnvujJ+sXg1IIQMqgiQ2PiMjJJFPwMGWP7YiHE7jiR9u3CneuNHE9Vzb+ISMDASJiSAS/2qoRcDzPYugeYcgYiBNldCaOLble5aHr7DaXMWzPE42yQVAwfIIOO8QNnam1vTKGeOJ4/kKVwDLEs6TnPJAs1m9GjKz4uE4NnYPDxLGIMpZHKR5RETOKooFETuV1/zNgXGTJVFEWCw3csGISLh5/xztCMvuWf4XIsHNeE+3PCjyyIzzaK+mxc3vt3fBXFKlYUqEuCrijXE4yHqbJAVKMkXCGMBohHguKgQpijSRzGQXpg6nhG73ZAtcNWQA3RqqjUJ6ArrPQlA9WI50CShFQHiwE1mqcl0LEqYwuxY7ILE0TC1nt/ACSbSjsoVrU74r3w0TySOk6z3GJF5TJPNmwNrwz4LQI/xSdpx08M2ePirGbXwB2xTY+fgdjVPJn7YILuebin5JAWmqptxCCJW8t9AibkGwBMIzAFN1azadh3n8rAcQz5bz0XJ08xVpK1Fx5bcntu3ZqDaNF7H8H5ftf1kb7tqYWRiPbBejpdw/xqaH0bcX1HNKGo27zfvxRUX6mOXo/kfLVK17bMfOeIpq03pX5Zv8yed9ifIC6MRzwmOhp7U4npbrjV1Um0vVPtjsotfsYqhZz0K1uVTsbNl3o53rsc5PRurXI/XPfAC2u5Q7bVdu7jaW6FK7/Wi7HuDTHfV8oHtcd4+7VG9DVcvhePfybuxzPfKTQVQ3QZke9xW6OOkTQPc2ULM76qFmnbq203r/oLeLp92Pt2utAfXlN2sxNA5aKJVALkn6BHOWPAHSCohqZUO1gKFGp1ArR6iRHdTTUdQIpBbOVvC6RSNwjUq1tlEjrT5l9fQvv77opX4GFai5pPpSll2aRT+NvEJlP1jdAv3VHzm7HbjF1998c2b64zgu1d/odKXUn1jz//ZLnYJxePgPp92Wpw=="
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "dc5d9f6612fb0103bfe3e94f1c66528a",
+    "text": "VD-R-AC VD-R-AC 274654 274654 x VD-R-AC-POC VD-R-AC-POC 275361 275361 x x VD-V-DC VD-V-DC 275359 275359 24VDC 24 VDC x x x x x x VD-V-DC-POC VD-V-DC-POC 275360 275360 x| x x x| x x| x",
+    "metadata": {
+      "text_as_html": "<table><tr><td>VD-R-AC VD-R-AC</td><td>274654 274654</td><td/><td>x</td><td/><td/><td/></tr><tr><td>VD-R-AC-POC VD-R-AC-POC</td><td>275361 275361</td><td/><td>x</td><td>x</td><td/><td/></tr><tr><td>VD-V-DC VD-V-DC</td><td>275359 275359</td><td>24VDC 24 VDC</td><td>x x</td><td/><td/><td>x x</td><td>x x</td></tr><tr><td>VD-V-DC-POC VD-V-DC-POC</td><td>275360 275360</td><td>x| x</td><td/><td>x</td><td>x| x</td><td>x| x</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVW1vmzAQ/isWn5diXkLC1EVql0r7Mq3KtmhSUiEDl4QVDLKdjr7kv88G85KURBWRztw9vnvujJ+sXg1IIQMqgiQ2PiMjJJFPwMGWP7YiHE7jiR9u3CneuNHE9Vzb+ISMDASJiSAS/2qoRcDzPYugeYcgYiBNldCaOLble5aHr7DaXMWzPE42yQVAwfIIOO8QNnam1vTKGeOJ4/kKVwDLEs6TnPJAs1m9GjKz4uE4NnYPDxLGIMpZHKR5RETOKooFETuV1/zNgXGTJVFEWCw3csGISLh5/xztCMvuWf4XIsHNeE+3PCjyyIzzaK+mxc3vt3fBXFKlYUqEuCrijXE4yHqbJAVKMkXCGMBohHguKgQpijSRzGQXpg6nhG73ZAtcNWQA3RqqjUJ6ArrPQlA9WI50CShFQHiwE1mqcl0LEqYwuxY7ILE0TC1nt/ACSbSjsoVrU74r3w0TySOk6z3GJF5TJPNmwNrwz4LQI/xSdpx08M2ePirGbXwB2xTY+fgdjVPJn7YILuebin5JAWmqptxCCJW8t9AibkGwBMIzAFN1azadh3n8rAcQz5bz0XJ08xVpK1Fx5bcntu3ZqDaNF7H8H5ftf1kb7tqYWRiPbBejpdw/xqaH0bcX1HNKGo27zfvxRUX6mOXo/kfLVK17bMfOeIpq03pX5Zv8yed9ifIC6MRzwmOhp7U4npbrjV1Um0vVPtjsotfsYqhZz0K1uVTsbNl3o53rsc5PRurXI/XPfAC2u5Q7bVdu7jaW6FK7/Wi7HuDTHfV8oHtcd4+7VG9DVcvhePfybuxzPfKTQVQ3QZke9xW6OOkTQPc2ULM76qFmnbq203r/oLeLp92Pt2utAfXlN2sxNA5aKJVALkn6BHOWPAHSCohqZUO1gKFGp1ArR6iRHdTTUdQIpBbOVvC6RSNwjUq1tlEjrT5l9fQvv77opX4GFai5pPpSll2aRT+NvEJlP1jdAv3VHzm7HbjF1998c2b64zgu1d/odKXUn1jz//ZLnYJxePgPp92Wpw==",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "12f88724ba7462332137afef766f9d8e",
+    "text": "VD-R-DC VD-R-DC 275362 275362 x [ x x x [ x x [ x VD-R-DC-POC VD-R-DC-POC 275363 275363 X | x x X | X |",
+    "metadata": {
+      "text_as_html": "<table><tr><td>VD-R-DC VD-R-DC</td><td>275362 275362</td><td>x [ x</td><td>x</td><td/><td>x [ x</td><td>x [ x</td></tr><tr><td>VD-R-DC-POC VD-R-DC-POC</td><td>275363 275363</td><td>X |</td><td>x</td><td>x</td><td>X |</td><td>X |</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVW1vmzAQ/isWn5diXkLC1EVql0r7Mq3KtmhSUiEDl4QVDLKdjr7kv88G85KURBWRztw9vnvujJ+sXg1IIQMqgiQ2PiMjJJFPwMGWP7YiHE7jiR9u3CneuNHE9Vzb+ISMDASJiSAS/2qoRcDzPYugeYcgYiBNldCaOLble5aHr7DaXMWzPE42yQVAwfIIOO8QNnam1vTKGeOJ4/kKVwDLEs6TnPJAs1m9GjKz4uE4NnYPDxLGIMpZHKR5RETOKooFETuV1/zNgXGTJVFEWCw3csGISLh5/xztCMvuWf4XIsHNeE+3PCjyyIzzaK+mxc3vt3fBXFKlYUqEuCrijXE4yHqbJAVKMkXCGMBohHguKgQpijSRzGQXpg6nhG73ZAtcNWQA3RqqjUJ6ArrPQlA9WI50CShFQHiwE1mqcl0LEqYwuxY7ILE0TC1nt/ACSbSjsoVrU74r3w0TySOk6z3GJF5TJPNmwNrwz4LQI/xSdpx08M2ePirGbXwB2xTY+fgdjVPJn7YILuebin5JAWmqptxCCJW8t9AibkGwBMIzAFN1azadh3n8rAcQz5bz0XJ08xVpK1Fx5bcntu3ZqDaNF7H8H5ftf1kb7tqYWRiPbBejpdw/xqaH0bcX1HNKGo27zfvxRUX6mOXo/kfLVK17bMfOeIpq03pX5Zv8yed9ifIC6MRzwmOhp7U4npbrjV1Um0vVPtjsotfsYqhZz0K1uVTsbNl3o53rsc5PRurXI/XPfAC2u5Q7bVdu7jaW6FK7/Wi7HuDTHfV8oHtcd4+7VG9DVcvhePfybuxzPfKTQVQ3QZke9xW6OOkTQPc2ULM76qFmnbq203r/oLeLp92Pt2utAfXlN2sxNA5aKJVALkn6BHOWPAHSCohqZUO1gKFGp1ArR6iRHdTTUdQIpBbOVvC6RSNwjUq1tlEjrT5l9fQvv77opX4GFai5pPpSll2aRT+NvEJlP1jdAv3VHzm7HbjF1998c2b64zgu1d/odKXUn1jz//ZLnYJxePgPp92Wpw==",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "190e0cfa19bc2ce52e6d4382955a3e6f",
+    "text": "Bezeichnung Artikel\u00ad nummer Max. Betriebs\u00ad druck Ausgangsdruck Min. Max. \ufffdkPa\ufffd \ufffd\"W.C.\ufffd \ufffdkPa\ufffd \ufffd\"W.C.\ufffd PS-0 PS-0 275265 275265 20 kPa 20 kPa -0,5 -0,5 -2 -2 0,5 0,5 2 PS-10/40 PS-10/40 275263 275263 70 kPa 70 kPa 0,4 0,4 16 1,6 10 10 40 40",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Bezeichnung</td><td>Artikel\u00ad nummer</td><td>Max. Betriebs\u00ad druck</td><td>Ausgangsdruck</td></tr><tr><td>Min.</td><td>Max.</td></tr><tr><td>\ufffdkPa\ufffd</td><td>\ufffd\"W.C.\ufffd</td><td>\ufffdkPa\ufffd</td><td>\ufffd\"W.C.\ufffd</td></tr><tr><td>PS-0 PS-0</td><td>275265 275265</td><td>20 kPa 20 kPa</td><td>-0,5 -0,5</td><td>-2 -2</td><td>0,5 0,5</td><td>2</td></tr><tr><td>PS-10/40 PS-10/40</td><td>275263 275263</td><td>70 kPa 70 kPa</td><td>0,4 0,4</td><td>16 1,6</td><td>10 10</td><td>40 40</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVNtu2zAM/RVBz0ksy5ckRRdg2fZYIEA37KEpDFmSE6++QZKxdkX+fZIlX5JmW4cAEUUekoci6YdXyAte8kolOYM3AKY8iHjKsogyn4QpyTAOArJmqR9lccgiOAOw5IowoojGv0IjJLJuBeX9nSdUcH10Af1lgP117MdogYxzZy9rlmf5XwCNqCmXckRgFKz81SKI0DKI1wbXcFHmUuZ1JRPH5uEV6siGRxBgFJ4eNUxwWguWFDUlqhYdxYaoo4nrfZNcSE/klBLBtKNUgqhcersXeiSi3In6B6dKeqytDjJpauqxmrbmtaR3t/2SfNZUq7QgSi0alsHTSefL8oJXpDQk4BWMQ6iXpkOQpilyzUxX4TlzQapDSw5cmoIgrw7QlNFoTVK1ZcpNDX6gVYo/q4TI5KjKwsS6VSQt+OZWHTlh+hBGBKL+KRtSfdjDYA83W/6L5/RY6YJuPXW8gvgoVP7Ei32LEGH7CuicJRd/AN+R5wUAGrXlSuQ8lYMbEy19GrxoXTiv0KRo5UEXKScYr2MrLsDYpMirxZU42GV/477Zt1mWsacdsULv6/R7+H3xaXHV9H6XLp3Xv3NasxeXnW1293MEzJ+2s06DlxGOI2CPUYuAzgfsMWjnaBYB8zdqMJjj4WbMU6uzjOV3BHzkhR2JTjgnElgiwaBdWiLLcyJoFupE4XD3Y+DP4vGKgD8G1sn6NBdMIuRh1FGx0jmX0HIJ/8FlLH81SBEC0SSazjFEn1LYtnJOzVZo9hEowcV9Qide+z6wx/j2/ye5qbDj4NllhCe3qGZBd0J/0lrB73klawHO1gB0q+SWD0zWdFgtYDbBwuxO2h0DF8ML3g7teyDd3PajattghxGbgQN4GCc3P65JZkjMZOhxAOGk0a6zPQqDle6X6dFlC9ybg3n/M5/A/uv41eDg6fE3oYAHjA=="
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "cf3fc94febb247b98bf0896ebb7520c3",
+    "text": "PS-50/200 PS-50/200 275264 275264 70 kPa 70 kPa 2 8 50 50 200 200 Bus-cable 1,5 m Bus-cable 1,5 m 276911 276911 - - - - -",
+    "metadata": {
+      "text_as_html": "<table><tr><td>PS-50/200 PS-50/200</td><td>275264 275264</td><td>70 kPa 70 kPa</td><td>2</td><td>8</td><td>50 50</td><td>200 200</td></tr><tr><td>Bus-cable 1,5 m Bus-cable 1,5 m</td><td>276911 276911</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVNtu2zAM/RVBz0ksy5ckRRdg2fZYIEA37KEpDFmSE6++QZKxdkX+fZIlX5JmW4cAEUUekoci6YdXyAte8kolOYM3AKY8iHjKsogyn4QpyTAOArJmqR9lccgiOAOw5IowoojGv0IjJLJuBeX9nSdUcH10Af1lgP117MdogYxzZy9rlmf5XwCNqCmXckRgFKz81SKI0DKI1wbXcFHmUuZ1JRPH5uEV6siGRxBgFJ4eNUxwWguWFDUlqhYdxYaoo4nrfZNcSE/klBLBtKNUgqhcersXeiSi3In6B6dKeqytDjJpauqxmrbmtaR3t/2SfNZUq7QgSi0alsHTSefL8oJXpDQk4BWMQ6iXpkOQpilyzUxX4TlzQapDSw5cmoIgrw7QlNFoTVK1ZcpNDX6gVYo/q4TI5KjKwsS6VSQt+OZWHTlh+hBGBKL+KRtSfdjDYA83W/6L5/RY6YJuPXW8gvgoVP7Ei32LEGH7CuicJRd/AN+R5wUAGrXlSuQ8lYMbEy19GrxoXTiv0KRo5UEXKScYr2MrLsDYpMirxZU42GV/477Zt1mWsacdsULv6/R7+H3xaXHV9H6XLp3Xv3NasxeXnW1293MEzJ+2s06DlxGOI2CPUYuAzgfsMWjnaBYB8zdqMJjj4WbMU6uzjOV3BHzkhR2JTjgnElgiwaBdWiLLcyJoFupE4XD3Y+DP4vGKgD8G1sn6NBdMIuRh1FGx0jmX0HIJ/8FlLH81SBEC0SSazjFEn1LYtnJOzVZo9hEowcV9Qide+z6wx/j2/ye5qbDj4NllhCe3qGZBd0J/0lrB73klawHO1gB0q+SWD0zWdFgtYDbBwuxO2h0DF8ML3g7teyDd3PajattghxGbgQN4GCc3P65JZkjMZOhxAOGk0a6zPQqDle6X6dFlC9ybg3n/M5/A/uv41eDg6fE3oYAHjA==",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "6813647cd9954c5e4d2f657ba08708b3",
+    "text": "13 ... 24 \n\nMBEKomponenten \n\nMBEKomponenten ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "orig_elements": "eJztkUtr3TAQhf+K0brYsiS/uizJopRANlmFYMbS6EbFloQkQ8Ll/vdI5oYWWkqXLWSl1zdnzug8ngmuuKFNs1Hkc0WUXhiXjPUDZwLGDtnClnZiXT8oPeqWfKrIhgkUJMj8mZTNHN0eJL6fcZYB83IItlmonfq2pzUtxcf75pTR5g+AD05ijD8IRvnYjjXv6MD7qXAew2ZiNM7G+erm8UyycvHBOaPi8pSxgNIFNa9OQnLhsOghPRfd5iFiiE0wUkJQuTCmAMnE5v5VPkPY7oP7jjLFRu32FGfvZKOc3Mtvxebuy+18k63aZYWUaq80uVxyP21WtLAVE+Q3zJVIr/4gwPvVZGd5iub6vII97XDCWAYiaE+kjOHzzWz3bcEyQ8tLq4Qv6fgfXtV1XTFRlfp36a9bLiGZ+yXiAbCjjI2Ua9nlqEcUOWS5dItSWuuPiP+JiMXPEec239zmnc3G0P5dzlQIpltJB9FPkx4BgQ7DIKRaxg4E6z9y/h9zfnoDPO7M7A=="
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "3b4f764b7ddeab4126383f6aa148b622",
+    "text": "ValveDrive Set Bezeichnung Artikel\u00ad nummer VD\u00adR PS BUS\u00ad Kabel Druck\u00ad w\u00e4chter VD-R-AC SET 10/40 VD-R-AC SET 10/40 279299 279299 VD-R-AC VD-R-AC PS-10/40 PS-10/40 inkl inkl. 3 VD-R-AC SET 50/200 VD-R-AC SET 50/200 279300 279300 VD-R-AC VD-R-AC PS-50/200 PS-50/200 inkl inkl. -",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ValveDrive Set</td></tr><tr><td>Bezeichnung</td><td>Artikel\u00ad nummer</td><td>VD\u00adR</td><td>PS</td><td>BUS\u00ad Kabel</td><td>Druck\u00ad w\u00e4chter</td></tr><tr><td>VD-R-AC SET 10/40 VD-R-AC SET 10/40</td><td>279299 279299</td><td>VD-R-AC VD-R-AC</td><td>PS-10/40 PS-10/40</td><td>inkl inkl.</td><td>3</td></tr><tr><td>VD-R-AC SET 50/200 VD-R-AC SET 50/200</td><td>279300 279300</td><td>VD-R-AC VD-R-AC</td><td>PS-50/200 PS-50/200</td><td>inkl inkl.</td><td>-</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytlN1P2zAQwP8Vy89r8520E6sEK9rDNKmiwB4oilz7aDLyJdvdxlD/99mJY1IRGNJ4aHy9O59/5/PdzSOGAkqoZJoz/BFh6rNgFkexFwUkCSMgLHAT8BiLI8YiCPAHhEuQhBFJlP8j1kIq6j2n0P+HlHJQSxvQSwLfm8de7E5dvbm1lzXL7/JXHBpeUxDiycN3g5k3mwaRmwTxXPs1wMtciLyuRGpobh6xiqw5gsB3w8OtcuNAa87SoqZE1rxFbIjMdFznSgAXDs8pJZypjUJyInPhrB5oRni54vUPoFI4bF/tRNrU1GE13evbEs63s/N0qVCrbUGknDbsDh8O6ry7vICKlBoCj/gYD/nQtB6kaYpckaksHGMuSLXbkx0InRCGaod1Go3SpNW+3ILOwQuVSsJvmRKRZrIsdKwTSbYFLE5kpqqmFq5FROtCNKT6tMHxBi+uSfETljz/CWgN8sSR2UJ9eO+9OIM/kNOsUgl3RvU75TK/h2Kzd13CNhVSFCVwa75edpYLq1mtrXh2te6sSG38SrZQWNOS7+m9DfpLSxDSTPahWyynT2ZbswdDydSRk4vJ6We0Pr9EnuuELnqmUTtZ6+snc38+R91itb2/Wa1+tZ50AXvBWvLqvkD6M7WqoJOe7u+YLHId3z1G61RDtkB5dMtb2ExIK71GN3md7hhswDR3w5liape3MLU4/3NPX76PFLFXDrh8bxaibnnfOuqzIhedRo6HBvI/qUcKbLXH3EnHnbx3jdvjnsh7eUDumM5xuuGAD2Zw6IFxPAyQ6XOkeha1zYkG00CRXigm0/xdKx817fMWND1nDbYmbQ5oMtIZphWGW4xhbE//Sofu4572iZlX9ALS8CGM19pU8yW+QQ30KO+n/KW+e3y4/Qt2ByJ6"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "8265ba25279fd136dfc2609ddf15e7ea",
+    "text": "VD-R-AC SET 0 VD-R-AC SET 0 290480 290480 VD-R-AC VD-R-AC PS-0 PS-0 inkl inkl. 3 VD-R-AC SET GW 10/40 VD-R-AC SET GW 10/40 292184 292184 VD-R-AC VD-R-AC PS-10/40 PS-10/40 inkl inkl. GW 150 A5/1 GW 150 A5/1",
+    "metadata": {
+      "text_as_html": "<table><tr><td>VD-R-AC SET 0 VD-R-AC SET 0</td><td>290480 290480</td><td>VD-R-AC VD-R-AC</td><td>PS-0 PS-0</td><td>inkl inkl.</td><td>3</td></tr><tr><td>VD-R-AC SET GW 10/40 VD-R-AC SET GW 10/40</td><td>292184 292184</td><td>VD-R-AC VD-R-AC</td><td>PS-10/40 PS-10/40</td><td>inkl inkl.</td><td>GW 150 A5/1 GW 150 A5/1</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytlN1P2zAQwP8Vy89r8520E6sEK9rDNKmiwB4oilz7aDLyJdvdxlD/99mJY1IRGNJ4aHy9O59/5/PdzSOGAkqoZJoz/BFh6rNgFkexFwUkCSMgLHAT8BiLI8YiCPAHhEuQhBFJlP8j1kIq6j2n0P+HlHJQSxvQSwLfm8de7E5dvbm1lzXL7/JXHBpeUxDiycN3g5k3mwaRmwTxXPs1wMtciLyuRGpobh6xiqw5gsB3w8OtcuNAa87SoqZE1rxFbIjMdFznSgAXDs8pJZypjUJyInPhrB5oRni54vUPoFI4bF/tRNrU1GE13evbEs63s/N0qVCrbUGknDbsDh8O6ry7vICKlBoCj/gYD/nQtB6kaYpckaksHGMuSLXbkx0InRCGaod1Go3SpNW+3ILOwQuVSsJvmRKRZrIsdKwTSbYFLE5kpqqmFq5FROtCNKT6tMHxBi+uSfETljz/CWgN8sSR2UJ9eO+9OIM/kNOsUgl3RvU75TK/h2Kzd13CNhVSFCVwa75edpYLq1mtrXh2te6sSG38SrZQWNOS7+m9DfpLSxDSTPahWyynT2ZbswdDydSRk4vJ6We0Pr9EnuuELnqmUTtZ6+snc38+R91itb2/Wa1+tZ50AXvBWvLqvkD6M7WqoJOe7u+YLHId3z1G61RDtkB5dMtb2ExIK71GN3md7hhswDR3w5liape3MLU4/3NPX76PFLFXDrh8bxaibnnfOuqzIhedRo6HBvI/qUcKbLXH3EnHnbx3jdvjnsh7eUDumM5xuuGAD2Zw6IFxPAyQ6XOkeha1zYkG00CRXigm0/xdKx817fMWND1nDbYmbQ5oMtIZphWGW4xhbE//Sofu4572iZlX9ALS8CGM19pU8yW+QQ30KO+n/KW+e3y4/Qt2ByJ6",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ed040c9b03b6c13689536b9d259096b0",
+    "text": "VD-R-AC SET GW 50/200 VD-R-AC SET GW 50/200 292187 292187 VD-R-AC VD-R-AC PS-50/200 PS-50/200 inkl inkl. GW 500 A5/1 GW 500 A5/1",
+    "metadata": {
+      "text_as_html": "<table><tr><td>VD-R-AC SET GW 50/200 VD-R-AC SET GW 50/200</td><td>292187 292187</td><td>VD-R-AC VD-R-AC</td><td>PS-50/200 PS-50/200</td><td>inkl inkl.</td><td>GW 500 A5/1 GW 500 A5/1</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytlN1P2zAQwP8Vy89r8520E6sEK9rDNKmiwB4oilz7aDLyJdvdxlD/99mJY1IRGNJ4aHy9O59/5/PdzSOGAkqoZJoz/BFh6rNgFkexFwUkCSMgLHAT8BiLI8YiCPAHhEuQhBFJlP8j1kIq6j2n0P+HlHJQSxvQSwLfm8de7E5dvbm1lzXL7/JXHBpeUxDiycN3g5k3mwaRmwTxXPs1wMtciLyuRGpobh6xiqw5gsB3w8OtcuNAa87SoqZE1rxFbIjMdFznSgAXDs8pJZypjUJyInPhrB5oRni54vUPoFI4bF/tRNrU1GE13evbEs63s/N0qVCrbUGknDbsDh8O6ry7vICKlBoCj/gYD/nQtB6kaYpckaksHGMuSLXbkx0InRCGaod1Go3SpNW+3ILOwQuVSsJvmRKRZrIsdKwTSbYFLE5kpqqmFq5FROtCNKT6tMHxBi+uSfETljz/CWgN8sSR2UJ9eO+9OIM/kNOsUgl3RvU75TK/h2Kzd13CNhVSFCVwa75edpYLq1mtrXh2te6sSG38SrZQWNOS7+m9DfpLSxDSTPahWyynT2ZbswdDydSRk4vJ6We0Pr9EnuuELnqmUTtZ6+snc38+R91itb2/Wa1+tZ50AXvBWvLqvkD6M7WqoJOe7u+YLHId3z1G61RDtkB5dMtb2ExIK71GN3md7hhswDR3w5liape3MLU4/3NPX76PFLFXDrh8bxaibnnfOuqzIhedRo6HBvI/qUcKbLXH3EnHnbx3jdvjnsh7eUDumM5xuuGAD2Zw6IFxPAyQ6XOkeha1zYkG00CRXigm0/xdKx817fMWND1nDbYmbQ5oMtIZphWGW4xhbE//Sofu4572iZlX9ALS8CGM19pU8yW+QQ30KO+n/KW+e3y4/Qt2ByJ6",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "0adb15c912a7d00606a071a0838aed09",
+    "text": "3\n\nSystemzubeh\u00f6r \n\nSystemzubeh\u00f6r \n\nDUNGS\u00ae Combustion Controls\n\nVPS 504 (bis VB-100)\n\nwww.dungs.com/de/produkt/vps-504-ventilpruefsystem-fuer-mehrfachstellgeraete\n\nDruckw\u00e9chter\n\nwww.dungs.com/de/produktgruppe/gas-und-luftdruckwaechter\n\nManometer\n\nwww.dungs.com/de/produkt/manometers-accessories-manometer-druckknopfhahn-manometerabsperrventil\n\nLeitungsdosen\n\n15 ... 24",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "orig_elements": "eJztl01v3DYQhv/KYk8t0F3xm1SPaYqiQBMYcJxLGiyG5HBXtb5ASnYdw/+91NZutq4br28LQydR5HA0w+flUPx0u8QaG2yHTeWXPy6WCCwI48EFKl2pWUAmrXZBWOAkvy5/WCwbHMDDANn+djk1Nqkbo8OHd9y4iPmxd0g1Z7RUVJE1mSbvx5vOV6H6hkEfO4cpfbVghBtq1lwSzVU52fUYmyqlqmvT5j6aT7fL7HmKg3NGxN3nbBbRddFv6s7B0MV9iD0Mu8lvcZEwpiJWzkH0eWIaIgxVKs5u3A5icxa7P9ANqfBju02bvnOF79w4rVYq3r35efM2h9raGoZh3fuwvLvL3wtVjS00UxDLJ2zuLYabfm8BfV9XObKcRXE/XEO7HWGLaUpoie12OaXR555NOzYWpxyomD414J/D5IRP0x48XrTZHW67WH1B/2GyyKaPKQeufQZtOBiK3hrBGJYONXoCVBM+Uz49yoeQf22y4VNgJRCHUmsnTXCcKW4tNTQE6pXRjOkZ7EmAlYdgz2/SgM2X0eLu95GQoOLiONZeKRm88syUHJXwNq906b1gIpRezqX6FbE2DG0pQ4lceRectUBV5u0FVQ5JmFmfIOu3F+9/OZ8oAy5+6ho7pslfbrZD7Op0FHeFsiTUaKu9yuxLms9tEmgZtCkDc3TmfnrcP56dLyQRi+9slRYf36woId8fwv5QDfWTsLkpnTdBKU6oBoMIQjvCKapc460xM+zTgL3vii/YpIfquL6+Xu9zWruuKTwWebn9eDkUV31aZdmsrrLjqu7jiCHtT4tVGDGuGtzFAG6Xe+p6ixFwwENVvYc4LeAV/t8/v+ee8WAV8xoD40JLZxk4qY0T1DA3q+s01PWvIySO7vJ6OkPy9Ww3ZItj6ohQiJKADwBAmUXtcvXQuc2lL4mCmfRpkH5cR57docfUkW0c+x6LLaTV2PpVPYbB71UE+B8FPVsznFfEa0tljoc5740uCRfGOUq09GG+Tp6Ikg6F8Q7aLjM5slbktQTmlKQYlLTeEZGPMpRUgGMl52ImfBqEH9eKZ3fmUf8czYNW0grcBKCLFabVP92rfem4bLs+7GDXfh0AmzKP+Pe/yotKClMkgCcyh+6Fk04IWpaUGEuCJEbMN9nXILjfsBqmlHyXsH2RPFAzISwvATmU2pXK56rEwXJHnCKgZnm8AnlQuViv1wsmviGNz38BzXt6kA=="
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "35a157db33f5500fa33a397e0c84e232",
+    "text": "Durchflusskurven  Arbeitsbereich nach EN 88-1 / EN 88-3   Basis  +15 \u00b0C, 101,3 kPa / 60 \u00b0F, 407 \"W.C.   trocken  MBE\u2026VV  MBE\u2026VR  p2 < 10,0 kPa / 40 \"W.C.  p2 = 0 kPa / 0 \"W.C. \n\nDurchflusskurven \n\nMBE050\u2026 (Rp 1\u00bd)\n\nArbeitsbereich  40.0  10,0   4.0  1,0   0.4  0,1   ]  ]  .  a  C  P  .  W  k  1,0  100  10  1.000  [     \"  \u00b0  p  Vn [m3/h] Luft dv = 1,00  [     \u2206  p  \u2206  100  10  10.000  1.000  \u00b0  Vn [m3/h] Erdgas dv = 0,65  1.000  100  100.000  10.000  \u00b0  V [CFH] Erdgas dv = 0,65 @ 60 \u00baF \n\n16 ... 24",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "orig_elements": "eJztVm1v2zYQ/isHfdowTzq+iJKGFtiaJtiAtgiKLf3gBAZFUrYW6wWiFLQI8t93VOSkCIIiHzPAhk0fyece3vFI3q1vI7d3jWvHTW2j3yBSMi+4YFhpURaiUhnKMuXKVha1ciijFUSNG7XVoyb8bRSEje+mwbhD323M4OhvJmSZ4KxQTGGMQXmebzpbV/UPAP3QGef9I4KjyFkeixQzoYqA693Q1N7XXes3izXr24iYgx1CcJR3VwQbnOkGu9l3Ro/dMJvY63EXeJN/vBt8MtTG6MGSoh8HPdY+Of9mdnpozofuX2dGn9ip3fpN35nEdmYKu+WTj+9ON+/J1Lbc63GMe1tFd3e0XlXvXaubYET0DGZBjN/6GaH7fl+TZeRFskzvdbud9Nb54FDk2m0U3OhpZNNOTemCD0yFpUb3dQwk72nzd9V+8v56Gm5cC/DHULp69AR2tdlBq6k5/QR5/iuDZJEEALzTvvYAv7AULifEEk9WwJCtBFyfa0IqXMbPViAxg8voS3wSk+JI8bkOK5GLlxNHri4uvu98Bug5vCGyFS5cEh/UaeotHMYfhoPzh335qyF/I3Ly6fm0rBJGY2ZtnmIuKimQa0QttXSlVOp4Pv8H5/NFkc7QpQJFyRRDzKVLjcsrV0hZlJhqzY+Rfn2RpmUwxfs3AH763AObnw/78/cR/6SH4NyN+ztoPRN5YXlRoFOoFPIceYpOFqrKBDMm02VxjPzri/yLrrSjR5vpKuPMFrxIlUkVzyvULJc5FRjuGNjXF9gnpQSl8RjhPq9TZ5ZnEWNJzYqReDV/Kc9rgBOA81n+AnC9YOk9Dw39YgziGsLnMoKl2KACAeCihXUjkt0VfJiqEewNlQyk/QifKGxqhh7ER168J174D6yPlKeD3Wp/T4orlT5AF4qDPj4hgPXJ2Z/PqP/+UCnps5dlN9SVSfM81aVxZWVYZnjKKieM5ErkEo9X4fVdBaYgjmPg8gfZ7Oo/nzILww=="
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fbf5e41ae4986f9a646e541191ccf12f",
+    "text": "Durchflusskurven  Arbeitsbereich nach EN 88-1 / EN 88-3   Basis  +15 \u00b0C, 101,3 kPa / 60 \u00b0F, 407 \"W.C.  trocken  MBE\u2026VV  MBE\u2026VR  p2 < 10,0 kPa / 40 \"W.C.  p2 = 0 kPa / 0 \"W.C. \n\nDurchflusskurven \n\nMBE050\u2026 (Rp 2)\n\nArbeitsbereich  40.0  10,0   4.0  1,0   0.4  0,1   ]  ]  .  a  C  P  .  W  k  1,0  [  100  10  1.000     \"  p  [  \u00b0     Vn [m3/h] Luft dv = 1,00  \u2206  p  \u2206  100  10  10.000  1.000  \u00b0  Vn [m3/h] Erdgas dv = 0,65  1.000  100  100.000  10.000  \u00b0  V [CFH] Erdgas dv = 0,65 @ 60 \u00b0F \n\n17 ... 24",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "orig_elements": "eJztVu9v0zwQ/ldO+fQi+ibn/A4CCRhDIAGaEIwP3VQ5zrkNa37ITibQtP+dc5pu0zShfRxSq9a92M89vvNjx7e88mhLDbXDqq68F+CJKAozSoUoU63zMI1TKTLFRq5LklXuLcBraJCVHCTjrzxnrGw3GkX7Z1opQ/y3I8yiUBSpSNFH5zyNN11V6/ovgN50iqy9RYQY5SL3owSzKC0crifT1NbWXWtXczTLK4+ZXRycBcbX5wwzpDpTrbadkkNnphB7OWwcb/DdkrGBqZWSpmJHOxg51DY4+a020jQnpvtJarBBNbZru+o7FVSdGt1q2eDz2+PVOw61LbdyGPy+0t71Nc+n6y21snFBeA9gZsTwu58Qsu+3NUfGWQTz8Fa261GuybqEPGrXnkuj555VOzYluRxE5qYa6NfgSN7x4m/0drT2YjSX1AK8MSXVg2Uw1WoDreTm+Avk+f8CgtmKAOCttLUFeC4SOBsRSzxagECxiODiRDIyxbn//QJizODM++Ef+QADy3PhJuIMz8YQw/T09O7DV4A+hJfMtcCZKsYbbx56Bfv+m26X+35ZPjacrsc53t+eFEZ5FqIuVFyEiZI6EVVElMuYUpkn5WF7/gPb81FKF0QSi0jnqFROMhE5StIlK6GqTIjioPTTU5qnwQR37wD472sP4bO7Wn+RxqV1Sd8c/gHNhWZHkjojLWLKMqwK0iiljEuRJgoPmj89zR91mEudFjnqPNFhqOIyKlBHaYlhklGiI3GoKp6gsPdqCL7AfYTdjc4Pkz2Z6MfcLASb59OXb3gJcARwMtk/AC5m7NL5TyT889GZ/DnzuCSYBne1xtR52sKyiYLNOXwa9QDVJZcMzIEOxLKlk8vevCXFHetMvue7JTs21VraHR0u0uQGOlPs/fEeASyP3n94wP31nRLpcfdakqS51AVmQosqK0ouYqa2DEuh9U6sw1F4WkdBZOD7PoTxX26z8z8Nsgwx"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "42f0f196856f4e6f5fbf8db182e78667",
+    "text": "Durchflusskurven  Arbeitsbereich nach EN 88-1 / EN 88-3   Basis  +15 \u00b0C, 101,3 kPa / 60 \u00b0F, 407 \"W.C.  trocken  MBE\u2026VV  MBE\u2026VR  p2 < 10,0 kPa / 40 \"W.C.  p2 = 0 kPa / 0 \"W.C. \n\nDurchflusskurven \n\nMBE065\u2026\n\nArbeitsbereich  40.0  10,0   4.0  1,0   0.4  0,1   ]  ]  .  a  C  P  .  W  k  1,0  100  10  1.000  [     \"  p  \u00b0  [  Vn [m3/h] Luft dv = 1,00     \u2206  p  \u2206  100  10  10.000  1.000  \u00b0  Vn [m3/h] Erdgas dv = 0,65  1.000  100  100.000  10.000  \u00b0  V [CFH] Erdgas dv = 0,65 @ 60 \u00b0F \n\n18 ... 24",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "orig_elements": "eJztVm1v2zYQ/isHfZ0nkaJEScMKdE1TbMBWBEWXfnACgy9HW4v1AlEKVgT57zvKchIEQZGPGWDDpk/kcw/v+JDire8i3GOD7bipbfQLRC4rNK+cQ4tcq9xorCrltK1ymefGpNEKogZHZdWoCH8XBWPju2kweHzGjRmQ/mZCXoiUV5JLFrPgPI83na1d/QNAP3QGvX9EpEyUvIxFzgohq4DrcWhq7+uu9ZslmvVdRMwhDiFSlt1fE2xA0w12s++MGrthDrFX4y7wJn97HHwy1MaowZKjHwc11j65+G52amguhu4fNKNP7NRu/abvTGI7M4XV8slfH843HynUVu/VOMa9ddH9Pc3n6j22qglBRC9gFsT4vZ8Rqu/3NUVGWSTL8F6120lt0YeEImy3UUijp55NOzUaQw68DFON+O8YSD7S4u/cfvL+ZhpusQX4bdBYj57AWJsdtIqa889Qlj9zSBZLAMAH5WsP8BPP4WpiTLOzFXDGVwJuLhQhJVv6P60gYwVcRd/isxhgJHluwkSU4dWUslReXj59+ALQp/Arca3YQpWxB28aegfH/ofukPtxWf5oKN2Icny+PbmVEgXLU1WYqhSpFZIpZmmzonAFt6ft+T/Ynq9S2tg8LQvhMrSFo01VGOlyyaSyXOs01yel357SNA2T+eEd8FTkz2oI+dzi1wB8QezMaoa5yPKUkcTMYaUqlVud2dJpbbKT2G9P7FedYiGMs1nKy5TnUjtkGlFmwnBdFWXpxEnYtyfss+KBbu6YweEqp4fZnk0WZ9SsOJnX85eudgVwBnAx298AbhYsZ3NDv5gFcw3hcxVRLQBLhTF3XrawbkSyu4Y/JzeCvaVCgQjYAT6RbHJxOZiPvOxAvPAfKR/5zge7Vf7AyFYyf4AuFEd/9owA1meffn/B/f2T2uh1F5pQ2hhZ2RIVVSppydBJ5VSaIS+FNeXpKLy9o8BLiOMY0uwHt9n1f8vMC+c="
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "7c26de78c243c10f15b3e3514732134c",
+    "text": "Durchflusskurven  Arbeitsbereich nach EN 88-1 / EN 88-3   Basis  +15 \u00b0C, 101,3 kPa / 60 \u00b0F, 407 \"W.C.   trocken  MBE\u2026VV  MBE\u2026VR  p2 < 10,0 kPa / 40 \"W.C.  p2 = 0 kPa / 0 \"W.C. \n\nDurchflusskurven \n\nMBE080\u2026\n\nArbeitsbereich  40.0  10,0   4.0  1,0   0.4  0,1   ]  ]  .  a  C  P  .  W  k  1,0  100  10  1.000  [     \"  p  \u00b0  [  Vn [m3/h] Luft dv = 1,00     \u2206  p  \u2206  100  10  10.000  1.000  \u00b0  Vn [m3/h] Erdgas dv = 0,65  1.000  100  100.000  10.000  \u00b0  V [CFH] Erdgas dv = 0,65 @ 60 \u00b0F ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "orig_elements": "eJztVm1r2zAQ/iuHvy6LJcu27LHB1rRjg62EsbUfkmBkSU68xC9Idlkp/e87OU5bShj92EHiRD6dnnt0p1N0Wtx5eqcrXXdZqbx34LFIRTSgMSl4EgZciLwQjAV5HnHFIpl7E/Aq3QklOoH4O88JmW16I/WhrzNpNL4GQspZQNMYGafEGQ/jVaPKovwHoDWN1NY+IgLCEppMWUQ4i1OHa7WpSmvLprbZ6M3izkNm5we6TML7FcKMlo1R2a6RomvM4GIruo3j9X9ZbaxvSimFUWhoOyO60vrzW7kRppqb5reWnfVVX69t1jbSV43s3WpZ//vZRXaOrtb5TnTdtFWFd3+P8xXlTteick54RzAjorttB4Ro212JnmEU/ji8E/W6F2ttXUCerteeC6NFTVb3Va5dDDR1U3X6T+dIznHxN8Wut3bbmxtdA3wyuS47i2Bdyg3UApuLS0iStxT8UWIAcCZsaQHe0AiWPSE5mU2AEjphsJ0LRMZk1H+eQEg4LL3r6WyKhh3mZ+tmwhCXfUCC+OrqaecHQBvAeySbkJErJA/mOPQBDvoHtQv+sC5fK4zXwyCf709BCQmZiFMSCsVIrEKpqJKSFnkRhDQ67c//YH++KNNKBIwTXkQy5bHkeRLlCdN5ojnRNNXklOnXl2mchiRkfwY8TfKlMC6eG/3TAY8kO0gkSwMSJ3jKcJ0UEdNcRUGQFDLE51R2XmGyX/YvZqlUksskZDlNeBQyPLE1FzwtopxweUrs60vss9sDVu4pgX0px84gDyKZhthMKIqr4YulXQDMAOaDfA2wHbFYtV2Dvylx4gLcZ+nhXQDGK8agvKphUTF/s4JvfdGBusGLAhKQPbzHtMWjyV585CV74pH/QPnId2HUWtg9I5nE0QN0pDjYk2cEsJh9/nLE/OOTy9Gxgrb6C0D3b04="
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "117eeaf8d2aa9db5a5f8be9f0a748e98",
+    "text": "Durchflusskurven  Arbeitsbereich nach EN 88-1 / EN 88-3   Basis  +15 \u00b0C, 101,3 kPa / 60 \u00b0F, 407 \"W.C.   trocken  MBE\u2026VV  MBE\u2026VR  p2 < 10,0 kPa / 40 \"W.C.  p2 = 0 kPa / 0 \"W.C. \n\nDurchflusskurven \n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nMBE100\u2026\n\nArbeitsbereich  40.0  10,0   4.0  1,0   0.4  0,1   ]  ]  .  a  C  P  .  W  k  1,0  100  10  1.000  [     \"  p  \u00b0  [  Vn [m3/h] Luft dv = 1,00     \u2206  p  \u2206  100  10  10.000  1.000  \u00b0  Vn [m3/h] Erdgas dv = 0,65  1.000  100  100.000  10.000  \u00b0  V [CFH] Erdgas dv = 0,65 @ 60 \u00b0F \n\n20 ... 24",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "orig_elements": "eJztVm1v2zYQ/iuEvs6TjyJFScMGbE1TdMBWBMOafnACg6+2GusFpBS0DfLfe5TlJAiyIh89wIZNn8jnHvL4HKlb3SV2ZxvbDuvaJL+QhLHSmQKkgkoAddRJyYVQrtLccV3pZEGSxg7SyEEi/i6Jxjp0o9f28GzX2lv8mwhpwTJaCSogheg8jTedqV39A0DvO21DeERkwEpapiyHgokq4nrrmzqEumvDel7N6i5B5rgOxjLg99cI81Z33qx3nZZD56cl9nLYRt7lx2B9WPpaa+kNOobBy6EOy4uveit9c+G7z1YPYWnGdhPWfaeXptNj3K2w/PvN+fotLrVVOzkMaW9ccn+P87l6Z1vZxEUkL2BmxPC1nxCy73c1rgyjWM7DO9luRrmxIQaU2HaTxDB67Fm3Y6NsjCGDONVgvwyR5C1u/tbtxhBuRn9rW0L+8MrWQ0CwrfWWtBKb8w+kLH+mZDlbjBDyRoY6EPITzcnVCKDgbEEo0AUjNxcSkQLm/ncLwqEgV8mn9CxFxwH1uYkzYYhXYwaZuLx8+vAPIX1GfkWyBcxcHB7cceg3cuh/6I7BH/blzwbjTTDI5/kJpmSmotJamQtKQTpdWg1CS5czKOkpP/8H+fkqpanNJVCZ5wUFFNtQzaTUxijDVMWy4qT08SkdTz/lr2mfpsDHFue1m87X36z5N1K9kA5KMssZ5ZXlqpKlygxIkRtTFMrRjPFTOhxfOuA0FGD/Sngq+AfpYzy39r/EroTijmrLOSvxvmeqKKgowBVYjFRKwEns4xP7VZe6pkw4WlmFZSYVJaUoshIYeaWodbI8CXt8wj4rJrGQS4HsKzt8mOzJhJRjs6BoXk9frPQkIWeEXEz2J0JuZizeCrHBXwrRXJH4uUqwNCRzxTl1XrZk1bDl9pr8NbqBmFusG5EA9vARZROzy9585IU98cx/oHzkO/dmI8OeERYif4DOFAd/eEZAVmfv3r/g/vuTWvmV9U1uaSUdAyF0UQhjALMq4zzPc27AVKejcHxHIQOSpinJ+A/eZtffAX5gr1s="
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "26a179c298f7929d8575f2c13b7afb01",
+    "text": "Durchflusskurven  Arbeitsbereich nach EN 88-1 / EN 88-3   Basis  +15 \u00b0C, 101,3 kPa / 60 \u00b0F, 407 \"W.C.   trocken  MBE\u2026VV  MBE\u2026VR  p2 < 10,0 kPa / 40 \"W.C.  p2 = 0 kPa / 0 \"W.C. \n\nDurchflusskurven \n\n[ \u2014\n\nMBE125\u2026\n\nDUNGS\u201d Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "orig_elements": "eJztVk1v1DAQ/StWriwb24ntBMGBfoA4UFVAy6Gtook92Q3Nl2ynoq3637GXbalQQRyLtJfEGb95M8/PtnJ2m2CHPQ6+ak3yiiQcmGpkQQWnomSGs5prnWMhWN5oqctkQZIePRjwEPC3SRxUbpytxvtvrLTF8NoQMpVxVkom6ZLG5M18P5q2af8CmOyo0blfCE6zghXLTFCVyU0XE9q+da4dB1dtuzm7TQJz7CPLOM3vLgLMoh6tqbpRgx/tpsUJ/DrypicOrUttqzVYExKdt+Bblx5f6zXY/tiO31B7l5p5WLlqGnVqRj3H1XLpx73D6iC0OtQdeL+cTJPc3YV6TdvhAH1sInkCs0X462mDgGnq2tBZUJFupzsYVjOs0EVBCQ6rJMqYQqQa5r7GqIGzWMrjdx9JDsLir5tudu5ytlc4EPLW1th6F8DY6jUZIDwOj0hRvGQk3Y4yQsgeuNYR8oIJcj5TWtP9BWGULTJyeQwBKek2/m5BcqrIefJ1ub8MiT74cxkrBYnnM6dcnp4+/vhEyMTJ60C2oFuunD6kh6k35D7+EI7i79flQx/0JkHk7/uTcW44VaZpSqCKMyFAMQm8zEyhpdS7/fkf7M9/cloJplGqWimspQIFstSYa1GLEgXN5M7p5+f0GYnnn+WPDT4ZAiuuRtveoPkSgU+YDbw2vDRaSVNmMjclqNqIjIY15oLDzuxnaHYow7j4eeE/NvwIbNRzhX8ym+ZcZMyUMm8Ac1VqBVgWJeeKK6FzsTP7+Zl9cHL0/vPmcBuyP/b17CJfGA7hV6BzT9zoFz8A0848ZA=="
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "3f6150712ab3e649a67c617e3e34ce9e",
+    "text": "Arbeitsbereich  40.0  10,0   4.0  1,0   0.4  0,1   ]  ]  .  a  C  P  .  W  k  1,0  100  10  1.000  [     \"  \u00b0  p  Vn [m3/h] Luft dv = 1,00  [     \u2206  p  \u2206  100  10  10.000  1.000  \u00b0  Vn [m3/h] Erdgas dv = 0,65  1.000  100  100.000  10.000  \u00b0  V [CFH] Erdgas dv = 0,65 @ 60 \u00baF \n\n21 ... 24\n\nDurchflusskurven  Arbeitsbereich nach EN 88-1 / EN 88-3   Basis  +15 \u00b0C, 101,3 kPa / 60 \u00b0F, 407 \"W.C.   trocken  MBE\u2026VV  MBE\u2026VR  p2 < 10,0 kPa / 40 \"W.C.  p2 = 0 kPa / 0 \"W.C. \n\nDurchflusskurven \n\nMBE150\u2026",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "orig_elements": "eJztVltv0zAU/itHeaUkviV1EEjA2AQSoAnBeChT5VvasOYiO5lA0/47x2m6TdOEeBzSqsY9sb/z+VycL11dJW7nGtcO69omLyAx3JZmqWWes1JKY5wrqKBLbpZFJY22yQKSxg3KqkEh/iqJxjp0ozfucO/Wxjv8mQjRl9GyoAVJSXSe1pvO1lX9F0DvO+NCuEUwwiWVKc/JkhdlxPXON3UIddeG9RzN6ipB5hgH54yI63OEeWc6b9e7zqih81OIvRq2kTf7FpwPma+NUd6iYxi8GuqQnf42W+WbU9/9dGYImR3bTVj3nclsZ8ZYrZB9enu8foehtnqnhiHtbZVcX+N+Vb1zrWpiEMkDmBkx/O4nhOr7XY2RYRbZvLxT7WZUGxdiQolrN0lMo8eZdTs22sUcGI1bDe7XEEneeO3qIeCSq80WQGAlAShZ4AhisieTpAKHBUXzfPqmAArgCOB0sr8DXMxYSqYBr5REcwXx8yPBayRE40wPcNbCquHZ9hw+jtUA9hJeRe9b+IhtKybowbzlJXvimf/Aekt57O1GhT0pWRT5DXSmOPiTewSwOjp5/4D7ayjIHqVOINb50IIPDZY2wXrefxSs49pZLijXLC+MsVS7vFJOCaENVerpUXh8jwKjkKYpMHG3w5+Vj8lcuq8R9UCnSV5VUgpNCsK1pdYya4iTknFDbMH0U6cfRafZ3U6/w+Jvq90YwsXoL10LcE8GW4XD8WeQ8jmFbLY4ytJbFeoA8Izms2ocLVBG6ILDxalC5EEnyMkCpXSJqvc9PUJ5hAH7cxF3whRR0Agrzs7u3nxBqWPwcq+8ey5BbtxxCaVonr+Z/iclYrpkVotlJRSeGGOZ4FwvpZD5kmojydP5/A/O5z91Gv9mqUrge0eXoiqKstRSylLqqqKmkCx/6vTj6zRuQ3Oy14C/vHbO/wCVqHXD"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "6c97ac5060fb8197df9892e21c7f1ff9",
+    "text": "DUNGS\u201d Combustion Controls\n\nArbeitsbereich  40.0  10,0   4.0  1,0   0.4  0,1   ]  ]  .  a  C  P  .  W  k  1,0  100  10  1.000  [     \"  \u00b0  p  Vn [m3/h] Luft dv = 1,00  [     \u2206  p  \u2206  100  10  10.000  1.000  \u00b0  Vn [m3/h] Erdgas dv = 0,65  1.000  100  100.000  10.000  \u00b0  V [CFH] Erdgas dv = 0,65 @ 60 \u00baF \n\n22 ... 24\n\n\u00b0 \u00b0 = V verwendetes Gas V Luft x f Dichte Luft f = Dichte des verwendeten Gases\n\nDichte Luft\n\nDichte des verwendeten Gases\n\nDUNGS\u201d\u00ae Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "orig_elements": "eJztV1tv2zYU/iuEngOZd4kDCnRLmm7AVgTo2j24gcHLoaPNuoCUshZB/vtIWa6zIlizNz/YsKhD8TsfD/XxkNT6oYAdtNCNm8YVP6CCYirrGpQTRFumtLU1q7TE3FtSVVgXF6hoYdROjzrhH4psbGI/BQuHOmxsgHSbCUnFKFGSSFzi7Dy3t71rfPMfgCH0FmI8IihmNalLJnDFpMq4AULbxNj0Xdws0awfisSc42CMYv54m2ABbB/cZtdbPfZhDnHQ413mXX2IEOIqNNbq4JJjHIMem7i6+WLvdGhvQv8n2DGu3NRt42bo7cr1dspvK65+++nN5iqF2pmdHsdycL54fEz9+WYHnW5zEMUzmAUxfhlmhB6GXZMiS6NYLc073W0nvYWYB1RAty3yMIb0ZNNNrYE8BkpzVyN8HjPJ1Yd3b99/migmDl32rZli5ktmN4Z+FzPpob9f2sRTJOdvda+YsFyaCpQXtAKLrVYOO6+MNUZhOOt+err/GAw0Y0xN0Ng7hHh6kwgRfJFKxGd7NnHJU3FBknk7/0uENEKXCN3M9h8I/bVgCZ6LdJU4m2uUf5+KdE0Ym/RkQOhjh9YtW93dol8nPyJ3j15l7yN8SrLJGXowj7x4T7zwH1iPlG+C2+q4J8UXUnyFLhQHf/wNAVpfXv/8jPtrJPEepa/Ri1IhzX2qtTSMWU58TaUgSikA4KqiUrJzKpxeKlCKyrJElD9V+J0OeTD38HtGPaO0EzUYqoFjKb3zDmrFuDeUi9rLipuz0iehNHuq9ItS2CshrMCSCe8rqz2lSrFKUGs5JQKTs7CnJ+yyki+3V2lFv4fwN3QORojobVrUP+73m8/Io6u04Y2wr/sEXupp8E+8uuwF/zr/XPehnXb6uTlDPdeSY5ISP516TRJL4HQA8lYa76g6LwYnOGeeTIP/tfBzRUlltPGcVbiqakuE9cR7jrlUVPGz1ier9XdT/LviW0OVcA5XnFjuMRHcKe0UlY4oRqw/i3+C4h8/cfMGoeGFH7q3/wB+wT6F"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "0ba0aef415a8083a25fa5b0c94c74969",
+    "text": "Gasart Gasart Dichte [kg/m?] Dichte dv dv f Erdgas Erdgas 0,81 0,81 0,65 0,65 1,24 1,24 Stadtgas Stadtgas 0,58 0,58 0,47 0,47 1,46 1,46 Flussiggas Fl\u00fcssiggas 2,08 2,08 1,67 1,67 0,77 0,77 Luft Luft 1,24 1,24 1,00 1,00 1,00 1,00",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Gasart Gasart</td><td>Dichte [kg/m?] Dichte</td><td>dv dv</td><td>f</td></tr><tr><td>Erdgas Erdgas</td><td>0,81 0,81</td><td>0,65 0,65</td><td>1,24 1,24</td></tr><tr><td>Stadtgas Stadtgas</td><td>0,58 0,58</td><td>0,47 0,47</td><td>1,46 1,46</td></tr><tr><td>Flussiggas Fl\u00fcssiggas</td><td>2,08 2,08</td><td>1,67 1,67</td><td>0,77 0,77</td></tr><tr><td>Luft Luft</td><td>1,24 1,24</td><td>1,00 1,00</td><td>1,00 1,00</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9U8uO2yAU/RXEOgr4EdupolSqZqabVhqprbrIRBYB7Lj1S4BHjUb593IxcVGn080BDpdznxxesGxlJ3tTNgK/QzhKEylSuakSu/KYx4nIxVZQXlRZKtIcrxDupGGCGWbtXzBsSj1MisvbWZZcSbvMgnkSR9ssyuiawmN33w2iqZr/GIxq4FLrPxYxTYqoWCcbmifZFuxGqbpG62bodemjObxgqwxxJElM0+vRminJByXKduDMDMqFODJzBl3yTUuliWo4Z0rYh9ooZhpNHi/8zFT3qIYfkhtNxNTXuhwHTsTAJ6iWJp8/3Jd3NtT+1DJj1qOo8PVq/VVNK3vWQRD4HzbewlxGZ8HGsW1sZDYL4q9b1tcTq6WGhLDsawxpjJYp+6k7ScghTixl5C9TMl2eTdeC1s6wUyv3O3OWTNhFwXb/kWmmDJqXHbEMsHcNPxuJDj9r0r0/ovm43IpnJJ6XUzXvCAiSm/hpEBfvQ+zvlaiZRvNibYRj6aqIEEDAZBsEsDDRKk4RwMw4H170ix0yA7K3TSCzKRBAwKQ5AgiE0wwBvBZ+aCc7NjVIP7RPE6UV9+fldbyiBQII9LIcAQQ+c/CZ5689fJoqgwDeytMxlCKAt5hQ8DvTMKpmqCoU7INYaAGVtRhy2RY5XLhkVcQIIHBBfC/JPD746kcLRsoPTzgtydHOBqp8s5Fvsu2rS3Fpmu9Rmrsm/F1oV1tXTldBVyvka+SLEOaJlvxsRhA+/JPbF/oKYePr8TcSL3RU"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f7ee7d02b66979166637c1e962168a97",
+    "text": "Wasserstoff Wasserstoff 0,085 0,085 0,069 0,069 3,82 3,82",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Wasserstoff Wasserstoff</td><td>0,085 0,085</td><td>0,069 0,069</td><td>3,82 3,82</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9U8uO2yAU/RXEOgr4EdupolSqZqabVhqprbrIRBYB7Lj1S4BHjUb593IxcVGn080BDpdznxxesGxlJ3tTNgK/QzhKEylSuakSu/KYx4nIxVZQXlRZKtIcrxDupGGCGWbtXzBsSj1MisvbWZZcSbvMgnkSR9ssyuiawmN33w2iqZr/GIxq4FLrPxYxTYqoWCcbmifZFuxGqbpG62bodemjObxgqwxxJElM0+vRminJByXKduDMDMqFODJzBl3yTUuliWo4Z0rYh9ooZhpNHi/8zFT3qIYfkhtNxNTXuhwHTsTAJ6iWJp8/3Jd3NtT+1DJj1qOo8PVq/VVNK3vWQRD4HzbewlxGZ8HGsW1sZDYL4q9b1tcTq6WGhLDsawxpjJYp+6k7ScghTixl5C9TMl2eTdeC1s6wUyv3O3OWTNhFwXb/kWmmDJqXHbEMsHcNPxuJDj9r0r0/ovm43IpnJJ6XUzXvCAiSm/hpEBfvQ+zvlaiZRvNibYRj6aqIEEDAZBsEsDDRKk4RwMw4H170ix0yA7K3TSCzKRBAwKQ5AgiE0wwBvBZ+aCc7NjVIP7RPE6UV9+fldbyiBQII9LIcAQQ+c/CZ5689fJoqgwDeytMxlCKAt5hQ8DvTMKpmqCoU7INYaAGVtRhy2RY5XLhkVcQIIHBBfC/JPD746kcLRsoPTzgtydHOBqp8s5Fvsu2rS3Fpmu9Rmrsm/F1oV1tXTldBVyvka+SLEOaJlvxsRhA+/JPbF/oKYePr8TcSL3RU",
+      "is_continuation": true
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "789f7aab23f3407626ff9a67460347be",
+    "text": "MBE - Edition\n\n\u00c4nderungen, die dem technischen Fortschritt dienen, vorbehalten.\n\n23 ... 24 \n\nDUNGS\u201d\u00ae Combustion Controls\n\nMBE \u00ab Edition 10.21 * 294\n\nKarl Dungs GmbH & Co. KG\n\nKarl-Dungs-Platz 1\n\n73660 Urbach,\n\nDeutschland\n\nTelefon +49 7181-804-0\n\nTelefax +49 7181-804-166\n\nE-mail info@dungs.com\n\nInternet www.dungs.com\n\n2 24",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "MBE_Datenblatt.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "orig_elements": "eJztmEtvGzcQgP8KsYceUmvF96OnorXjBkEDA7VPSSAMyaG1hXZX2F3FSQz/95KCjbqBEUQ97WEBASLF4bw+DjHU+/sKd9hiN22aWP1CKp8CRsaN944FyhzXRidvTeLIrQZZnZGqxQkiTJDl76sy2Iz9YQj4NMdNGDB/HRUyIzhzmmla07L5uN72sUnNdwT2Qx9wHP+V4FRYZmuhqBHaFbk9Dm0zjk3fjZtHb97fV1lz8UMITuXDxyw2YOiHuNn1AaZ+OLq4h2lb9K5vRhzG9dCEAEPMG8dpgKkZ11dfwhaG9mro/8Ywjet46G7Hzb4P69iHQ8nWuP7zt4vNeXa18zuYpnofU/XwkO2lZocdtMWJ6gWZR4npy/4oAfv9rsme5SjWj8s76G4PcItjCajC7rYqYezzL5vu0HosMXBRTE34eXo0Q1bkIjZFTVHxpP26mXZYZdFvKWeSXiXPHLOMQzDcUWpN0EBz2gRdKM+Q8ocDpUF2EYfsJ3ZnJDZIIrZkwrDtmjFssSOv+2HKo6GZprLeFblP/eBxC7vsYf38dLzu+ynbeeF4CCEVY7bQcMk7y5QzQqXEUwARjViOx/yOBxekrmvCJXnO+E2bt7yEWHsatYsignKOOyWV4CG5IK1XCo1fEM8CsXyO+IfAKhRcA0eKPgkbOVUhUIrCpMBlni5g5wf2/Obd5V8fDpyyWG55QPJ73/rDWLTmYTcN/W78IfrcCZ481R6M1uijA66ljwpoot5pvtCfH/3Svh2x+6cejjBac0ZeEe7kc+zvYCgRfsLrsvWlW10lEJ4iSzRS1Npa7qlUiktEFmVY8M8P/1sYduS8+EguW/8H+SlXfE3eXp4E3oJ0EagwLICSHGyEoAzlEVPOP00L+HmCXx3Br66yoa+EnYSc08Ag8ARgks2FT3MzJ4QJEFzwEZYObobIc0Y0JTeDh7A9O4k2FVo6Gq2XmspEE3CuuFEiOGWFF8vNPkPa53goj/G8MZ7EWqLhLsVM1krMHwnaoURlk+GUC7Ownh/r64ww5c7tZ+mIYZatLJUrelqJO4jMOCbQOp/fb9xZSrXJt3tOt4/Ly22u2OHzf7EzrU8Cz6LhDCBqJ5G6GANG42xIynCtg1r+bpsh+ItVC82ONF3qfz26Woe+Pa3cqQEISXoG+YkmGGcyeu11SDwIJZZynyH1N92EQ4cTubu7q/8fdjDeeUiBIRhjJFUssZB7OpM7O2GFW7DPDzvP8+9A/vgPvNNGCA=="
+    }
+  }
+]

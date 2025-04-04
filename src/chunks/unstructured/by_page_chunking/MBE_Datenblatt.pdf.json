@@ -1,0 +1,5823 @@
+[
+  {
+    "type": "Image",
+    "element_id": "638b9a00b88bed2fd4058cbd77a67203",
+    "text": "MBE  GasMultiBloc\u00ae Generation E ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "f92a3554f4f04b8fcfdf4cc96df74152",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c1c2c2589bfdf0b99a3aaa1851adadc2",
+    "text": "Das Mehrfachstellger\u00e4t MBE ist eine Kombination aus dem Geh\u00e4use mit zwei Sicherheitsabsperrventilen (ValveBody) und zwei elektronischen Antrieben (ValveDrive) zur Bet\u00e4- tigung der Sicherheitsventile und zur optionalen Regelung",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c300adc9ca6582902313d69bf52419ec",
+    "text": ".",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5f50c0d5a0d7062f85021373d3ecf91d",
+    "text": "2 Sicherheitsabsperrventile nach EN 161",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ceefe8016da960500bddcb80f9a7c6bd",
+    "text": ".",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2801828bbb1f4c8675346526c54c8210",
+    "text": "Maximaler Eingangsdruck bis zu 70 kPa (700 mbar)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "577affb1527717fef22a3857891d9ea5",
+    "text": ".",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "478e2e58d2dc1c3458b591fd4b487079",
+    "text": "Spannungsvarianten: 100-240 VAC & 24 VDC",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f5a3650861cf6cd6712489550979dab6",
+    "text": ".",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5ea52e9258b8d8fdab99b49c37d5edaf",
+    "text": "Reglerfunktion nach EN 88-1 & EN 88-3",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3d35522f83d258093533e91ba3e91425",
+    "text": ".",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2eab2506b54f180bc287d23ae6039f21",
+    "text": "3 Sensoren (PS) fiir den kompletten Regelbereich (0-50 kPa)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "87416e8983729d0992d0394a97a0329e",
+    "text": ".",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9006822df0f5e486ce1ac1d4b25b776c",
+    "text": "Hoher Durchfluss bei geringem Druckverlust",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4e5f0650052bd0fd7fcb557f9e27ce10",
+    "text": ".",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "338e5283db482648ed300a3ac7507e9e",
+    "text": "Biogas getestet bis max. 1,0 Vol. % H,S",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4312461280202d262255087a495b6059",
+    "text": ".",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "971a8705387aebb7316666fc6800f8a8",
+    "text": "Baukastensystem",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4ebb48bdb25aa22b0b164b3ca834421d",
+    "text": ".",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3ad8f6e18ccebae713a6d51d2fab3d3c",
+    "text": "Einfache Montage",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "78fec65f841493f9904b3aa399886f22",
+    "text": ".",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cd047a4bfa98ceb9b3949e451a7514f2",
+    "text": "Leichtbaudesign",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d54e8c1b58909c59c7977e0dacb825d5",
+    "text": ".",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f9855d8a7f04c911b52370c2533e952b",
+    "text": "Weltweite Zulassungen",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "1657c9da2580f3e91e09f9ffc2a7dc6b",
+    "text": "Inhaltsverzeichnis MBE ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "2336fe9f0d7cc3cc2ca6fe3abc397d69",
+    "text": "Inhaltsverzeichnis MBE ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "649d88f3e7e11f82a9e12231930f8d07",
+    "text": "ValveBody VB 3 ValveDrive VD 4 PressureSensor PS 5 Technische Daten 6-8 Zulassungen 9 Einbauma\u00dfe 10 Druckabgriffe 11 MBE-Komponenten 12-14 Systemzubeh\u00f6r 15 Durchflusskurven 16-22 Kontakt 24",
+    "metadata": {
+      "text_as_html": "<table><thead><tr><th>ValveBody VB ValveBody VB</th><th>3</th></tr></thead><tbody><tr><td>ValveDrive VD ValveDrive VD</td><td>4</td></tr><tr><td>PressureSensor PS PressureSensor PS</td><td>5</td></tr><tr><td>Technische Daten Technische Daten</td><td>6-8 6-8</td></tr><tr><td>Zulassungen Zulassungen</td><td>9</td></tr><tr><td>EinbaumaBe Einbauma\u00dfe</td><td>10 10</td></tr><tr><td>Druckabgriffe Druckabgriffe</td><td>11 11</td></tr><tr><td>MBE-Komponenten MBE-Komponenten</td><td>12-14 12-14</td></tr><tr><td>Systemzubehdr Systemzubeh\u00f6r</td><td>15 15</td></tr><tr><td>Durchflusskurven Durchflusskurven</td><td>16-22 16-22</td></tr><tr><td>Kontakt Kontakt</td><td>24 24</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "40fa57e40099f7b9c7ed1cafa5494d04",
+    "text": "ValveBody (VB)  Der ValveBody ist die Kombi-  nation von zwei federbelasteten   Sicherheitsabsperrventilen in   einem Geh\u00e4use. Die Ventile sind   stromlos immer geschlossen. ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "31ee4fede2816b5aff620b658fb673ec",
+    "text": "ValveBody (VB)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "c23d8cc7a58f50ad661534886f4cc928",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "a791ef23abbbb546d65d690637ecda0d",
+    "text": "= KECIE e ol ol B B A1 ol cin & o DUNGSS 3k 1L i M 1 o oo == 0 b 0 - i = -_\u2014 \u20140",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "2527f452c86d708ffa92f03f9909e0ff",
+    "text": "ValveDrive (VD) ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "1af4410fc95fe3852b5bd9acb83b89e0",
+    "text": "ValveDrive (VD)  Der ValveDrive ist ein elek-  tronischer Stellantrieb mit   Schritt motor f\u00fcr die Spannungs-  varianten 100-240 VAC 50/60 Hz   und 24 VDC. Jeder ValveDrive   ist mit allen ValveBody-Ausf\u00fch-  rungen kombinierbar. Eine blaue   Betriebs- und eine optische   Stellungsanzeige sind standard-  m\u00e4\u00dfig im ValveDrive integriert.   Jeder ValveBody muss mit zwei   ValveDrives ausger\u00fcstet sein. ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1762aa0e2db8c3deee33c0dc178650c7",
+    "text": "Folgende Varianten sind verfiigbar:",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4eb1f785c2bb1d265c01d4ee275a6842",
+    "text": "\u2022 VD-V-(AC/DC)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1cb2dfde6ac9f8f41a4e8915d5f4ee33",
+    "text": ".",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "db01b01442964f3e4339332b0dc78256",
+    "text": "\u2022 VD-R-(AC/DC) Ventilantrieb Auf/Zu und mit Druckregelungsfunktion",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "627cacb8d1266c2793491ceb467a1833",
+    "text": "\u2022 VD-(V/R)-(AC/DC)-POC Ventilantrieb Auf/Zu mit oder ohne Druckregelungsfunktion",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "e473fa4f666d08088116ee1dcc3c7562",
+    "text": "P == e e i b",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "4ecdf59ba4b8ac01a8f2a7a2f74390a3",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "e879c17b7c2dd8694962e86cb97dce46",
+    "text": "& 4 A \u2122 \u00a2 \u2014",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "e91235aa35dc02009ffd48c25efb4460",
+    "text": "4 ... 24 ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "2fed56a5c96c113ebbe1829d187bcf30",
+    "text": "PressureSensor (PS)  Der PressureSensor ist ein hoch-  pr\u00e4ziser elektronischer Druck-  sensor mit digitalem Interface.   Der PS wird ausgangsseitig vom   ValveBody montiert.  Die Erfassung des Ausgangs-  drucks erfolgt durch den   PressureSensor. Das Drucksignal   wird \u00fcber das BUS-Kabel an den   VD-R \u00fcbermittelt. Der Sollwert   wird manuell am VD-R eingstellt.   ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "58b60336d5acf6c41c31e918c2358aef",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "886f96bdaa3a56b6035f11d1739270c6",
+    "text": "S \") \u2018c ;f & B & \u00a2 A",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "89e3ffea42543424f99909709db65053",
+    "text": "Technische Daten MBE ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "2c02037e92aea766b0c94c9e576cfec1",
+    "text": "Technische Daten MBE ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "0749c5b98c224857f38fe55507dfc854",
+    "text": "DUNGS\u00ae Combustion Controls",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "771ac452d5a14a7de009aeacb03e25eb",
+    "text": "Mehrfachstellger\u00e4t MultiBloc\u00ae Generation E",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "0802df3489504906c5c769e0728f3d3c",
+    "text": "Nennweiten VB-050: Rp 1\u00bd - 2 VB-065 bis VB-150: DN 65 - 150 VB-2L: NPT 1\u00bd - 2 VB-2\u00bdL bis VB-6L: NPS 2\u00bd - 6 Maximaler Eingangdruck VB-050 pmax. = 60 kPa (600 mbar) VB-065\u2026150 pmax. = 70 kPa (700 mbar) VB-2L pmax. = 8 PSI (240 \"W.C.) VB-2\u00bdL\u20266L pmax. = 10 PSI (280 \"W.C.) Ausgangsdruckbereich Nur in Kombination mit VD-R\u2026 und PS-\u2026 PS-0: 0 kPa / 0 \"W.C. PS-10/40: 0,4-10 kPa / 1,6-40 \"W.C. PS-50/200: 2,0-50 kPa / 8,0-200 \"W.C. Regelg\u00fcte \u00b1 5 % oder \u00b1 50 Pa (gem\u00e4\u00df EN 88-3) \u00d6ffnungszeit ca. 6 Sek. bis 100 % offen Schlie\u00dfzeit < 1 Sek. Schalth\u00e4ufigkeit max. 360/h Umgebungstemperatur -20 \u00b0C bis +60 \u00b0C",
+    "metadata": {
+      "text_as_html": "<table><thead><tr><th>Nennweiten Nennweiten</th><th>VB-050 VB-065 bis VB-150 VB-2L VB-2Y4L bis VB-6L VB-050:  \n  \n VB-065 bis VB-150: \n VB-2L:   \n  \n VB-2\u00bdL bis VB-6L:</th><th>Rp 172 DN 65 - 150 NPT 172 NPS 212 Rp 1\u00bd - 2\n DN 65 - 150\n NPT 1\u00bd - 2\n NPS 2\u00bd - 6</th></tr></thead><tbody><tr><td>Maximaler Eingangdruck Maximaler Eingangdruck</td><td>VB-050 VB-065 0 VB-2L VB-2'2L...6L VB-050 \n VB-065\u2026150 \n VB-2L \n VB-2\u00bdL\u20266L</td><td>max. kPa 600 mbar, ~N O kPa 700 mbar, g \u2014_\u2014 T T T iz PSI 240 \"W.C Prax. II TR \u00e9 PSI \u2014_\u2014 280 \"W.C ;; pmax. =  8  PSI (240 \"W.C.)</td></tr><tr><td>Ausgangsdruckbereich Ausgangsdruckbereich</td><td>Nur in Kombination mit PS-0 PS-10/40 PS-50/200 PS-0: \n  \n  \n PS-10/40:  \n  \n PS-50/200:</td><td>VD-R und PS- O0kPa/0\"W.C 0,4-10 kPa/1,6-40 \"W.C 2,0-50 kPa/ 8,0-200 \"W.C. 0 kPa / 0 \"W.C.\n 0,4-10 kPa / 1,6-40 \"W.C.\n 2,0-50 kPa / 8,0-200 \"W.C.</td></tr><tr><td>Regelgiite Regelg\u00fcte</td><td>+5 % oder + 50 Pa</td><td>(gemaB EN 88-3)</td></tr><tr><td>Offnungszeit \u00d6ffnungszeit</td><td>ca. 6 Sek. bis 100 %</td><td>offen</td></tr><tr><td>SchlieBzeit Schlie\u00dfzeit</td><td>&lt;1 Sek &lt; 1 Sek.</td><td></td></tr><tr><td>Schalthaufigkeit Schalth\u00e4ufigkeit</td><td colspan=\"2\">max. 360/h</td></tr><tr><td>Umgebungstemperatur Umgebungstemperatur</td><td>-20 \u00b0C bis +60 \u00b0C -20 \u00b0C bis +60 \u00b0C</td><td></td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "parent_id": "771ac452d5a14a7de009aeacb03e25eb",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "fa777e2831d62312d806a55d4ab62e32",
+    "text": "Technische Daten MBE ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "14c97ef6ed52b3c6e2a9f5a274bedb00",
+    "text": "Technische Daten MBE ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "e40415d9e43a6c8090ce4c03361194d7",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "09880e11d997be86caa969a88f3dab37",
+    "text": "Mehrfachstellger\u00e4t MultiBloc\u00ae Generation E",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "3d2876d6fcd92c04d482e98cac915a5f",
+    "text": "Medien Gem\u00e4\u00df EN 437:2018 Geeignet f\u00fcr Gase der Gasfamilien 1, 2, 3 (DVGW G 260), 100 % Wasserstoff (tro- cken), Bio- und Kl\u00e4rgase (DVGW G 262 (A)) bis max. 1,0 Vol. % H2S (feucht, +25 \u00b0C) vorbehaltlich anlagenspezifischer Gasanalyse. In Fl\u00fcssiggasanlagen den MBE\u2026 nicht unter 0 \u00b0C betreiben. Nur f\u00fcr gasf\u00f6rmiges Fl\u00fcs- siggas geeignet, fl\u00fcssige Kohlenwasserstoffe zerst\u00f6ren die Dichtwerkstoffe. Ventil V1, Ventil V2 Klasse A (EN 161), Gruppe 2 (EN 13611) Elektrischer Anschluss Steckverbindung nach DIN EN 175301-803 Schutzklasse II (EN/UL 60730-1) Spannung / Frequenz VD-\u2026-AC: 100-240 VAC, 50/60 Hz VD-\u2026-DC: 24 VDC \u00b1 30 % Einschaltdauer 100 % Leistungsaufnahme pro VD VD-\u2026-AC: max. 16 VA / 8 W pro Antrieb Einschaltstrom max. 1 A w\u00e4hrend 0,02 s VD-\u2026-DC: max. 8 W pro Antrieb Einschaltstrom max. 10 A w\u00e4hrend 0,02 s Schutzart IP 55 nach IEC 529 (EN 60529) Schmutzfangeinrichtung Sieb Ein geeigneter Gasfilter muss vorgeschaltet werden. Vibrationsresistenz VD-\u2026-AC: gepr\u00fcft nach EN 13611 VD-\u2026-DC: gepr\u00fcft nach EN 13611 & MIL-810G",
+    "metadata": {
+      "text_as_html": "<table><thead><tr><th>Medien Medien</th><th>GemaB EN 437:2018 Geeignet flr Gase der Gasfamilien 1, 2, 3 (DVGW G 260), 100 % Wasserstoff (tro- cken), Bio- und Klargase (DVGW G 262 (A)) bis max. 1,0 Vol. % H,S (feucht, +25 \u00b0C) vorbehaltlich anlagenspezifischer Gasanalyse. In Flissiggasanlagen den MBE... nicht unter 0 \u00b0C betreiben. Nur fiir gasf\u00e9rmiges FIi siggas geeignet, fliissige Kohlenwasserstoffe zerst\u00e9ren die Dichtwerkstoffe. Gem\u00e4\u00df EN 437:2018 \n Geeignet f\u00fcr Gase der Gasfamilien 1, 2, 3 (DVGW G 260), 100 % Wasserstoff (tro-\n vorbehaltlich anlagenspezifischer Gasanalyse.\n siggas geeignet, fl\u00fcssige Kohlenwasserstoffe zerst\u00f6ren die Dichtwerkstoffe.</th></tr></thead><tbody><tr><td>Ventil V1, Ventil V2 Ventil V1, Ventil V2</td><td>Klasse A (EN 161), Gruppe 2 (EN 13611) Klasse A (EN 161), Gruppe 2 (EN 13611)</td></tr><tr><td>Elektrischer Anschluss Elektrischer Anschluss</td><td>Steckverbindung nach DIN EN 175301-803 Schutzklasse Il (EN/UL 60730-1) Steckverbindung nach DIN EN 175301-803\n Schutzklasse II (EN/UL 60730-1)</td></tr><tr><td>Spannung / Frequenz Spannung / Frequenz</td><td>VD- -AC: 100-240 VAC, 50/60 Hz VD- -DC:24 VDC + 30 % Einschaltdauer 100 % VD-\u2026-AC: 100-240 VAC, 50/60 Hz\n Einschaltdauer 100 %</td></tr><tr><td>Leistungsaufnahme pro VD</td><td>VD-...-AC: max. 16 VA /8 W pro Antrieb Einschaltstrom max. 1 A wahrend 0,02 s VD- -DC: max. 8 W pro Antrieb Einschaltstrom max. 10 A w\u00e9hrend 0,02 s</td></tr><tr><td>Schutzart Schutzart</td><td>IP 55 nach IEC 529 (EN 60529) IP 55 nach IEC 529 (EN 60529)</td></tr><tr><td>Schmutzfangeinrichtung Schmutzfangeinrichtung</td><td>Sieb Ein geeigneter Gasfilter muss vorgeschaltet werden. Sieb</td></tr><tr><td>Vibrationsresistenz Vibrationsresistenz</td><td>VD-...-AC: gepriift nach EN 13611 VD- -DC: gepriift nach EN 13611 &amp; MIL-810G VD-\u2026-AC: gepr\u00fcft nach EN 13611\n VD-\u2026-DC: gepr\u00fcft nach EN 13611 &amp; MIL-810G</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "parent_id": "09880e11d997be86caa969a88f3dab37",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f1baac0c83742d579841842f1465e71e",
+    "text": "Flls-",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "4772d69cf7463a4448f97ef43cb00bf8",
+    "text": "Technische Daten MBE ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "dbe76adf777da1868fa5b1e165f3794c",
+    "text": "Technische Daten MBE ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "22bda322053260d118acb158b6fd2ce2",
+    "text": "DUNGS\u00ae Combustion Controls",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4a38fb3a0ec5a54f18a73695def8301c",
+    "text": "Mehrfachstellger\u00e4t MultiBloc\u00ae Generation E",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ae6c98cd9d742534bb48b4430f8ce352",
+    "text": "Einschaltdauer",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "4a38fb3a0ec5a54f18a73695def8301c",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1da4040a8e8d157783e3af49a0aac2c7",
+    "text": "Einbaulage",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "4a38fb3a0ec5a54f18a73695def8301c",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2beb3f7cf8997fd68906773e0b957393",
+    "text": "100 %",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "4a38fb3a0ec5a54f18a73695def8301c",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "39633292646c57bd9fbe4935f1b3e750",
+    "text": "Stehend senkrecht bis waagerecht liegend.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "4a38fb3a0ec5a54f18a73695def8301c",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "64f7f6ab237e78100b3e94e50310fc33",
+    "text": "Werkstoffe der gasbenetzten Teile",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "4a38fb3a0ec5a54f18a73695def8301c",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b64e60c65c243db6d166c844e170bfdb",
+    "text": "Gehause:",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "4a38fb3a0ec5a54f18a73695def8301c",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "375dd65cf2e58ed243405bc6f271a1c5",
+    "text": "Dichtungen:",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "4a38fb3a0ec5a54f18a73695def8301c",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "934f151cdcc47371736de84b39604238",
+    "text": "Aluminium",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "4a38fb3a0ec5a54f18a73695def8301c",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e99536ad27774956b72a7d0809b5353d",
+    "text": "NBR-Basis (VB-050 & VB-2L)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "4a38fb3a0ec5a54f18a73695def8301c",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7a5109b911ecb45ed5885c24f30be527",
+    "text": "VMQ (VB-065...150 & VB-2'2L 6L)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "parent_id": "4a38fb3a0ec5a54f18a73695def8301c",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "ce894a91d31cf575b685e5f327f87d2b",
+    "text": "Zulassungen ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "d617d55c9620175e742856d15d1e9462",
+    "text": "Zulassungen ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f81161ad9380841749c307669fb39d2e",
+    "text": "CE",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d9930ed8359d2c43f214ee9293c8382f",
+    "text": "EN 13611, EN 161; EN 126; EN 88-1; EN 88-3",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "f81161ad9380841749c307669fb39d2e",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ac3adfacb30b3dca591c697ca69b5041",
+    "text": "cULus: UL Listed to UL 429 and to ANSI Z21.21/CSA 6.5 C/I",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "f81161ad9380841749c307669fb39d2e",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "123f3e8bf8b0ae332c04948623dd3175",
+    "text": "UL us",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "190df19f93d46ea1ff46dbbd576551e8",
+    "text": "VB-100 & VB-125:",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "123f3e8bf8b0ae332c04948623dd3175",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7b4ec6b50640217d8a69f86c316dbf94",
+    "text": "FM Approval Class 7400",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "123f3e8bf8b0ae332c04948623dd3175",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0c3955f0456ae4e3f0f8becebba22322",
+    "text": "AGA AS 4629-2005",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "123f3e8bf8b0ae332c04948623dd3175",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bae3fae19667073034c30892094eb222",
+    "text": "EAC",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cd3678f748341dccaf4203330469695c",
+    "text": "TP TC 010/2011; TP TC 004/2011; TP TC 020/2011; TP TC 016/2011",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "bae3fae19667073034c30892094eb222",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5b95a768167b420cd231d0c095676d45",
+    "text": "UA EN 13611, EN 161; EN 88-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "parent_id": "bae3fae19667073034c30892094eb222",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "67a2aa60e45d57fc18086abc82ac7344",
+    "text": "cus ce\u00ae LISTED",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "dd5f2e551839c29d9a060f8742490837",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "dd54c63a84c28442431ad923b046e47b",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "8b4218d324203866c46ba68f4445909d",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "f73a284975d783040fa08a9210c39814",
+    "text": "Einbauma\u00dfe ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "a7553894b9e4765e459b0b75280867ea",
+    "text": "Einbauma\u00dfe ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "b6e231cbfeae5d62b3231e3d8cb4376c",
+    "text": "25  25  c  b  (38)  (e2)  d  a ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "97c6b8063d04643899b1c5b88bc366b9",
+    "text": "25  25 ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "da9ceb8562f7afc412b8da75c66b04e2",
+    "text": "(e2)  a ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d3586d6559e3c1bdb9dfb5643ecb6dfe",
+    "text": "' EN 558, Reihe 1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a89c656ecdd1e37623adfdc6fdce282c",
+    "text": "2Nur VB-...L Ausfiihrungen",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6d3794df374dd34b2421c2700ab5f767",
+    "text": "2 Nur VB-\u2026L Ausf\u00fchrungen 3 DN nach EN 1092-1:2007 PN 16 (raised face)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "17d26065bd4c61bfd7c30e9081ea946b",
+    "text": "EinbaumaBe",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "3d6150aa92465e7f68ee3c338e1deecb",
+    "text": "Einbauma\u00dfe Mittelraum Typ Gr\u00f6\u00dfe Gewicht volumen e2 a b c d f g MBE-050-\u2026 Rp 2 / NPT 2 250 mm 44 mm 313 mm 135 mm 109 mm 327 mm - 8,9 kg 0,95 l MBE2L\u2026 Rp 2 / NPT 2 9.8 in 1.7 in 12.3 in 5.3 in 4.3 in 12.9 in 19.6 lbs 0,95 l 3+4DN 65 1290 mm MBE-065-\u2026 106 mm 382 mm 180 mm 121 mm - 136 mm 13,5 kg 2,36 l 3+4NPS 2\u00bd 111.4 in MBE2\u00bdL\u2026 4.2 in 15.0 in 7.1 in 4.8 in 5.4 in 29.7 lbs 2,36 l 3+4DN 80 1310 mm MBE-080-\u2026 106 mm 382 mm 193 mm 126 mm - 146 mm 14,5 kg 2,68 l 3+4NPS 3 112.2 in MBE3L\u2026 4.2 in 15.0 in 7.6 in 5.9 in 5.7 in 32.0 lbs 2,68 l 3DN 100 1350 mm MBE-100-\u2026 106 mm 382 mm 225 mm 140 mm - 171 mm 17,0 kg 3,82 l 4NPS 4 113.8 in MBE4L\u2026 4.2 in 15.0 in 8.8 in 5.5 in 6.7 in 37.5 lbs 3,82 l 3DN 125 1400 mm MBE-125-\u2026 118 mm 382 mm 253 mm 176 mm - 196 mm 18,5 kg 5,35 l 4NPS 5 115.7 in MBE5L\u2026 4.6 in 15.0 in 10.9 in 6.9 in 7.7 in 40.7 lbs 5,35 l 3+4DN 150 1480 mm MBE-150-\u2026 132 mm 382 mm 282 mm 204 mm - 216 mm 23,9 kg 6,93 l 3+4NPS 6 118.9 in MBE6L\u2026 5.2 in 15.0 in 11.1 in 8.0 in 8.5 in 52.7 lbs 6,93 l",
+    "metadata": {
+      "text_as_html": "<table><thead><tr><th rowspan=\"2\">Typ Typ</th><th rowspan=\"2\">GroBe Gr\u00f6\u00dfe</th><th colspan=\"7\">EinbaumaBe Einbauma\u00dfe</th><th rowspan=\"2\">Gewicht Gewicht</th><th rowspan=\"2\">Mittelraum- volumen Mittelraum\u00ad\n volumen</th></tr><tr><th>a a</th><th>b</th><th>c c</th><th>d d</th><th>e e2</th><th>f</th><th>g</th></tr></thead><tbody><tr><td>MBE-050- MBE-050-\u2026</td><td>Rp2/NPT2 Rp 2 / NPT 2</td><td>250 mm 250 mm</td><td>44 mm 44 mm</td><td>313 mm 313 mm</td><td>135 mm 135 mm</td><td>109 mm 109 mm</td><td>327 mm 327 mm</td><td>-</td><td>8,9kg 8,9 kg</td><td>0,951 0,95 l</td></tr><tr><td>MBE-2L- MBE\u00ad2L\u00ad\u2026</td><td>Rp 2/NPT 2 Rp 2 / NPT 2</td><td>9.8in 9.8 in</td><td>1.7in 1.7 in</td><td>12.3in 12.3 in</td><td>5.3in 5.3 in</td><td>4.3in 4.3 in</td><td>12.9in 12.9 in</td><td>\u00ad</td><td>19.6 Ibs 19.6 lbs</td><td>0,951 0,95 l</td></tr><tr><td>MBE-065- MBE-065-\u2026</td><td>*4DN 65</td><td>290 mm</td><td>106 mm</td><td>382mm 382 mm</td><td>180 mm</td><td>121 mm</td><td>-</td><td>136 mm</td><td>13,5 kg 13,5 kg</td><td>2,361 2,36 l</td></tr><tr><td>MBE-2Y MBE\u00ad2\u00bdL\u00ad\u2026</td><td>3+NPS 212 3+4NPS 2\u00bd</td><td>11.4in 111.4 in</td><td>4.2in 4.2 in</td><td>15.0in 15.0 in</td><td>71in 7.1 in</td><td>4.8in 4.8 in</td><td>\u00ad</td><td>5.4in 5.4 in</td><td>29.7 Ibs 29.7 lbs</td><td>2,361 2,36 l</td></tr><tr><td>MBE-080- MBE-080-\u2026</td><td>*4DN 80</td><td>310 mm</td><td>106 mm 106 mm</td><td>382 mm 382 mm</td><td>193 mm 193 mm</td><td>126 mm 126 mm</td><td>-</td><td>146 mm 146 mm</td><td>14,5 kg 14,5 kg</td><td>2,681 2,68 l</td></tr><tr><td>MBE-3L- MBE\u00ad3L\u00ad\u2026</td><td>3NPS 3</td><td>12.2in</td><td>4.2in 4.2 in</td><td>15.0in 15.0 in</td><td>7.6in 7.6 in</td><td>5.9in 5.9 in</td><td>\u00ad</td><td>5.7in 5.7 in</td><td>32.0lbs 32.0 lbs</td><td>2,681 2,68 l</td></tr><tr><td>MBE-100- MBE-100-\u2026</td><td>*DN 100</td><td>350 mm</td><td>106 mm</td><td>382 mm</td><td>225 mm</td><td>140 mm</td><td>-</td><td>171 mm</td><td>17,0 kg 17,0 kg</td><td>3,821 3,82 l</td></tr><tr><td>MBE-4 MBE\u00ad4L\u00ad\u2026</td><td>\u2018NPS 4</td><td>13.8in</td><td>in 4.2 in</td><td>15.0in 15.0 in</td><td>8.8in 8.8 in</td><td>5.5in 5.5 in</td><td>\u00ad</td><td>6.7 in 6.7 in</td><td>37.51Ibs 37.5 lbs</td><td>3,821 3,82 l</td></tr><tr><td>MBE-125- MBE-125-\u2026</td><td>\u00b0DN 125</td><td>400 mm</td><td>118 mm 118 mm</td><td>382mm 382 mm</td><td>253 mm 253 mm</td><td>176 mm 176 mm</td><td>-</td><td>196 mm 196 mm</td><td>18,5 kg 18,5 kg</td><td>5,351 5,35 l</td></tr><tr><td>MBE-5L-. MBE\u00ad5L\u00ad\u2026</td><td>\u2018NPS 5</td><td>5.7 in</td><td>4.6in 4.6 in</td><td>15.0in 15.0 in</td><td>10.9in 10.9 in</td><td>6.9in 6.9 in</td><td>\u00ad</td><td>7.7in 7.7 in</td><td>40.7 Ibs 40.7 lbs</td><td>5,351 5,35 l</td></tr><tr><td>MBE-150- MBE-150-\u2026</td><td>*4DN 150</td><td>480 mm</td><td>132mm 132 mm</td><td>382 mm</td><td>282 mm</td><td>204 mm</td><td>-</td><td>216 mm</td><td>239kg 23,9 kg</td><td>6,931 6,93 l</td></tr><tr><td>MBE-6L-. MBE\u00ad6L\u00ad\u2026</td><td>3+NPS 6</td><td>18.9in</td><td>5.2in 5.2 in</td><td>15.0in 15.0 in</td><td>11in 11.1 in</td><td>8.0in 8.0 in</td><td>\u00ad</td><td>8.5in 8.5 in</td><td>52.7 Ibs 52.7 lbs</td><td>6,931 6,93 l</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "17d26065bd4c61bfd7c30e9081ea946b",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5ad3ff02a2315d9a10b61bee252d8cae",
+    "text": "10 ... 24",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "parent_id": "17d26065bd4c61bfd7c30e9081ea946b",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "3c6b49150801e6a1a466e6c517e0e64d",
+    "text": "Druckabgriffe ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "2827ba6ee7a38514f0ee4b6330be331f",
+    "text": "Druckabgriffe  VB050  VB2L  VB065\u2026150  VB2\u00bdL\u20266L ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "acf4aa890818d0179ed16ce5fe6469dd",
+    "text": "DUNGS\u00ae",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "95b2a2a5bb94cc38523df45774b549cc",
+    "text": "Combustion Controls",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "ca0ae704ebca1d0de4247fb03edc8dac",
+    "text": "3  4  2  1 ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "32ec66ae04566ab8aa4e73e06ee964ca",
+    "text": "3  4  2  1 ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "883e6a1c4aa789982e218ee515045bfa",
+    "text": "1  2  pmax.  60 kPa  600 mbar  M  M  3  4  8 PSI  V1  V2  1  2  5 ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "369667cc333777accaddf899d1d768b3",
+    "text": "1,2,3,4",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8c2ace3baa5195cd95fafb02dcc98423",
+    "text": "p1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cd66451f9dffed864f4f3fb8b0caeb77",
+    "text": "pm",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0a41381ca5e411b621dcba563a9a9f89",
+    "text": "Verschlussschraube Gs ISO 228",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "cd66451f9dffed864f4f3fb8b0caeb77",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d1e5a56ff85e27e5596683e340fdddf9",
+    "text": "Verschlussschraube",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "cd66451f9dffed864f4f3fb8b0caeb77",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5abc375cd292fc3ad81f4010e7d28928",
+    "text": "Nur firr Ausfiihrung VB-2L: Anschluss fiir Abblaseleitung NPT 1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "cd66451f9dffed864f4f3fb8b0caeb77",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "d853c58838e4181d24b535ae8f6ab2c9",
+    "text": "6  7  7  6  3  3  2  2  5  1  1  4 ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5e68c35ac0968d5bf5ec8e6d865a31b9",
+    "text": "1,2,3,5",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "f793da88916b4b422a9d482eb7bb5d85",
+    "text": "1 2  3  4  5  pmax.  70 kPa  700 mbar  M  M  6  7  10 PSI  V1  V2 ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5dd0fae216fdc1d84647dd5aa9d376dc",
+    "text": "p1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1d28a3805f93a729e7c40e75fe9ff65e",
+    "text": "p1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "68da77e1ed57f20ebc1c15dd2a1d9304",
+    "text": "pm",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2bd9b747446b8d955c0eebeea92bb98f",
+    "text": "pm",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6481c8ef45ce5d65a44df4cbcbebd898",
+    "text": "p2",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2b86025cb9b1bbb97d3da0d044bdaa12",
+    "text": "Verschlussschraube Gs ISO 228",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "6481c8ef45ce5d65a44df4cbcbebd898",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "125ec2090057acb0dfdf28e0942a3200",
+    "text": "Nur fir Ausfiihrung VB...L: Anschluss fiir Abblaseleitung",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "6481c8ef45ce5d65a44df4cbcbebd898",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c746b6f862dc93bf8f118b6b58262ddf",
+    "text": "VB-2'%.L = 1%\" NPT",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "6481c8ef45ce5d65a44df4cbcbebd898",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "caa85dc0bb0414607404783993da680d",
+    "text": "4",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "6481c8ef45ce5d65a44df4cbcbebd898",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d8c47f627faed146d83292f9526c8f84",
+    "text": "VB-3L 12\" NPT",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "6481c8ef45ce5d65a44df4cbcbebd898",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a646ec72e234f42a847723cf2d3eafa6",
+    "text": "G% flr Systemzubehor",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "6481c8ef45ce5d65a44df4cbcbebd898",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0b5a3cdbe12df8551eb9b39c4388fa35",
+    "text": "VB-4 2 \" NPT",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "6481c8ef45ce5d65a44df4cbcbebd898",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aa409fd910b31183aa495d9a245f1173",
+    "text": "VB-5L =2 \" NPT",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "6481c8ef45ce5d65a44df4cbcbebd898",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "85ac0cb89c013701503e75bb1839592b",
+    "text": "6,7",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "6481c8ef45ce5d65a44df4cbcbebd898",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c4c058462e6f8454f7807d7227ebf403",
+    "text": "VB-6L = 22\" NPT",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "6481c8ef45ce5d65a44df4cbcbebd898",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d9dd1531c96931c6fc0cf64e8577a8d3",
+    "text": "Verschlussschraube G4 ISO 228",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "parent_id": "6481c8ef45ce5d65a44df4cbcbebd898",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "3794b95805da2e2f60946afa5b19c358",
+    "text": "MBEKomponenten ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "ba76e493f0300094edd00cf9e4b37039",
+    "text": "MBEKomponenten ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "6b77b6b2f98e896a6503049f83456cb0",
+    "text": "ValveBody Bezeichnung Nennweite Artikelnummer VB-050 Rp 1\u00bd - 2 274846 VB-065 DN 65 274659 VB-080 DN 80 274661 VB-100 DN 100 274663 VB-125 DN 125 274665 VB-150 DN 150 274667 VB-2L NPT 1\u00bd - 2 274847 VB-2\u00bdL NPS 2\u00bd 274660 VB-3L NPS 3 274662 VB-4L NPS 4 274664 VB-5L NPS 5 274666 VB-6L NPS 6 274668",
+    "metadata": {
+      "text_as_html": "<table><thead><tr><th colspan=\"3\">ValveBody ValveBody</th></tr><tr><th>Bezeichnung Bezeichnung Nennweite</th><th>Nennweite</th><th>Artikelnummer Artikelnummer</th></tr></thead><tbody><tr><td>VB-050 VB-050</td><td>Rp 11%%-2 Rp 1\u00bd - 2</td><td>274846 274846</td></tr><tr><td>VB-065 VB-065</td><td>DN 65 DN 65</td><td>274659 274659</td></tr><tr><td>VB-080 VB-080</td><td>DN 80 DN 80</td><td>274661 274661</td></tr><tr><td>VB-100 VB-100</td><td>DN 100 DN 100</td><td>274663 274663</td></tr><tr><td>VB-125 VB-125</td><td>DN 125 DN 125</td><td>274665 274665</td></tr><tr><td>VB-150 VB-150</td><td>DN 150 DN 150</td><td>274667 274667</td></tr><tr><td>VB-2L VB-2L</td><td>NPT 1%2-2 NPT 1\u00bd - 2</td><td>274847 274847</td></tr><tr><td>VB-212L VB-2\u00bdL</td><td>NPS 212 NPS 2\u00bd</td><td>274660 274660</td></tr><tr><td>VB-3L VB-3L</td><td>NPS 3 NPS 3</td><td>274662 274662</td></tr><tr><td>VB-4L VB-4L</td><td>NPS 4 NPS 4</td><td>274664 274664</td></tr><tr><td>VB-5L VB-5L</td><td>NPS 5 NPS 5</td><td>274666 274666</td></tr><tr><td>VB-6L VB-6L</td><td>NPS 6 NPS 6</td><td>274668 274668</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "d9a47402319733c8193be9595b7362d7",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "1c5d49a7ad14a6045d7e5da08b45718c",
+    "text": "2.0 = \u2014 = s i 1 nMu 4 @ M L. =g o= e \u2014 =",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e784542261941595c158af166a35c18d",
+    "text": "12 ... 24",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "5a000db55e52a49b77b8b11080a9bacf",
+    "text": "MBEKomponenten ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "3d9b678828f86bc072c65eb5d790c126",
+    "text": "MBEKomponenten ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "15dfd5fe8bf4fd6a7104dc328d0c28e5",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "bac9ae301951c0b8d79bf480f4c74642",
+    "text": "ValveDrive Artikel Ventil Regler Endlagen Stellungs Betriebs Bezeichnung Spannung nummer funktion funktion schalter anzeige anzeige VD-V-AC 272262 x x x VD-V-AC-POC 275358 x x x x 100-240 VAC 50/60 Hz VD-R-AC 274654 x x x x VD-R-AC-POC 275361 x x x x x VD-V-DC 275359 x x x VD-V-DC-POC 275360 x x x x 24 VDC VD-R-DC 275362 x x x x VD-R-DC-POC 275363 x x x x x",
+    "metadata": {
+      "text_as_html": "<table><thead><tr><th>Bezeichnung</th><th>Artikel\u00ad\n nummer</th><th>Spannung</th><th>Ventil\u00ad\n funktion</th><th>Regler\u00ad\n funktion</th><th>Endlagen\u00ad\n schalter</th><th>Stellungs\u00ad\n anzeige</th><th>Betriebs\u00ad\n anzeige</th></tr></thead><tbody><tr><td>VD-V-AC VD-V-AC</td><td>272262 272262</td><td rowspan=\"4\">100-240 VAC 50/60 Hz 100-240 VAC\n 50/60 Hz</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>VD-V-AC-POC VD-V-AC-POC</td><td>275358 275358</td><td>[x|[x|x|x</td><td></td><td>x</td><td>[x|[x|x|x</td><td>[x|[x|x|x</td></tr><tr><td>VD-R-AC VD-R-AC</td><td>274654 274654</td><td></td><td>x</td><td></td><td></td><td></td></tr><tr><td>VD-R-AC-POC VD-R-AC-POC</td><td>275361 275361</td><td></td><td>x</td><td>x</td><td></td><td></td></tr><tr><td>VD-V-DC VD-V-DC</td><td>275359 275359</td><td rowspan=\"4\">24VDC 24 VDC</td><td>x x</td><td></td><td></td><td>x x</td><td>x x</td></tr><tr><td>VD-V-DC-POC VD-V-DC-POC</td><td>275360 275360</td><td>x| x</td><td></td><td>x</td><td>x| x</td><td>x| x</td></tr><tr><td>VD-R-DC VD-R-DC</td><td>275362 275362</td><td>x [ x</td><td>x</td><td></td><td>x [ x</td><td>x [ x</td></tr><tr><td>VD-R-DC-POC VD-R-DC-POC</td><td>275363 275363</td><td>X |</td><td>x</td><td>x</td><td>X |</td><td>X |</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "be35ebdf5cd1a4baf2233a9db15f64d5",
+    "text": "PressureSensor Ausgangsdruck Max. Artikel Bezeichnung Betriebs Min. Max. nummer druck \ufffdkPa\ufffd \ufffd\"W.C.\ufffd \ufffdkPa\ufffd \ufffd\"W.C.\ufffd PS-0 275265 20 kPa -0,5 -2 0,5 2 PS-10/40 275263 70 kPa 0,4 1,6 10 40 PS-50/200 275264 70 kPa 2 8 50 200 Bus-cable 1,5 m 276911 - - - - -",
+    "metadata": {
+      "text_as_html": "<table><thead><tr><th rowspan=\"3\">Bezeichnung</th><th rowspan=\"3\">Artikel\u00ad\n nummer</th><th rowspan=\"3\">Max.  \n Betriebs\u00ad\n druck</th><th colspan=\"4\">Ausgangsdruck</th></tr><tr><th colspan=\"2\">Min.</th><th colspan=\"2\">Max.</th></tr><tr><th>\ufffdkPa\ufffd</th><th>\ufffd\"W.C.\ufffd</th><th>\ufffdkPa\ufffd</th><th>\ufffd\"W.C.\ufffd</th></tr></thead><tbody><tr><td>PS-0 PS-0</td><td>275265 275265</td><td>20 kPa 20 kPa</td><td>-0,5 -0,5</td><td>-2 -2</td><td>0,5 0,5</td><td>2</td></tr><tr><td>PS-10/40 PS-10/40</td><td>275263 275263</td><td>70 kPa 70 kPa</td><td>0,4 0,4</td><td>16 1,6</td><td>10 10</td><td>40 40</td></tr><tr><td>PS-50/200 PS-50/200</td><td>275264 275264</td><td>70 kPa 70 kPa</td><td>2</td><td>8</td><td>50 50</td><td>200 200</td></tr><tr><td>Bus-cable 1,5 m Bus-cable 1,5 m</td><td>276911 276911</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "dfb23c2267324a85e2b2b192567df8f1",
+    "text": "13 ... 24 ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "d7ae5022803fc52268e4b2bcb5bddfff",
+    "text": "MBEKomponenten ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "0442f1c074699f8aea07774cdb85a426",
+    "text": "MBEKomponenten ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c2d38656153a745ead307e1dd65dd5e3",
+    "text": "ValveDrive Set Artikel BUS Druck Bezeichnung VDR PS nummer Kabel w\u00e4chter VD-R-AC SET 10/40 279299 VD-R-AC PS-10/40 inkl. - VD-R-AC SET 50/200 279300 VD-R-AC PS-50/200 inkl. - VD-R-AC SET 0 290480 VD-R-AC PS-0 inkl. - VD-R-AC SET GW 10/40 292184 VD-R-AC PS-10/40 inkl. GW 150 A5/1 VD-R-AC SET GW 50/200 292187 VD-R-AC PS-50/200 inkl. GW 500 A5/1",
+    "metadata": {
+      "text_as_html": "<table><thead><tr><th colspan=\"6\">ValveDrive Set</th></tr><tr><th>Bezeichnung</th><th>Artikel\u00ad\n nummer</th><th>VD\u00adR</th><th>PS</th><th>BUS\u00ad \n Kabel</th><th>Druck\u00ad\n w\u00e4chter</th></tr></thead><tbody><tr><td>VD-R-AC SET 10/40 VD-R-AC SET 10/40</td><td>279299 279299</td><td>VD-R-AC VD-R-AC</td><td>PS-10/40 PS-10/40</td><td>inkl inkl.</td><td>3</td></tr><tr><td>VD-R-AC SET 50/200 VD-R-AC SET 50/200</td><td>279300 279300</td><td>VD-R-AC VD-R-AC</td><td>PS-50/200 PS-50/200</td><td>inkl inkl.</td><td>-</td></tr><tr><td>VD-R-AC SET 0 VD-R-AC SET 0</td><td>290480 290480</td><td>VD-R-AC VD-R-AC</td><td>PS-0 PS-0</td><td>inkl inkl.</td><td>3</td></tr><tr><td>VD-R-AC SET GW 10/40 VD-R-AC SET GW 10/40</td><td>292184 292184</td><td>VD-R-AC VD-R-AC</td><td>PS-10/40 PS-10/40</td><td>inkl inkl.</td><td>GW 150 A5/1 GW 150 A5/1</td></tr><tr><td>VD-R-AC SET GW 50/200 VD-R-AC SET GW 50/200</td><td>292187 292187</td><td>VD-R-AC VD-R-AC</td><td>PS-50/200 PS-50/200</td><td>inkl inkl.</td><td>GW 500 A5/1 GW 500 A5/1</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ea2f48dacf15c972fe25b7cf4ba3072f",
+    "text": "3",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "f37da2f83a81edb8422e9ce7ed0a1703",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "5a0ce577c58fc3263bb181ff1d687227",
+    "text": "Systemzubeh\u00f6r ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "5d665fd6d2893e64db1739dd424f9d5f",
+    "text": "Systemzubeh\u00f6r ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "82eb95f9e36dcfcbba16db1d416ce0ff",
+    "text": "DUNGS\u00ae Combustion Controls",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6e590187b7d6e36917da0f19f789f2c1",
+    "text": "VPS 504 (bis VB-100)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "389cd8f663017a8eea47c031e66d2b88",
+    "text": "www.dungs.com/de/produkt/vps-504-ventilpruefsystem-fuer-mehrfachstellgeraete",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "parent_id": "6e590187b7d6e36917da0f19f789f2c1",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d3d23fb62d7ef23475cb2ac578c4182c",
+    "text": "Druckw\u00e9chter",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "46ee50adfaaa12be7c2b87aa135d906a",
+    "text": "www.dungs.com/de/produktgruppe/gas-und-luftdruckwaechter",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "parent_id": "d3d23fb62d7ef23475cb2ac578c4182c",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cd60d7b15ef22cdd8790348cc1075df7",
+    "text": "Manometer",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "322a2c651ef65bdc04901e514ac29334",
+    "text": "www.dungs.com/de/produkt/manometers-accessories-manometer-druckknopfhahn-manometerabsperrventil",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "parent_id": "cd60d7b15ef22cdd8790348cc1075df7",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "260fad05b15d4c5c44199108b0f5084f",
+    "text": "Leitungsdosen",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "parent_id": "cd60d7b15ef22cdd8790348cc1075df7",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e7244b39ae3a97c96d5bd3ab3c0c60a6",
+    "text": "15 ... 24",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "parent_id": "cd60d7b15ef22cdd8790348cc1075df7",
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "64892310fa3b93f6704b526dfd0a6e04",
+    "text": "Durchflusskurven  Arbeitsbereich nach EN 88-1 / EN 88-3   Basis  +15 \u00b0C, 101,3 kPa / 60 \u00b0F, 407 \"W.C.   trocken  MBE\u2026VV  MBE\u2026VR  p2 < 10,0 kPa / 40 \"W.C.  p2 = 0 kPa / 0 \"W.C. ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "d1f3ca07dd85083f4302a00a4a4eb466",
+    "text": "Durchflusskurven ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "70e5303b1610084e5ce8fe9449b05aa2",
+    "text": "MBE050\u2026 (Rp 1\u00bd)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "3d2990e60660280250e496f731cc7ab9",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "ed851af721d92956c5628f0a1848fd0e",
+    "text": "Arbeitsbereich  40.0  10,0   4.0  1,0   0.4  0,1   ]  ]  .  a  C  P  .  W  k  1,0  100  10  1.000  [     \"  \u00b0  p  Vn [m3/h] Luft dv = 1,00  [     \u2206  p  \u2206  100  10  10.000  1.000  \u00b0  Vn [m3/h] Erdgas dv = 0,65  1.000  100  100.000  10.000  \u00b0  V [CFH] Erdgas dv = 0,65 @ 60 \u00baF ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0afc5885abcebfc17c251fe3c4263840",
+    "text": "16 ... 24",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "13327e611b6ff82646a17c8268fbead8",
+    "text": "Durchflusskurven  Arbeitsbereich nach EN 88-1 / EN 88-3   Basis  +15 \u00b0C, 101,3 kPa / 60 \u00b0F, 407 \"W.C.  trocken  MBE\u2026VV  MBE\u2026VR  p2 < 10,0 kPa / 40 \"W.C.  p2 = 0 kPa / 0 \"W.C. ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "e238720f9c4925caf51d3ee8a4e6a85b",
+    "text": "Durchflusskurven ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9eea093f80cc8ea5180aefb961cd7119",
+    "text": "MBE050\u2026 (Rp 2)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "1f026eaf7ef14e770d9ef0aaa4b165c0",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "bf6980f85f22c4b390f36b0257e5f318",
+    "text": "Arbeitsbereich  40.0  10,0   4.0  1,0   0.4  0,1   ]  ]  .  a  C  P  .  W  k  1,0  [  100  10  1.000     \"  p  [  \u00b0     Vn [m3/h] Luft dv = 1,00  \u2206  p  \u2206  100  10  10.000  1.000  \u00b0  Vn [m3/h] Erdgas dv = 0,65  1.000  100  100.000  10.000  \u00b0  V [CFH] Erdgas dv = 0,65 @ 60 \u00b0F ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5568af9071f1d79b5ca79b5cb2b1ffdf",
+    "text": "17 ... 24",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "f47b19ffede1ba5cbe99afbd95655cc2",
+    "text": "Durchflusskurven  Arbeitsbereich nach EN 88-1 / EN 88-3   Basis  +15 \u00b0C, 101,3 kPa / 60 \u00b0F, 407 \"W.C.  trocken  MBE\u2026VV  MBE\u2026VR  p2 < 10,0 kPa / 40 \"W.C.  p2 = 0 kPa / 0 \"W.C. ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "1d66e3052a7c9832d360a0dde1e3f71d",
+    "text": "Durchflusskurven ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cd52873f4ed7f2027c6f5606ad1bb25b",
+    "text": "MBE065\u2026",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "4db0e5345206060fe9a9a5db4d8fbbc4",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "33cfd42182156bfe0bee643c1b9788f3",
+    "text": "Arbeitsbereich  40.0  10,0   4.0  1,0   0.4  0,1   ]  ]  .  a  C  P  .  W  k  1,0  100  10  1.000  [     \"  p  \u00b0  [  Vn [m3/h] Luft dv = 1,00     \u2206  p  \u2206  100  10  10.000  1.000  \u00b0  Vn [m3/h] Erdgas dv = 0,65  1.000  100  100.000  10.000  \u00b0  V [CFH] Erdgas dv = 0,65 @ 60 \u00b0F ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3abcc69d8eaf71280ef6afa24e183dc8",
+    "text": "18 ... 24",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 18,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "35d512160f78427aabfa332bb57d35cb",
+    "text": "Durchflusskurven  Arbeitsbereich nach EN 88-1 / EN 88-3   Basis  +15 \u00b0C, 101,3 kPa / 60 \u00b0F, 407 \"W.C.   trocken  MBE\u2026VV  MBE\u2026VR  p2 < 10,0 kPa / 40 \"W.C.  p2 = 0 kPa / 0 \"W.C. ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "a10043a6904ad306d4cd1dcc1fbf2415",
+    "text": "Durchflusskurven ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "da23707f5c976c7b85b83eb8e70e19e0",
+    "text": "MBE080\u2026",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "28c3920684077e8f53e7d5228fc4c4cb",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "d39cdc7c843b187543d4ce7a79f5b07c",
+    "text": "Arbeitsbereich  40.0  10,0   4.0  1,0   0.4  0,1   ]  ]  .  a  C  P  .  W  k  1,0  100  10  1.000  [     \"  p  \u00b0  [  Vn [m3/h] Luft dv = 1,00     \u2206  p  \u2206  100  10  10.000  1.000  \u00b0  Vn [m3/h] Erdgas dv = 0,65  1.000  100  100.000  10.000  \u00b0  V [CFH] Erdgas dv = 0,65 @ 60 \u00b0F ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 19,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "338fd70ab09601f1faa466bf9c4f4c9c",
+    "text": "Durchflusskurven  Arbeitsbereich nach EN 88-1 / EN 88-3   Basis  +15 \u00b0C, 101,3 kPa / 60 \u00b0F, 407 \"W.C.   trocken  MBE\u2026VV  MBE\u2026VR  p2 < 10,0 kPa / 40 \"W.C.  p2 = 0 kPa / 0 \"W.C. ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "0d83d91aeea56110afc8ec06caf53081",
+    "text": "Durchflusskurven ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1e5a01a55710ea5d1c3aacddbd3b9327",
+    "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ba3e43149e4b9a8b2d0a65dd77bf1234",
+    "text": "MBE100\u2026",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "96b4f1ce443883d3b771670f7a469b60",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "c136f19eb38f168111ceb6cca9b1efa8",
+    "text": "Arbeitsbereich  40.0  10,0   4.0  1,0   0.4  0,1   ]  ]  .  a  C  P  .  W  k  1,0  100  10  1.000  [     \"  p  \u00b0  [  Vn [m3/h] Luft dv = 1,00     \u2206  p  \u2206  100  10  10.000  1.000  \u00b0  Vn [m3/h] Erdgas dv = 0,65  1.000  100  100.000  10.000  \u00b0  V [CFH] Erdgas dv = 0,65 @ 60 \u00b0F ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "15e19af3066c776dd03322445554d0d9",
+    "text": "20 ... 24",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 20,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "2a17f680520591d21b2cc4e8514fc6c9",
+    "text": "Durchflusskurven  Arbeitsbereich nach EN 88-1 / EN 88-3   Basis  +15 \u00b0C, 101,3 kPa / 60 \u00b0F, 407 \"W.C.   trocken  MBE\u2026VV  MBE\u2026VR  p2 < 10,0 kPa / 40 \"W.C.  p2 = 0 kPa / 0 \"W.C. ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "122d207dff9a072155a716a293d8c66c",
+    "text": "Durchflusskurven ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "751ce67b77eb67a7a69ce4c5b59e5036",
+    "text": "[ \u2014",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a2bd29dc76d9364d9a7bd530073252a6",
+    "text": "MBE125\u2026",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "042531d964fae479c7ae989227275c45",
+    "text": "DUNGS\u201d Combustion Controls",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "c3d9c7b8552988ccee614173c76f8cbd",
+    "text": "Arbeitsbereich  40.0  10,0   4.0  1,0   0.4  0,1   ]  ]  .  a  C  P  .  W  k  1,0  100  10  1.000  [     \"  \u00b0  p  Vn [m3/h] Luft dv = 1,00  [     \u2206  p  \u2206  100  10  10.000  1.000  \u00b0  Vn [m3/h] Erdgas dv = 0,65  1.000  100  100.000  10.000  \u00b0  V [CFH] Erdgas dv = 0,65 @ 60 \u00baF ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "de3bed3413b256ccd1be5faea44bc1aa",
+    "text": "21 ... 24",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 21,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "05ff884b0603bd1dd2dc0e8823c0d62b",
+    "text": "Durchflusskurven  Arbeitsbereich nach EN 88-1 / EN 88-3   Basis  +15 \u00b0C, 101,3 kPa / 60 \u00b0F, 407 \"W.C.   trocken  MBE\u2026VV  MBE\u2026VR  p2 < 10,0 kPa / 40 \"W.C.  p2 = 0 kPa / 0 \"W.C. ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "2b92db47f4a160cd2433b7848571bc80",
+    "text": "Durchflusskurven ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c76af43beb94f6699b88898bff1c6825",
+    "text": "MBE150\u2026",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "202688e9d51ac39acc837a604fc1770a",
+    "text": "DUNGS\u201d Combustion Controls",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "735c46b7e9f527ec0ca9d0df9bcbb90e",
+    "text": "Arbeitsbereich  40.0  10,0   4.0  1,0   0.4  0,1   ]  ]  .  a  C  P  .  W  k  1,0  100  10  1.000  [     \"  \u00b0  p  Vn [m3/h] Luft dv = 1,00  [     \u2206  p  \u2206  100  10  10.000  1.000  \u00b0  Vn [m3/h] Erdgas dv = 0,65  1.000  100  100.000  10.000  \u00b0  V [CFH] Erdgas dv = 0,65 @ 60 \u00baF ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c0c2aa6b33c41f82651999eee4972663",
+    "text": "22 ... 24",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 22,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "d58eb2ae4066fdfde8934fb2458f674b",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Formula",
+    "element_id": "f955c50635ff7caf22993752cc421501",
+    "text": "\u00b0 \u00b0 = V verwendetes Gas V Luft x f Dichte Luft f = Dichte des verwendeten Gases",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2f4a6401674accb322500dffc6bfd29b",
+    "text": "Dichte Luft",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "49217babf4370778c15cf1ff40469294",
+    "text": "Dichte des verwendeten Gases",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "cb295dd0741c4f0154d9ad926d1931cf",
+    "text": "DUNGS\u201d\u00ae Combustion Controls",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "143ed4e5f33edc2c23d7d9d0c8f64d47",
+    "text": "Gasart Dichte [kg/m3] dv f Erdgas 0,81 0,65 1,24 Stadtgas 0,58 0,47 1,46 Fl\u00fcssiggas 2,08 1,67 0,77 Luft 1,24 1,00 1,00 Wasserstoff 0,085 0,069 3,82",
+    "metadata": {
+      "text_as_html": "<table><thead><tr><th>Gasart Gasart</th><th>Dichte [kg/m?] Dichte</th><th>dv dv</th><th>f</th></tr></thead><tbody><tr><td>Erdgas Erdgas</td><td>0,81 0,81</td><td>0,65 0,65</td><td>1,24 1,24</td></tr><tr><td>Stadtgas Stadtgas</td><td>0,58 0,58</td><td>0,47 0,47</td><td>1,46 1,46</td></tr><tr><td>Flussiggas Fl\u00fcssiggas</td><td>2,08 2,08</td><td>1,67 1,67</td><td>0,77 0,77</td></tr><tr><td>Luft Luft</td><td>1,24 1,24</td><td>1,00 1,00</td><td>1,00 1,00</td></tr><tr><td>Wasserstoff Wasserstoff</td><td>0,085 0,085</td><td>0,069 0,069</td><td>3,82 3,82</td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bfced127bb91c0192676fb87f2e286a4",
+    "text": "MBE - Edition",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "86ab5fb191812ac7290087c6a0204304",
+    "text": "\u00c4nderungen, die dem technischen Fortschritt dienen, vorbehalten.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "334511820389fb98159735ff2fca3d73",
+    "text": "23 ... 24 ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 23,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "6b0d69d3da5992954532cf9c48b55e7b",
+    "text": "",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "5e326a2e0ebf38d205cc00e37fc24d20",
+    "text": "DUNGS\u201d\u00ae Combustion Controls",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2932fb06ba766ebd9a264bd5a0f0b962",
+    "text": "MBE \u00ab Edition 10.21 * 294",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "65fa3b0e1f0d0e66882b045524ee1d4c",
+    "text": "Karl Dungs GmbH & Co. KG",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8a49da0371ca542a8dac5702def1730f",
+    "text": "Karl-Dungs-Platz 1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "20c1ac2faa7f865f0d3d337cac9cbdab",
+    "text": "73660 Urbach,",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "036490d8b4604f0fa2252753c9583b3c",
+    "text": "Deutschland",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4e729fd95884e84e4a69e4e58f720237",
+    "text": "Telefon +49 7181-804-0",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "09ad17913e89be0e29800677f8736bd0",
+    "text": "Telefax +49 7181-804-166",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1d721aad694e09ddced798cf57266c53",
+    "text": "E-mail info@dungs.com",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "007aacf4b1a04531214db6b6cf2c3530",
+    "text": "Internet www.dungs.com",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a7b9bafc1ea7774051f1c6047b463839",
+    "text": "2 24",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 24,
+      "filename": "MBE_Datenblatt.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents/MBE_Datenblatt.pdf"
+        },
+        "date_created": "1732196160.0",
+        "date_modified": "1732196160.0",
+        "date_processed": "1732203818.3507369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  }
+]

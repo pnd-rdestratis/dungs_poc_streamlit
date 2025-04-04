@@ -1,0 +1,1495 @@
+{
+  "metadata": {
+    "filename": "MBE-PS_Anleitung.pdf",
+    "processed_date": "2024-11-21T16:01:54.906536"
+  },
+  "sections": [
+    {
+      "title": "B. Sc",
+      "level": 1,
+      "content": "B. Sc\nMBA Simon P. Dungs, Geschäftsführer / Chief Operating Officer Directeur / Amministratore / Gerente Urbach, 2022-08-01",
+      "bbox": [
+        27.64,
+        535.97,
+        153.29,
+        568.17
+      ],
+      "page_num": 1
+    },
+    {
+      "title": "Declaration of Conformity",
+      "level": 0,
+      "content": "Declaration of Conformity\nProduct\nGasMultiBloc® MBE-\nMultifunctional control consisting of VB, VD, PS\nManufacturer\nKarl Dungs GmbH & Co. KG ▪ Karl-Dungs-Platz 1 ▪ 73660 Urbach/Germany\nCertifies herewith that the products named in this overview were subjected to an Type Examination (production type) and meet the essential safety requirements:\n• Gas Appliances (Enforcement) and Miscellaneous Amendment Regulations, UKSI 2018:389 (as amended by UKSI 2019:696)\n• The Pressure Equipment Safety Regulations, UKSI 2016:1105 (as amended by UKSI 2019: 969)\n• The Electromagnetic Compatibility Regulations 2016, UKSI 2016: 1091 as amended\n• The Electrical Equipment (Safety) Regulations 2016, UKSI 2016: 1101 as amended\nAll of the components certified according to the Pressure Equipment Directive are equipment parts with safety function.\nIn the event of an alteration of the equipment not approved by us this declaration loses its validity.\nThe object of the declaration described above conforms with the relevant Union harmonisation legislation.\nThis declaration of conformity is issued under the sole responsibility of the manufacturer.\n | Specified requirements of the Type Examination (production type) | EN 126 EN 13611 EN 161 | \n | --- | --- | ---\n | EN 88-1 EN 88-3\n | Term of validity | 2032-04-20 | 2032-04-28\n | Approved Bodies | 2016 No. 1105 TUV SUD BABT Unlimited | \n |  | Octagon House, Concorde Way, Segensworth North, Fareham, Hampshire, PO15 5RL, United Kingdom Approved Body Number: 0168 | 2018 No. 389 TUV SUD BABT Unlimited Octagon House, Concorde Way, Segensworth North, Fareham, Hampshire, PO15 5RL, United Kingdom Approved Body Number: 0168\n | Monitoring of the QA system | Conformity process adopted: Module B+D | \n\nB. Sc\nMBA Simon P. Dungs, Chief Operating Officer Urbach, 2022-08-01",
+      "bbox": [
+        25.51,
+        62.64,
+        150.52,
+        72.64
+      ],
+      "page_num": 2
+    },
+    {
+      "title": "B. Sc",
+      "level": 4,
+      "content": "B. Sc\nMBA Simon P. Dungs, Chief Operating Officer Urbach, 2022-08-01",
+      "bbox": [
+        27.46,
+        537.43,
+        113.59,
+        561.24
+      ],
+      "page_num": 2
+    },
+    {
+      "title": "VD-R & PS-",
+      "level": 0,
+      "content": "VD-R & PS-\nMontage / Mounting / Montage / Montaggio / Montaje\n1. Gasdruckregelung ist nur mit VD-R und Drucksensor PS möglich.\nAusgangsdruck muss immer durch einen max.\nDruckwächter (GWmax) begrenzt werden, siehe Anleitung #290274.\n2. Sensorposition so wählen, dass ein repräsentativer Druck erfasst wird.\nEmpfehlung: 5 x DN nach dem Ventil.\nRohrleitungsnippel mit Innengewinde G ¼, Sensor mit Dichtring montieren, Drehmoment beachten, Bild 2!\n3. Der Drucksensor beinhaltet eine Leckage-Begrenzungsdüse nach UL 353 und ANSI Z 21.18/CSA 6.3 und EN 13611.\n4. An die M12 Schnittstelle des VD-R dürfen ausschließlich die von DUNGS spezifizierten Drucksensoren PS angeschlossen werden.\n5. Zum Anschluss des PS an den VD-R dürfen ausschließlich die von DUNGS spezifizierten Kabel (S. 44) verwendet werden.\nMax.\nKabellänge 3 m, max.\nDrehmoment 0,6 Nm.\n1. Gas pressure regulation is possible with VD-R and PS pressure sensor only.\nThe output pressure must always be monitoried by a max.\npressure switch (GWmax), see instruction number #290274.\n2. Select sensor position so that a representative pressure is recorded.\n3. Recommendation: 5 x DN after the valve.\nPipe fitting with female thread size ¼, mount sensor with sealing ring, observe torque, figure 2!\n4. The pressure sensor includes a vent limiter according to UL 353 and ANSI Z21.18/CSA 6.3 and EN 13611. No venting required in locations where vent limiters are accepted by the jurisdiction.\n5. Only PS pressure sensors specified by DUNGS are authorised to be connected to the VD-R‘s M12 interface.\n6. Only PS cables specified by DUNGS (page 44) are authorised to be used to connect the PS to the VD-R.\nMax.\ncable length 3 m, max.\ntorque 0,6 Nm.\n1. La régulation de la pression de gaz est uniquement possible avec VD-R et un capteur de pression PS.\nLa pression de sortie doit toujours être limitée\npar un limiteur de pression max (GWmax), voir notice #290274.\n2. Choisissez la position du capteur de manière à ce qu’une pression représentative soit mesurée.\nRecommandation :\n5\nx DN après la vanne.\nNipple de conduite avec taraudage\nG ¼, monter le capteur avec une bague d‘étanchéité, respecter le couple, fig. 2\n!\n3 1 2\n3. Le capteur de pression contient une buse de limitation de fuite selon UL 353 et ANSI Z 21.18/CSA 6.3 et EN 13611.\n4. Seuls les capteurs de pression PS spécifiés par DUNGS peuvent être raccordés à l‘interface M12 du VD-R.\n5. Pour le raccordement du PS au VD-R, seuls les câbles spécifiés par DUNGS (p. 44) doivent être utilisés.\nLongueur\nmax.\ndes câbles 3 m, couple max.\n0,6 Nm.\n1. La regolazione della pressione del gas è possibile solo con VD-R e sensore di pressione PS.\nLa pressione di uscita deve sempre essere limitata da un pressostato di massima (GWmax), vedere guida #290274.\n2. Selezionare la posizione del sensore in modo che venga misurata una pressione rappresentativa.\nRaccomandazione: 5 x DN dopo la valvola.\nNipplo della tubazione con filettatura interna G ¼, montare il sensore con guarnizione, osservare la coppia, figura 2!\n3. Il sensore di pressione include un ugello limitatore di perdite secondo UL 353 e ANSI Z 21.18 / CSA 6.3 e EN 13611.\n4. Solo i sensori di pressione PS specificati da DUNGS possono essere collegati all’interfaccia M12 del VD-R.\n5. Per il collegamento di PS a VD-R, possono essere utilizzati esclusivamente i cavi specificati da DUNGS (pag. 44).\nLunghezza max.\ndel cavo 3 m, copia max.\n0,6 Nm.\n1. La regulación de la presión del gas solo es posible con VD-R y el sensor de presión PS.\nLa presión de salida debe limitarse siempre mediante un presostato (GWmax), Véanse las instrucciones #290274.\n2. Seleccione la posición del sensor para que se mida una presión representativa.\nRecomendación: 5 x DN después de la válvula.\nMontar espiga con rosca interna G\n¼\ny el sensor con junta anular, prestar atención al par de torsión, figura 2.\n3. El sensor de presión incorpora una boquilla limitadora de escapes según UL 353 y ANSI Z 21.18/CSA 6.3 y EN 13611.\n4. Solo los sensores de presión PS especificados por DUNGS pueden conectarse a la interfaz M12 del VD-R.\n5. Solo los cables especificados por DUNGS (p. 44) pueden usarse para conectar el PS al VD-R.\nLongitud máx.\ndel cable 3 m, máx.\npar de apriete 0,6 Nm.\n1 Optional/Optional/En option/Opzionale/Opcional\nM12, 5 pin\nAtmungs-/Impulsanschluss Breathing/Impulse connection Raccord de respiration/d‘impulsion Connessioni del PS Conexión de respiración/impulso\nM12 x 5 Pin\nPS\n1\nmax. 7 Nm max. 62 lb-in\nG¼\nV1 V2\nGWmin\nGWmax\nAdapter G\n¼\n- NPT ¼ è S. 6/ p. 6\nVD-R + PS\nLeckagebegrenzung integriert.\nVent limiter incoporated.\nLimiteur d‘évent intégré.\nLimitatore di sfiato incorporato.\nLimitador de venteo incorporado.\nV1: VD-V / VD-R\nV2: VD-V / VD-R\nEinstellung VD-R mit PS / Adjusting VD-R with PS / Réglage VD-R avec PS / Regolazione VD-R con PS / Ajuste VD-R con PS\nNicht linear!\nSensoren mit verschiedenen Druckbereichen anbaubar.\nAusgangsdruck je nach Messbereich des Sensors.\nEinstellung des Ausgangsdrucks entsprechend den Anweisungen des Geräteherstellers!\nBei der Einstellung des Ausgangsdrucks dürfen keine gefährlichen Betriebsbedingungen erreicht oder überschritten werden!\nSetting scale is not linear!\nSensors of different pressure ranges available.\nOutput pressure according to sensor‘s measuring range.\nNon linéaire !\nCapteurs avec différentes plages de pression à monter.\nPression de sortie en fonction de la plage de mesure du capteur.\nNon lineare!\nSensori disponibili con diversi intervalli di pressione.\nPressione di uscita a seconda del range di misurazione del sensore.\n¡No lineal!\n | Adjust the outlet pressure to the value specified by the burner or equipment manufacturer! | Réglage de la pression de sortie selon les indications du fabricant! | Regolazione della pressione in uscita in base ai dati del produttore del bruciatore! | Ajuste de la presión de salida se- gún el fabricante de la calefacción.\n | --- | --- | --- | ---\n | Es posible instalar sensores con | distintos rangos de presión. Pre- | sión de salida según el rango de | medición del sensor.\n | While making outlet pressure adjustments, do not exceed a value that creates a hazardous condition to the burner! | Lors du réglage de la pression de sortie, aucune condition de foncti- onnement dangereuse ne doit être établie ou dépassée ! | Con la regolazione della pressio- ne di uscita non devono essere raggiunte o superate condizioni di esercizio del bruciatore pericolose! | Al ajustar la presión de salida, no se deben alcanzar ni exceder las condiciones de operación de peligro.\n\n | BUS Kabel vor elektromagneti- schen Feldern schützen! | Protect BUS cable against electro- magnetic fields! | Protéger le câble BUS des champs électromagnétiques! | Proteggere il cavo BUS dai campi elettromagnetici! | Proteger el cable BUS de los cam- pos electromagnéticos!\n | --- | --- | --- | --- | ---\n | Pro VD-R muss ein PS verwendet werden. | One PS must be used per VD-R. | Un PS doit être utilisé par VD-R. | Deve essere utilizzato un PS per | ogni VD-R. | Se debe usar una PS por cada VD-R.\n | --- | --- | --- | --- | --- | ---\n | Kombinationen/Combinations/Combinaisons/ Combinazioni/Combinaciones | Druck/Pressure/Pression/Pressione/ Presión\n | --- | ---\n | ValveBody | ValveDrive | PressureSensor | P1max | P2 | Pmax test (PS)\n | --- | --- | --- | --- | --- | ---\n | VB-050 VB-150 VB-2L VB-6 L | + | VD-R… | + | PS-0 | 20 kPa / 200 mbar / 80 \"W.C | ± 0,5 kPa / ± 5 mbar / ± 2 \"W.C | 33 kPa / 330 mbar / 132 \"W.C\n | --- | --- | --- | --- | --- | --- | --- | ---\n | +\n | VB-050 VB-2 L | + | VD-R… | + | PS-10/40 | 60 kPa / 600 mbar / 240 \"W.C | 0,4-10 kPa / 4-100 mbar / 1,6-40 \"W.C | 80 kPa / 800 mbar / 321 \"W.C\n |  |  |  |  | PS-50/200 | 60 kPa / 600 mbar / 240 \"W.C | 2-50 kPa / 20-500 mbar / 8-200 \"W.C | 105 kPa / 1 050 mbar / 422 \"W.C\n | VB-065 VB-150 VB-21/2 L VB-6 L | + | VD-R… | + | PS-10/40 | 70 kPa / 700 mbar / 280 \"W.C | 0,4-10 kPa / 4 - 100 mbar / 1,6 -40 \"W.C | 80 kPa / 800 mbar / 321 \"W.C\n |  |  |  |  | PS-50/200 | 70 kPa / 700 mbar / 280 \"W.C | 2-50 kPa / 20-500 mbar / 8-200 \"W.C | 105 kPa / 1 050 mbar / 422 \"W.C\n\nDruck erhöhen Increasing pressure Augmenter la pression Aumentare la pressione Aumentar la presión\nP2\n+–P1max\n | Maximaler Betriebsdruck für MBE--VR-Kombinationen Maximal operating pressure for MBE-…-VR combinations Pression de service maximale pour les combinaisons MBE--VR Pressione massima di esercizio per combinazioni MBE--VR Presión máxima de funcionamiento para las combinaciones MBE--VR | Ausgangsdruckbereich Outlet pressure range Plage de pression de sortie Intervallo di pressione in uscita Rango de presión de salida\n | –\n\nDruck verringern Decreasing pressure Réduire la pression Ridurre la pressione Reducir la presión\nPmax test (PS)\nMaximaler Prüfdruck für PressureSensor Maximal test pressure for PressureSensor Pression d‘essai maximale pour PressureSensor Pressione massima di prova per PressureSensor Presión máxima de prueba para el PressureSensor\n | Einstellung positiver Ausgangsdruck in Ver- bindung mit PS-10/40 oder PS-50/200: Adjusting output pressure for positive pressure systems (requires PS-10/40 or PS-50/200): Réglage de la pression de sortie positive en association avec PS-10/40 ou PS-50/200: | Impostazione della pressione di uscita positiva in combinazione con PS-10/40 o PS-50/200: Ajuste de la presión de salida positiva en relación a PS-10/40 o PS-50/200: | Einstellung Nulldruck-Anwendung in Verbindung mit PS-0: Adjusting outlet pressure for zero pressure applications (requires PS-0): Réglage de l‘utilisation de la pression nulle en association avec PS-0: | Impostazione dell‘applicazione di pressione zero in combinazione a PS-0: Ajuste de aplicación de presión cero en relación a PS-0:\n | --- | --- | --- | ---\n | A | B | A | B\n | 50 % 10 % |  | -20 % | \n\n25 %\n75 % 0 +20 % Max.\nAusgangsdruck/Outlet pressure/Pression de sortie/Pressione di uscita/Presión de salida\nkPa mbar \"W.C.\nkPa mbar \"W.C.\nOffset\nPS-0\n |  | kPa | mbar | \"W.C.\n | --- | --- | --- | ---\n |  | Min. | -0,50 | -5,00 | -2,00\n | --- | --- | --- | --- | ---\n |  | -20% | -0,10 | -1,00 | -0,40\n | A | 0 | 0,00 | 0,00 | 0,00\n |  | 20% | 0,10 | 1,00 | 0,40\n |  | Max. | 0,50 | 5,00 | 2,00\n |  | „0“ | 0,00 | 0,00 | 0,00\n |  | Min. | -0,50 | -5,00 | -2,01\n |  | 10% | -0,12 | -1,20 | -0,48\n |  | 20% | -0,02 | -0,16 | -0,06\n |  | 30% | 0,00 | 0,01 | 0,00\n |  | 40% | 0,03 | 0,25 | 0,10\n | B 50% |  | 0,07 | 0,74 | 0,30\n |  | 60% | 0,14 | 1,40 | 0,56\n |  | 70% | 0,22 | 2,16 | 0,87\n |  | 80% | 0,30 | 3,04 | 1,22\n\nMin.\nMax.\nPS-10/40\nPS-50/200\n | Min. | 0,4 | 4,0 | 1,6 | 2,0 | 20,0 | 8,0\n | --- | --- | --- | --- | --- | --- | ---\n | 10% | 1,0 | 10,0 | 4,0 | 5,0 | 50,0 | 20,0\n | 25% | 2,5 | 25,0 | 10,0 | 10,0 | 100,0 | 40,0\n\n | A 50% |  | 5,0 | 50,0 | 20,0 | 25,0 | 250,0 | 100,0\n | --- | --- | --- | --- | --- | --- | --- | ---\n |  | 75% | 7,5 | 75,0 | 30,1 | 35,0 | 350,0 | 140,0\n |  | Max. | 10,0 | 100,0 | 40,0 | 50,0 | 500,0 | 200,0\n |  | Min. | 0,4 | 4,0 | 1,6 | 2,0 | 20,0 | 8,0\n |  | 10% | 1,0 | 10,0 | 4,0 | 5,0 | 50,0 | 20,0\n |  | 20% | 2,0 | 20,0 | 8,0 | 10,0 | 100,0 | 40,0\n |  | 30% | 3,0 | 30,0 | 12,0 | 15,0 | 150,0 | 60,0\n |  | 40% | 4,0 | 40,0 | 16,0 | 20,0 | 200,0 | 80,0\n | B | 50% | 5,0 | 50,0 | 20,0 | 25,0 | 250,0 | 100,0\n |  | 60% | 6,0 | 60,0 | 24,0 | 30,0 | 300,0 | 120,0\n |  | 70% | 7,0 | 70,0 | 28,0 | 35,0 | 350,0 | 140,0\n |  | 80% | 8,0 | 80,0 | 32,0 | 40,0 | 400,0 | 160,0\n\nMin.\nErsatzteile & Zubehör / Spare parts & Accessoires / Pieces de rechange & Access.\n/ Parti di ricambio & Accessori / Piezas de repuesto & Accesorios\n | Ersatzteile/Zubehör Spare parts/Accessoires Pieces de rechange / access. Parti di ricambio / Accessori Piezas de repuesto/accesorios | Bestellnummer Ordering no. No. de commande Codice articolo N.º de orden | \n | --- | --- | ---\n | Antrieb VD ValveDrive VD Entraînement VD Attuatore VD Actuador VD | VD-R-AC VD-R-AC-POC VD-R-DC VD-R-DC-POC | 274654 275361 275362 275363\n | Kabel für Drucksensor Cable for pressure sensor Câble pour capteur de pression Cavo per sensore di pressione Cable para sensor de presión | 1,5 m | 276911\n | Drucksensor Pressure sensor Capteur de pression Sensore di pressione Sensor de presión | PS-0 PS-10/40 PS-50/200 | 275265 275263 275264\n | Adapter Adapter Adaptateur Adattatore Adaptador | G¼ - NPT ¼ | 289169\n\nDie Druckgeräterichtlinie (PED) und die Richtlinie über die Gesamtenergieeffizienz von Gebäuden (EPBD) fordern eine regelmässige Überprüfung der Wärmeerzeuger zur langfristigen Sicherstellung von hohen Nutzungsgraden und somit geringster Umweltbelastung.\nEs besteht die Notwendigkeit sicherheitsrelevante Komponenten nach Erreichen ihrer Nutzungsdauer auszutauschen:\nThe Pressure Equipment Directive (PED) and the Energy Performance of Buildings Directive (EPBD) require a periodic inspection of heat generators in order to ensure a high degree of efficiency over a long term and, consequently, the least environmental pollution.\nIt is necessary to replace safety-relevant components after they have reached the end of their designed lifetime:\nLa directive concernant les chauffe-bains à pression (PED) et la directive sur la performance énergétique des bâtiments (EPBD) exigent une vérification régulière des générateurs de chaleur afin de garantir à long terme des taux d‘utilisation élevés et par conséquent une charge environnementale minimum.\nIl est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:\nLa direttiva per apparecchi a pressione (PED) e la direttiva per l’efficienza energetica totale per edifici (EPBD), esigono un controllo regolare dei generatori di calore per garantire a lungo termine un alto grado di rendimento e un basso inquinamento ambientale Ciò rende necessaria la sostituzione di componenti rilevanti dal punto di vista della sicurezza alla scadenza della loro durata di utilizzazione:\nLa Directiva de equipos a presión (PED) y la Directiva de eficiencia energética en edificios (EPBD) requieren una revisión periódica de los generadores de calor para garantizar altos niveles de eficiencia a largo plazo y, por lo tanto, un menor impacto ambiental.\nEs necesario reemplazar los componentes relevantes para la seguridad después de que se haya alcanzado su vida útil: Änderungen, die dem technischen Fortschritt dienen, vorbehalten.\n/ We reserve the right to make modifications in the course of technical development.\n/Sous réserve de tout modification constituant un progrès technique.\n/ Ci riserviamo qualsiasi modifica tecnica e costruttiva.\n/ Se reserva el derecho a efectuar modificaciones en aras del avance tecnológico.\nHausadresse Head Offices and Factory Usine et Services Administratifs Amministrazione e Stabilimento Dirección de la empresa Karl Dungs GmbH & Co. KG Karl-Dungs-Platz 1 73660 Urbach, Germany Telefon +49 7181-804-0 Telefax +49 7181-804-166\n | Sicherheitsrelevante Komponente Safety relevant component Composant relatif à la sécurité Componenti rilevanti dal punto di vista della sicurezza Componentes relevantes para la seguridad | Konstruktionsbedingte Lebensdauer / Designed Lifetime / Durée de vie prévue / Durata di vita di progetto / Vida útil relacionada con la construcción Zyklenzahl / Operating cycles Cycle d’opération Numero di cicli di funzionamento di progetto Número de ciclos | Jahre Years Année Anni Años |  | Norm Standard Norme Norma Norma\n | --- | --- | --- | --- | ---\n | Temperatura de almacenamiento permanente\n | Ventilprüfsysteme / Valve proving systems / Systèmes de contrôle de vannes / Sistemi di controllo valvole / Sistemas de comprobación de válvulas |  | 250 000 | 10 | EN 1643\n | 0…45 °C 32…113 °F\n | Gas/Gas/Gaz/Gas/Gas Druckwächter / Pressure switch / Manostat / Pressostati / Presostato |  | 50 000 | 10 | EN 1854\n | Luft/Air/Air/Aria/Aire Druckwächter / Pressure switch / Manostat / Pressostati / Presostato |  | 250 000 | 10 | EN 1854\n | Gasmangelschalter / Low gas pressure switch / Pressostat gaz basse pression / Pressostati gas di minima pressione / Presostato de gas de baja presión |  | N/A | 10 | EN 1854\n | Feuerungsmanager / Automatic burner control / Dispositif de gestion de chauffage / Controllo automatico del bruciatore / Administrador de combustión |  | 250 000 | 10 | EN 298 EN 230\n | UV-Flammenfühler1 / Flame detector (UV probes)1 Capteur de flammes UV1 / Sensore fiamma UV1 Detector de llamas UV1 |  | N/A | 10 000 h³ | ---\n | Gasdruckregelgeräte1 / Gas pressure regulators1 / Dispositifs de réglage de pression du gaz1 Regolatori della pressione del gas1 / Reguladores de presión de gas1 |  | N/A | 15 | EN 88-1 EN 88-2\n | Gasventil mit Ventilprüfsystem2 Gas valve with valve testing system2 Vanne de gaz avec système de contrôle de vanne2 Valvola del gas con sistema di controllo tenuta valvola2 Válvula de gas con sistema de comprobación de válvula2 |  | nach erkanntem Fehler after error detection après détection d’erreur dopo segnalazione di errore después de detectar un fallo |  | EN 1643\n | Gasventil ohne Ventilprüfsystem2 / Gas valve without valve testing system2 Vanne de gaz sans système de contrôle de vanne2 Valvola del gas senza sistema di controllo tenuta valvola2 Válvula de gas sin sistema de comprobación de válvula2 | DN ≤ 25 25 < DN ≤ 80 100 000 80 < DN ≤ 150 50 000 | 200 000 | 10 | EN 161\n | Gas-Luft-Verbundsysteme / Gas-air ratio control system Systèmes combinés gaz/air / Sistemi di miscelazione gas-aria Sistema de control de la relación gas-aire | N/A | 10 | EN 88-1 | EN 12067-2\n\n1 Nachlassende Betriebseigenschaften wegen Alterung / Performance decrease due to ageing / Réduction de performance due au viellissement / Riduzione delle prestazioni dovuta all’invecchiamento / Disminución de las propiedades de operación debido al envejecimiento 2 Gasfamilien II, III / Gas families II, III / Familles de gaz II, III / per i gas delle famiglie II, III / Familias de gas II, III 3 Betriebsstunden / Operating hours / Heures de service / Ore di esercizio / Horario de funcionamiento N/A nicht anwendbar / not applicable / ne peut pas être utilisé / non può essere usato / inaplicable Lagerzeiten / Storage times / Périodes de stockage / Tempi di stoccaggio / Tiempos de almacenamiento\nLagerzeiten ≤ 1 Jahr verkürzen nicht die konstruktionsbedingte Lebensdauer / Storage time ≤ 1 year does not reduce the designes lifetime / Les périodes de stockage ≤ 1 an ne réduisent pas la durée de vie liée à la conception / I tempi di stoccaggio ≤ 1 anno non riducono la durata di vita legata al design / Los tiempos de almacenamiento ≤ 1 año no acortan la vida útil relacionada con el diseño.\nDUNGS empfiehlt eine maximale Lagerzeit von 3 Jahren / DUNGS recommends a maximum storage time of 3 years / DUNGS recommande une durée de stockage maximale de 3 ans / DUNGS raccomanda un tempo massimo di stoccaggio di 3 anni / DUNGS recomienda un tiempo máximo de almacenamiento de 3 años",
+      "bbox": [
+        25.51,
+        57.04,
+        80.7,
+        67.03999999999999
+      ],
+      "page_num": 3
+    },
+    {
+      "title": "Montage / Mounting / Montage / Montaggio / Montaje",
+      "level": 1,
+      "content": "Montage / Mounting / Montage / Montaggio / Montaje\n1. Gasdruckregelung ist nur mit VD-R und Drucksensor PS möglich.\nAusgangsdruck muss immer durch einen max.\nDruckwächter (GWmax) begrenzt werden, siehe Anleitung #290274.\n2. Sensorposition so wählen, dass ein repräsentativer Druck erfasst wird.\nEmpfehlung: 5 x DN nach dem Ventil.\nRohrleitungsnippel mit Innengewinde G ¼, Sensor mit Dichtring montieren, Drehmoment beachten, Bild 2!\n3. Der Drucksensor beinhaltet eine Leckage-Begrenzungsdüse nach UL 353 und ANSI Z 21.18/CSA 6.3 und EN 13611.\n4. An die M12 Schnittstelle des VD-R dürfen ausschließlich die von DUNGS spezifizierten Drucksensoren PS angeschlossen werden.\n5. Zum Anschluss des PS an den VD-R dürfen ausschließlich die von DUNGS spezifizierten Kabel (S. 44) verwendet werden.\nMax.\nKabellänge 3 m, max.\nDrehmoment 0,6 Nm.\n1. Gas pressure regulation is possible with VD-R and PS pressure sensor only.\nThe output pressure must always be monitoried by a max.\npressure switch (GWmax), see instruction number #290274.\n2. Select sensor position so that a representative pressure is recorded.\n3. Recommendation: 5 x DN after the valve.\nPipe fitting with female thread size ¼, mount sensor with sealing ring, observe torque, figure 2!\n4. The pressure sensor includes a vent limiter according to UL 353 and ANSI Z21.18/CSA 6.3 and EN 13611. No venting required in locations where vent limiters are accepted by the jurisdiction.\n5. Only PS pressure sensors specified by DUNGS are authorised to be connected to the VD-R‘s M12 interface.\n6. Only PS cables specified by DUNGS (page 44) are authorised to be used to connect the PS to the VD-R.\nMax.\ncable length 3 m, max.\ntorque 0,6 Nm.\n1. La régulation de la pression de gaz est uniquement possible avec VD-R et un capteur de pression PS.\nLa pression de sortie doit toujours être limitée\npar un limiteur de pression max (GWmax), voir notice #290274.\n2. Choisissez la position du capteur de manière à ce qu’une pression représentative soit mesurée.\nRecommandation :\n5\nx DN après la vanne.\nNipple de conduite avec taraudage\nG ¼, monter le capteur avec une bague d‘étanchéité, respecter le couple, fig. 2\n!\n3 1 2\n3. Le capteur de pression contient une buse de limitation de fuite selon UL 353 et ANSI Z 21.18/CSA 6.3 et EN 13611.\n4. Seuls les capteurs de pression PS spécifiés par DUNGS peuvent être raccordés à l‘interface M12 du VD-R.\n5. Pour le raccordement du PS au VD-R, seuls les câbles spécifiés par DUNGS (p. 44) doivent être utilisés.\nLongueur\nmax.\ndes câbles 3 m, couple max.\n0,6 Nm.\n1. La regolazione della pressione del gas è possibile solo con VD-R e sensore di pressione PS.\nLa pressione di uscita deve sempre essere limitata da un pressostato di massima (GWmax), vedere guida #290274.\n2. Selezionare la posizione del sensore in modo che venga misurata una pressione rappresentativa.\nRaccomandazione: 5 x DN dopo la valvola.\nNipplo della tubazione con filettatura interna G ¼, montare il sensore con guarnizione, osservare la coppia, figura 2!\n3. Il sensore di pressione include un ugello limitatore di perdite secondo UL 353 e ANSI Z 21.18 / CSA 6.3 e EN 13611.\n4. Solo i sensori di pressione PS specificati da DUNGS possono essere collegati all’interfaccia M12 del VD-R.\n5. Per il collegamento di PS a VD-R, possono essere utilizzati esclusivamente i cavi specificati da DUNGS (pag. 44).\nLunghezza max.\ndel cavo 3 m, copia max.\n0,6 Nm.\n1. La regulación de la presión del gas solo es posible con VD-R y el sensor de presión PS.\nLa presión de salida debe limitarse siempre mediante un presostato (GWmax), Véanse las instrucciones #290274.\n2. Seleccione la posición del sensor para que se mida una presión representativa.\nRecomendación: 5 x DN después de la válvula.\nMontar espiga con rosca interna G\n¼\ny el sensor con junta anular, prestar atención al par de torsión, figura 2.\n3. El sensor de presión incorpora una boquilla limitadora de escapes según UL 353 y ANSI Z 21.18/CSA 6.3 y EN 13611.\n4. Solo los sensores de presión PS especificados por DUNGS pueden conectarse a la interfaz M12 del VD-R.\n5. Solo los cables especificados por DUNGS (p. 44) pueden usarse para conectar el PS al VD-R.\nLongitud máx.\ndel cable 3 m, máx.\npar de apriete 0,6 Nm.\n1 Optional/Optional/En option/Opzionale/Opcional",
+      "bbox": [
+        25.51,
+        69.04,
+        279.49,
+        79.04
+      ],
+      "page_num": 3
+    },
+    {
+      "title": "2. Select sensor position so that a representative pressure is recorded.",
+      "level": 3,
+      "content": "2. Select sensor position so that a representative pressure is recorded.\n3. Recommendation: 5 x DN after the valve.\nPipe fitting with female thread size ¼, mount sensor with sealing ring, observe torque, figure 2!\n4. The pressure sensor includes a vent limiter according to UL 353 and ANSI Z21.18/CSA 6.3 and EN 13611. No venting required in locations where vent limiters are accepted by the jurisdiction.\n5. Only PS pressure sensors specified by DUNGS are authorised to be connected to the VD-R‘s M12 interface.\n6. Only PS cables specified by DUNGS (page 44) are authorised to be used to connect the PS to the VD-R.\nMax.\ncable length 3 m, max.\ntorque 0,6 Nm.\n1. La régulation de la pression de gaz est uniquement possible avec VD-R et un capteur de pression PS.\nLa pression de sortie doit toujours être limitée\npar un limiteur de pression max (GWmax), voir notice #290274.\n2. Choisissez la position du capteur de manière à ce qu’une pression représentative soit mesurée.\nRecommandation :\n5\nx DN après la vanne.\nNipple de conduite avec taraudage\nG ¼, monter le capteur avec une bague d‘étanchéité, respecter le couple, fig. 2\n!\n3 1 2\n3. Le capteur de pression contient une buse de limitation de fuite selon UL 353 et ANSI Z 21.18/CSA 6.3 et EN 13611.\n4. Seuls les capteurs de pression PS spécifiés par DUNGS peuvent être raccordés à l‘interface M12 du VD-R.\n5. Pour le raccordement du PS au VD-R, seuls les câbles spécifiés par DUNGS (p. 44) doivent être utilisés.\nLongueur\nmax.\ndes câbles 3 m, couple max.\n0,6 Nm.\n1. La regolazione della pressione del gas è possibile solo con VD-R e sensore di pressione PS.\nLa pressione di uscita deve sempre essere limitata da un pressostato di massima (GWmax), vedere guida #290274.\n2. Selezionare la posizione del sensore in modo che venga misurata una pressione rappresentativa.\nRaccomandazione: 5 x DN dopo la valvola.\nNipplo della tubazione con filettatura interna G ¼, montare il sensore con guarnizione, osservare la coppia, figura 2!\n3. Il sensore di pressione include un ugello limitatore di perdite secondo UL 353 e ANSI Z 21.18 / CSA 6.3 e EN 13611.\n4. Solo i sensori di pressione PS specificati da DUNGS possono essere collegati all’interfaccia M12 del VD-R.\n5. Per il collegamento di PS a VD-R, possono essere utilizzati esclusivamente i cavi specificati da DUNGS (pag. 44).\nLunghezza max.\ndel cavo 3 m, copia max.\n0,6 Nm.\n1. La regulación de la presión del gas solo es posible con VD-R y el sensor de presión PS.\nLa presión de salida debe limitarse siempre mediante un presostato (GWmax), Véanse las instrucciones #290274.\n2. Seleccione la posición del sensor para que se mida una presión representativa.\nRecomendación: 5 x DN después de la válvula.\nMontar espiga con rosca interna G\n¼\ny el sensor con junta anular, prestar atención al par de torsión, figura 2.\n3. El sensor de presión incorpora una boquilla limitadora de escapes según UL 353 y ANSI Z 21.18/CSA 6.3 y EN 13611.\n4. Solo los sensores de presión PS especificados por DUNGS pueden conectarse a la interfaz M12 del VD-R.\n5. Solo los cables especificados por DUNGS (p. 44) pueden usarse para conectar el PS al VD-R.\nLongitud máx.\ndel cable 3 m, máx.\npar de apriete 0,6 Nm.\n1 Optional/Optional/En option/Opzionale/Opcional",
+      "bbox": [
+        184.36,
+        153.61,
+        334.85,
+        171.21
+      ],
+      "page_num": 3
+    },
+    {
+      "title": "M12, 5 pin",
+      "level": 2,
+      "content": "M12, 5 pin\nAtmungs-/Impulsanschluss Breathing/Impulse connection Raccord de respiration/d‘impulsion Connessioni del PS Conexión de respiración/impulso",
+      "bbox": [
+        702.14,
+        380.35,
+        741.3,
+        388.35
+      ],
+      "page_num": 3
+    },
+    {
+      "title": "M12 x 5 Pin",
+      "level": 2,
+      "content": "M12 x 5 Pin\nPS\n1\nmax. 7 Nm max. 62 lb-in\nG¼\nV1 V2\nGWmin\nGWmax\nAdapter G\n¼\n- NPT ¼ è S. 6/ p. 6\nVD-R + PS\nLeckagebegrenzung integriert.\nVent limiter incoporated.\nLimiteur d‘évent intégré.\nLimitatore di sfiato incorporato.\nLimitador de venteo incorporado.\nV1: VD-V / VD-R\nV2: VD-V / VD-R\nEinstellung VD-R mit PS / Adjusting VD-R with PS / Réglage VD-R avec PS / Regolazione VD-R con PS / Ajuste VD-R con PS\nNicht linear!\nSensoren mit verschiedenen Druckbereichen anbaubar.\nAusgangsdruck je nach Messbereich des Sensors.\nEinstellung des Ausgangsdrucks entsprechend den Anweisungen des Geräteherstellers!\nBei der Einstellung des Ausgangsdrucks dürfen keine gefährlichen Betriebsbedingungen erreicht oder überschritten werden!\nSetting scale is not linear!\nSensors of different pressure ranges available.\nOutput pressure according to sensor‘s measuring range.\nNon linéaire !\nCapteurs avec différentes plages de pression à monter.\nPression de sortie en fonction de la plage de mesure du capteur.\nNon lineare!\nSensori disponibili con diversi intervalli di pressione.\nPressione di uscita a seconda del range di misurazione del sensore.\n¡No lineal!\n | Adjust the outlet pressure to the value specified by the burner or equipment manufacturer! | Réglage de la pression de sortie selon les indications du fabricant! | Regolazione della pressione in uscita in base ai dati del produttore del bruciatore! | Ajuste de la presión de salida se- gún el fabricante de la calefacción.\n | --- | --- | --- | ---\n | Es posible instalar sensores con | distintos rangos de presión. Pre- | sión de salida según el rango de | medición del sensor.\n | While making outlet pressure adjustments, do not exceed a value that creates a hazardous condition to the burner! | Lors du réglage de la pression de sortie, aucune condition de foncti- onnement dangereuse ne doit être établie ou dépassée ! | Con la regolazione della pressio- ne di uscita non devono essere raggiunte o superate condizioni di esercizio del bruciatore pericolose! | Al ajustar la presión de salida, no se deben alcanzar ni exceder las condiciones de operación de peligro.\n\n | BUS Kabel vor elektromagneti- schen Feldern schützen! | Protect BUS cable against electro- magnetic fields! | Protéger le câble BUS des champs électromagnétiques! | Proteggere il cavo BUS dai campi elettromagnetici! | Proteger el cable BUS de los cam- pos electromagnéticos!\n | --- | --- | --- | --- | ---\n | Pro VD-R muss ein PS verwendet werden. | One PS must be used per VD-R. | Un PS doit être utilisé par VD-R. | Deve essere utilizzato un PS per | ogni VD-R. | Se debe usar una PS por cada VD-R.\n | --- | --- | --- | --- | --- | ---\n | Kombinationen/Combinations/Combinaisons/ Combinazioni/Combinaciones | Druck/Pressure/Pression/Pressione/ Presión\n | --- | ---\n | ValveBody | ValveDrive | PressureSensor | P1max | P2 | Pmax test (PS)\n | --- | --- | --- | --- | --- | ---\n | VB-050 VB-150 VB-2L VB-6 L | + | VD-R… | + | PS-0 | 20 kPa / 200 mbar / 80 \"W.C | ± 0,5 kPa / ± 5 mbar / ± 2 \"W.C | 33 kPa / 330 mbar / 132 \"W.C\n | --- | --- | --- | --- | --- | --- | --- | ---\n | +\n | VB-050 VB-2 L | + | VD-R… | + | PS-10/40 | 60 kPa / 600 mbar / 240 \"W.C | 0,4-10 kPa / 4-100 mbar / 1,6-40 \"W.C | 80 kPa / 800 mbar / 321 \"W.C\n |  |  |  |  | PS-50/200 | 60 kPa / 600 mbar / 240 \"W.C | 2-50 kPa / 20-500 mbar / 8-200 \"W.C | 105 kPa / 1 050 mbar / 422 \"W.C\n | VB-065 VB-150 VB-21/2 L VB-6 L | + | VD-R… | + | PS-10/40 | 70 kPa / 700 mbar / 280 \"W.C | 0,4-10 kPa / 4 - 100 mbar / 1,6 -40 \"W.C | 80 kPa / 800 mbar / 321 \"W.C\n |  |  |  |  | PS-50/200 | 70 kPa / 700 mbar / 280 \"W.C | 2-50 kPa / 20-500 mbar / 8-200 \"W.C | 105 kPa / 1 050 mbar / 422 \"W.C\n\nDruck erhöhen Increasing pressure Augmenter la pression Aumentare la pressione Aumentar la presión\nP2\n+–P1max\n | Maximaler Betriebsdruck für MBE--VR-Kombinationen Maximal operating pressure for MBE-…-VR combinations Pression de service maximale pour les combinaisons MBE--VR Pressione massima di esercizio per combinazioni MBE--VR Presión máxima de funcionamiento para las combinaciones MBE--VR | Ausgangsdruckbereich Outlet pressure range Plage de pression de sortie Intervallo di pressione in uscita Rango de presión de salida\n | –\n\nDruck verringern Decreasing pressure Réduire la pression Ridurre la pressione Reducir la presión\nPmax test (PS)\nMaximaler Prüfdruck für PressureSensor Maximal test pressure for PressureSensor Pression d‘essai maximale pour PressureSensor Pressione massima di prova per PressureSensor Presión máxima de prueba para el PressureSensor\n | Einstellung positiver Ausgangsdruck in Ver- bindung mit PS-10/40 oder PS-50/200: Adjusting output pressure for positive pressure systems (requires PS-10/40 or PS-50/200): Réglage de la pression de sortie positive en association avec PS-10/40 ou PS-50/200: | Impostazione della pressione di uscita positiva in combinazione con PS-10/40 o PS-50/200: Ajuste de la presión de salida positiva en relación a PS-10/40 o PS-50/200: | Einstellung Nulldruck-Anwendung in Verbindung mit PS-0: Adjusting outlet pressure for zero pressure applications (requires PS-0): Réglage de l‘utilisation de la pression nulle en association avec PS-0: | Impostazione dell‘applicazione di pressione zero in combinazione a PS-0: Ajuste de aplicación de presión cero en relación a PS-0:\n | --- | --- | --- | ---\n | A | B | A | B\n | 50 % 10 % |  | -20 % | \n\n25 %\n75 % 0 +20 % Max.\nAusgangsdruck/Outlet pressure/Pression de sortie/Pressione di uscita/Presión de salida\nkPa mbar \"W.C.\nkPa mbar \"W.C.\nOffset\nPS-0\n |  | kPa | mbar | \"W.C.\n | --- | --- | --- | ---\n |  | Min. | -0,50 | -5,00 | -2,00\n | --- | --- | --- | --- | ---\n |  | -20% | -0,10 | -1,00 | -0,40\n | A | 0 | 0,00 | 0,00 | 0,00\n |  | 20% | 0,10 | 1,00 | 0,40\n |  | Max. | 0,50 | 5,00 | 2,00\n |  | „0“ | 0,00 | 0,00 | 0,00\n |  | Min. | -0,50 | -5,00 | -2,01\n |  | 10% | -0,12 | -1,20 | -0,48\n |  | 20% | -0,02 | -0,16 | -0,06\n |  | 30% | 0,00 | 0,01 | 0,00\n |  | 40% | 0,03 | 0,25 | 0,10\n | B 50% |  | 0,07 | 0,74 | 0,30\n |  | 60% | 0,14 | 1,40 | 0,56\n |  | 70% | 0,22 | 2,16 | 0,87\n |  | 80% | 0,30 | 3,04 | 1,22\n\nMin.\nMax.\nPS-10/40\nPS-50/200\n | Min. | 0,4 | 4,0 | 1,6 | 2,0 | 20,0 | 8,0\n | --- | --- | --- | --- | --- | --- | ---\n | 10% | 1,0 | 10,0 | 4,0 | 5,0 | 50,0 | 20,0\n | 25% | 2,5 | 25,0 | 10,0 | 10,0 | 100,0 | 40,0\n\n | A 50% |  | 5,0 | 50,0 | 20,0 | 25,0 | 250,0 | 100,0\n | --- | --- | --- | --- | --- | --- | --- | ---\n |  | 75% | 7,5 | 75,0 | 30,1 | 35,0 | 350,0 | 140,0\n |  | Max. | 10,0 | 100,0 | 40,0 | 50,0 | 500,0 | 200,0\n |  | Min. | 0,4 | 4,0 | 1,6 | 2,0 | 20,0 | 8,0\n |  | 10% | 1,0 | 10,0 | 4,0 | 5,0 | 50,0 | 20,0\n |  | 20% | 2,0 | 20,0 | 8,0 | 10,0 | 100,0 | 40,0\n |  | 30% | 3,0 | 30,0 | 12,0 | 15,0 | 150,0 | 60,0\n |  | 40% | 4,0 | 40,0 | 16,0 | 20,0 | 200,0 | 80,0\n | B | 50% | 5,0 | 50,0 | 20,0 | 25,0 | 250,0 | 100,0\n |  | 60% | 6,0 | 60,0 | 24,0 | 30,0 | 300,0 | 120,0\n |  | 70% | 7,0 | 70,0 | 28,0 | 35,0 | 350,0 | 140,0\n |  | 80% | 8,0 | 80,0 | 32,0 | 40,0 | 400,0 | 160,0\n\nMin.\nErsatzteile & Zubehör / Spare parts & Accessoires / Pieces de rechange & Access.\n/ Parti di ricambio & Accessori / Piezas de repuesto & Accesorios\n | Ersatzteile/Zubehör Spare parts/Accessoires Pieces de rechange / access. Parti di ricambio / Accessori Piezas de repuesto/accesorios | Bestellnummer Ordering no. No. de commande Codice articolo N.º de orden | \n | --- | --- | ---\n | Antrieb VD ValveDrive VD Entraînement VD Attuatore VD Actuador VD | VD-R-AC VD-R-AC-POC VD-R-DC VD-R-DC-POC | 274654 275361 275362 275363\n | Kabel für Drucksensor Cable for pressure sensor Câble pour capteur de pression Cavo per sensore di pressione Cable para sensor de presión | 1,5 m | 276911\n | Drucksensor Pressure sensor Capteur de pression Sensore di pressione Sensor de presión | PS-0 PS-10/40 PS-50/200 | 275265 275263 275264\n | Adapter Adapter Adaptateur Adattatore Adaptador | G¼ - NPT ¼ | 289169\n\nDie Druckgeräterichtlinie (PED) und die Richtlinie über die Gesamtenergieeffizienz von Gebäuden (EPBD) fordern eine regelmässige Überprüfung der Wärmeerzeuger zur langfristigen Sicherstellung von hohen Nutzungsgraden und somit geringster Umweltbelastung.\nEs besteht die Notwendigkeit sicherheitsrelevante Komponenten nach Erreichen ihrer Nutzungsdauer auszutauschen:\nThe Pressure Equipment Directive (PED) and the Energy Performance of Buildings Directive (EPBD) require a periodic inspection of heat generators in order to ensure a high degree of efficiency over a long term and, consequently, the least environmental pollution.\nIt is necessary to replace safety-relevant components after they have reached the end of their designed lifetime:\nLa directive concernant les chauffe-bains à pression (PED) et la directive sur la performance énergétique des bâtiments (EPBD) exigent une vérification régulière des générateurs de chaleur afin de garantir à long terme des taux d‘utilisation élevés et par conséquent une charge environnementale minimum.",
+      "bbox": [
+        147.8,
+        444.17,
+        191.64,
+        452.17
+      ],
+      "page_num": 3
+    },
+    {
+      "title": "PS",
+      "level": 3,
+      "content": "PS\n1\nmax. 7 Nm max. 62 lb-in",
+      "bbox": [
+        444.73,
+        462.83,
+        455.3,
+        470.83
+      ],
+      "page_num": 3
+    },
+    {
+      "title": "max. 7 Nm max. 62 lb-in",
+      "level": 4,
+      "content": "max. 7 Nm max. 62 lb-in",
+      "bbox": [
+        600.94,
+        475.88,
+        643.25,
+        491.28
+      ],
+      "page_num": 3
+    },
+    {
+      "title": "G¼",
+      "level": 3,
+      "content": "G¼\nV1 V2\nGWmin\nGWmax\nAdapter G\n¼\n- NPT ¼ è S. 6/ p. 6",
+      "bbox": [
+        685.42,
+        483.1,
+        698.13,
+        491.1
+      ],
+      "page_num": 3
+    },
+    {
+      "title": "V1 V2",
+      "level": 4,
+      "content": "V1 V2\nGWmin\nGWmax\nAdapter G\n¼\n- NPT ¼ è S. 6/ p. 6",
+      "bbox": [
+        304.44,
+        483.32,
+        349.95,
+        490.32
+      ],
+      "page_num": 3
+    },
+    {
+      "title": "VD-R + PS",
+      "level": 3,
+      "content": "VD-R + PS\nLeckagebegrenzung integriert.\nVent limiter incoporated.\nLimiteur d‘évent intégré.\nLimitatore di sfiato incorporato.\nLimitador de venteo incorporado.\nV1: VD-V / VD-R\nV2: VD-V / VD-R\nEinstellung VD-R mit PS / Adjusting VD-R with PS / Réglage VD-R avec PS / Regolazione VD-R con PS / Ajuste VD-R con PS\nNicht linear!\nSensoren mit verschiedenen Druckbereichen anbaubar.\nAusgangsdruck je nach Messbereich des Sensors.\nEinstellung des Ausgangsdrucks entsprechend den Anweisungen des Geräteherstellers!\nBei der Einstellung des Ausgangsdrucks dürfen keine gefährlichen Betriebsbedingungen erreicht oder überschritten werden!\nSetting scale is not linear!\nSensors of different pressure ranges available.\nOutput pressure according to sensor‘s measuring range.\nNon linéaire !\nCapteurs avec différentes plages de pression à monter.\nPression de sortie en fonction de la plage de mesure du capteur.\nNon lineare!\nSensori disponibili con diversi intervalli di pressione.\nPressione di uscita a seconda del range di misurazione del sensore.\n¡No lineal!\n | Adjust the outlet pressure to the value specified by the burner or equipment manufacturer! | Réglage de la pression de sortie selon les indications du fabricant! | Regolazione della pressione in uscita in base ai dati del produttore del bruciatore! | Ajuste de la presión de salida se- gún el fabricante de la calefacción.\n | --- | --- | --- | ---\n | Es posible instalar sensores con | distintos rangos de presión. Pre- | sión de salida según el rango de | medición del sensor.\n | While making outlet pressure adjustments, do not exceed a value that creates a hazardous condition to the burner! | Lors du réglage de la pression de sortie, aucune condition de foncti- onnement dangereuse ne doit être établie ou dépassée ! | Con la regolazione della pressio- ne di uscita non devono essere raggiunte o superate condizioni di esercizio del bruciatore pericolose! | Al ajustar la presión de salida, no se deben alcanzar ni exceder las condiciones de operación de peligro.\n\n | BUS Kabel vor elektromagneti- schen Feldern schützen! | Protect BUS cable against electro- magnetic fields! | Protéger le câble BUS des champs électromagnétiques! | Proteggere il cavo BUS dai campi elettromagnetici! | Proteger el cable BUS de los cam- pos electromagnéticos!\n | --- | --- | --- | --- | ---\n | Pro VD-R muss ein PS verwendet werden. | One PS must be used per VD-R. | Un PS doit être utilisé par VD-R. | Deve essere utilizzato un PS per | ogni VD-R. | Se debe usar una PS por cada VD-R.\n | --- | --- | --- | --- | --- | ---\n | Kombinationen/Combinations/Combinaisons/ Combinazioni/Combinaciones | Druck/Pressure/Pression/Pressione/ Presión\n | --- | ---\n | ValveBody | ValveDrive | PressureSensor | P1max | P2 | Pmax test (PS)\n | --- | --- | --- | --- | --- | ---\n | VB-050 VB-150 VB-2L VB-6 L | + | VD-R… | + | PS-0 | 20 kPa / 200 mbar / 80 \"W.C | ± 0,5 kPa / ± 5 mbar / ± 2 \"W.C | 33 kPa / 330 mbar / 132 \"W.C\n | --- | --- | --- | --- | --- | --- | --- | ---\n | +\n | VB-050 VB-2 L | + | VD-R… | + | PS-10/40 | 60 kPa / 600 mbar / 240 \"W.C | 0,4-10 kPa / 4-100 mbar / 1,6-40 \"W.C | 80 kPa / 800 mbar / 321 \"W.C\n |  |  |  |  | PS-50/200 | 60 kPa / 600 mbar / 240 \"W.C | 2-50 kPa / 20-500 mbar / 8-200 \"W.C | 105 kPa / 1 050 mbar / 422 \"W.C\n | VB-065 VB-150 VB-21/2 L VB-6 L | + | VD-R… | + | PS-10/40 | 70 kPa / 700 mbar / 280 \"W.C | 0,4-10 kPa / 4 - 100 mbar / 1,6 -40 \"W.C | 80 kPa / 800 mbar / 321 \"W.C\n |  |  |  |  | PS-50/200 | 70 kPa / 700 mbar / 280 \"W.C | 2-50 kPa / 20-500 mbar / 8-200 \"W.C | 105 kPa / 1 050 mbar / 422 \"W.C\n\nDruck erhöhen Increasing pressure Augmenter la pression Aumentare la pressione Aumentar la presión\nP2\n+–P1max\n | Maximaler Betriebsdruck für MBE--VR-Kombinationen Maximal operating pressure for MBE-…-VR combinations Pression de service maximale pour les combinaisons MBE--VR Pressione massima di esercizio per combinazioni MBE--VR Presión máxima de funcionamiento para las combinaciones MBE--VR | Ausgangsdruckbereich Outlet pressure range Plage de pression de sortie Intervallo di pressione in uscita Rango de presión de salida\n | –\n\nDruck verringern Decreasing pressure Réduire la pression Ridurre la pressione Reducir la presión\nPmax test (PS)\nMaximaler Prüfdruck für PressureSensor Maximal test pressure for PressureSensor Pression d‘essai maximale pour PressureSensor Pressione massima di prova per PressureSensor Presión máxima de prueba para el PressureSensor\n | Einstellung positiver Ausgangsdruck in Ver- bindung mit PS-10/40 oder PS-50/200: Adjusting output pressure for positive pressure systems (requires PS-10/40 or PS-50/200): Réglage de la pression de sortie positive en association avec PS-10/40 ou PS-50/200: | Impostazione della pressione di uscita positiva in combinazione con PS-10/40 o PS-50/200: Ajuste de la presión de salida positiva en relación a PS-10/40 o PS-50/200: | Einstellung Nulldruck-Anwendung in Verbindung mit PS-0: Adjusting outlet pressure for zero pressure applications (requires PS-0): Réglage de l‘utilisation de la pression nulle en association avec PS-0: | Impostazione dell‘applicazione di pressione zero in combinazione a PS-0: Ajuste de aplicación de presión cero en relación a PS-0:\n | --- | --- | --- | ---\n | A | B | A | B\n | 50 % 10 % |  | -20 % | \n\n25 %\n75 % 0 +20 % Max.\nAusgangsdruck/Outlet pressure/Pression de sortie/Pressione di uscita/Presión de salida\nkPa mbar \"W.C.\nkPa mbar \"W.C.\nOffset\nPS-0\n |  | kPa | mbar | \"W.C.\n | --- | --- | --- | ---\n |  | Min. | -0,50 | -5,00 | -2,00\n | --- | --- | --- | --- | ---\n |  | -20% | -0,10 | -1,00 | -0,40\n | A | 0 | 0,00 | 0,00 | 0,00\n |  | 20% | 0,10 | 1,00 | 0,40\n |  | Max. | 0,50 | 5,00 | 2,00\n |  | „0“ | 0,00 | 0,00 | 0,00\n |  | Min. | -0,50 | -5,00 | -2,01\n |  | 10% | -0,12 | -1,20 | -0,48\n |  | 20% | -0,02 | -0,16 | -0,06\n |  | 30% | 0,00 | 0,01 | 0,00\n |  | 40% | 0,03 | 0,25 | 0,10\n | B 50% |  | 0,07 | 0,74 | 0,30\n |  | 60% | 0,14 | 1,40 | 0,56\n |  | 70% | 0,22 | 2,16 | 0,87\n |  | 80% | 0,30 | 3,04 | 1,22\n\nMin.\nMax.\nPS-10/40\nPS-50/200\n | Min. | 0,4 | 4,0 | 1,6 | 2,0 | 20,0 | 8,0\n | --- | --- | --- | --- | --- | --- | ---\n | 10% | 1,0 | 10,0 | 4,0 | 5,0 | 50,0 | 20,0\n | 25% | 2,5 | 25,0 | 10,0 | 10,0 | 100,0 | 40,0\n\n | A 50% |  | 5,0 | 50,0 | 20,0 | 25,0 | 250,0 | 100,0\n | --- | --- | --- | --- | --- | --- | --- | ---\n |  | 75% | 7,5 | 75,0 | 30,1 | 35,0 | 350,0 | 140,0\n |  | Max. | 10,0 | 100,0 | 40,0 | 50,0 | 500,0 | 200,0\n |  | Min. | 0,4 | 4,0 | 1,6 | 2,0 | 20,0 | 8,0\n |  | 10% | 1,0 | 10,0 | 4,0 | 5,0 | 50,0 | 20,0\n |  | 20% | 2,0 | 20,0 | 8,0 | 10,0 | 100,0 | 40,0\n |  | 30% | 3,0 | 30,0 | 12,0 | 15,0 | 150,0 | 60,0\n |  | 40% | 4,0 | 40,0 | 16,0 | 20,0 | 200,0 | 80,0\n | B | 50% | 5,0 | 50,0 | 20,0 | 25,0 | 250,0 | 100,0\n |  | 60% | 6,0 | 60,0 | 24,0 | 30,0 | 300,0 | 120,0\n |  | 70% | 7,0 | 70,0 | 28,0 | 35,0 | 350,0 | 140,0\n |  | 80% | 8,0 | 80,0 | 32,0 | 40,0 | 400,0 | 160,0\n\nMin.\nErsatzteile & Zubehör / Spare parts & Accessoires / Pieces de rechange & Access.\n/ Parti di ricambio & Accessori / Piezas de repuesto & Accesorios\n | Ersatzteile/Zubehör Spare parts/Accessoires Pieces de rechange / access. Parti di ricambio / Accessori Piezas de repuesto/accesorios | Bestellnummer Ordering no. No. de commande Codice articolo N.º de orden | \n | --- | --- | ---\n | Antrieb VD ValveDrive VD Entraînement VD Attuatore VD Actuador VD | VD-R-AC VD-R-AC-POC VD-R-DC VD-R-DC-POC | 274654 275361 275362 275363\n | Kabel für Drucksensor Cable for pressure sensor Câble pour capteur de pression Cavo per sensore di pressione Cable para sensor de presión | 1,5 m | 276911\n | Drucksensor Pressure sensor Capteur de pression Sensore di pressione Sensor de presión | PS-0 PS-10/40 PS-50/200 | 275265 275263 275264\n | Adapter Adapter Adaptateur Adattatore Adaptador | G¼ - NPT ¼ | 289169\n\nDie Druckgeräterichtlinie (PED) und die Richtlinie über die Gesamtenergieeffizienz von Gebäuden (EPBD) fordern eine regelmässige Überprüfung der Wärmeerzeuger zur langfristigen Sicherstellung von hohen Nutzungsgraden und somit geringster Umweltbelastung.\nEs besteht die Notwendigkeit sicherheitsrelevante Komponenten nach Erreichen ihrer Nutzungsdauer auszutauschen:\nThe Pressure Equipment Directive (PED) and the Energy Performance of Buildings Directive (EPBD) require a periodic inspection of heat generators in order to ensure a high degree of efficiency over a long term and, consequently, the least environmental pollution.\nIt is necessary to replace safety-relevant components after they have reached the end of their designed lifetime:\nLa directive concernant les chauffe-bains à pression (PED) et la directive sur la performance énergétique des bâtiments (EPBD) exigent une vérification régulière des générateurs de chaleur afin de garantir à long terme des taux d‘utilisation élevés et par conséquent une charge environnementale minimum.",
+      "bbox": [
+        125.72,
+        521.03,
+        166.81,
+        529.03
+      ],
+      "page_num": 3
+    },
+    {
+      "title": "V1: VD-V / VD-R",
+      "level": 4,
+      "content": "V1: VD-V / VD-R",
+      "bbox": [
+        299.91,
+        544.26,
+        350.22,
+        551.26
+      ],
+      "page_num": 3
+    },
+    {
+      "title": "V2: VD-V / VD-R",
+      "level": 4,
+      "content": "V2: VD-V / VD-R\nEinstellung VD-R mit PS / Adjusting VD-R with PS / Réglage VD-R avec PS / Regolazione VD-R con PS / Ajuste VD-R con PS\nNicht linear!\nSensoren mit verschiedenen Druckbereichen anbaubar.\nAusgangsdruck je nach Messbereich des Sensors.\nEinstellung des Ausgangsdrucks entsprechend den Anweisungen des Geräteherstellers!\nBei der Einstellung des Ausgangsdrucks dürfen keine gefährlichen Betriebsbedingungen erreicht oder überschritten werden!\nSetting scale is not linear!\nSensors of different pressure ranges available.\nOutput pressure according to sensor‘s measuring range.\nNon linéaire !\nCapteurs avec différentes plages de pression à monter.\nPression de sortie en fonction de la plage de mesure du capteur.\nNon lineare!\nSensori disponibili con diversi intervalli di pressione.\nPressione di uscita a seconda del range di misurazione del sensore.\n¡No lineal!\n | Adjust the outlet pressure to the value specified by the burner or equipment manufacturer! | Réglage de la pression de sortie selon les indications du fabricant! | Regolazione della pressione in uscita in base ai dati del produttore del bruciatore! | Ajuste de la presión de salida se- gún el fabricante de la calefacción.\n | --- | --- | --- | ---\n | Es posible instalar sensores con | distintos rangos de presión. Pre- | sión de salida según el rango de | medición del sensor.\n | While making outlet pressure adjustments, do not exceed a value that creates a hazardous condition to the burner! | Lors du réglage de la pression de sortie, aucune condition de foncti- onnement dangereuse ne doit être établie ou dépassée ! | Con la regolazione della pressio- ne di uscita non devono essere raggiunte o superate condizioni di esercizio del bruciatore pericolose! | Al ajustar la presión de salida, no se deben alcanzar ni exceder las condiciones de operación de peligro.\n\n | BUS Kabel vor elektromagneti- schen Feldern schützen! | Protect BUS cable against electro- magnetic fields! | Protéger le câble BUS des champs électromagnétiques! | Proteggere il cavo BUS dai campi elettromagnetici! | Proteger el cable BUS de los cam- pos electromagnéticos!\n | --- | --- | --- | --- | ---\n | Pro VD-R muss ein PS verwendet werden. | One PS must be used per VD-R. | Un PS doit être utilisé par VD-R. | Deve essere utilizzato un PS per | ogni VD-R. | Se debe usar una PS por cada VD-R.\n | --- | --- | --- | --- | --- | ---\n | Kombinationen/Combinations/Combinaisons/ Combinazioni/Combinaciones | Druck/Pressure/Pression/Pressione/ Presión\n | --- | ---\n | ValveBody | ValveDrive | PressureSensor | P1max | P2 | Pmax test (PS)\n | --- | --- | --- | --- | --- | ---\n | VB-050 VB-150 VB-2L VB-6 L | + | VD-R… | + | PS-0 | 20 kPa / 200 mbar / 80 \"W.C | ± 0,5 kPa / ± 5 mbar / ± 2 \"W.C | 33 kPa / 330 mbar / 132 \"W.C\n | --- | --- | --- | --- | --- | --- | --- | ---\n | +\n | VB-050 VB-2 L | + | VD-R… | + | PS-10/40 | 60 kPa / 600 mbar / 240 \"W.C | 0,4-10 kPa / 4-100 mbar / 1,6-40 \"W.C | 80 kPa / 800 mbar / 321 \"W.C\n |  |  |  |  | PS-50/200 | 60 kPa / 600 mbar / 240 \"W.C | 2-50 kPa / 20-500 mbar / 8-200 \"W.C | 105 kPa / 1 050 mbar / 422 \"W.C\n | VB-065 VB-150 VB-21/2 L VB-6 L | + | VD-R… | + | PS-10/40 | 70 kPa / 700 mbar / 280 \"W.C | 0,4-10 kPa / 4 - 100 mbar / 1,6 -40 \"W.C | 80 kPa / 800 mbar / 321 \"W.C\n |  |  |  |  | PS-50/200 | 70 kPa / 700 mbar / 280 \"W.C | 2-50 kPa / 20-500 mbar / 8-200 \"W.C | 105 kPa / 1 050 mbar / 422 \"W.C\n\nDruck erhöhen Increasing pressure Augmenter la pression Aumentare la pressione Aumentar la presión\nP2\n+–P1max\n | Maximaler Betriebsdruck für MBE--VR-Kombinationen Maximal operating pressure for MBE-…-VR combinations Pression de service maximale pour les combinaisons MBE--VR Pressione massima di esercizio per combinazioni MBE--VR Presión máxima de funcionamiento para las combinaciones MBE--VR | Ausgangsdruckbereich Outlet pressure range Plage de pression de sortie Intervallo di pressione in uscita Rango de presión de salida\n | –\n\nDruck verringern Decreasing pressure Réduire la pression Ridurre la pressione Reducir la presión\nPmax test (PS)\nMaximaler Prüfdruck für PressureSensor Maximal test pressure for PressureSensor Pression d‘essai maximale pour PressureSensor Pressione massima di prova per PressureSensor Presión máxima de prueba para el PressureSensor\n | Einstellung positiver Ausgangsdruck in Ver- bindung mit PS-10/40 oder PS-50/200: Adjusting output pressure for positive pressure systems (requires PS-10/40 or PS-50/200): Réglage de la pression de sortie positive en association avec PS-10/40 ou PS-50/200: | Impostazione della pressione di uscita positiva in combinazione con PS-10/40 o PS-50/200: Ajuste de la presión de salida positiva en relación a PS-10/40 o PS-50/200: | Einstellung Nulldruck-Anwendung in Verbindung mit PS-0: Adjusting outlet pressure for zero pressure applications (requires PS-0): Réglage de l‘utilisation de la pression nulle en association avec PS-0: | Impostazione dell‘applicazione di pressione zero in combinazione a PS-0: Ajuste de aplicación de presión cero en relación a PS-0:\n | --- | --- | --- | ---\n | A | B | A | B\n | 50 % 10 % |  | -20 % | \n\n25 %\n75 % 0 +20 % Max.",
+      "bbox": [
+        299.91,
+        552.66,
+        350.22,
+        559.66
+      ],
+      "page_num": 3
+    },
+    {
+      "title": "Pmax test (PS)",
+      "level": 7,
+      "content": "Pmax test (PS)\nMaximaler Prüfdruck für PressureSensor Maximal test pressure for PressureSensor Pression d‘essai maximale pour PressureSensor Pressione massima di prova per PressureSensor Presión máxima de prueba para el PressureSensor\n | Einstellung positiver Ausgangsdruck in Ver- bindung mit PS-10/40 oder PS-50/200: Adjusting output pressure for positive pressure systems (requires PS-10/40 or PS-50/200): Réglage de la pression de sortie positive en association avec PS-10/40 ou PS-50/200: | Impostazione della pressione di uscita positiva in combinazione con PS-10/40 o PS-50/200: Ajuste de la presión de salida positiva en relación a PS-10/40 o PS-50/200: | Einstellung Nulldruck-Anwendung in Verbindung mit PS-0: Adjusting outlet pressure for zero pressure applications (requires PS-0): Réglage de l‘utilisation de la pression nulle en association avec PS-0: | Impostazione dell‘applicazione di pressione zero in combinazione a PS-0: Ajuste de aplicación de presión cero en relación a PS-0:\n | --- | --- | --- | ---\n | A | B | A | B\n | 50 % 10 % |  | -20 % | \n\n25 %\n75 % 0 +20 % Max.",
+      "bbox": [
+        22.68,
+        516.42,
+        66.42,
+        523.42
+      ],
+      "page_num": 4
+    },
+    {
+      "title": "Ausgangsdruck/Outlet pressure/Pression de sortie/Pressione di uscita/Presión de salida",
+      "level": 6,
+      "content": "Ausgangsdruck/Outlet pressure/Pression de sortie/Pressione di uscita/Presión de salida\nkPa mbar \"W.C.\nkPa mbar \"W.C.",
+      "bbox": [
+        82.48,
+        266.18,
+        397.88,
+        274.18
+      ],
+      "page_num": 5
+    },
+    {
+      "title": "Offset",
+      "level": 6,
+      "content": "Offset\nPS-0\n |  | kPa | mbar | \"W.C.\n | --- | --- | --- | ---\n |  | Min. | -0,50 | -5,00 | -2,00\n | --- | --- | --- | --- | ---\n |  | -20% | -0,10 | -1,00 | -0,40\n | A | 0 | 0,00 | 0,00 | 0,00\n |  | 20% | 0,10 | 1,00 | 0,40\n |  | Max. | 0,50 | 5,00 | 2,00\n |  | „0“ | 0,00 | 0,00 | 0,00\n |  | Min. | -0,50 | -5,00 | -2,01\n |  | 10% | -0,12 | -1,20 | -0,48\n |  | 20% | -0,02 | -0,16 | -0,06\n |  | 30% | 0,00 | 0,01 | 0,00\n |  | 40% | 0,03 | 0,25 | 0,10\n | B 50% |  | 0,07 | 0,74 | 0,30\n |  | 60% | 0,14 | 1,40 | 0,56\n |  | 70% | 0,22 | 2,16 | 0,87\n |  | 80% | 0,30 | 3,04 | 1,22\n\nMin.\nMax.\nPS-10/40\nPS-50/200\n | Min. | 0,4 | 4,0 | 1,6 | 2,0 | 20,0 | 8,0\n | --- | --- | --- | --- | --- | --- | ---\n | 10% | 1,0 | 10,0 | 4,0 | 5,0 | 50,0 | 20,0\n | 25% | 2,5 | 25,0 | 10,0 | 10,0 | 100,0 | 40,0\n\n | A 50% |  | 5,0 | 50,0 | 20,0 | 25,0 | 250,0 | 100,0\n | --- | --- | --- | --- | --- | --- | --- | ---\n |  | 75% | 7,5 | 75,0 | 30,1 | 35,0 | 350,0 | 140,0\n |  | Max. | 10,0 | 100,0 | 40,0 | 50,0 | 500,0 | 200,0\n |  | Min. | 0,4 | 4,0 | 1,6 | 2,0 | 20,0 | 8,0\n |  | 10% | 1,0 | 10,0 | 4,0 | 5,0 | 50,0 | 20,0\n |  | 20% | 2,0 | 20,0 | 8,0 | 10,0 | 100,0 | 40,0\n |  | 30% | 3,0 | 30,0 | 12,0 | 15,0 | 150,0 | 60,0\n |  | 40% | 4,0 | 40,0 | 16,0 | 20,0 | 200,0 | 80,0\n | B | 50% | 5,0 | 50,0 | 20,0 | 25,0 | 250,0 | 100,0\n |  | 60% | 6,0 | 60,0 | 24,0 | 30,0 | 300,0 | 120,0\n |  | 70% | 7,0 | 70,0 | 28,0 | 35,0 | 350,0 | 140,0\n |  | 80% | 8,0 | 80,0 | 32,0 | 40,0 | 400,0 | 160,0\n\nMin.\nErsatzteile & Zubehör / Spare parts & Accessoires / Pieces de rechange & Access.\n/ Parti di ricambio & Accessori / Piezas de repuesto & Accesorios\n | Ersatzteile/Zubehör Spare parts/Accessoires Pieces de rechange / access. Parti di ricambio / Accessori Piezas de repuesto/accesorios | Bestellnummer Ordering no. No. de commande Codice articolo N.º de orden | \n | --- | --- | ---\n | Antrieb VD ValveDrive VD Entraînement VD Attuatore VD Actuador VD | VD-R-AC VD-R-AC-POC VD-R-DC VD-R-DC-POC | 274654 275361 275362 275363\n | Kabel für Drucksensor Cable for pressure sensor Câble pour capteur de pression Cavo per sensore di pressione Cable para sensor de presión | 1,5 m | 276911\n | Drucksensor Pressure sensor Capteur de pression Sensore di pressione Sensor de presión | PS-0 PS-10/40 PS-50/200 | 275265 275263 275264\n | Adapter Adapter Adaptateur Adattatore Adaptador | G¼ - NPT ¼ | 289169\n\nDie Druckgeräterichtlinie (PED) und die Richtlinie über die Gesamtenergieeffizienz von Gebäuden (EPBD) fordern eine regelmässige Überprüfung der Wärmeerzeuger zur langfristigen Sicherstellung von hohen Nutzungsgraden und somit geringster Umweltbelastung.\nEs besteht die Notwendigkeit sicherheitsrelevante Komponenten nach Erreichen ihrer Nutzungsdauer auszutauschen:\nThe Pressure Equipment Directive (PED) and the Energy Performance of Buildings Directive (EPBD) require a periodic inspection of heat generators in order to ensure a high degree of efficiency over a long term and, consequently, the least environmental pollution.\nIt is necessary to replace safety-relevant components after they have reached the end of their designed lifetime:\nLa directive concernant les chauffe-bains à pression (PED) et la directive sur la performance énergétique des bâtiments (EPBD) exigent une vérification régulière des générateurs de chaleur afin de garantir à long terme des taux d‘utilisation élevés et par conséquent une charge environnementale minimum.",
+      "bbox": [
+        627.58,
+        264.62,
+        650.76,
+        272.62
+      ],
+      "page_num": 5
+    },
+    {
+      "title": "PS-0",
+      "level": 7,
+      "content": "PS-0\n |  | kPa | mbar | \"W.C.\n | --- | --- | --- | ---\n |  | Min. | -0,50 | -5,00 | -2,00\n | --- | --- | --- | --- | ---\n |  | -20% | -0,10 | -1,00 | -0,40\n | A | 0 | 0,00 | 0,00 | 0,00\n |  | 20% | 0,10 | 1,00 | 0,40\n |  | Max. | 0,50 | 5,00 | 2,00\n |  | „0“ | 0,00 | 0,00 | 0,00\n |  | Min. | -0,50 | -5,00 | -2,01\n |  | 10% | -0,12 | -1,20 | -0,48\n |  | 20% | -0,02 | -0,16 | -0,06\n |  | 30% | 0,00 | 0,01 | 0,00\n |  | 40% | 0,03 | 0,25 | 0,10\n | B 50% |  | 0,07 | 0,74 | 0,30\n |  | 60% | 0,14 | 1,40 | 0,56\n |  | 70% | 0,22 | 2,16 | 0,87\n |  | 80% | 0,30 | 3,04 | 1,22\n\nMin.\nMax.\nPS-10/40\nPS-50/200\n | Min. | 0,4 | 4,0 | 1,6 | 2,0 | 20,0 | 8,0\n | --- | --- | --- | --- | --- | --- | ---\n | 10% | 1,0 | 10,0 | 4,0 | 5,0 | 50,0 | 20,0\n | 25% | 2,5 | 25,0 | 10,0 | 10,0 | 100,0 | 40,0\n\n | A 50% |  | 5,0 | 50,0 | 20,0 | 25,0 | 250,0 | 100,0\n | --- | --- | --- | --- | --- | --- | --- | ---\n |  | 75% | 7,5 | 75,0 | 30,1 | 35,0 | 350,0 | 140,0\n |  | Max. | 10,0 | 100,0 | 40,0 | 50,0 | 500,0 | 200,0\n |  | Min. | 0,4 | 4,0 | 1,6 | 2,0 | 20,0 | 8,0\n |  | 10% | 1,0 | 10,0 | 4,0 | 5,0 | 50,0 | 20,0\n |  | 20% | 2,0 | 20,0 | 8,0 | 10,0 | 100,0 | 40,0\n |  | 30% | 3,0 | 30,0 | 12,0 | 15,0 | 150,0 | 60,0\n |  | 40% | 4,0 | 40,0 | 16,0 | 20,0 | 200,0 | 80,0\n | B | 50% | 5,0 | 50,0 | 20,0 | 25,0 | 250,0 | 100,0\n |  | 60% | 6,0 | 60,0 | 24,0 | 30,0 | 300,0 | 120,0\n |  | 70% | 7,0 | 70,0 | 28,0 | 35,0 | 350,0 | 140,0\n |  | 80% | 8,0 | 80,0 | 32,0 | 40,0 | 400,0 | 160,0\n\nMin.\nErsatzteile & Zubehör / Spare parts & Accessoires / Pieces de rechange & Access.\n/ Parti di ricambio & Accessori / Piezas de repuesto & Accesorios\n | Ersatzteile/Zubehör Spare parts/Accessoires Pieces de rechange / access. Parti di ricambio / Accessori Piezas de repuesto/accesorios | Bestellnummer Ordering no. No. de commande Codice articolo N.º de orden | \n | --- | --- | ---\n | Antrieb VD ValveDrive VD Entraînement VD Attuatore VD Actuador VD | VD-R-AC VD-R-AC-POC VD-R-DC VD-R-DC-POC | 274654 275361 275362 275363\n | Kabel für Drucksensor Cable for pressure sensor Câble pour capteur de pression Cavo per sensore di pressione Cable para sensor de presión | 1,5 m | 276911\n | Drucksensor Pressure sensor Capteur de pression Sensore di pressione Sensor de presión | PS-0 PS-10/40 PS-50/200 | 275265 275263 275264\n | Adapter Adapter Adaptateur Adattatore Adaptador | G¼ - NPT ¼ | 289169\n\nDie Druckgeräterichtlinie (PED) und die Richtlinie über die Gesamtenergieeffizienz von Gebäuden (EPBD) fordern eine regelmässige Überprüfung der Wärmeerzeuger zur langfristigen Sicherstellung von hohen Nutzungsgraden und somit geringster Umweltbelastung.\nEs besteht die Notwendigkeit sicherheitsrelevante Komponenten nach Erreichen ihrer Nutzungsdauer auszutauschen:\nThe Pressure Equipment Directive (PED) and the Energy Performance of Buildings Directive (EPBD) require a periodic inspection of heat generators in order to ensure a high degree of efficiency over a long term and, consequently, the least environmental pollution.\nIt is necessary to replace safety-relevant components after they have reached the end of their designed lifetime:\nLa directive concernant les chauffe-bains à pression (PED) et la directive sur la performance énergétique des bâtiments (EPBD) exigent une vérification régulière des générateurs de chaleur afin de garantir à long terme des taux d‘utilisation élevés et par conséquent une charge environnementale minimum.",
+      "bbox": [
+        630.25,
+        279.73,
+        648.09,
+        287.73
+      ],
+      "page_num": 5
+    },
+    {
+      "title": "Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:",
+      "level": 2,
+      "content": "Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:\nLa direttiva per apparecchi a pressione (PED) e la direttiva per l’efficienza energetica totale per edifici (EPBD), esigono un controllo regolare dei generatori di calore per garantire a lungo termine un alto grado di rendimento e un basso inquinamento ambientale Ciò rende necessaria la sostituzione di componenti rilevanti dal punto di vista della sicurezza alla scadenza della loro durata di utilizzazione:\nLa Directiva de equipos a presión (PED) y la Directiva de eficiencia energética en edificios (EPBD) requieren una revisión periódica de los generadores de calor para garantizar altos niveles de eficiencia a largo plazo y, por lo tanto, un menor impacto ambiental.\nEs necesario reemplazar los componentes relevantes para la seguridad después de que se haya alcanzado su vida útil: Änderungen, die dem technischen Fortschritt dienen, vorbehalten.\n/ We reserve the right to make modifications in the course of technical development.\n/Sous réserve de tout modification constituant un progrès technique.\n/ Ci riserviamo qualsiasi modifica tecnica e costruttiva.\n/ Se reserva el derecho a efectuar modificaciones en aras del avance tecnológico.\nHausadresse Head Offices and Factory Usine et Services Administratifs Amministrazione e Stabilimento Dirección de la empresa Karl Dungs GmbH & Co. KG Karl-Dungs-Platz 1 73660 Urbach, Germany Telefon +49 7181-804-0 Telefax +49 7181-804-166\n | Sicherheitsrelevante Komponente Safety relevant component Composant relatif à la sécurité Componenti rilevanti dal punto di vista della sicurezza Componentes relevantes para la seguridad | Konstruktionsbedingte Lebensdauer / Designed Lifetime / Durée de vie prévue / Durata di vita di progetto / Vida útil relacionada con la construcción Zyklenzahl / Operating cycles Cycle d’opération Numero di cicli di funzionamento di progetto Número de ciclos | Jahre Years Année Anni Años |  | Norm Standard Norme Norma Norma\n | --- | --- | --- | --- | ---\n | Temperatura de almacenamiento permanente\n | Ventilprüfsysteme / Valve proving systems / Systèmes de contrôle de vannes / Sistemi di controllo valvole / Sistemas de comprobación de válvulas |  | 250 000 | 10 | EN 1643\n | 0…45 °C 32…113 °F\n | Gas/Gas/Gaz/Gas/Gas Druckwächter / Pressure switch / Manostat / Pressostati / Presostato |  | 50 000 | 10 | EN 1854\n | Luft/Air/Air/Aria/Aire Druckwächter / Pressure switch / Manostat / Pressostati / Presostato |  | 250 000 | 10 | EN 1854\n | Gasmangelschalter / Low gas pressure switch / Pressostat gaz basse pression / Pressostati gas di minima pressione / Presostato de gas de baja presión |  | N/A | 10 | EN 1854\n | Feuerungsmanager / Automatic burner control / Dispositif de gestion de chauffage / Controllo automatico del bruciatore / Administrador de combustión |  | 250 000 | 10 | EN 298 EN 230\n | UV-Flammenfühler1 / Flame detector (UV probes)1 Capteur de flammes UV1 / Sensore fiamma UV1 Detector de llamas UV1 |  | N/A | 10 000 h³ | ---\n | Gasdruckregelgeräte1 / Gas pressure regulators1 / Dispositifs de réglage de pression du gaz1 Regolatori della pressione del gas1 / Reguladores de presión de gas1 |  | N/A | 15 | EN 88-1 EN 88-2\n | Gasventil mit Ventilprüfsystem2 Gas valve with valve testing system2 Vanne de gaz avec système de contrôle de vanne2 Valvola del gas con sistema di controllo tenuta valvola2 Válvula de gas con sistema de comprobación de válvula2 |  | nach erkanntem Fehler after error detection après détection d’erreur dopo segnalazione di errore después de detectar un fallo |  | EN 1643\n | Gasventil ohne Ventilprüfsystem2 / Gas valve without valve testing system2 Vanne de gaz sans système de contrôle de vanne2 Valvola del gas senza sistema di controllo tenuta valvola2 Válvula de gas sin sistema de comprobación de válvula2 | DN ≤ 25 25 < DN ≤ 80 100 000 80 < DN ≤ 150 50 000 | 200 000 | 10 | EN 161\n | Gas-Luft-Verbundsysteme / Gas-air ratio control system Systèmes combinés gaz/air / Sistemi di miscelazione gas-aria Sistema de control de la relación gas-aire | N/A | 10 | EN 88-1 | EN 12067-2\n\n1 Nachlassende Betriebseigenschaften wegen Alterung / Performance decrease due to ageing / Réduction de performance due au viellissement / Riduzione delle prestazioni dovuta all’invecchiamento / Disminución de las propiedades de operación debido al envejecimiento 2 Gasfamilien II, III / Gas families II, III / Familles de gaz II, III / per i gas delle famiglie II, III / Familias de gas II, III 3 Betriebsstunden / Operating hours / Heures de service / Ore di esercizio / Horario de funcionamiento N/A nicht anwendbar / not applicable / ne peut pas être utilisé / non può essere usato / inaplicable Lagerzeiten / Storage times / Périodes de stockage / Tempi di stoccaggio / Tiempos de almacenamiento\nLagerzeiten ≤ 1 Jahr verkürzen nicht die konstruktionsbedingte Lebensdauer / Storage time ≤ 1 year does not reduce the designes lifetime / Les périodes de stockage ≤ 1 an ne réduisent pas la durée de vie liée à la conception / I tempi di stoccaggio ≤ 1 anno non riducono la durata di vita legata al design / Los tiempos de almacenamiento ≤ 1 año no acortan la vida útil relacionada con el diseño.\nDUNGS empfiehlt eine maximale Lagerzeit von 3 Jahren / DUNGS recommends a maximum storage time of 3 years / DUNGS recommande une durée de stockage maximale de 3 ans / DUNGS raccomanda un tempo massimo di stoccaggio di 3 anni / DUNGS recomienda un tiempo máximo de almacenamiento de 3 años",
+      "bbox": [
+        351.21,
+        242.64,
+        501.45,
+        269.84
+      ],
+      "page_num": 7
+    }
+  ],
+  "chunks": [
+    {
+      "text": "\nEU-Konformitätserklärung / EU Declaration of conformity / Déclaration de conformité UE / Dichiarazione di conformità UE / Declaración de conformidad de la UEJ",
+      "bbox": [
+        25.51,
+        63.04,
+        119.3,
+        73.03999999999999
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\n | Produkt / Product Produit / Prodotto / Producto | GasMultiBloc® MBE- | Mehrfachstellgerät bestehend aus VB, VD, PS / Multifunctional control consisting of VB, VD, PS / Régulateur multiple composé de VB, VD, PS / Dispositivo di regolazione multiplo composto da VB, VD, PS / Posicionador múltiple consistente en VB, VD, PS\n | --- | --- | ---\n | Hersteller / Manufacturer / Fabricant / Produttore / El fabricante | Karl Dungs GmbH & Co. KG ▪ Karl-Dungs-Platz 1 ▪ 73660 Urbach/Germany | \n",
+      "bbox": [
+        27.18,
+        93.38,
+        623.61,
+        99.38
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\nbescheinigt hiermit, dass die in dieser Übersicht genannten Produkte einer EU-Baumusterprüfung (Baumuster) unterzogen wurden und die wesent- lichen Sicherheitsanforderungen der:\n• EU-Gasgeräteverordnung (EU) 2016/426\n• EU-Druckgeräterichtlinie 2014/68/EU\n• EMV-Richtlinie 2014/30/EU (Emissionen gemäß EN 55022 Class B)\n• Niederspannungsrichtlinie 2014/35/EU",
+      "bbox": [
+        27.18,
+        139.58,
+        166.96,
+        167.18
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\nin der gültigen Fassung erfüllen.",
+      "bbox": [
+        27.18,
+        247.58,
+        114.77000000000001,
+        253.58
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\nAlle nach Druckgeräterichtlinie zugelassenen Kompo- nenten sind Ausrüstungsteile mit Sicherheitsfunktion.\nBei einer von uns nicht freigegebenen Änderung des Gerätes verliert diese Erklärung ihre Gültigkeit.\nDer oben beschriebene Gegenstand der Erklärung entspricht den einschlägigen Harmonisierungsrechts- vorschriften der Union.\nDie alleinige Verantwortung für die Ausstellung dieser Konformitätserklärung trägt der Hersteller.",
+      "bbox": [
+        27.18,
+        261.98,
+        174.26,
+        325.58
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\ncertifies herewith that the products named in this overview were subjected to an EU-Type Examination (production type) and meet the essential safety requirements:\n• EU-Gas Appliances Regulation (EU) 2016/426\n• EU-Pressure Equipment Directive “2014/68/EU”\n• EMC Directive “2014/30/EU” (emissions according to EN 55022 Class B)\n• Low-Voltage Directive “2014/35/EU”",
+      "bbox": [
+        183.72,
+        139.58,
+        329.85,
+        167.18
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\nas amended.",
+      "bbox": [
+        183.72,
+        247.58,
+        219.34,
+        253.58
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\nAll of the components certified according to the Pressure Equipment Directive are equipment parts with safety function.",
+      "bbox": [
+        183.72,
+        261.98,
+        334.18,
+        282.38
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\nIn the event of an alteration of the equipment not ap- proved by us this declaration loses its validity.\nThe object of the declaration described above con- forms with the relevant Union harmonisation legislation.\nThis declaration of conformity is issued under the sole responsibility of the manufacturer.",
+      "bbox": [
+        183.72,
+        283.58,
+        334.75,
+        325.58
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\ncertifie par la présente que le produit mentionné dans cette vue d’ensemble a été soumis à un examen UE de type (type de fabrication) et qu’il est conforme aux exigences en matières de sécurité des dernières versions en vigueur de :\n• Règlement européen sur les appareils brûlant des combustibles gazeux (UE) 2016/426\n• Directive européenne relative aux appareils",
+      "bbox": [
+        343.47,
+        139.58,
+        488.55,
+        174.38
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\nsous pression 2014/68/UE • Directive CEM 2014/30/UE (émissions selon la norme EN 55022 Classe B) • Directive basse tension 2014/35/UE Tous les composants homologués conformément à la directive sur les dispositifs sous pression sont des éléments d’équipement à fonction de sécurité.\nCe communiqué n’est plus valable si nous effectuons une modification libre de l’appareil.\nL’objet décrit ci-dessus de la présente déclaration cor- respond aux prescriptions légales applicables en matière d’harmonisation de l’Union.\nLe fabricant porte l’entière responsabilité pour l’établis- sement de la présente déclaration de conformité.",
+      "bbox": [
+        343.47,
+        204.38,
+        493.38,
+        318.38
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\nCon la presente si certifica che i prodotti citati in questa panoramica sono stati sottoposti a una prova di esame UE del tipo (tipo di produzione) e che i requisiti di sicurezza essenziali:\n• Regolamento UE sugli apparecchi a gas (UE) 2016/426\n• Direttiva UE sulle attrezzature a pressione 2014/68/UE\n• Direttiva EMC 2014/30/UE (emissioni secondo EN 55022 Classe B)\n• Direttiva sulla bassa tensione 2014/35/UE",
+      "bbox": [
+        503.21,
+        139.58,
+        653.58,
+        167.18
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\nsono soddisfatti nella versione valida.",
+      "bbox": [
+        503.21,
+        247.58,
+        595.44,
+        253.58
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\nTutti i componenti approvati secondo la direttiva sulle apparecchiature a pressione sono parti di apparecchia- ture con funzione di sicurezza.\nIn caso di modifica dell’apparecchio non ammessa, questa dichiarazione perde di validità.\nL’oggetto della dichiarazione di cui sopra descritta è conforme alla pertinente normativa di armonizzazione dell’Unione.",
+      "bbox": [
+        503.21,
+        261.98,
+        654.32,
+        318.38
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\nLa presente dichiarazione di conformità è rilasciata sot- to la responsabilità esclusiva del fabbricante.",
+      "bbox": [
+        503.21,
+        319.58,
+        654.2,
+        332.78
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\ncertifica que los productos mencionados en este resu- men han sido sometidos a un examen UE de tipo (tipo de producción) y cumplen con los requisitos mínimos de seguridad de:\n• Reglamento sobre aparatos de gas de la UE 2016/426\n• Directiva de equipos a presión de la 2014/68/UE\n• Directiva EMV 2014/30/UE\n• Directiva de baja tensión 2014/35/UE",
+      "bbox": [
+        662.96,
+        139.58,
+        810.45,
+        167.18
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\nen su versión vigente.",
+      "bbox": [
+        662.96,
+        247.58,
+        720.25,
+        253.58
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\nTodos los componentes autorizados por la directiva de equipos a presión son con componentes con función de seguridad.",
+      "bbox": [
+        662.96,
+        261.98,
+        809.95,
+        282.38
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\nEn caso de una modificación no autorizada por nosotros, esta declaración pierde su validez.\nEl objeto de la declaración descrita anteriormente es conforme a la legislación de armonización pertinente de la Unión.",
+      "bbox": [
+        662.96,
+        283.58,
+        812.36,
+        318.38
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "\n |  | El fabricante es el único responsable de la expedición | de esta declaración de conformidad.\n | --- | --- | ---\n | Prüfgrundlage der EU-Baumusterprüfung (Baumuster) Specified requirements of the EU-Type Examination (production type) Base d‘essai de l‘examen de type de l‘UE (type de fabrication) Criteri di prova dell‘omologazione UE (tipo di produzione) Base da amostragem do Ensaio CE de tipo (tipo de producción) | EN 126 EN 13611 EN 161 EN 88-1 EN 88-3 | \n | --- | --- | ---\n | Gültigkeitsdauer/Bescheinigung Term of validity/attestation Validité/certificat Durata della validità/Attestazione Periodo de validez/Certificado | 2028-03-19 CE0036 | 2028-03-12 CE-0123CT1191\n | Notifizierte Stelle Notified Body Organisme notifié Organismo notificato Organismo notificado | 2014/68/EU | TÜV SÜD Industrie Service GmbH\n |  | Westendstraße 199 D-80686 München Germany Notified Body number: 0036 | (EU) 2016/426 TÜV SÜD Product Service GmbH Zertifizierstellen Ridlerstraße 65 D-80339 München Germany Notified Body number: 0123\n | Überwachung des QS-Systems Monitoring of the QA system Contrôle du système d‘assurance qualité Monitoraggio del sistema QS Supervisión del sistema de calidad y seguridad | Gewähltes Konformitätsverfahren Modul B+D Conformity process adopted: Module B+D Procédure de conformité sélectionnée : module B+D Procedura di conformità selezionata: modulo B+D Procedimiento de conformidad seleccionado: Módulo B+D | \n",
+      "bbox": [
+        662.96,
+        319.58,
+        1132.81,
+        354.37999999999994
+      ],
+      "page_num": 1,
+      "parent_context": ""
+    },
+    {
+      "text": "B. Sc\nMBA Simon P. Dungs, Geschäftsführer / Chief Operating Officer Directeur / Amministratore / Gerente Urbach, 2022-08-01",
+      "bbox": [
+        27.64,
+        535.97,
+        153.29,
+        568.17
+      ],
+      "page_num": 1,
+      "parent_context": "B. Sc"
+    },
+    {
+      "text": "Declaration of Conformity\nProduct",
+      "bbox": [
+        27.46,
+        87.2,
+        57.77,
+        95.2
+      ],
+      "page_num": 2,
+      "parent_context": "Declaration of Conformity"
+    },
+    {
+      "text": "Declaration of Conformity\nGasMultiBloc® MBE-",
+      "bbox": [
+        338.49,
+        87.2,
+        414.22,
+        104.8
+      ],
+      "page_num": 2,
+      "parent_context": "Declaration of Conformity"
+    },
+    {
+      "text": "Declaration of Conformity\nMultifunctional control consisting of VB, VD, PS",
+      "bbox": [
+        511.4,
+        87.2,
+        691.69,
+        95.2
+      ],
+      "page_num": 2,
+      "parent_context": "Declaration of Conformity"
+    },
+    {
+      "text": "Declaration of Conformity\nManufacturer",
+      "bbox": [
+        27.46,
+        134.97,
+        78.49,
+        142.97
+      ],
+      "page_num": 2,
+      "parent_context": "Declaration of Conformity"
+    },
+    {
+      "text": "Declaration of Conformity\nKarl Dungs GmbH & Co. KG ▪ Karl-Dungs-Platz 1 ▪ 73660 Urbach/Germany",
+      "bbox": [
+        338.49,
+        134.97,
+        618.63,
+        142.97
+      ],
+      "page_num": 2,
+      "parent_context": "Declaration of Conformity"
+    },
+    {
+      "text": "Declaration of Conformity\nCertifies herewith that the products named in this overview were subjected to an Type Examination (production type) and meet the essential safety requirements:\n• Gas Appliances (Enforcement) and Miscellaneous Amendment Regulations, UKSI 2018:389 (as amended by UKSI 2019:696)\n• The Pressure Equipment Safety Regulations, UKSI 2016:1105 (as amended by UKSI 2019: 969)\n• The Electromagnetic Compatibility Regulations 2016, UKSI 2016: 1091 as amended\n• The Electrical Equipment (Safety) Regulations 2016, UKSI 2016: 1101 as amended",
+      "bbox": [
+        27.46,
+        162.11,
+        614.66,
+        170.11
+      ],
+      "page_num": 2,
+      "parent_context": "Declaration of Conformity"
+    },
+    {
+      "text": "Declaration of Conformity\nAll of the components certified according to the Pressure Equipment Directive are equipment parts with safety function.\nIn the event of an alteration of the equipment not approved by us this declaration loses its validity.\nThe object of the declaration described above conforms with the relevant Union harmonisation legislation.\nThis declaration of conformity is issued under the sole responsibility of the manufacturer.",
+      "bbox": [
+        27.46,
+        258.11,
+        452.68,
+        294.91
+      ],
+      "page_num": 2,
+      "parent_context": "Declaration of Conformity"
+    },
+    {
+      "text": "Declaration of Conformity\n | Specified requirements of the Type Examination (production type) | EN 126 EN 13611 EN 161 | \n | --- | --- | ---\n | EN 88-1 EN 88-3\n | Term of validity | 2032-04-20 | 2032-04-28\n | Approved Bodies | 2016 No. 1105 TUV SUD BABT Unlimited | \n |  | Octagon House, Concorde Way, Segensworth North, Fareham, Hampshire, PO15 5RL, United Kingdom Approved Body Number: 0168 | 2018 No. 389 TUV SUD BABT Unlimited Octagon House, Concorde Way, Segensworth North, Fareham, Hampshire, PO15 5RL, United Kingdom Approved Body Number: 0168\n | Monitoring of the QA system | Conformity process adopted: Module B+D | \n",
+      "bbox": [
+        27.46,
+        344.8,
+        485.95,
+        352.8
+      ],
+      "page_num": 2,
+      "parent_context": "Declaration of Conformity"
+    },
+    {
+      "text": "Declaration of Conformity > B. Sc\nMBA Simon P. Dungs, Chief Operating Officer Urbach, 2022-08-01",
+      "bbox": [
+        27.46,
+        537.43,
+        113.59,
+        561.24
+      ],
+      "page_num": 2,
+      "parent_context": "Declaration of Conformity > B. Sc"
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje\n1. Gasdruckregelung ist nur mit VD-R und Drucksensor PS möglich.\nAusgangsdruck muss immer durch einen max.\nDruckwächter (GWmax) begrenzt werden, siehe Anleitung #290274.",
+      "bbox": [
+        22.68,
+        96.01,
+        173.16,
+        142.41
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje"
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje\n2. Sensorposition so wählen, dass ein repräsentativer Druck erfasst wird.\nEmpfehlung: 5 x DN nach dem Ventil.\nRohrleitungsnippel mit Innengewinde G ¼, Sensor mit Dichtring montieren, Drehmoment beachten, Bild 2!",
+      "bbox": [
+        22.68,
+        144.01,
+        173.17,
+        200.01
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje"
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje\n3. Der Drucksensor beinhaltet eine Leckage-Begrenzungsdüse nach UL 353 und ANSI Z 21.18/CSA 6.3 und EN 13611.",
+      "bbox": [
+        22.68,
+        201.61,
+        173.18,
+        228.81
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje"
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje\n4. An die M12 Schnittstelle des VD-R dürfen ausschließlich die von DUNGS spezifizierten Drucksensoren PS angeschlossen werden.",
+      "bbox": [
+        22.68,
+        230.41,
+        172.69,
+        267.21
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje"
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje\n5. Zum Anschluss des PS an den VD-R dürfen ausschließlich die von DUNGS spezifizierten Kabel (S. 44) verwendet werden.\nMax.\nKabellänge 3 m, max.\nDrehmoment 0,6 Nm.\n1. Gas pressure regulation is possible with VD-R and PS pressure sensor only.",
+      "bbox": [
+        22.68,
+        268.81,
+        173.17,
+        315.21
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje"
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje\nThe output pressure must always be monitoried by a max.\npressure switch (GWmax), see instruction number #290274.",
+      "bbox": [
+        202.36,
+        115.21,
+        334.39,
+        152.01
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje"
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\n3. Recommendation: 5 x DN after the valve.\nPipe fitting with female thread size ¼, mount sensor with sealing ring, observe torque, figure 2!",
+      "bbox": [
+        184.36,
+        172.81,
+        334.38,
+        209.61
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\n4. The pressure sensor includes a vent limiter according to UL 353 and ANSI Z21.18/CSA 6.3 and EN 13611. No venting required in locations where vent limiters are accepted by the jurisdiction.",
+      "bbox": [
+        184.36,
+        211.21,
+        334.88,
+        257.61
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\n5. Only PS pressure sensors specified by DUNGS are authorised to be connected to the VD-R‘s M12 interface.",
+      "bbox": [
+        184.36,
+        259.21,
+        334.38,
+        286.41
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\n6. Only PS cables specified by DUNGS (page 44) are authorised to be used to connect the PS to the VD-R.\nMax.\ncable length 3 m, max.\ntorque 0,6 Nm.\n1. La régulation de la pression de gaz est uniquement possible avec VD-R et un capteur de pression PS.\nLa pression de sortie doit toujours être limitée",
+      "bbox": [
+        184.36,
+        288.01,
+        334.86,
+        324.81
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\npar un limiteur de pression max (GWmax), voir notice #290274.",
+      "bbox": [
+        364.05,
+        134.41,
+        496.06,
+        152.01
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\n2. Choisissez la position du capteur de manière à ce qu’une pression représentative soit mesurée.\nRecommandation :\n5\nx DN après la vanne.\nNipple de conduite avec taraudage",
+      "bbox": [
+        346.05,
+        153.61,
+        496.54,
+        200.01
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\nG ¼, monter le capteur avec une bague d‘étanchéité, respecter le couple, fig. 2\n!\n3 1 2",
+      "bbox": [
+        25.58,
+        201.61,
+        676.59,
+        358.84
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\n3. Le capteur de pression contient une buse de limitation de fuite selon UL 353 et ANSI Z 21.18/CSA 6.3 et EN 13611.",
+      "bbox": [
+        346.05,
+        230.41,
+        496.55,
+        257.61
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\n4. Seuls les capteurs de pression PS spécifiés par DUNGS peuvent être raccordés à l‘interface M12 du VD-R.",
+      "bbox": [
+        346.05,
+        259.21,
+        496.09,
+        286.41
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\n5. Pour le raccordement du PS au VD-R, seuls les câbles spécifiés par DUNGS (p. 44) doivent être utilisés.\nLongueur",
+      "bbox": [
+        346.05,
+        288.01,
+        496.07,
+        315.21
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\nmax.\ndes câbles 3 m, couple max.\n0,6 Nm.",
+      "bbox": [
+        364.05,
+        316.81,
+        496.51,
+        334.41
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\n1. La regolazione della pressione del gas è possibile solo con VD-R e sensore di pressione PS.\nLa pressione di uscita deve sempre essere limitata da un pressostato di massima (GWmax), vedere guida #290274.",
+      "bbox": [
+        507.63,
+        96.01,
+        657.64,
+        152.01
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\n2. Selezionare la posizione del sensore in modo che venga misurata una pressione rappresentativa.\nRaccomandazione: 5 x DN dopo la valvola.\nNipplo della tubazione con filettatura interna G ¼, montare il sensore con guarnizione, osservare la coppia, figura 2!",
+      "bbox": [
+        507.63,
+        153.61,
+        658.08,
+        228.81
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\n3. Il sensore di pressione include un ugello limitatore di perdite secondo UL 353 e ANSI Z 21.18 / CSA 6.3 e EN 13611.",
+      "bbox": [
+        507.63,
+        230.41,
+        657.68,
+        257.61
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\n4. Solo i sensori di pressione PS specificati da DUNGS possono essere collegati all’interfaccia M12 del VD-R.",
+      "bbox": [
+        507.63,
+        259.21,
+        657.63,
+        286.41
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\n5. Per il collegamento di PS a VD-R, possono essere utilizzati esclusivamente i cavi specificati da DUNGS (pag. 44).\nLunghezza max.\ndel cavo 3 m, copia max.\n0,6 Nm.\n1. La regulación de la presión del gas solo es posible con VD-R y el sensor de presión PS.\nLa presión de salida debe limitarse siempre mediante un presostato (GWmax), Véanse las instrucciones #290274.\n2. Seleccione la posición del sensor para que se mida una presión representativa.\nRecomendación: 5 x DN después de la válvula.\nMontar espiga con rosca interna G\n¼\ny el sensor con junta anular, prestar atención al par de torsión, figura 2.\n3. El sensor de presión incorpora una boquilla limitadora de escapes según UL 353 y ANSI Z 21.18/CSA 6.3 y EN 13611.\n4. Solo los sensores de presión PS especificados por DUNGS pueden conectarse a la interfaz M12 del VD-R.\n5. Solo los cables especificados por DUNGS (p. 44) pueden usarse para conectar el PS al VD-R.\nLongitud máx.\ndel cable 3 m, máx.\npar de apriete 0,6 Nm.",
+      "bbox": [
+        507.63,
+        288.01,
+        657.65,
+        334.41
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded.\n1 Optional/Optional/En option/Opzionale/Opcional",
+      "bbox": [
+        256.54,
+        353.77,
+        386.29,
+        357.27
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > Montage / Mounting / Montage / Montaggio / Montaje > 2. Select sensor position so that a representative pressure is recorded."
+    },
+    {
+      "text": "VD-R & PS- > M12, 5 pin\nAtmungs-/Impulsanschluss Breathing/Impulse connection Raccord de respiration/d‘impulsion Connessioni del PS Conexión de respiración/impulso",
+      "bbox": [
+        712.63,
+        438.74,
+        816.52,
+        479.34
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > M12, 5 pin"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > PS\n1",
+      "bbox": [
+        418.32,
+        477.34,
+        421.01,
+        482.0
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > PS"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > G¼ > V1 V2\nGWmin",
+      "bbox": [
+        399.32,
+        486.82,
+        420.81,
+        494.82
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > G¼ > V1 V2"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > G¼ > V1 V2\nGWmax",
+      "bbox": [
+        459.96,
+        486.82,
+        482.55,
+        494.82
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > G¼ > V1 V2"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > G¼ > V1 V2\nAdapter G\n¼\n- NPT ¼ è S. 6/ p. 6",
+      "bbox": [
+        672.66,
+        509.41,
+        780.73,
+        516.4100000000001
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > G¼ > V1 V2"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS\nLeckagebegrenzung integriert.\nVent limiter incoporated.\nLimiteur d‘évent intégré.\nLimitatore di sfiato incorporato.\nLimitador de venteo incorporado.",
+      "bbox": [
+        672.66,
+        526.21,
+        784.24,
+        566.81
+      ],
+      "page_num": 3,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R\nEinstellung VD-R mit PS / Adjusting VD-R with PS / Réglage VD-R avec PS / Regolazione VD-R con PS / Ajuste VD-R con PS",
+      "bbox": [
+        25.51,
+        63.04,
+        617.64,
+        73.03999999999999
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R\nNicht linear!\nSensoren mit verschiedenen Druckbereichen anbaubar.\nAusgangsdruck je nach Messbereich des Sensors.",
+      "bbox": [
+        51.76,
+        96.39,
+        172.91,
+        142.79
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R\nEinstellung des Ausgangsdrucks entsprechend den Anweisungen des Geräteherstellers!",
+      "bbox": [
+        51.76,
+        159.32,
+        172.91,
+        186.52
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R\nBei der Einstellung des Ausgangsdrucks dürfen keine gefährlichen Betriebsbedingungen erreicht oder überschritten werden!",
+      "bbox": [
+        51.76,
+        201.01,
+        172.92,
+        237.81
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R\nSetting scale is not linear!\nSensors of different pressure ranges available.\nOutput pressure according to sensor‘s measuring range.",
+      "bbox": [
+        213.34,
+        96.39,
+        334.49,
+        142.79
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R\nNon linéaire !\nCapteurs avec différentes plages de pression à monter.\nPression de sortie en fonction de la plage de mesure du capteur.",
+      "bbox": [
+        374.91,
+        96.25,
+        496.06,
+        142.64999999999998
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R\nNon lineare!\nSensori disponibili con diversi intervalli di pressione.\nPressione di uscita a seconda del range di misurazione del sensore.",
+      "bbox": [
+        536.49,
+        96.1,
+        657.64,
+        142.5
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R\n¡No lineal!",
+      "bbox": [
+        698.06,
+        96.39,
+        736.98,
+        104.39
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R\n | Adjust the outlet pressure to the value specified by the burner or equipment manufacturer! | Réglage de la pression de sortie selon les indications du fabricant! | Regolazione della pressione in uscita in base ai dati del produttore del bruciatore! | Ajuste de la presión de salida se- gún el fabricante de la calefacción.\n | --- | --- | --- | ---\n | Es posible instalar sensores con | distintos rangos de presión. Pre- | sión de salida según el rango de | medición del sensor.\n | While making outlet pressure adjustments, do not exceed a value that creates a hazardous condition to the burner! | Lors du réglage de la pression de sortie, aucune condition de foncti- onnement dangereuse ne doit être établie ou dépassée ! | Con la regolazione della pressio- ne di uscita non devono essere raggiunte o superate condizioni di esercizio del bruciatore pericolose! | Al ajustar la presión de salida, no se deben alcanzar ni exceder las condiciones de operación de peligro.\n",
+      "bbox": [
+        698.06,
+        105.99,
+        1182.67,
+        142.79000000000002
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R\n | BUS Kabel vor elektromagneti- schen Feldern schützen! | Protect BUS cable against electro- magnetic fields! | Protéger le câble BUS des champs électromagnétiques! | Proteggere il cavo BUS dai campi elettromagnetici! | Proteger el cable BUS de los cam- pos electromagnéticos!\n | --- | --- | --- | --- | ---\n | Pro VD-R muss ein PS verwendet werden. | One PS must be used per VD-R. | Un PS doit être utilisé par VD-R. | Deve essere utilizzato un PS per | ogni VD-R. | Se debe usar una PS por cada VD-R.\n | --- | --- | --- | --- | --- | ---\n | Kombinationen/Combinations/Combinaisons/ Combinazioni/Combinaciones | Druck/Pressure/Pression/Pressione/ Presión\n | --- | ---\n | ValveBody | ValveDrive | PressureSensor | P1max | P2 | Pmax test (PS)\n | --- | --- | --- | --- | --- | ---\n | VB-050 VB-150 VB-2L VB-6 L | + | VD-R… | + | PS-0 | 20 kPa / 200 mbar / 80 \"W.C | ± 0,5 kPa / ± 5 mbar / ± 2 \"W.C | 33 kPa / 330 mbar / 132 \"W.C\n | --- | --- | --- | --- | --- | --- | --- | ---\n | +\n | VB-050 VB-2 L | + | VD-R… | + | PS-10/40 | 60 kPa / 600 mbar / 240 \"W.C | 0,4-10 kPa / 4-100 mbar / 1,6-40 \"W.C | 80 kPa / 800 mbar / 321 \"W.C\n |  |  |  |  | PS-50/200 | 60 kPa / 600 mbar / 240 \"W.C | 2-50 kPa / 20-500 mbar / 8-200 \"W.C | 105 kPa / 1 050 mbar / 422 \"W.C\n | VB-065 VB-150 VB-21/2 L VB-6 L | + | VD-R… | + | PS-10/40 | 70 kPa / 700 mbar / 280 \"W.C | 0,4-10 kPa / 4 - 100 mbar / 1,6 -40 \"W.C | 80 kPa / 800 mbar / 321 \"W.C\n |  |  |  |  | PS-50/200 | 70 kPa / 700 mbar / 280 \"W.C | 2-50 kPa / 20-500 mbar / 8-200 \"W.C | 105 kPa / 1 050 mbar / 422 \"W.C\n",
+      "bbox": [
+        51.76,
+        251.03,
+        424.33,
+        258.03
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R\nDruck erhöhen Increasing pressure Augmenter la pression Aumentare la pressione Aumentar la presión",
+      "bbox": [
+        735.08,
+        394.08,
+        814.88,
+        434.68
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R\nP2",
+      "bbox": [
+        306.0,
+        448.45,
+        315.9,
+        456.45
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R\n+–P1max",
+      "bbox": [
+        768.53,
+        452.85,
+        785.61,
+        462.85
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R\n | Maximaler Betriebsdruck für MBE--VR-Kombinationen Maximal operating pressure for MBE-…-VR combinations Pression de service maximale pour les combinaisons MBE--VR Pressione massima di esercizio per combinazioni MBE--VR Presión máxima de funcionamiento para las combinaciones MBE--VR | Ausgangsdruckbereich Outlet pressure range Plage de pression de sortie Intervallo di pressione in uscita Rango de presión de salida\n | –\n",
+      "bbox": [
+        22.68,
+        458.05,
+        26.18,
+        465.05
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R\nDruck verringern Decreasing pressure Réduire la pression Ridurre la pressione Reducir la presión",
+      "bbox": [
+        587.47,
+        482.81,
+        657.3,
+        523.41
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R > Pmax test (PS)\nMaximaler Prüfdruck für PressureSensor Maximal test pressure for PressureSensor Pression d‘essai maximale pour PressureSensor Pressione massima di prova per PressureSensor Presión máxima de prueba para el PressureSensor",
+      "bbox": [
+        22.68,
+        525.02,
+        201.59,
+        571.42
+      ],
+      "page_num": 4,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R > Pmax test (PS)"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R > Pmax test (PS)\n | Einstellung positiver Ausgangsdruck in Ver- bindung mit PS-10/40 oder PS-50/200: Adjusting output pressure for positive pressure systems (requires PS-10/40 or PS-50/200): Réglage de la pression de sortie positive en association avec PS-10/40 ou PS-50/200: | Impostazione della pressione di uscita positiva in combinazione con PS-10/40 o PS-50/200: Ajuste de la presión de salida positiva en relación a PS-10/40 o PS-50/200: | Einstellung Nulldruck-Anwendung in Verbindung mit PS-0: Adjusting outlet pressure for zero pressure applications (requires PS-0): Réglage de l‘utilisation de la pression nulle en association avec PS-0: | Impostazione dell‘applicazione di pressione zero in combinazione a PS-0: Ajuste de aplicación de presión cero en relación a PS-0:\n | --- | --- | --- | ---\n | A | B | A | B\n | 50 % 10 % |  | -20 % | \n",
+      "bbox": [
+        20.2,
+        54.44,
+        143.05999999999997,
+        72.82999999999998
+      ],
+      "page_num": 5,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R > Pmax test (PS)"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R > Pmax test (PS)\n25 %",
+      "bbox": [
+        102.29,
+        125.51,
+        118.69,
+        132.52
+      ],
+      "page_num": 5,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R > Pmax test (PS)"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R > Pmax test (PS)\n75 % 0 +20 % Max.",
+      "bbox": [
+        182.42,
+        188.87,
+        599.4,
+        245.39
+      ],
+      "page_num": 5,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > V2: VD-V / VD-R > Pmax test (PS)"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Ausgangsdruck/Outlet pressure/Pression de sortie/Pressione di uscita/Presión de salida\nkPa mbar \"W.C.\nkPa mbar \"W.C.",
+      "bbox": [
+        97.5,
+        295.24,
+        386.43,
+        303.24
+      ],
+      "page_num": 5,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Ausgangsdruck/Outlet pressure/Pression de sortie/Pressione di uscita/Presión de salida"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0\n |  | kPa | mbar | \"W.C.\n | --- | --- | --- | ---\n |  | Min. | -0,50 | -5,00 | -2,00\n | --- | --- | --- | --- | ---\n |  | -20% | -0,10 | -1,00 | -0,40\n | A | 0 | 0,00 | 0,00 | 0,00\n |  | 20% | 0,10 | 1,00 | 0,40\n |  | Max. | 0,50 | 5,00 | 2,00\n |  | „0“ | 0,00 | 0,00 | 0,00\n |  | Min. | -0,50 | -5,00 | -2,01\n |  | 10% | -0,12 | -1,20 | -0,48\n |  | 20% | -0,02 | -0,16 | -0,06\n |  | 30% | 0,00 | 0,01 | 0,00\n |  | 40% | 0,03 | 0,25 | 0,10\n | B 50% |  | 0,07 | 0,74 | 0,30\n |  | 60% | 0,14 | 1,40 | 0,56\n |  | 70% | 0,22 | 2,16 | 0,87\n |  | 80% | 0,30 | 3,04 | 1,22\n",
+      "bbox": [
+        578.11,
+        294.38,
+        747.64,
+        302.38
+      ],
+      "page_num": 5,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0\nMin.\nMax.",
+      "bbox": [
+        44.15,
+        228.17,
+        194.59,
+        236.57000000000002
+      ],
+      "page_num": 5,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0\nPS-10/40",
+      "bbox": [
+        141.72,
+        280.59,
+        175.82,
+        288.59
+      ],
+      "page_num": 5,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0\nPS-50/200",
+      "bbox": [
+        302.22,
+        280.59,
+        340.93,
+        288.59
+      ],
+      "page_num": 5,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0\n | Min. | 0,4 | 4,0 | 1,6 | 2,0 | 20,0 | 8,0\n | --- | --- | --- | --- | --- | --- | ---\n | 10% | 1,0 | 10,0 | 4,0 | 5,0 | 50,0 | 20,0\n | 25% | 2,5 | 25,0 | 10,0 | 10,0 | 100,0 | 40,0\n",
+      "bbox": [
+        50.77,
+        310.25,
+        383.63,
+        318.25
+      ],
+      "page_num": 5,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0\n | A 50% |  | 5,0 | 50,0 | 20,0 | 25,0 | 250,0 | 100,0\n | --- | --- | --- | --- | --- | --- | --- | ---\n |  | 75% | 7,5 | 75,0 | 30,1 | 35,0 | 350,0 | 140,0\n |  | Max. | 10,0 | 100,0 | 40,0 | 50,0 | 500,0 | 200,0\n |  | Min. | 0,4 | 4,0 | 1,6 | 2,0 | 20,0 | 8,0\n |  | 10% | 1,0 | 10,0 | 4,0 | 5,0 | 50,0 | 20,0\n |  | 20% | 2,0 | 20,0 | 8,0 | 10,0 | 100,0 | 40,0\n |  | 30% | 3,0 | 30,0 | 12,0 | 15,0 | 150,0 | 60,0\n |  | 40% | 4,0 | 40,0 | 16,0 | 20,0 | 200,0 | 80,0\n | B | 50% | 5,0 | 50,0 | 20,0 | 25,0 | 250,0 | 100,0\n |  | 60% | 6,0 | 60,0 | 24,0 | 30,0 | 300,0 | 120,0\n |  | 70% | 7,0 | 70,0 | 28,0 | 35,0 | 350,0 | 140,0\n |  | 80% | 8,0 | 80,0 | 32,0 | 40,0 | 400,0 | 160,0\n",
+      "bbox": [
+        35.85,
+        348.09,
+        370.93000000000006,
+        356.09
+      ],
+      "page_num": 5,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0\nMin.",
+      "bbox": [
+        450.73,
+        225.32,
+        464.82,
+        232.32999999999998
+      ],
+      "page_num": 5,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0\nErsatzteile & Zubehör / Spare parts & Accessoires / Pieces de rechange & Access.\n/ Parti di ricambio & Accessori / Piezas de repuesto & Accesorios",
+      "bbox": [
+        25.51,
+        63.04,
+        718.64,
+        73.03999999999999
+      ],
+      "page_num": 6,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0\n | Ersatzteile/Zubehör Spare parts/Accessoires Pieces de rechange / access. Parti di ricambio / Accessori Piezas de repuesto/accesorios | Bestellnummer Ordering no. No. de commande Codice articolo N.º de orden | \n | --- | --- | ---\n | Antrieb VD ValveDrive VD Entraînement VD Attuatore VD Actuador VD | VD-R-AC VD-R-AC-POC VD-R-DC VD-R-DC-POC | 274654 275361 275362 275363\n | Kabel für Drucksensor Cable for pressure sensor Câble pour capteur de pression Cavo per sensore di pressione Cable para sensor de presión | 1,5 m | 276911\n | Drucksensor Pressure sensor Capteur de pression Sensore di pressione Sensor de presión | PS-0 PS-10/40 PS-50/200 | 275265 275263 275264\n | Adapter Adapter Adaptateur Adattatore Adaptador | G¼ - NPT ¼ | 289169\n",
+      "bbox": [
+        27.18,
+        95.57,
+        169.34,
+        141.96999999999997
+      ],
+      "page_num": 6,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0\nDie Druckgeräterichtlinie (PED) und die Richtlinie über die Gesamtenergieeffizienz von Gebäuden (EPBD) fordern eine regelmässige Überprüfung der Wärmeerzeuger zur langfristigen Sicherstellung von hohen Nutzungsgraden und somit geringster Umweltbelastung.",
+      "bbox": [
+        28.06,
+        166.54,
+        178.3,
+        232.14
+      ],
+      "page_num": 7,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0\nEs besteht die Notwendigkeit sicherheitsrelevante Komponenten nach Erreichen ihrer Nutzungsdauer auszutauschen:",
+      "bbox": [
+        28.06,
+        243.34,
+        178.3,
+        280.14
+      ],
+      "page_num": 7,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0\nThe Pressure Equipment Directive (PED) and the Energy Performance of Buildings Directive (EPBD) require a periodic inspection of heat generators in order to ensure a high degree of efficiency over a long term and, consequently, the least environmental pollution.",
+      "bbox": [
+        189.64,
+        166.54,
+        339.88,
+        232.14
+      ],
+      "page_num": 7,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0\nIt is necessary to replace safety-relevant components after they have reached the end of their designed lifetime:",
+      "bbox": [
+        189.64,
+        243.34,
+        339.88,
+        280.14
+      ],
+      "page_num": 7,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0"
+    },
+    {
+      "text": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0\nLa directive concernant les chauffe-bains à pression (PED) et la directive sur la performance énergétique des bâtiments (EPBD) exigent une vérification régulière des générateurs de chaleur afin de garantir à long terme des taux d‘utilisation élevés et par conséquent une charge environnementale minimum.",
+      "bbox": [
+        351.21,
+        165.84,
+        501.45,
+        231.44
+      ],
+      "page_num": 7,
+      "parent_context": "VD-R & PS- > M12 x 5 Pin > VD-R + PS > Offset > PS-0"
+    },
+    {
+      "text": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:\nLa direttiva per apparecchi a pressione (PED) e la direttiva per l’efficienza energetica totale per edifici (EPBD), esigono un controllo regolare dei generatori di calore per garantire a lungo termine un alto grado di rendimento e un basso inquinamento ambientale Ciò rende necessaria la sostituzione di componenti rilevanti dal punto di vista della sicurezza alla scadenza della loro durata di utilizzazione:",
+      "bbox": [
+        512.79,
+        166.98,
+        663.02,
+        280.58
+      ],
+      "page_num": 7,
+      "parent_context": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:"
+    },
+    {
+      "text": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:\nLa Directiva de equipos a presión (PED) y la Directiva de eficiencia energética en edificios (EPBD) requieren una revisión periódica de los generadores de calor para garantizar altos niveles de eficiencia a largo plazo y, por lo tanto, un menor impacto ambiental.",
+      "bbox": [
+        674.36,
+        168.1,
+        824.6,
+        233.7
+      ],
+      "page_num": 7,
+      "parent_context": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:"
+    },
+    {
+      "text": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:\nEs necesario reemplazar los componentes relevantes para la seguridad después de que se haya alcanzado su vida útil: Änderungen, die dem technischen Fortschritt dienen, vorbehalten.\n/ We reserve the right to make modifications in the course of technical development.\n/Sous réserve de tout modification constituant un progrès technique.\n/ Ci riserviamo qualsiasi modifica tecnica e costruttiva.\n/ Se reserva el derecho a efectuar modificaciones en aras del avance tecnológico.",
+      "bbox": [
+        28.09,
+        244.9,
+        824.61,
+        326.44
+      ],
+      "page_num": 7,
+      "parent_context": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:"
+    },
+    {
+      "text": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:\nHausadresse Head Offices and Factory Usine et Services Administratifs Amministrazione e Stabilimento Dirección de la empresa Karl Dungs GmbH & Co. KG Karl-Dungs-Platz 1 73660 Urbach, Germany Telefon +49 7181-804-0 Telefax +49 7181-804-166",
+      "bbox": [
+        28.06,
+        522.15,
+        294.6,
+        568.55
+      ],
+      "page_num": 7,
+      "parent_context": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:"
+    },
+    {
+      "text": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:\n | Sicherheitsrelevante Komponente Safety relevant component Composant relatif à la sécurité Componenti rilevanti dal punto di vista della sicurezza Componentes relevantes para la seguridad | Konstruktionsbedingte Lebensdauer / Designed Lifetime / Durée de vie prévue / Durata di vita di progetto / Vida útil relacionada con la construcción Zyklenzahl / Operating cycles Cycle d’opération Numero di cicli di funzionamento di progetto Número de ciclos | Jahre Years Année Anni Años |  | Norm Standard Norme Norma Norma\n | --- | --- | --- | --- | ---\n | Temperatura de almacenamiento permanente\n | Ventilprüfsysteme / Valve proving systems / Systèmes de contrôle de vannes / Sistemi di controllo valvole / Sistemas de comprobación de válvulas |  | 250 000 | 10 | EN 1643\n | 0…45 °C 32…113 °F\n | Gas/Gas/Gaz/Gas/Gas Druckwächter / Pressure switch / Manostat / Pressostati / Presostato |  | 50 000 | 10 | EN 1854\n | Luft/Air/Air/Aria/Aire Druckwächter / Pressure switch / Manostat / Pressostati / Presostato |  | 250 000 | 10 | EN 1854\n | Gasmangelschalter / Low gas pressure switch / Pressostat gaz basse pression / Pressostati gas di minima pressione / Presostato de gas de baja presión |  | N/A | 10 | EN 1854\n | Feuerungsmanager / Automatic burner control / Dispositif de gestion de chauffage / Controllo automatico del bruciatore / Administrador de combustión |  | 250 000 | 10 | EN 298 EN 230\n | UV-Flammenfühler1 / Flame detector (UV probes)1 Capteur de flammes UV1 / Sensore fiamma UV1 Detector de llamas UV1 |  | N/A | 10 000 h³ | ---\n | Gasdruckregelgeräte1 / Gas pressure regulators1 / Dispositifs de réglage de pression du gaz1 Regolatori della pressione del gas1 / Reguladores de presión de gas1 |  | N/A | 15 | EN 88-1 EN 88-2\n | Gasventil mit Ventilprüfsystem2 Gas valve with valve testing system2 Vanne de gaz avec système de contrôle de vanne2 Valvola del gas con sistema di controllo tenuta valvola2 Válvula de gas con sistema de comprobación de válvula2 |  | nach erkanntem Fehler after error detection après détection d’erreur dopo segnalazione di errore después de detectar un fallo |  | EN 1643\n | Gasventil ohne Ventilprüfsystem2 / Gas valve without valve testing system2 Vanne de gaz sans système de contrôle de vanne2 Valvola del gas senza sistema di controllo tenuta valvola2 Válvula de gas sin sistema de comprobación de válvula2 | DN ≤ 25 25 < DN ≤ 80 100 000 80 < DN ≤ 150 50 000 | 200 000 | 10 | EN 161\n | Gas-Luft-Verbundsysteme / Gas-air ratio control system Systèmes combinés gaz/air / Sistemi di miscelazione gas-aria Sistema de control de la relación gas-aire | N/A | 10 | EN 88-1 | EN 12067-2\n",
+      "bbox": [
+        27.94,
+        65.08,
+        523.5099999999999,
+        92.28000000000004
+      ],
+      "page_num": 8,
+      "parent_context": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:"
+    },
+    {
+      "text": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:\n1 Nachlassende Betriebseigenschaften wegen Alterung / Performance decrease due to ageing / Réduction de performance due au viellissement / Riduzione delle prestazioni dovuta all’invecchiamento / Disminución de las propiedades de operación debido al envejecimiento 2 Gasfamilien II, III / Gas families II, III / Familles de gaz II, III / per i gas delle famiglie II, III / Familias de gas II, III 3 Betriebsstunden / Operating hours / Heures de service / Ore di esercizio / Horario de funcionamiento N/A nicht anwendbar / not applicable / ne peut pas être utilisé / non può essere usato / inaplicable Lagerzeiten / Storage times / Périodes de stockage / Tempi di stoccaggio / Tiempos de almacenamiento",
+      "bbox": [
+        27.94,
+        452.26,
+        619.4,
+        505.05
+      ],
+      "page_num": 8,
+      "parent_context": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:"
+    },
+    {
+      "text": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:\nLagerzeiten ≤ 1 Jahr verkürzen nicht die konstruktionsbedingte Lebensdauer / Storage time ≤ 1 year does not reduce the designes lifetime / Les périodes de stockage ≤ 1 an ne réduisent pas la durée de vie liée à la conception / I tempi di stoccaggio ≤ 1 anno non riducono la durata di vita legata al design / Los tiempos de almacenamiento ≤ 1 año no acortan la vida útil relacionada con el diseño.",
+      "bbox": [
+        27.94,
+        517.47,
+        621.04,
+        544.67
+      ],
+      "page_num": 8,
+      "parent_context": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:"
+    },
+    {
+      "text": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:\nDUNGS empfiehlt eine maximale Lagerzeit von 3 Jahren / DUNGS recommends a maximum storage time of 3 years / DUNGS recommande une durée de stockage maximale de 3 ans / DUNGS raccomanda un tempo massimo di stoccaggio di 3 anni / DUNGS recomienda un tiempo máximo de almacenamiento de 3 años",
+      "bbox": [
+        27.94,
+        550.41,
+        704.14,
+        568.01
+      ],
+      "page_num": 8,
+      "parent_context": "VD-R & PS- > Il est nécessaire de remplacer les compo- sants relatifs à la sécurité lorsqu‘ils ont at- teint la fin de leur vie utile:"
+    }
+  ],
+  "tables": [
+    {
+      "text": " | Produkt / Product Produit / Prodotto / Producto | GasMultiBloc® MBE- | Mehrfachstellgerät bestehend aus VB, VD, PS / Multifunctional control consisting of VB, VD, PS / Régulateur multiple composé de VB, VD, PS / Dispositivo di regolazione multiplo composto da VB, VD, PS / Posicionador múltiple consistente en VB, VD, PS\n | --- | --- | ---\n | Hersteller / Manufacturer / Fabricant / Produttore / El fabricante | Karl Dungs GmbH & Co. KG ▪ Karl-Dungs-Platz 1 ▪ 73660 Urbach/Germany | \n",
+      "html": "<table><th><td colSpan=1>Produkt / Product Produit / Prodotto / Producto</td><td colSpan=1>GasMultiBloc® MBE-</td><td colSpan=1>Mehrfachstellgerät bestehend aus VB, VD, PS / Multifunctional control consisting of VB, VD, PS / Régulateur multiple composé de VB, VD, PS / Dispositivo di regolazione multiplo composto da VB, VD, PS / Posicionador múltiple consistente en VB, VD, PS</td></th><tr><td colSpan=1>Hersteller / Manufacturer / Fabricant / Produttore / El fabricante</td><td colSpan=1>Karl Dungs GmbH & Co. KG ▪ Karl-Dungs-Platz 1 ▪ 73660 Urbach/Germany</td><td colSpan=1></td></tr></table>",
+      "bbox": [
+        27.18,
+        93.38,
+        623.61,
+        99.38
+      ],
+      "page_num": 1
+    },
+    {
+      "text": " |  | El fabricante es el único responsable de la expedición | de esta declaración de conformidad.\n | --- | --- | ---\n | Prüfgrundlage der EU-Baumusterprüfung (Baumuster) Specified requirements of the EU-Type Examination (production type) Base d‘essai de l‘examen de type de l‘UE (type de fabrication) Criteri di prova dell‘omologazione UE (tipo di produzione) Base da amostragem do Ensaio CE de tipo (tipo de producción) | EN 126 EN 13611 EN 161 EN 88-1 EN 88-3 | \n | --- | --- | ---\n | Gültigkeitsdauer/Bescheinigung Term of validity/attestation Validité/certificat Durata della validità/Attestazione Periodo de validez/Certificado | 2028-03-19 CE0036 | 2028-03-12 CE-0123CT1191\n | Notifizierte Stelle Notified Body Organisme notifié Organismo notificato Organismo notificado | 2014/68/EU | TÜV SÜD Industrie Service GmbH\n |  | Westendstraße 199 D-80686 München Germany Notified Body number: 0036 | (EU) 2016/426 TÜV SÜD Product Service GmbH Zertifizierstellen Ridlerstraße 65 D-80339 München Germany Notified Body number: 0123\n | Überwachung des QS-Systems Monitoring of the QA system Contrôle du système d‘assurance qualité Monitoraggio del sistema QS Supervisión del sistema de calidad y seguridad | Gewähltes Konformitätsverfahren Modul B+D Conformity process adopted: Module B+D Procédure de conformité sélectionnée : module B+D Procedura di conformità selezionata: modulo B+D Procedimiento de conformidad seleccionado: Módulo B+D | \n",
+      "html": "<table><th><td colSpan=1></td><td>El fabricante es el único responsable de la expedición</td><td>de esta declaración de conformidad.</td></th><th><td colSpan=1>Prüfgrundlage der EU-Baumusterprüfung (Baumuster) Specified requirements of the EU-Type Examination (production type) Base d‘essai de l‘examen de type de l‘UE (type de fabrication) Criteri di prova dell‘omologazione UE (tipo di produzione) Base da amostragem do Ensaio CE de tipo (tipo de producción)</td><td colSpan=1>EN 126 EN 13611 EN 161 EN 88-1 EN 88-3</td><td colSpan=1></td></th><tr><td colSpan=1>Gültigkeitsdauer/Bescheinigung Term of validity/attestation Validité/certificat Durata della validità/Attestazione Periodo de validez/Certificado</td><td colSpan=1>2028-03-19 CE0036</td><td colSpan=1>2028-03-12 CE-0123CT1191</td></tr><tr><td colSpan=1>Notifizierte Stelle Notified Body Organisme notifié Organismo notificato Organismo notificado</td><td colSpan=1>2014/68/EU</td><td colSpan=1>TÜV SÜD Industrie Service GmbH</td></tr><tr><td colSpan=1></td><td colSpan=1>Westendstraße 199 D-80686 München Germany Notified Body number: 0036</td><td colSpan=1>(EU) 2016/426 TÜV SÜD Product Service GmbH Zertifizierstellen Ridlerstraße 65 D-80339 München Germany Notified Body number: 0123</td></tr><tr><td colSpan=1>Überwachung des QS-Systems Monitoring of the QA system Contrôle du système d‘assurance qualité Monitoraggio del sistema QS Supervisión del sistema de calidad y seguridad</td><td colSpan=1>Gewähltes Konformitätsverfahren Modul B+D Conformity process adopted: Module B+D Procédure de conformité sélectionnée : module B+D Procedura di conformità selezionata: modulo B+D Procedimiento de conformidad seleccionado: Módulo B+D</td><td colSpan=1></td></tr></table>",
+      "bbox": [
+        662.96,
+        319.58,
+        1132.81,
+        354.37999999999994
+      ],
+      "page_num": 1
+    },
+    {
+      "text": " | Specified requirements of the Type Examination (production type) | EN 126 EN 13611 EN 161 | \n | --- | --- | ---\n | EN 88-1 EN 88-3\n | Term of validity | 2032-04-20 | 2032-04-28\n | Approved Bodies | 2016 No. 1105 TUV SUD BABT Unlimited | \n |  | Octagon House, Concorde Way, Segensworth North, Fareham, Hampshire, PO15 5RL, United Kingdom Approved Body Number: 0168 | 2018 No. 389 TUV SUD BABT Unlimited Octagon House, Concorde Way, Segensworth North, Fareham, Hampshire, PO15 5RL, United Kingdom Approved Body Number: 0168\n | Monitoring of the QA system | Conformity process adopted: Module B+D | \n",
+      "html": "<table><th><td colSpan=1>Specified requirements of the Type Examination (production type)</td><td colSpan=1>EN 126 EN 13611 EN 161</td><td colSpan=1></td></th><tr><td>EN 88-1 EN 88-3</td></tr><tr><td colSpan=1>Term of validity</td><td colSpan=1>2032-04-20</td><td colSpan=1>2032-04-28</td></tr><tr><td colSpan=1>Approved Bodies</td><td colSpan=1>2016 No. 1105 TUV SUD BABT Unlimited</td><td colSpan=1></td></tr><tr><td colSpan=1></td><td colSpan=1>Octagon House, Concorde Way, Segensworth North, Fareham, Hampshire, PO15 5RL, United Kingdom Approved Body Number: 0168</td><td colSpan=1>2018 No. 389 TUV SUD BABT Unlimited Octagon House, Concorde Way, Segensworth North, Fareham, Hampshire, PO15 5RL, United Kingdom Approved Body Number: 0168</td></tr><tr><td colSpan=1>Monitoring of the QA system</td><td colSpan=1>Conformity process adopted: Module B+D</td><td colSpan=1></td></tr></table>",
+      "bbox": [
+        27.46,
+        344.8,
+        485.95,
+        352.8
+      ],
+      "page_num": 2
+    },
+    {
+      "text": " | Adjust the outlet pressure to the value specified by the burner or equipment manufacturer! | Réglage de la pression de sortie selon les indications du fabricant! | Regolazione della pressione in uscita in base ai dati del produttore del bruciatore! | Ajuste de la presión de salida se- gún el fabricante de la calefacción.\n | --- | --- | --- | ---\n | Es posible instalar sensores con | distintos rangos de presión. Pre- | sión de salida según el rango de | medición del sensor.\n | While making outlet pressure adjustments, do not exceed a value that creates a hazardous condition to the burner! | Lors du réglage de la pression de sortie, aucune condition de foncti- onnement dangereuse ne doit être établie ou dépassée ! | Con la regolazione della pressio- ne di uscita non devono essere raggiunte o superate condizioni di esercizio del bruciatore pericolose! | Al ajustar la presión de salida, no se deben alcanzar ni exceder las condiciones de operación de peligro.\n",
+      "html": "<table><th><td colSpan=1>Adjust the outlet pressure to the value specified by the burner or equipment manufacturer!</td><td colSpan=1>Réglage de la pression de sortie selon les indications du fabricant!</td><td colSpan=1>Regolazione della pressione in uscita in base ai dati del produttore del bruciatore!</td><td colSpan=1>Ajuste de la presión de salida se- gún el fabricante de la calefacción.</td></th><tr><td colSpan=1>Es posible instalar sensores con</td><td colSpan=1>distintos rangos de presión. Pre-</td><td colSpan=1>sión de salida según el rango de</td><td colSpan=1>medición del sensor.</td></tr><tr><td colSpan=1>While making outlet pressure adjustments, do not exceed a value that creates a hazardous condition to the burner!</td><td colSpan=1>Lors du réglage de la pression de sortie, aucune condition de foncti- onnement dangereuse ne doit être établie ou dépassée !</td><td colSpan=1>Con la regolazione della pressio- ne di uscita non devono essere raggiunte o superate condizioni di esercizio del bruciatore pericolose!</td><td colSpan=1>Al ajustar la presión de salida, no se deben alcanzar ni exceder las condiciones de operación de peligro.</td></tr></table>",
+      "bbox": [
+        698.06,
+        105.99,
+        1182.67,
+        142.79000000000002
+      ],
+      "page_num": 4
+    },
+    {
+      "text": " | BUS Kabel vor elektromagneti- schen Feldern schützen! | Protect BUS cable against electro- magnetic fields! | Protéger le câble BUS des champs électromagnétiques! | Proteggere il cavo BUS dai campi elettromagnetici! | Proteger el cable BUS de los cam- pos electromagnéticos!\n | --- | --- | --- | --- | ---\n | Pro VD-R muss ein PS verwendet werden. | One PS must be used per VD-R. | Un PS doit être utilisé par VD-R. | Deve essere utilizzato un PS per | ogni VD-R. | Se debe usar una PS por cada VD-R.\n | --- | --- | --- | --- | --- | ---\n | Kombinationen/Combinations/Combinaisons/ Combinazioni/Combinaciones | Druck/Pressure/Pression/Pressione/ Presión\n | --- | ---\n | ValveBody | ValveDrive | PressureSensor | P1max | P2 | Pmax test (PS)\n | --- | --- | --- | --- | --- | ---\n | VB-050 VB-150 VB-2L VB-6 L | + | VD-R… | + | PS-0 | 20 kPa / 200 mbar / 80 \"W.C | ± 0,5 kPa / ± 5 mbar / ± 2 \"W.C | 33 kPa / 330 mbar / 132 \"W.C\n | --- | --- | --- | --- | --- | --- | --- | ---\n | +\n | VB-050 VB-2 L | + | VD-R… | + | PS-10/40 | 60 kPa / 600 mbar / 240 \"W.C | 0,4-10 kPa / 4-100 mbar / 1,6-40 \"W.C | 80 kPa / 800 mbar / 321 \"W.C\n |  |  |  |  | PS-50/200 | 60 kPa / 600 mbar / 240 \"W.C | 2-50 kPa / 20-500 mbar / 8-200 \"W.C | 105 kPa / 1 050 mbar / 422 \"W.C\n | VB-065 VB-150 VB-21/2 L VB-6 L | + | VD-R… | + | PS-10/40 | 70 kPa / 700 mbar / 280 \"W.C | 0,4-10 kPa / 4 - 100 mbar / 1,6 -40 \"W.C | 80 kPa / 800 mbar / 321 \"W.C\n |  |  |  |  | PS-50/200 | 70 kPa / 700 mbar / 280 \"W.C | 2-50 kPa / 20-500 mbar / 8-200 \"W.C | 105 kPa / 1 050 mbar / 422 \"W.C\n",
+      "html": "<table><th><td>BUS Kabel vor elektromagneti- schen Feldern schützen!</td><td>Protect BUS cable against electro- magnetic fields!</td><td colSpan=1>Protéger le câble BUS des champs électromagnétiques!</td><td>Proteggere il cavo BUS dai campi elettromagnetici!</td><td>Proteger el cable BUS de los cam- pos electromagnéticos!</td></th><th><td>Pro VD-R muss ein PS verwendet werden.</td><td>One PS must be used per VD-R.</td><td colSpan=1>Un PS doit être utilisé par VD-R.</td><td>Deve essere utilizzato un PS per</td><td>ogni VD-R.</td><td>Se debe usar una PS por cada VD-R.</td></th><th><td>Kombinationen/Combinations/Combinaisons/ Combinazioni/Combinaciones</td><td>Druck/Pressure/Pression/Pressione/ Presión</td></th><th><td colSpan=1>ValveBody</td><td>ValveDrive</td><td>PressureSensor</td><td colSpan=1>P1max</td><td colSpan=1>P2</td><td>Pmax test (PS)</td></th><th><td colSpan=1>VB-050 VB-150 VB-2L VB-6 L</td><td colSpan=1>+</td><td colSpan=1>VD-R…</td><td colSpan=1>+</td><td colSpan=1>PS-0</td><td colSpan=1>20 kPa / 200 mbar / 80 \"W.C</td><td colSpan=1>± 0,5 kPa / ± 5 mbar / ± 2 \"W.C</td><td colSpan=1>33 kPa / 330 mbar / 132 \"W.C</td></th><tr><td>+</td></tr><tr><td colSpan=1>VB-050 VB-2 L</td><td colSpan=1>+</td><td colSpan=1>VD-R…</td><td colSpan=1>+</td><td colSpan=1>PS-10/40</td><td colSpan=1>60 kPa / 600 mbar / 240 \"W.C</td><td colSpan=1>0,4-10 kPa / 4-100 mbar / 1,6-40 \"W.C</td><td colSpan=1>80 kPa / 800 mbar / 321 \"W.C</td></tr><tr><td colSpan=1></td><td colSpan=1></td><td colSpan=1></td><td colSpan=1></td><td colSpan=1>PS-50/200</td><td colSpan=1>60 kPa / 600 mbar / 240 \"W.C</td><td colSpan=1>2-50 kPa / 20-500 mbar / 8-200 \"W.C</td><td colSpan=1>105 kPa / 1 050 mbar / 422 \"W.C</td></tr><tr><td colSpan=1>VB-065 VB-150 VB-21/2 L VB-6 L</td><td colSpan=1>+</td><td colSpan=1>VD-R…</td><td colSpan=1>+</td><td colSpan=1>PS-10/40</td><td colSpan=1>70 kPa / 700 mbar / 280 \"W.C</td><td colSpan=1>0,4-10 kPa / 4 - 100 mbar / 1,6 -40 \"W.C</td><td colSpan=1>80 kPa / 800 mbar / 321 \"W.C</td></tr><tr><td colSpan=1></td><td colSpan=1></td><td colSpan=1></td><td colSpan=1></td><td colSpan=1>PS-50/200</td><td colSpan=1>70 kPa / 700 mbar / 280 \"W.C</td><td colSpan=1>2-50 kPa / 20-500 mbar / 8-200 \"W.C</td><td colSpan=1>105 kPa / 1 050 mbar / 422 \"W.C</td></tr></table>",
+      "bbox": [
+        51.76,
+        251.03,
+        424.33,
+        258.03
+      ],
+      "page_num": 4
+    },
+    {
+      "text": " | Maximaler Betriebsdruck für MBE--VR-Kombinationen Maximal operating pressure for MBE-…-VR combinations Pression de service maximale pour les combinaisons MBE--VR Pressione massima di esercizio per combinazioni MBE--VR Presión máxima de funcionamiento para las combinaciones MBE--VR | Ausgangsdruckbereich Outlet pressure range Plage de pression de sortie Intervallo di pressione in uscita Rango de presión de salida\n | –\n",
+      "html": "<table><tr><td colSpan=1>Maximaler Betriebsdruck für MBE--VR-Kombinationen Maximal operating pressure for MBE-…-VR combinations Pression de service maximale pour les combinaisons MBE--VR Pressione massima di esercizio per combinazioni MBE--VR Presión máxima de funcionamiento para las combinaciones MBE--VR</td><td colSpan=1>Ausgangsdruckbereich Outlet pressure range Plage de pression de sortie Intervallo di pressione in uscita Rango de presión de salida</td></tr><tr><td>–</td></tr></table>",
+      "bbox": [
+        22.68,
+        458.05,
+        26.18,
+        465.05
+      ],
+      "page_num": 4
+    },
+    {
+      "text": " | Einstellung positiver Ausgangsdruck in Ver- bindung mit PS-10/40 oder PS-50/200: Adjusting output pressure for positive pressure systems (requires PS-10/40 or PS-50/200): Réglage de la pression de sortie positive en association avec PS-10/40 ou PS-50/200: | Impostazione della pressione di uscita positiva in combinazione con PS-10/40 o PS-50/200: Ajuste de la presión de salida positiva en relación a PS-10/40 o PS-50/200: | Einstellung Nulldruck-Anwendung in Verbindung mit PS-0: Adjusting outlet pressure for zero pressure applications (requires PS-0): Réglage de l‘utilisation de la pression nulle en association avec PS-0: | Impostazione dell‘applicazione di pressione zero in combinazione a PS-0: Ajuste de aplicación de presión cero en relación a PS-0:\n | --- | --- | --- | ---\n | A | B | A | B\n | 50 % 10 % |  | -20 % | \n",
+      "html": "<table><th><td colSpan=1>Einstellung positiver Ausgangsdruck in Ver- bindung mit PS-10/40 oder PS-50/200: Adjusting output pressure for positive pressure systems (requires PS-10/40 or PS-50/200): Réglage de la pression de sortie positive en association avec PS-10/40 ou PS-50/200:</td><td colSpan=1>Impostazione della pressione di uscita positiva in combinazione con PS-10/40 o PS-50/200: Ajuste de la presión de salida positiva en relación a PS-10/40 o PS-50/200:</td><td colSpan=1>Einstellung Nulldruck-Anwendung in Verbindung mit PS-0: Adjusting outlet pressure for zero pressure applications (requires PS-0): Réglage de l‘utilisation de la pression nulle en association avec PS-0:</td><td colSpan=1>Impostazione dell‘applicazione di pressione zero in combinazione a PS-0: Ajuste de aplicación de presión cero en relación a PS-0:</td></th><tr><td colSpan=1>A</td><td colSpan=1>B</td><td colSpan=1>A</td><td colSpan=1>B</td></tr><tr><td colSpan=1>50 % 10 %</td><td colSpan=1></td><td colSpan=1>-20 %</td><td colSpan=1></td></tr></table>",
+      "bbox": [
+        20.2,
+        54.44,
+        143.05999999999997,
+        72.82999999999998
+      ],
+      "page_num": 5
+    },
+    {
+      "text": " |  | kPa | mbar | \"W.C.\n | --- | --- | --- | ---\n |  | Min. | -0,50 | -5,00 | -2,00\n | --- | --- | --- | --- | ---\n |  | -20% | -0,10 | -1,00 | -0,40\n | A | 0 | 0,00 | 0,00 | 0,00\n |  | 20% | 0,10 | 1,00 | 0,40\n |  | Max. | 0,50 | 5,00 | 2,00\n |  | „0“ | 0,00 | 0,00 | 0,00\n |  | Min. | -0,50 | -5,00 | -2,01\n |  | 10% | -0,12 | -1,20 | -0,48\n |  | 20% | -0,02 | -0,16 | -0,06\n |  | 30% | 0,00 | 0,01 | 0,00\n |  | 40% | 0,03 | 0,25 | 0,10\n | B 50% |  | 0,07 | 0,74 | 0,30\n |  | 60% | 0,14 | 1,40 | 0,56\n |  | 70% | 0,22 | 2,16 | 0,87\n |  | 80% | 0,30 | 3,04 | 1,22\n",
+      "html": "<table><th><td colSpan=1></td><td>kPa</td><td colSpan=1>mbar</td><td colSpan=1>\"W.C.</td></th><th><td colSpan=1></td><td colSpan=1>Min.</td><td colSpan=1>-0,50</td><td colSpan=1>-5,00</td><td colSpan=1>-2,00</td></th><tr><td colSpan=1></td><td colSpan=1>-20%</td><td colSpan=1>-0,10</td><td colSpan=1>-1,00</td><td colSpan=1>-0,40</td></tr><tr><td colSpan=1>A</td><td colSpan=1>0</td><td colSpan=1>0,00</td><td colSpan=1>0,00</td><td colSpan=1>0,00</td></tr><tr><td colSpan=1></td><td colSpan=1>20%</td><td colSpan=1>0,10</td><td colSpan=1>1,00</td><td colSpan=1>0,40</td></tr><tr><td colSpan=1></td><td colSpan=1>Max.</td><td colSpan=1>0,50</td><td colSpan=1>5,00</td><td colSpan=1>2,00</td></tr><tr><td colSpan=1></td><td colSpan=1>„0“</td><td colSpan=1>0,00</td><td colSpan=1>0,00</td><td colSpan=1>0,00</td></tr><tr><td colSpan=1></td><td colSpan=1>Min.</td><td colSpan=1>-0,50</td><td colSpan=1>-5,00</td><td colSpan=1>-2,01</td></tr><tr><td colSpan=1></td><td colSpan=1>10%</td><td colSpan=1>-0,12</td><td colSpan=1>-1,20</td><td colSpan=1>-0,48</td></tr><tr><td colSpan=1></td><td colSpan=1>20%</td><td colSpan=1>-0,02</td><td colSpan=1>-0,16</td><td colSpan=1>-0,06</td></tr><tr><td colSpan=1></td><td colSpan=1>30%</td><td colSpan=1>0,00</td><td colSpan=1>0,01</td><td colSpan=1>0,00</td></tr><tr><td colSpan=1></td><td colSpan=1>40%</td><td colSpan=1>0,03</td><td colSpan=1>0,25</td><td colSpan=1>0,10</td></tr><tr><td colSpan=1>B 50%</td><td colSpan=1></td><td colSpan=1>0,07</td><td colSpan=1>0,74</td><td colSpan=1>0,30</td></tr><tr><td colSpan=1></td><td colSpan=1>60%</td><td colSpan=1>0,14</td><td colSpan=1>1,40</td><td colSpan=1>0,56</td></tr><tr><td colSpan=1></td><td colSpan=1>70%</td><td colSpan=1>0,22</td><td colSpan=1>2,16</td><td colSpan=1>0,87</td></tr><tr><td colSpan=1></td><td colSpan=1>80%</td><td colSpan=1>0,30</td><td colSpan=1>3,04</td><td colSpan=1>1,22</td></tr></table>",
+      "bbox": [
+        578.11,
+        294.38,
+        747.64,
+        302.38
+      ],
+      "page_num": 5
+    },
+    {
+      "text": " | Min. | 0,4 | 4,0 | 1,6 | 2,0 | 20,0 | 8,0\n | --- | --- | --- | --- | --- | --- | ---\n | 10% | 1,0 | 10,0 | 4,0 | 5,0 | 50,0 | 20,0\n | 25% | 2,5 | 25,0 | 10,0 | 10,0 | 100,0 | 40,0\n",
+      "html": "<table><th><td colSpan=1>Min.</td><td colSpan=1>0,4</td><td colSpan=1>4,0</td><td colSpan=1>1,6</td><td colSpan=1>2,0</td><td colSpan=1>20,0</td><td colSpan=1>8,0</td></th><tr><td colSpan=1>10%</td><td colSpan=1>1,0</td><td colSpan=1>10,0</td><td colSpan=1>4,0</td><td colSpan=1>5,0</td><td colSpan=1>50,0</td><td colSpan=1>20,0</td></tr><tr><td colSpan=1>25%</td><td colSpan=1>2,5</td><td colSpan=1>25,0</td><td colSpan=1>10,0</td><td colSpan=1>10,0</td><td colSpan=1>100,0</td><td colSpan=1>40,0</td></tr></table>",
+      "bbox": [
+        50.77,
+        310.25,
+        383.63,
+        318.25
+      ],
+      "page_num": 5
+    },
+    {
+      "text": " | A 50% |  | 5,0 | 50,0 | 20,0 | 25,0 | 250,0 | 100,0\n | --- | --- | --- | --- | --- | --- | --- | ---\n |  | 75% | 7,5 | 75,0 | 30,1 | 35,0 | 350,0 | 140,0\n |  | Max. | 10,0 | 100,0 | 40,0 | 50,0 | 500,0 | 200,0\n |  | Min. | 0,4 | 4,0 | 1,6 | 2,0 | 20,0 | 8,0\n |  | 10% | 1,0 | 10,0 | 4,0 | 5,0 | 50,0 | 20,0\n |  | 20% | 2,0 | 20,0 | 8,0 | 10,0 | 100,0 | 40,0\n |  | 30% | 3,0 | 30,0 | 12,0 | 15,0 | 150,0 | 60,0\n |  | 40% | 4,0 | 40,0 | 16,0 | 20,0 | 200,0 | 80,0\n | B | 50% | 5,0 | 50,0 | 20,0 | 25,0 | 250,0 | 100,0\n |  | 60% | 6,0 | 60,0 | 24,0 | 30,0 | 300,0 | 120,0\n |  | 70% | 7,0 | 70,0 | 28,0 | 35,0 | 350,0 | 140,0\n |  | 80% | 8,0 | 80,0 | 32,0 | 40,0 | 400,0 | 160,0\n",
+      "html": "<table><th><td colSpan=1>A 50%</td><td colSpan=1></td><td colSpan=1>5,0</td><td colSpan=1>50,0</td><td colSpan=1>20,0</td><td colSpan=1>25,0</td><td colSpan=1>250,0</td><td colSpan=1>100,0</td></th><tr><td colSpan=1></td><td colSpan=1>75%</td><td colSpan=1>7,5</td><td colSpan=1>75,0</td><td colSpan=1>30,1</td><td colSpan=1>35,0</td><td colSpan=1>350,0</td><td colSpan=1>140,0</td></tr><tr><td colSpan=1></td><td colSpan=1>Max.</td><td colSpan=1>10,0</td><td colSpan=1>100,0</td><td colSpan=1>40,0</td><td colSpan=1>50,0</td><td colSpan=1>500,0</td><td colSpan=1>200,0</td></tr><tr><td colSpan=1></td><td colSpan=1>Min.</td><td colSpan=1>0,4</td><td colSpan=1>4,0</td><td colSpan=1>1,6</td><td colSpan=1>2,0</td><td colSpan=1>20,0</td><td colSpan=1>8,0</td></tr><tr><td colSpan=1></td><td colSpan=1>10%</td><td colSpan=1>1,0</td><td colSpan=1>10,0</td><td colSpan=1>4,0</td><td colSpan=1>5,0</td><td colSpan=1>50,0</td><td colSpan=1>20,0</td></tr><tr><td colSpan=1></td><td colSpan=1>20%</td><td colSpan=1>2,0</td><td colSpan=1>20,0</td><td colSpan=1>8,0</td><td colSpan=1>10,0</td><td colSpan=1>100,0</td><td colSpan=1>40,0</td></tr><tr><td colSpan=1></td><td colSpan=1>30%</td><td colSpan=1>3,0</td><td colSpan=1>30,0</td><td colSpan=1>12,0</td><td colSpan=1>15,0</td><td colSpan=1>150,0</td><td colSpan=1>60,0</td></tr><tr><td colSpan=1></td><td colSpan=1>40%</td><td colSpan=1>4,0</td><td colSpan=1>40,0</td><td colSpan=1>16,0</td><td colSpan=1>20,0</td><td colSpan=1>200,0</td><td colSpan=1>80,0</td></tr><tr><td colSpan=1>B</td><td colSpan=1>50%</td><td colSpan=1>5,0</td><td colSpan=1>50,0</td><td colSpan=1>20,0</td><td colSpan=1>25,0</td><td colSpan=1>250,0</td><td colSpan=1>100,0</td></tr><tr><td colSpan=1></td><td colSpan=1>60%</td><td colSpan=1>6,0</td><td colSpan=1>60,0</td><td colSpan=1>24,0</td><td colSpan=1>30,0</td><td colSpan=1>300,0</td><td colSpan=1>120,0</td></tr><tr><td colSpan=1></td><td colSpan=1>70%</td><td colSpan=1>7,0</td><td colSpan=1>70,0</td><td colSpan=1>28,0</td><td colSpan=1>35,0</td><td colSpan=1>350,0</td><td colSpan=1>140,0</td></tr><tr><td colSpan=1></td><td colSpan=1>80%</td><td colSpan=1>8,0</td><td colSpan=1>80,0</td><td colSpan=1>32,0</td><td colSpan=1>40,0</td><td colSpan=1>400,0</td><td colSpan=1>160,0</td></tr></table>",
+      "bbox": [
+        35.85,
+        348.09,
+        370.93000000000006,
+        356.09
+      ],
+      "page_num": 5
+    },
+    {
+      "text": " | Ersatzteile/Zubehör Spare parts/Accessoires Pieces de rechange / access. Parti di ricambio / Accessori Piezas de repuesto/accesorios | Bestellnummer Ordering no. No. de commande Codice articolo N.º de orden | \n | --- | --- | ---\n | Antrieb VD ValveDrive VD Entraînement VD Attuatore VD Actuador VD | VD-R-AC VD-R-AC-POC VD-R-DC VD-R-DC-POC | 274654 275361 275362 275363\n | Kabel für Drucksensor Cable for pressure sensor Câble pour capteur de pression Cavo per sensore di pressione Cable para sensor de presión | 1,5 m | 276911\n | Drucksensor Pressure sensor Capteur de pression Sensore di pressione Sensor de presión | PS-0 PS-10/40 PS-50/200 | 275265 275263 275264\n | Adapter Adapter Adaptateur Adattatore Adaptador | G¼ - NPT ¼ | 289169\n",
+      "html": "<table><th><td colSpan=1>Ersatzteile/Zubehör Spare parts/Accessoires Pieces de rechange / access. Parti di ricambio / Accessori Piezas de repuesto/accesorios</td><td colSpan=1>Bestellnummer Ordering no. No. de commande Codice articolo N.º de orden</td><td colSpan=1></td></th><tr><td colSpan=1>Antrieb VD ValveDrive VD Entraînement VD Attuatore VD Actuador VD</td><td colSpan=1>VD-R-AC VD-R-AC-POC VD-R-DC VD-R-DC-POC</td><td colSpan=1>274654 275361 275362 275363</td></tr><tr><td colSpan=1>Kabel für Drucksensor Cable for pressure sensor Câble pour capteur de pression Cavo per sensore di pressione Cable para sensor de presión</td><td colSpan=1>1,5 m</td><td colSpan=1>276911</td></tr><tr><td colSpan=1>Drucksensor Pressure sensor Capteur de pression Sensore di pressione Sensor de presión</td><td colSpan=1>PS-0 PS-10/40 PS-50/200</td><td colSpan=1>275265 275263 275264</td></tr><tr><td colSpan=1>Adapter Adapter Adaptateur Adattatore Adaptador</td><td colSpan=1>G¼ - NPT ¼</td><td colSpan=1>289169</td></tr></table>",
+      "bbox": [
+        27.18,
+        95.57,
+        169.34,
+        141.96999999999997
+      ],
+      "page_num": 6
+    },
+    {
+      "text": " | Sicherheitsrelevante Komponente Safety relevant component Composant relatif à la sécurité Componenti rilevanti dal punto di vista della sicurezza Componentes relevantes para la seguridad | Konstruktionsbedingte Lebensdauer / Designed Lifetime / Durée de vie prévue / Durata di vita di progetto / Vida útil relacionada con la construcción Zyklenzahl / Operating cycles Cycle d’opération Numero di cicli di funzionamento di progetto Número de ciclos | Jahre Years Année Anni Años |  | Norm Standard Norme Norma Norma\n | --- | --- | --- | --- | ---\n | Temperatura de almacenamiento permanente\n | Ventilprüfsysteme / Valve proving systems / Systèmes de contrôle de vannes / Sistemi di controllo valvole / Sistemas de comprobación de válvulas |  | 250 000 | 10 | EN 1643\n | 0…45 °C 32…113 °F\n | Gas/Gas/Gaz/Gas/Gas Druckwächter / Pressure switch / Manostat / Pressostati / Presostato |  | 50 000 | 10 | EN 1854\n | Luft/Air/Air/Aria/Aire Druckwächter / Pressure switch / Manostat / Pressostati / Presostato |  | 250 000 | 10 | EN 1854\n | Gasmangelschalter / Low gas pressure switch / Pressostat gaz basse pression / Pressostati gas di minima pressione / Presostato de gas de baja presión |  | N/A | 10 | EN 1854\n | Feuerungsmanager / Automatic burner control / Dispositif de gestion de chauffage / Controllo automatico del bruciatore / Administrador de combustión |  | 250 000 | 10 | EN 298 EN 230\n | UV-Flammenfühler1 / Flame detector (UV probes)1 Capteur de flammes UV1 / Sensore fiamma UV1 Detector de llamas UV1 |  | N/A | 10 000 h³ | ---\n | Gasdruckregelgeräte1 / Gas pressure regulators1 / Dispositifs de réglage de pression du gaz1 Regolatori della pressione del gas1 / Reguladores de presión de gas1 |  | N/A | 15 | EN 88-1 EN 88-2\n | Gasventil mit Ventilprüfsystem2 Gas valve with valve testing system2 Vanne de gaz avec système de contrôle de vanne2 Valvola del gas con sistema di controllo tenuta valvola2 Válvula de gas con sistema de comprobación de válvula2 |  | nach erkanntem Fehler after error detection après détection d’erreur dopo segnalazione di errore después de detectar un fallo |  | EN 1643\n | Gasventil ohne Ventilprüfsystem2 / Gas valve without valve testing system2 Vanne de gaz sans système de contrôle de vanne2 Valvola del gas senza sistema di controllo tenuta valvola2 Válvula de gas sin sistema de comprobación de válvula2 | DN ≤ 25 25 < DN ≤ 80 100 000 80 < DN ≤ 150 50 000 | 200 000 | 10 | EN 161\n | Gas-Luft-Verbundsysteme / Gas-air ratio control system Systèmes combinés gaz/air / Sistemi di miscelazione gas-aria Sistema de control de la relación gas-aire | N/A | 10 | EN 88-1 | EN 12067-2\n",
+      "html": "<table><th><td colSpan=1>Sicherheitsrelevante Komponente Safety relevant component Composant relatif à la sécurité Componenti rilevanti dal punto di vista della sicurezza Componentes relevantes para la seguridad</td><td colSpan=1>Konstruktionsbedingte Lebensdauer / Designed Lifetime / Durée de vie prévue / Durata di vita di progetto / Vida útil relacionada con la construcción Zyklenzahl / Operating cycles Cycle d’opération Numero di cicli di funzionamento di progetto Número de ciclos</td><td colSpan=1>Jahre Years Année Anni Años</td><td colSpan=1></td><td colSpan=1>Norm Standard Norme Norma Norma</td></th><tr><td>Temperatura de almacenamiento permanente</td></tr><tr><td colSpan=1>Ventilprüfsysteme / Valve proving systems / Systèmes de contrôle de vannes / Sistemi di controllo valvole / Sistemas de comprobación de válvulas</td><td colSpan=1></td><td colSpan=1>250 000</td><td colSpan=1>10</td><td colSpan=1>EN 1643</td></tr><tr><td>0…45 °C 32…113 °F</td></tr><tr><td colSpan=1>Gas/Gas/Gaz/Gas/Gas Druckwächter / Pressure switch / Manostat / Pressostati / Presostato</td><td colSpan=1></td><td colSpan=1>50 000</td><td colSpan=1>10</td><td colSpan=1>EN 1854</td></tr><tr><td colSpan=1>Luft/Air/Air/Aria/Aire Druckwächter / Pressure switch / Manostat / Pressostati / Presostato</td><td colSpan=1></td><td colSpan=1>250 000</td><td colSpan=1>10</td><td colSpan=1>EN 1854</td></tr><tr><td colSpan=1>Gasmangelschalter / Low gas pressure switch / Pressostat gaz basse pression / Pressostati gas di minima pressione / Presostato de gas de baja presión</td><td colSpan=1></td><td colSpan=1>N/A</td><td colSpan=1>10</td><td colSpan=1>EN 1854</td></tr><tr><td colSpan=1>Feuerungsmanager / Automatic burner control / Dispositif de gestion de chauffage / Controllo automatico del bruciatore / Administrador de combustión</td><td colSpan=1></td><td colSpan=1>250 000</td><td colSpan=1>10</td><td colSpan=1>EN 298 EN 230</td></tr><tr><td colSpan=1>UV-Flammenfühler1 / Flame detector (UV probes)1 Capteur de flammes UV1 / Sensore fiamma UV1 Detector de llamas UV1</td><td colSpan=1></td><td colSpan=1>N/A</td><td colSpan=1>10 000 h³</td><td colSpan=1>---</td></tr><tr><td colSpan=1>Gasdruckregelgeräte1 / Gas pressure regulators1 / Dispositifs de réglage de pression du gaz1 Regolatori della pressione del gas1 / Reguladores de presión de gas1</td><td colSpan=1></td><td colSpan=1>N/A</td><td colSpan=1>15</td><td colSpan=1>EN 88-1 EN 88-2</td></tr><tr><td colSpan=1>Gasventil mit Ventilprüfsystem2 Gas valve with valve testing system2 Vanne de gaz avec système de contrôle de vanne2 Valvola del gas con sistema di controllo tenuta valvola2 Válvula de gas con sistema de comprobación de válvula2</td><td colSpan=1></td><td colSpan=1>nach erkanntem Fehler after error detection après détection d’erreur dopo segnalazione di errore después de detectar un fallo</td><td colSpan=1></td><td colSpan=1>EN 1643</td></tr><tr><td colSpan=1>Gasventil ohne Ventilprüfsystem2 / Gas valve without valve testing system2 Vanne de gaz sans système de contrôle de vanne2 Valvola del gas senza sistema di controllo tenuta valvola2 Válvula de gas sin sistema de comprobación de válvula2</td><td colSpan=1>DN ≤ 25 25 < DN ≤ 80 100 000 80 < DN ≤ 150 50 000</td><td colSpan=1>200 000</td><td colSpan=1>10</td><td colSpan=1>EN 161</td></tr><tr><td colSpan=1>Gas-Luft-Verbundsysteme / Gas-air ratio control system Systèmes combinés gaz/air / Sistemi di miscelazione gas-aria Sistema de control de la relación gas-aire</td><td colSpan=1>N/A</td><td colSpan=1>10</td><td colSpan=1>EN 88-1</td><td colSpan=1>EN 12067-2</td></tr></table>",
+      "bbox": [
+        27.94,
+        65.08,
+        523.5099999999999,
+        92.28000000000004
+      ],
+      "page_num": 8
+    }
+  ]
+}
