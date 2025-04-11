@@ -6,8 +6,19 @@ from pathlib import Path
 from streamlit_pdf_viewer import pdf_viewer
 from llm_processing import analyze_content_with_llm
 from dotenv import load_dotenv
+from streamlit.components.v1 import html
 
-# from utils.enrich_chunks import fix_encoding_issues
+st.set_page_config(page_title="Dungs Search", layout="wide")
+
+# Inject JavaScript to hide the header
+html("""
+<script>
+  const header = window.parent.document.querySelector("header");
+  if (header) {
+    header.style.display = "none";
+  }
+</script>
+""", height=0)
 
 USE_STREAMLIT_SECRETS = False
 
@@ -31,9 +42,6 @@ DOCS_PATH = Path(__file__).parent.parent / "documents"
 
 # Path to product index JSON file
 PRODUCT_INDEX_PATH = Path(__file__).parent.parent / "search_index_data" / "product_index.json"
-
-# Page config
-st.set_page_config(page_title="Dungs Search", layout="wide")
 
 # Index options
 INDEXES = {
