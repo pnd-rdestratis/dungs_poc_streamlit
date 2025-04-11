@@ -1,0 +1,2236 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "34f327bb3f1eaed7b887f437fcbd42c3",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. DUNGS Combustion Controls\n\nBetriebs- und Montageanleitung\n\nDUNGS Brennerkopf HEPM-BH\n\nBezeichnung:\n\nAusstellungsdatum: Veröffentlichungsversion:\n\nHEPM-BH-P (Punktbrennerkopf) HEPM-BH-L (Linienbrennerkopf)\n\n2024-02-22\n\nVersion 2\n\nDUNGS Combustion Controls\n\nInhaltsverzeichnis:",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmFuL3DYUgP/K4KcUOju6WZd9yzSlCWTDQJO8pMEcSUc7bnzDskPTZf97pdlZsi2h7UBfXDxgrBmdq/TN8ZE/3BXYYIvdVNW+uN4UYEoVgmZCM0VLJSwDy7WhoVQkADXF95uixQk8TJDk74o8qGI/jw4fv2PlRky3k0GqhCBEGU6uSFY+zbe9r0P9NwLD2DuM8asENUIafpUuqVgWG3Bs6xjrvovVOZgPd0UynMPgnBFx/zGJjej60VdN72Dqx1OEA0zHbHb3LuIYd2PtHIw+KcZphKmOu8MXd4SxPYz9r+imuPNzdxuroXc737s5L1bc9h3uzOlT7UfsOhw/9UOoXv54uKn2N8+rF1eDD8X9fQoh1A120Oa4in9WOStMX4aTAgxDU6fYU56783QD3e0MtxhzygV2t0VOdEi/VN3cWsxZ0ux4wt+mbOPFuzc//bz5oW/tHLOhNOymsW9itvbo6FWbDBRJ7a9EEAoaPQTiDAUvrTDSo/GWGYKlk3QlYnlE7HEaa7Rxu5k7v7lJOCRZ6Bqsp5TZUyzewJiX4DO+zarfwCN45IH6UlJjtENLg9KOlloRS70PdsVjeXg8FIwnPjfZ53b/8ikZb+up+WbBsKlAMIGoKQdbShDOyYCmhFQxghNrwVggEf/qSZH+8lqnDZdEo+ZSp3YBFGEUGXBd+nLd+P/pxsuSKpt3gphU/W1phCjBoNXeIxgP68Yvb+P3+DvW7tilNK4vagjABJ76xRKV44Gr1AgQIRzjVEkE79UKw/JgeD7HOGHT5DTSUs3t9eY9jr/MhAQZQkoneTjmyc9pPZKjy4hRWhrhOEOrpOdEp9MntzIozwylkoaVmOURc24Yt4fNs8PcfZrsV+/fPXaT29ebZ6/rrsbu6exF6CC1zAtL8mVE6QKAtwE0VWlI+IrOAtFhhIktYVvGLqsilCFLdUSWRJVcGh2EB88pU1IoW+KKwvJQeP/wONlcRoInnHhPCQgDgfp0J9RTKbTiEBIQKwmLIIH9d+8wldPeSZqOJSZ1GYILbYEw5lnw6YCqViIWSMSr7gjNlDvOh4NKHf/UdZ5fT338AzLC5oA=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "fbea0b69a5fde5092306de33013a0d22",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Einleitung und Kurzbeschreibung der Technologie N Allgemeine Sicherheitshinweise W Technische S pezifikation B BestimmungsgemaRe Verwendung und Missbrauch U1 Transport und Lagerung o Installation und Inbetriebnahme 6.1 Allgemeine Montagehinweise",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td/><td>Einleitung und Kurzbeschreibung der Technologie</td><td/></tr><tr><td>N</td><td/><td>Allgemeine Sicherheitshinweise</td><td/></tr><tr><td>W</td><td/><td>Technische S pezifikation</td><td/></tr><tr><td>B</td><td/><td>BestimmungsgemaRe Verwendung und Missbrauch</td><td/></tr><tr><td>U1</td><td/><td>Transport und Lagerung</td><td/></tr><tr><td>o</td><td/><td>Installation und Inbetriebnahme</td><td/></tr><tr><td/><td>6.1</td><td>Allgemeine Montagehinweise</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFV9tu4zYQ/RVCz6119a1IA8RYF120bo12t/uwWQiUOLbYSKRAUt0mgf+9Q0Z2lDiW3SJ1ZMRmeDk8c2Y8B/5870EJFQiTcuZ9R7yATlgyZTQMsyAYMjoaTfJsGgQsZNNpTGPvG+JVYCijhuL+e88OUi0blcP2f0hzBfjhAMNxkgTBeBoHg8AeduuVZHzFezbUSuag9eOOcJqMpvEA/0bjyG6rQVVcay6FTlsyn+89BLY04jgKks0X3KYgl4qlpcypkcoxrKkpLKz/UYPSvuJ5ThXDg9ooarj2l7d5QVW1VPJPyI32WSPWOq1l7jOZN1Ys/a0U4E/dk84UCAHqRtar9Mf5cpHOFlfpu0HNVt5mgxRWvARBK8vLO36kPWBua3eA1nXJkTvG6bfLJRXrhq5B25A9EGvPBlrjTCqaKgMbZeRm1GNex/mE5aMwSYbTCLIkTiYZDaKIRSs2DqIHSQ38bVKq08JUpT1zYWhWwuWFKYAy/FB2eHnh27fuYM5FCdygSqQRjPzUqLsMdF4o4JmdZKDIB8gLIUu55vAMwLe4/vaOTLLb9ip2+QvOMzfaDa7Kco31ygWQ33legCrwZl1w8RW4hmf7HXSL9Wkfy3HiSBSxSA13WJI3TukemNk+zAwLh1eVLRKkRn8D8georyDYVpAF1mmmaJMXPcAfwxcIKip0LZVxMD9jhhVi9oDIfYz3Qhtali4uB/NeZGAUh0zQoupTbLc0GoQv6b+QwiClE7TvIEW78TtMn3HZqxVf9cfVAYh34/Z+F9RSam4j5E4hV3HzEm6Mwq91Xzo7wMluPFeY0P+g0rAjeve0o7OgWGhWtgx4hd8RgcTIX1KRX5U5BX72ALif4J4zn6gyXWEf0o/1IFhBS7s0GAxOAZp0KgDVoebOAC9Lrs1J0kw6ab9q8P4GtaCubLr0wrAfo1uGW5RDqT6K9QIjxNLkh5JWlZKF0o9Y0RGs+ADWkrIOSryHQnJZ6pqK76+9+NrDwzNQTwrHJmyOdiPV+olQww6U3/ZM/6Fbe5u2kzvnJP+yN5PBKz4kJhHpb9ivet8JfGLSbfrdnn9WJk9YJfh66iHXTRBAYt/ZqsdNXo0yEhiSl83mzWSxpEbkiHudt3yGBJ2QHHZAtyEiXWOzOVzl1t3cYkxONi23PyH7XoSqoNU8F+KYxZAxvloPebuc9j/IcEJazyL7XvUGtJEPWh95ZnlkirPY2facjIQhcT5FDvnTWWLY0ojIIWv7/2mQMHIcYrJviWdOJAljzNhV0/bTPoc9hy5D91Or/Xn3wXq2t/nyDzWqatI=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ad246dbaa921e6de59d401d4c8708a10",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. 6.2 Dichtheitsprifung 6.3 Montage und Positionierung der Elektroden 6.4 Erstinbetriebnahme 6.5 Inbetriebnahme der Maschine beim Kunden vor Ort Betrieb Wartung und Instandhaltung... 8.1 Ersatzteilliste",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>6.2</td><td>Dichtheitsprifung</td><td/></tr><tr><td/><td>6.3</td><td>Montage und Positionierung der Elektroden</td><td/></tr><tr><td/><td>6.4</td><td>Erstinbetriebnahme</td><td/></tr><tr><td/><td>6.5</td><td>Inbetriebnahme der Maschine beim Kunden vor Ort</td><td/></tr><tr><td/><td>Betrieb</td><td/><td/></tr><tr><td/><td>Wartung</td><td>und Instandhaltung...</td><td/></tr><tr><td/><td>8.1</td><td>Ersatzteilliste</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFV9tu4zYQ/RVCz6119a1IA8RYF120bo12t/uwWQiUOLbYSKRAUt0mgf+9Q0Z2lDiW3SJ1ZMRmeDk8c2Y8B/5870EJFQiTcuZ9R7yATlgyZTQMsyAYMjoaTfJsGgQsZNNpTGPvG+JVYCijhuL+e88OUi0blcP2f0hzBfjhAMNxkgTBeBoHg8AeduuVZHzFezbUSuag9eOOcJqMpvEA/0bjyG6rQVVcay6FTlsyn+89BLY04jgKks0X3KYgl4qlpcypkcoxrKkpLKz/UYPSvuJ5ThXDg9ooarj2l7d5QVW1VPJPyI32WSPWOq1l7jOZN1Ys/a0U4E/dk84UCAHqRtar9Mf5cpHOFlfpu0HNVt5mgxRWvARBK8vLO36kPWBua3eA1nXJkTvG6bfLJRXrhq5B25A9EGvPBlrjTCqaKgMbZeRm1GNex/mE5aMwSYbTCLIkTiYZDaKIRSs2DqIHSQ38bVKq08JUpT1zYWhWwuWFKYAy/FB2eHnh27fuYM5FCdygSqQRjPzUqLsMdF4o4JmdZKDIB8gLIUu55vAMwLe4/vaOTLLb9ip2+QvOMzfaDa7Kco31ygWQ33legCrwZl1w8RW4hmf7HXSL9Wkfy3HiSBSxSA13WJI3TukemNk+zAwLh1eVLRKkRn8D8georyDYVpAF1mmmaJMXPcAfwxcIKip0LZVxMD9jhhVi9oDIfYz3Qhtali4uB/NeZGAUh0zQoupTbLc0GoQv6b+QwiClE7TvIEW78TtMn3HZqxVf9cfVAYh34/Z+F9RSam4j5E4hV3HzEm6Mwq91Xzo7wMluPFeY0P+g0rAjeve0o7OgWGhWtgx4hd8RgcTIX1KRX5U5BX72ALif4J4zn6gyXWEf0o/1IFhBS7s0GAxOAZp0KgDVoebOAC9Lrs1J0kw6ab9q8P4GtaCubLr0wrAfo1uGW5RDqT6K9QIjxNLkh5JWlZKF0o9Y0RGs+ADWkrIOSryHQnJZ6pqK76+9+NrDwzNQTwrHJmyOdiPV+olQww6U3/ZM/6Fbe5u2kzvnJP+yN5PBKz4kJhHpb9ivet8JfGLSbfrdnn9WJk9YJfh66iHXTRBAYt/ZqsdNXo0yEhiSl83mzWSxpEbkiHudt3yGBJ2QHHZAtyEiXWOzOVzl1t3cYkxONi23PyH7XoSqoNU8F+KYxZAxvloPebuc9j/IcEJazyL7XvUGtJEPWh95ZnlkirPY2facjIQhcT5FDvnTWWLY0ojIIWv7/2mQMHIcYrJviWdOJAljzNhV0/bTPoc9hy5D91Or/Xn3wXq2t/nyDzWqatI=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d73cd4a2abd88a568fed0c9d969484a5",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. 8.2 Austauschanweisung 11 8.2.1 Austausch der Elektroden 11 8.2.2 Austausch des Flammrohrs 12 8.2.3 Austausch des Pads 13 AuBerbetriebnahme und Entsorgung 15",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>8.2</td><td>Austauschanweisung</td><td>11</td></tr><tr><td/><td>8.2.1</td><td>Austausch der Elektroden</td><td>11</td></tr><tr><td/><td>8.2.2</td><td>Austausch des Flammrohrs</td><td>12</td></tr><tr><td/><td>8.2.3</td><td>Austausch des Pads</td><td>13</td></tr><tr><td>AuBerbetriebnahme und Entsorgung</td><td>15</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFV9tu4zYQ/RVCz6119a1IA8RYF120bo12t/uwWQiUOLbYSKRAUt0mgf+9Q0Z2lDiW3SJ1ZMRmeDk8c2Y8B/5870EJFQiTcuZ9R7yATlgyZTQMsyAYMjoaTfJsGgQsZNNpTGPvG+JVYCijhuL+e88OUi0blcP2f0hzBfjhAMNxkgTBeBoHg8AeduuVZHzFezbUSuag9eOOcJqMpvEA/0bjyG6rQVVcay6FTlsyn+89BLY04jgKks0X3KYgl4qlpcypkcoxrKkpLKz/UYPSvuJ5ThXDg9ooarj2l7d5QVW1VPJPyI32WSPWOq1l7jOZN1Ys/a0U4E/dk84UCAHqRtar9Mf5cpHOFlfpu0HNVt5mgxRWvARBK8vLO36kPWBua3eA1nXJkTvG6bfLJRXrhq5B25A9EGvPBlrjTCqaKgMbZeRm1GNex/mE5aMwSYbTCLIkTiYZDaKIRSs2DqIHSQ38bVKq08JUpT1zYWhWwuWFKYAy/FB2eHnh27fuYM5FCdygSqQRjPzUqLsMdF4o4JmdZKDIB8gLIUu55vAMwLe4/vaOTLLb9ip2+QvOMzfaDa7Kco31ygWQ33legCrwZl1w8RW4hmf7HXSL9Wkfy3HiSBSxSA13WJI3TukemNk+zAwLh1eVLRKkRn8D8georyDYVpAF1mmmaJMXPcAfwxcIKip0LZVxMD9jhhVi9oDIfYz3Qhtali4uB/NeZGAUh0zQoupTbLc0GoQv6b+QwiClE7TvIEW78TtMn3HZqxVf9cfVAYh34/Z+F9RSam4j5E4hV3HzEm6Mwq91Xzo7wMluPFeY0P+g0rAjeve0o7OgWGhWtgx4hd8RgcTIX1KRX5U5BX72ALif4J4zn6gyXWEf0o/1IFhBS7s0GAxOAZp0KgDVoebOAC9Lrs1J0kw6ab9q8P4GtaCubLr0wrAfo1uGW5RDqT6K9QIjxNLkh5JWlZKF0o9Y0RGs+ADWkrIOSryHQnJZ6pqK76+9+NrDwzNQTwrHJmyOdiPV+olQww6U3/ZM/6Fbe5u2kzvnJP+yN5PBKz4kJhHpb9ivet8JfGLSbfrdnn9WJk9YJfh66iHXTRBAYt/ZqsdNXo0yEhiSl83mzWSxpEbkiHudt3yGBJ2QHHZAtyEiXWOzOVzl1t3cYkxONi23PyH7XoSqoNU8F+KYxZAxvloPebuc9j/IcEJazyL7XvUGtJEPWh95ZnlkirPY2facjIQhcT5FDvnTWWLY0ojIIWv7/2mQMHIcYrJviWdOJAljzNhV0/bTPoc9hy5D91Or/Xn3wXq2t/nyDzWqatI=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "bb5fb8d2d32d40c0dd38bc9b9674aeef",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. DUNGS Brennerkopf HEPM-BH\n\nSeite 2 von 16\n\n2024-02-22\n\nDUNGS Combustion Controls\n\n1 Einleitung und Kurzbeschreibung der Technologie\n\nDer DUNGS Brennerkopf HEPM-BH verwendet ein vorgemischtes Brennstoff-/Luftgemisch, das durch das DUNGS Whirlwind System mit leistungsabhängigem Druck und Durchsatz an der mechanischen Schnittstelle zur Verfügung gestellt wird.\n\nDer HEPM-BH Brennerkopf besteht aus:\n\n• Gehäuse mit Verbindungs- und Dichtungselementen\n\n• Zünd- und Ionisationselektrode\n\n• Rückschlagsicherung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztl21v2zYQx78K4dd1TFGUKPZds3RtsTUIlnQF1hYCH442F4kySCpZEuS7j5QdzMuytnlp1AYMUyTveKR/9+fp090MOujBxdbq2Us0ExWtdVNqbCpCgGJSFpyXgFlBTEGgnr1Asx6i0CKKNP9ulhttGEav4OEZWuUh/UwOC0YpxoyX+Ahn42m8H7Q19isT1n5QEMI/MwpOa14epW/NSJ62Bt/bEOzgQrsN5tPdLDnOYZQlwfT+S5rmQQ1et92gRBz8FOFaxFV2u/gQwIeFt0oJr5NhiF5EGxZnN2olfH/mhz9BxbDQo1uGdj2ohR7UmA8rzAcHCz592mMPzoG/HNamffv67H17/P5Ve3K01mZ2f59CMLYDJ/oc1+zbJluDeLOeDMR63dkUe9rnYjvcCbccxRJC3vIM3HKWN7pOPa0bewl5lyQvHOGvmH2cfDh9c4521kR5zfnx2+ztYaGfhyEm02T3GAmuQRIiG0U4qSqAhgpGITUbzAtN6AGJ/UPiHGwERNDV4FBR73JwloxONzZPsEBrxjXWXBRYlawpWQmcYy4wroqSkebAwv6xQDChc0zmhHyfHlBT4UYLrnkhioZUQjKclEE1HLOSEHNgYC8YKP97Rfw09HIM2VFquuiHLuwi8a5PDp4iogHSFBgYUWAYN1DLOt0ZjeC4VrIx+kDE/hFRoNfWdemaSPtAo9Pol9HfSghq5cHK3KnBowtQKzd0w9LCLikXNnZPksI5aTCjwhBRMiyZpGBqXXEllKYFxgdS9oOUqcc/QwH+JTYJnP+tSdEV+GtwGiIC61KB4peQ/gm1ihA280McjJkvfh1N3A69QFoEpBMkq6m1cf5xZX13bRO65zchQo96G1EiOmSkg5CrzyPGQN3SJjfoxI/qcgL9JPsJIt4i4SbI+wS5cHkhcOg8AW9jTA67DtDt6NHv4E12ZdQyp0U6uTwW0bX1+mg3K06FzwRcwUU+iKeyoxC6ITVQAlCm+lqlzOBYVAyEVBWGQ3bsR3Y8hv0B7V3cZcZkFZEYw8vvkk4AVSkgtJZKQiErbgooKamNBAZYFQc49gOOx9L5zaTfpenzmKp1gt7AVrzGAJOsJQ2SSenyccw3ImaTYubHLUTgnqVEhhKpuJaEMUWg4Yo2VNaUlU3FisbwA2w/Dmx/bC43pzdkvRvSVThFktm6TG8JGp7FFjWqKYEJkCwVfppWNFcJSc2UkrrBh7eFH4it3zZsqctUXHViGZJqgU9n8RWgvvwNZ1I6dQ==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "aa3f6fcb3dea043e342d0c228f1d96ad",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. • Flansch zur Montage des Brenners im dafür vorgesehenen Raum (z.B. innerhalb der Maschine oder am Feuerraum eines Wärmeerzeugers)\n\n• Brenneroberfläche mit dem Brenner Pad aus Edelstahl-Sintermaterial aus hoch hitzebeständigem Werkstoff 1.4841 oder AISI 314.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztU01P3DAQ/StWTq1UEuc76Q1UUDlQrUorDoCiWXuycZvYke2gsmj/e8dhEVIP9Ae0kaLEnjfPb2aeb58iHHFC7Tslo48skgjbpq+kqPu6LvIqa9O8gCZvtqJsWllGH1g0oQcJHgj/FIWfzpnFCnxZYycs0mclTOui4Lxucx7zkLzGJyNVr94AzNYIdO4VkbZF1eYxvVWdBdiMdlLOKaNddxRz+xQRcZCR5xkvDvcEsyiMld1oBHhjV4Uz+CHQJt8dWpdYJQRYSYnOW/DKJZtHMYCdNtb8QOFdIhe9c91sRCKNWEKz3InRmLTr051Z1BrtTzP33efzzVV3dnXafYpn2UeHA0no1YgapqAr+nvKMcE/zmsCzPOoSDvVmRzDI+jdAjt0oeQI9S4Khc600+ll2mKoMl937Otc2xRkk1VYZIh5WTZClm3Loaxp3qLkGAWlHn/5AL5bMp5l7IJOcmJg+8WyK6M9ncCoS+yo3jE1MQn93cJ5Lyx7MJZE4YAaNfsKy8Te7eOzmKkAHmDcUjIRAVEqjcyEFUzsAhe0NsCRth27CXxY2AnR7nHZ0UHvQ9kvHfkCNozpAb8FtST7TwujkC1vy6KHvuZ1xqst501WFlWZ9xwg/W/hf8fCR5WGKPvx2VhiQDYpT2acXsJsA5LB4ti5xNF5GMaTa6U9jYcGaRWMa3AwdBcG5fe4pT4/k2mpdsRzQ41w3vQ9S+OiKdJnc59eXl+yPC3iN+x7/xtw1cRI",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d1c50ffa13a1a61a1ae7be2419a8fe13",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Das vorgemischte Brennstoff-/Luftgemisch wird durch das Gehäuse des HEPM-BH Brennerkopfes geleitet, strömt durch eine Flammenrückschlagsicherung und dann unmittelbar im Anschluss durch das Brenner Pad hindurch. Auf der strömungsabgewandten Seite des Brenner Pads wird die Flamme mittels Zündelektrode während des Zündvorgangs entzündet und anschließend mittels einer Ionisationselektrode überwacht. Das",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJyFUl1v2zAM/CuCn5v4K7HrvSXotg5YhwDbXtYVBiPRtlZbMiS5WVfkv49SnDZPmwHDssgj73i8f4mwxwGVq6WI3rGoSqsmrbKiyJryOt2nZVryJM+yIi0xEfsyumLRgA4EOKD8l8gfaqsnw/H8jzU3SJ9QMC1XqyQpqzxZJh4c4oMWspH/SBiN5mjtW0ZarYoqX9JblJlPG9EM0lqpla1nMvcvERX2NPI8S1bHB0ozyLURda85OG0CwxFc58vG3y0aGxvJORhBQOsMOGnj3TPvwAw7o38hdzYWk2ptPWoeC80nPyy70ArjKjz11qBSaB712NS373d39fZuU98sR9FExyNRaGSPCgYM4/0vZAa45zEAYBx7SdxJZzyHe1DtBC1aLzlC1UZe6Eg3tZqGPXqVebgxl76CuM4KXGWI+Xp9zcW6qhJYlwh7vk4w8kwd/nY++QYse9KmRZow7xyywNc63TSL+PPUuDnCDtIIJsj7jgnCfMTu55QkuJosMpon89oW21t2oZduW1o56dBdMZq4BzTF4OYyKBWyDz0MNOZTjPNHatVDayXv0JAXbFLUFZSiwyCdw34PhsmBbZTPnKy94DS3ZjsQrJMqBJZsMzVE0FwQ8B7DvsUDKOFQsa+eYhBxUcHOiuWZIzv1t+zHiasSpO3RGdomdjjNoiO4CIVec/xsyUTLyJ8/r0AXdEHQINFfi8ZDzy38aAz7pJW0YR/sW6tTDbL+AOTXkpGBflPOS/QFjN/sJ/zmDT4+/AV9hFSm",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "7d66b5292fab4bc76b284b03f51e375d",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Brenner Pad hat dabei die Funktion, die Brennerflamme in jedem Lastzustand sicher zu halten und ein unzulässiges Abheben der Flamme zu verhindern.\n\nSollten die in dieser Betriebsanleitung enthaltenen Informationen nicht ausreichend sein, so wenden Sie sich an ihren Ansprechpartner bei der Karl Dungs GmbH & Co. KG, das DUNGS Supportcenter (+49 7181 804-804, supportcenter@dungs.com) oder an den DUNGS Global Service (+49 7181 804-0, servicecenter@dungs.com).",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztU2FP2zAQ/SunfJg2DVq3SZpknwZjlImBKnV8Yihy7EtjSOzIdroB4r/vHIqYhsR+wBbJcmy/e37ne3d5H2GLHWpfKhl9gEgWcc7ns5zFoqpFlme8wppltZgnLElYHO1B1KHnkntO+Pso/JTODFbg0xpLYZGmkXCWURjLiphNWAgezzsjVa1eAfTWCHTuGTErkkURT2gssnmA9Wg75Zwy2pU7MZf3EREHGXE8Z8nDFcEsCmNl2RrBvbGjwp77JtBOLxxaN7VKCG4lBTpvuVduuroVDbfdypprFN5N5aA3ruyNmEojhvBYbt9onBbjVx5a1Brtjenr8uTz6qw8PDsojya9rKOHB5JQqxY174Ku6O8huwB/248BvO9bRdopz+nuuOV6M/ANupByhHoThUR72in10FUYsozHHftc12LGZT5fYDJHjNM0FzItCsbTDHklUoZRUOrxpw/gnTxYcQkN9yDJBAqkQjge9E3Qsjeudri65V2HoDRco8QOvnLn7wbnuZbglGiI6W4gotajhoE2UYX5bmi/D4xhQlWkbOCgarAihCT88SMlhW3RNkrTnp6E5J/e5ZzbUKwtfguaSfwLI1eZSCTL6zSOKybTuaxrlmAuqyTGxQz/G/kfMPLatKPpglnVONFLwSF6q7ByXLeoPL0JEP2jPQn7RdfGdqNQWmnyrwc+OIvBycHR5N49cAZ+0IoQa+IOLgeuQTWkFA6066lcDen2oY3G5qH5lNsWjkINYNlVJ/AGPpkJnC6pmbiDo4vz5RrWQ98b6wUpooi375MCslk+g5wl+zTo4t8BH8eKToTp3oEJV/DQPnrHtWxNxVtYo90qgX+QMaJ6PHhB9VqjXf0Cz4kCJg==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "7f947e1b30cbddbd1b80af86fa2529a6",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Weitere Informationen zu ihrem Produkt erhalten Sie auch unter www.dungs.com.\n\nName und Anschrift des Herstellers:\n\nKarl Dungs GmbH & Co. KG\n\nKarl-Dungs-Platz 1\n\n73660 Urbach, Deutschland\n\n2 Allgemeine Sicherheitshinweise\n\nGefahr\n\nZündfähiges Gas/Luftgemisch:\n\nÜberprüfen Sie sämtliche Dichtstellen in Flussrichtung auf Undichtigkeiten mit schaumbildenden Mitteln.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztmFFv2zYQgP8KoYc9NTYpUSKVt3TZkqJLEWANBqwrjBN5jLlIlEFRS9sg/31HJ0WNrmiWR6M2bEsi78g78tPxyHd3BfY4YEgrb4tjVriybRxXtq25kBaUtpWVpi2V1tZ0whUvWDFgAgsJSP6uyDeraZyjwc/PuDIR6bJtUCgpOVdtxRc8K2/rh9F6578jsImjwWn6IiFa2bTVgn6NKrPYBuPgp8mPYVo9GvPurqCGsxlVVXJ5/57EIpox2lU/Gkhj3Fq4gbTOzS6vJozTMnpjIFpSnFKE5Kfl5UezhjhcxvFvNGla2jlcT6vNaJZ2NHMerOloDLhst5/Vy4ghYLwZN251/svlxerlxcnqdLGxrri/JxOc7zHAkO0qnlZ5VEgfN1sF2Gx6T7aTn8vH6h7C9QzXOGWXCwzXRXZ0QyWrMA8dZi+rbUn8Mq+tAKvLBmWJWNW1NrZuWw61QuhMzbHIlib8kLLwH+gTRmSvghvjsO0cA/s0M7+OODAaGDvfJIZxDX2imt89MpjNms2B9Njt7e1iO2YLMw6LbPJnb95AzEP8D77NPVGXX+PX1FVnS6dNrWpe1ZzMVI3CUljZae3EAb/9wG+XpjfUOZFh2UmYzDp6lxg5y87J+4R9T5fjXUbe+tTjt9hAIxrNG0DFbY0GW9Oh6rqq6UDnsHVgYz/Y+Do0PfnO78L0GmLPTrPX7GzoztlP7OdxwV6fPSvK6LKEVkqLotO2dQ55VWrNJVgJrhP1gaQfhKSjLUlHlz2kT0w8i6GuohBU89o0ADR1pUYCCSQ0AhVlTObA0A/AkKqahrOr2IFZv2CnOCda4ahb+yyU2lJLVSKXogIE26q27ThyC1w1TqI6oLQfKO2SUbKTvr+mWfYBKT82a0qWKaue1j7cop/wf2U8jXCNFRyVq2knRsuUFrXkUiIKwbXUBzD2A4z/bMaeeuF3STpDB+v4rIAiAF1tdVcLayluaV0BCKk6CmJlZd2Bmz3hZheDXQBeDST3rYkHBWXXOlOidtBZUdedUJzbUjbOcIWHid+/if/zr5lzZ4J1+Qbl2pMyO4Np+dvsEi0xnnKO42fFB0KCMpzGVi1woE210oQHRYoasCqrUh4w2T9MMhzWUMUmPgDjHg/mpgdshtTnLISd0n96OHgJzAf2az9PU8yFNAAMZseugs2P/vomHwMGNvjECDGgbn1vMdCXXfhETYTvHe69/xe18xor",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "4eb60e9b93771a3ecd3e50628c4a0e06",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Gefahr Hochspannung: Während der Zündung wird über die Zündelektrode ein Hochspannungsfunke mit > 7kV erzeugt.",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Hochspannung:</td></tr><tr><td>Wahrend der Ziindung wird iber die Zindelektrode ein Hochspannungsfunke mit &gt; 7kV erzeugt.</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNkl1v0zAUhv+K5QuuoEmb0jSlqsQEYjeTegFMYkyWY5+kpoltHTuCUvW/77hrR3fDFslx8p4PP+9J7vYcOujBRmE0XzCumvm8LCdNU0MN4+r9rCjqXM21kiCVnmn+lvEeotQySsrf8/QgghtQwfkdhEKg7dhwXE6neV5WRT7KU/Ex3jttGvOfBI9OQQj/MsbVdFYVI1qzcpLSPGBvQjDOBnGCudtzapwwimKSTw/3lIagHGrROSWjwyOhl3GT2mbfAmDI0CglUVNhiCijCdl6pzYS+zW6X6BiyPRg2yC8U5l2akjDCu+chaw6XuIKwVrArfONuP68vhFXNx/Fp5HXDT8cCKExHVjZJy7+csmpIO78sUB63xliJ5/ZKdxJ2w6yhZAsc7AtT0Y9KcIOfQ3JZUFKhD9RyCA2se9Sq2WUdQerZayd3tGGtPTq2qlN8NJaMrlYZqTQDZ/Ct3JDrJppQPbDGJtmwX4b1MzQSUwbINlq+om2EWmGDIxllz1DM9gtsN5E9qaNH1i5/c4A/8LQxtHFcdmJKnuE5IeTgQT+BRqieNZ1wW5/DnkO0wu6JDTqgvBReMI8x1/FunoGmsZ+/iJfEyA/3D8Aqz0Sog==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "70c8f214d42f7ddee709060f289a1707",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. DUNGS Brennerkopf HEPM-BH\n\nSeite 3 von 16\n\n2024-02-22\n\nDUNGS Combustion Controls\n\n3 Technische Spezifikation\n\nDer DUNGS Brennerkopf HEPM-BH ist für die folgenden Prozessanforderungen konzipiert:",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztlstO3DAUhl/FyrrD2LETJ+xKaUsXVEjAiqLIl+MZl8SObE9VQLx77REI1NKW7UgTKYpjn/Ofiz/JvrqvYIQJXBqsrg5RhVvT8VrKjraENEYQI7XpKWYEa9oxVr1D1QRJaJFEtr+vymCIfhMUPP3DoALkz1aQcMYw5lniABfn7frktTX2HwZz8ApifLYgPWt7epDfltfFbIYw2Ritd3F4TObqvsrCJQ1Ka8werrNZAOWDHkavRPJhm+Es0rrILi8jhLgMVikRdHaMKYhk4/LsVq1FmM6C/w4qxaXeuFUcZq+W2qtNaVZceAfLfvsMRwGcg3DjZzOcfDw7HY5O3w/HB7M21cNDTsHYEZyYSl7V/10eHdLtvHUQ8zzanHuuc/m4PAq32ogVxFJyBW5VlULnPDO4zSShVElL4AQ/U9E4vvz6+Ry9iIlKzMXRSVF7CvTJ+5Rds9/vSMhagmwakLxvMDSEGGwI0FY1HNqaiz0Su4fEOdgEiKIf3iHSvo0DInrZtWX/ddMZzPpe5HGtNJOc9pLvOdg9DmpcswWuF3X9NgbqfAQ0usUNFooq3QtTg+J9K1vS9BzwnoGdYID9eTx88JPcxCKUhy4FP8aXSHyZssBrRHAQgImkEuueMo17xgBz0lKuc5Op2hOxe0RQdAFq7WxUa0DnM9zl3t9sJV8icWHT+CoSugMpKe8Ma6ABaA0lAhvZ1Vx2DabtHondQ+IYAvrrPRLZmJD5tsHYqIC0BWT8uAKnwaHcgbu8C8KZ3EMIuQ158sa7OztbCOnwFaKufwF/gvzM",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "fb85897dede3bfc615f7741e898a2d98",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. I N Druck in der Prozesskammer -5 mbar (-2 \"WC) +3 mbar (+1 \"WC) Temperatur in der Prozesskammer 20°C (70 F) 450 °C (840 F) Umgebungstemperatur -15°C (+5°F) 60 °C (140 F) Eingangsgasdruck 30 mbar (0.5 psig) 65 mbar (1 psig) Prozessluf-Geschwindigkeit 2 m/s (6.5 ft/sec) 5 m/s (16 ft/sec)",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>I</td><td>N</td></tr><tr><td>Druck in der Prozesskammer</td><td>-5 mbar (-2 \"WC)</td><td>+3 mbar (+1 \"WC)</td></tr><tr><td>Temperatur in der Prozesskammer</td><td>20°C (70 F)</td><td>450 °C (840 F)</td></tr><tr><td>Umgebungstemperatur</td><td>-15°C (+5°F)</td><td>60 °C (140 F)</td></tr><tr><td>Eingangsgasdruck</td><td>30 mbar (0.5 psig)</td><td>65 mbar (1 psig)</td></tr><tr><td>Prozessluf-Geschwindigkeit</td><td>2 m/s (6.5 ft/sec)</td><td>5 m/s (16 ft/sec)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVW1v2zYQ/isHAS3cJbFkvfhly4IladcOa+N8SLEPTSFQ0knmIpEaSTVJA//3HRXZVmM7jQFZlO7uuePd81BfHhwssUJhYp45v4ITTabTZBxmieePp5kf4tQPwzCPZujnfoqBcwhOhYZlzDDyf3DsItayUSmunjFOFdKtBRxNwtDzJrPAG3o2uLVXMuM5f8ahVjJFrTceo1k4ngVDusYT37rVqCquNZdCx10xXx4cArZlBIHvhcuv5KYwlSqLS5kyI1VbYc3MwsK6nzUq7SqepkxlFKiNYoZr9/I+XTBVXSr5L6ZGu1kjCh3XMnUzmTa2WfpICnRn7S8+UygEqhtZ5/GHd5ef4rNPp/HbYZ3lznJJJeS8RMEqW5fz85AuwNzXbQCr65JT7bRPtzOXTBQNK1DbLTsoCsdutKY3sWiqBO0uw/aN2sw1m2KSBJNpHkYYIY7zYMS8PJn6k2QaecHYAhu8MzHT8cJUpY05Niwp8eTYLJBldFN2eXLs2j+6/lqvLh5XrvVwV96JzO67oOzkrWrSG+ACMlRAjf1Ow71hVYWKArLW5SiCKmEKBkc+XDv/nL9ZWw6CznIw6lvadB3+FVZECGYa9XwS37tuPC/xzmEw8eDPTY4w8mBtmoYbWz/L56rAxJLBrNNtyh9F6/iDbtnDH/fgR3vg33FR0Gx1wXRm+7UODryuAd4wglrzooe76tqob+ijdo0om/zoPep0cctFxosb5GbTFahcDYMxoefG1Zhu8KNH02j8o6Wf4KxRxGXquzasLFuqQi01t4sVDqSy1DUTv187/rVzclqWMPiGyhC1y0NYSMW/S2HsuqFtZHiUyVuxK5cVjjYyz/cgD+HCjoWV1ET4AFLBRxjCx8v3h5YR5IcwOGuMvb8uzW8RvHpD9jMurf+AKlf4X0Mnwa7xVKsDB/6A0QRegTffU8XF/JcWfuRBXVcgaatAWuQKgU6oxjZJFKBo2Ajn80fX4Oeug8eSrd8t9QGuqPO2USB4ujDwTZYlzcCOF1ijCzttSzqc1fkPG3I7cbqPAneWnfit6E9FTgcmKqI5CngNf0vCs6Okp4qLIVTsbgj79QxbOoYt/cK2XP2ePlplwg5FPsm0Q45AMoSeDm3QtvTgqdJgW2HwVFmwX0iwLSDYEg48pxN4oSJgIwDalO/5/orv0CN8Z9nJ+mNoOd+57CA+bPN8TlnmdxT6Qj6T40vYbEt5nsste8MtQudjS+j2k9V9Jq8skZ3l1/8B+cPTuA==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "fd9cbe7aeece69267162b888032f4ba3",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Burner installation position All (vertical, horizontal, upside-down) Brennstoff . Naturalgas H or L . LPG, Propane (Butane <5 %) . Biogas (on request) Emmissions @ 17 % 0O NO* <10 ppm over entire modulating range CO <13 ppm over entire modulating range (<5 ppm wenn Turndown nicht vollstandig ausgeschépft)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Burner installation position</td><td>All (vertical, horizontal, upside-down)</td></tr><tr><td>Brennstoff</td><td>. Naturalgas H or L . LPG, Propane (Butane &lt;5 %) . Biogas (on request)</td></tr><tr><td>Emmissions @ 17 % 0O</td><td>NO* &lt;10 ppm over entire modulating range CO &lt;13 ppm over entire modulating range (&lt;5 ppm wenn Turndown nicht vollstandig ausgeschépft)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVW1v2zYQ/isHAS3cJbFkvfhly4IladcOa+N8SLEPTSFQ0knmIpEaSTVJA//3HRXZVmM7jQFZlO7uuePd81BfHhwssUJhYp45v4ITTabTZBxmieePp5kf4tQPwzCPZujnfoqBcwhOhYZlzDDyf3DsItayUSmunjFOFdKtBRxNwtDzJrPAG3o2uLVXMuM5f8ahVjJFrTceo1k4ngVDusYT37rVqCquNZdCx10xXx4cArZlBIHvhcuv5KYwlSqLS5kyI1VbYc3MwsK6nzUq7SqepkxlFKiNYoZr9/I+XTBVXSr5L6ZGu1kjCh3XMnUzmTa2WfpICnRn7S8+UygEqhtZ5/GHd5ef4rNPp/HbYZ3lznJJJeS8RMEqW5fz85AuwNzXbQCr65JT7bRPtzOXTBQNK1DbLTsoCsdutKY3sWiqBO0uw/aN2sw1m2KSBJNpHkYYIY7zYMS8PJn6k2QaecHYAhu8MzHT8cJUpY05Niwp8eTYLJBldFN2eXLs2j+6/lqvLh5XrvVwV96JzO67oOzkrWrSG+ACMlRAjf1Ow71hVYWKArLW5SiCKmEKBkc+XDv/nL9ZWw6CznIw6lvadB3+FVZECGYa9XwS37tuPC/xzmEw8eDPTY4w8mBtmoYbWz/L56rAxJLBrNNtyh9F6/iDbtnDH/fgR3vg33FR0Gx1wXRm+7UODryuAd4wglrzooe76tqob+ijdo0om/zoPep0cctFxosb5GbTFahcDYMxoefG1Zhu8KNH02j8o6Wf4KxRxGXquzasLFuqQi01t4sVDqSy1DUTv187/rVzclqWMPiGyhC1y0NYSMW/S2HsuqFtZHiUyVuxK5cVjjYyz/cgD+HCjoWV1ET4AFLBRxjCx8v3h5YR5IcwOGuMvb8uzW8RvHpD9jMurf+AKlf4X0Mnwa7xVKsDB/6A0QRegTffU8XF/JcWfuRBXVcgaatAWuQKgU6oxjZJFKBo2Ajn80fX4Oeug8eSrd8t9QGuqPO2USB4ujDwTZYlzcCOF1ijCzttSzqc1fkPG3I7cbqPAneWnfit6E9FTgcmKqI5CngNf0vCs6Okp4qLIVTsbgj79QxbOoYt/cK2XP2ePlplwg5FPsm0Q45AMoSeDm3QtvTgqdJgW2HwVFmwX0iwLSDYEg48pxN4oSJgIwDalO/5/orv0CN8Z9nJ+mNoOd+57CA+bPN8TlnmdxT6Qj6T40vYbEt5nsste8MtQudjS+j2k9V9Jq8skZ3l1/8B+cPTuA==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "2212ae39be8163909747ef23de7e36f6",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. 4 Bestimmungsgemäße Verwendung und Missbrauch\n\nDer DUNGS Brennerkopf HEPM-BH ist für den Einbau in industrielle Thermoprozessanlagen konstruiert. Es muss fest mit der industriellen Thermoprozessanlage verbunden sein. Der Betrieb des Erzeugnisses ist nur in dem dafür vorgesehenen Ofen erlaubt. Für den Einbau und Betrieb des Brennerkopfes in eine übergeordnete Maschine, sind die relevanten Anwendungsnormen und Richtlinien zu berücksichtigen, z.B. EN 746-2 oder ISO 13577-2.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztVE1v2zAM/SuEz03iOE5c79ag2bpD2mJtd+kKQ5boRKstGZSUrS3y30el6ZYNxYYdB8zwl0zy8ZF88u1Tgi12aHylVfIGEjWZSpXN0qYop3Um6nzczLDMsRSFUNOsTI4g6dALJbxg/6ckvlTOBpL4ssZKEvJjBzgu8jxNi3KSDtMYvLN3VulG/8ahJyvRuR8e4zKflZMhX7Mii249Uqed09a4ak/m9ilh4EhjMsnSfHvHboTSkqpaK4W3tGPYC7+OsKMbh+RGpKUUpDjQeRJeu9Hlg1wL6i7Jfkbp3UgFs3JVb+VIWRlis9zAGhyVu6OaExqDdG/7pjpbXC6r+fKkOh32qkm2W6bQ6BaN6CKv5M8h+wD/0O8CRN+3mrlznaO9uRVmFcQKXSw5QbNKYqE9f6lM6GqMVeYxscevPmLkMOfadNfFOlbYfQppinm8qwbhI9IXNLFGCEbBkptakwhyHXO90LjWvsWEQX/Vy7g+lvm4mKZFLkXeTOpiNhvzVRzLoqmz5r9e/g297L7QX/wHDgV2igSnN+fvruCAKESig/kZaOehiWprJIFCAwttahFAGz5V4C5qbFuE6zWPyPIkH3mSwrRM0MA9z8tT0Eh+CAsHXXAOGm49dNozGv2EYV4DgQ1SzdJmq0NthhDpzjGG1IzgYEGPGFaG1cGLyNaECMu2DpT4Tn1jiZuIazSMdNHwDakVoWZib18pL26mwywHrYlpOFobhOdAHsIKWXcGPcJSOLlm2xE4rg2URiDedBthPKOfmP1udcYSa2uX54OWa99qo3n9GIDhnnHlvYsWzZ08gsfhnFt4DkU+G2RgY+/eX13AeDItikE2PNzu54KitDd4HSe8vfsG/I0Ffw==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f2e75007bd1a09e628bc9d4822e5a30e",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Das Erzeugnis ist für die Verwendung in geschlossenen, trockenen Räumen in einer Industrieumgebung vorgesehen. Der Brennerkopf ist für ein Gas-Luftgemisch mit folgenden Medien bestimmt:\n\n.\n\nErdgas (H/L)\n\n• Flüssiggas (Propan mit <5% Butan)\n\n• entfeuchtetes Biogas (auf Anfrage)\n\n5 Transport und Lagerung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztVWuL3TYQ/SvCUGghudfWw74O/ZJlt01htyxl0y9JMHqMfNXYkpHkNMmy/70jd0O2hbbsx7LXYPzQmZkzZw7Sm9sKJpjB58GZ6gWpuFWKtm0teMPrWlIKlqqedYYzbjrKqmekmiFLI7NE/G1VXoYU1qjhyzcMOgI+toRNxzFR17N6V5fgbX0Oxln3L4AlBg0pfUU0PW97tsO77WiBLRBnl5ILPg33ZN7cVpi40GCM1vzuHcIi6BDNMAUtc4gbw0XmY0m7f50gpn10WstoMDDlKLNL++tP+ijjfB3Db6Bz2pvVj2lYgt6boNciVnoePOz77RrOIngP8X1Y7PDq4vpqOLt6OZzvFmOruzukYN0EXs6FV/XfIfcB+dOyBchlmRxyxz7398uT9OMqR0il5Qr8WJVGF/wz+HVWULrk25/4da6GCW1oW9uuF4pKxRvbQs+hl500gvZVYZrhYy7gc5nIRfwM6+hdIi5lYt+udW11JMYB+RXi7+CLKsR5gkT0cQo4LA/+Gck4uffllfxSYoAXwQoOHHZMfsI41NnBOo+gSooPIWIKOILfkXNEPNDmr6UxAflRpueXq80j4PD1kcwOAWEakQ5WuQKk54nCSbp5zi+KWl+E/FnGMt0PcFOaxG7/7nyppGQoi7SUUtEIpXWrlRStPtADk4eT85+A83cPLfPaY3kYQ3SfwfyTbQSXra2V7S1XzADXdVsfGmbNgbWUSXqyzROwzUU0I+6Z377aX373qE3HdjVKD7jxdMY2jQIQhmum2hoAV/jJPU/APW9XWlNKfpj+POlQ5XFzEyqySL+dcd+Lb8jZmqV/nL3w/JLQ1lw2tBNSWyV0zxn6TEnNRX86056QvTDawqqPGTIkcubC5jG5WvLS24j1HmetRgjKRG9Yw5qOKqwNTABSobJR5tCerPX/sNZDpwhyE6VPS4iZrN6QS4RG7OmhMW5cnqC6e/cHB6qFEQ==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1772078a13655a7a32b4670a44382668",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Vorsicht bei der Lagerung und beim Transport des HEPM-BH zum Standort. Dazu zählt unter anderem auch ein erschütterungsfreier Transport. Produkt nicht werfen oder fallen lassen. Beachten Sie die einschlägigen Vorschriften wie z. B. Unfallverhütungsvorschrift. Produkt nur in trockener und sauberer Arbeitsumgebung lagern. Produkt nur innerhalb des zulässigen Temperaturbereichs (-15°C bis 60°C) lagern. Nur bei ordnungsgemäßem Transport und fachgerechter Lagerung ist ein korrekter Betrieb des HEPM-BH",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJyFU01v2zAM/SuCTxuwOnbsJM1uzTqgh7Uo0HaXrjBkiba12JJBSe2aIv99pJt+bIctgJOIfHx6fKRvnxLoYQAbKqOTzyJZLetjrVWzrHV5PC+gkZBly6wpyqxuKJR8EskAQWoZJOGfEv5TeRdRwcsZKoVAPxNhvirLLFutiyzNuHjKD06bxvwDMKJT4P0bIl+Xy3WR0rNczRk2Ag7Ge+Osrw5ibp8SImYZRTHPyv0dwRCUQ131TsngcFI4ytAx7ezGA/oZGqUkair0AWUwfnb5qDqJwyW6n6CCn+loW1+NTs20U5HN8kfOwmw9faoNgrWAWzc21dnXy/Nqc35SnaajbpL9niQ0pgcrB9aV/L/kUBAex6lAjmNvSDv1OTuke2nbKFvw3HICtk240ZEilY1DDdxlOUXwba75YjEvFmtd5EW+mtclrKFYgKzLucxrfbxMWGmAX4HB3x16o7ogajBCA4pvRI7kgohWc3AQ1yitHx0GynvBPRxtzsQuDuIqSKspkYpTuYti9yNmGZRdH6g4EBdlAWEQMqpOgLGChqA6RjUqhOka3yAYgr5ekgoaho7bIOyk6wGwASsca2tkT/6KXtK62FRsQBKCAlcGhKaHriD+/llGa1pKcX+qQ9Mw7oEwO6pLxY1lrnvAFzUs5f4V+05EREHCAy3pFmiOky1eRvKeDidIDgUfhxZq9qxn8+zf1VTWyb6e7NvFgzzaZ9Z3DQOttwwRmZE69uLDUb5gTJ19EbXxYpkdTh9f+S+IlwdG+25ZeQvDMyt/6wbeD40FN2QUVQLb9W7ExodpLFuHCFtObSCggfqPSbfwcBgs9kAlEFLezZe1vZDI79I9XPNK7e9+AzPyfFU=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "be69a3227fbf4c95104e6845b6f2f47b",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. ssigen Temperaturbereichs (-15°C bis 60°C) lagern. Nur bei ordnungsgemäßem Transport und fachgerechter Lagerung ist ein korrekter Betrieb des HEPM-BH gewährleistet.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJyFU01v2zAM/SuCTxuwOnbsJM1uzTqgh7Uo0HaXrjBkiba12JJBSe2aIv99pJt+bIctgJOIfHx6fKRvnxLoYQAbKqOTzyJZLetjrVWzrHV5PC+gkZBly6wpyqxuKJR8EskAQWoZJOGfEv5TeRdRwcsZKoVAPxNhvirLLFutiyzNuHjKD06bxvwDMKJT4P0bIl+Xy3WR0rNczRk2Ag7Ge+Osrw5ibp8SImYZRTHPyv0dwRCUQ131TsngcFI4ytAx7ezGA/oZGqUkair0AWUwfnb5qDqJwyW6n6CCn+loW1+NTs20U5HN8kfOwmw9faoNgrWAWzc21dnXy/Nqc35SnaajbpL9niQ0pgcrB9aV/L/kUBAex6lAjmNvSDv1OTuke2nbKFvw3HICtk240ZEilY1DDdxlOUXwba75YjEvFmtd5EW+mtclrKFYgKzLucxrfbxMWGmAX4HB3x16o7ogajBCA4pvRI7kgohWc3AQ1yitHx0GynvBPRxtzsQuDuIqSKspkYpTuYti9yNmGZRdH6g4EBdlAWEQMqpOgLGChqA6RjUqhOka3yAYgr5ekgoaho7bIOyk6wGwASsca2tkT/6KXtK62FRsQBKCAlcGhKaHriD+/llGa1pKcX+qQ9Mw7oEwO6pLxY1lrnvAFzUs5f4V+05EREHCAy3pFmiOky1eRvKeDidIDgUfhxZq9qxn8+zf1VTWyb6e7NvFgzzaZ9Z3DQOttwwRmZE69uLDUb5gTJ19EbXxYpkdTh9f+S+IlwdG+25ZeQvDMyt/6wbeD40FN2QUVQLb9W7ExodpLFuHCFtObSCggfqPSbfwcBgs9kAlEFLezZe1vZDI79I9XPNK7e9+AzPyfFU=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "2a31663f41c2b0f947198ded000198e5",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. DUNGS Brennerkopf HEPM-BH\n\nSeite 4 von 16\n\n2024-02-22\n\nDUNGS Combustion Controls\n\n6 Installation und Inbetriebnahme\n\n6.1 Allgemeine Montagehinweise\n\nBei der Montage des DUNGS Brennerkopfes HEPM-BH ist darauf zu achten, dass ausschließlich die dafür vorgesehenen Montageflansche zur Befestigung des HEPM-BH Brennerkopfes verwendet werden. Es ist auf eine verspannungsfreie Montage des Brennerkopfes zu achten.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztl01v2zgQhv8KoXNjUyRFWXurt91tDwkCtD21hUCRQ5utRAkklWw3yH/vUI13nW3Qdo8GbEAWNZqPd8SHtPX+roAeBvCpdab4jRSmAsZYTXXdVJ02UFWSCco3teXK1JuyeEaKAZIyKin0vyvyoI3jHDQcrqHVAfC0JCxrISitG05XNAcv94fROOt+4DCFUUOM/3qUjZANX+Eha5bdJgiDi9GNPrYPYt7fFZg4y+CcUXH/Ed0C6DGYth+1SmNYFE4q7XPa9bsIIa6D01oFg4ExBZVcXF9/0XsVhuswfgKd4trMfhfbadRrM+o5P6x4MXpYN8un3QbwHsLncbLtq5fXl+328nn7YjUZW9zfowTrevBqyLqKn4c8BKQv0xKgpql3qB37XD/c7pXfzWoHMbdcgN8VudEJLa2fhw5ylyIXTvBXyjlevLv68w05qklyzYvtq5ztUOiPcUwYinH/RYKD1rVsACopKW84MApUV1TakhvGmjMSp4fEG3AJiCA3oyel/DUOmOkq0zSq1FxAxze4KZTWUgC6KetNU505OD0OGGXigrILxo4ZuMaAq2/+T3FQKypA4XelN7WUkjFjaFNSKkynqDpzcBIcVN//RPw+Dt0ccyIc+hTGPh5j8XrABE8RoQx0gskKYVCq7GhXd0BLIUF2Qmwaeybi9IiQ5LWPSfX9kobM3qChgxQcdF7tUdkRGW9d6p8kQ8hKgqUUjCk1VRooN7bRlkveAavhTMYJkrEqyfO+3+E8Ow/kEncKdN47fwsu/hoWXakt02UnuMCBYVwrIyXH7YMK0XB9xuI0sFgs4X8s92OOtuCIgXAACMeRfPeqgraHlxXiYiJGBTVb8vdMlN4n8M/QEiNRc4x63zv4MFNqLPayJ8ZhSmWzxeqA/3QDNgN78OAPJS02iXGA+QLZAhZLbofTsEg5lH0s5gbCLXgDidxCMOBX5GVclGVZy3pAjzgp7/N02gAOHjX4ONs/fayOl82VChmRG3ibn9T9x6+XZ/5o",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "8a208474d046c6b9b600023002456571",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Es wird angenommen, dass der Brennerkopf HEPM-BH mit einem DUNGS MBC-WND WhirlWind System und einem MPA als Feuerungsautomat bereitgestellt wid. Die Zuführung des Brennstoff- /Luftgemisches aus dem DUNGS MBC-WND Whirlwind System ist ebenfalls verspannungsfrei an die Schnittstelle des HEPM-BH Brennerkopfes zu montieren.\n\nHinweis  \n\n  ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztk9tq3DAQhl9F+Lq7ls9277LdtCl0w0IaAk2DkaXRrlpbMpKcNA15946chCwltNeBGIxlzYz0/XO4vIughwG0b5WI3pOoLvO0rrJKJiKpZFryRpQ1dEWVVGWel0X0jkQDeCaYZ+h/F4VF68xkOTz9Q8st4Gc+MKnynNKqyeiShuDZPhihpPqHw2gNB+eePZImL5tsiW9ZpcFtBDso55TRrn2EubyL8OCAkWUpze+v0M0CN1a0veHMGzsTjszvw7HxuQPrYqs4Z1ZgoPOWeeXi7S3fMztsrfkB3LtYTHrn2tHwWBg+hWS5hdEQN/PTrixoDfanGWV7crzdtKvNUbtejkJG9/eIIFUPmg2BK/p/yGOAvx3nADaOvUJ21Bk/mnumdxPbgQuSI9C7KAgdcafV09BBUFnMO/a5rli6EiSlIETCKeNAMyEbLrMy6yCtIAqkHn754HzsyI2yguBFoM2Ait8RwZwjAiw5YCeBfbE6IYPyBJSGgazPTz+dkc3qw+LidE0u9sr2F0oLcnbrPJonXD44brZHhPWOfIQJbEgwm7wZmCcoAJRHeR763iOIWJK1AvJtkt8nSiXfB3dEcQ8ozhspFyT+MkmMwp7gezSxKdC+yHNzwKMcgnegJeuR5Rr7YWRaBxyJFJgAIvDqM77XyvuZCOabn4QfJAN3f09kMNorVKCXoVRPVTxlNrTWNXwNGcZU/z12pSwSqOo0KbqCZjVURSNkncqUl1nO6NvYvZKxO5yiE6VvQDlCDjvh84ABL3UA8LoQRZN1RZ7mZZ1VkIi66zqJnUFpwd464PV1wIulv/oD+Ddkxw==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "32cc2b046eef144aaaabcfa061cde65e",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Je nach Brennerausführung und Brennergröße kann das Eigengewicht zwischen 0,5 und 100 kg liegen. Verwenden Sie entsprechend geeignete Hebezeuge und treten Sie nicht unter schwebende Lasten.\n\nBei der Montage und Demontage der HEPM-BH Brennerköpfe besteht je nach Einbauort und Einbaulage erhebliche Quetsch- und Einklemmgefahr. Verwenden Sie geeignetes Werkzeug und die notwendige passende Schutzausrüstung.\n\n6.2 Dichtheitsprüfung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztlF1vmzAUhv+KxXUbzEdI2N2iVqqmderUbrvoKmTsY3ADNrLNsrbKf+8xIdvUi027rNRIBMx5z6cfc/sUQQc9aF8pEb0jUSZXZVYsJZdZzdh6tc7qMpVZKTOaMrqW0QmJevBMMM9Q/xSFh8qZ0XI4rqHiFvA2BUxWeU4pBqULGpwne2+EkuovgsEaDs79ViRlXpTZAq9ilQbZALZXzimjXTUXc/sUYeBQRpalNN/focwCN1ZUneHMGztVODDfhrDxFwfWxVZxzqxAR+ct88rFVw+8Zba/suYeuHexGHXjqsHwWBg+hmG5U6MhLqdftbGgNditGWR1cX51WW0u31dni0HIaL/HEqTqQLM+1BX922V28A/D5MCGoVNYO/YZz+aO6WZkDbjQcgS6iUKjA76p9NjXELpchsQefvoQ4wMQzXhL5qxsdPL7SKnkrcXOyKjF0dTYyVCEfyGBbJnWRDBHzlWDiWCneOvJ40453oIm9GQ5eSeUkm1DOgWoWpCvYHegBQquFZAwrgG3AR0EaQBUo8EDuYAaHmFsYIrgLb476PWUY9QeLME0O9RhLPKROVQswgCOs/nEbNiwH3ATGsWOX8KcyqJYirxIBJVCJDnL+FpSJLpMqVjlyRvMrw/mDSgiEI1Loz2b6TmDfl4FS6jhdHNxZHp7QHpAnGucCiBc9/OBOFe6ZqOxfopyWHUhDNgWaiy1BfJ5BI8Ynh4lWySsb0Cy1r4k/RfcjnzDvIHuyUsEqo0PSjxGZGDIQkD6mrejf8TjeDh13Hncm/8jPClLma8TkQIrlitZ1KJO65ouS1HQnDL6RvjrI7xYpOQsfARbUOHTeYBDYld/onGjfAfR/u4Z2qWIWA==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f5155c24ba1368a69c0bcc15db133b70",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Die Dichtheitsprüfung kann bei ausreichender Zugänglichkeit im Betrieb mit schaumbildenden Mitteln erfolgen. Ist eine nach dem Einbau vorgenommenen Dichtheitsprüfung aufgrund der Maschinenkonstruktion nicht möglich, sollte diese im Vorfeld der Montage erfolgen. Die Dichtheitsprüfung der Verbindungsstellen sollte in diesem Fall dann mit dem 1,5-fachen Betriebsdruck unter Verwendung des Mediums Luft (kein Brennstoff-/Luftgemisch!) vorgenommen werden.\n\n6.3 Montage und Positionierung der Elektroden",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztVNFu0zAU/RWTJ5C2Jm3SpOGNaUMgUbSHsQfGFDn2dWqa2NG1vTFN/Xeus5ZVSIxnJCJFSZxzrs89PvbNYwI9DGB8o2XyliXLtiqXOYi5KIHzFSyqcsFFDe0yA7nieXLCkgE8l9xzwj8m8aVxNqCAwzc0AoEeU8F5VRRZVtV5Nssiefo/WKmVfgEwohXg3DNiXhdlnc/oLqtFhI2Ag3ZOW+OavZibx4QKRxl5vsiK3S3BEIRF2fRWcG9xUjhyv4ll0y8O0KWoheAoieg8cq9devkgNhyHS7TfQXiXymA614xWpNKKEM1yp9ZAWk9Xc4ZgDODWjqr5cHG5bs7W75rz2ShVstuRBKV7MHyIupK/U/YE/zBOBD6OvSbt1Ge6/91z0wXegYstJ2C6JDY60khjwtBC7HI5jeDzus7rWhWruVwAL5eVKlvZLto2W9ayzIqMZ0lU6uGHj+BzDexci43fgPZuxG8hy5RQZAPbcmNYC5rx4BAIA0YCsq+hiyAoTEdyN1viMT2wM/CooWUDfToyleTpXkaKYWvtPfSGASrbd2Bm7KPzDLQBZrjYMAkDu9Cm5YHdWSSAHch6Iv5BGQ+qw2Aki3rWnKajUmZL+fAYttFAZiKTDROpnISeMGf73gOTGhxEydcWFfT7KtZ4svVI4gvORMI1YKvNlBdHzdG6H+pr8zTFwN7zvmcy2hhdiV3OT5anikcrD4Y5iUFsWTD+qeg9TEUJ7dgapA6DY5+C8uw1OU2sGCfnrVKnaRzugLaG2Lx6c+wcuwck32cxQod0feYYI38HV3HlKQK/Hwe5UFUu6lVRV5lclPNVWVQrWmc6HgpVy9X/4+DfOA6Od3c5y38lO+6XS+t0LKgBDzm+6GHrkTwwx2m50r6HZHf7E2L9D04=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "a11a1d5c354dd1429b860ce5a79c917f",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. a) Die Zündelektrode ist so zu positionieren, dass der Zündfunke gegen das Flammrohr des HEPM-BH Brennerkopfes zündet. Diese hat eine sichere Erdung (Masseverbindung). Ein Zünden auf das Brenner Pad ist nicht zulässig. Zur Sicherstellung eines geeigneten Zündfunkens sollte der Abstand der Zündelektrode zum Flammrohr ca. 2 mm betragen (vgl. Abbildung 1). Die Zündelektroden werden mittels einer mechanischen Durchführung/Halterung befestigt. Diese Halterung ist auf ausreichende Festigkeit und ausreichende",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJyFVG1P2zAQ/iunfAIJkrQNabNvIEBIE1OlbV9gKHLtS+o1tiPbgQHqf99dKBQmbYsUJfG9PC8+5/Y5wQ4N2lhrlXyCpBRqMT2p8kmTlzgV8xM5K8p8gWJVoSyFSI4gMRiFElFQ/nPCL3Vwg5f4+o219EiPseFkXhR5Pq9meZpz8Rg3TulG/yOh905iCPuMSVWU1Sylu5xPOa1Hb3QI2tlQ78jcPifUmGnMZtO82N5RmkfpvKo7J0V0fmTYi7jmttn3gD5kXkspvKLCEL2IOmTLR7kW3iy9+4kyhkwNtg1172SmnBzYrHDsLGbVeNVnHq1Fv3F9U19dLK/rs+vT+jztVZNst0Sh0R1aYZhX8v+SXUF87McC0fedJu6kM9uFO2HbQbQYWHKCtk1YaE8rtR3MClnlybji9/s6k818JqtFUc1zNS0ni7KYL/IcJ7IsmkotEmYa8VccQQ/hXCPc/BjyvJFW0YhsoieHQIcIwcHTAL0LmllpJJQjUCIEUOj3Rc1gNwgttmg5CpedMMa7tae0AKz6+OwK3jlBq09viDFlCgFhLSKgtghByzVhwYXn/YCDa0LEe/QrbXnhMIULbd9xtiCGZkTeYcBSqFGApU6RNHSciwUNUZvCzeDh6wgRInYdQzBsIAWoW4sR7R/abCArui7iqPt0FaKw6qMHe+OeBvPOASlSmIIxsEKaOXbo4L7tUmqy0t0ob3KY/mUPLDyg54fRkZiGkaYHgzS0VgdSYOGcjuO6eSlde+qXXQkiym8ESU5H3b45vA+xOWyaGIJH9oJg4XLM3qCOMJC+D7HP9O8wD9pvuJqHwr9gNmhTHtXXKf4iPB+te/zGE7a9+w2cboEE",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f5735ad98fd61b1bcdfc855ad0a9a8ef",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. e Zündelektroden werden mittels einer mechanischen Durchführung/Halterung befestigt. Diese Halterung ist auf ausreichende Festigkeit und ausreichende Klemmwirkung zu prüfen.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJyFVG1P2zAQ/iunfAIJkrQNabNvIEBIE1OlbV9gKHLtS+o1tiPbgQHqf99dKBQmbYsUJfG9PC8+5/Y5wQ4N2lhrlXyCpBRqMT2p8kmTlzgV8xM5K8p8gWJVoSyFSI4gMRiFElFQ/nPCL3Vwg5f4+o219EiPseFkXhR5Pq9meZpz8Rg3TulG/yOh905iCPuMSVWU1Sylu5xPOa1Hb3QI2tlQ78jcPifUmGnMZtO82N5RmkfpvKo7J0V0fmTYi7jmttn3gD5kXkspvKLCEL2IOmTLR7kW3iy9+4kyhkwNtg1172SmnBzYrHDsLGbVeNVnHq1Fv3F9U19dLK/rs+vT+jztVZNst0Sh0R1aYZhX8v+SXUF87McC0fedJu6kM9uFO2HbQbQYWHKCtk1YaE8rtR3MClnlybji9/s6k818JqtFUc1zNS0ni7KYL/IcJ7IsmkotEmYa8VccQQ/hXCPc/BjyvJFW0YhsoieHQIcIwcHTAL0LmllpJJQjUCIEUOj3Rc1gNwgttmg5CpedMMa7tae0AKz6+OwK3jlBq09viDFlCgFhLSKgtghByzVhwYXn/YCDa0LEe/QrbXnhMIULbd9xtiCGZkTeYcBSqFGApU6RNHSciwUNUZvCzeDh6wgRInYdQzBsIAWoW4sR7R/abCArui7iqPt0FaKw6qMHe+OeBvPOASlSmIIxsEKaOXbo4L7tUmqy0t0ob3KY/mUPLDyg54fRkZiGkaYHgzS0VgdSYOGcjuO6eSlde+qXXQkiym8ESU5H3b45vA+xOWyaGIJH9oJg4XLM3qCOMJC+D7HP9O8wD9pvuJqHwr9gNmhTHtXXKf4iPB+te/zGE7a9+w2cboEE",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "66e3b79b1743c85e62f0fad53c047367",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. W LL\n\nAbbildung 1: Ausrichtung Zündelektrode\n\nDUNGS Brennerkopf HEPM-BH\n\nSeite 5 von 16\n\n2024-02-22\n\nDUNGS Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztll1r2zAUhv+K8fVSS7Ily71r120dtCXQlcG6YvRxlHq1LSPJZaXkv0/KWha2sO02EIOxZJ336Hw8IN0+59DDAGNoO50fZznRDBgrOWW4ZFRoA0hXSPHS6LKRQPM3WT5AEFoEEe2f8zRovZ2dgtc5tMpB/Gwc4rqqEKqbEh2hJN6sD1Z3pvuLweSsAu9/WeCmYk15FF9Wk2Q2gRs67zs7+vYlmNvnPDpOYZQlQdX6Lpo5UNbptrdKBOs2EU4i3Ce3xY0H5wvXKSWcjkIfnAidL5ZP6l64YensN1DBF3oeV76drCq0VXMqll/YEYpm87SnDsYR3IOdTHv+bnnZnl6etGdHkzb5eh1DMF0PoxhSXPm/JS+C8DRtBGKa+i7GHvMsXpZ7Ma5msQKfUs5hXOUp0Sn+acd5kJCypGnjAN9D8vE5u7hIwlefH4dom0eL35sf+ytqbhQGTqVUvDIIYSFj+bXBUJeH5u9f80+k7PqURIaPs5PZx4zvQ5p++TojZNSoIwMPwaXabTFyJVyqxyN8Sn52sKJkxVCpBEdEIsyhZgJzXKGGCEVlww6s7B8rZzdXH66zrT2ztOfi9HybjPfWhijdhURjDBVAOda1gSY2CoALLoFw3CiKDkjsHxLX0AXIaPZoxwyzbQ6WUXT1U7ODhcbomhCitW44rTiTNWmUKBExuDKM6wML+8cCQaRaILIg5P85UIgxQY0EpmqKy6amiFcli3WVtMbMHDjYCw7Yn8fEWzvI2SdHcTjGC0Tvd1wy734A7QPqdA==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "3a952d6c9bafb33c2dde25d840be24b0",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. b) Die Ionisationselektrode wird werkseitig voreingestellt und sollte derart angebracht sein, dass sie e die HEPM-BH Flamme sicher detektiert. Hierfür sollte sich die Ionisationselektrode im Flammenbereich befinden. Bei der Zündung muss das sichere Durchzünden vom Zündfunken bis zur Position der Zündelektrode innerhalb der Sicherheitszeit erfolgt sein. Anderenfalls geht der HEPM-BH Brennerkopf über die sicherheitsgerichtete Steuerung des DUNGS MPA Feuerungsautomat in Störung, auch wenn die Flamme des",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJyFU9tO20AQ/ZWR3yqB7VywSd+IUkofQJEoL6XIWq/H9hbvrrW7JgWUf++M4wgqodZSfJk958yZS+5fI+xQowmFqqLPEKVZupzP6yyTeZ2uzvLz2XKBs/l5uZD5GeZ1dAKRxiAqEQThXyN+KbwdnMTjNxbSIT1GwVm+XKZpvlqkccrk8VzbStXqH4DeWYnevyFmq2W2WsT0y/I5w3p0WnmvrPHFZOb+NSJhtrFYzNPl/oFgDqV1VdFZKYJ1o8NehJZlkzuPzidOSSlcRUQfnAjKJ9tn2Qqnt87+Qhl8Ug2m8UVvZVJZOXCz/Kk1mKzGq1g7NAbdo+3r4urL9rpYX18Um7iv6mi/Jwu16tAIzb6i/1MmQnjuR4Lo+06Rd6ozmY47YZpBNOi55AhNE3GhPUUKM+gSucqMEwf8HVij/AQbhfDNGuVHJU8zfwyOSoadchXsyIpHFVQDT9ahMiQesOsCDKYCb+kNoUInXABKjqUTsg1AFHMClfAePOkThO5czun6Ci47oTXSgWzRETlQRoUuxHBFj/rnkKa1dEdxho30D00qPckZqg4ZWmKtTIUmhjUqtgY/DoqGhwV6IE9kbEqPsKH9bF+OEDRUp36j1IN5pFipPLwMDrbWK3bwt+47Ozy7VnTlCLgdU7TUPv9CN6DibNccuhPDBRFp2LXoOg8NUteYc2zSuz2AQ56Sm6WOfRtVG6QVbQN1EG4DDui4QtpW2NzdfL2F6+0FXE5hL4ZgtQhkkbCjYsbxExADdW1H2Ub1aTgs8oEVigZU3Q6VR/L81rYArQgx7+BxPW+E4//ME37nXds//AEKmHg5",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "07cc511957fb9ee84975b2ff825ff858",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. nderenfalls geht der HEPM-BH Brennerkopf über die sicherheitsgerichtete Steuerung des DUNGS MPA Feuerungsautomat in Störung, auch wenn die Flamme des HEPM-BH Brennerkopfes teilweise gezündet hat.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJyFU9tO20AQ/ZWR3yqB7VywSd+IUkofQJEoL6XIWq/H9hbvrrW7JgWUf++M4wgqodZSfJk958yZS+5fI+xQowmFqqLPEKVZupzP6yyTeZ2uzvLz2XKBs/l5uZD5GeZ1dAKRxiAqEQThXyN+KbwdnMTjNxbSIT1GwVm+XKZpvlqkccrk8VzbStXqH4DeWYnevyFmq2W2WsT0y/I5w3p0WnmvrPHFZOb+NSJhtrFYzNPl/oFgDqV1VdFZKYJ1o8NehJZlkzuPzidOSSlcRUQfnAjKJ9tn2Qqnt87+Qhl8Ug2m8UVvZVJZOXCz/Kk1mKzGq1g7NAbdo+3r4urL9rpYX18Um7iv6mi/Jwu16tAIzb6i/1MmQnjuR4Lo+06Rd6ozmY47YZpBNOi55AhNE3GhPUUKM+gSucqMEwf8HVij/AQbhfDNGuVHJU8zfwyOSoadchXsyIpHFVQDT9ahMiQesOsCDKYCb+kNoUInXABKjqUTsg1AFHMClfAePOkThO5czun6Ci47oTXSgWzRETlQRoUuxHBFj/rnkKa1dEdxho30D00qPckZqg4ZWmKtTIUmhjUqtgY/DoqGhwV6IE9kbEqPsKH9bF+OEDRUp36j1IN5pFipPLwMDrbWK3bwt+47Ozy7VnTlCLgdU7TUPv9CN6DibNccuhPDBRFp2LXoOg8NUteYc2zSuz2AQ56Sm6WOfRtVG6QVbQN1EG4DDui4QtpW2NzdfL2F6+0FXE5hL4ZgtQhkkbCjYsbxExADdW1H2Ub1aTgs8oEVigZU3Q6VR/L81rYArQgx7+BxPW+E4//ME37nXds//AEKmHg5",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e7fb4e3a0bb5351b40fc24a5ecc8633a",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. 6.4 Erstinbetriebnahme\n\nNach erfolgter Montage und Dichtheitsprüfung Folgendes überprüfen:\n\n• Einstellung des Gemischdruckwächters sowie des Gasdruckwächters min. gemäß Einstellhinweise des Systemlieferanten.\n\n• Überprüfen Sie sämtliche elektrische Verbindungen, insbesondere die Erdung des Brennerkopfes, auf sicheren Kontaktschluss.\n\n• Stellen Sie sicher, dass die Abgase des DUNGS Brennerkopfes HEPM-BH in die dafür vorgesehene Richtung durch die Maschine abgeleitet werden.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztll9P2zAQwL+KlWfWOqmbNHsDwYY0gdDY9rJN0cU+Nx6JHdkODCG++84pbGxCm3icoFKa5P757vLzJZ9vMuxxQBsbo7LXLOO6FCARSi0rLXKe13lbrGrJKxA1bDDbY9mAERREIPubLF00wU1e4v09NtIjneaAeSUE51W94guenGf94JTR5i8Go3cSQ/hlkdeirFcLOsqqSGYj+sGEYJwNzV0yn28yCpzSWK0KLm6/kplH6bxqeichOj9nOELsUtjlx4A+LL2RErwixxA9RBOWZ9eyAz+cefcNZQxLNdltaEYnl8rJKTUrvHIWl/X8aw48Wov+wo26OT46O2kOTvabw8WodHZ7Sylo06OFIeWV/dvlziFej7MDjGNvKHeqc3mn7sFuJ9hiSCVnaLdZKnQkSWOnocVUZZkWjvg9phjlQrAjH6KxLUZvsLXQDfOTvF/lg4k9ZuTzJw4C6naTS4l5XaOudL5RSqGqsaqKjW7XLzj8HzjMEv+Ebf6Qn1OQHUOvXb+N6NmJs5Gis8kqdmhkFzs0MYz+y8S5lpq6w96QKVpqIdsJKYuferSvH6J3Cj61+RI/pNUeQXAtBGgBvBUSKolq0wKKWtbtqua5hPIFwWeA4Jep4EXBjowNEfs+MZboeovUcdkpP8mLq8QXCuKResiCuzK4s4HwiH4wdsG2OOyE6V/pn+E7Y6/QhJ3/+TXJht6gRg82ol08Cd+qyNfI85KvVqqtQK6xFPl6AzROixKVeMH3+eA7Y/bHMGTnxGnYYThESq1DRgRd0Is6pOtP6FtjU8fQ7jECtMXgaLR6opM8j7y63wwPeoBhj8GkWUjhSMzepZl9ESliP4XwNIJbmfM1lFLnBS+rtiirupabNfFLU1nKF4KfEcHnaTzeQzvDtccUhDCzuN9u4W5oHn48fXv+O5EsVfXq4JgYnq0V6N0m8OzSecodO7TI3qcvihlp4qebLU+AuDWkg3ZLaJqIkV2hV38fxV9/ABB2JAo=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "a4e77e497826f293d72a8a72f89f433e",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. • Stellen Sie sicher, dass keine brennbaren Materialien (z.B. Verpackungsreste, lose Isolation, Aufkleber, etc.) sich im Bereich der HEPM-BH Brennerflamme befinden.\n\nEs wird angenommen, dass der DUNGS Brennerkopf HEPM-BH zusammen mit einem DUNGS Whirlwind System MBD-WND und einem DUNGS Feuerungsautomat MPA geliefert wird.\n\n• Stellen Sie die elektrische Spannungsversorgung zum DUNGS Whirlwind System her\n\n• Überprüfen Sie die Anzeige der Feuerungsmanagers.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztlF1P2zAUhv+KlatNKq3jfJHdtSobuyhC6hgXgCJ/HLdeEzuyHTZA/PfZUfnQtDFxDZWinjrn2O95/fRc3CXQQgfaN0okn1AChPCa1pUkWMpa8FoyUkpWlFgcUpZWyQQlHXgqqKch/y6JQePMYDk8/IaGWwhf44ZplecYV3WGpzgWj+87I5RULyT01nBw7ikjrfOyzqbhKSsS03qwnXJOGe2avZiLuyRsHGVkGcH5/VVIs8CNFU1rOPXGjgp76rdx29mZA+tmVnFOrQiFzlvqlZud3vAttd2pNT+AezcTg964pjd8JgwfolnuwGiY1eOnWVjQGuzO9LI5PjpdNYvVvFlOeyGT+/sgQaoWNO2iruT/JfsCf9OPBbTvWxW0hz5n+9ct1ZuBbsDFlhPQmyQ22oeVRg8dg9hlOa7Yp3vFsswpB1pKXsk8xWmdMpLVHFc0r+khJFGph18+Jl8OBBOC1h7aIB2tFSCn+BbsBAnqHNqB0oBYbILFQ9Aq3JlVtFUh/nA7XUzRd7A95bvonA3GwgS1xgH66kw7NjNB80HuWmBxU/B8+nE8AqkOLcBCDAVYFM05WByjvWGypV0XTgaptAA9jXY8OHVCbby+a/gWuwjt/Ik2S8v8kFU1S6kgdVFRWbKScUkLXFQEwzvabwDtI4d+KitQOAi0CTDpPdORtuXZyZc1etbBI3+3g4vkadQpjyL93T75fKts+zPQiNY3AfMOrRbLg/OTJRrC0vPEzzCAjW7TwZuOerQ6naMNhL+MBOtHUa/DuaAEZznLRI5JnuVEMJZJkZeCZWlV1u+T+i3g/JdJLcITSNl5q1yY2WjdU62jL9fBQ2M3IQw4/5PfMOVfh2Ge8QynRcEqVgFNSSYLIkqoZQ5lmsp3DN8OhpcDxoKHDXsbQ8nlMybn+hbUBsZB+zgMO6qDDOteGn1XvwEp62kZ",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d40011e5a0020dde4029c1703d584e93",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. • Überprüfen Sie das Brenneranforderungssignal von der Maschinensteuerung zur Brennersteuerung (Dungs MPA System).\n\n• Öffnen Sie den Gaskugelhahn am Eintritt der Maschine.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztUtFq2zAU/RXhpw22WLZVOd5bS8v2khHo9tQWcy1dOVptyUhyWRby75NMQugeug/YDEbS1TmXc67OwyHDAUc0odUy+0Qy6EBUrFFdUXWcIW2QMQ5FSdfsisuiyz6QbMQAEgJE/CFLm9bb2Qk8n7EVDuOyNCxqxiitm4quaCIv96OVWuk3AJOzAr2/IIqG8aZaxZ/XZYJN6EbtvbbGtycxD4csNk4yqqqk7PgUYQ6FdbIdrIBg3aJwgrBLbfPvHp3PnRYCnIxEHxwE7fPtXuzAjVtnf6AIPpez6X07WZFLK+Y0LP/RGsyb5WtvHBqD7tlOqv1yt920N5vr9nY1SZUdj1GC0gMaGJOu7O+UEyHsp4UA0zToqD36zE/XA5h+hh59spyh6bNkdIqV1sxjh8klXyru8q5UcQYCgStRK1bQoim6smoErYE1sMYsKQ34MyTw41zSsiSPM6VSxIaTS1slFBpyr5FI8ORkAYyK80WXRuR1b2AgL9aQWCEb8GKnDRofcF4Q5NfszsRL8d1tIpPN9prc72N5fL9KNs8T+AouPcsLfkvqosw/I4tM8JqvBZZyra4YKCmqhnLayaIRnBX/I/uPRZYrZc5Jjetn8M9zj8MOdobASO60CU6H8Cqkb0Xu6Tcf+aZd",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b494ea29b6e4f98ee8730e0226b353a5",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Hinweis Der Brenner startet nun mit einem regulären Startvorgang mittels Vorspülung, Anfahren der Zündposition, Zündfunke und Flammenbildung.",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Hinweis</td></tr><tr><td>Der Brenner startet nun mit einem regularen Startvorgang mittels Vorsplung, Anfahren der Zlindposition, Ziindfunke und Flammenbildung.</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNkl1r2zAUhv+K0HUW27Gx4xECLd3oTSGwj4t2RZxIR45WWTKSvC2E/PdJjrsy2LoZrK/znsPz6ujhRFFjjyYwJehbQteyXEEjRIFr3hYgRC2KStS8KCoUsuJ0QWiPAQQEiPoTTQvm7eg4Pu+RcYdxmgoWTVXledOW+TJPyVO8t0JJ9YpgcJaj9y+Koq3qtlzGv25WSTag65X3yhrPZpiHE42FE0ZZrvLq/BhlDrl1gmnLIVg3EQ4QDqls9smj85lTnIMTMdEHB0H5bHfkB3D9ztmvyIPPxGg6zwbLM2H5mC7Lv7EGs3b62LVDY9A92UGy23e7O3Z9d8VuloOQ9HyOCFJpNNAnLvrvlDkhHIcpAYZBq8gefWZzWIPpRujQJ8sUTUeT0SGeMDP2e0wu6+nEvfQ1l3UFHKGWvJFVkRdtsV+VLc8bqFpYYyoc8Edg4Nkh9DrlbALsNW434YAg4uTScnurzHdUfpPFdRxcGmbB3orjrBPbG3Rk9kl8ABcwEDMa0qtAUBnsicNu1AmSfEjxb9Z10VoSBNSefLbODzre/YJcGQmHJBSx2L1WRgzWq3QpC3Kv4laO5gnJaAR5r6GPLdorndq2jHDiF+aFL7vYoufZcrI6myL/Cf1lzHOsXidPGsn/xH+J/Obh+eivPqb+zG/iY+Kn58efUy0/6w==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "5078fd51b032e67137f1fb64da43de43",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Bei der Erstinbetriebnahme müssen zuerst sämtliche Verbindungsleitungen zur Maschine mit Brennstoff befüllt werden. Somit können mehrere Zündversuche notwendig sein, bis es zu einer ersten ordnungsgemäßen Zündung mit Flammenbildung kommt. Sollte auch nach dem dritten Zündversuch keine Flammenbildung auftreten, prüfen Sie\n\n• die Brennstoffversorgung\n\n• die Einstellung des Feuerungsmanagers\n\n• die Position des Zündfunkens\n\nDUNGS Brennerkopf HEPM-BH\n\nSeite 6 von 16\n\n2024-02-22\n\nDUNGS Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztl01v3DYQhv8KobPtpUiJknqrE7vpwYYBNz00CQSKHO6ylkiBpJymhv97h7KTbNOgrY+Gd4GVVuJw5uXMw499d1fACBO41Ftd/ECKpoahY3Wt2lpJ04hKS2rUIIWivK0qWRyRYoIktUwS7e+K/KOPfgkKPj9DrwLgbXVYNlVFadNxekJz57V98toa+y8Gc/AKYvxqUXaV6PgJfkXDstkMYbIxWu9i/yjm3V2BjrMMzhmt7j+gWQDlg+5Hr2TyYVU4y7TLbjdvI4S4CVYpGTR2jCnIZOPm6pPayTBdBf87qBQ3enHb2M9ebbRXS05WPPYONt366U8DOAfhxs+mf3N2ddGfXvzYvz6ZtSnu71GCsSM4OWVdxX93eeyQPs1rBznPo0XtOM7NY/Mo3XaRW4h5yAW4bZEHOuOb3i3TAHmUYn0TvtaVGlFJBVIY1ZiqpGVXDox3ijay6mQLRVaa4I+UjU/BEg2BnIWYrBsgBQuDk7sJyPR+oQgElsaRPxfMXyIxv4JqSih0B+RXCIN1a85GsAnvq2kgFzKqnXXowyayZiAmbwwZwDw4HcdEPkLQ4E7Itc9WN2uDwFw5MsEuQADy24Ox07cYfckRnU8fwWm7JRGsOyKDjQQixiT4iMPIKtEBcuCyqi1MD4rzVRts+eISm1d156OcsM6DHddXN36aUtaECoFIDEqcxIuGiehgU9r38SiL3OTg33qSi0kB0P6IzOGhRxZwbSFX9nPRL2XIJN7CL7kgWJlvZyktaw41K1ujeAVy0KJtKhigrKFlnW4Ps/QFzNL3C6OMEW1hbzZl+nzYYi6eBJQWQyl5I6gaWN02XaeBcso10lkzfQDqpQF1ZhEnGMe8ZmGGyDngWp/zMUmHEUN8El2lNkPLeVXTUirGgbemHGohBTQNl0Yc6HpZdF35aHPwFa0vG6dZ3A24p5HFmACsnaKqEQo6YzA2mFqUgjIA3h3Ieh5k7YPy+u3lT9dkLybJMY9P3+yTce59wq7fQaKjVOCi0jVaybbUWgjohCjrAQFlujIHJJ4fEtf4RwKIILe4ZpTi/3EgalrXTTtgYZShmioNbSVr2eq65qLlBw6eHwe4g1THlB0zts/AFXa4fLD/DgdDzaQBUBXjGveEmhlTGehk2TZ4HuGHw8fz4KD55xbxyk/DEteDxCvvUvDj3w4PP0/ooLj/8Bfcqwp0",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "5f4259a466ba527bfe1e8b668f328ba2",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Nach erfolgter Zündung variieren Sie die Brennerleistung mittels Schnittstelle zur Brennersteuerung von Klein- über Mittel- zur Großlast.\n\nIn diesen Lastpunkten vergleichen Sie folgende Einstellungen mit den brennerspezifischen Einstellwerten:\n\n- Gaseingangsdruck\n\n- Gebläsedrehzahl\n\n- Gemischdruck\n\nAls zusätzliche Maßnahme achten Sie auf\n\n• ungewöhnliche Geräuschentwicklung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztl9tu1DAQhl/FyjXt2jn4wB0IVBAUVQJuOChy7MkmNHEi22lhq7474+xWSFyA9nKlXSmKE89M/nE+Of9+fchggBFcrHubPSdZxSuTN1SwqrSq0YUQzMq2EFKDVHmhsmckGyFqq6PG+IcsDeowLd7A0zXUxgOe1oJMlCWlQhX0kqbkdX6cbN/2/wiY/WQghD8RTJVcFZd4cJGnsBn82IfQTy7UBzFfHzIsnGQURU7Lx+8Y5sFM3tbDZHSc/Kpw1rFLZTefA/iw8b0x2ltMDNHr2IfNzS/TaT/e+OkHmBg2dnHbUM+T2djJLGmxwsXkYKPWX/3Sg3Pgb6e5rd+8vrmuX16/qF9dzrbNHh9RQtsP4PSYdGX/TzkkxF/zmqDneehRO/a5OUwP2m0XvYWQWs7AbbPU6Ix3areMDaQuRXpwhJ8x1figTUfAt9OwjeDJl28Lpa1xqS1yp33fA8ohH3sgFo+DtgH6EFPE2McIQyAfTedwGPBiALJb/FMk3lnAr8UmR95horsg+2egGHK95l+sGVd+ShO2HXSIl6mZpz4/aJ8W/w4+JdGo/m8wW9sYxlpmWW5E1ehWKNmWQgJwqkvBzmCeHphvXSIuIHzvkYd5cbcRx3fgtwiR6Q5QJm7BWSCve7fSh13jFHJJLJ6bA4Uz7PDVhTXtKfIePFZ8fhRoFl+5ZkxRyVjeVCKnOS2Qg4rzimsuz6CdHmgX5EoH3Je2mBisX8ztUUg0uWhYwQ0tja20lIoyYwqOG5liwpTijMRJIgHNkL5GUOKSeuh2uhuOwkIUAIIqDVxTboWyjNNW2VyWeaksL89YnCYWY/qKHL9L5JSJRmoJlFZNrnTVFiCrSkpQJUUqzjicHg4v0PjulrDfJuJuSK6EXOu9iXW6G4GguY4Hp6KX9ihiSnSwypSQN61umFTCCtbwglldlVxW5w3kBIn5tqBhzEnyqPfrnyDeuT02V+D3HC2rSY33vblNXvYfyHz/DfpTBWQ=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "cb7bd08ad194cfc8e0e70b512568df4d",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. • die Ausbildung der Brennerflamme und dabei insbesondere darauf, dass die Brennerflamme stets unmittelbar auf dem Brenner Pad ohne Oszillation oder Pulsation arbeitet\n\n• Nehmen Sie in den genannten Laststufen jeweils eine Leistungsmessung mittels geeigneter Messgeräte (z.B. Gaszähler) vor!\n\n• Eine visuelle Beurteilung des Flammenbilds ist aufgrund der Einflussparameter nur bedingt möglich, achten Sie trotzdem auf die typische blaue Färbung der Flamme in allen Laststufen.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztlE1v2zAMhv+K5tMGdIljO3a8W4u126HtAmw7tYUhS7SjTpYMUerWFP3vo5wE+zh02LFAAxiWKZJ63/gxrx4S0DCA8Y2SyTuWZHVaFjVvyzyHPFt1K94t0gK6mpdVJVKRHLFkAM8l95zyH5K4aNAGJ+DwDI1wQLep4aIqijSt6jydpbF42h+sVJ16ImF0VgDir4xFXZR1PqOrrLKYNoIbFKKyBpu9mKuHhBpHGXmepcXjDaU5ENbJRlvBvXWTwpH7TWw7/4rgcO6UENxJKkTvuFc4X9+LDXfD2tlbEB7nMpgem9GKubQixD8L31oD83r6NScOjAH3zY5d8/F0fdGcXBw372ej7JLHR5LQKQ2GD1FX8u+SfYG/H6cCPo5akXbyOd9va276wHvAaDkB0yfR6EiRxoShheiyigd7+OFjj+uQpVnGpAJ2HLBVOhpiEhzb6+g0HwZgwUgmeQuKKYMtoDWUAxRyPHRHdEecmvxZhR48Uu2gvAfdcscom7oPhzy25pLZjQH2CbdK68kMs/H8ddC4e+SOzqVO0eDB+yV38YXcwZdohBz9DSsvykVZr6pFWxG1y6JcymW5KqGV2apc1O0LrM8W1kvYkHb2mXBThmgyrCddxnhanXP06ENHy1v4DkojA0V4nYOiMNkf6G1ExHdIIpWC6g14Iu6Ctnpw1yFNofDAXm9nJzP2geN2F9pocG/YnXWv/ovEvFrBarGUeVUtOEDVZXm6FJXgS9lWkOUvJD5bEk8jWncKA2hNsw+C84TcboIiO5uGoIlDFRnhF4df76ZJSrRRbacD4kgjdJj4M8GxFqQyvWdDRK4re1K6OWJcbPyeeO+s38YJOk3SGLgfFYoNsFbzAOxsx6prD3N8pyJ+KZxE/v6FzJ7A+OYnx4ieTA==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "858e1127a800813be5bbc012fde4a21c",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Beachten Sie speziell bei kleiner Brennerleistung, dass die Brenner Pad-Oberfläche mit maximal 30% glühender Oberfläche belastet wird. Sollte die Pad-Oberfläche zu stark glühen (deutlich mehr als 50% glühende Oberfläche), so kann dies zu einer thermischen Überlastung der Pad- Oberfläche führen.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJyFUl2P0zAQ/CurSEgg9Zpcm7aENyqQeDmodPB0nKytvWlM/RF5HbgP9b+fHXICFQSRotjZmdmZtW8eCzJkyUWhVfEGimbRNKvNmmjdrlAu9isp66aWWLftSr5W62IGhaWICiMm/GORF4L9ECQ970nIQOkzCl5u6rqqNs2ymleZPNatV7rV/wD0wUti/oW4bOp1s5ynd71ZZFhPwWpm7R2LyczNY5GEs43lclHVp9sECyR9UMJ4idGH0WGPscuy5RemwGXQUmJQicgxYNRc7u5lh8Hugv9GMnKpBndg0XtZKi+HPCy+8I7KZnzENpBzFI6+b8WH97srsb16K97Ne9UWp1Oy0GpDDi2N4/0vZSLE+34kYN8bnbynnOVUNugOAx6Ic+SC3KHIQfv0R7jB7imn3OTGke5i1tgSyi6Sg2tNwD09aDIG9qThaEgnHzD5STuOKewMFDKDSvCpAjtUF5+Sdmu+DlVFtewIrI5g8U5bNLCsXsBhrLWp5FSinMP3ZJAjRfihg5rDtTcm0tjkb+IPA3DEcPxdFV4qGmKaRweWugBoGFbnjc/7vpoBeziic7kXZ+GfoWM3XqFROKOVTMRsMU0A1JT5jxTt1CrNZZ5P4/mgPmLIt+c7fc5TP90+AYwPG+s=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "9b1330464f0b85209fb97b7ded2fdcd1",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. In diesem Fall erhöhen Sie die kleine Laststufe, indem Sie z.B. die Gebläsedrehzahl in kleiner Laststufe anheben oder die Ventileinstellung am Dungs Whirlwind System derart verändern, dass weniger Gasdurchfluss in der kleinen Laststufe erfolgt.\n\nDokumentieren Sie die überprüften bzw. geänderten, endgültigen Einstellungen des Brennersystems.\n\nNach erfolgter Erstinbetriebnahme schließen Sie die Brennstoffleitungen mittels Kugelhahn und schalten den Brenner spannungsfrei.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztVF1P2zAU/StWnrs2adMm2dsQjE0bCGlfDwxFjn2deDh2dO3AAPHfd522KtoD0x6RqFQ19T3n+vjkXF8+JGCgBxtqLZO3LBHpqqmgWZaQwSYr11lWlrlQ67KqZJpXm2TGkh4Clzxwwj8k8aH2bkQB+/9QCwT6mRpmRZ6naVGt0nkayVO9d1Ir/QxgQCfA+wMiq/JNtZrTd1MsI2wA7LX32llf78RcPiTUOMpYrZZp/nhFMAThUNbGCR4cTgoHHrrYdvHNA/oFaiE4SiL6gDxov7i4Ex3H/gLdLxDBL+RoW18PTiykE2M0y79xFhbV9KmPEKwFvHaDqj+cXJzVR2fv6uP5IFXy+EgSlDZgeR91Jf+m7AjhbpgIfBiMJu10zsWubLhtR96Cj0dOwLZJPOhAK7Ud+wbiKYu4cYDfIfb4aJnU4KFn77kxDLD7Oaap2nRg2RcNsciuDWgL7DP3wYdRwYxpK4kR6/fzo/kEOoXGRCrk9GYQunveGcLtyHhgM247aKg9uYoT9Tu5piPMBzCGDGW8Z8fRWPaj02huaTv25Y6qPSMOx8BuALebkRC0Mya59+wWrG6p5yn3kjLXKTPSKmmIG2112Cc6AJUzbZhH3/aWnnOM7/kGvkZ/yKi/Z2C9XBdN2jTQ5DQI6yZdpmuRlbwosyqr0tXrDLy8GTh215NqDfgk9dMcCIIPuH1UgarN/e2ctXAIHy3OGFjZbkEmUAQtOzmEGWL+PNsdyU8x9v8ZuhJUKVUuKG9lIXJZprxUS14s+SqHdP0aupcXunMuuv0VRNfTCfqgbQMBNTSWdz0wLzqjp6RJ9SSXk0wfnFJ0o4VtwHodKG2efRpbMB3vLBvpyqQG3IQpf3afP+YHbm30TiHo52J49QezNaGb",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b908755518c6ce0ad1a788d14ded2e7e",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. 6.5 Inbetriebnahme der Maschine beim Kunden vor Ort\n\nDie Wiederinbetriebnahme des Brenners erfolgt nach gleicher Vorgehensweise wie im Kapitel Erstinbetriebnahme beschrieben, jedoch ist davon auszugehen, dass die werkseitig vorgenommenen Einstellungen weitestgehend den Anforderungen vor Ort entsprechen und so sollte lediglich eine Überprüfung der Einstellwerte erfolgen müssen. Überprüfen sie die Gasart und die gelieferte Qualität vor Ort.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztVFFv1DAM/itWn8e1613vWt42bQKEBkMa8DCmKk3cNiNNqjjdGKf77zjdnZgmBOIRiapVm8T+/Nn+3OttggYHtKHWKnkJSZ4V2IqyKta5FMeykSpbqqUqGrFpsMQqOYJkwCCUCILtt0n8qMlNXuJhjbX0yK8Z8HizWmXZplpmiyw6z+eDU7rVvzEYvZNI9NPiuFqtq+WCn/Umj2Yj+kETaWep3pO53iYMHGksl3m22t2wmUfpvKqNkyI4PzMcRegjbPqR0FPqtZTCK3ak4EXQlF4+yF744dK7W5SBUjXZjurRyVQ5OcVi0QtnMa3mqz71aC36r25s69fnlxf16cVJfbYYVZvsdkyh1QatGCKv5M8ue4fwMM4OYhyNZu6cZ7o/NsJ2k+iQYsoJ2i6JiY68U9tpaDBmuYmBA34LEWO9KOCNbTB4jY0V/YCg0MOFINlri9CgHuDtZBVauHMe3vsQ4xwoXOlgMGHA51rZqCKXVVYWskRRNkUpW5VnTaGKCvMsL/9r5d/Qyrzj/+If8FRcZxrhM7cHvX4uMYI9dwL0rTNdACtkD51BLXtW4CfnO+zR0j1qQrhnqKhEMeqABs49hWeYDbJk4xLtEdwil7gHTQGUuHMWxETfpxnwiHeIQDHgPZeOUAfdRW13aN3AXWGln2tLHMZww3jFDAI3dfZWECfhxLasBvSP5/u5gNjQkYXCZsATA+T4NiYgGFS64/r3gHGovkxZpiRXePTxs5UtA81zdwjMzNjtsTKMNjyasZDt4hfebEGcTkzplSDBVGL4uOzQaGxnsA+TMDpED1yFA+fF02F+J3wU7h1exf7tbn4A7vr+oQ==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "dabd9b0f4f48ed6c7211c354ef4d302a",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Müssen wider Erwarten oder z.B. aufgrund von geänderten Randbedingungen Veränderungen an der Brennereinstellung vorgenommen werden, so gilt dieselbe Dokumentationspflicht und Sorgfalt bei der Durchführung der Änderung wie bei der Erstinbetriebnahme.\n\n7 Betrieb",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztU8Fu2zAM/RXB5y6WLTuOd1vQALtkKLZul64waIl2tNqSQcntuiL/PslN1mKH7TxgBgyb5CP1+ETePCU44IjGN1olb1nS1lhBqXiBecHLOhO82mxwLVSV57ABSC5YMqIHBR4C/imJP42zM0k829hIwvBZCmZVUXBe1YKveExe4qNVutN/AExkJTr3gsjqYl2LVXjXVR5hE9KondPWuOZE5uYpCYUjDSFyXhxvA4xQWlLNYCV4SwvDCfwhlk0/OySXkpYSSIVE5wm8dunVozwAjVdkv6H0LlWz6V0zWZkqK+colntjDab18jRbQmOQ7uzUNe93V/tmu3/XXK4m1SXHY6DQ6QENjJFX8veUU4J/nJYEmKZBB+6hz/QUHsD0M/ToYssJmj6JjU7B05h5bDF2WS0eernXnJfYwaYu17mETLZScaGEKluoWtxgnUSmHr/7CN5/nTnvZNDfsAetkNiOHoB8MG20fqy2KwZz19NsFLu3hvUYU7AwIRxhH8GoFpUOTE0f7C9IL4BnFxgWa52kQG2cx2EIsVCQAsCOYzweSaG5YM6yXg+eKY0OhxbZpb1brmKRxk1dUOngWeTzKaR3ELAt6uWIyzCch+65p0M8ffFGW575hDbxF35HzmvToieNrYHDiKuo+/lKPgDFObnH6yhX0O33HSo7JcWGF1KoVsgqg0xVdV2IDHhXipL/36F/Y4der0TFts/z8HoSrrUfMDne/gQ+rbeZ",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "9a116854e829e928dd8d782d5180208f",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Der Brennerkopf ist für einen vollautomatischen Betrieb ohne Beaufsichtigung innerhalb eines Brennersystems ausgelegt. Die übergeordnete Maschine überwacht die sicherheitsrelevanten Verriegelungen, schaltet den Brenner entsprechend den Prozessanforderungen ein und aus und übernimmt die Leistungsregelung durch Ansteuerung der entsprechenden Eingänge an der Brennersteuerung MPA. Die Brennersteuerung MPA überwacht Gas- und Gemisch-Druck, steuert die automatischen Absperrventile und überwacht die Bildung der",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJyFU8Fu2zAM/RXB5zaxazeud0uQrjssQw7bLm1h0BJta7UkQ5KzdUX+fZSSNOswbAEC2yLf43skdf+S4IAKta+lSN6xpErbIlugyHlRiibLsEhBLKqqaMo2vRFZcsEShR4EeKD8lyS81M5MluPpG2tukR6RMCuLIk3LKk9naQDHuDJCtvIfCaM1HJ07Z2RVsajyGf0X5VVIG9Eq6Zw02tVHMfcvCREHGXl+lRb7R0qzyI0V9WA4eGOjwhF8H2jnXxxaN7eSc7CCgM5b8NLNt8+8B6u21nxD7t1cTLpz9Wj4XBg+hWa5S6NxXsVfvbKoNdonM7b1h9vtpl5tlvV6Noo22e9JQisH1KAwtve/kCPAP48RAOM4SNJOPufH8AC6m6BDFywnqLskGB3ppNaTajC4LOOJPc/1uhU8v0kLnosm52UGmShpqnkGaXudX6dJUOrxhw/Ja7TsN4lMOs/ahylNW24ZSo2a7cwwwOSNCh3jPZ2s0FuJDTO9RvqAqXWS91521D0mA1cPQxPh7sTunp1H5RhMrqM97PyMrSWyQyly0iENT6NHtgGqQtBz7DsQOxOUHuoQO0rvLLHsQHvS8xUt6SFaqo/6ghEeBo8ECWIP9VmY5Ug7QgZEDNDQf9LigW6pMtqIDZrZRAkkMz5fNWip1EHDR6QmhT2xx5JM0JXo2VKTwykSEf/bgsR8K3UX2LCgQgx0zDk15xW42S4Pjflb5M+O3IG7jCrvUIXRXK7txJ/IfwQd1L6d3LJxdJvsjrTR5r11eO7ySg7i5OL9AErhLGzjaVE/gQ23Z4efwxLtH38Bc2989g==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "a456bc395cb89927f206070105067386",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. ennersteuerung MPA. Die Brennersteuerung MPA überwacht Gas- und Gemisch-Druck, steuert die automatischen Absperrventile und überwacht die Bildung der Flamme.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJyFU8Fu2zAM/RXB5zaxazeud0uQrjssQw7bLm1h0BJta7UkQ5KzdUX+fZSSNOswbAEC2yLf43skdf+S4IAKta+lSN6xpErbIlugyHlRiibLsEhBLKqqaMo2vRFZcsEShR4EeKD8lyS81M5MluPpG2tukR6RMCuLIk3LKk9naQDHuDJCtvIfCaM1HJ07Z2RVsajyGf0X5VVIG9Eq6Zw02tVHMfcvCREHGXl+lRb7R0qzyI0V9WA4eGOjwhF8H2jnXxxaN7eSc7CCgM5b8NLNt8+8B6u21nxD7t1cTLpz9Wj4XBg+hWa5S6NxXsVfvbKoNdonM7b1h9vtpl5tlvV6Noo22e9JQisH1KAwtve/kCPAP48RAOM4SNJOPufH8AC6m6BDFywnqLskGB3ppNaTajC4LOOJPc/1uhU8v0kLnosm52UGmShpqnkGaXudX6dJUOrxhw/Ja7TsN4lMOs/ahylNW24ZSo2a7cwwwOSNCh3jPZ2s0FuJDTO9RvqAqXWS91521D0mA1cPQxPh7sTunp1H5RhMrqM97PyMrSWyQyly0iENT6NHtgGqQtBz7DsQOxOUHuoQO0rvLLHsQHvS8xUt6SFaqo/6ghEeBo8ECWIP9VmY5Ug7QgZEDNDQf9LigW6pMtqIDZrZRAkkMz5fNWip1EHDR6QmhT2xx5JM0JXo2VKTwykSEf/bgsR8K3UX2LCgQgx0zDk15xW42S4Pjflb5M+O3IG7jCrvUIXRXK7txJ/IfwQd1L6d3LJxdJvsjrTR5r11eO7ySg7i5OL9AErhLGzjaVE/gQ23Z4efwxLtH38Bc2989g==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "7b4589e7df759190c97fe13760a6a10e",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. DUNGS Brennerkopf HEPM-BH\n\nSeite 7 von 16\n\n2024-02-22\n\nDUNGS Combustion Controls\n\n8 Wartung und Instandhaltung\n\nSämtliche Wartungs- und Instandhaltungsarbeiten dürfen nur von dafür qualifiziertem, sachkundigem Personal durchgeführt werden. Das DUNGS-Servicepersonal erfüllen diese Anforderung.\n\nDUNGS empfiehlt die Wartung alle 4000 Stunden mit Flamme oder mindestens einmal pro Jahr.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztltuO2zYQhl+F0HVsUyJ1YO+y3ZwKZGFgE/QiDQQehpYSiVJJatt0se/eodfbuq2RtpcObMAwSc0/nOF8HvHDfQYDjOBi25vsO5KxumlkWWpbNMoyabVltTXUMttUpuFl9oxkI0RpZJRof5+lQRumxWt4mkOrPeDP3mFec05pLRhd0yTePx8n09v+KwaznzSE8KdFLngl2Bq/VV0ksxn82IfQTy60h2A+3GfoOIXBWEH5w0c086Anb9ph0jJOfh/hLGOX3G7eB/Bh43utpTcoDNHL2IfN9ovupB+3fvoEOoaNWdwutPOkN2bSSzqssJocbMT+0155cA7852m27esX27ft1dvn7fV6NjZ7eMAQbD+Ak2OKK/t3yUEQv8x7gZznocfYMc/N4fEg3W6ROwgp5QzcLkuJzrjSumVUkLKs08YRfo3Jx/X7m1e35GhPkvZcXb1O3p42ejlNEaWo+zsSTZWXIqfSFIpWXDS0LkqlWC4qCqo04oLE+SFxC30EUpO7yZG8OuZgi6KbR80JFqzmqoSm5hKMMLYUpobKlNgscsYVFBcWzo+FghZ8RYtVUfy3fgCloKai2BMEa7itOC1KW4uaVyV2Bnph4DwYaP75ivh+GtUSkiMcuuinIRwj8WZEB6eI4HjkrDHAcq20Lhk1StFcU1WpJtcFXIg4PyIa8qP0EZMgizPkjQtROtPJIS0dQ/Guj8NJKBgrG8ahYDTHuyO3jeBNWdOSMWENv1wbzgWK/Yr/H3/2v9wzflooBT5G3LqDJ6TC6gRUQXqVbiWOmCSy2lscu8XvLylG2sMq+XmRA9b8tx58hPEZCVJ3n9Ffv4ORbLEQk5MDMchRt4ODqvOR/ALegFuTaxnIvt+tbsHf9RrmJw34g/kwpDB6CECeO4tlB48Rro+5v5E+1fgO3qVUT/BfC6EEY4aWTa2YrCWtWCFBiSqNHwtw4f8b5//xvQrjjDXqhpiY+qOvSqSMYMEoucU5oknGPpKXgxxHIHiIHucunSW4QKB3IxKK1SQ/yM5/DcWPvwP9HwrE",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "5387b717f22f9097c0581027b81b148e",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Verschleißbehaftete Bauteile bei der HEPM-BH Brennerkonstruktion sind die Zünd- und Ionisationselektrode, sowie das Brenner Pad selbst als flammenberührtes Teil. Die Zünd- und Ionisationselektrode sollte bei Verschleiß ausgetauscht werden.\n\nDie bestimmungsgemäße Lebensdauer des Brenner Pad beträgt 20.000 Stunden an Flamme bzw. fünf Jahre. Es handelt sich dabei ausdrücklich nicht um eine garantierte Lebenszeit, sondern um den nach sorgfältigen Ingenieursregeln ausgelegten, bestimmungsgemäßen",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJztU8tu2zAQ/JWFzolNWbJi9VYjKZKiKQz0cWgaCEtyJbOWKIGkmiZB/r1L2WnQHNLeWwN+rWaXs8OZq/uEWurIhsro5BUkhV6IYinzokiLMherE0xlmacLzPJstUhlcgRJRwE1BmT8fRJ/VL4fnaLH/1QpR/w1DUxP8lyIkzITMxGbp+ddr01tXgAMrlfk/RMiLfOizGb8Lk4WETaQ64z3pre+OpC5uk94cKSRZQuRP1wzzJHqna7aXmHo3cRwwLCNY+efPDk/d0YpdJobfXAYjJ9vbtUWXbdx/TdSwc/1aBtfDb2a616NUSx/3Fual9OrWjuyltyuH+rq/GxzWa0vX1ens0HXycMDU6hNSxa7yCv5c8uhIdwOUwMOQ2uYO+85Pzxu0TYjNuTjygnZJomLDlyp7NhJiluupop7utechctWmrJUSaWWmdBSilQJWchVqhaURKaBfoQI/sy6qG1L5usohK4lbbEOFAjWOAZidiDJgCYHkfzx+hx+LWRZxHEX6YI3VoM2BF/imFpZfQwjly56a/y0kWfv7YJj6Y/A9zcM1egfZ8EGNTBC+gDYeqhb7Fh73m8/busCefjIdGZw+nen8CFtG/bsn+0IOPqGfT1yMcANOU12FtV+vIj36KI7vtPHKBKr9Tw5mmS6ELgsl2mNYqkQs0yUGa1QqFIU6n9y/oHkRCNKlsN0XVy9oS7ai/K9yQjekSTrNY7sb5btN69LCm6PbgIs+E6FgA+BvUwW0MKbyf8g725mUB+8XsNb3DqawZmHLTKyDRw7teUcRY+zm/UhLWrXxro10d5jB2QsQYMObTDESTowuyMTYhZ5lLMRFw+3yJ2+d029p9cG03D5wvKnodF5Rw21dh+hlppA9uglFewLubr+CaQqKUQ=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "5199f141b76c69e6f900f69f9022e0ea",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. den nach sorgfältigen Ingenieursregeln ausgelegten, bestimmungsgemäßen Verwendungszeitraum. Weiterhin ist auch eine Verwendung über diesen Zeitraum hinaus möglich, wenn der Brennerkopf im ordnungsgemäßen Wartungszustand ist und im Rahmen dieser Wartung bzw. im Rahmen des Betriebs keine Veränderungen in den Verbrennungseigenschaften des HEPM-BH Brennerkopfes festgestellt werden. Im Rahmen der Wartung wird der HEPM-BH weiterhin einer visuellen Überprüfung des Brenner Pad im Brennerstillstand unterzogen. Dabei",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJyFVNtu2zAM/RXBz23ixK6T7G1BB7QYOgS7FVhXGLJE21pt2aDkZk2Rfx8pJ00ehi2AbxLP4eEhlYfXCBpowfrc6OidiJaLNJtfJSnA4ipbLuQslTNVlCqLZ4sskSq6EFELXmrpJcW/RvySu25ABcdvyBUCPQLhbJGmcbxYJfEkZnDYbzttSvOPgB47Bc6dImarNFslE7qyxZzDesDWOGc66/KDmIfXiIhZRpLM43T/SGEIqkOdN52SvsOgsJe+ZtrpNwfopmiUkqgJ6DxKb9x086Jqie0Gu1+gvJvqwVYu7zs11Z0a2Cx32VmYrsIvXyNYC/jU9WV+82Fzl6/v3ufXk16X0X5PEkrTgJUt64r+DzkA/EsfALLvG0Paqc7pYbuRthpkBY5LjsBWERfa00puh7YArnIZVvDU15SMS5YaEuqmUldJrIsinqm4yIrlTM0hYqUefnsO1mCFlaoWrsOq/DnEMaSNNxUt31q6GxjQIVTQWCEHR0+oPNgLUZCHpm3ZrwraEch3XRL0O+AWbDBzB4a8HtqJuKc3wNpYYZwnMkoKxsJZsGCCUlFdQhtwRPTjgBYEo/QiJCqzioyqLwTBrNAUfWayMK2gMbB/F3Yv0QdVg/PS6qBk4GcrPsua+j0mxmOgKHbbyfkuOLEGjwYKJ56O8scklpQM7JkwHBhcKFgYJwS21NGwlf5Aw8Nwub45106rdHnqt4em8VQfEs9E3J7lP0nbGtRh4ci0fTOYhaF4Nm4gHoKF+tnXHkeLSyYIxYzZxUYGEw6f1NqmGR0aLHHuuop1XMsCDE1K0wjXw84QOfWxFB87xI7PZxgLVY9+aEOTIr74UQK7XNEcFWDBlpLoxW4QlAOfhKa/lLoZUXTO2cIj7KQpSKyAZtXDmzV8SI7n55NEPtTP8JVne//4B2gZsac=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "eea0d2330a00c7bb18b1b5ef35322066",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. tgestellt werden. Im Rahmen der Wartung wird der HEPM-BH weiterhin einer visuellen Überprüfung des Brenner Pad im Brennerstillstand unterzogen. Dabei soll speziell auf Korrosion, beschädigte Stellen und gegebenenfalls zu stark durchlässigen Stellen im Brenner Pad geachtet werden.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJyFVNtu2zAM/RXBz23ixK6T7G1BB7QYOgS7FVhXGLJE21pt2aDkZk2Rfx8pJ00ehi2AbxLP4eEhlYfXCBpowfrc6OidiJaLNJtfJSnA4ipbLuQslTNVlCqLZ4sskSq6EFELXmrpJcW/RvySu25ABcdvyBUCPQLhbJGmcbxYJfEkZnDYbzttSvOPgB47Bc6dImarNFslE7qyxZzDesDWOGc66/KDmIfXiIhZRpLM43T/SGEIqkOdN52SvsOgsJe+ZtrpNwfopmiUkqgJ6DxKb9x086Jqie0Gu1+gvJvqwVYu7zs11Z0a2Cx32VmYrsIvXyNYC/jU9WV+82Fzl6/v3ufXk16X0X5PEkrTgJUt64r+DzkA/EsfALLvG0Paqc7pYbuRthpkBY5LjsBWERfa00puh7YArnIZVvDU15SMS5YaEuqmUldJrIsinqm4yIrlTM0hYqUefnsO1mCFlaoWrsOq/DnEMaSNNxUt31q6GxjQIVTQWCEHR0+oPNgLUZCHpm3ZrwraEch3XRL0O+AWbDBzB4a8HtqJuKc3wNpYYZwnMkoKxsJZsGCCUlFdQhtwRPTjgBYEo/QiJCqzioyqLwTBrNAUfWayMK2gMbB/F3Yv0QdVg/PS6qBk4GcrPsua+j0mxmOgKHbbyfkuOLEGjwYKJ56O8scklpQM7JkwHBhcKFgYJwS21NGwlf5Aw8Nwub45106rdHnqt4em8VQfEs9E3J7lP0nbGtRh4ci0fTOYhaF4Nm4gHoKF+tnXHkeLSyYIxYzZxUYGEw6f1NqmGR0aLHHuuop1XMsCDE1K0wjXw84QOfWxFB87xI7PZxgLVY9+aEOTIr74UQK7XNEcFWDBlpLoxW4QlAOfhKa/lLoZUXTO2cIj7KQpSKyAZtXDmzV8SI7n55NEPtTP8JVne//4B2gZsac=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "a277be791f49ca4c6ace0831abbd4113",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. den nach sorgfältigen Ingenieursregeln ausgelegten, bestimmungsgemäßen",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJyFUE1PAyEQ/Ssbztr9bl1vGk30YNKDntQQCrMUXT4ywyaapv9dWGu8KQkzwLw3vDfPBwYTWHCRG8UuCyagVn2/HmTdD11T92qQY9PKXkLVQLMe2VnBLEShRBQJf2D5wMnPKOHnDlwipLQ0rDddV1Wboa1WVSYvdeuVGc0fgIBeAtEvoh669dCu0l5vmgwLgNYQGe+In8Q8H1hqnGW0bVN1x9cEQ5AeFZ+8FNHjojCIuM9tyycCpBKNlAJVIlJEEQ2V20+5F2i36N9ARirV7DTx4GWpvJzzsOjcOyiHZfFrBOcA330Y+d3t9oFfP1zxm1VQIzsek4TRTOCEzbrY/5QTIX6GhSBCmEzSnnyWp/IknJ6FBsqWGTjNstGQXrib7Q6yy4v8cYSPmHsocIUTcl+QRz2+zFUF3RSNTs/3LkUDMxKChskVYqaUQUdwZ8UujcRYm+1rsN/EHNUILiv5Eflo4gTs+PoFcrq/OA==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "8c7058ede9747aa7c0264e0f6873e35a",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Ebenfalls im Betrieb soll die Flamme auf ihre gleichmäßige Ausbildung über das gesamte Brenner Pad kontrolliert werden. Ein Abheben der Flamme soll vermieden werden. Weiterhin wird im Rahmen der Wartung die Brennereinstellung bei Klein-, Mittel- und Großlast überprüft und mit den Einstellwerten der Erstinbetriebnahme bzw. Wiederinbetriebnahme verglichen. Die Abweichungen zu den Einstellwerten der Erstinbetriebnahme bzw. Wiederinbetriebnahme werden dokumentiert.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJytk01v2zAMhv+K4HOb2I6dxLulaLYBQ4dg2NBDVxiyRNta9WFQcrO2yH+f6LgrsMN2mYE4CvWSfF5KuXtJQIMBG2olk3cs2RRQrmWzTas25Vto17wosy3PMwDeZHmZXLDEQOCSBx71Lwktau9GFPD6G2qBEL+mgtmmKNJ0U63SRUrJ075xUrXqL4IBnQDv3xRZVayr1SJ+1pucZAOgUd4rZ309w9y9JLEwYaxWeVqc7qMMQTiUtXaCB4cT4cBDT2WX3zygX6ISgqOMiT4gD8ovD0+i52gO6H6ACH4pR9v5enBiKZ0YaVj+0llYVtNTXyFYC/jghrb+uD/c1Fc3u/p6Mcg2OZ0iQqs0WG6IK/l3ypwQnoYpgQ+DVpE9+lzO25rbbuQdeLKcgO0SMjrESG1H0wC53E4RfDtXDpksy3UlsrIq8qyUlWjzlSgFpDnk64gaMwL8DCTeN2BbrrVnyrArCKigYd5pzaQC9l5zY4DxsWWqR2CdBiV6831MUyjoLVvVAduNvlGaZsco2IpIxiT3LJJzE4DNQ2AHLtmDswFjAwUY2BFQgl2wvbJs1/QQaZiMwrnxBPJIxw9R9lt9CyoA9jHnqFAS+Rfemzn1lmMgEuKf+4KyPoDWFG5AsU/Rhr28YDcqxPAlG61kH9CdDWnuw5uNAc/LNkwqowIjkv1cMRKFue8efVC2OY/QEg9rno8Rltjxj53oqYuH3ZOb6wi6a4402QgYqz2P/6XHeVpMuofpItO8F3SpXu/bZ470J3iEr3QXTve/AP8AZgM=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "582179cd06e0162ac001ca5bf33b22bf",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Hinweis: Verschmutzung und unsachgemäßer Betrieb",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJyFUMtuwjAQ/JXI55YE4hDCraiVuCBxaHuhyDL2JriNH1o7aini32tHoN5aS+vXzoxnvDsT6EGDCUxJssxIW8qaz+ezquZCVoK2oqLNjJaLaVVxeijIXUY0BC554BF/JmnDvB1QwO0MTCDEZRSc1pQWRd2UxWQkj31tpWrVHwCHVoD3v4hpQ+dNOYk1r2cJ5gC18l5Z49nVzO5MonCyUZazgl72EYYgLErWW8GDxdGh4+GYZPMXD+hzVEJwlJHoA/KgfL49iSNHvUX7DiL4XA6m88xZkUsrhvRZ/t4ayJtxsBWCMYAf1rVs/bTdsNXmgT1OnGzJ5RIttKoHw3XyRf6nXAnh5EYCd65X0XvMmV/bPTfdwDvwKTIB05EU1MUbZgZ9gJRykR4O8BWSxlqZT1B+mb3GvOKoh/AdE2WDkbE8F8cO9NtQFEDTLFvAbAUBFRzSczcnzyr0QC77H0MHtMQ=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "23289e1dd54539fe38b14d59addf5cb7",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Durch Verschmutzung oder unsachgemäßen Betrieb kann sich der Druckverlust des Brenner Pads während der Lebensdauer erhöhen. Für die Maschine resultiert daraus eine reduzierte Brennerleistung speziell in den oberen Lastpunkten. Im Rahmen der Wartung überprüft der Servicetechniker, ob die maximale Feuerungsleistung noch in einem für die Maschine akzeptablen Bereich liegt. Sollte dies nicht der Fall sein, so besteht die Möglichkeit, das Brenner Pad auszubauen (bei Punktbrennerköpfen), zu reinigen mit einem",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJyFU+9v0zAQ/VesfGJSadMmTRe+MY0B0oYqBuPDmKKLfUlMHTvyj7F16v/OOemYkBBUauPevTu/9+5y+5Sgwh61r6RI3rBkUxaYnpZps86K1bJcpdlyXYhlWucr3KSnmMxY0qMHAR4I/5TEQ+VMsByf/2PFLdJjbLjc5HmabsosnaexeMz3RshG/gMwWMPRuRfEssyLMpvTt9isImxA20vnpNGuOpK5fUqocaSRZas0P9wRzCI3VlTKcPDGjgwH8F1su/jq0LqFlZyDFVTovAUv3WL7yDuw/daaH8i9W4igW1cNhi+E4SGa5V4bjYty/FRnFrVGuzNDU314t72qzq7eVufzQTTJ4UAUGqlQQx95Jf8vORb4x2EsgGFQkriTzsUxrUC3AVp0UXKCuk2i0IEilQ59jVHl6RixL3NtMrGBolitN8DFmucNX+flKs9Ol+s15HWaRKYeH3wEn9M0O3ZD7vCuD35P+hn5Y1nQDnjXYv89pCnm8Vc0qNkZeiuxZjvQmjlJxRF9bgPf3aNVwXkKOHaUzbYgHPs59egoJkb4JdaonYBAZ7RdTDdFh3rOLsYzt0xIZFdArKRGZtEF5SVaag4WgmM4hUXYxyg+36dQOh81uAEpoxSTmm7UzJBZ9LgE54egdz7e9bFnn6GjIY+cvoEdKycCBB/sdGz8mL9Gey85euSdlju0M+o5suzhQfagkF0g6YkL9JuFNuQPMYhse9b8VRvs9jh4qNVorsVoqZLY+jm7NkqRNoI7pik+EbkAkuWo5Yw5w2raZYyZ2HMysqU16nYo/Yzc+mMUjKzbh5p81+xVjZJtoxf1cUWn6oGmfDJj+0D2Si1bgvbSHyXcwC6Enr1HO43UT8ty7SHUDkJL51djZEsjcyo0/mRCjBcTikST9XG3n9f+E9j4Lt7jl7iSh7tf8cmTZw==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "74e324ad639d4be1dcf2312ff4f7a8df",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. ereich liegt. Sollte dies nicht der Fall sein, so besteht die Möglichkeit, das Brenner Pad auszubauen (bei Punktbrennerköpfen), zu reinigen mit einem Vakuum Gerät oder Staubsauger (oder Pressluft) oder auszutauschen.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJyFU+9v0zAQ/VesfGJSadMmTRe+MY0B0oYqBuPDmKKLfUlMHTvyj7F16v/OOemYkBBUauPevTu/9+5y+5Sgwh61r6RI3rBkUxaYnpZps86K1bJcpdlyXYhlWucr3KSnmMxY0qMHAR4I/5TEQ+VMsByf/2PFLdJjbLjc5HmabsosnaexeMz3RshG/gMwWMPRuRfEssyLMpvTt9isImxA20vnpNGuOpK5fUqocaSRZas0P9wRzCI3VlTKcPDGjgwH8F1su/jq0LqFlZyDFVTovAUv3WL7yDuw/daaH8i9W4igW1cNhi+E4SGa5V4bjYty/FRnFrVGuzNDU314t72qzq7eVufzQTTJ4UAUGqlQQx95Jf8vORb4x2EsgGFQkriTzsUxrUC3AVp0UXKCuk2i0IEilQ59jVHl6RixL3NtMrGBolitN8DFmucNX+flKs9Ol+s15HWaRKYeH3wEn9M0O3ZD7vCuD35P+hn5Y1nQDnjXYv89pCnm8Vc0qNkZeiuxZjvQmjlJxRF9bgPf3aNVwXkKOHaUzbYgHPs59egoJkb4JdaonYBAZ7RdTDdFh3rOLsYzt0xIZFdArKRGZtEF5SVaag4WgmM4hUXYxyg+36dQOh81uAEpoxSTmm7UzJBZ9LgE54egdz7e9bFnn6GjIY+cvoEdKycCBB/sdGz8mL9Gey85euSdlju0M+o5suzhQfagkF0g6YkL9JuFNuQPMYhse9b8VRvs9jh4qNVorsVoqZLY+jm7NkqRNoI7pik+EbkAkuWo5Yw5w2raZYyZ2HMysqU16nYo/Yzc+mMUjKzbh5p81+xVjZJtoxf1cUWn6oGmfDJj+0D2Si1bgvbSHyXcwC6Enr1HO43UT8ty7SHUDkJL51djZEsjcyo0/mRCjBcTikST9XG3n9f+E9j4Lt7jl7iSh7tf8cmTZw==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d0b5c33b96d6cd827e0d7365112f1559",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. DUNGS Brennerkopf HEPM-BH\n\nSeite 8 von 16\n\n2024-02-22\n\nDUNGS Combustion Controls\n\n8.1 Ersatzteilliste\n\nTrotz kleiner ´konstruktiver Unterschiede zwischen den unterschiedlichen Brennerkopfgrößen und - typen, lässt sich anhand des schematischen Aufbaus eines Punktbrennerkopfes, wie in Abbildung 2 dargestellt, die Zusammensetzung der Ersatzteilsets nachvollziehen.\n\n10 50 20 120 30 40 70 90 130 80 60 100 110 130\n\nAbbildung 2: Aufbau Brennerkopf (Punktbrenner)",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJztV0uP2zYQ/iuETi2wXpMUJZG5ZZu06SELA9m9NA0EPka2ar1AUpvGi/3vHbobrNoabXo0YAO0yOE8Od9wpI+PGXTQwxDr1mWvSNa40kBZ2byEXDGg3JWFMbZimjWmaFx2RbIeonY6auR/zNKkDuPsLXxdQ2094OOokFVCUFqpnF7TJHzc70fXNu2/MEx+tBDCCwdTolT5NY6y4oltAt+3IbTjEOpnZz4+Zqg4uZHnnIqnT8jmwY7e1d1odRz90cNJx11Su74P4MPat9Zq71AwRK9jG9abL3anfb/x429gY1i7ediGehrt2o12TocVVuMAa3X81TcehgH8fpya+t3bzfv65v3r+s315Jrs6QldaNoOBt0nv7L/FnkWiF+mo4Cepq5F3zHO9fN2p4ftrLcQUsgZDNssBTohpR7m3kCKUibDEX6PSceb+9ufPpCFTZJsrm7eJW1fDf04jhFFUe7vkFC5zKHg0hklFC0pZypnOeNFpZjltLpA4vwg8QHaCESSh3EgrPw2HAhZsTxvtNHUcsMpgGWSs0rLykhw5QUH54cDTrlYUb7ifImBDQrc/sl/AgfOUGEBlAJNQTPXaIvQkFI7SZ0o9QUHZ4ED9c8W8cPYmzkkRTgdoh+7sITFzz0qOIUIXTamEbyqnBa54yB5lRcMmIXCaq74BRHnhwh5zchbH3Q8RGi7rg0Rlli4a2N3EgtGQFPkFEqXF1IgBozF1wbH8gYvDW4uXeJMsHCk+P9R40vw3PkxHsi+gxadJL/OlBqxx4OOft7H9gFp9wO+ZQS7wxwCOXxucQoDcTjmlx10PFEXwW59UtaU6d81R25HViQFO1yRLpFBhBBJQFGih53GfUwMSfr7lJyjxtdzY/QcSPIvkM087KN5MQLhinxugbTIaEzbpfQRTpz2eGYRui5eEYf7v8xB95jNAPGQWBzG9VIySA1k0Hb3MHbdoQW0e72soFvtE1oe4C4d2qlbtaIaG2qjCqGww5bAJGilrOKlEGUpLpV0HpW0LAxGSUEJp4ThyCkRlFSUKFzjQlJS4oziYEfKNzVfyyXVHPAT3TlwhamUzAtwMq+EtGDhApPzg8ni2nn1fFn95fv9u+WV9f2JvvzpD+0/rbs=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d3c746a665d4d801aae8195db5bb4978",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Für jede Brennerkopfgröße gibt es bis zu 6 Ersatzteilsets:",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "orig_elements": "eJyFUE1PxCAU/CuEs25bW1vxplHjxWQPelJDKLxWtAXyHk3Uzf53oVmjJyXh883Mm+Fxx2GCGVyU1vBzxvu2E6d1cwqdaM90V1WiL6GvGjBCN/2g+RHjM0RlVFQJv+P5IMkvqOH7DlIjpG0VrLqmKctO1OWmzOS1PntjB/sHIKDXQPSDqETTinqTZtudZFgAnC2R9Y7kwczjjifhbKOuT8pm/5xgCNqjkZPXKnpcHQYVX7Js8UCAVKDVWqFJRIqooqVi+6FfFM5b9K+gIxVmcSPJ4HVhvF7yZ9Gxd1CIdchLBOcA33wY5O319k5e3l3Iq00wA9/vk4XBTuDUnH3x/ykHQvwIK0GFMNnkPeUsDuVJuXFRI1COzMGNPAcN6UW6Ze4hpxS5cYT3mDVunpayHDSyVzDAfvUeca20eTUDsNH2kQGx3hL7XFjLrpFU/IxgJ4JI57n7t7F7Gyfg++cvPA25Yw==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f449a0204acc23a6cd875eb5fa6b6360",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Ersatzteile Besteht aus Stückzahl Anmerkungen Brennerkopf komplett Nr. 10 - 130 1 Fertig montiert und geprüft Flammrohr komplett Nr. 10 - 50 5 Fertig montiert und geprüft, nur für Punktbrennerköpfe",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ersatzteile</td><td>Bsteht aus</td><td>Stiickzahl</td><td>| Anmerkungen</td></tr><tr><td>Brennerkopf komplett</td><td>| Nr. 10 - 130</td><td>1</td><td>Fertig montiert und geprift</td></tr><tr><td>Flammrohr komplett</td><td>Nr. 10 - 50</td><td>5</td><td>Fertig montiert und geprift, nur flr Punktbrennerkdpfe</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNUl1r2zAU/StCz21s144Tj1JoWMteOgLdnroiZOk61mJ9IMmwNM1/n2S7abZu6wxGV1f3nnvOkR72GDqQoDwRHH9AOEvTRXVBy2K5XKY5BV6W82WxLMomK6qiqfAZwhI85dTTUL/HMSBO95bByx4IsxCWEXBRFBEzT2dpbB7OpeaiEf8oMFYzcO61IquKsspn4S8XF7HMgJXCOaGVIxOZhz0OwJFGnl+kxeExlFlg2nLSaUa9tgNDQ30bYZOvDqxLrGCMWh4anbfUC5esd6ylVq6t/g7Mu4T3auOI0SzhmvXRLHeuFSTV8JGVBaXAbrVpyKeb9R1Z3V2TjzPDG3w4BAqN6EBRGXnh91umBr8zQwM1phOBe9CZTMcdVZuebsBFyRjUBkehJmSI6mUNUWU1ZOzrvdbloprnxRwWVblkiyyr6hTqrABesaJuWAT28MMT6kjrZRd7Lj2tO7i69C1QHhYbw6sb66h/8hBIXiZhH3Mr56H1iPbumLr3QrDtE227Y+oZXSsZVAc7QY3ZJIImLwNqzXfTHH514hHaammCJz6U8uHwGX22M5Sl6BxleXpMZ8foFqwXGyS18iKEqFccbcBY0Uwgw+Rp1G1HpbS6tW8HHcfMX6fM/2fKGVK9RU1n0bpXW19Parhp4IRAMmlORqvxYbqGaP+J0WgFR4fRvf/Wp2nDRndPPUV/8uwXp1CG/sZ5BG08eusGOnEBzd9FmKSP29/0D8kymDA8uOmRf4ni8eHxJ0g9f9Y=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "517a01bf5d452e944aa8ec319ecc6c80",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Ersatzteilsets Enthalt Stiickzahl Anmerkungen Pad und RSS Nr. 10 (Pad) Nr. 30 (Rickschlagsicherung) 5 5 Nur fiir Punktbrennerképfe Elektroden Nr. 90 (Zind.- und onisationselektrode) Nr. 100 (Schraubring) 10 10 Nr. 100 fiir Brennerkdpfe P D130 und L-Exxx: 20x Schraube und 20x Mutter E lektrodenstecker Nr. 110 (Elektrodenstecker)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ersatzteilsets</td><td>Enthalt</td><td>Stiickzahl</td><td>Anmerkungen</td></tr><tr><td>Pad und RSS</td><td>Nr. 10 (Pad) Nr. 30 (Rickschlagsicherung)</td><td>5 5</td><td>Nur fiir Punktbrennerképfe</td></tr><tr><td>Elektroden</td><td>Nr. 90 (Zind.- und onisationselektrode) Nr. 100 (Schraubring)</td><td>10 10</td><td>Nr. 100 fiir Brennerkdpfe P D130 und L-Exxx: 20x Schraube und 20x Mutter</td></tr><tr><td>E lektrodenstecker</td><td>Nr. 110 (Elektrodenstecker)</td><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytVduO2zYQ/RVCTw2wtiRbslbBYoEs1r0A3dZYNy9JA4EiRxZriRJICvHuwv/eoW6+xHGBoAYMUcO5nJk5x/785kABJUiTCO68J85tmNIZ8zM+j0IW+lEKsyi65beM8dibwcK5IU4JhnJqKPq/OfaQ6KpRDIZ3SJgCfLQJ/SgIPC+K597Us8HtfVlxkYkrDrWqGGh98PDjYBHPp/hdRDPrVoMqhdaikjrpwXx+czCxhTGfz7xg/wXdFLBK8aSoGDWVahHW1OQ2rftRg9KuEoxRxTFQG0WN0O7qheVUlStV/QPMaJc3cqOTumIur1hjh6UnlQQ3bj/JgwIpQW2rOkt+Xa6ekoenD8njtOaZs98jhEwUIGlpcTn/HdIHmJe6DaB1XQjEjn26/XVB5aahG9C2ZQfkxrGN1mhJZFOmYLuMW4s67DVdRHE4D0KI4sUti3w/Tj1I/QB4zII0YzaxgZ1JqE5yUxY25s7QtID7O5MD5fhQ9ni/VJqaVwOi0GD0nYum1ixNTgszvq+NEGz7SvNiNH2QJfaMwwTZ2Vyb0h3SpxV/6avw+xXlpJGcPK/X6MFb2x9qSnyP/IR374h9mePLM1bRLC/oRguWg8L078aIkISH6EaRTAhFVo3cmrTfwN+N50FcZ9D5tYh6CMsCtkYhL+QJghiLfhKSTyctwEoK3a5Hw+DfgfM9dFyzXNEmVeIYFfbge2ddeR22gRgcEZEVefSxRVvl98lyt9u9JzNvR/qc0F5Yw1NjDKgLDZCxA22AbQefoaid5fLc5QDz7HCc+RFHbYZFHmWcYcbhjrx+FbgYkORnZCyeWrwoqlcU9paWyIV+UHaNf06exfdi+qHgb06NfRJdfRUwGDeQ00YPIw8u1j+Ltyl/gbSgGm6ItN6EphtIRcHBHG/ptLf52YpG5pDV5NELvJv2uTjdV7gj1+dxiu1o0m6vB7cTobPvBWqFeSpBYqXXogkKQ9bGHjPWaY8caY4caYqcaCkkrTi6wAsCyRa2zVFxQ4Fz2WGeA53IqJXOfRQMVh0pP1R8+KbYakJ+uyiti5K4qDdb6TtaId/QnlxRBDnQnVyheTiy+UpfV7SAxS8w6f9QSEeOVibhj1LzBwTWlb2osvbvpv+L+8sS3Nl/+Rd1pdES",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "617ec37142b728fcc0d2a5b4f04be618",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Dichtungen Nr. 120 (Dichtung zwischen Flansch und Prozesskammer) Nr. 130 (O-Ring zwischen Flansch und Brenneradapter sowie Brennergehause) Nr. 140 (Dichtung zwischen Brenneradapter und Geblase, nicht abgebildet) 10 Nr. 130 fiir Brennerképfe P-D040, P-D060 und L-Exxx: 5x Dichtung zwischen Flansch und Brenneradapter",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Dichtungen</td><td>Nr. 120 (Dichtung zwischen Flansch und Prozesskammer) Nr. 130 (O-Ring zwischen Flansch und Brenneradapter sowie Brennergehause) Nr. 140 (Dichtung zwischen Brenneradapter und Geblase, nicht abgebildet)</td><td>10</td><td>Nr. 130 fiir Brennerképfe P-D040, P-D060 und L-Exxx: 5x Dichtung zwischen Flansch und Brenneradapter</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytVduO2zYQ/RVCTw2wtiRbslbBYoEs1r0A3dZYNy9JA4EiRxZriRJICvHuwv/eoW6+xHGBoAYMUcO5nJk5x/785kABJUiTCO68J85tmNIZ8zM+j0IW+lEKsyi65beM8dibwcK5IU4JhnJqKPq/OfaQ6KpRDIZ3SJgCfLQJ/SgIPC+K597Us8HtfVlxkYkrDrWqGGh98PDjYBHPp/hdRDPrVoMqhdaikjrpwXx+czCxhTGfz7xg/wXdFLBK8aSoGDWVahHW1OQ2rftRg9KuEoxRxTFQG0WN0O7qheVUlStV/QPMaJc3cqOTumIur1hjh6UnlQQ3bj/JgwIpQW2rOkt+Xa6ekoenD8njtOaZs98jhEwUIGlpcTn/HdIHmJe6DaB1XQjEjn26/XVB5aahG9C2ZQfkxrGN1mhJZFOmYLuMW4s67DVdRHE4D0KI4sUti3w/Tj1I/QB4zII0YzaxgZ1JqE5yUxY25s7QtID7O5MD5fhQ9ni/VJqaVwOi0GD0nYum1ixNTgszvq+NEGz7SvNiNH2QJfaMwwTZ2Vyb0h3SpxV/6avw+xXlpJGcPK/X6MFb2x9qSnyP/IR374h9mePLM1bRLC/oRguWg8L078aIkISH6EaRTAhFVo3cmrTfwN+N50FcZ9D5tYh6CMsCtkYhL+QJghiLfhKSTyctwEoK3a5Hw+DfgfM9dFyzXNEmVeIYFfbge2ddeR22gRgcEZEVefSxRVvl98lyt9u9JzNvR/qc0F5Yw1NjDKgLDZCxA22AbQefoaid5fLc5QDz7HCc+RFHbYZFHmWcYcbhjrx+FbgYkORnZCyeWrwoqlcU9paWyIV+UHaNf06exfdi+qHgb06NfRJdfRUwGDeQ00YPIw8u1j+Ltyl/gbSgGm6ItN6EphtIRcHBHG/ptLf52YpG5pDV5NELvJv2uTjdV7gj1+dxiu1o0m6vB7cTobPvBWqFeSpBYqXXogkKQ9bGHjPWaY8caY4caYqcaCkkrTi6wAsCyRa2zVFxQ4Fz2WGeA53IqJXOfRQMVh0pP1R8+KbYakJ+uyiti5K4qDdb6TtaId/QnlxRBDnQnVyheTiy+UpfV7SAxS8w6f9QSEeOVibhj1LzBwTWlb2osvbvpv+L+8sS3Nl/+Rd1pdES",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "9eab695b543335c28d43986f6e37edad",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Tabelle 1: Inhalt der Ersatzteilsets\n\nDUNGS Brennerkopf HEPM-BH\n\nSeite 9 von 16\n\n2024-02-22\n\nDUNGS Combustion Controls\n\nFür die Brennerköpfe sind folgende Ersatzteile und Ersatzteilsets verfügbar:",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "orig_elements": "eJztls1O3DAUhV/FyrrD2Ikdx+xKgcICNBKwoijyz/WQNokj24NKEe9ee4AytKjtdqSJFMWx77k+dj7F9/qhgB4GGGPbmWIfFaaklSQ1UIM16FJxohrOLRECjGS8KT6gYoAojYwyxT8UudEGt/IaXt6h1R7SY52QcEox5qLCeziL1+ODM53t/hIweachhNcIImgtqr1017zMYRP4oQuhc2Non81cPxQpcbZRVSWmjzcpzIN23rS90zI6v3Y4yXib086vAvgw953W0pskDNHL2IX54l7fSj8svPsKOoa5WY3L0E5Oz43Tq7xZYeZGmIv11R54GEfw39xk25OjxVl7cPaxPdybjC0eH5MF2/UwyiH7Kv4teRbE+2ktkNPUd8l7Wuf8ebiX43IllxDykgsYl0Ve6JR62nE1KMirFOse//pdVc0FqygDLupGc0KEwqAIBSM0VVYX2WmE7zEHX0oFfQ+I7KPT8Vb2ERnw6MgHGX9E6PoAMWQnLybPpc87dweXOUHK9DtVpag5M2XNqkoqbgQmCSfWCMubxtByR9WWULUJyeHV+ecLtDEnynPODk42yTh2LibpO0hwrQjDRlBradpYmT6VrBota2IAKqZ2SGwfEhfQRUAC3bkRkXqTg0USnT9p3mOhbspGCy6ZBGtA64YJ3QDRXFEsS7xjYftYKHFJZ7icleX//Q8qVjWVBValwwEz1dh0UlmrccUk50buGNgOBgj+84z45Aa1CjlTao7Ru/5N9XA6pAzvIYGlYLIhXCrNgcpSY2MYA4GBNsDqXdWwjUgcf1lhbLVHpoNf1cO6r54soNCNBlnXL2E0sFFyAlqlgbclKLoDb5/SLZX0+5tQXXaxT1Dd/ATHHRVm",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "a3eb1db795445726fac36ee91f1f87fc",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Brennerkopfe Ers. Set HEPM-BH-P-D040 kpl. 303350 Ers. Set HEPM-BH-P-D060 kpl. 303351 Ers. Set HEPM-BH-P-D070 kpl. 303352 1s. Set HEPM-BH-P-D038 kpl. 303353",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Brennerkopfe</td><td>Ers. Set HEPM-BH-P-D040 kpl.</td><td>303350</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. Set HEPM-BH-P-D060 kpl.</td><td>303351</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. Set HEPM-BH-P-D070 kpl.</td><td>303352</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>1s. Set HEPM-BH-P-D038 kpl.</td><td>303353</td><td/><td/><td/><td/><td/><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWFtv4jgU/iuePMzLLMS5J6tONVPR1aw0o6Ky89SOIpMYyDYkkW20W7X897Xj0NxM6GoaBgQE8h2f71x8fA53TxpO8RZnLExi7XegLT0Y22gZ+NCEUeAuHQQdw1j5GEIYwNVS+w1oW8xQjBji+CdNXIQ035EIH77jMCKYf5QLGp5tQ+gFFpxCIVze3+ZxskoGAAXJI0xpjTAC2w2sKX+5nilgBSbbhNIkz2hYkbl70vjCgoZlmdDe/+AwgqOcxGGaR4jlpGRYILYRy+rfKSZUJ0kUIRJzQcoIYgnV54/RBpHtnOR/44hRPd5laxoWeaTHebQTzqKTPMN6UD7CK4KzDJOHvFiFX67n38Krb5/D2bSIV9p+zymskhRnaCt4aadFKgH2WJQCqCjShHPndurV7RRl6x1aYypM1nC21oShBf8lzHbbJRZWGrD8idSBhShwkG94aBl52EZmBOPYcXAAse1jx/XFygz/y0JEww3bpkLmgqFlii8v2DKPH/kH4a8YkPwfWqDs473m32uXDVPwhc5iAbm8JnQKFpgBYdzk6stkPplBG4KHIp2+gCxoWQ58+fozF3pJjRzX7ap0G+fR7al0m2+u21CotnyFaussZhuWymx7fN1fJ9cmVOl2zqLbdlS63bPoXijt9t5ad6MCOLwCPAmVe/BHira8NpJ8Q/p1oLwpbpX8gEiRUFSEJlPOdTwvKQncdPSPmJ1q/V6HwIgpqo6A5bcJjJinSgK8SrQJjJmsNk/WT+Cul51zFIMP4HaxUOSlGfiep/DKYoDD/c6Ehi3f/5eLukQa+WlanMebO+e4Czw46WSH4Y5YQbv623lhWobivCwdXDN8N3j1/OoMuU7xAyO8Hcz6ZUzem4IPt0m2rrOlbDCafANjvFKm5KAM14ibWUWiF7MRy+lBvzj3QnHel4dfW32drd3gn9y1wzv4eSiFLJ5CxxOHMhw9YNJKnVbYeOqMH7Y2i17cxiszKj98DWdl/Kxu/Gq33L5Gaw2avHqv9wM1S6IN4/Mezn7R9lYw6G9uk8+3Z2TQzRBzxMmprfywuTvJEZhvOD/p1Xiry2lX21eTsJiAhwZZIAdYoMRUkKGBUMqbYGBwkxBLucxhwJIYGzQH8b5AYyqSAo4Sc5heJMYFM/AneAanumggu+dTOK8COqAaGU42pxLvNmeLE0LCK7KRBAvQLOPgaJcl4lm2Vy74dBx1U4E8IFsh8B6cap6OAiRJ0dVIij54Vz4bnh7qNIAsQeA1HYFk6w4v/MLHBnX30xdpH7ZSwuGkj52cKnvUB6C0qM+yd1BJpd7guo0DRcJ9cMufE3C6yHc920fe1H4VRXgAeWBrGsdAjeIGZFEr/4Sr/vn7S1Qjbf/jPxUsfPI=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "82781ac20a07f871f1ef71592e887e7d",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Ers. Set HEPM-BH-P-D130 kpl. 303354 Ers. Set HEPM-BH-L-E200 kpl. 303355 Ers. Set HEPM-BH-L-E450 kpl. 303356 Ers. Set HEPM-BH-L-ES00 kpl. 303357",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ers. Set HEPM-BH-P-D130 kpl.</td><td>303354</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. Set HEPM-BH-L-E200 kpl.</td><td>303355</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. Set HEPM-BH-L-E450 kpl.</td><td>303356</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. Set HEPM-BH-L-ES00 kpl.</td><td>303357</td><td/><td/><td/><td/><td/><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWFtv4jgU/iuePMzLLMS5J6tONVPR1aw0o6Ky89SOIpMYyDYkkW20W7X897Xj0NxM6GoaBgQE8h2f71x8fA53TxpO8RZnLExi7XegLT0Y22gZ+NCEUeAuHQQdw1j5GEIYwNVS+w1oW8xQjBji+CdNXIQ035EIH77jMCKYf5QLGp5tQ+gFFpxCIVze3+ZxskoGAAXJI0xpjTAC2w2sKX+5nilgBSbbhNIkz2hYkbl70vjCgoZlmdDe/+AwgqOcxGGaR4jlpGRYILYRy+rfKSZUJ0kUIRJzQcoIYgnV54/RBpHtnOR/44hRPd5laxoWeaTHebQTzqKTPMN6UD7CK4KzDJOHvFiFX67n38Krb5/D2bSIV9p+zymskhRnaCt4aadFKgH2WJQCqCjShHPndurV7RRl6x1aYypM1nC21oShBf8lzHbbJRZWGrD8idSBhShwkG94aBl52EZmBOPYcXAAse1jx/XFygz/y0JEww3bpkLmgqFlii8v2DKPH/kH4a8YkPwfWqDs473m32uXDVPwhc5iAbm8JnQKFpgBYdzk6stkPplBG4KHIp2+gCxoWQ58+fozF3pJjRzX7ap0G+fR7al0m2+u21CotnyFaussZhuWymx7fN1fJ9cmVOl2zqLbdlS63bPoXijt9t5ad6MCOLwCPAmVe/BHira8NpJ8Q/p1oLwpbpX8gEiRUFSEJlPOdTwvKQncdPSPmJ1q/V6HwIgpqo6A5bcJjJinSgK8SrQJjJmsNk/WT+Cul51zFIMP4HaxUOSlGfiep/DKYoDD/c6Ehi3f/5eLukQa+WlanMebO+e4Czw46WSH4Y5YQbv623lhWobivCwdXDN8N3j1/OoMuU7xAyO8Hcz6ZUzem4IPt0m2rrOlbDCafANjvFKm5KAM14ibWUWiF7MRy+lBvzj3QnHel4dfW32drd3gn9y1wzv4eSiFLJ5CxxOHMhw9YNJKnVbYeOqMH7Y2i17cxiszKj98DWdl/Kxu/Gq33L5Gaw2avHqv9wM1S6IN4/Mezn7R9lYw6G9uk8+3Z2TQzRBzxMmprfywuTvJEZhvOD/p1Xiry2lX21eTsJiAhwZZIAdYoMRUkKGBUMqbYGBwkxBLucxhwJIYGzQH8b5AYyqSAo4Sc5heJMYFM/AneAanumggu+dTOK8COqAaGU42pxLvNmeLE0LCK7KRBAvQLOPgaJcl4lm2Vy74dBx1U4E8IFsh8B6cap6OAiRJ0dVIij54Vz4bnh7qNIAsQeA1HYFk6w4v/MLHBnX30xdpH7ZSwuGkj52cKnvUB6C0qM+yd1BJpd7guo0DRcJ9cMufE3C6yHc920fe1H4VRXgAeWBrGsdAjeIGZFEr/4Sr/vn7S1Qjbf/jPxUsfPI=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "59b5f44344e14316a01e051447c6a5ab",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. {kpl.} Flammenrohr Ers. Set Flammrohr kpl. BH-P_D040 303033 Ers. Set Flammrohr kpl. BH-P_DO0 303034 Ers. Set Flammrohr kpl. BH-P_DO70 303035 Ers. Set Flammrohr kpl. BH-P_D038 303036",
+    "metadata": {
+      "text_as_html": "<table><tr><td>{kpl.} Flammenrohr</td><td>Ers. Set Flammrohr kpl. BH-P_D040</td><td>303033</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. Set Flammrohr kpl. BH-P_DO0</td><td>303034</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. Set Flammrohr kpl. BH-P_DO70</td><td>303035</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. Set Flammrohr kpl. BH-P_D038</td><td>303036</td><td/><td/><td/><td/><td/><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWFtv4jgU/iuePMzLLMS5J6tONVPR1aw0o6Ky89SOIpMYyDYkkW20W7X897Xj0NxM6GoaBgQE8h2f71x8fA53TxpO8RZnLExi7XegLT0Y22gZ+NCEUeAuHQQdw1j5GEIYwNVS+w1oW8xQjBji+CdNXIQ035EIH77jMCKYf5QLGp5tQ+gFFpxCIVze3+ZxskoGAAXJI0xpjTAC2w2sKX+5nilgBSbbhNIkz2hYkbl70vjCgoZlmdDe/+AwgqOcxGGaR4jlpGRYILYRy+rfKSZUJ0kUIRJzQcoIYgnV54/RBpHtnOR/44hRPd5laxoWeaTHebQTzqKTPMN6UD7CK4KzDJOHvFiFX67n38Krb5/D2bSIV9p+zymskhRnaCt4aadFKgH2WJQCqCjShHPndurV7RRl6x1aYypM1nC21oShBf8lzHbbJRZWGrD8idSBhShwkG94aBl52EZmBOPYcXAAse1jx/XFygz/y0JEww3bpkLmgqFlii8v2DKPH/kH4a8YkPwfWqDs473m32uXDVPwhc5iAbm8JnQKFpgBYdzk6stkPplBG4KHIp2+gCxoWQ58+fozF3pJjRzX7ap0G+fR7al0m2+u21CotnyFaussZhuWymx7fN1fJ9cmVOl2zqLbdlS63bPoXijt9t5ad6MCOLwCPAmVe/BHira8NpJ8Q/p1oLwpbpX8gEiRUFSEJlPOdTwvKQncdPSPmJ1q/V6HwIgpqo6A5bcJjJinSgK8SrQJjJmsNk/WT+Cul51zFIMP4HaxUOSlGfiep/DKYoDD/c6Ehi3f/5eLukQa+WlanMebO+e4Czw46WSH4Y5YQbv623lhWobivCwdXDN8N3j1/OoMuU7xAyO8Hcz6ZUzem4IPt0m2rrOlbDCafANjvFKm5KAM14ibWUWiF7MRy+lBvzj3QnHel4dfW32drd3gn9y1wzv4eSiFLJ5CxxOHMhw9YNJKnVbYeOqMH7Y2i17cxiszKj98DWdl/Kxu/Gq33L5Gaw2avHqv9wM1S6IN4/Mezn7R9lYw6G9uk8+3Z2TQzRBzxMmprfywuTvJEZhvOD/p1Xiry2lX21eTsJiAhwZZIAdYoMRUkKGBUMqbYGBwkxBLucxhwJIYGzQH8b5AYyqSAo4Sc5heJMYFM/AneAanumggu+dTOK8COqAaGU42pxLvNmeLE0LCK7KRBAvQLOPgaJcl4lm2Vy74dBx1U4E8IFsh8B6cap6OAiRJ0dVIij54Vz4bnh7qNIAsQeA1HYFk6w4v/MLHBnX30xdpH7ZSwuGkj52cKnvUB6C0qM+yd1BJpd7guo0DRcJ9cMufE3C6yHc920fe1H4VRXgAeWBrGsdAjeIGZFEr/4Sr/vn7S1Qjbf/jPxUsfPI=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "37c232fb109095cff736545ceded8f0b",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Ers. Set Flammrohr kpl. BH-P_D130 303037 @ [ Ers. SetPad + RSS BH-P_D040 298776 S —— Ers. Set Pad + RSS BH-P_DO0 238777 Ers. SetPad + RSS BH-P_D070-D038 301655",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ers. Set Flammrohr kpl. BH-P_D130</td><td>303037</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>@ [</td><td>Ers. SetPad + RSS BH-P_D040</td><td>298776</td><td/><td>S</td><td/><td/><td>——</td><td/><td/></tr><tr><td>Ers. Set Pad + RSS BH-P_DO0</td><td>238777</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. SetPad + RSS BH-P_D070-D038</td><td>301655</td><td/><td/><td/><td/><td/><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWFtv4jgU/iuePMzLLMS5J6tONVPR1aw0o6Ky89SOIpMYyDYkkW20W7X897Xj0NxM6GoaBgQE8h2f71x8fA53TxpO8RZnLExi7XegLT0Y22gZ+NCEUeAuHQQdw1j5GEIYwNVS+w1oW8xQjBji+CdNXIQ035EIH77jMCKYf5QLGp5tQ+gFFpxCIVze3+ZxskoGAAXJI0xpjTAC2w2sKX+5nilgBSbbhNIkz2hYkbl70vjCgoZlmdDe/+AwgqOcxGGaR4jlpGRYILYRy+rfKSZUJ0kUIRJzQcoIYgnV54/RBpHtnOR/44hRPd5laxoWeaTHebQTzqKTPMN6UD7CK4KzDJOHvFiFX67n38Krb5/D2bSIV9p+zymskhRnaCt4aadFKgH2WJQCqCjShHPndurV7RRl6x1aYypM1nC21oShBf8lzHbbJRZWGrD8idSBhShwkG94aBl52EZmBOPYcXAAse1jx/XFygz/y0JEww3bpkLmgqFlii8v2DKPH/kH4a8YkPwfWqDs473m32uXDVPwhc5iAbm8JnQKFpgBYdzk6stkPplBG4KHIp2+gCxoWQ58+fozF3pJjRzX7ap0G+fR7al0m2+u21CotnyFaussZhuWymx7fN1fJ9cmVOl2zqLbdlS63bPoXijt9t5ad6MCOLwCPAmVe/BHira8NpJ8Q/p1oLwpbpX8gEiRUFSEJlPOdTwvKQncdPSPmJ1q/V6HwIgpqo6A5bcJjJinSgK8SrQJjJmsNk/WT+Cul51zFIMP4HaxUOSlGfiep/DKYoDD/c6Ehi3f/5eLukQa+WlanMebO+e4Czw46WSH4Y5YQbv623lhWobivCwdXDN8N3j1/OoMuU7xAyO8Hcz6ZUzem4IPt0m2rrOlbDCafANjvFKm5KAM14ibWUWiF7MRy+lBvzj3QnHel4dfW32drd3gn9y1wzv4eSiFLJ5CxxOHMhw9YNJKnVbYeOqMH7Y2i17cxiszKj98DWdl/Kxu/Gq33L5Gaw2avHqv9wM1S6IN4/Mezn7R9lYw6G9uk8+3Z2TQzRBzxMmprfywuTvJEZhvOD/p1Xiry2lX21eTsJiAhwZZIAdYoMRUkKGBUMqbYGBwkxBLucxhwJIYGzQH8b5AYyqSAo4Sc5heJMYFM/AneAanumggu+dTOK8COqAaGU42pxLvNmeLE0LCK7KRBAvQLOPgaJcl4lm2Vy74dBx1U4E8IFsh8B6cap6OAiRJ0dVIij54Vz4bnh7qNIAsQeA1HYFk6w4v/MLHBnX30xdpH7ZSwuGkj52cKnvUB6C0qM+yd1BJpd7guo0DRcJ9cMufE3C6yHc920fe1H4VRXgAeWBrGsdAjeIGZFEr/4Sr/vn7S1Qjbf/jPxUsfPI=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "2e85a8e35285fd8e5f8be1382b93a46c",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Ers. SetPad + RSS BH-P_D130 302312 ‘ ! ! ! | Elektroden Ers. Set Elektr. +Ring BH-P_D040-D060 302913 Ers. SetElektr. +Ring BH-P_D070-D038 301656 Ers. Set Elektr. +Ring BH-P_D130 302314",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ers. SetPad + RSS BH-P_D130</td><td>302312</td><td/><td>‘</td><td>!</td><td>!</td><td>!</td><td>|</td><td/></tr><tr><td>Elektroden</td><td>Ers. Set Elektr. +Ring BH-P_D040-D060</td><td>302913</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. SetElektr. +Ring BH-P_D070-D038</td><td>301656</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. Set Elektr. +Ring BH-P_D130</td><td>302314</td><td/><td/><td/><td/><td/><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWFtv4jgU/iuePMzLLMS5J6tONVPR1aw0o6Ky89SOIpMYyDYkkW20W7X897Xj0NxM6GoaBgQE8h2f71x8fA53TxpO8RZnLExi7XegLT0Y22gZ+NCEUeAuHQQdw1j5GEIYwNVS+w1oW8xQjBji+CdNXIQ035EIH77jMCKYf5QLGp5tQ+gFFpxCIVze3+ZxskoGAAXJI0xpjTAC2w2sKX+5nilgBSbbhNIkz2hYkbl70vjCgoZlmdDe/+AwgqOcxGGaR4jlpGRYILYRy+rfKSZUJ0kUIRJzQcoIYgnV54/RBpHtnOR/44hRPd5laxoWeaTHebQTzqKTPMN6UD7CK4KzDJOHvFiFX67n38Krb5/D2bSIV9p+zymskhRnaCt4aadFKgH2WJQCqCjShHPndurV7RRl6x1aYypM1nC21oShBf8lzHbbJRZWGrD8idSBhShwkG94aBl52EZmBOPYcXAAse1jx/XFygz/y0JEww3bpkLmgqFlii8v2DKPH/kH4a8YkPwfWqDs473m32uXDVPwhc5iAbm8JnQKFpgBYdzk6stkPplBG4KHIp2+gCxoWQ58+fozF3pJjRzX7ap0G+fR7al0m2+u21CotnyFaussZhuWymx7fN1fJ9cmVOl2zqLbdlS63bPoXijt9t5ad6MCOLwCPAmVe/BHira8NpJ8Q/p1oLwpbpX8gEiRUFSEJlPOdTwvKQncdPSPmJ1q/V6HwIgpqo6A5bcJjJinSgK8SrQJjJmsNk/WT+Cul51zFIMP4HaxUOSlGfiep/DKYoDD/c6Ehi3f/5eLukQa+WlanMebO+e4Czw46WSH4Y5YQbv623lhWobivCwdXDN8N3j1/OoMuU7xAyO8Hcz6ZUzem4IPt0m2rrOlbDCafANjvFKm5KAM14ibWUWiF7MRy+lBvzj3QnHel4dfW32drd3gn9y1wzv4eSiFLJ5CxxOHMhw9YNJKnVbYeOqMH7Y2i17cxiszKj98DWdl/Kxu/Gq33L5Gaw2avHqv9wM1S6IN4/Mezn7R9lYw6G9uk8+3Z2TQzRBzxMmprfywuTvJEZhvOD/p1Xiry2lX21eTsJiAhwZZIAdYoMRUkKGBUMqbYGBwkxBLucxhwJIYGzQH8b5AYyqSAo4Sc5heJMYFM/AneAanumggu+dTOK8COqAaGU42pxLvNmeLE0LCK7KRBAvQLOPgaJcl4lm2Vy74dBx1U4E8IFsh8B6cap6OAiRJ0dVIij54Vz4bnh7qNIAsQeA1HYFk6w4v/MLHBnX30xdpH7ZSwuGkj52cKnvUB6C0qM+yd1BJpd7guo0DRcJ9cMufE3C6yHc920fe1H4VRXgAeWBrGsdAjeIGZFEr/4Sr/vn7S1Qjbf/jPxUsfPI=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "34df88897463666642e922859fa32628",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Ers. Set Elektr. BH-L_E200-ES00 302315 | ———— | Ers. Set Elektr. stecker BH-P_D040-D038 302916 Ers. Set Elektr.stecker BH-P_D130 302317 Ers. Set Elektr. stecker BH-L_D200-E300 302318 R R -",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ers. Set Elektr. BH-L_E200-ES00</td><td>302315</td><td>|</td><td/><td/><td/><td>————</td><td/><td>|</td></tr><tr><td/><td>Ers. Set Elektr. stecker BH-P_D040-D038</td><td>302916</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. Set Elektr.stecker BH-P_D130</td><td>302317</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. Set Elektr. stecker BH-L_D200-E300</td><td>302318</td><td>R</td><td/><td/><td/><td>R</td><td>-</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWFtv4jgU/iuePMzLLMS5J6tONVPR1aw0o6Ky89SOIpMYyDYkkW20W7X897Xj0NxM6GoaBgQE8h2f71x8fA53TxpO8RZnLExi7XegLT0Y22gZ+NCEUeAuHQQdw1j5GEIYwNVS+w1oW8xQjBji+CdNXIQ035EIH77jMCKYf5QLGp5tQ+gFFpxCIVze3+ZxskoGAAXJI0xpjTAC2w2sKX+5nilgBSbbhNIkz2hYkbl70vjCgoZlmdDe/+AwgqOcxGGaR4jlpGRYILYRy+rfKSZUJ0kUIRJzQcoIYgnV54/RBpHtnOR/44hRPd5laxoWeaTHebQTzqKTPMN6UD7CK4KzDJOHvFiFX67n38Krb5/D2bSIV9p+zymskhRnaCt4aadFKgH2WJQCqCjShHPndurV7RRl6x1aYypM1nC21oShBf8lzHbbJRZWGrD8idSBhShwkG94aBl52EZmBOPYcXAAse1jx/XFygz/y0JEww3bpkLmgqFlii8v2DKPH/kH4a8YkPwfWqDs473m32uXDVPwhc5iAbm8JnQKFpgBYdzk6stkPplBG4KHIp2+gCxoWQ58+fozF3pJjRzX7ap0G+fR7al0m2+u21CotnyFaussZhuWymx7fN1fJ9cmVOl2zqLbdlS63bPoXijt9t5ad6MCOLwCPAmVe/BHira8NpJ8Q/p1oLwpbpX8gEiRUFSEJlPOdTwvKQncdPSPmJ1q/V6HwIgpqo6A5bcJjJinSgK8SrQJjJmsNk/WT+Cul51zFIMP4HaxUOSlGfiep/DKYoDD/c6Ehi3f/5eLukQa+WlanMebO+e4Czw46WSH4Y5YQbv623lhWobivCwdXDN8N3j1/OoMuU7xAyO8Hcz6ZUzem4IPt0m2rrOlbDCafANjvFKm5KAM14ibWUWiF7MRy+lBvzj3QnHel4dfW32drd3gn9y1wzv4eSiFLJ5CxxOHMhw9YNJKnVbYeOqMH7Y2i17cxiszKj98DWdl/Kxu/Gq33L5Gaw2avHqv9wM1S6IN4/Mezn7R9lYw6G9uk8+3Z2TQzRBzxMmprfywuTvJEZhvOD/p1Xiry2lX21eTsJiAhwZZIAdYoMRUkKGBUMqbYGBwkxBLucxhwJIYGzQH8b5AYyqSAo4Sc5heJMYFM/AneAanumggu+dTOK8COqAaGU42pxLvNmeLE0LCK7KRBAvQLOPgaJcl4lm2Vy74dBx1U4E8IFsh8B6cap6OAiRJ0dVIij54Vz4bnh7qNIAsQeA1HYFk6w4v/MLHBnX30xdpH7ZSwuGkj52cKnvUB6C0qM+yd1BJpd7guo0DRcJ9cMufE3C6yHc920fe1H4VRXgAeWBrGsdAjeIGZFEr/4Sr/vn7S1Qjbf/jPxUsfPI=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "1cc3a63a768d4e8784ca300f166e8a88",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Ers. Set Dichtungen BH-P_D040-D060 302913 Ers. Set Dichtungen BH-P_D070-D038 302320 Ers. Set Dichtungen BH-P_D130 302321 Ers. Set Dichtungen BH-L_E200-E300 302922",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>Ers. Set Dichtungen BH-P_D040-D060</td><td>302913</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. Set Dichtungen BH-P_D070-D038</td><td>302320</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. Set Dichtungen BH-P_D130</td><td>302321</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ers. Set Dichtungen BH-L_E200-E300</td><td>302922</td><td/><td/><td/><td/><td/><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWFtv4jgU/iuePMzLLMS5J6tONVPR1aw0o6Ky89SOIpMYyDYkkW20W7X897Xj0NxM6GoaBgQE8h2f71x8fA53TxpO8RZnLExi7XegLT0Y22gZ+NCEUeAuHQQdw1j5GEIYwNVS+w1oW8xQjBji+CdNXIQ035EIH77jMCKYf5QLGp5tQ+gFFpxCIVze3+ZxskoGAAXJI0xpjTAC2w2sKX+5nilgBSbbhNIkz2hYkbl70vjCgoZlmdDe/+AwgqOcxGGaR4jlpGRYILYRy+rfKSZUJ0kUIRJzQcoIYgnV54/RBpHtnOR/44hRPd5laxoWeaTHebQTzqKTPMN6UD7CK4KzDJOHvFiFX67n38Krb5/D2bSIV9p+zymskhRnaCt4aadFKgH2WJQCqCjShHPndurV7RRl6x1aYypM1nC21oShBf8lzHbbJRZWGrD8idSBhShwkG94aBl52EZmBOPYcXAAse1jx/XFygz/y0JEww3bpkLmgqFlii8v2DKPH/kH4a8YkPwfWqDs473m32uXDVPwhc5iAbm8JnQKFpgBYdzk6stkPplBG4KHIp2+gCxoWQ58+fozF3pJjRzX7ap0G+fR7al0m2+u21CotnyFaussZhuWymx7fN1fJ9cmVOl2zqLbdlS63bPoXijt9t5ad6MCOLwCPAmVe/BHira8NpJ8Q/p1oLwpbpX8gEiRUFSEJlPOdTwvKQncdPSPmJ1q/V6HwIgpqo6A5bcJjJinSgK8SrQJjJmsNk/WT+Cul51zFIMP4HaxUOSlGfiep/DKYoDD/c6Ehi3f/5eLukQa+WlanMebO+e4Czw46WSH4Y5YQbv623lhWobivCwdXDN8N3j1/OoMuU7xAyO8Hcz6ZUzem4IPt0m2rrOlbDCafANjvFKm5KAM14ibWUWiF7MRy+lBvzj3QnHel4dfW32drd3gn9y1wzv4eSiFLJ5CxxOHMhw9YNJKnVbYeOqMH7Y2i17cxiszKj98DWdl/Kxu/Gq33L5Gaw2avHqv9wM1S6IN4/Mezn7R9lYw6G9uk8+3Z2TQzRBzxMmprfywuTvJEZhvOD/p1Xiry2lX21eTsJiAhwZZIAdYoMRUkKGBUMqbYGBwkxBLucxhwJIYGzQH8b5AYyqSAo4Sc5heJMYFM/AneAanumggu+dTOK8COqAaGU42pxLvNmeLE0LCK7KRBAvQLOPgaJcl4lm2Vy74dBx1U4E8IFsh8B6cap6OAiRJ0dVIij54Vz4bnh7qNIAsQeA1HYFk6w4v/MLHBnX30xdpH7ZSwuGkj52cKnvUB6C0qM+yd1BJpd7guo0DRcJ9cMufE3C6yHc920fe1H4VRXgAeWBrGsdAjeIGZFEr/4Sr/vn7S1Qjbf/jPxUsfPI=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "82e69f8b22f189ec89d9b7debbf0b67a",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Tabelle 2: Bestellnummern der Ersatzteilsets\n\nDUNGS Brennerkopf HEPM-BH\n\nSeite 10 von 16\n\n2024-02-22\n\nDUNGS Combustion Controls\n\n8.2 Austauschanweisung\n\n8.2.1 Austausch der Elektroden\n\n   Warnung  \n\nStellen sie sicher, dass der Brennerkopf kalt ist!\n\nElektrodenstecker A von Hand abziehen.\n\nElektrode C durch das Loch in der Gewindebuchse D entfernen. Achten sie auf die Biegung der Elektrode.\n\n¥ Schraubring B mit einem Schraubenschliissel 12 mm abdrehen.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "orig_elements": "eJztmN1v3DYMwP8V7Z6bnD4tqW9J2zUD1iBAWuyhKw6UROW8+OMg+dq1Qf/30pcUSbdsyx4POAOGZVmkSekHiuL7mwV22OMwrdq0eM4WRjVJCnTJRRuctSA1RqGRB5lsA3bxjC16nCDBBDT+ZjE3VnXclojf33EVC9Jjp1BYrTm3XvFjPgvvvvdjanP7LwM2ZYxY6/0I4XXj1THdjZXzsA2Wvq21HYe6ujPm/c2CFM9mKCW5/vqBhhWMY0mrbowwjWVn4Qam9ax2+a5iqcvSxgglkWCdCkxtXV58jmso/UUZ/8A41WXaDld1tRnjMo1xO09WPRoHXPrdtTotOAxYrsdNXp29unizOn1zsnp5vEl58fUrmZDbDgfoZ7sW/y1yJzB93uwEYLPpWrKd/Fzefe5guNrCFdbZ5QUOV4vZ0Q31rIZtH3D2UvBdV7lfWA7egBMWQrSoQUaekjHoOWqHpnGL2dQJ/5zmwW8hYNchk8/ZKU0LtUlzj2VgCQt7VSpMXyZsu4pTnU36bu05lHkKP+LbWRFp/Cte0nuD2jcATfTOCMG9hcxFaIAgkOKA157g9ZCWl+/OX1+yBz9l80+PTs8eovHzOE4k+xgTOkJ0XEiTjbdcZ5NFI7VVLkalDyFnL5m4xHZC6mMfx4GJ5iEJFyR2fiv1GA0OtZQieGNMkMZzG7yPUoXoQzC0Ogca9o8GyaU+4vJIyqeFBAoAIHniNNU6gaHsQ0sHoGxUSaUcDhDsBwTi79vEi7EP2zprouYwlbH7IYP4pScNjyHhKWuIKDMlL9JIYRvug7EJNWqRFFcHJPYQCXcs2QnRANtKng2fsK3k0kMe3rZT9ygPymnulNDG5RwJiMANKg9I+SwH4w5Zw57ycCzuibg9bXR4TWEi4fAkLmh3yFnbHLPNTbBC0YlWyOwbZyPnzh242EMuGGO/QRnIDcaetFs0TsckBVdBJqERucaEMToRLJ04b/PRAwV7RsGTVl7nnIxuhDDcoccoPUilVDJoRHTpUGHYx5W/nEtQOLDaIt1xjeUZS1DrboN4WHi4hm5ibZ1++l9VKS+tVcmDjyYm0CapGLRFKw0iSokHZvaQmfu8oU4YrwmUk10x4gyGxCB8aXGNw/GTYgoYOoQSDCBcsA0SHhBtsBCdk8bHQ0zZaz7YC5ZopdZzRGG/jtRob+vcr/FTOyQM27iuyF4y8jFjGYgadhLX0108gm1miZ6nLV7NCcoPOevT+FIOnQTUmSCzmMEon02SPIRsuWoONa995Ov3LaeDKLuM6wLbUFpC45T17cSwHbD/3k/RKa67liYVOyYk63uKTan8U2z68A3KWsYv",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "0527c60f54d40319057b25f04dc7da99",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Neue Elektrode C einfhren. - Verandern sie nicht die Form der Elektrode.\n\nDUNGS Brennerkopf HEPM-BH\n\nSeite 11 von 16\n\n2024-02-22\n\nDUNGS Combustion Controls\n\nElektrode C mit Schraubring B von Hand andrehen.\n\nSchraubring B mit Schraubenschliissel 12 mm anlegen (handfest). \" Sicherstellen, dass die Elektrode ausgerichtet bleibt.\n\nElektroden C dabei ausrichten:\n\na Ziundelektrode moglichst nah am Rand.\n\nb lonisationselektrode ber den Brennerkopfrand in den Brennbereich ragend",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "orig_elements": "eJztmFtv2zYUgP8KoacNaGxSlEiqb0svyx4aBMu6h3WFwMuhxVWiDFIuVgT57zt009rbgi57NGADgiXq3PGB51Dv7ioYYYK49MFVz0nVOe0Vk2CblnOohXCMNp03ugbrjRLVM1JNsGinF43yd1W56fO8Sxa+PENvE+Df3iCTTUOp7Dhd0aK8fz/NLvjwDYFtmi3kfJBgXSM6vsJLyLqIbSFNIecwx9w/BPPurkLDJQzOa9rcv0exBHZOrh9nq5c57SPc6mUoZtdvM6S8TsFanRwq5iXpJeT1zSc76DTdpPkPsEteu13c5H4727Wb7a4UK1/MEdbd/tdfJogR0od56/urVzdv+ss3P/QvV1vnq/t7DMGHEaKeYF/e/1R5UFg+bfcKersdA8aOea4fXo86bnZ6A7mkXEHcVCXRLa70cTcZKFkyVjwv8OdSjFzDDsirET4sCdMkLwiE6AeMYUUuyK+QdHSQIskBSAx2WIjDu9dzmgiuHxRXxfuXwH6a0GGFXv5JUG2td9w4Jp21TouOOaE55y1zzitpzwSdIEEv317/eEuOnJLi9OLy6hiJ1/O8oO4jTIhW1VR1XVMrQT1uKYzTzjCqvdZCKn9m4gSZuIWwAK6Rj3MkTByTcINq15+1HqGh9VYormopVK0lNMYLZj1YsKylVKkzDSdIQ03r5oLWF3X9tC3BSjDQNS22hNrSuqPgsV1w5b2XwtfdGYLTgKD+d5t4MU9ml4slvI04Ooz5SZOD9600rDWdaWiDAwM1RnFhGie1s7prz0icIBLHY+cUFnJrh6R3JoW4IZf71nGF4yfBK8GAE+nTSHECCitKC69xjFC+BWWBCwDJJZVnUk6QlL+TccQKxGyHMWAdYUQdMk2IywgbiOS7AcHxWJPvV+T3itzi6QWrtcCIyTwjTue8P8scINS7vIFUDjmwEDNCMMsTkQPQ3BpDmTeddUaBMlpSHGU6xrnXZ+ROELmvXGCnQloMhALIZzzi82MurnUqNfgIvxTVR/gwUHdKemeoskorxZzFpiV5K2rTOt2c+ThBPjT5Leyig6/bxzRv0OqQFxL1QPREfsb9Z/W/QMGzDtMdFZw14JRspGi5bDtg3FKn4fyF7RRBMWScY8h7K/mAC4qSsrkcRVM+tpEQD8soA4gUSWg+um+g9P4vFwvrWw==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "a2b529ee5686d08647a408c18eab5c9c",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Elektrodenstecker A von Hand aufstecken. f\n\n8.2.2 Austausch des Flammrohrs",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "orig_elements": "eJztUs2O2yAYfBXEubWxcWK7t6y61fawUg7tabVCBD4nNOZHH7jqKsq7F9ysWvXQnisVyQLDzDCD5ulCYQYLLgmj6TtCx82hV0PLmpZ327Ef1NABUw1TnT5s+dTTN4RaSFLLJDP+QstCRL+ggtd/EAohT6tg03cdY/3IWcUKeT23XpvJ/AEQ0CuI8SeiGbMdXuVv27cFFgCtidF4F8XNzNOFZuFig/OWddfnDENQHrWYvZLJ4+owyHQqsvXnCBhrNEpJ1JkYE8pkYr1/USeJdo/+C6gUa724YxTBq1p7tZTHim+9g3pch7hDcA7w7MMkHu73j+LucSfeV0FP9HrNFiYzg5MW1uf9K+VGSC9hJcgQZpO955z17XiW7rjII8QSmYI70hI05B3hFnuAkrJpy80JvqUicj/DOWFO6GICdQYkO/LVO/IgnSZymX7suoqs+q9Xf7RZkmad3zvSdJsNb1jft3rctIwPfALebybVNDB1/zvyT3ZkqNqqJbslJrlEdSI5KvkwS2vRnzD+2otPJs25F8/fAXfiV2Q=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "730b9bf213c44045aa9b8dfb077c9fb1",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Der Austausch des Flammrohrs, des Pads und der Rückschlagsicherung ist nur bei Punktbrenner- köpfen möglich. Um bei Linienbrennerköpfen das Pad zu erneuern, muss der gesamte Brennerkopf ersetzt werden. Bevor das Flammrohr entsprechend dieser Anleitung entfernt werden kann, müssen die Elektroden entsprechend der vorherigen Anleitung 8.2.1 entfernt werden (bis Schritt 4) und nach Austausch des Flammrohrs wieder angebracht werden (ab Schritt 5).\n\n   Warnung  \n\nStellen sie sicher, dass der Brennerkopf kalt ist!",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "orig_elements": "eJztVdtO3DAQ/RU3T0WCXSfOtW8gqFqpVKtS1AeKIsce77qbOJHtQAHx7x1nuWxvtK9IRNpsHJ85czvxnN1E0EIHxtdaRm9IxPMy5VmTykZVVGWqZFI0MY2TkqYJ0DLaJVEHnkvuOeJvovBQu360Au7XUAsL+DcRxkWaUlpUjM5oMJ72u15qpZ8ADLYX4NwjIq7SvGIz/OVFEmAD2E47p3vj6rtgzm4iJA5hMJbQ9PYcYRZEb2Xd9oL73k4RDtyvAu381IF1c6uF4FaiofOWe+3miyux4rZb2P4bCO/mcjRLVw+9mMtejKFYbq83MK+mqz6wYAzYdT+o+t3R4rg+ON6vD2eDVNHtLYagdAuGdyGu6N8mdwb+apgM+DC0GmPHPOd32y03y5EvwYWUIzDLKCQ64JvajF0DIcs4mV7Zx8bGaZaxmBZFIqssoaxkCliRKRHHoFJVRCFUD999AB+CJfuj83x0YkWwMuRty7vO9ivrdqf1gktHRiNxYcmnryOlSog1olu+dFqswGLRiHaemNGSBjRZjGbtm03ie2Q9meSDAkO6zfMSE13NyGk3wT9oo8Hc4bfRkk/eyfVIwBoY8bZLutG5KRQsC+88kK0KI8yBv/bkEqwEMyMHcNHbiechKxKaOqBYVhBy0uBCBUwL2oc8cFehn3sKsuYmON2kjTI1wYQctbD2tg+An+mQCz1iTfQS9x5py1kyi38jf91oR07EymrvSbozVdlw7MPfOkIu8VNCH6gLaCwiH6l488CU7cyCeu6F9ZHboPYL+Bx6js3/9SSgUokiTnIpWCUoL3Ml8jzLGtGIpIxl8XISPJOTYPvDJoR84dYE8ZFtNbzv0OhPKuCMxo0qS5Fj37NC5IWSihU5oywrykq8qOAZquC/Oh+XrAKGsyIt4zxTVVIUwDjLaS6ErMr8pfPPsPMnHlqMgTgcV5sxvRsG4WZ2bs/MNW99GN+vnpgZ5z8A2yRQBA==",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "91b1f0a1cfb8882b75520b2949d78486",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. DUNGS Brennerkopf HEPM-BH\n\nSeite 12 von 16\n\n2024-02-22\n\nFlammrohr A handisch von der Gewindebuchse B drehen. Falls notwendig Spannvorrichtung und Rohrzange verwenden. ~\n\nDUNGS Combustion Controls\n\nNeues Flammrohr A von Hand in Gewindebuchse B drehen. Ll\n\n8.2.3 Austausch des Pads",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "orig_elements": "eJztl9tu1DAQhl/FyjW7azvOibsWKEWCakXpFUKRY493A4kd2U5LqcqzM16KWBCH3q60kaKc5h/POJ9+J+/vMhhgBBvbXmdPSdapQmmmOKe0kLzUOYDuakYNGCmKWmRPSDZClFpGifF3WTppg5u9gh/X0CoPeNglZJUQlFZNTpc0iXfPR6d70/8jYPJOQQg/I1gjyiZf4l5WPIVN4Mc+hN7Z0D4U8/4uw8SpjDznVNx/wDAPynndDk7J6PyuwknGbUq7ugrgw8r3SkmvURiil7EPq/Wt2ko/rr37CCqGlZ7tJrSTUyvt1JwmKyychVWz29pTD9aC/+Qm056/WL9pT9+ctM+XkzbZ/T2WYPoBrBxTXdn/JQ+CeDvtBHKahh5rxz5XD48HaTez3EBILWdgN1lqdMI7rZ3HDlKXjKeRI3yOKcnzq4uXl2RvUJIGXZyep3Q/RjpzLqIWdb8zoSpWc6PLTmnOclZyVdfIiFKUahCMH5k4QCYuoY+A98i1s4SV+ySsUXbxXfUHGnSTG5l31HQdZUJIU6kaTKHyKr0SdnSIQ6SBUy4WlC84f5wlMKOEKHgt87yQFa1KtIVCdkVV8lyLojlCcBgQ5PsQnA1yHL3benJCttLqPqjtzh40ePISbnqroZvVNgA5JdrDFuySnMlhCMS6eAOo2JDLSVp77TzO1zbijJDZavIWk37BeoBcg0+BSfl1H7VXIxb2J9JywagumxpyVRW4BAmQTVMLWYExaDnlkbQDJO37B8kzN3ZzSJnw1EbvhvAoJAxTHTCuiqbilSihYB0UlWx0o7oaV6EjEgeIxAXMEMi+BSXnOUcbIr39q/u8Hh5FDL49kRYoBZVpGMWpZ1xXDH9y0E2kMEdiDpCYesmXOTlBB5FzWqmwVbKW+hcPedfHAYn48A2TmbmV",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "7a857820287c72d1f8132e9175f3394c",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Der Austausch des Flammrohrs, des Pads und der Rückschlagsicherung ist nur bei Punktbrennerköpfen möglich. Um bei Linienbrennerköpfen das Pad zu erneuern, muss der gesamte Brennerkopf ersetzt werden. Bevor das Pad entsprechend dieser Anleitung entfernt werden kann, sollten die Elektroden und das Flammrohr entsprechend der vorherigen Anleitung 8.2.2 entfernt werden (bis Schritt 2) und nach Austausch des Pads wieder eingesetzt werden (ab Schritt 3).\n\n   Hinweis  \n\n  ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "orig_elements": "eJztVF1P3DAQ/CtWnkCiOcf57hsIKiqV6tSWJ4oin725uJfYke1AAfHfu04PuFLUPiMR6XJxPLs7M7vxxV0EPQygfaNk9J5EJZN5kte5TLNiVaR1VeWSFjVNWJbWMpPRAYkG8FxyzxF/F4WHxpnJCnhYQyMs4N+cMCmzjNKyTmlMQ/C8PxipWvUPwGiNAOeeEEmdFXUa468oWYCNYAflnDLaNVsyF3cRJg400pTR7P4SYRaEsbLpjeDe2JnhyH0X0i7OHVi3sEoIbiUGOm+5V26xvBEdt8PSmh8gvFvISa9dMxqxkEZMwSz3zmhY1PPVHFnQGuzGjG1zerI8a47ODpvjeJRtdH+PFFrVg+ZD4BX9P2Qb4G/GOYCPY6+QO+pcbLd7rtcTX4MLkiPQ6ygIHfFNo6dhBUFlks6v7FNj0eQsKXIuoGzrhKJDCZNlwigFXvMMuWKEh58+gI/BksPJeT450RF0hnzo+TBY01l3MK+XXDoyaYkLS758nyhthdgguudrp0QHFk0jynmiJ0tWoMhy0hu/2gqfA4qxBU2G389rlNnF5HyYwZ+UVqBfQEs+1ya3EwGrYcLbARkm52YiaAofPJAdfxHmwN96cg1Wgo7JEVwZ+5gnNHPEIekgaFHggnLdg/KBP+62WOEhmGy4xnLO9L0PXBSQkx423pqwObvBd6x6lhwzY2V0Rq0R/VSkilnM/iq1t1KOfBWdVd4Ttj9n1xy78Wdf5j5c46eE2UFpNGBHLNnjq8cc6X4cpudhsD5zG6b9Cr6FnmPzn58EdMVYUa4EsKqsaCFkxSSr2iyvsirldf52ErySk2D3wyaEnCp9DThbZHcaPg4Y9NIUSJa0NK9lkhepYHVOS5GLPKkynogqTZK3KXiVU/BC7y9/AQZimco=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fd7689a77284593e0760f24ef0c9751e",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Flammrohr umdrehen, sodass die Rückschlagsicherung zu sehen ist.\n\nGewindeadapter A von Hand abdrehen.\n\n= 4 Sicherungsring B mit einer Spitz- / Nadelzange entfernen. Ggf. etwas wackeln.\n\nDUNGS Brennerkopf HEPM-BH\n\nSeite 13 von 16\n\n2024-02-22\n\nDUNGS Combustion Controls\n\nRuckschlagsicherung C (Lochblech), Ring D und Pad E herausnehmen.\n\nNeues Pad E einsetzen.\n\nRing D zwischen Pad E und Ruckschlagsicherung C einsetzen.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "orig_elements": "eJztl1tv2zYUx78KoacNiG3eRIkD9tA0bTJgDYJkfeoKgTw8tLXoBlJqWgf57qNcB03XoMurARswLEvnKv7wJ8+H+wwbbLEbq9plv5EMlHCFLEttHS3LXGlacqWkY1w56aXPTkjW4micGU2yv8/miyr2UwB8/I8VBEw/u4CskJLSQgu6pLPz7nnbu9rXPzEYQg8Y4zcLpqXSYpm+quCz2YChrWOs+y5W+2I+3Gcp8FyGEJzKh4/JLCD0wVVND2bsw67CwYybOezqfcQQV6EGMMElxzgGM9ZxdfUFNia0V6H/B2GMKzd161gNPaxcD9P8suKi73Cld5/qNGDXYbjtB19dvLl6V52+e1WdLQfns4eHVIKvG+xMO9eV/b/L3mH8MuwczDA0dao99bnaP25Mt57MGuPccobdOpsbHdKdqptai3OXTMyZR/w8zkHeNqZtQ78JZGpdwA12JyT2zsRIXI3k+u+JUg9wG2HTmHWsYYMh9Uy2E4mzNanjuJxTP1Z1acL8qj7hX3OGlOq/GDlnhXTCl9J5axgFzgvlciVt6azV8ojRAWJ0jnd15zAt2jBiIK/Ip74jF6ZzxNivWH0HyR9tivUcHCxHaUFrIUAoKQXT6JXUFFyhcubVEY4DhON3IsnNo3LEUCf5OCVtPRKsUxXkZqjH7YKsyKVx2GxTeCSpSY+hS9iQ87VfEhzvTCR3Bm6xeSFKDhkIIzUyTzX13BUcbSJUS8dB8eN2dYgonb2/PL8hT5KSOeni9OIpEm/7PonQc0xYV7I8Lz14zEvFSq98QRkrQXuNhSqOTBwgEzdYj5ju7fYcpp6ScJXcLr96PUODoNTmhQCqlfU0B0zbDJfg0BvhpaJHGg6QBk65XFC+4PxlksBKVqAFydPBAzFHJQVCGmoME8bJwh4hOAwI5I/bxOu+tVOcI6XLbgx9E192CE0Dblp6pxnkymLBOVO54MwIx12aeI9IHCAS19OPQ+xr8sufPWxsg7D59YRczyfTMzKlqeXKOPKGJDMzxQ437Uvnl6J0FCHXPC1VkaZc5wyC8chL6UtB8yM6B4jOJU4Y90ikkSXiuH0pD4piiWWhgEMOwoJiqDWVAN4KlxTmyMMB8rDXie1dnQQFuz0Zs2w8LzI/Zebjv9+lzXE=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "02e636d1bbeaa10d142c8497afb9284e",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Neue Ruckschlagsicherung C einsetzen. Die Seite mit scharfkantigem Rand zeigt nach innen. Die Lécher von Pad E und Ruckschlagsicherung C sollen mdglichst nicht deckungsgleich sein\n\nDUNGS Brennerkopf HEPM-BH\n\nSeite 14 von 16\n\n2024-02-22\n\nDUNGS Combustion Controls\n\nRuckschlag- sicherung C mit Sicherungsring B befestigen. Sicherungsring B hierzu mglichst tief mit der Spitzzange einsetzen. Sicherungsring B am Rand entlang herunterdricken. Bei richtigem Sitz rastet der Sicherungsring B ein.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "orig_elements": "eJztVl2L2zgU/SvCz00iyR+y923T6W4X2iE09KlbjCxdO9rYlpHk0maY/75XboaGzrDb10AMwZZ1z7kfPijn00MCPQwwhtro5DeSpGXLeFYIyiBvJCtFCiqVWUYLJoAVMnlFkgGC1DJIjH9I4kPt7ewUPK2hVg7wthAygWAqqpSuaQQv+4PVpjX/ETA5q8D7HxGsyooqXeOvEDyGTeAG472xo6/PxXx6SJA4lpGmnGaPnzHMgbJO171VMli3VDjJcIi0m48enN84o5R0GoE+OBmM3+y+qYN0w87Zf0AFv9Hz2Pl6smqjrZrjsPzKjrCplqveOhhHcEc7tfXbN7v39fb97/XdetJt8viIJbSmh1EOsa7k/yFnQPg2LQA5Tb3B2rHPzXm7l2M3yw58bDmBsUtioxO+qcd5aCB2ybKYOcDXEEnuYQbyYVZHrw697LxRB3DYFHlNwIwewgnGNbkzQPZgApDBBOLjDNqjHIPpYCAf5KjJCUwXyCjVgRis/4x59/dMKVSRk3yxI9lJTd6QGeNfTultjwMhg+6ws4NHQrwFokEd46C7HnBNPFYWu30axF8DNphgVz8rVtGStY3Mc4VFoHRLqlqATAstJUCe3RR7hYq9+3j/555cJCUx6Wr79lISf1gbEPuCJqiqJOeCSVVRkLlsoM0oFzrPUy1Uzm6auEJNfD+bWLYcMqy4VMIOYfffUS+oQYtWFJKpRuRSAW1brhkvhSormqo0L25quEI1cMqzFeUrzn/tSMgLmTYpCNFmqdSt4iktJVesxA0pm/wmgusQQf78b+K1HZrZRyZ8HIOzvf8l51ChwRWMsUxT4FznjIISLcsbLsqspelNElcoiR+ec0UuXWf0tPuntXcGX24J+gKcBBpctLLPNg8G3Gkmw5NNDQbahUaj0d1PJpxOWB1cWuhnHPLsnHGOsRWy7OIJpfFLHCNiC4a46H8Xl71HUuKkD3DO8jMf5lq/oO3P/wIwq2z0",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "2818d366d01af75f6cd99ff93314c2a6",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. Gewindeadapter A handisch eindrehen. Breites Gewinde zeigt nach unten.\n\n9 Außerbetriebnahme und Entsorgung\n\nNach Erreichen der bestimmungsgemäßen Lebensdauer bzw. im Rahmen der Stilllegung der Gesamtmaschine kann auch der DUNGS Brennerkopf HEPM-BH getrennt nach den Bauteilen metallische Rohr- und Trägerkonstruktion, Zünd- und Ionisationselektrode, Edelstahlteile und Brenner Pad Edelstahl entsorgt werden. Prüfen Sie gegebenenfalls lokale Richtlinien für die Entsorgung dieser Materialien.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "orig_elements": "eJztVNtO4zAQ/RUrz9DmnmbfqECAtKCKy8uyKHLtSeKt40S2syyg/vvOpEUgtNrVPiJRqWptn5k5c3w8d88BaOjA+ErJ4AsLRJwXZSlzUedRCos8BJ6nRZ5yXizyTGbBAQs68FxyzxH/HNCfyvWjFfCyhkpYwJ8pYVSkaRgWZRLOQgqezrteqlr9BTDYXoBzr4ioTPMymeE3L2KCDWA75Zzqjav2ZO6eA0xMNJIkDtPtPcIsiN7KSveC+95ODAfuW0o7v3Vg3dwqIbiVGOi85V65+epRtNx2K9v/AOHdXI6mcdXQi7nsxUhiucPewLycPtXSgjFgN/1QV2cnq4tqeXFUHc8GWQfbLVKolQbDO+IV/DtkH+AfhymAD4NWyB37nO+PNTfNyBtw1HIApgmo0QF3KjN2a6Auo4wqe/jlKckpPCgjAS9t8GDZEWu5kcqJlgHuW2jBzBhyUh4c24PZE6jGM8MRNRqPCKr9Quu8w3IB1njvH57EEJVxJLOsqIuwgDzMikXMi1qWUbr49M9H9E/JjsbvYxjKGuwavFWwNrztAI0h2Qm209sGe3xrkBvl9R8NUmaQZeEijqJ1koQQJjKsUy7quM6FDLPy0yAfxCDTlv2Pl//WUZc0Vk4sjhyBw4dJnEprlEd1HUnRQEd2g3RvOsO+whqMk3wk4NPDjKmOXZEFd7HXXmmtgUw4rU/B8c53HEecMsA23BjGRyxJh8e3l6fX7I1CjBQ6XJ6xBr2Nu/upJzH5ko8eSF5GntSahiawq761h5P5b+yOaEOZDN7vuCElD9g32q+FkTvceW+Um0R2+Bw23qIbDtiJBO08b/VUYwLuabEVl6/HDHZvzLMHsJKG9cru8pM21wqQeUMKgamRpGO633BMeIXqeq2MQlS9C7BMIvz1zdISXcou8FFYxbV6N+gvuSXP/oQburnt/W/iCqs/",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "aea0e9e68674060efe4d5854e3f3b43c",
+    "text": "Dieser Text ist für Produt: Brennerkopf_HEPM. Produkt ID: 999999. Der Dokumentyp is Betriebs- und Montageanleitung. DUNGS Brennerkopf HEPM-BH\n\nSeite 15 von 16\n\n2024-02-22\n\nDUNGS Combustion Controls\n\nDUNGS\n\nCombustion Controls\n\nKarl Dungs GmbH & Co. KG\n\nKarl-Dungs-Platz 1\n\n73660 Urbach, Deutschland\n\nTelefon: +49 7181 804-0\n\nTelefax: +49 7181 804-166\n\nE-Mail: info(at)dungs.com\n\nDUNGS Brennerkopf HEPM-BH\n\nSeite 16 von 16\n\n2024-02-22",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Brennerkopf_HEPM_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.693672",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Brennerkopf_HEPM_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "orig_elements": "eJztmVtv2zYUgP+KoIdhw2qb90velqVLhiKBgSZPRSEckoeJNl0MSS7aBfnvo7wEM1J3qYG9CJEFQxJ1buT5dCiCH+5zrLDGZijKkJ9kuTYUFbWcRwg6euajYJpJycEJLxDzN1le4wABBkjy9/l4UfTttvP4dI+F7zCddgapFoIQbTlZklF597xuQxnL/xDYdK3Hvv9XglqhLF+mv9JsFNtgV5d9X7ZNXzwG8+E+T4bHMDhnRDx8TGId+rYLRdV6GNpuF+EGhrvR7Oqmx65fdaX30IWk2A8dDGW/Wn/xd9DV6679A/3Qr8K2ue2LTetXofXbcbD6Rdvgyu5+xWmHTYPdn+0mFhdv15fF6eUvxdlyE2L+8JBCiGWFDdRjXPnLKo8Kw5fNTgE2m6pMsad+rh4fV9DcbuEW+7HLOTa3+djRTWopmm3tcOwllaPnAT8Po5Gzm6vz99me02x0uji9GM09efqtbYekm/SeM+GcUahBWqKYsCRSoqUCdF6ZwByTMxMTZOI9lgOmtuxT22RU7ZOwTmpX/2gdokErR4VM+aEiUunTSHnpBIueAFiYK8QUaWCEiQVhC8a+HwTDmOLWeqsFJwzQBm2iQ+UN09xTP4MwDRDU11PFr23ttv1oKV02Q9dW/T4Xv9fJwiEkuDOUOxUtyqiBU8KYC8ESK2RAKcyMxFSR2E//dTlUB9NPjQ2QJgFiorXUaOJswOgtkZzTEOaKMMX0v1ALvgkDSSxoLbwDklYTLBiruI7SOwfCOdQzDBOBYdfUHfGW79PzDroqOxu7nZ3X7iL7IUG0zN6d7yN0Bd04XJ/welQ6gJIFLWVEC8kbVSSCB6kN8JRrNNbO08pUUHpOxmJHxmJdwfBXRr+rrCiF0kiHgdJIUXKvwIDizoeEhFJzWZkKC8/Lyosv+T48mitFspvOgb97k53hduj9XfIbjqorymsro+cQpVFBexfSwYmi0jGCwGeWXgNL1wmK2DYn2c/CZpoamhmSFsNHkaSVDsEQQkRIyxwFNBiuvSGRIRojw0zSqyEJPj8jiSp1FEsCBRLuJdrRKxdagWTGYHROqCjYzNJrYOnt4hLK6iQrm9j+CMNPuxFY+rY+iqVomdOMQFQxWrCcC2bRRmVQUhYRZpYmwtL/uJ1DJYvMCkk1C0wQwRmlXEL6kk4fQR5mJqbIxON2jjp6O4da5S0wCUHooKT0XivUgXMrtQxezTRMkIbD2zlPJeHj334YCoc=",
+      "product_id": "999999",
+      "product_name": "Brennerkopf_HEPM",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Brennerkopf"
+    }
+  }
+]

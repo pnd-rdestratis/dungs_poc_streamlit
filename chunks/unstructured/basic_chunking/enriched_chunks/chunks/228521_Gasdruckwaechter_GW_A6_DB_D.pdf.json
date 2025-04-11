@@ -1,0 +1,953 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "86bed164ae7df855c69c44b8e6929a41",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Compact-Druckwächter für Gase und Luft GW…A6\n\n5.01\n\nDUNGS Combustion Controls\n\nE 4\n\n1 2 5 8 2 2 . r N • 6 1 . 8 0 n o i t i d E • y n a m r e G n i d e t n i r\n\nP\n\n1 … 6\n\nTechnik\n\nDer Druckwächter GW…A6 ist ein einstellbarer Compact-Druckwächter nach EN 1854 für Feuerungsanlagen. Die Druckwächter sind geeignet zum Ein-, Aus- oder Umschalten eines Stromkreises bei sich änderndem Druck-Istwert zum eingestellten Soll- wert.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmElvGzcUgP/Kw5wjidss7M2tXSNAIRiwjRySYMAh38hTzyKQnKau4f+eR8mGndRNnaMAHUbi8lbON9w+3mfY44BjrDuX/QKZQ14orS0rlW5yqRotkclSSGdKpQTL3kE2YDTOREPy91kq1GGavcWnOtbWI/3tDHJSY6zUQi13yrv+YXJd2/1AYOsniyE8S3CtCi2XpRBVrpPYFv3QhdBNY6gfg/l4n5HhFIaUgqmHzyTm0U7e1f1kTZz8LsKtiTfJ7Oo6oA8r31lrvCPFEL2JXVhd3Nkb44cLP/2JNoaVm8dNqLeTXbnJzmmwwmIacZViEbw+N8H52d5+MWhvIvr6/EN9UtSnv9any61rs4cHiqPtehzNkILL3qj3qBXvtjsts932HWVBGa8eu3szbmazwZCSz3DcZCnlLbXU4zw0mPLlyXvEv2Oy8ds0bI2Ni9Od308zY6h2vqFNldZ6oKgQ5tHBH3Mb4fzDp1kwUZwUyd9TKFdd7DEjw9/TU5hc89LJxuZNi7IplGHWtUo1ppCoj/QcHD27Fv8T88NL3PIl4y+5WRufxugvvEoCr/HD8rZ0ymlZoEQnKs1Zw9pc55IjU+rIz6Hx8xKH0+v1+SXQHNTMIRmi4hj91IeXjLwfyMBrbFhRtMy2rZK60sxZnuea5UwI3bBKa3Nk45DZOAP1JgpUyZR0WmlJSxfqoqoq5UzFjVEtlgaPFBwyBRwE5FDRr4AleFjDbvshoABODRUwGGGCDiI9Ds6euu+o2cBAGgjnVE6dSEKp5H9uBTKSC2ZEnleiFa5xlSPeBIqCN4rLI18HzdfFm3ax0hpVlmVRckGbG2Gt1cyaMi9by7lixZGBQ2aA7yeNAr450lyQwnov/woROXfcVaUpddNWOYHQMNGo3NpKEgVaHok4ZCKuyNPY3b5pbrC0OnAsbWWUcbRIGFfllg4+QpZ5S/uQIwmHRsL3J9z//da/OdKgh39fpjzfmkAXImA3pidE7PuGXHn473uY0dgbOFsDr3L1fCnzO87o0yibsafoxyWcdviK49CNDjaI3WbECP/MA5x14+IdnMxhAfQGPVwPgV5eH3EXEga4pBPYcOuxC1RpsCMbFMHe6Ega9Ax7T4v3IX5Bv7dLyjSuKaNk6nLq+wWkzuUPdlufvwLnSXdS",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "701f5a416130f4577a739b6e0a423498",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Der Sollwert (Schaltpunkt) wird an einem Einstellrad mit Skala eingestellt. Serienmäßig im Metallgehäuse inte- grierter Meßstutzen.\n\nAnwendung\n\nDrucküberwachung in der Feuerungs-, Lüftungs- und Klimatechnik. Geeignet für Gase der Gasfamilien 1,2,3 und sonstige neutrale gasförmige Medien.\n\nZulassungen\n\nEG-Baumusterprüfbescheinigung nach EG-Gasgeräterichtlinie:\n\nGW...A6\n\nCE-0085 AO 3220\n\nEG-Baumusterprüfbescheinigung nach EG-Druckgeräterichtlinie:\n\nGW...A6\n\nCE0036\n\nDruckwächter Klasse \"S\" nach EN 1854.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztWF1v2zYU/SuEnjYgsSmSEsm+pW2Wh65dgbQosKYwKPJS5qIPg6KWtkH++y7tFM2CrW2GvQT2iy2J59Ln8h6eS+v9dQEd9DCkVXDFE1IIqxrnva0pF8Yr03AOjgpOPasYp7I4IkUPyTiTDOKvi3yxmsY5WvhyDysbAb+2E5ZSCEqlZmJBc/B2vB9d8OEbgE0cLUzTV0SpRa35QjKmKp1hG4h9mKYwDtPqlsz76wInzjQ4Z1TcfEBYBDtGt+pGa9IYtww3Jq3ztMu3E8RpGYO1JjoMnFI0KUzL15/s2sT+dRz/AJumpZuHdlptRrt0o53zYk3H4wDLzIWVqzMzuTjbyysDdp0grs7erU7q1fOnq+eLjfPFzQ3y8KGDwfSZXPGDcbdR6dNmG2U2my5gFpjx8na4M0M7mxamnHwBQ1vklDf4ZDXMfQM533L7JH6tcFW60ilppG68qirpG8oaUVmrOFZV8yLTTfAxZfBziOR87LoriIn8dI7r0qXNPFymn8lViI6YgUAYoCenYZgSdF00jvQhkfNL05k8huzy87Qg5xADDP3FTCmI/Ol8aEnoyUvUU9e1sN4NzROQMCQ4Ji0GRFwZROzwU5rTZxgWOfkv6/LKxFy2P+FN5ozk70vaGUpR1NaLqmkMbbhU0pdUa8sU15U5SPqxSfquQk+GKxhyOnc18SakDv5JC6USTpaO4Q4QAkAo0I6aRpiq4U1F9UELj00L9+3tu7v9b/aWCWZr8RanuzJ2jWuB5kMcms4vMEPMa3N8RH7dgXza3pN5cORFF3qspV0P4XJBzgBCO0AifoeMBPOH7Tx44U0fOjQ/pMuO+DZ8wsqm0AIZYMbCdEBaxG2Dayw9DrwEFx7qdbUVlZKVrnlldEk9Nm7rVFla6YXhrjro+7Hp+65cf587M02YDgw/5HZKCaa1bBxuirqsuapBU2uhgbqWRrCDGh6bGu673Xf3+135nJ4dPzVzP+OBLG7iraM1MNk1ntNCm61vQAskiMN0Woi78xiiA+bUIQaePMiNtGPcUgWVRlNTtsK1omUtBSs1OFO7g/72Sn9n7xaLxUl9V0JvByQB7RjDZ3D/LiMtVK2FZtjIvZfSV1x5waRnwKVUBxntlYyenR7jEa8iJ78Rzhh9kCNxClI54II50QjIhbOVxWeM+caq+iClvZLSAzri9q/C/9ATvWKelo20DFBymjUauKONVki2sf5wQt8vBf7XnlgZib9jXVWKUlhPjYNSKwuMWqhqezha7ZeMnp1Syh+uIietcGXjLFjNBTeSU26MB6ehNFVzaIf7paJtj7vadbgtSfIiv3AAclGcXxS3rfAVKVUlvvVa6sNfIYdcLQ==",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "3987e0772df4de8dfa8a05fdece05083",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Zulassungen in weiteren wichtigen Gasverbrauchsländern.\n\nFunktion\n\nEinfach wirkender Druckwächter im Überdruckbereich.\n\nDie Druckwächter arbeiten ohne Hilf- senergie.\n\nSchaltverhalten\n\nGW...A6\n\nKurze Reaktionszeit bei Druckschwan- kungen\n\nGW...A6/1\n\nLangsame Reaktionszeit bei kurz- zeitigen Druckschwankungen durch zusätzliche Dämpfungsdüse.\n\nÜberdruckwächter GW…A6",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmF1v2zYUhv+KoOvF5rfE3XXIlgEbhmJrEWBtIRySR7YWWzJIqVkT5L/3UHFRJ8jW5tKIAQMyJX68h3z08lDvbkvc4Bb7selC+WNR2gDCGu68C1xYwWtmmcdaKKha5MqVPxTlFkcIMALVvy3znyYNU/T4pYyNj0iXuUNeKcVYZYVasNx4fr4dQtd2/1NhFwePKX2twa0yVi4qIWptc7Udxm2XUjf0qdmLeXdbUsdZhpSCqbsPVC2iH2JoNoOHcYizwh2M69zt8m3CmJax8x5ioIZpjDB2afn6k19D3L6Owz/ox7QMU79KzW7wyzD4KU9WOht6XGYtgjcXkEKc/NU1oF+PGJuLy+aVac5/as4Xu9CWd3eko+022MM2iyu/s92+1fhpN7eC3W7TURQU8XL/eAP9aoIVphx8if2qzCHv6E7TT1uHOV4+34lfV9h4petKWyM1WM5aJZkPNee+ahXIoMssd8R/x1z572kDKVH82BddX1xjR0Lp/3VHkrt8l6L4iNFFmPw6bd5PjKHqA8Z+kRV+Ef8HxDy3H/FN7phGeMydEJbVqtYaKl47WnFTO6mUMqaVJMyfuDsy7sQhRr9M/VXu4BCJN924wadQAKsq4ZwWlWvBKYEajLO0WA4kC4KdUDg2FB5b0Ddf9kN2fu76FvyaLCdeYXaW4nyWfG81s+yi2xa5GDwNOAdEVySLep4HORuCNMCq4KWtTK2clDQxghmDoWYn8F4WeOcdPoEaRJc3wb4Y1j0Wv3ab9qxI2GNcdfg83GhYqTyXnAuDzMnAtVKVA9M6gEq3J9yODbdDev6iwDYjpUb5gt+381WscsqZipwstJU2IhAHlI57BN5aWqETEUdGxGMD+uY7f4jQxeVisXhlDtF525MIXA2xu8HwX8ZSO11LrpBbroJptdStMyZASyc5Jyt7wuhFYfTbFG+w+BNhTsHTDW1fBe1h93tb8utr6M+Kq/mM96z9i6GpaldrlJwpz4R31gpfQ2Ci9tbDCbMXhdnerZb82X5FqwWt51yp4Lis6acV59xxDAqCFieQXhRIv9MIiWQ/YVlXZGVnRS7O354OHOzev4pATKyLmyndp+zjDclfUxp/X9zu2jytIZdan56brztvfNCaKW3J83ylbfAgasO0RzpNnDA9NkwPqXv4/eDBke/i8v0kmDAPU7F9Fv/hMzdEY9s=",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "7ad313ea9a506b38c5b19b3fd7a44b07",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Das Schaltwerk spricht auf Überdruck an. Beim Über- bzw. Unterschreiten des eingestellten Sollwertes wird der Strom- kreis ein-, aus- oder umgeschaltet.\n\nDoppeldruckwächter\n\nGW.../...A6\n\nKombination aus zwei zusammenge- flanschten Einzeldruckwächtern GW…A6. Die Einstellung der beiden Sollwerte erfolgt getrennt und unab- hängig. Dadurch ist eine Kombination unterschiedlicher Sollwerteinstellbe- reiche möglich. Die beiden Schaltwerke werden vom selben Medium und sei- nem Druck beaufschlagt.\n\nSchaltfunktion",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztVktv2zgQ/iuEzrUsUu+9pfAih6JFgTTIoS0EihzKbCRSIKl66yD/fYeKs/EW2dcx2Bwk2cN5fDPzkcPPdwmMMIEJnZbJLyQpeaFopuoWhKqzohQ1VL0qgZYKWN62yRuSTBC45IGj/l0Sf3TeLk7A43/ohAP8rA5pXRRZVresSLNovK5PVmql/0ZhdlaA908atC2qNk9rxppyBTGDm7T32hrfncB8vkvQcYSR5ywr7r+imgNhnexGK3iwbkU487CPbrfXHpzfOi0EdxINfXA8aL/9+EPsuZs+OvsNRPBbuZjBd7MVW2nFEovlN9bANmJhtLvkXrpF3B44iH0A113edBdVt3vb7dJZquT+HnEoPYLhUwSX/Eu7k1X4Ma9WfJ5HjVlgxtvT8sjNsPABfEw+ATMkMeUZJZ1Zph5ivmyVuKcOF72ohCxLbG4LORV12UrBWVNlpYCmp0mEG+C3EJV33JMrrMYYDuBuiZ+xWvtA+KLIlyXLpMAgaxKEm5S8BT09yTekPx5Scm0wNy/2DnQAQ7DMBLRB0AHGMUqu7Dii94ALB+0kajhyFZydNuQWjVb1zRuM6TfExsVlQusVFIQ01uGxRB+4ix38Dp8ifMzjZ3Y3mWpVWQhWZUJmddZXoOoey0GpYnWRvbL7pbH7T2S18wzjQ9TIQijWyOcM+aTDCM8xA085YA2toKaQNwWt6pbyGlQpmpoz7P4rM14YM34+9/5x759T6fImTdMtPhfVOX2uDQKBwTp9BPlXh4wCkDUt0bekTcbrXDUNA96XTDGpWPVKpf8Vld7ZqddmDRpnGDkeQJPj4vmEZRhgQxRi8BG+Ib9qc3zmBDPk8ubLwjJWXVQp2WmIiuv8xLKu87IHLc9HKQGn7DgEMkBA4CaQxUh8eL8h+wfPZtADOuMSebcn2oc4Z4Gcw11OoxtphnXbx7n8GOAUv0f8OKNxjUzRraqGqPkA8hHUH/cHIPiOou92Ih7Q2pD3IPUyrfA86A0xMJHdeqPoAa8ZGH3kw38c89iUQhWUyjITLZV9QznLalE2VZ4DZfx1B760HXi+oR74pBZzG908M92//g6aTiY5",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f092a55b79aac7c9b80d1492531218a0",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Bei steigendem Druck: 1 NC öffnet, 2 NO schließt. Bei fallendem Druck:\n\n1 NC schließt, 2 NO öffnet.\n\nCOM  2  NO  3  1  NC  p \n\nDefinition der Schaltdifferenz ∆p Die Schaltdifferenz ∆p ist die Druckdiffe- renz zwischen dem oberen und unteren Schaltdruck.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztlU1v1DAQhv+KlXO7sR3HiXujXaniQFsJEIdSRY493jXkS7ZDaav+d+xoqy4CKjhW7CFK4pl38o79aHL9kEEHPQyhsTo7QVnFVWuo5KUGQ0wpmG4rrgtCuBEgGM2OUNZDkFoGGfMfsvTQ+HF2Cp7eoVEO4m0pSCrGMK4EZSucxEu8H7U19oWEyY0KvH/OIIJxUawqSutSpLQJXG+9t+Pgm52Z64csFk42ioJi9ngT0xyo0emmG5UMo1scTjJsU9n8owfnc2eVkk5HoQ9OBuvzqzu1la6/cuMXUMHneh42vplGletRzWmz/PE4QJ68UNKcS6/drL7eSlDbAK45/9S84c36tFmvJm2yx8fow9gOBtknc9lf6naqcDctKjlNnY1dxI7zXbiTw2aWG/Cp+QyGTZZanuJKM8x9C6lfuqy45xNWGjPDCNElVoLotiaS4kqVNS8KIFRmyW6A7yEln4JFPoDdwKChR+vk9wQRdHGGPs8YG27MAOEIUXRxibzadhbSujZhhZLWyK7blybXTw1dSJf2+xt8SB+LX/2FxaLUrahYWzDGyloWRlECRgtMMJM1P7D4X7G4UPcTYzvu9khc/RNgWlBBOChgQmNSEIFrJjGHWkJZa6wPgL02wPZ5Obt8hyIgiRBUoDi0Ej9oQvuIvO2j/ndoEFYwqloZLw6kxJHPMmKpudSlNAwf0HjNaKzB2MGmEkiDQ+9jn12IR2EgDqf7OFAoxXxCawt/jFkfkI7x5b+2hI/RknB/a+OQglS5R2ObVGgedLzC8rwrmGQvTaubH24rC+o=",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "0b6e42c112defc5081f530cc5227e800",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Druck am  Meßwerk  Einstelltoleranz  z  n  e  r  e  f  f  i  d  t  l  a  h  c  S  i  e  b     e  g  a  t  s  u  J  3  1  NC  k  c  u  r  D  oberer  p  Schaltdruck (EIN)  N     m  e  d  n  e  l  l  a  f  COM  d  n  e  l  l  a  f  2  NO  d  n  3  e  g  i  e  t  s  unterer  1  NC  Schaltdruck (AUS) \n\nSchaltdifferenz ∆p @ GW...A5/A6\n\nin Abhängigkeit vom jeweiligen Einstellwert (p↓)\n\n3,5  ]     r  a  b  m     [  3  2,5  2  1,5  1  0,5  0  p ↓ [mbar] ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztVVtP2zAU/itHeQKJtY5za/a0jiLEJBgSIB4Kihz7pDXNTbYDY4j/PtttRzexaXtEIopix+f2naPv+MyfAqyxwdYUUgQfIRBZjDHnvKJ0EpKc8hhTJLyKJhmKMkmDAwgaNEwww6z+U+A2he4GxXH7jwVXaBfvMMzimJAsp/GIOGMvbzohK/kXhV51HLV+0QjzOM2jUWZhJblT61E1UmvZtbrYgJk/BdaxgxFFlMTPt1ZNIe+UKOqOM9Mpj7BnZuncjq80Kj1WknOmhDXURjEj9fj8kS+Zas5Vd4fc6LEY2oUu+o6PRccHVyz9oWtx7LDQsDhmWqiBrx4Y8qVBVRxfF9O0mH0uZqNeVMHzs8VRyRpb1jhwwT/abazMY++tWN/X0mZhMx5vxDVrFwNboHbJB9guApdyb0+KdmhKdPlSF93gN+N8zFw8YA3AKd4MhIjqAdUK4Ei22mBdm65GxdrvAPZtARBA+W/lXwkgAAxADcAAlgAc4MKfW50S3GM3Cy+1ahpgAPgCEAGEAGeHACtvM3i/M4DOgkS77a0fW/Ta+IrA3tHJ2b418B4b71RsAdXb8BbQ4dfTP0iotf66lUVbWGugG2StWcfeIPsl/vTqYh9cibfVP2lsVQNby98bpppURGAqkKRZRGjGiRAZT8qMpWmSkfi9Yd5yw2xIIavKcsX2xc1AKUl7+ATH16PRaJqMp+kuTS6lqV+lCUljFlOWVDTMMyIYmaRRTChNQxJmLObvNHlrNPEn6j8ugl1eyRam5dJdwRi3C7lYoTRw3zVwhw8oa7nA9uelbK9oA3u9pV6YR/u7bDtjylX2Hi+d21dYFzOS8yiOGCJjeSKSHBlmUVkKWpWsEu+se2us2yVRdJAA3AI4GjHiRyrzY7h5OZv76Uedph2JoVvtvCNutdJ+rbam1no/b0qmbl+bfbc/AGWmHg4=",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e99f34f3ffc6809e5c8cea2d1e53a93d",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. 27,5  25  ]  r  a  b  m     [  22,5  20  17,5  15  12,5  10  7,5  5  2,5  0  p↓ [mbar] \n\n2 … 6\n\n3 … 6\n\nTechnische Daten",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztlU2L2zAQhv+K8Hkby5L8od5aAtteSg4tPWSDGEnjxG38gSTTLiH/vZJ3lw2llNJbIAcha+ad0TviAW9PGR6xxyGozmZvSYYCCl6i4do2lSlBm4rX2GgEXVAhWXZHsh4DWAgQ9acsfSg/zs7gyxmVcRi3pWFRC0FpLZlY0VS85PvRdm33F8HkRoPevyoKKSrJVzVjTSmTbELXd9534+DVs5ntKYuNkw3OGRXnXZQ5NKOz6jgaCKNbHE4QDqlt/sWj87nrjAFnY6EPDkLn882jOYDrN278hib43M7D3qtpNLkdzZwey78ZB8yTF1aoe/DWzeb7D0BzCOjU/Vf1rlLr92q9mmybnc/RR9sdcYA+mcv+se65KjxOSxVM07GLU8SJ8+f0EYb9DHv0afgMh32WRp5iRA1zrzHNy9LtAX+G5eb6riSExbUjxBEChGhCekIeZkqBErKNWbZo4qFY1EVaS6yIsSWU8mmP5+lhZoXkT/XbXoPbkWTtxfXHPrrJooffQWtrWZRMt4LpsgVuwWiKRjAGUvKq1jfQrhq0SBSjrCLVJQybWPDpSf8HInTLhBG1bamRVc1RRzTAUmASGGjKb0RcGRH8kgj+H0RQXsbfUI1UNKVtWaNLwUuuSw21kLpobkRcMxGf401D580ByTo+83DJxQcEm5jY/QIrxbES",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "53d38eb66bf6ffaec673f9ef710a3223",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Max. Betriebsdruck GW 3 A6-GW 150 GW 500 A6 A6 500 mbar (50 kPa) 600 mbar (60 kPa) DruckanschluBB Standard (V0): mittig nach Gehauseunterseite ISO 228. G 1/4 - Innengewinde Sonderausfithrung (V3): zusatzlich G 1/4 - Innengewinde seitlich rechts MeBanschluB im Metallgeh&use integrierter MeBstutzen o 9",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Max. Betriebsdruck</td><td>GW 3 A6-GW 150 GW 500 A6</td><td>A6 500 mbar (50 kPa) 600 mbar (60 kPa)</td></tr><tr><td>DruckanschluBB</td><td>Standard (V0):</td><td>mittig nach</td><td>Gehauseunterseite ISO 228.</td><td>G 1/4 -</td><td>Innengewinde</td></tr><tr><td>Sonderausfithrung</td><td>(V3): zusatzlich G 1/4 - Innengewinde seitlich rechts</td></tr><tr><td>MeBanschluB</td><td>im Metallgeh&amp;use</td><td>integrierter MeBstutzen o 9</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d3d93070ba82b13c1952f09aa6fcfb53",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Temperaturbereich Umgebungstemperatur -15°C bis +70 °C Mediumstemperatur -15°C bis +70 °C Lagertemperatur -30 °C bis +80 °C Werkstoffe Gehéuse: Aluminiumdruckguf Schalterteil: Polyamid Membrane: NBR",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Temperaturbereich</td><td>Umgebungstemperatur</td><td>-15°C bis +70 °C</td></tr><tr><td>Mediumstemperatur</td><td>-15°C</td><td>bis +70 °C</td><td/><td/></tr><tr><td>Lagertemperatur</td><td>-30</td><td>°C bis +80 °C</td><td/><td/></tr><tr><td>Werkstoffe</td><td>Gehéuse:</td><td/><td>Aluminiumdruckguf</td><td/><td/></tr><tr><td>Schalterteil:</td><td/><td>Polyamid</td><td/><td/></tr><tr><td>Membrane:</td><td>NBR</td><td/><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "fd43b8313338e1aea17d93de613b0700",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Schaltkontakt: Ag Schaltspannung AC eff. min.24V max 250V DC min. 24V max 48V Nennstrom GW 10...500 A6 GW 3 A6 AC eff. max.10 A AC eff. max.6A Schaltstrom AC eff. max.6 A beicos ¢ 1 AC eff. max.4 A beicos ¢ 1",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Schaltkontakt:</td><td>Ag</td><td/><td/><td/></tr><tr><td>Schaltspannung</td><td>AC eff. min.24V</td><td>max</td><td>250V</td><td/><td/></tr><tr><td>DC min. 24V</td><td>max</td><td>48V</td><td/><td/></tr><tr><td>Nennstrom</td><td>GW 10...500 A6</td><td>GW 3 A6</td></tr><tr><td>AC eff. max.10 A</td><td>AC eff. max.6A</td></tr><tr><td>Schaltstrom</td><td>AC eff. max.6 A beicos</td><td>¢ 1 AC eff. max.4 A beicos ¢ 1</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVWGtP20oQ/SsjS7cqKiR+J6G9kRJACKlw0aWlH0plre114sYv7a5FoeK/d9Z2/EhsGj55vZ49OzM7O+ck338rNKIxTYQT+sopKFODTHxrYtu2b7sz39Mnqqpqhmfbk2kw8UzlGJSYCuITQdD+tyIHDk9z5tHtO3U8RvFRAGoT01TVyUw3R6pcXHyPUz8MwlcMMpZ6lPPGQpuZ9swYTXR9as2kWUZZHHIepgl3Kme+/1YQWLphGLpqvvxAM0a9lPlOlHpEpKzwMCNiLWHHXzllfMxCzyPMx4VcMCJCPr598taExbcs/Uk9wcd+nqy4k6Xe2E+9XCaLn6QJHUtfdM25JNxnubd5JNRbC8qcy2/OwnbOl875KPMD5eUF/QjCiCYkls4pB66rVomnrFhFsiwKMQqMeFx9jkiyysmKchm8QpOVIkPOcMZJ8tilMl6jmGHNCauG5frTCVXNqeUH+tS1TMMyXMslE3PmalMJLOgv4RDurEUcyTWfBHEjOv8k1pT4+GByOL8mv0awpIKF1C1D+TTGafnp8hsYsLBP8KlZKuDDUlWc2BqAl0Y8I8m/D4r5oMwXdvE9dgmD92i/uSVHYNczdjlTLh7L3cdbT9zUf6oc8oGljxWojqDn0iOScG8d5cslLpH2/vxOkMTHA4f39+rRaT0dh0KEK0iIt67nLuma5JzmCZ4Op6GgcHX3H+DxjRoT0MYmnNTvV0mC50Afw8Sn5WThb+ng/C7FaYaYQSjWDMtqu24nH+/vjaNTeM45Ec946GuotoE2PEiXiq9MFhDf3+6aLrfx1w6GMVzj/Y2iFV2/I3H2EQMc8CLEuFd4uAzDx0VLLnLxTBNIYba3Vyv3Bi79QmO8oETkDKuQhq2cfo1X1JUXStQmA9ufaNZDrqquegZuyOHDRIXqvS9SP8zjHswWSj3Vi1Yitgdt/M94p1gfuqHW446z07fAt5InA/9G2YaLNAhouxIlHJ3haZ3uIy6iPA4TzEBxC1d5cEhMd9jlIiHDCqMezNs0eiJx6B8CdU1jl5Gk5drN8v+hha84s0kTQTaigVms3oKy0wBKTDmRtK7afHEGNAhGgBkb6eZ90wHIr3qsW+r9IW6fnxUwMIRjTg+B2fH7hiYJclEaN8ePbVQdjUZ1E+27L1XP3UdvzCR6HT52bw3hetCMHTN78ZrLVpPqjtMdBFiAi30g5QPOy+omOmjQXmXWq2D7ff8I2guMvW22wOqx3XKsHtYr9SYR8+6W9creTfHwm6JBvloM7dIiGlkvjWlPOQ0g1oPzswPR2jU50v6CJNlc64G5iOgGOR55BGlgUfJJi01pTbIBBCEDHCJNhDyNJHMcQ7pOhgjmMxKYpAI/5Ugrknrh/OoGLm5Am1hgqNrJVEX9YkCGYKtjuGB+tZXR20FwX8JEw8W3YJkl7NXFGVj6bIhucUdbxe9HPdGHeBdpFIk0wt6fPNfoH1DZwD9QVn6WJxvUSI+S6jAiCJBgKXJ0DIUKOR7Y2KXP6QpDJ5g7H593aRQ9Fln7mXMh8yfLGYk+2bBSJELVaiMkpJ6ydB+JVBjtdvcuEh+hcvY5jwhq5hUtsyITPbXMAedaYOgch20mpIP4Kh37TF2acJ/klGUsDIN630qklepsXKpH5aVSllJR7mtHaOs1eff8AIMtB93ZPXEBDWNCt+lD3Uuh1aKgr6Qr8LqMYPfkoZ2QqtmiJKskbq+ErXXvvpiFrg6FSn9uid7s6s5e/VdWdqVIodGWEiDwCn0JtZIsUd8gJ6GtFGufYEcUllnbKsNi5ynMoEflASoxGBB0sKffXrXeUWOAKgwG1FcnoaewK5SaQ2+kEGyVD9SyBlDOQFeiwGIFbRZACQD3BZUAigccNtJgO29OcVRQ+UOuq7pdlca2lNpEBpKZuzN234S8hBVXGb61Q59g/tXC2LdAvuva6H+xqRmob6rOwsBbESt0x21OqQ6oqmkGb6WMPjZq8UgFv88U0HBCWUraa+3+wD6+ywpDjR131HXb7GyMrbus47J/v7U5l/mTDbrT+osf+9UfDF9kl1ZefvwBtNfPKg==",
+      "is_continuation": true,
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "158a7839fb9a177369827c734b2c2a6f",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. AC eff. max.3 A beicos ¢ 0,6 AC eff. max.2 A beicos ¢ 0,6 AC eff. min. 20 mA AC eff. min. 20 mA DC min. 20 mA DC min. 20 mA DC max.1A DC max. 1A Elektrischer Anschlu Steckanschluf fir schutzisoliert, ohne Leitungsdosen nach DIN EN 175 301-803, 3 polig, Erdanschlu3",
+    "metadata": {
+      "text_as_html": "<table><tr><td>AC eff. max.3 A beicos</td><td>¢ 0,6</td><td>AC</td><td>eff. max.2 A</td><td>beicos ¢ 0,6</td></tr><tr><td>AC eff. min.</td><td>20 mA</td><td>AC</td><td>eff.</td><td>min. 20 mA</td></tr><tr><td>DC min.</td><td>20 mA</td><td/><td>DC</td><td>min. 20 mA</td></tr><tr><td>DC</td><td>max.1A</td><td/><td>DC</td><td>max. 1A</td></tr><tr><td>Elektrischer Anschlu</td><td>Steckanschluf fir schutzisoliert, ohne</td><td>Leitungsdosen nach DIN EN 175 301-803, 3 polig, Erdanschlu3</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "191a393650d8f0b9f2686f60cf4ff524",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Schutzart IP 54 nach IEC 529 (EN 60529) Einstelltoleranz + 15 % Schaltpunktabweichung fallendem Druck, bezogen auf den Sollwert, justiert bei senkrechter Membranlage Abwanderung < + 15 % zulassige nach EN 1854 Abwanderung des Einstellwertes bei Lebensdauerpriifung",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Schutzart</td><td>IP 54 nach IEC 529</td><td>(EN 60529)</td></tr><tr><td>Einstelltoleranz</td><td>+ 15 % Schaltpunktabweichung fallendem Druck,</td><td>bezogen auf den Sollwert, justiert bei senkrechter Membranlage</td></tr><tr><td>Abwanderung</td><td>&lt; + 15 % zulassige nach EN 1854</td><td>Abwanderung des Einstellwertes bei Lebensdauerpriifung</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1792f5c69b09f929a9d295e21d3a58f8",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Anbaumöglichkeiten GW…A6 Sicherheitsmagnetventil SV-… 505-520",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJyNUU1v3CAU/CsW5+4aY2Pj3raKtNdIaZtDEiE+nm0aGyzAbaPV/veCu1FuVU/AezPzZnhPFwQzLGAjNxp9LlBf4Yo2DR4k6xiriWCqaiXDvWZSVqRGnwq0QBRaRJHwF5QvPLjNK3h/A1ce0rELVl1Sw11PmiPO5L2/OG0G8w/A6p2CED4QVd+0fX3sCGG0z7AV/GJCMM4GfjPzdEFJONuoa4Kb60uCeVDOaz47JaLzu8NVxCnLlt8C+FB6o5TwOhFD9CKaUN6/qUn45d67H6BiKPVmx8BXp0rt1JY/KxychTJ7IRU/i6D9pl5/CVBTBM/Pj/zU8rsv/O646gFdr8nHYGawYsnm0H/ybqz4tu4ssa6zSSlS4vLWnoUdNzFCyOER2BHlyGuqcLstEnLeeq/4jw3jmkrNOsANo3ogTNKmprWkUnRNLyuGst0Iv2MGn6wU2/K8YTy0Yxo/vYKJYIvz4/NGMGlPbfGQquCnVA+LGC3En2mWmYuH74e/mIJieqBkX+57mK8mzoCuL38AtobJDw==",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d5b57da776dab7a183860352be00938c",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Druckabgriff GW…A6 Anbau möglich … 1 nein 2 nein 3 pe (p1) 4 pa (p2)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Druckabgriff</td><td>GW...A6 Anbau méglich</td></tr><tr><td/><td>nein</td></tr><tr><td/><td>nein</td></tr><tr><td>pe (p,)</td></tr><tr><td/><td>pa (p,)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNUU2L2zAQ/StCpwa2sS07/ihpICWQ6x5actgsYiyNE7e2JSSZNoT890qOl932sOxJo5n3nt4bPV0pdtjj4Hgr6RdCa0yEqMocMgmZyFIoi2IVA2uqNKuxSugDoT06kODA4680FNyq0Qh8uSMXBv0xCSZFlsVxUbFsGQfyNO+VbJv2HYA2SqC1r4ikyvIqXRaMlasqwDSavrW2VYPls5mnK/XCwUaasji7PXuYQaGM5J0S4JSZHGpw5yAb/bBobGRaIcBIT7TOgGtt9HgRZzD9o1E/UTgbyXE4Wa6ViKQSY1iW/awGjIIXlvA9WGlG8es3oDg7NHx/4Nuc777x3VLLht5u3kfTdjhAH8zRD/JmlrvoiQVad61P4RNH87iD4TTCCW0IT3E40RBZ+w4fxr7GkDedOub1h6skTlZ+5U1dFmWZMihFktdlXMmyrhOWBmGHfxwHy8+u7wJn7aDucLN2ZwTpDxPKzS64h/pk2qZZR74RmvvDcrnc5mQ71DCS/jjGMVYn7/x8h0SBHL0I1UpeZj0Z2nIqBmyH+2VCf2hMhOqshuHrkbIj3Wgkn/TD4h0VDf8jotlOdE9Lb/MmwgbeZiX7w3FkMcv/jdnkU0xyn5GEBJ+E3Y+UTI6SBcnI9DJbTIueP/d7eJHenv8CatAfkg==",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e96728a3071f030c8458563e14d77060",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Druckabgriff 4  Druckabgriff 3  Druckabgriff 1  Druckabgriff 2 \n\nEinbaumaße [mm] GW…A6, A6/1\n\nDruckanschluß optional  mit Dämpfungsdüse bei GW…A6/1  3  4  4  3  4  ,  7  2  2  ,  5     ø  optional:  Druckanschluß G 1/4  53,75  73 \n\n12,5  2  3  4  ,  8  5  2  ,  9  3  1  ø 4,2  3  ,  0  1  18  Meßstutzen ø 9  Verschlußschraube mit  Längsschlitz 1,0 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztlMtq3DAUhl9FeO3GkixbVnYpU4ZCW7LoZZEEI0tHM259Q5LbJiHvXsnO5EYo2QZiDNaR/nMTn8/ZdQId9DD4utXJMUrKoiFME2UAgGrJhShFBTJXArOCmSpJUdKDl1p6GfTXSVzUbpytgoMNtbIQPktAwhnDmAvKjnB0Xs77Ubem/Y9gsqMC5+4VRLBS5Eec0qoQUTaB7Vvn2nFw9W0xZ9dJCBzLyHOK2c1FkFlQo9V1NyrpR7tUOEm/j2Gzbw6sy2yrlLQ6ODpvpW9ddnqp9tL2p3b8Ccq7TM/DztXTqDI9qjlelns3DpDFWiipt9JpO6tffySovQdbb3/UJ2W9eV9vjiZtkpubUIdpOxhkH4tLXuh36+Uvp8VLTlPXhi5Cx9ntcSeH3Sx34GLzCQy7JLY8hZ16mPsGYr95zO7hr48xNjGfbHa2NQYxhB7Z+RObPLEpijkP5XzsQ5okBH9KkNIFx5oxqgimklXGiKKgsikKzEmw3gh6ZQSxhwR9aIdGzr08nzHWBtBZ31+g7Y/zmWJanpQpOikz8pCTL9LGO/kNX2OEZ3hhOQYjwpyR2DQ6p5TwqlKaCMVFWZbkjZfXzMs6QQan9t28MoPGKUaUHUJ969Em7gLrJxN71tEyygFqoH3AVRaGUZhPbHnXRYoQR2EoxTesCxSfxb1CdzmODzPsUQVbRLIQochTHtx4/rLBlisMNOdUElKWVDCiuRGYV7IktNCFegP1NYNKaFosLN3RVS1QrXSJZZ/cAcbSVRmO8LJPgvozrHw5P/srGA7a4Ps93OY9f2Fp5dzAwj/6tP4A4R6jpPVXiKT4OSIv/gGskgGr",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "05508d76fae7ff097849139b1c916332",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. 72  2  y  n  a  m  4  r  e  G     n  i  6  2     e  d  a  M  4  5     P  I  Steckanschluß für Leitungsdose  Dichtung  nach DIN EN 175 301-803  Schutzhaube für Steckanschluß \n\nEinbaulage\n\n1  3  2 \n\nStandardeinbaulage; bei Abweichung Schaltpunktänderungen\n\nbeachten:\n\nGW 3...50 A6\n\nGW 150 A6\n\nGW 500 A6\n\nmax. ± 0,6 mbar\n\nmax. + 1 mbar\n\nmax. + 3 mbar\n\nα  2  3  1 \n\nBei waagerechtem Einbau schaltet der Druckwächter bei einem höheren Druck.\n\n2  2  3  1  3  1  2  α ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztmVlvGzcQgP/KYF+bSLyP9MmBA8NAaxhIijykgcBjaG2t3RX2qJMG/u8l104dFEZhPW6xgqAVyeFwhvwwQ40+favwgA22466O1RuouIjBJ5UMccZIy5EwHRxipBZljK56BVWDo4tudFn+W1W+7IZu6gN+b+Mu9Jgfs0KqhSBEWyY2pEyex5su1qn+D4Fj3wUchicJaoWyfKMZy1YVsSP2TT0MddcOu0djPn2rsuJiBueMiPvPWazH0PVxd+iCG7t+tvDoxn1Ru/1twH7Y9nUIro954jD2bqyH7fXXsHd9c913f2AYh22c2pthd+zCNnZhKps1vO5a3BZbGN1duCH2U7i9cxj2I/a7i4+7M7U7f7s73xxjqu7vsx2pPmDrmmJc9cJ5j7PGr8d5ljseD3X2Inu8fRw+uPZmcjc4FOcrbG+q4vIx9+zaqfFY/BVl9RG/jEWHZgD5/RWgBXAADYAA6AEQ4ALKK/fXAGoWg7k/zpK/zpJy7rwGuAR4P2K4de0Q9ofp94mQmCCVZwo9/IL1WDYtdkPWcF5n/3Iza3dhD+eXV/DuCqiWwAl9bQjPysJ+Gv/au8njk5ZnVihef9+QyyY7WmX3/s1wYoZ4icqkyJS1wgdMkqAVUlNvMlMrwwtm+F3dejcdytn/AMOHejw8CwNByYXHlKIUxCtjjSECFaJX0dMkVxiWDAMF4CVWvSguuEQij4JbjEo455VghCZqvTHJaB1WFJaMwvvRtTE7i//Eh5/BYw1n/g5zAir5J2cZdxiPU3s7lnyCoo3Y5wFsf+TnyvVlr/7ED0XzcyHFCaJYtDyTo/OFSaqEXkbqfUgoHsxfOVoqRx5dWap9cxITlgWXDwiZdQ6j8U5SzHdopzBHFqFwZWLJTFx8BL7ZbCSBM3USFonZGKS0lCvGNDPCBIycRa04UUqKFYuFY0FPZ0JiiiQSGYiwPiZpWDkt74XJmDirViYWzoQkJzNBEWX+rcqZUmhlVCkRrgVaLZF4bfnKxJKZaNyXDZQbp6dAXilovOtPwkPwFJETL6JNSaTgtY/BapZTi+DemxWPxePxE9DTucBEaWLRBIY0aspQC4rUUMvRi8TpysX/gAt+OheS8SglNdpwG0SkhuRziMrbnFMcprXSsWgucibhOZOUEj2HHDZeVPwKTkstPRUkGJO8l45TkoQzWllCkaxILBmJt1jDncvj/bxkAw9VchjmiheOELGH89moh8rXbNhcH8O6zfL7+U8Xtc8K2gfBzUkRh4t8Q9FRay6Np0xQ7ZIKyTjmqUJcM9Gi8WJPwebxMzcfw9Az0efz3zPDl2o=",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "0a6f4efbc71b29eb3be259730571dc30",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Bei Einbau waagerecht über Kopf schaltet der Druckwächter bei einem niedrigeren Druck.\n\nα \n\nBei Einbau in einer Zwischeneinbaulage schaltet der Druckwächter bei einem vom eingestellten Sollwert maximal höheren bzw. niedrigeren Druck.\n\n4 … 6\n\n5 … 6\n\nBezeichnung  \n\nBestellbeispiel\n\nDruckwachterausfiihrung\n\nDruckwachter GW...A6\n\nEinstellbereich\n\n0,5 - 15 kPa (5-150 mbar)\n\nKontaktwerkstoff\n\nAg\n\nElektrischer Anschluß\n\n-~\n\nGerätestecker\n\nDruckanschluf3\n\nG 1/4 an Position 0\n\nMeBstutzen\n\nMS 9\n\nVerschlußschraube",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztmllv20YQgP8KoacWiKW9j77ZSGAUQQMDSRugaSDM7s7arClSIKk4B9Lf3lnaQYwiDaz2iTBfRGo1sztDfppjyTefVtjgDttxW6fVT9UqaPSCowshG/RcMZ6AeRbpA1zScfWkWu1whAQjkPynVTnZDt2hj/jlO25jj3SYJuRWKcasF2rNivL0+65Lda6/I7Dvu4jD8FWCe2W8XFshnPZFbI/9rh6GumuH7Z0xbz6taOJihpSCqc9vSazH2PVp23QRxq6fLNzDeFWm3fw6YD9s+jpG6BMpDmMPYz1sLj7EK+h3F333J8Zx2KRDezls913cpC4eysUaTroWN8UWwbfnMKT+EK9vAOPViP32/PX21Gyfnm2frvcprz5/Jjty3WALu2Lc6oF6d1rjh/2kBft9U5MX5PHm7ucG2ssDXOJQnF9he7kqLu9pZNsedgGLv6qsPuL7scxxhnX1rG4DHKobILG+rFz9cWAsRxKvnnf7XA3kfTPiWCUaeTpZWCRQTVZWgebAusVd1dId7OsyS3srty5GfbH3BfTlcr7DV2VxsuKfqHkmIUeVDGRtcnAo0ScmOCjDo0W5oDZn1AgZGXh1n4ifdyT+LRIQuAqRZYbRJIsmGSeMY0kZFMC1XkiYMwn3gk7dTqGjr36/qSnMYIvTeEPKDw8777pdOSMLRmxIo61edk1zg/1Y7eB9vYOmuppCmrmaQlP4eLP+v7FKZEbpL3gfhTNWAs8m5CClUilpE9hC6JwJVZQCBROmMvehuCCFF7fy3yBCo9MsBKmcgaidlFk55aQQKUKIkBYiZkaEvk+E/g9EUCHjfSmWwVomvXMGpbOB0lq02WZYiJgzEWf4Eet41ZJD1cOqGusxqZCiUoK7SAEiA7VVThofLTNaLTzMm4ep/KCyZNjX2BxVTYDiLPrgRZbInbMSg80auQBEloxfyJgzGbe1K0zLwWHIdX3Vk3P3CXlVj803Y0bWjJnAVaa+h26WLZAIBZRIQqRe2S5kzI2MaaQ/4r//byhV56/X6/WpOSrS2MxyzgguGiE5ISRcNsAweGpj0C57LI+LJ2rD77JWX4qZo1DSgVbIWSdns0oQM5NU00ijZcich6XheVwosSe6Oqm4rq4voPpBn3DNql2A/sejoOI+KYgqOuQoLGGlk5TIBCgVZDZLvntcUD3v2hGuxxvsr4exy/koltB4nZTmQVijZOCcqJFJ08pZCodLv/W4WDq9PIoe73W5k+CSKMhQXAoqa+uSSuizcQs9j4qeZw1ej/30kKKvTls6NofyUCEdF5MiaDAgmUnJURdnXUxRgpbKGJ0EX+rv2VF1H5KTvx60ERi9i8Lz4CLXRnvHMUjjdJBJAmiTFwjmDME59rfPKceyIxivSeKovcDsNOMUkhJG6stVklQQC8O0ZYYi07IXOGs4pg0cuE0fWR4FRtKJoY3lKQL1SEK5yLJhgcfgmXdmeSli1mCcV3yjKmiri26oy0wVO25jT3mqI5JhkWoa4FRU8OAT11EEcNIshcWs6fgFz4bxMH7E9igosmIGkwkGBJW02TFpUStL6SWDgrS8vDlvKF5W/rjNNeNiDIZ7ShwqlXeXwDNrPXW5iamw4DBrHH4jh792pXTawyHgdwB5+zd+LKJz",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "bb5c26b55c8cbba781edf7fad43a9ac9",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. An Position 3\n\nGW 150 A6 [Ag-G3-MS9-V0-VS3]\n\nGW 150 A6 [Ag-G3-MS9-V0-VS3]\n\n— _—\n\n— — ——\n\nDruckanschluß\n\n—\n\nDruckanschluß G 1/4\n\nV0\n\nPosition 0\n\nV3\n\nDruckanschluß G 1/4\n\nPosition 3\n\nVerschlußschraube\n\nVS0 Verschlußschraube an Position 0\n\nVS3\n\nVerschlußschraube an Position 3\n\nMeßstutzen\n\nMS9\n\nMeßstutzen an Position 9\n\nElektrischer Anschluß\n\nG\n\nGerätestecker, 3 pol\n\nschutzisoliert, ohne Erdung\n\nKontaktwerkstoff\n\nAg",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztm01v2zgQhv+K4HNTc4bfe8uiRQ6LLgqkTQ9tYQzJYaKNYxmSvN226H9fKk1bO/1wtNiLYV0sy+an/PCddyT69ccZL/mGV/2iTrPfqhmhVlEaaZJhAwlc9AGMp4DsZdYwe1TNbrinRD2V8h9nw5tF12zayF/OeRFbLofbBsEqJYT1qB6LofLt9zdNqnP9iwLrtoncdd9KgFfGy8cW0Wk/FFtze1N3Xd2susXdYF5/nJWGh2FIiUJ9eluKtRybNi2WTaS+aW9HuKb+amh2/rLjtpu3dYzUplKx61vq627+/H28ovbmedv8xbHv5mmzuuwW6ybOUxM3w8XqTpoVz4exICzOqEvtJl6/I45XPbeLs1eLU7N48vviyeN1yrNPn8o4cr3kFd0Mg5s9sN5drf79+rYWrdfLusyizHh+9/WSVpcbuuRumPyMV5ezYcrr8slitbkJPMxXD733/E8/tHG6qp43XT20UcmhhS+N/0ntMPe/+cVQslS5z4VmQO29tco6YYAjR+nQYmJMPgQ/cXHIXJy9qkCL6tRUr08vT87kybNzf3IhTi7O5dtRmIRIXinyrBVJdtaCdAozJiW9TNZNmBwDJi/qfsk/woNQ6gAFjADaAkPwyQgOJDiRSBQmPA4Nj9tP2hECsM3Tmw0KUNXi83GboJerMha+bNr6A6efiU0OpKKPpjReGNJMZJTROlgIUmWXJ5qOkaadw38kC8oPlzMHa5EMoDEJg8GCG3HWycaJrEMjaxuUJ0N/tOri1XLzZiPE52b2Bi/riJIyImTvPSKgiBKECsFFzGaywIcHxX252bvsv5eb0dKiAXyOzjnJSMGFzCwkEJQX4axUE0VHRdH3WlSdVTDf4Wp/1iWkYra+dBpZUvJKeAcpy+FcqUmZjoupCzGKHsPZA2knJCbERFlHtlZxMddRFV890XNU9Hy9QTiOIjIySKNL/qVKbDOIhg0K9pIKV4rFRNFRUXQx7vYy6CSJWUlb0ndFUHK9mL2JsfQHNLmiI6Pnf3FFNmdrhA465+C11RhKgMtFmTKQUJkmpg6NqR+GqR2h+WnyLiR5A7nEpBKh0LukhQyYlHUgk2c7wXDIMFyUCX/TivK2pU3gB4GRhNLZsSFNSWorRflJgozBRbCs7eRbDg6M+5Fn79LfIelcVD+mqaKth+fjvHEW0pNCLM7YYNLGaAcxmIg5Ou8nd3N0jI0zx1YFZSVQFJ4VKA1I0UmnogcsiTpO+BwXPvvlaeTenpScUxJ1McbofUBXzLkyMhpvXaFq4uvQ+NrG5RnfgdJv+g+8epApkikjUwqqZOBg0RthJASHRqCPOU/beA6OiPuKs3fN7yB07kcJikpOGWU9+JKAm2ClY2eYUfokYqDp8fmR4bOrQDuRaiRY1mJULHNyEsDZbIzTUoA3Sdtgpiz+4MDa5uTpkq/7ti6OhtvqdPT+jOKKAUrMiiVCRUzFLWvtlDImmeBo2lx4eHDcV529y39ns+ooZUnAUamcpb29/aOzKfl5JAiIkCFNOdaRwcPtoDys+nJ1OF5z+6iS1bpZjoJKhMJUFAZh6AhScUMBSQiTUUgbJx90XFCVgFYMUN01y5rb/lHVXK24etoOV2QUVp4MJrTO+lhysyJcwwM0IbPzkFPWZsLq0LDapuSPZtXTdf+O2+uub/LDvE90MbM10qtMAFGIEslAp2BBRTLTs87DQ+K+0uxd9Dv/8/uVoLz9FxtgS+8=",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "6432e93c91b825d364104711adaaac23",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Einstellbereiche [kPa] [mbar] 3 0,1- 0,3 1- 3 10 0,2- 1 2- 10 50 0,5- 5 5- 50 150 0,5-15 5-150 500 10,0-50 100-500",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Einstellbereiche</td><td>[kPa]</td><td>[mbar]</td></tr><tr><td>3</td><td>0,1- 0,3</td><td>1- 3</td></tr><tr><td>10</td><td>0,2-</td><td>2- 10</td></tr><tr><td>50</td><td>05- 5</td><td>5- 50</td></tr><tr><td>150</td><td>0,5-15</td><td>5-150</td></tr><tr><td>500</td><td>10,0-50</td><td>100-500</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNUk2L2zAQ/StC5ziW/BHHJQRatuw1h5YewiJkaRy76y8khTaE/PdqvMrGlKX0JL2ZeeP3nny8Uuigh8GJVtNPhGYqK6ot11lWl3nBNK/qhFdQ1VVSsnRb0xWhPTippZN+/krxIux4NgruGIQy4I95IS+yjLGiTLI1Q/Lc70fd1u0/BiYzKrD2McHLbFOm6yJJtnmJYxOYvrW2HQcrgpjjlfrFKCNNE5bdXvyYATUaLbpRSTeaWeEkXYNr4+8WjI1Nq5Q02hOtM9K1Nj5cVCNNfzDjT1DOxvo8nKyYRhXrUZ0xLBuNA8SoJeHiWVptzur1lwTVODDi+Yf4vBFPX8TTetI1vd28jrrtYJA9iqP/yQssd5lmlpymrvUuvOM4tDs5nM7yBBbNUxhOFC1PviKGc18B+s3ninm8cCk3iU6KbVGqIik5qDrXBUvrbclrXecbXOzgtxPSisb1HXJ2TlYd7HeuAan9YfC6/9oO1kHX+Q9BqxrYxb6IjePrQb48UF9JE2CM1Pi+phr1JWzT+9TX9XxjKx4RtnoUPAxg5gcCZwtGEr2DJCL31nI8X4znEcnfEYIP5vmSsMojvmTwjxg5ezA4W7EoX2KES1Ic7Mdv2dJbyB3z/jtZMidK3pIkKbknRDAZ75ZgAIST2bp3Q1AwyclsjfBQ4FhA4IWQIJAEYfOrhz/tGwqit5c/0448Tg==",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "af090c6a17fb31686dd177a7639501f4",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Druckwächterausführung\n\nW...A6\n\nDruckwächter schaltet bei Über- bzw. Unterschreiten des eingestellten Sollwertes.\n\nGW...A6/1 Druckwächter mit Dämpfungsdüse schaltet bei Über- bzw. Unterschreiten des eingestellten Sollwertes\n\nZubehör für Druckwächter GW A6",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztlktrGzEQx7+K0LnZl7VabW8pBt9KoAmBpkFopZGtdl9I2rppyHevtHaI24RSQy8hPu1qNI//DD8k3dxjaKGD3nOj8HuEiaRFlusCKJQNK1lTCC0klZooyHNa43cId+CFEl4E/3scf7gbJivhcQ1cWgifOWFeEZJlVV2QJIvB8343KKPNXxxGO0hw7skjrwmtF0lVFKycRYxgO+OcGXrH92Ju7nFIHGUsFkVGHm6DmwU5WMXbQQo/2FnhKPwmpk2vHFiXWiOlsCoEOm+FNy69uJMbYbsLO3wF6V2qpn7t+DjIVA1yisNyZ0MPadRS5HwlnLKT/LYVIDceLF9d83PKlx/4MhmVxg8PQYc2LfSii+LwP8bto/zdOEeJcWxN6CJ0nO63W9GvJ7EGF5vH0K9xbHkMFt5PXQOx3zJW9/DDxxzLud6XKcuAzDXF5HRcarmxocuY9LHepfEt4BD9JyKKNBWtNVtQwRhRjWZasQaAMUYVk+yEyGtDZLbYIw6BQ6aukyQ5p4fkfBQ2Tuk7XEaXlwhSTcUgZpSNyMpFVgumSV3QXNCwlieC3hRBz04l5MJsWg8eNWBQ3FAyFDpDzc9tgq764BI8LBgPPQojRWD6INBD20bLp6Ftt2A9uOQoLHUFUFIhSK6grKUum5IGanLFIOiWJyzfFpar3cmW5ug5oJ3xaLkzdKOOM1K7a9TBf4P3KHYrCFryqqrCNayUokTpLCOUVnWmFcmrE7uvjd1DFD9PDWxmwKhF+webfQHL1TX6/SreP+JufwFF4NB0",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c9cebab1489af0a34b199586f5fcfba9",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Leitungsdosen 3 pol + E, grau GDMW Meßstutzen G 1/4 mit Dichtring (1 x) Verschlußschraube G 1/4 mit Dichtring (1 x) Montage-Set Doppeldruckwächter Befestigungswinkel, Metall Montage-Set GW…A6 (für Montage an SV) 210 318 266 042 266 044 213 910 230 288 242 771",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Leitungsdosen 3 pol + E, grau GDMW</td><td>210 318</td></tr><tr><td>MeBstutzen G 1/4 mit Dichtring (1 x)</td><td>266 042</td></tr><tr><td>VerschluBschraube G 1/4 mit Dichtring (1 x)</td><td>266 044</td></tr><tr><td>Montage-Set Doppeldruckwéchter</td><td>213910</td></tr><tr><td>Befestigungswinkel, Metall</td><td>230 288</td></tr><tr><td>Montage-Set GW...A6 (flir Montage an SV)</td><td>242 771</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNU11P2zAU/StXeWIaa5yP5mNCSFSd+rJKSGzwAChy7JvWI4kj2xEw1P8+OzUqGxrwEn+dc3LvOfb1U4AtdtibSvDgKwRxNsekqOd0jiTleY28ZmVZYp3EOcOsCI4h6NBQTg21+KfATSotR8XweY0VU2iHSTDK05SQvIzTGXHk6byTXDTiDcCgJEOtD4ioTLMymeVxXMxLBxtQdUJrIXtd+WKunwIr7MpIkpiku1sLU8ik4lUrGTVSTRUO1GydbPhTo9KhEoxRxS1RG0WN0OH5I9tS1Z0r+QuZ0SEf+42uBslCLtnozNJfZI+hqyWOqhXVXI3s7p4i2xpU1eqqOsuq5aJazgbeBLudraMRLfa0w8njj/E8yzwOE4sOQytsF7bj0B+3tN+MdIPaNR9gvwlcy4Pdqfqxq9H1O5921CHhHAnBKM9zLArOeZbyhpA0y/KSNDyNcids8MFUVFdb07WOc2Jo3eLpidki5XZQbnr6HYVx1nCpsYcEBtnCZ/h2DBtFR1gt11cnoYU5aBwRSKJivw4dP3zWqiV/9JL8dI0LbUbz2+qtIApT6ISBpbD+KNFv4CiCh0+WyidwnGVA0ni/nkS9yqXNlW3bcWG/tpQaPyyWvhZby95YR79coCXLYcB2n9rNaH0sp+QOIlFSRuS1xgIbe7vExrl1L/o7bI9hbV9R2x6oCYG4KN7+/+pqNpudZXDUtEKBPwHaw8Xli07SGPI8eqEUepPDfYzBzkfson0/RFup65U37yYDz8Z7/Lvuw5vmppO58H/z4G9vbsaYxNlkj+M37F+LwF9D8DfHj6ndT8AGBz4E8BZOT8E/vx/OumB3+wfaSaMq",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "62d32ca1ec1549a3ff8345be0b0353fb",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Compact-Druckwächter für Gase und Luft GW…A6 GW…A6/1\n\nDUNGS Combustion Controls\n\nTechnische Kurzübersicht\n\n1 kPa = 10 mbar = 1000 Pa ≈ 100 mm WS",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztlVFP3SAUx78K6fO0QCm0S/bgdpObZYsxUXMf1DQUDvd2tqUBus0Zv7vQabwxxu3VxKce4JzD/w+/lIvbDHoYYAxNp7OPKFOyELWhuqwYjgEWggte67aVsmaF5tkHlA0QpJZBxvzbLAWNt7NT8DiGRjmIn6UhEYzh2IqyQ5yKl/XB6s50ryRMzirw/imD1IzXxaGgtCrrlDaBGzrvOzv65kHMxW0WGycZRUExu7uKaQ6UdbrprZLBukXhJMMutc3PPTifu04p6XQs9MHJ0Pn85EbtpBtOnP0BKvhcz+PWN5NVubZqToflD+wIedJCSbOWXrtZXf+SoHYBXLPeNEe8WX1uVoeTNtndXdRhuh5GOSRx2X/WPVSFm2mpktPUd9FFdJw/LPdy3M5yCz6Zz2DcZsnyFGeacR5aSH75MuOeblgAxkCEEFBVWmvOtMGYcS5qbDQjIktyA/wOKfmLHSapwsFqEXo5x1K2iEUmDYxyKNoANI8afZ9NQOvN5Uwx5Ud8L8xJUvto5Fi6dM4/4SxtEnd7ziDV2pBSlIyVxNSCVIaXTHAlJBREGPzO4FtjcB+p1fnx+hRFsNrZp0YxHIOzvd9n5OsQG7zEBitIZLBtKwYgdYUrKKSgmmNtoNCGvbPxltk4izuNnVc7QN9m9+fvLybm+S4q2OfjrAv9i3y0tCwUizdWGBDEMA4AypSEF0BpUdN3Pt4aH8/fr3/+AfaBIuj6RKJPiGA0tNItEcYozsW3ibIqDdEwoM3pKy/U1T0XHOOT",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "a252e76cf4c054206c53e37467eea6a4",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Typ GW...A6 Ausfithrung [Ag-G3-MS9-V] GW 3 A6 Bestell- Nummer (1 Stiick) 272343 Bestell- Nummer (80 Stiick) 228723 Einstell- bereich [mbar] max. +15% Schaltdifferenz Ap [mbar] p ¥min p ¥#max. 0.8 = o 3 0,7 Druck- wachter GW 10 A6 272620 228724 o 10 +15% IA 1,3 IA 1,5",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Typ GW...A6</td><td>Ausfithrung [Ag-G3-MS9-V] GW 3 A6</td><td>Bestell- Nummer (1 Stiick) 272343</td><td>Bestell- Nummer (80 Stiick) 228723</td><td>Einstell- bereich [mbar]</td><td>max. +15%</td><td>Schaltdifferenz Ap [mbar] p ¥min</td><td>p</td><td>¥#max. 0.8</td></tr><tr><td>=</td><td>o 3</td><td/><td>0,7</td></tr><tr><td>Druck- wachter</td><td>GW 10 A6</td><td>272620</td><td>228724</td><td/><td>o 10</td><td>+15%</td><td>IA</td><td>1,3</td><td>IA</td><td>1,5</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVltv2zYU/iuEhgIbFksUdaOH1ICLDMYeWhRItzwkhkBRlK1VN1AU0izwf98hdXMdueiTDsnvO/dz7MdXSxSiFJWK89T6A1lJFCY8jTxC11SkYZBRQmkkvCDE64QmgXWDrFIoljLFAP9qaSFu605yMZ5FzKWAj1HoRr6PcbQmvo012byXdZpn+Q8Ajay5aNsZ4a79cO3ZESE0WGtYI2SZt21eV208OPP4aoFi7YbnEeyf9gCTgtcyjYuaM1VL42HD1FGrdf5uhWwdmXPOZArEVkmm8tb5/MKPTJafZf2v4Kp10q46tHFTcyeteaeT1a7qSjjaF+LGO9amsuNfn5ngRyVkvHuIt2F89yG+s5s0s04n8CPLC1GxUjtn/SRvYKmXxrBY0xQ5RAERO8NzwapDxw6i1cFbojpYOuQGbuKqKxOh4w3NjZwr7HsuxiJJqC8ESymmwmMRSUOcZsJLM18rVuKbilkbH1VZaM6tYkkhNrfqCBT4SC0iWT+3DaveP1nkydp8eWnQ7sG27W1466jjAmLbtVmujhLSiR63h9XOW328X6/+2QMPeegq7wNURhTFCn3qylJI9KuL7lWe86+/IRIRz/d+lkfxTCQUqBOR18UZ8c+8GpiQQ5HzI3osEyb3V+yU7JuNfneDd1fU3UM7FQo6PgNt1X9o2wz6UIOeOoxZUObVFd3Nlfue94sxjW3aoxxTGFOczfuRuKnRFOdmEvBNdMZxxsImdfoyqEjPLPpg8U736go9M9OsQNH4dAOlc3Ffu/4CShISPB91ov3pOAk10KbDkLz+8Nd2Et0bb/k66OU5YONI8MYRNzh3BEUkWPIk+N4TlE/H2eYZc3uh48ILd8GN8MKNcDEhwZWM/EAYk/gmE299oN/XJDrTMdtdaeqVunw6LwFdvifnlXGGfnL69WGdhtWiV4peF3oh6EbOeL8UpoGdhHkSzxcG3o8jPXzGMTWbodeoh7wf+Pk8TN3u4akjmITbcFw8eo8gWCSor46HXLSCh6HlxxY3KOjtAeUjAih4edYWhG/mAo1t2IPdYAAHKEA6t2hqkAEQDoDQANwe0ZdvQNABEYEtbJRAVBcrxewBiIrg8GK5cArLxZ4PPRDjxAVj6J0hhT6CfTCLdAkBsziLwRKCmGsjekvv0yvkbMkAnRSZvxnjD98X3TzWaf8/QHyM3A==",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b7c1c447e9a7797a356250e28662102b",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. GW 50 A6 272615 228 725 o 50 +15% i A 25 A GW 150 A6 272616 228 726 o 150 +15% 10 GW 500 A6 272618 228727 100 - 500 +15% INIA 18 INIA 25",
+    "metadata": {
+      "text_as_html": "<table><tr><td>GW 50 A6</td><td>272615</td><td>228 725</td><td/><td>o 50</td><td>+15% i</td><td>A</td><td>25</td><td>A</td><td/></tr><tr><td>GW 150 A6</td><td>272616</td><td>228 726</td><td/><td>o 150</td><td>+15%</td><td/><td/><td/><td>10</td></tr><tr><td>GW 500 A6</td><td>272618</td><td>228727</td><td>100</td><td>- 500</td><td>+15%</td><td>INIA</td><td>18</td><td>INIA</td><td>25</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVltv2zYU/iuEhgIbFksUdaOH1ICLDMYeWhRItzwkhkBRlK1VN1AU0izwf98hdXMdueiTDsnvO/dz7MdXSxSiFJWK89T6A1lJFCY8jTxC11SkYZBRQmkkvCDE64QmgXWDrFIoljLFAP9qaSFu605yMZ5FzKWAj1HoRr6PcbQmvo012byXdZpn+Q8Ajay5aNsZ4a79cO3ZESE0WGtYI2SZt21eV208OPP4aoFi7YbnEeyf9gCTgtcyjYuaM1VL42HD1FGrdf5uhWwdmXPOZArEVkmm8tb5/MKPTJafZf2v4Kp10q46tHFTcyeteaeT1a7qSjjaF+LGO9amsuNfn5ngRyVkvHuIt2F89yG+s5s0s04n8CPLC1GxUjtn/SRvYKmXxrBY0xQ5RAERO8NzwapDxw6i1cFbojpYOuQGbuKqKxOh4w3NjZwr7HsuxiJJqC8ESymmwmMRSUOcZsJLM18rVuKbilkbH1VZaM6tYkkhNrfqCBT4SC0iWT+3DaveP1nkydp8eWnQ7sG27W1466jjAmLbtVmujhLSiR63h9XOW328X6/+2QMPeegq7wNURhTFCn3qylJI9KuL7lWe86+/IRIRz/d+lkfxTCQUqBOR18UZ8c+8GpiQQ5HzI3osEyb3V+yU7JuNfneDd1fU3UM7FQo6PgNt1X9o2wz6UIOeOoxZUObVFd3Nlfue94sxjW3aoxxTGFOczfuRuKnRFOdmEvBNdMZxxsImdfoyqEjPLPpg8U736go9M9OsQNH4dAOlc3Ffu/4CShISPB91ov3pOAk10KbDkLz+8Nd2Et0bb/k66OU5YONI8MYRNzh3BEUkWPIk+N4TlE/H2eYZc3uh48ILd8GN8MKNcDEhwZWM/EAYk/gmE299oN/XJDrTMdtdaeqVunw6LwFdvifnlXGGfnL69WGdhtWiV4peF3oh6EbOeL8UpoGdhHkSzxcG3o8jPXzGMTWbodeoh7wf+Pk8TN3u4akjmITbcFw8eo8gWCSor46HXLSCh6HlxxY3KOjtAeUjAih4edYWhG/mAo1t2IPdYAAHKEA6t2hqkAEQDoDQANwe0ZdvQNABEYEtbJRAVBcrxewBiIrg8GK5cArLxZ4PPRDjxAVj6J0hhT6CfTCLdAkBsziLwRKCmGsjekvv0yvkbMkAnRSZvxnjD98X3TzWaf8/QHyM3A==",
+      "is_continuation": true,
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ff83cfbb77d2f09ba49a1139a0f358b0",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Typ GW...A6 Ausfithrung [Ag-G3-MS9-V0-VS3] GW 3 A6 Bestell- Nummer (1 Stiick)* 231 111 Bestell- Nummer (80 Stiick) 229 958 Einstell- bereich [mbar] max. +15% Schaltdifferenz Ap [mbar] p ¥min. p ¥#max. 0.8 = o 3 0,7 Druck- GW 10 A6 231112 229 959 o 10 +15% IA 1,3 IA 1,5",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Typ GW...A6</td><td>Ausfithrung [Ag-G3-MS9-V0-VS3] GW 3 A6</td><td>Bestell- Nummer (1 Stiick)* 231 111</td><td>Bestell- Nummer (80 Stiick) 229 958</td><td>Einstell- bereich [mbar]</td><td>max. +15%</td><td>Schaltdifferenz Ap [mbar] p ¥min.</td><td>p</td><td>¥#max. 0.8</td></tr><tr><td>=</td><td>o 3</td><td/><td>0,7</td></tr><tr><td>Druck-</td><td>GW 10 A6</td><td>231112</td><td>229 959</td><td/><td>o 10</td><td>+15%</td><td>IA</td><td>1,3</td><td>IA</td><td>1,5</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVVtvnDgU/isWVaXdbgZ8AQZW6UhTZTXqQ6tK6TYPSYSMMTNsuckYpWk0/31tY2B2wqz6xLH9fcffufhw/+Lwkle8lkmROX8CBwYk5DRlOE1ZHqZBmOPYpwhFEaEoRZFzBZyKS5pRSRX+xdFG0jW9YHxc84QJrj7GIVr7PoTrGPsu1GRzXjVZkRf/A2hFw3jXzQgU+2FM3DXGURBrWMtFVXRd0dRdYsXcvzjKsZZBCIb+8VHBBGeNyJKyYVQ2wihsqTxot97fHRedJwrGqMgUsZOCyqLzvjyzAxXVF9H8w5nsvKyv913SNszLGtbrZHWrpuae1oJRsqNdJnr2/YlydpBcJLu7ZBsmNx+SG7fNcud4VDryouQ1rbQ45xd5liWfW8OibVsWKgoVsWePS1rve7rnnQ7e4fXe0SG3aiep+yrlOt7Q7Ii5wj5BEPI0jXzOaRbBiBO6xlkIs5yTLPe1Y8l/yIR2yUFWpeZcS5qWfHMtD4qiPkKbQDRPXUvr9w8OfnA2X59bsLtzXXcbXnvysIDY9l1eyINQ6QT32/1qR1afbuPVN7j6dkseFRkQcJH8QZWHl+UKfO6rigvwGwK3sijY99/fAUwQQAj9KjOCIxVgHIM4iCYma8oT5l9Fbakql7xgB3BfpVQ8Xriooj9c8AcK3l5wd6vaqpSq83Plrf4Jtq31B1rw0ENIg6qo3QvO2wv7A/GNuRu6NhLPVMhUafN+JG4aQCZ7MuDV+oTjjRVOm+zZusg2N7pNV+owM0tVKASHSg0bKv8I4XlpkhpP68loFG9a2EQNi4/byURXZHk7GOw5tuwkFUSl4omad3SqM3itk/xXZwiXdAYXdBYzOXjNI68UmlwtiPDPRKDFZF1SMRkLGsYMn4kI4GsRwZkIfOJkvnmluReq9vm0QNHyPj6tm2cbyxsGinO0w0YPGT1A9IjQHZ2zYUxMb3cy5je5MELsC7ef8dGaUTF4NeNiGADTxvgId3cPPYY43IbjKBoHyzgmAAIrdTA8BzA+A4vCFhUDrFDq5EnfwH3Tk2DsRQsmwDYfCIBOMJj6xAJ8C0AGgAbEUESLCCwCq7ugcaKiOpswZiqoqDAMz2YNi/SsmRcDEMJUuQ7AW0MKfaCmw2xGSwj1XGczWEJgs21MsnQ+naqcLV0QTY4C82+y/8OvuoOc4+O/HD+Sug==",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "4989f694edd8316f34f0a5f1518a27f0",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. wachter GW 50 A6 231113 229 960 o 50 +15% i 25 3 GW 150 A6 231114 229 961 o 150 +15% 5 10 GW 500 A6 231115 229 962 100 - 500 +15% INIA 18 INIA 25",
+    "metadata": {
+      "text_as_html": "<table><tr><td>wachter</td><td>GW 50 A6</td><td>231113</td><td>229 960</td><td/><td>o 50</td><td>+15%</td><td>i</td><td>25</td><td/><td>3</td></tr><tr><td>GW 150 A6</td><td>231114</td><td>229 961</td><td/><td>o 150</td><td>+15%</td><td/><td>5</td><td/><td>10</td></tr><tr><td>GW 500 A6</td><td>231115</td><td>229 962</td><td>100</td><td>- 500</td><td>+15%</td><td>INIA</td><td>18</td><td>INIA</td><td>25</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVVtvnDgU/isWVaXdbgZ8AQZW6UhTZTXqQ6tK6TYPSYSMMTNsuckYpWk0/31tY2B2wqz6xLH9fcffufhw/+Lwkle8lkmROX8CBwYk5DRlOE1ZHqZBmOPYpwhFEaEoRZFzBZyKS5pRSRX+xdFG0jW9YHxc84QJrj7GIVr7PoTrGPsu1GRzXjVZkRf/A2hFw3jXzQgU+2FM3DXGURBrWMtFVXRd0dRdYsXcvzjKsZZBCIb+8VHBBGeNyJKyYVQ2wihsqTxot97fHRedJwrGqMgUsZOCyqLzvjyzAxXVF9H8w5nsvKyv913SNszLGtbrZHWrpuae1oJRsqNdJnr2/YlydpBcJLu7ZBsmNx+SG7fNcud4VDryouQ1rbQ45xd5liWfW8OibVsWKgoVsWePS1rve7rnnQ7e4fXe0SG3aiep+yrlOt7Q7Ii5wj5BEPI0jXzOaRbBiBO6xlkIs5yTLPe1Y8l/yIR2yUFWpeZcS5qWfHMtD4qiPkKbQDRPXUvr9w8OfnA2X59bsLtzXXcbXnvysIDY9l1eyINQ6QT32/1qR1afbuPVN7j6dkseFRkQcJH8QZWHl+UKfO6rigvwGwK3sijY99/fAUwQQAj9KjOCIxVgHIM4iCYma8oT5l9Fbakql7xgB3BfpVQ8Xriooj9c8AcK3l5wd6vaqpSq83Plrf4Jtq31B1rw0ENIg6qo3QvO2wv7A/GNuRu6NhLPVMhUafN+JG4aQCZ7MuDV+oTjjRVOm+zZusg2N7pNV+owM0tVKASHSg0bKv8I4XlpkhpP68loFG9a2EQNi4/byURXZHk7GOw5tuwkFUSl4omad3SqM3itk/xXZwiXdAYXdBYzOXjNI68UmlwtiPDPRKDFZF1SMRkLGsYMn4kI4GsRwZkIfOJkvnmluReq9vm0QNHyPj6tm2cbyxsGinO0w0YPGT1A9IjQHZ2zYUxMb3cy5je5MELsC7ef8dGaUTF4NeNiGADTxvgId3cPPYY43IbjKBoHyzgmAAIrdTA8BzA+A4vCFhUDrFDq5EnfwH3Tk2DsRQsmwDYfCIBOMJj6xAJ8C0AGgAbEUESLCCwCq7ugcaKiOpswZiqoqDAMz2YNi/SsmRcDEMJUuQ7AW0MKfaCmw2xGSwj1XGczWEJgs21MsnQ+naqcLV0QTY4C82+y/8OvuoOc4+O/HD+Sug==",
+      "is_continuation": true,
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "07f21a2a9fb72b57a5d704a97ec0f552",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. * inklusive Leitungsdose",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJyNkU9v3CAQxb/KimOVrjFm/ae3VJFyqaocWvUQRQjDeJfGBjSD00ar/e4Fa6Pcop6A4b3h94bHM4MZFvBJOcu+7Fhn7HSYGlGPRvIOahjaoR2l6JtDzUVv2c2OLZC01Uln/ZmVjaKwooG3MyiDkJetYd1JyXk3CLnnxbzdL8G6yX0giBgMEL0r6kG2Q7PvhOgPQ5FFwMURueBJXWEezyw3LhhNI7i8PGUZgglo1RyMTgE3wqjTqbStfhIgVeiM0WizkRLq5Kh6eDUnjcsDht9gElV29UdSMZjKBrOWYdHn4KEqLKJW95osrub5jwZzSoDq/pe6bdXdV3W3j3Zil0vmmNwMXi8Fjv2n7+pKr3Fz6Rhnl1PkxNX1etb+uOojUAnPwB9ZiRxzRfl1GaHkbbcKvv+wbGrOYRx7CaBtz3todCdsy+0EjZ0kK7gJ/qYi/rRz/nleyb3A7hu4VCZhA0F5/Q3su8Yytxf4UUyXp39kb72y",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "dba8344aa856c4da722110bf19572e55",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Typ GW...A6/1 Ausfithrung [Ag-G3-MS9-V0-VS3] Bestell- Nummer (1 Stiick) Bestell- Nummer (80 Stiick) 242 676 Einstell- bereich [mbar] max. Schaltdifferenz Ap [mbar] p ¥min p ¥#max. 3 GW 50 A6/1 5 o 50 +15% 2,5",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Typ GW...A6/1</td><td>Ausfithrung [Ag-G3-MS9-V0-VS3]</td><td>Bestell- Nummer (1 Stiick)</td><td>Bestell- Nummer (80 Stiick) 242 676</td><td>Einstell- bereich [mbar]</td><td>max.</td><td>Schaltdifferenz Ap [mbar] p ¥min</td><td>p</td><td>¥#max. 3</td></tr><tr><td>GW</td><td>50 A6/1</td><td>5</td><td>o 50</td><td>+15%</td><td/><td/><td>2,5</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVG1v0zAQ/itWEBII2jivTdGoVDRU8YFp0oB92KbIsS+tIW+yHW1j6n/Hdt46uiI+5c539/jx3T25eXKggBIqlXLmfEAOy9kyjiM/iygsE2AZ9RJvGSwgThI/98F5j5wSFGFEEZ3/5BgjlXUrKAw+pFSA/lhAbxGGGC+WfjjHptjGy5rxnP8joRE1BSmnDG8ZxstgvvD9JFqatAZEyaXkdSXTnszNk6OBDY0g8HG4v9NpAmgtWFrUlKhaWIYNUTsD636XIKQrOKVEMF0olSCKS/fyke6IKC9F/ROoki5rq61Mm5q6rKataZac1RW4hovvpRsimWjpr3sCdKdApJvrdB2n55/S83nDcme/1zxyXkBFSkPO+c+6vko9NraKNE3B9Sv0i90+XJBq25ItSPN4B6qtY57c6JO0assMzHtjeyKmCYeBhzFkWRICEJbgBAKy8FmMWQ4By0MDrOBBpUSmO1UWpuZMkayA1Zna6RL9EcZEor6XDak+3jr+rbP69tigzfV8Pl/Hrnfmqp3NoXVxkLNuZc7VTuiGopv1drYJZl+vlrMfePbjKrgbi54Df9KDgaKYoYu2LEGgNx66UpzTX2//tyDBQwXyQx/Fi/gEv8+86kt184DTHbopMyLuTqSX5GF+InSlV6hQestzDVT9Ruumh0INum0xJlHJqxP8mxPnXd0rcysKuhzXjsKOY7W5HupWEUaHU1hFo1WjCI/OOy96PTrHhv8+OrjFHYaf1eyxv5Stzs0Gz3SQWddy6ExvItEdjEY3g8XoR6M1Q56l13k9vc75cowzxS6+XKyni3uEqTdsdU+sxF7iGeF/80wOgPEB0wifYHpseMkL4NERy4MV8gKzXlyh83XZ5Ob/w7gE5D8cFLn9JNxOnM6+F64RrBGjEZtZmZx2ghtlMRrTuh+LcRBP/xn0YMXXoRo5ddKa/H7HN9e3rY/92PRVO6hfhUF9KEKmf6hbHpPgPc9Y2AxzeG+wIbTT65CeJSZID8WCYWTb1aUPPeuI2cahvxVpZaRp+jj+S5s00dqcT06XiHHmaUrotS2KQ6TlMZjBS/Ex6uGXwl4yAkX2n9v/57+ZaTr7uz84SlI9",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "212bc270cfc04364ea357f1184578305",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Druck- GW 150 A6/1 242 677 5 - 150 +15% I ININA 10 wachter GW 500 A6/1 242 678 100 - 500 +15% 18 25 mit DAmpfungsdise 2x",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Druck-</td><td>GW</td><td>150 A6/1</td><td/><td>242 677</td><td>5</td><td>- 150</td><td>+15%</td><td>I</td><td/><td/><td>ININA</td><td>10</td></tr><tr><td>wachter</td><td>GW</td><td>500 A6/1</td><td/><td>242 678</td><td>100</td><td>- 500</td><td>+15%</td><td/><td/><td>18</td><td/><td>25</td></tr><tr><td>mit DAmpfungsdise 2x</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVG1v0zAQ/itWEBII2jivTdGoVDRU8YFp0oB92KbIsS+tIW+yHW1j6n/Hdt46uiI+5c539/jx3T25eXKggBIqlXLmfEAOy9kyjiM/iygsE2AZ9RJvGSwgThI/98F5j5wSFGFEEZ3/5BgjlXUrKAw+pFSA/lhAbxGGGC+WfjjHptjGy5rxnP8joRE1BSmnDG8ZxstgvvD9JFqatAZEyaXkdSXTnszNk6OBDY0g8HG4v9NpAmgtWFrUlKhaWIYNUTsD636XIKQrOKVEMF0olSCKS/fyke6IKC9F/ROoki5rq61Mm5q6rKataZac1RW4hovvpRsimWjpr3sCdKdApJvrdB2n55/S83nDcme/1zxyXkBFSkPO+c+6vko9NraKNE3B9Sv0i90+XJBq25ItSPN4B6qtY57c6JO0assMzHtjeyKmCYeBhzFkWRICEJbgBAKy8FmMWQ4By0MDrOBBpUSmO1UWpuZMkayA1Zna6RL9EcZEor6XDak+3jr+rbP69tigzfV8Pl/Hrnfmqp3NoXVxkLNuZc7VTuiGopv1drYJZl+vlrMfePbjKrgbi54Df9KDgaKYoYu2LEGgNx66UpzTX2//tyDBQwXyQx/Fi/gEv8+86kt184DTHbopMyLuTqSX5GF+InSlV6hQestzDVT9Ruumh0INum0xJlHJqxP8mxPnXd0rcysKuhzXjsKOY7W5HupWEUaHU1hFo1WjCI/OOy96PTrHhv8+OrjFHYaf1eyxv5Stzs0Gz3SQWddy6ExvItEdjEY3g8XoR6M1Q56l13k9vc75cowzxS6+XKyni3uEqTdsdU+sxF7iGeF/80wOgPEB0wifYHpseMkL4NERy4MV8gKzXlyh83XZ5Ob/w7gE5D8cFLn9JNxOnM6+F64RrBGjEZtZmZx2ghtlMRrTuh+LcRBP/xn0YMXXoRo5ddKa/H7HN9e3rY/92PRVO6hfhUF9KEKmf6hbHpPgPc9Y2AxzeG+wIbTT65CeJSZID8WCYWTb1aUPPeuI2cahvxVpZaRp+jj+S5s00dqcT06XiHHmaUrotS2KQ6TlMZjBS/Ex6uGXwl4yAkX2n9v/57+ZaTr7uz84SlI9",
+      "is_continuation": true,
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "2ef109f89385bbce6af6005d7edb8e2a",
+    "text": "Dieser Text ist für Produt: Gasdruckwaechter_GW_A6. Produkt ID: 228521. Der Dokumentyp is Datenblatt. Änderungen, die dem technischen Fortschritt dienen, vorbehalten.\n\n15 w e y '\n\nHausadresse\n\nKarl Dungs GmbH & Co. KG SiemensstraBe 6-10 D-73660 Urbach, Germany Telefon +49 (0)7181-804-0\n\nTelefax +49 (0)7181-804-166\n\nBriefadresse\n\nKarl Dungs GmbH & Co. KG\n\nPostfach 12 29\n\nD-73602 Schorndorf, Germany e-mail info@dungs.com\n\nInternet www.dungs.com\n\n6 … 6",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/228521_Gasdruckwaechter_GW_A6_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.722859",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "228521_Gasdruckwaechter_GW_A6_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztmN9v2zYQx/8VQg/7gcU2f4kU97RlwdKiQBGgCfrQFsKRPMbaLMqg5LppkP99pJcibpeuy94M+MGwRN5R3zt9QN7pzW2FK+wxTm3nq59J1TAVhGkYrZkTwjla18FLwwwVwmimqxNS9TiBhwmy/W1VLtpx2CSHn+6xdQnz325BpqWkVBsu57Q47+b7wXeh+xeDdRocjuODBTNSGTHXnDe1KWZrTH03jt0Qx/ZezJvbKi9cZAjBqbx7l80SuiH5djU4mIa0U7iGaVmWXVyNmMZF6pyD5LPjOCWYunFxceOWkPqLNPyBbhoXfhOvx3Y9uIUf3KYka5wNERdFC2ftOYw+bdyfW0C3nDC156/bX1V7dtqezdc+VHd3WUfoVhihL+Kq/+h37zXdrHdesF6vuhxFjnhxP72CeL2BaxxL8BXG66qEvM4jbdz0Fku8ajeSHt6wFIxStLaRiOAb2qAAzb2iPqDwQVZF7oQfpmL8dkOpk9FjyjnAeEJ8h8RjT6asOXajW2Ikvw9pylepm6YyH4vd+yFZXMJqwjgvUj9F8RJSSfJ7vCxPyI/6EkA0Ah1H1VheCDTWalRaBgZGMQ/+COChAbjPE6vJliC5Id/vQ/G8zx6PwRCUNLXlzpjaO8O0aHjIDHhnpQxeiCMMhwzDM9iM4FPJ7JO2CLBBhFp5zvJPel07U0srGtUwX9e+OVJxyFS8gLQiZyUcct7bZ+Q78tswJy/OyauuQDCWDJwiUTNGydlMC6UouUoW3PKEnOeEQ7whlxmYMETykzTkB/qjZg2bNVTO6D5nVzErxeshdR/Rf401LqD2UlPtUFKpPVUQvKP5pATn89iRtUNmbccJfPgHJ0ypJ+1IlCtXg6JMNNY1jUEQ3ionbcjvEuSxaDloSk5Tlyn5HwdVaLxl3DS5fIHcUSlUAFZQobTJM+KIxUFj8bWD6mntDjVaae1oCNLwjAYLtRVOuXzg2BDCEZFDRuRiGKeQKxPCOOHmSWA0FGgTLBjmtUGKoKRm3HGeqw7kkh3BOGQwdoUr5eSVWw4p+iGFh+IVZz10K9LFMPyyi3juhn6fnctuWj3aLmOgovE8J10pWdeS19x5bnXA4Kjw6sjMoTHz5ce7b+4K+5A9j1lYxIlst9v5oyR9cxeqwVIMNWBQTnlrmQpSoAdbPsE4iUeiDo2ofUAUebvhuXchn3U7F9nh5d/2d+/+Am5JqnY=",
+      "product_id": "228521",
+      "product_name": "Gasdruckwaechter_GW_A6",
+      "document_type": "Datenblatt",
+      "product_category": "Gasdruckwaechter"
+    }
+  }
+]

@@ -1,0 +1,771 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "d3406a65ec33461515b2866a1cbc6e16",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. Ersatzmagnete für Typenreihe MV…/5, MVD…/5 S02 Typenreihe MV…/3 Typenreihe MV…\n\nDUNGS Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztkk9rGzEQxb/KonPqlaVd2Ztj61B6aAkk6SUJQh6N1gq70iJpoanxd69kbBpKCOQaetK/N29+I979nuCAI7okrSaXFVF0bZhgtGVcNyvVcTQAaFq+bhV2vCUXFRkxKa2Syvo9KRsZ/RwAz2eUEDAvR8PlqmkoXXWcLWgpPr6PXltj3xBMwQPG+Fex7BrR8YXomk6si2zCMNoYrXdRnmDu9yQbFwzOGW0Oj1kWEHzQcvCgkg9HwkmlXbGt7yKGWAcLoILOhTEFlWysr59hp8J4HfwTQoq1nl0f5eSh1h7m8lnxk3dYs2VD205ehajS71H1DpNE62Kaje2r7z83cvNZbhaTNuRwyCzGDujUWADJO2pPlel5OlaqaRpsniZPXp+eB+X6WfUYyycQdD0po0/5Rrp53GKZe1kIEv5KxeNlW6zMw0ypgVDd5hYuoN1hJniYGWWibi8KzflQ3VD2qoy/dlvYzti3Ng1IMsS/iVtxEAIUCtDMbI0Aum20AKOopi0F9j9xHyFxm7sfX2+qL37czrEY5a1LwQ/xZUa+Zayckcc/jCF4gA==",
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "4c362620bcafaa8fd35e709136f3926c",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. Ventile Valves Vannes MVD 203/5 Ventile Valves Vannes Mag. Nr. Mag. Nr. Nr.de la bobine Best. Nr. Magnet Magnet Nr. de commande pour bobine MVD 203/3 100 213405 MVD 205/5 MVD 205/3 100 213405 MVD 207/5 2020/5 MVD 207/3 2020/3 200 213406",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ventile Valves Vannes MVD 203/5</td><td>Ventile Valves Vannes</td><td>Mag. Nr. Mag. Nr. Nr.de la bobine</td><td>Best. Nr. Magnet Magnet Nr. de commande pour bobine</td></tr><tr><td>MVD</td><td>203/3</td><td/><td>100</td><td>213405</td></tr><tr><td>MVD</td><td>205/5</td><td/><td>MVD</td><td>205/3</td><td/><td>100</td><td>213405</td></tr><tr><td>MVD</td><td>207/5</td><td>2020/5</td><td>MVD</td><td>207/3</td><td>2020/3</td><td>200</td><td>213406</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f459497c6b516a8c74f8c1082f444111",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. MVD 210/5 2025/5 MVD 210/3 2025/3 200 213406 MVD 215/5 2040/5 MVD 215/3 2040/3 300 213408 MVD 220/5 2050/5 MVD 220/3 2050/3 300 213408 MVD 2065/5 MVD 2065/3 400 213409",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MVD</td><td>210/5</td><td>2025/5</td><td>MVD</td><td>210/3</td><td>2025/3</td><td>200</td><td>213406</td></tr><tr><td>MVD</td><td>215/5</td><td>2040/5</td><td>MVD</td><td>215/3</td><td>2040/3</td><td>300</td><td>213408</td></tr><tr><td>MVD</td><td>220/5</td><td>2050/5</td><td>MVD</td><td>220/3</td><td>2050/3</td><td>300</td><td>213408</td></tr><tr><td>MVD</td><td>2065/5</td><td/><td>MVD</td><td>2065/3</td><td/><td>400</td><td>213409</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "faf7bf9fc800789aee91d1d717750584",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. MVD 2080/5 MVD 2080/3 500 213410 MVD 2100/5 MVD 2100/3 550 213399 MVD 2125/5 MVD 2125 60E 213404 MVD 2150/5 MVD 2150 61E 213411 MVD 2220/5 213412",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MVD</td><td>2080/5</td><td/><td>MVD</td><td>2080/3</td><td/><td>500</td><td>213410</td></tr><tr><td>MVD</td><td>2100/5</td><td/><td>MVD</td><td>2100/3</td><td/><td>550</td><td>213399</td></tr><tr><td>MVD</td><td>2125/5</td><td/><td>MVD</td><td>2125</td><td/><td>60E</td><td>213404</td></tr><tr><td>MVD</td><td>2150/5</td><td/><td>MVD</td><td>2150</td><td/><td>61E</td><td>213411</td></tr><tr><td>MVD</td><td>2220/5</td><td/><td/><td/><td/><td/><td>213412</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b8b8a5beccb88c31dcc487ce630ac413",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. MV 2125/5 MV 2125 60E 213404 MV 2150/5 MV 2150 60E 213404 MV 2200/5 213412 MVDLE 203/5 MVDLE 203/3 100 213405 MVDLE 205/5 MVDLE 205/3 100 213405",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MV</td><td>2125/5</td><td/><td>MV</td><td>2125</td><td/><td>60E</td><td>213404</td></tr><tr><td>MV</td><td>2150/5</td><td/><td>MV</td><td>2150</td><td/><td>60E</td><td>213404</td></tr><tr><td>MV</td><td>2200/5</td><td/><td/><td/><td/><td/><td>213412</td></tr><tr><td>MVDLE</td><td>203/5</td><td/><td>MVDLE</td><td>203/3</td><td/><td>100</td><td>213405</td></tr><tr><td>MVDLE</td><td>205/5</td><td/><td>MVDLE</td><td>205/3</td><td/><td>100</td><td>213405</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "6abac60f7fd1f1ff3171af5ba06bc7c8",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. MVDLE 207/5 2020/5 MVDLE 207/3 2020/3 200 213406 MVDLE 210/5 2025/5 MVDLE 210/3 2025/3 200 213406 MVDLE 215/5 2040/5 MVDLE 215/3 2040/3 300 213408",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MVDLE</td><td>207/5</td><td>2020/5</td><td>MVDLE</td><td>207/3</td><td>2020/3</td><td>200</td><td>213406</td></tr><tr><td>MVDLE</td><td>210/5</td><td>2025/5</td><td>MVDLE</td><td>210/3</td><td>2025/3</td><td>200</td><td>213406</td></tr><tr><td>MVDLE</td><td>215/5</td><td>2040/5</td><td>MVDLE</td><td>215/3</td><td>2040/3</td><td>300</td><td>213408</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "3f280d9f60d2d48b3fce0ea7591ba34c",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. MVDLE MVDLE 220/5 2065/5 2050/5 MVDLE MVDLE 220/3 2065/3 2050/3 300 400 213408 213409 MVDLE 2080/5 MVDLE 2080/3 500 213410 MVDLE 2100/5 MVDLE 2100/3 550 213399 MVD 403/5 405/5 MVD MVD 403/3 405/3 100 100 213405 213405",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MVDLE MVDLE</td><td>220/5 2065/5</td><td>2050/5</td><td>MVDLE MVDLE</td><td>220/3 2065/3</td><td>2050/3</td><td>300 400</td><td>213408 213409</td></tr><tr><td>MVDLE</td><td>2080/5</td><td/><td>MVDLE</td><td>2080/3</td><td/><td>500</td><td>213410</td></tr><tr><td>MVDLE</td><td>2100/5</td><td/><td>MVDLE</td><td>2100/3</td><td/><td>550</td><td>213399</td></tr><tr><td>MVD</td><td>403/5 405/5</td><td/><td>MVD MVD</td><td>403/3 405/3</td><td/><td>100 100</td><td>213405 213405</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "64b905d8cd4d1eb5a17f8bfe00205a93",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. MVD MVD 407/5 4020/5 MVD 407/3 4020/3 200 213406 MVD 410/5 4025/5 MVD 410/3 4025/3 200 213406 MVD 415/5 4040/5 MVD 415/3 4040/3 300 213408",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MVD</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>MVD</td><td>407/5</td><td>4020/5</td><td>MVD</td><td>407/3</td><td>4020/3</td><td>200</td><td>213406</td></tr><tr><td>MVD</td><td>410/5</td><td>4025/5</td><td>MVD</td><td>410/3</td><td>4025/3</td><td>200</td><td>213406</td></tr><tr><td>MVD</td><td>415/5</td><td>4040/5</td><td>MVD</td><td>415/3</td><td>4040/3</td><td>300</td><td>213408</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "aecdf079df6f294d836828c59269fa85",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. MVD 420/5 4050/5 MVD 420/3 4050/3 300 213408 MVD 4065/5 MVD 4065/3 400 213409 MVD 4080/5 MVD 4080/3 500 213410 MVD 4100/5 MVD 4100/3 550 213399",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MVD</td><td>420/5</td><td>4050/5</td><td>MVD</td><td>420/3</td><td>4050/3</td><td>300</td><td>213408</td></tr><tr><td>MVD</td><td>4065/5</td><td/><td>MVD</td><td>4065/3</td><td/><td>400</td><td>213409</td></tr><tr><td>MVD</td><td>4080/5</td><td/><td>MVD</td><td>4080/3</td><td/><td>500</td><td>213410</td></tr><tr><td>MVD</td><td>4100/5</td><td/><td>MVD</td><td>4100/3</td><td/><td>550</td><td>213399</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b12c448e62e3947effea74d4462f1e94",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. MVDLE 405/5 MVDLE 405/3 100 213405 MVDLE 407/5 4020/5 MVDLE 407/3 4020/3 200 213406 MVDLE 410/5 4025/5 MVDLE 410/3 4025/3 200 213406 MVDLE 415/5 4040/5 MVDLE 415/3 4040/3 300 213408",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MVDLE</td><td>405/5</td><td/><td>MVDLE</td><td>405/3</td><td/><td>100</td><td>213405</td></tr><tr><td>MVDLE</td><td>407/5</td><td>4020/5</td><td>MVDLE</td><td>407/3</td><td>4020/3</td><td>200</td><td>213406</td></tr><tr><td>MVDLE</td><td>410/5</td><td>4025/5</td><td>MVDLE</td><td>410/3</td><td>4025/3</td><td>200</td><td>213406</td></tr><tr><td>MVDLE</td><td>415/5</td><td>4040/5</td><td>MVDLE</td><td>415/3</td><td>4040/3</td><td>300</td><td>213408</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b1abfb1cc8b0a0e5d32853d0e3c205b9",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. MVDLE 420/5 4050/5 MVDLE 420/3 4050/3 300 213406 MVDLE 4065/5 MVDLE 4065/3 400 213409 MVDLE 4080/5 MVDLE 4080/3 500 213410 MVDLE 4100/5 MVDLE 4100/3 550 213399",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MVDLE</td><td>420/5</td><td>4050/5</td><td>MVDLE</td><td>420/3</td><td>4050/3</td><td>300</td><td>213406</td></tr><tr><td>MVDLE</td><td>4065/5</td><td/><td>MVDLE</td><td>4065/3</td><td/><td>400</td><td>213409</td></tr><tr><td>MVDLE</td><td>4080/5</td><td/><td>MVDLE</td><td>4080/3</td><td/><td>500</td><td>213410</td></tr><tr><td>MVDLE</td><td>4100/5</td><td/><td>MVDLE</td><td>4100/3</td><td/><td>550</td><td>213399</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f9e05e903cd2bc58cb2d5345266cf74b",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. MVD 503/5 213405 MVD MVD 505/5 507/5 5020/5 213405 213406 MVD 510/5 5025/5 213406 MVD 515/5 5040/5 213408 MVD 520/5 5050/5 213409",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MVD</td><td>503/5</td><td/><td/><td/><td/><td/><td>213405</td></tr><tr><td>MVD MVD</td><td>505/5 507/5</td><td>5020/5</td><td/><td/><td/><td/><td>213405 213406</td></tr><tr><td>MVD</td><td>510/5</td><td>5025/5</td><td/><td/><td/><td/><td>213406</td></tr><tr><td>MVD</td><td>515/5</td><td>5040/5</td><td/><td/><td/><td/><td>213408</td></tr><tr><td>MVD</td><td>520/5</td><td>5050/5</td><td/><td/><td/><td/><td>213409</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d6bc4adecbc6546466d78af9a31ff9ec",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. MVD 5065/5 213410 MVD 5080/5 213399 MVD 5100/5 213404 MVD 5125/5 213404 MVD 5150/5 213411 MV 5125/5 213404",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MVD</td><td>5065/5</td><td/><td/><td/><td/><td/><td>213410</td></tr><tr><td>MVD</td><td>5080/5</td><td/><td/><td/><td/><td/><td>213399</td></tr><tr><td>MVD</td><td>5100/5</td><td/><td/><td/><td/><td/><td>213404</td></tr><tr><td>MVD</td><td>5125/5</td><td/><td/><td/><td/><td/><td>213404</td></tr><tr><td>MVD</td><td>5150/5</td><td/><td/><td/><td/><td/><td>213411</td></tr><tr><td>MV</td><td>5125/5</td><td/><td/><td/><td/><td/><td>213404</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "5c90523799970b07d6893fc7b3f8d399",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. MV 5150/5 213411",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MV</td><td>5150/5</td><td/><td/><td/><td/><td/><td>213411</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1WltzozYU/isantuYyxG2d9I87CRvu519aPOy2WFkUBx3bPAAaZtm8t8rCYE5QlgkeB8yIHF0Lp/OTXK+v3p8zw88r5Nd5n0iHg+XjykwyMJ4s9yslqvVivGMLaN4GT+GUeD9QrwDr1nGaiboXz35klTFc5nydsyTtOTioRgGSwDfX66j8MqXi9X3Q5HtHndnCI5lkfKqOlEEa4jX0VW8hnW8kmRHXh52VbUr8irRynx/9QRjqUYUhT68/RBkJU+LMkv2RcrqolQaHln9JNku/qx4WS3KXZqyMhMLq7pk9a5afHtJn1h5+FYWf/G0rhbZc76tkmORLrIifZZgVb8WOV+EAfh0ndyVFav/O7BtzuuE7/Kqfn7cbcnX+9vk9nNye3XMHr23N6HL427Pc3aQCnrvWKtX1i9HtZIdj/udsEZYvtCf9yzfPrMtryQIHs+3njT9KGaS/Pmw4dLuQMzU/N86YVXyVB/2ktV1zTZ7fnNdP3GW3Vwv9LPeFNmLeJTiLyNpsa+OLP/twYsePFIW/+hR+ODd3AsshGrknu3/5pV45Ll4CO1J6EcLKjhmQx72VS3tzVe2vSK/l1ekexF/GSd7RjbFZpfzjvKz2LGOVADYPuSMWJAWhwPLxctReCdau1CmlY24+9uOoVQ66kbdS+D7J5IgEhvnYkNPtp/YmCQXkbTsSQr90O8NTcIIE/aHhtTYITXwsVQ6JjXAYkI6SypFUmHU1gCLgb4SkSl15ZAaYlvpqFQDUjpLqh9PcKHY6kNgylq7ZK18t6yVb5NFDVmB7/QctyxJY5NFkaxo7bIrCN0YCpohRezfYQTB6ZkTrOqpf5IUYElB4PLG0CppyoviH9r4T4DsIohNAMyF1zvlhHZ3mwfX7ZeeEv0yh3beIPp4skeMxjzaILqQtPPFxSCdW1767BwFxiCdW2IQu/NFxiCdW2a+3BGDqQSZGOl/WHWs6yJilIRhESKD4rAiZ2oE2uHRKmFSfbxO4H2dIu9CtQJkGAtwxsKLmMSRIraHGRmGGpnSzM15GTesH8Mw3iACimCY1yACil8YbxABRS/MaxABxS6MN4iAIhfmNYgQYltHG0QIsa2zGkSY0CDChRpEmNAgwoUaRJjQIMK8oO+lj/GAN4guUk9dsWiQzo3GPjtHPBqkcyMSsTsfkwbp3Kjss3PEpUE6PTLdNo/Hpkn18ehEnKaU5pkRil1kirwLlWZq77CnvJwJS4JFiP0iFIUn9d990uqXekepoiggqW8/drlkOYVQJAQ+ZJCjENEQW2I/2LmEOH3AHlFT+buqDh2JoIn83T48EjGT8XFcQNCRc/vl+L97WzH+1muNn6z+z9F+oS/HF83Vufemr9XldXp7r91dXOsL7t5Y3Y/r++nuQvt0YS6PDnpE0WipToX6cKgng2YksetNNiMZ6yRqJ/U6iiZVTMkDoR7KEBBJsGOuhrQdKimxf9dKkV/jQA8bAUv1FdN2pHqkLmQ0pTzFIqvVmBrjoeVy2mK7mh5aL6ct9ivefQTURB+DRkwfBUBbBGiLVHNHAG+R6rsI4C1SLREBvEWqWyGAtwjwFgHeIkDKCW3BwBIMLG0qymmLkmp6qKactiiqeBtYgoklVpdQhCVFWKpKTCjGUpVMQjGWqsQRirFUJYk0pagDrykhHXhUq0c75icvlUPk7rTv7vhj/9sg/Ae/T5n5oJu2p4Uzv2N1KSNSqOnWo80clsmluh7St0T6W9zlkaiJJcu3ZlL24gpffWfUZpWoiarhN9XcKvCb+n7KMZHag6Yqn1JNpLaiqaVdxlEYNwm+SzsK6SYrN4+wzTmYWhOfpjriNu2YIOnsY50eRU/nohH8dEoaQVBnphEM2wRlotjmKRPHNl0NkASbl4DNS9Sps0kQA09Q58ImS1i+NWravESdrZp8Mfxm9RKwegnYbNNJz7JlNvt0ChyxUGfCERt1QhyxUufFoZ3d2pGdtNraJktkLbpHbJn3H+1Fbsuovw5QEAR4JP+BoP3fgj9kU+O9/fgfOIFKUA==",
+      "is_continuation": true,
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "122eac929e90fe60c186b0daa35317bd",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. Printed in Germany « Rsler Druck Edition 04.03 Nr. 214 059\n\nN>\n\nbitte beigelegtes Hinweisschild beachten. Please notice label enclosed.\n\nVeuillez tenir compte l‘étiquette ci-jointe.\n\nVogliate tenere presente quanto indicato nella etichetta allegata.\n\nPrinted in Germany « Rsler Druck Edition 04.03 Nr. 214 059\n\n2 … 2\n\nEinbau\n\nBei Einbau in die Rohrleitung Durchfluss- richtung gemäß Pfeilmarkierung auf dem Ventilgehäuse beachten und vorgeschrie- bene Einbaulage einhalten.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztl8Fu3DYQhl+F2HO9S0mkJPaQQ2CjvdRYBKkvSSCMyJHEhKI2JJXWMfzuHa6d1iiCID4FWexFqyWH5MzPT5zhm7sNOpzRp86aza9sU1ZG1U1V8aFoGsXbXgHWJWil+6JXutj8wjYzJjCQgOzvNvmli8saNH75j50OSD/HCYtGCM4bVZVbngcf++fF2MF+w+AQFo0x/mdRKFGralsroeo2mx0wzDZGu/jYPTrz5m5DE2c3qqrk4v4dmQXUSzCdWzSkJRw9PECa8rS7PyOGuAtWawiGBsYUINm429/qCcK8D8t71CnuzOrH2B0WvTOLXrNY8WLxuCsLwaXqrkKE9HmG0WPq0PqY1sGO7I+by+7yZXe5PZhhc39PvgzWoYcZjzp//9jHken2cBwJh4OzFA1FvnvsduDHFUaMWYQN+nGTQz9QS+fXucccd5E9SPh3ynPsg/W0P8x69hvpCP6WvV05h569ig4Duwyr/sCujM2rMC62vGLXYcvIa0Zu5zW/uHMNIav2CV/nuWmR/xOlG1GKgre6RSlqU6CWUGPdyFI3ZdueiToJoq5fPIViT4bXD3ZfIWJQLW8NF7xGMZS9rnujB10UPci6NW11JuIUiOhtSsh6tCPt/pgwst+t/wtJTz1ZZ6gH9JTQb9neIURkfklWI3PQo2PotVtob7bPOmtQyLboC4nQ9qYuKgGDkJXkIED0StVnsk6BrBtcrXP4mRE9NjC9zAcizb1dS160OY+hSvbjipk/bS/eLznZPQ8kXVaiQD6oWsoKiKUWJBaKQ4mmoRR2BukkQFpGZ0nnDBIGZIeAkcJC9nEFnxYqj0xeYmEenQOGdD5NRBUwIPxGUvt5UMlCNarGQUGlS9kbXsuBgGqqsuJIR9cZqp8UqvKH1dZ0RglR6xZUPRgjGyWpxpaKa2VQan4m6hSIKllObWXNyu+vsakOKqjqqXgvdVmLHrguoJaoG6qDqlKdyTgFMq6s72F9SsVrmxx+DYgCZTVoun6rdqiqXnOpoVcG2rxjQuIZiJ8ViGNLeMan/5Sgl2jZA0U5YRmL7NUyBYc2kTbsknZ/Gtwa4wUjOadj44jzscgW+WkGth/QuhnCB4sh98M6MIMzuyGXrBtxerBeI/5752OrN+zTEigyPQWLF9Tj8dERR+ExkmwCl6+H30iI7/4B7dCunA==",
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f8fbe88b316a269ca555414cda4caff6",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. Beim Einschrauben der Rohrleitung in das Ventilgehäuse Magnet nicht als Hebel be- nutzen, sondern mit geeignetem Werkzeug am Ventilgehäuse gegenhalten.\n\nNach Montage auf Dichtheit und Funktion prüfen.\n\nElektrischer Anschluss\n\nKabeleinführung über Kabelverschraubung PG11. Elektrischer Anschluss mit Schraub- klemmen im elektrischen Klemmenkasten am Magnetgehäuse. Anschlußschema beachten!\n\nHauptmengeneinstellung Typenreihe MVD",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztlk1v3DYQhv8Kq3O8K0rUV24N7DZA4MBo3fSQBsKIHErsSpRAUkFjw/+9Q60NLwIjhY9GfZJEzgxnhg/m1efbBEec0IbWqOQtSyArcgV1JrjgWtXAC56XXKmqLpXIM5W8YcmEARQEIPvbJL60fl6dxIdvbKVDemwBeSVEmlZNnu3S6LztT7My2vzAYHGzRO8fLXgjyibflY1oyjqaLegm472ZrW/vk/l8m1DgmEaeZ6m4+0JmDuXsVDvOEsLstgwXCEMMu//Do/N7Z6QEp8jRBwfB+P3VNzmAm67c/DfK4Pdqtb1vl1nu1SzX2Cx/NlvcZ1ykRdNeOA/hZoLeYmjRWB9WbXp2+em8PX/Xnu8WpZO7O8pFmxEtTDHB5Bm+957h27J5wrKMhqqhyvf32yPYfoUefWxCgrZPYukLrbR2nTqMdWfbinu86aLmHATkaVfIrBQdpJJDWaCsuoYuo0liygH/CdH4HZqJXVB+cnCwdmiZQsd+mwc3ognUH2ZoCTz7RAeYscfhrzVNUawe2eVWHbNGDoHB6Nl77HBkHZ4xu4YbtG+Yny3Fs2wygfWIJjrgxP5Ed7jBtWcwPRW4xx7tAGNAu4tteOjQR3DxIr/idcyeyvge8k7rQqLAShSAmVS1AI2d0lAVsQ/FK+T/S8g/ghzY5WwDxWSwanYekR0IcLZaxX5Z7SEmxBYXGdRSP5c70dVdLTJoqixLUwBZ5AB08ZxiyVqKV+5eKnenGF2MeAjO0KikEflzHJnj6v0pKNcmjPgUIJjWWBdloXKR8SqtVKOhQw6NxDprav4KyEsF5PvB9J+j4JSoDwQB6azVx7kzuCi4x3cKz7btr9TNozjHzatfOd+xp0ncVPb3o+0ZOxCA1FRG+o6P5pZ9OK4fwJO8RgE+yvipAO8eYsYVpaPfBKTrNEbJ56fnSTJgQaDXmRSlqAps6k5KXRdS81TJonsl/6WSfwrye1iXQIXQf9t2KI5jpPWajrAOzYAxgycm5Zd/AWc9HE4=",
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "31f9684bad668f1bd4176d75d114683e",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. Nach Abschrauben der Schutzkappe und Lösen der Kontermutter kann die Haupt- mengeneinstellung vorgenommen werden. Die Hauptmengeneinstellung ist im Anlie- ferungszustand voll geöffnet:\n\nRechtsdrehung = kleinere Gasmenge Linksdrehung = größere Gasmenge\n\nNach Einstellung und Flammenkontrolle am Gasbrenner Kontermutter anziehen, Schutzkappe wieder aufschrauben.\n\nHauptmengeneinstellung Typenreihe MVDLE\n\nZylinderkopfschraube „A“ lösen.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztlttu1DAQhl/FynW7GydxDpW4KGoBiYIQFC4oKJrY48Rs4kS209JWfXfs9MBSTuolojc52DPOP+PP/+7JZYQ9DqhdrUS0RyKRizxGmeY0LjAreApFWTFRJZDIklMZ7ZBoQAcCHPj4yyg81HacDcfbd6y5QX9bFqRFlsVxUaXJKg7Jy/wwCiXVHwImM3K09nsErbK8Sld5lVV5GcImNIOyVo3a1jdiTi4jv3CQkaZJnF199mEG+WhE3Y8c3GgWhRO4Liy7fm/R2LVRnIMRPtE6A07Z9Ztz3oEZ3pjxC3Jn12LWra2nka/FyOfQLLs7alwnNItZVR8aC+5igFajq1Fp62apWvLqw0F98LQ+WE1CRldXXotUPWoYgsDoAbk3me58WjJhmnrlq/GVr2+me9DtDC3a0IQIdRuF0ic/Uut5aDDUnSwj5vtON4AMKZQJz/KsYFiVDeeyZFzSWHDWREGyw68uBL8G3pH9xvLOwNygJgINece72V1svCAksxbk6NMcxzK3N9MvR+38Js3OX8kGtB9VSF7APLld4rvYol4qxr73DSano/Ej4+BnyBkagXpFDm4Tfg5X1hE1kH3dK9wlEk3YpIvZOvBKTse+Jy1e65HSN3cv9Om2ha/BhJ0+xeNQnq/z/ikoaE5ZkQFjFc+TguVNkeUCWFqUMS2RPZ6C//IUvEXeOSsMdoHAJ2TTe7FokDwHuxBKjpTebAW05hrBcBVyO/JBOOYypQ0DWjHKmgqbivFSNKLBgjUllPiI43+J42LKh1ueGEz4WQ/BQjfefI13QSQwBOga/xF935RBXyjsUO/8YOVnnoEwOcs7u189CFfJc57FTeGrSJFnSLGIY15JAO7Rzfkjrv8qrtv0/eZ3+dh/QhtUHQYFR4fb5Bwr1+OviBG0SCViJhOEqqKMZQkmWRoLzz9jxSMx/ywx9w3ur96wjdjH815p70WbcbrzIvJpTmKK+8uNk/7uP+efPOrzNxuUMz4=",
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "55e25e3267834aeb6a838b9861e2f970",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. Durch Drehen der Hydraulik die Haupt- mengeneinstellung vornehmen. Magnet festhalten.\n\nDie Hauptmengeneinstellung ist im Anlie- ferungszustand voll geöffnet:\n\nRechtsdrehung = kleinere Gasmenge Linksdrehung = größere Gasmenge\n\nNach Einstellung und Flammenkontrolle am Gasbrenner Zylinderkopfschraube wieder anziehen.\n\nEinstellung Schnellhub Typenreihe MVDLE\n\nWerkseitig ist kein Schnellhub eingestellt. Zur Einstellung Schutzkappe „D“ abdrehen und die Nut an der Oberseite als Werkzeug benützen.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztl0tv3DYQx78KoXO9qwdFUQFyaLBOc0jcoHEbIA8IFDmU2JUogaTSeA1/9wxlG1m4RQofA+9FD3LI+c/whyH58TqBAUawoTEqeUYSnma8YFmuoIC6ylle6jqTaV7UtagKKJJfSDJCEEoEgfbXSfxo/LQ4Cff/0EgH+FonzCpK07Sqi3yTxsFr/zgpo80PDGY3SfD+u0VWU1YXG1bTmvFoNoMbjfdmsr65E/PxOsGJo4yiyFN68xnNHMjJqWaYpAiTWxXOIvRx2u2fHpzfOiOlcAoH+uBEMH779kr2wo1v3fQ3yOC3arGdb+ZJbtUkl5gsfzZZ2OYZTcu6OXdehMMoOguhAWN9WLTpyJu/ds3uRbPbzEonNzeoRZsBrBijwOQRY+9Ghqt5HSnmeTAYDUa+vesehO0W0YGPSUjAdkkMfcaWxi5jCzHufG1x31daSyZp2lY8lwVIChlUaSprLYRs65LJJEoO8DVE4x2ub092DnqwRIEjr66UE8tg9kQZIK/EMoczgqnpwK5hwDBg1siXyVnosX1D3qxBEo1p7sUQsClKv4/qQriY/C9wGT2i64dgqqykbcFYXedMAtCCMpnlIpey1JLn9QnMpwnmPX3/Zs/4QMxIfrWDgTPkzsVsHRYfhFUI5jCQDj4taaqZ1hjls0fhWLSKAc/zitOyVVRVVVHyGkAxDlJn4oTjk8TxD5B98ArrZCTwOdkPKBYckN+EXwklr43dHxl07hbB+FT62PJROArRtiKVFCWlTPJS1C1lmnPFI5utPuH4JHG8ELhrnx/VxAVL38tBjJiN/WSDwyoIRIwRuhadIKrkw9VgLG7x+2nWXva4y7dA/sFVxz5hDyYeAR63dVPVMkq5rpkuVIHKc8ppDrLIWMsZZSc4f1Y4j1k7xuyd7C1+9ktLLtGFdWB6iApenx+Tc2nCAP9FTElZxstScymqFDirSiFKZD5lqq5afrqF/LTEPCxn/1sbjhF7j1XJgwnm9nC3R6nHqOEveo8Mhg35sDjyAMklHPaoG8inJU8z2K0vSUSrbu81sTjG28zFErDSrdec31F29IhFcvAk+j/A0pEW7Lpty3D4cTH8/A3kZvvp",
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "73448fbef59539e2206cd468771e67d5",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. Einstellspindel verdrehen:\n\nRechtsdrehung = Schnellhub kleiner Linksdrehung = Schnellhub größer Schutzkappe wieder aufschrauben.\n\nSchutzkappe D il Hydraulik £ | 11 ~ . £ ¢ ©\n\nAustausch von Hydraulik und Magnet Typenreihe MVDLE\n\n1. Gaszufuhr abstellen.\n\n2. Spannungszufuhr zum Magnetventil unterbrechen.\n\n3. Zylinderkopfschraube „A“ ausschrau- ben.\n\n4. Senkkopfschraube „B“ (blau verlackt) ausschrauben.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztmFFv2zYQx78KoacNWG1SpEipwB5aJNgGtEOxpntYVwgn8mhplimBpLIlWfbZS7rOYhTBijx28YtpkXfk/84/8E5+f1PgiDt0sR1M8ZwUnWnQaqZlw7kSvAaoWF1zIy1SWYMpviPFDiMYiJDsb4r8pQ3T4jXePWOrPaZhvyFTQlCqGl6uaHber+8mM9jhPwxmP2kM4d6CNSJJWslGNLLOZjP63RDCMLnQHsS8vynSxlkG5yUVtx+SmUc9edOOk4Y4+b3CGWKft12/C+jD2g9agzfJMUQPcQjrN1e6B79746c/UMewNovbhHae9NpMesnJCs8mh+uSCVo17bkPEK93sHEYWxxciIsdNuT1r2ft2cv2bDUbW9zeJi12GNHBLgssHuF78IxX894T5nkcUjQp8vVheQS3WWCDISehQLcpcuhzmmndsuswx13uZ/z9Ly1MJ4WobSMtN1zVZSlqUaLmTHa1FLLIkiP+FbPxeZaG4xjmwRkcySV647FH9zyffyftZ/A5g5d4kd2S/+d0gQRh6iadVzcCmALLOiqNNVhZyjQ90fUk6foFdR9DBirlgnxP3ureJdj6pSPbMelGT14Nbvuwxcb/vlBqZf40NpmmtSVeb1MkSP5MGKQpWGzQvYelQ7d6FLElyEZXtpJCGWUVx6qUvIMKBXLbKHYi9msl9hjAY2TOyDCSH69MomUctiRjBZz8TRgj/5DV3fN+KD8NzTFRPyXx+BBJvIQKmkpBZwBorSUaoxRIrJVg1J4q6/+CpBdLiLCky4ZcTu4Io8UZ8novhlyk45zHoces5tX5MT0XQxwfpAcrIaFkXcOMlJY2puoosyXvOs1Ai+ZEz9dKz+eV84v3xDFubEV+gHC92KVPVa7b92iPLXHG6hJQAq+5UtSURsuqTl0/MwpU153QeppolSvydgbnciYOgF0vu8Mldpk2TWVycRF9lxLePxY6AE4VK9OLJTfIeaNqKoVBCtJogahO0D1J6PiK/HY15ndMv53mf5v21GeVlOGL/aBTOx8+rTwjj27oKTBTKSY4pL6+klbXFfKKV2WtDTAhTuA9SfBEuu3QbR+A7uUBum+6EZb8x8cIehu/vYfwCwh++Aglsjj4",
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "58df3bbe3ff823e232728f3574e33d01",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. 5. Hydraulik ohne Gewalt in Pfeilrichtung nach oben abziehen. Im Falle Magnet- wechsel Magnet in Pfeilrichtung abziehen.\n\n6. Neue Hydraulik und/oder neuen Mag- net aufstecken. Achtung! Bei Hydraulikwechsel auf rich- tige Stellung des Mitnehmers „C“ achten und O-Ringe nicht beschädigen.\n\n7. Hydraulik drehen bis Schraubenboh- rungen und Befestigungsgewinde übereinstimmen.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztlEtvnTAQhf/KlHXv5Q2X7pqmr0XaqGm7SSM02AO4AYNs0zSJ8t87pjdNpEiVsk5WgJkZzjn+8Ol1QAONpF2tZPAKAmpzSqumySQRJjKrMK7iqokSIdNdLCl4CcFIDiU65PrrwN/UdlqMoNtnqoUhvqwD4zLLoqis0mQb+eb1/ThJ1ar/FMxmEmTtXUVcZUWVbosqq4qdL5vJjMpaNWlb78WcXgc82MtI0yTKbs64zJCYjKyHSaCbzKpwRtf7seE3S8aGRgmBRnKjdQadsuHxpejRjMdm+knC2VAuurP1PIlQTmLxYdnNpClM4izKq/qtseiuRuw0uZqUtm5pVQdH3w/rw4P6cDvLNri5YS2tGkjj6AUGj+jdd7rLee3EeR4Uu2Hn4f71gLpbsCPrQwhId4G3PvNKrZexIe87WVfM3U6nCeZY5SU2EjHaiYKkLEssaFdmcdTKwEt29Nv54nwLHy6lwWVQ5zD1muA9XeDgQGk4bkkNnGLvOCfQKHqYGtKAzZWinvQWPo7wDoeB4Gg1uoELEr2lYf/8cMi/Vu/u1vgnNH5/ftFXL4rVPWC3bGWDzEqaJxmbSeVONikxOUlBsYif2X2S7BZb+EQL3QN40TLkzAxoXteewg14DnFprSNx7pl9/RfFF3BA6q71FlyuBE/rBpzqCE4cDYMHlzcCjpTT1I+8P/BjSaKY3qwXAfxnOP4cfx0+b74ozY3aEw8NWdH/WKKIMsnjHol9FSGluRBSVAnlcRkXcbSLOZKoaJpIpM/YP0nsy/tHtjT+OIVGWTgRPS/yAd1MjK/hoPZMHlDLearOR9fRhdKSwEPZCpazGlXj+H84z/4AFC+0Jg==",
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1fbf91ca109eb2cdb7f5d0e8070b6730",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. 8. Senkkopfschraube „B“ einschrauben und nur so fest anziehen, dass sich die Hydraulik ohne Gewalt und spürbaren Widerstand drehen lässt. Magnet fest- halten.\n\n9. Zylinderkopfschraube „A“ einschrau- ben, festziehen und durch ca. eine Umdrehung wieder lösen.\n\n10. Durch Einstellung der Öffnungsverzö- gerung und der Hauptmenge das Ventil in den Betriebszustand versetzen.\n\n11. Ventil auf Dichtheit nach aussen prüfen.\n\n12. Gaszufuhr öffnen.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztll1r3TgQhv+K8HXjI/lDsvZuwyntTZfCbruwbTFjaXSsjS0bSW43J+S/V/JJKJSlkOvkyh/zzvid0cPgT3cFTjiji73VxW+kgE4g00pWXEg6CNZ1Qy1qEEbWraobUbwixYwRNERI+rsi3/Rh2bzCx2fslcd02Qsy0TSUCllXJc3Je3xetDX2F4LVLwpD+KFgsuGyLrlsJO+ybEU/2xDs4kL/YObTXZEKZxt1XdHm/kuSeVSL1/20KIiL3x2uEMdc9vAhoA8Hb5UCr1NiiB6iDYf3t2oEP7/3y7+oYjjozZ1Cvy7qoBe15WGFq8XhoWINbWX/2geI5xlODmOP1oW4GXsi7z4e++N1fyxXbYr7++TF2AkdzNlg8YTch8x4u+6ZsK6TTd2kzg8P4QncaYMThjyEAt2pyK2v6U3vtnnA3He1v/E/TrquoAXZChg0AO0UR62FAI6daBg1usiWI/4Xs7gryZ/obm6W1QQ1etgGJJ+3ijK83i+KZPMPEUc2p4nbPAkLMWmsBNzZ4ojuFdEQAglWjURbJG9vdcqY7A1ZRofkDX6DKe7ZYf28UWqUH7Jn8rfV6awipIj2uRKZchybEGJJ3u3z2z91RcZUAl2Z5/I4sj/A55P9in/ldlJfP1M/NLwRHTPCiEq1DMRgKuBmEDUqKmrzQv2zpF6W5J/bybrE3v+Q//vP5F+RISOeMbzgvpOsEyQjUVBmIZIPcwY4zZZ8Syigv4BseHgys7RiDFXXAeftoJHWtdFiUKhY17QNfWH2WTLLaEmOO3Kvs0mcpsxaBi1zprkxLg/pK/rzBbwrckKfNTusSfcWtjWm2Z0wb2vyMRmxE7EuBR25xugtDuG8XbZxqhMwnp8KbyMrgaC7WgwNNqKRg5YCOXSG88FQ+QLv84SXlY+8wWbIMf0nxBFtJA4S0LClo3Jk9ZdfA/NU6LhEJuqWDaLDugUmFcW2qzkDxY02+ALd84SuKskbSBvNbONlS5q8JX9N15fvnJBE3w==",
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fab3bc18574ebda08c36f67c2d21e785",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. 13. Spannung zuschalten, Einstellen der erforderlichen Gasmenge durch ge-waltloses Drehen der Hydraulik in Pfeilrichtung gemäß Markierung auf dem Hydraulikgehäuse.\n\n14. Nach erfolgter Gasmengeneinstellung Zylinderkopfschraube „A“ festziehen!\n\n15. Wir empfehlen, nach dem Hydraulik- tausch die Senkkopfschraube „B“ mit Lack zu versiegeln.\n\nAustausch von Magnet Typenreihe MV, MVD\n\nElektrische Anschlüsse entfernen, Abdeckap- pe abschrauben, Magnet abheben. Montage in umgekehrter Folge.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztlktv3DYQx78Kq7O9S0nUKzcHdptDHBiI0wJ5QBiRQ4ldiRJIyolt+Lt3uF3DThAk8DGIL8uVOEPO46c/+eE2wREntKE1KnnBkqbROeo6L7O6U40ouxSqutO86VKdirxLjlgyYQAFAcj+Nol/Wj+vTuL9M7bSIQ37BdNKCM6rJs82PDrv56dZGW1+YLC4WaL3DxYpxdLkm7IRTVlHswXdZLw3s/XtIZgPtwktHMPI84yLu09k5lDOTrXjLCHMbh/hAmGIy27feXR+64yU4BQ5+uAgGL+9uJYDuOnCzf+iDH6rVtv7dpnlVs1yjcXyx7PFbZYKXjTtmfMQbiboLYYWjfVh1aZn53+ftqcv29PNonRyd0exaDOihSkGmDzB9+AZrpe9JyzLaCgbynx7mB7B9iv06GMRErR9ElNf6E1r16nDmHe2f+MeOp1nUEBTVNApAF7LEpWqKiixrkTKtUpiyAG/hH0L8g17u4C1VAp2s3oq0BjQHrGzGDOOlBhT6Bg6TeVGRxEO9Oov8FSuHpkiPgbW4/Fn8htnj56dOhwOXq+ulYN1NDtmLLvQaEZqyhDiXj1OH1fOUcRfpdk5uJ1BF6dg1eQ9PXj3OPxvu3rcxLrcl+wNuNjZK7yM6VBe31IvsSOstFCZkDJroNIaRC4RRZlndVk+U/97Ui827A0QuBHrsQ+E6j3RFg/gRxLfX4/GEsi7edH0aRCNHbKPa8ZTPNkPkmmq842JxP/xJDJTVWe6axpAkERElaPgZVHlpS4ARcGfyfw9ySw27B9DejstGocxKrGNoH6lh8csQJRqpgyyt2h33+Hz5YHPyQT2GuSOxJ1dURsM9jjap6loVhCqMXhRlrkuu5JktVCESp0WheD4zOqvyupj9E5Wf8DqarZ0Hsft2SVtYB2aAWn/oxjDY3IuTRjxu+qWpXlecC2F5EplVcORkqsaoSS1rMmfiflViflW3X6qDY8ROxtxF5whxpCdWBrGeK/TklrEaEmNzkbFO+kUyh0sx2xBBt29stHMgUroBqTnDTufbaD44vVynXrc4eDiYf4nHeo/vCl++g+SBUBL",
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "9aa340963c8b0d13e61eb57cc8eefa8e",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. Änderungen, die dem technischen Fortschritt dienen, vorbehalten.\n\nKarl Dungs GmbH & Co. KG Siemensstraße 6-10 D-73660 Urbach, Germany Telefon +49 (0)7181- 804-0 Telefax +49 (0)7181-804-166\n\n12 nicht zuléssig X\n\nHinweis:\n\nDirekter Kontakt zwischen aushär- tendem Mauerwerk, Betonwänden, Fußböden und dem Magnetventil ist nicht zulässig!\n\nEinstellung des Drucksollwertes immer nur am Gas- Druckregler vornehmen. Leistungsspezifische Drosselung nur über die Ventile.\n\nSchutzkappe ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztl1Fv2zYQgP8Kp4dhw2KbpChK6mPnNh2yDgWaFgO6QqDIk81FogySSpoE+e87yinqdcGGPGb1kyTe8XR3/Hg8frjNoIcBXGysyZ6RTOQStFBUmrYoNG07walUeVflulVlRbMTkg0QlVFRof5tll6aME5ew+dvaLQHfMwGWSkEpWWd8+U8eZYPo7Gd/ReFnR81hPBFg9VC1vlS1qKWVVLbgR9sCHZ0obl35sNthoaTG3nOqbj7iGoe9OhN049axdHPHu5U3Cazq3cBfFh5q7XyBieG6FW0YfXmWm+VH9748U/QMazM5Dah2Y16ZUY9pWSFxehgxZmgRd288EHFm0FtHMQGrAtx6uyGvH6/btbPm/VyZ7rs7g596WwPTg3JwewRc+9nxuvdPFPtdr3FaDDy1b24V24zqQ2ElIQM3CZLoe9wpHHT0EKKm88j/stK84J3rVGKCinzTrZSQ1sYTHTFikJQyJLLET7FpPzHRKkWzoDHXIA7IcYCMTCQCHrrbNBbcOTl6CO+eRtjkrukdzn6Fraqj+CWydXPUfymfEr2JZynP+CvvgaR0byodFsDl3VZ5bmsWtC5pKKsiyKX9RHEbxLEM+V7sk55IKdD+4p8T34el+TslLy1iZ6QUpdgNR0QuWCUrBdlLiUl73yr9PaEnOJyKXdNzhG3bnTkJ1GTH+iPJavYglRULOhepD79TZQkTMpHIYzIclkKVRdc8y4vsaRyJUzLsJLmqmZHhJ8qwodEMk6c1dtIbqY+kQc1ZnJDfj9E5Rf0Ch5ChFcyL2omikpo4JzhLmAlMxXHDaHZEZH/ByKvrLsCG54dInFuY/8gEjpXlTYlBaCGViVjnFVAFee1MVKa48H3ZJH4x8H3X5v/kKG19XARwZOz0UV1geXm6r7tUlPYzoVH+AX2Yy61Za/VBP4K/MUJeQ5xdFd7BZRhT/Zy2p+QbXp0EsfI5AzZz0t5uEQfbU9siF+VNpFK23ePOgQxJq5qjvcIXsiu0x1VlUSsBcVurgNxxPmbxPlFcg36HjOB4AWy9pO+CGPfI7QRv+0wIOtu8kQN5FSFxV7Dw6bHcbxVONhi4pbkVyysMeUz7OAGGUh7AnVHXOvZeDIxc67R7fna8n6mGx53HZGmYErWui1lISvTYVhl12peFwpyqtojxk8V40Mq3+rtFG8u0BSQB/q3j38BrLl+rg==",
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "541264a140f537799ab38253c5cabd72",
+    "text": "Dieser Text ist für Produt: Ersatzmagnet_einstufig MVD. Produkt ID: 214059. Der Dokumentyp is Datenblatt. Schutzkappe  Nut  Zylinderkopf-  schraube  Hydraulik \n\nAchtung:\n\nBei Nichtbeachtung dieser Betriebs- und Montageanleitung ist Personen oder Sach- Folgeschaden denkbar, des- halb Anweisungen unbedingt beachten.\n\nKarl Dungs GmbH & Co. KG Postfach 12 29\n\nD-73602 Schorndorf, Germany e-mail info@dungs.com\n\nInternet www.dungs.com",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/214059_Ersatzmagnet_einstufig MVD_DB_D.pdf"
+        },
+        "date_created": "1744007932.0",
+        "date_modified": "1744007932.0",
+        "date_processed": "1744194693.694968",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "214059_Ersatzmagnet_einstufig MVD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztl11v1DoQhv/KKBdcdXcTx5vEXEFZTkGIqhIcLkAo8sdk1zSxI9s5ZVv1v5/JUkQlKqReAnuRxLFnXr8zeSIln24y7HFAl1prsqeQyUryBvO1xkbxslJro5qCGdkJ0ZUNiuwEsgGTNDJJir/J5kEb/RQ0fr/HVgeky0GwqDnP81qUbJnPyYf1wRvb2V8EjMFrjPFHRCF4JcplJbiomjlsxDDYGK13sb0z8+kmI+HZRlmynN9+prCA2gfT9l7L5MPB4SjTbpZd/RsxxFWwWstgKDGmIJONq4u93skwXAT/BXWKKzO5bWxHr1fG62luVlx4hytW8Hwt2pchynQ9yK3D1KJ1MU2d3cLbD5t2c9pulqPpsttb8tLZHp0cZoPZI3LvMtN+PGTKcewtVUOVr+6We+m2k9xinJuQodtmc+kjzbRuGhTOdbPZQcKvadZ4p3dTur4kKQQ4nxLAx31vncFw6cduARD1LshJ0eqrvaFRby9h3um7iddkGTOS/IkfnZdVrrCWLMeqYUIVDSrECvmaC7E+8vMn8PNc7xIV9fQ+Eu9t6h9EotZcaORGa9OIpmKadw1XdNaGc1OpIxK/KxKHmfCIl/8+Q6do4dwSSArlN5zAWKT+wSmmYFHFBUzOwFvvEm0rXY/2EGVjggtqM/XLAfU4wDsSWMA/vie/1GdD83RcKhlOaEA6O9kreO6u0EZSoOXJKTTWbRN82x3d8j7L5zLMz+0/fD+bfYBpqqkUVVUUYl3KptFdwyQVXBJyecV4cWT6r2T6jQw9bOY+wNmgXsETeOGX8OYMLnxMHYEGBQMmHoUaqwx2tWFFYUQta13UBas1amNEWRrDjqj9lahtFjUFM6BPOR+c8aE7gTN6AtLtAReDtD1Y1/lnh1YttR8eBV0jmFo3WPOmwkKXZdEYzKWqVF4wbsTxN+C3he4+Q69dwkBbwtXV1fJBUO4+6j7/D6Jbir0=",
+      "product_id": "214059",
+      "product_name": "Ersatzmagnet_einstufig MVD",
+      "document_type": "Datenblatt",
+      "product_category": "Ersatzmagnet"
+    }
+  }
+]

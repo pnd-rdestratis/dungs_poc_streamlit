@@ -1,0 +1,1339 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "9ca141b0cfc83d647d3fe8e6d5e06289",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Druckregelgerät FRNG\n\nNulldruckregler Gleichdruckregler Druckluftgeführtes Druckregelgerät\n\n4.14\n\nDUNGS Combustion Controls\n\n6 5 5 9 1 2 . r N • 6 1 . 6 0 n o i t i d E • y n a m r e G n i d e t n i r P\n\n@\n\n-4 = | & T s Y 7 | 1l B\n\nTechnik\n\nDas DUNGS Druckregelgerät Typ FRNG ist ein Druckregelgerät mit einstellbarer Sollwertfeder und vorge- gebener Gegenfeder. Das Druckre- gelgerät entspricht der EN 88-1 und DIN 3380:\n\n- Eingangsdrücke bis 50 mbar (5 kPa) für Nulldruckanwendungen",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmFtv2zYUgP/KgR6GDVhsUSIpqcCAoUsW9MUI1uRhaAuBl0NZi24gpXZplv++QzVB0y0rmkdjhmGb5rmS+iydwze3CXbY4zDXrU1eQCIrY1xaSs1LK5GlFebSYi40dznjZZb8CEmPs7JqVqR/m8RBHcbFG3z4jbXxSF+rQ1ZwnqZFlWWbNBqv8n60rWu/ojD50WAInzVYxWWVbwouRJlHtQl934bQjkOo75N5c5uQ45hGnmcpv3tHah7N6G3djUbNo18znNS8j263VwF92PrWGOUtGYbZq7kN24sbs1e+v/DjH2jmsLXL0IR6Gs3WjmaJmxVOxgG3GauEkPV5h63ZW7+Ya49Nh77+9bfdeX36sj7dTNYld3eUh2s7HFQfk0u+0e7ear6ZVis1TV1Lq6AVb+/FnRqaRTUY4uITHJokLnmimXpYeo1xvSxGn/HPOfo4vQ+GXYP+7ZKmyGeIUaO3h0A75eM+vMfLaEXm/2TEOpObkuepSUWFhsjQTjthC+FUYa0+MnLIjOyWrnsUEP6VAqwUdYubG3QRImf2fsYAT9H1LLCEMWi04ZI7yXLBS11Jp5VF4itnlh3BOmSw+IbxZ+FQGoWMIbdlVmaYqyIr0WrJeOEsV0YecThkHE6vduev4Zex10uIjmg4zH7swmNGXvXk4Ck2tMmVccZqYkJwbW0lUqsUY1IKXYnyyMYhsyFB0KsCBhlswMMO3i5ZmmUgaWpDnykMMEILM70tnD2Ib2haQU8WCOc0jkIkpTjycPGsu4+qpGBWSiVT50RpMq6o4Mkt3X2UVsIeCTtkwn5+zMLVQN6wGX37Ee1/8SCVTm2WZVhY45xRRpQyd1yarNRp5fiRh0Pm4YTDT/AXfAeXEOB3KGjMOnj5Tc8iSa0yt4LaY0aFK5Uq1CdLxyu0WBRMHHvmgybjEs1+aK8fk3DZzt2TJDDFKdGCa45CMVtJZGWOVYGFozbZHauSgyNhnfHP+K9/UeIqaorXMvfJg5fLm2k9fIE2zIDt8LRW367CMGPXaUrFw+ux6z6gnx0F9bAMFt6PvsETaFDjEFt2cjGs0g2sOXzyGxUee46XYqILuJ8hOjrbQVmesNXh6asdYVCmL55VMuUmS6XiosgzVzqi0lmmqYOzmXVc4PER+f/C/wTO2qGhMMH6T+dE5hpBtwFECj2xDN8LuL5QP8D9MRIV+g+HT2r4gEPcOxy+guC7vwGeKz72",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "69f637b5233a75158f774ccdcdc1030c",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. - Eingangsdrücke bis 200 mbar (20 kPa) für Gleichdruckanwendungen\n\n- Bypass vorbereitet, Rp 3/8 - Rp 2\n\n- Stabile, exakte und feinfühlige Rege- lung des Reglerausgangsdrucks\n\n- Vordruckausgleichsmembrane\n\nSicherheitsmembrane\n\n'\n\n- Serienmäßig interner Impuls für den Reglerausgangsdruck, externer Im- pulsanschluß vorbereitet\n\n- Serienmäßiger Anschluß für Gebläse- druck\n\nAnwendung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmE+P3CYUwL8K8qWttLsDGDD0liht1Eu02iS9pJGF4eGha2ML7DTb1X73wuxsdxK1Vae3auZiG/v95yd4+MN9BQOMEJbW2+p7VDklRY1FZ3SDZW1EY5lgNdGOWNMJzqoLVI2waKsXneXvq/LQpmmNBp7G0JoI+bYzSBrGMG4UpVe4KO++j5P1zv+DwBwnAyk9SxDFhKqvGsa5rIvYDHH0KfkppHYfzIf7KhsuYdQ1xezhYxaLYKZo22EyepniLsJZL9tidvM+QUyb6I3R0WbFtES9+LS5vjNbHcfrOP0KZkkbu4Y+tfNkNnYyaylWupwCbChRnIv29QDebG1czW2EfoDY/njz5nX76mX76mq2rnp4yHE4P0DQYwmu+pd6e63lbt5p6XkefM4iZ7zZfx506FfdQyrJVxD6qqQ85zdtWMcOSr5k9yY+z7CQVjDLCZOEOSEpMEmFYwosNA3htCrhLvB5KcKX6Acf+uwm2fjLirEz5hZQ5xOiGKOx0xF9SzG6vdbfIfcoENFBYjr8BqHUD0IJ+CmXNzqWUn+Cd8VPdvg1htmQ7WrNqTFGUFFb6xoBYK1RWDqrzhieGIYv72adEvo0xWwP/ALLBbqZUb2R6LI80KPwop2wrOGcCYHzDbDTYCXnteDaEHHG69TwervoLkdxgeCzvl0ArcEiBz7s17Tt4HtAN9DDJRpynVAuYxnmdPSa9utjzjAdRaEihCnJMJcCK6ZJrShuqHKGW2KV7s4UnhiFP+fy7XbNzNQu4DTC2EUd4CiupGhMdpy7OKdph7lwNWNSOqJrazQXZ65Oiqu3OUKI27xp/jec8sQBcZYIK4F0mDRcNI5zbDgIToGfcTopnL45hOd9yO6hn6L/HezfAWS56ihtsBNCm0bURmujalXWo4Z1sjkDdFIA5W4Loocwlt4KWLla53vkwwIxQEQ/jfM6pOfzpIXwV81Wadb+1LhERUeHlHu19dHk4WHhuP1TS1MbJpli3HCGodPCOJAGtFSNOfdlZ14zrxm7F1/g9vz/A7rhUTbl88IuueNOpxyoIBRqBYxjDszgRnKD8+RjhU195u//xt8hTi+efokdMvHOLwNUDx//AM++1v8=",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "dcc4894845bab3e16bef01fd933ac4e8",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Das DUNGS Druckregelgerät Typ FRNG ist geeignet für Gase der Gas- familien 1, 2, 3 und sonstige neutrale gasförmige Medien. Buntmetallfrei, geeignet für Gase bis max. 0,1 vol. % H2S, trocken.\n\nZulassung\n\nEG-Baumusterprüfbescheinigung nach EG - Gasgeräterichtlinie. FRNG 5… CE-0085AQ 7126 Zulassung in weiteren wichtigen Gas- verbrauchsländern.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztVEtP3DAQ/iujSL3tw0ns7Ka30qXbSxEtcCmgyLEnWRfHiWwHihD/vfbuUlAftFckTrE9j3wz8813fpegxg6Nr5RM3kIiS8wFWdK6pHWdE8mZREFpWQtapiQnyQSSDj2X3PPgf5fEQ+X60Qp8uGMlLIbPNmG6oJSQRZlls23w1t71UjXqGYfB9gKde/RIS1qU+WxBGVvm0W1A2ynnVG9ctQdzfpeExBFGnmeE3l8GN4uit7LSveC+t1uEA/ebmHZ+5tC6uVVCcCtDoPOWe+Xmx7diw213bPtvKLyby9G0rhp6MZe9GGOz3LQ3OM/SkrGiWmtUYiPtKK4sthpt9eHL0bpaHVSr2SCb5P4+4GiURsO7CC75z7h9lL8dtlF8GLQKVYSK53uz5qYdeYsuFp+gaZNY8hBeKjN2NcZ60+2LfZxwxjAr0gzzEikjDKkgiyUTJLSXlETkSYTr8buPzivuYHV2tD6B1R4n6hbtxUgIUg+ntwNE0KCchxZRtQY9NNHcCAtr7hAkbg9TaHintEITIWUTyGE0ElyYn1ctgsExtF8jtNztEhRhwMHwCWUImsHBaHxkntaNRTX52+9q5aDj32dAJilc93oGb+BjdjIBHyh1FRLFxj309IjbOPJrPI31hsJ/W4ciFYgNR0ZySTNWijRbcJqSjIpwFq/r8NLW4Sm7v46aOxfKecqJU+U1/pELYpnXMq/pMg2LwohkaZOyBotG5sWSZa9ceGlc+FUa/7ntT8lzuJ4e8LEbnUc72J0GNTU6sUFlVBsaA4aLDRyuYRql6VE2MfR143XwwtlOPtnFmJGsgPeHU0KW7N1nWKTh+pOfoAzcoAqRQT5vYnRQRrOT1Wu0teWj2Di9y2+C4j4rc5c/AK9Oi34=",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d006eb4e70087d67465f43b92b728778",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. FRNG Federbelastetes Druckregelgerät mit einstellbarer Sollwertfeder und vorgegebener Gegenfeder. Interner Abgriff des Reglerausgangsdruckes, externe Impuls- und Gebläsedruckanschlüsse vorbereitet. Geeignet zur Regelung des Reglerausgangsdruckes über eine pneumatische Führungsgröße.\n\nTechnische Daten",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztU01vnDAQ/SsW52QBY6D01mq1q1yiKN2e0ggZewxujUG2SZtG+987ZjdKFKlVr5V62TUz7828+bp7SsDACDa0WibvSVIXOVV1llcNa2hRFlnRSVoUeZc3tGuqJrkgyQiBSx444p+S+Gj9tDgBz9/QCgf4twbMa8ayrG4o3WSRvPrHSWql/wCY3STA+xdE3rCqKTY1K8t3RYTN4EbtvZ6sb89i7p4SDBxlFAXN2PEeYQ7E5GRrJsHD5FaFMw9DDJt+9uB86rQQ3Ekk+uB40D69eRQDd+ONm76CCD6Vi+19O08ilZNYYrP85WQhpXlTllW7N6DFIN0ivjnoDbh2d3u9b7cf2+1mlio5HlGH0gYsH6O45C95Z1Z4nFcWn2ejsQqsOD27Dbf9wnvwsfgEbJ/Ekme0tHYZO4j10tXiXiYsq1wAKA5lVkhGy0bktOYszygT+BZJlBvgR4jgqIjsQILrwHAfIIAn27NkMD24L0uWAQtk1IGAtggxpsN8jnyajPkOLqhIJ4uV5GFyPdI6sGjY48uuvg25sgFcNH7oeqeVIjgMcrs2hS++xzL92ifwFwSVRSy5GufF+Ms18B46cxKCKxOB3HoxrCYlcI1iZmwHaCxgg2jQvYVAfi4uZgGDA/59SnIKg/xYIJDZwjLGRREDkN3JObi4I/3aDVXFX6lgE2f0PL5r7uJ2PcAhthZ7/PbyeF1xBp0UhSwYaxoOPKelUkpQWuUs+395/9rlvT6kA4jBnlZmi222r1fjoIOB5Hj/Cwyh0qg=",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "63a808e756421be4bd8dc4fe55d3f741",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Nennweiten DN 40 50 65 80 100 125 150 Rohrgewinde nach ISO 7/1 Flansche Rp 3/8 1/2 3/4 AnschluBflansche 1 11/2 2 (PN 16) nach DIN EN 1092-1 Max. Betriebsdruck bis 500 mbar (50 kPa) Druckregelgerat Druckregelgert nach EN 88-1, Klasse A, Gruppe 2, DIN 3380 RG 10, EN 12078",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Nennweiten</td><td>DN</td><td>40 50 65 80 100 125</td><td>150</td></tr><tr><td>Rohrgewinde nach ISO 7/1 Flansche</td><td>Rp 3/8 1/2 3/4 AnschluBflansche</td><td>1 11/2 2 (PN 16) nach DIN EN 1092-1</td><td/></tr><tr><td>Max. Betriebsdruck</td><td>bis 500 mbar (50 kPa)</td></tr><tr><td>Druckregelgerat</td><td>Druckregelgert nach EN 88-1, Klasse A, Gruppe 2, DIN 3380 RG 10, EN 12078</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "80e6413a3cb77d846191b3870c8886e8",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Eingangsdruckbereich Nulldruckregler Gleichdruckregler Druckluftgefiihrtes Druckregelgerét 5 bis 50 mbar (0,5 - 5 kPa) 5 bis 200 mbar (0,5 - 20 kPa) bis 500 mbar (50 kPa) Ausgangsdruckbereich Nulldruckregler -3 bis 5 mbar (-0,3 bis 0,5 kPa) Gleichdruckregler -10 bis 150 mbar (-1 bis 15 kPa) Druckluftgefiihrtes Druckregelgerét bis max. 350 mbar (35 kPa)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Eingangsdruckbereich Nulldruckregler Gleichdruckregler Druckluftgefiihrtes Druckregelgerét</td><td>5 bis 50 mbar (0,5 - 5 kPa) 5 bis 200 mbar (0,5 - 20 kPa) bis 500 mbar (50 kPa)</td></tr><tr><td>Ausgangsdruckbereich</td><td>Nulldruckregler -3 bis 5 mbar (-0,3 bis 0,5 kPa) Gleichdruckregler -10 bis 150 mbar (-1 bis 15 kPa) Druckluftgefiihrtes Druckregelgerét bis max. 350 mbar (35 kPa)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1WGlv20YQ/SsDfbJRHSRF6nAOwKprw2jjGE7SAk0CYUkOJdbLJUEu49iB/3tnd0nqoKSqafNBkMidnWtn33vQx28d5JigkPM47JxBZxR5GE2swB15vudaU5uNo8nICSchum4wtTpd6CQoWcgkI/tvHfVjXqRlHmD9jPMgR/rSDu2x61rWeOo4fb1ZrydpGEfxAYMsTwMsipWFPXVH02F/7HreZKjMMsyTuCjiVBTzKpmP3zrkWKUxHDqW+/yZzHIM0jyc8zRgMs11hhmTS+V28KHAvBjkcRCwPKSNhcyZjIvB7WOwZHlym6d/YSCLQViKRTHP0mAQpkGpmlX0UoEDx5563mh+xTEOlmFeBvc5Ljjm88u7m6v5xWx+0c/CqPP8THlEMUfBEpVc58h91S75mOldLMt4TFVQxYNqmTOxKNkCC1V8B8Wio0rO6M1clImPql5Hv8lXJ8zGI+aiHwbDcOi60ylDZjteFEWB44xsV5+BxK9yzor5UiZc7Xkpmc/x9Uvpp+EjfeX0CV/foBAPGEsULwf0qF5d3DQ/XQs8C0YeTCywLfo4XrNme5b5PdCujLu7dJkv8CEWIYJgwRKu372F8cCGS6qzCJbYbL/LYDiYgD1w6NuFc7XKy1m0bWeDrWwcOLm9AXt0atxeXN/AL/RsTZ2e3di283nDvvZhhjKP0S/0MdXGEKS8yJh49akz/NR57ccFlWpB4rMcTqjo+1t22vZ3UZ008gXSoO1xtmElTcaU7WTSs7vwK2d0KeC8C1d5mWWoTleVMxxSk++uqKauLs2xxpN2Ar/EYkETY2qh6VDjBzcl52szCK2pBJ0RLyO5wCiOl7nEAjay/FRaFk73FeSB6U/VHqvrQQ883SMwa461ueiYDsKRfT0vi1ZZe3LZLrY3NEGqED2ra16oPHQK7W70bEub2E1FPbt6YbYc2y69KVEzNmxcDb09Nf6B+X0h0yhCCCmJBSu0b6S7IuA9Ekw0g3yFS1YWeAbnvExiEZcJzQgVIQnFyLgUYWP6TrIl74JfCqkwnfOImgdvMPFzJlCcwc3s7sAF+ZAs0FfYKDHJ1EiXeWPdo3aoQn3rZ13oT2Orft7yuNM1jarPSk5Itrr0uv9hmgDFW1LlQDCgrncPLm40wqxZoKB2U816yfG6+rsGHfqsDFRyD4wCmUce0ymR7yrGIXjAWQ8G8GdMgEXnoaGHx0RJuGf46HoSWNkEao4zAR/jsCDwjBcQJ1BfzY3x3Ypm5iaKBLX8QIiJ/c7SEcjtjFiNRiS4Rw4nbzPFHVsdOYWHmCbqCzGhSh9nNIcIb00UeCpzlRo1g3P1zIQ6ElFk+ET8rbA2BxpNiaocPZnXwjeIKdgyMcN6rjfBE4FpH65YkaTExP12ibPHjNBtT2VmEb6kuW6RRHkGFQ301A8HWALV6IM+yqId4TrJSl6dVBkN94SKhcRcqFBLpu8XNbLGmOp8ukAEqYzWgu5NzaahEvcFYbY6nRfrJ898Y0BjrA+EONNMyQswWaiO6qRh44R2gKBM1E0kuFL3nOZSQ05V6mwIBBeE7egTgeAhLtvyk1CbQCj0UAlwXEh4oCuGorvqjz7iOg6FpK7wYiO+iR7GCJcxX+YqwKKCwRnCyXpap0DzVcqnOk6/8X1mWkP3VbXsBfO3OmfWnXZrLtshj2hEtEGFjISOCBsEVWPc+40wvvc75gSB4fp6EktTPXWsB0sTlEtBQBOwPthntnbRmCmuoKojrskiqSXHGWTQh1crnrFb5DCo9NjAyLPOcyXdlGRbibNqsLbFmGawvZprS2I1SqrWYvWxqOrCqFZeB4QWtOXUboLfQZau3P3y+8URHKWFDkmXtjI4LGbWZYHKPwr2SQNX7mnMLqHTyvlHS5qjct8ta2CHiqndrSkZhajG2baM2a1XNsXNlnyBHSKFhIhj2cP9CgVW8gPasuMftcMxuqR2tsnGlLy5UFpZmN6sqQvzQg25YYnrY7RE41PvHlXMrrmocfBdUsF41XpB/xz9eNEAlQw4Vg00Y1RJAthQAKYA+Pd8v3L7H0kfjmb9ptlwkOmrkqpr1TJOaoOjKb2yb2hdMacpv6LPg+E15ddXfMXB0cgYVty/4W+vADBbKhWgr57WAbvaWUmBw6HblTRp/4/E7x5B/CtIXSd/jaGvoMX/+v+Z6j+h94r3O8+f/wZ6iHjm",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d825877c4e5e9766a8efeedef702148c",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Werkstoffe der gasfiihrenden Teile Gehause: Aluminium, Dichtungen und Stahl, buntmetallfrei Membranen: NBR Umgebungstemperatur -15 °C bis +70 °C Einbaulage Reglerdom stehend Rp 1/2 - DN 100 Reglerdom senkrecht DN 125, DN 150 senkrecht bis waagerecht liegend stehend MeB- / Ziindgasanschliisse G 1/4 1SO 228 beidseitig im Eingangsbereich",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Werkstoffe der gasfiihrenden Teile</td><td>Gehause: Aluminium, Dichtungen und</td><td>Stahl, buntmetallfrei Membranen: NBR</td><td/></tr><tr><td>Umgebungstemperatur</td><td>-15 °C bis +70 °C</td><td/><td/></tr><tr><td>Einbaulage</td><td>Reglerdom stehend Rp 1/2 - DN 100 Reglerdom senkrecht DN 125, DN 150</td><td>senkrecht bis waagerecht liegend stehend</td><td/></tr><tr><td>MeB- / Ziindgasanschliisse</td><td>G 1/4 1SO 228 beidseitig im Eingangsbereich</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f701140b90b423ff2c83837cae30c8b7",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. MeBéffnung G 1/81S0 228 im Bodendeckel (Option DN 125, DN 150) widerverschlieBbare Offnung zur Einstellung anlagenspezifischer Werte bei der Inbetriebnahme der Anlage z. B. Gasmotor. Bypass Bypass vorbereitet: Rp 3/8 - Rp 2 am Gehause rechts Impulsanschluf3 intern vorhanden im Ausgangsbereich, extern am Gehause vorbereitet: Rp 3/8 - Rp 1 links, G 1/8; beidseitig ab Rp 1 1/2, DN 40 G 1/4 ; interner Impuls verschlieBbar",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MeBéffnung</td><td>G 1/81S0 228 im Bodendeckel (Option DN 125, DN 150) widerverschlieBbare Offnung zur Einstellung anlagenspezifischer Werte bei der Inbetriebnahme der Anlage z. B. Gasmotor.</td></tr><tr><td>Bypass</td><td>Bypass vorbereitet: Rp 3/8 - Rp 2 am Gehause rechts</td></tr><tr><td>Impulsanschluf3</td><td>intern vorhanden im Ausgangsbereich, extern am Gehause vorbereitet: Rp 3/8 - Rp 1 links, G 1/8; beidseitig ab Rp 1 1/2, DN 40 G 1/4 ; interner Impuls verschlieBbar</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "3aca05ea3ff0aff8e0ab0ec9658be88c",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Atmungsleitung / DruckanschluB3 fiir Geblasedruck Atmungsleitung muf3 nicht verlegt werden, vorhandener AnschluB3 kann als Druckanschlu fiir die FilhrungsgréBe (Geblasedruck) genutzt werden. AnschluB: G 1/4bisRp 1;abRp 1 1/2, DN 40: G 1/2 FlhrungsgréBe Geblasedruck fr Gleichdruckanwendungen und Gas-Luft-Verbundanwendungen mit Druckver- héltnis ca. 1:1 und mit Druckluft geflihrtem Betrieb: p . =150 mbar (15 kPa)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Atmungsleitung / DruckanschluB3 fiir Geblasedruck</td><td>Atmungsleitung muf3 nicht verlegt werden, vorhandener AnschluB3 kann als Druckanschlu fiir die FilhrungsgréBe (Geblasedruck) genutzt werden. AnschluB: G 1/4bisRp 1;abRp 1 1/2, DN 40: G 1/2</td></tr><tr><td>FlhrungsgréBe Geblasedruck</td><td>fr Gleichdruckanwendungen und Gas-Luft-Verbundanwendungen mit Druckver- héltnis ca. 1:1 und mit Druckluft geflihrtem Betrieb: p . =150 mbar (15 kPa)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "6b5484a56ff9c900a981cc444673725f",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. 2 … 8\n\n3 … 8\n\nFederauswahl\n\nDer Ausgangsdruck resultiert aus der Kraft der eingebauten Einstellfeder, der Gegenfeder und der Höhe des anliegenden Gebläsedruckes. Serien-\n\nmässig ist das Druckregelgerät mit der braunen Feder Nr. 1 ausgestattet.\n\nDurch den Wechsel der Einstellfeder ist es möglich, größere positive Null-\n\npunktverschiebungen (Offset) des Ausgangsdruckes zu realisieren (siehe Abbildung \"Druckluftgeführtes Druck- regelgerät\").",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztl12P3CYUhv8K8lUj7c7YYLDdu1TTbKVK21WbqhfZyMJwsGnwhwCnTVb733vwTNRNFEXd3q12LmZs4Bx4gWdemDd3GTgYYYqt1dn3JGNCSSNoxTouQPNGKs5El9Oi5FXdqCq7INkIUWoZJcbfZemlDfPqFXwqQ6s84GPrsKjKMs+rhtJdnpK39nHW1thvBCx+VhDCvxFFU4qG7aqS85qlsAX8aEOw8xTak5g3dxl2nGQwRvPy/i2GeVCz162blYyz3xQuMg6p2/3vAXzYe6uU9BoTQ/Qy2rC/+aAG6ccbP/8JKoa9Xqc+tMus9npWa1qscDlPsKdFw7lorxxYNWi/qnceege+ffXr9VV7+KE97BZtsvt71GGsg0mOSVz2H/NOWfHDsmXJZXEWZ4Ez3p+anZz6VfYQ0uQzmPosTXnBmnZaxw7SfGkaPcLfcRuZ3K40p4LUKf1TzzeYcH2Mx+AviSh5LaVWZWNoVXDTMNNw3eiaqY5yBONMxBMjgj0kgv0PIjqNm007xisJea7w0xRQG6aMqriQ5ZmIp0zEK9Dg5Rr+koN7yMRrGx18DQfDhBCsFFIgDAKtQePZQWVFO17nNTVnHJ4aDluNf8QP/iE/B/Dk5Rp6HChsSomHsLpowUeCXBHEi/zspYnbG9iph06uESbyo51CBOdMQvBia76CHqatTNZJb1U/3a55bsQAWApETs6mGI35V9C51AglYpCGhrAjv4G3MF0+RPla+rRt7+F10vwVpJGtota5kJXCm0+DNNe8pHmjcqOr8kjTGelng/R4girYntiA3MpADifF4Hrwx/ZIRnuEukMDnRDIzUvJtd+RIqGPGqOMEeLuUTRWlNV49WIUZIGSaSm0yruaQ14ij+J83j4vGg+4rwNJfvcHqCGA25D7zDs3StEcx6NV9ihyuCC9PxbTtzbggSxzsIk8cr069ziLVIVSjQZT1JQzLpsccqoqw7VSBVB5/lvwvKBc1uldfI/LpAYLHa4D4vndL8YEiC+2c/qzKwGWP654L5DOBrwXpFh84on+suusS8tIbrPNYd1qYg9mA1cNPsLJeS/JF957m734lqu+/QdVamzx",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "08dd56e19922dc8a3441db23d1342954",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Sollwertfeder- bereich [mbar] Federfarbe Nennweite Rp/DN 2,5...49 Feder 1 braun 5..13 Feder 2 wei 5...20 Feder 3 orange 10...30 Feder 4 blau 25...55 Feder 5 rot 30...70 Feder 6 gelb 60...110 Feder?7 schwarz 100...150 Feder 8 rosa 140...200 Feder 9 grau Standard Feder 2 ... 9 nur fiir Druckluftanwendungen",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Sollwertfeder- bereich [mbar] Federfarbe Nennweite Rp/DN</td><td>2,5...49 Feder 1 braun</td><td>5..13 Feder 2 wei</td><td>5...20 Feder 3 orange</td><td>10...30 Feder 4 blau</td><td>25...55 Feder 5 rot</td><td>30...70 Feder 6 gelb</td><td>60...110 Feder?7 schwarz</td><td>100...150 Feder 8 rosa</td><td>140...200 Feder 9 grau</td></tr><tr><td>Standard Feder 2 ... 9 nur fiir Druckluftanwendungen</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNV9FurDYQ/RWL1+YuGNvYrtJUqqJ736KrtH1KIuQF7y4tC8iA0jTKv9eGYXeZbKs+rIbxzByfGSwf9uk9srU92mbIqzL6kUSZMIIaRgtrLZOKUsp1IQRVVivLWBHdkOhoB1Oawfj89yg85H07usIuvs0LZ72ZAKnkPEmkTtNNEoqn+LEtq131Hwmdawvb9+cMqnmm2UZyIRQLaZ11x6rvq7bpcyDz9B554ECDsTThHy8+zdmidWVet4UZWjcx7MxwCLDx7711feyqojCu9IX94MxQ9fH3t+Jg3PG7a/+wxdDH5djs+7xri7hsizEMq//SNjZOqRYiy7/VtioOpRuLP53d19blXx8fvuX3v+T3m67cRR8fnseuqm1jjoFc9D/roGp466Yq03V15bvwHccQrk2zH83e9qH5yDb7KLTc+ZW8GY9bG/pl04o7v+Ft6V9eumVCGpskhf9patWOFbtCiszwADzYv4bc9PlhONah5nYw29re3Q4Ha8q72xjssG3LN2+c/5XEta99Z5qfnqP0Obr7ta3rV+uGnS2t+0I8mdAteTpujXshX8PqzritJQ+2aV5tNVjy2MX3Dx48IJd36Y3YbDZcz7mEkq0zY3MK+yBlEEuJB7iMbNIEQoy0zk/JnqI08WG2hDnZ1mY87xlqhYCg8C0NpxgLhXIpzMje1ttTMAtBSiH6syR9cXg17u+LbacMsdQrj92bc5gnE+slrMneLbziab7zjIu2hhnrMOPBNKU/u6cxeAxf2oyO7KrKkftwtupx59NebROOsW0+Yd49doTF6saPn9A4Pc8i1YrKtasuXaLSBPkU+SnyGfI58gXys39hu6pTDMEyBMsQLMuQL5GP2mR67XPUNqdXaaJhcDQMjlhzxJoj1hyx5og1R6w5Yi2S6yzDS78h9w8EtyVQAwI1IFADAjWQIQIS4UuEL9dnT7KrfGeuIlnnoq0lmp1Es5Prcy3R6CRirhBzhZir9DNVTzITN+RTKRqaQswVYq4Qc4XeukLUFaKu0f76yln1VP31hPLQy9aIt0a8NeKtV7yVRrQ1oq1XtHVy5awGluiC0Aldl6Vrl6FsjnyMliFfruEuOHNGOL1yOwWS67Opk3VrdB2l6w7ougPK1i5fu2LtZoifvOAXg1bHs5JHH6DyQd2RVHvhfR7TJM1+0ASevNLCkxdWmsyPXkRTWPWSyWDVK2QGj0EP/cECx0ufV7kFJbn6ReBvo0XKFvledHqR5EV+ZytPcrro5sWXxfTBED4NnsckKXfwJTApflD2ScEXoZ7keBJd/EFCPqns3MMitAF8V1wXW7LWVjKddSrBKgIqCpaChbyUgeVgBdhshoVlBmls8SGNZWBhOwbbMU1AxcDSiR04sDcHUA6gHEA5gHIA5QDKAdS/ZKQpsA74AvAF4AvAz6BeQr6EfAn5kpGLux/WoFYCNwncJHCTwE0CtoI6BdgqJadLGlaAlQJkBcgKkBUgK0BWgKyhXlMy36XgAnkNsBpgNcBqgNUAqwFWz7D+FiTzpQcuBZuCZWA52CUvAyvBetj5viLz9QTLsAsFnwI8BXgK8BTgKcB7GLhepn8K8O/kt3CtRB8v/wDH3dp/",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "a6429a4ecb7aab5ac2ba3fadbfdaa288",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Rp 3/8, Rp 1/2 229817 229818 229 820 229 821 229 822 229 823 229 824 229 825 229 826 Rp 3/4 229833 229 834 229 835 229 836 229 837 229 838 229 839 229 840 229 841",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Rp 3/8, Rp 1/2</td><td>229817</td><td>229818</td><td>229 820</td><td>229 821</td><td>229 822</td><td>229 823</td><td>229 824</td><td>229 825</td><td>229 826</td></tr><tr><td>Rp 3/4</td><td>229833</td><td>229 834</td><td>229 835</td><td>229 836</td><td>229 837</td><td>229 838</td><td>229 839</td><td>229 840</td><td>229 841</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNV9FurDYQ/RWL1+YuGNvYrtJUqqJ736KrtH1KIuQF7y4tC8iA0jTKv9eGYXeZbKs+rIbxzByfGSwf9uk9srU92mbIqzL6kUSZMIIaRgtrLZOKUsp1IQRVVivLWBHdkOhoB1Oawfj89yg85H07usIuvs0LZ72ZAKnkPEmkTtNNEoqn+LEtq131Hwmdawvb9+cMqnmm2UZyIRQLaZ11x6rvq7bpcyDz9B554ECDsTThHy8+zdmidWVet4UZWjcx7MxwCLDx7711feyqojCu9IX94MxQ9fH3t+Jg3PG7a/+wxdDH5djs+7xri7hsizEMq//SNjZOqRYiy7/VtioOpRuLP53d19blXx8fvuX3v+T3m67cRR8fnseuqm1jjoFc9D/roGp466Yq03V15bvwHccQrk2zH83e9qH5yDb7KLTc+ZW8GY9bG/pl04o7v+Ft6V9eumVCGpskhf9patWOFbtCiszwADzYv4bc9PlhONah5nYw29re3Q4Ha8q72xjssG3LN2+c/5XEta99Z5qfnqP0Obr7ta3rV+uGnS2t+0I8mdAteTpujXshX8PqzritJQ+2aV5tNVjy2MX3Dx48IJd36Y3YbDZcz7mEkq0zY3MK+yBlEEuJB7iMbNIEQoy0zk/JnqI08WG2hDnZ1mY87xlqhYCg8C0NpxgLhXIpzMje1ttTMAtBSiH6syR9cXg17u+LbacMsdQrj92bc5gnE+slrMneLbziab7zjIu2hhnrMOPBNKU/u6cxeAxf2oyO7KrKkftwtupx59NebROOsW0+Yd49doTF6saPn9A4Pc8i1YrKtasuXaLSBPkU+SnyGfI58gXys39hu6pTDMEyBMsQLMuQL5GP2mR67XPUNqdXaaJhcDQMjlhzxJoj1hyx5og1R6w5Yi2S6yzDS78h9w8EtyVQAwI1IFADAjWQIQIS4UuEL9dnT7KrfGeuIlnnoq0lmp1Es5Prcy3R6CRirhBzhZir9DNVTzITN+RTKRqaQswVYq4Qc4XeukLUFaKu0f76yln1VP31hPLQy9aIt0a8NeKtV7yVRrQ1oq1XtHVy5awGluiC0Aldl6Vrl6FsjnyMliFfruEuOHNGOL1yOwWS67Opk3VrdB2l6w7ougPK1i5fu2LtZoifvOAXg1bHs5JHH6DyQd2RVHvhfR7TJM1+0ASevNLCkxdWmsyPXkRTWPWSyWDVK2QGj0EP/cECx0ufV7kFJbn6ReBvo0XKFvledHqR5EV+ZytPcrro5sWXxfTBED4NnsckKXfwJTApflD2ScEXoZ7keBJd/EFCPqns3MMitAF8V1wXW7LWVjKddSrBKgIqCpaChbyUgeVgBdhshoVlBmls8SGNZWBhOwbbMU1AxcDSiR04sDcHUA6gHEA5gHIA5QDKAdS/ZKQpsA74AvAF4AvAz6BeQr6EfAn5kpGLux/WoFYCNwncJHCTwE0CtoI6BdgqJadLGlaAlQJkBcgKkBUgK0BWgKyhXlMy36XgAnkNsBpgNcBqgNUAqwFWz7D+FiTzpQcuBZuCZWA52CUvAyvBetj5viLz9QTLsAsFnwI8BXgK8BTgKcB7GLhepn8K8O/kt3CtRB8v/wDH3dp/",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "10d368f70a5c125e74db93d66bc367ba",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Rp 1 229 842 229 843 229 844 229 845 229 846 229 847 229 848 229 849 229 850 Rp 1 1/2, DN 40 229 851 229 852 229 853 229 854 229 869 229 870 229 871 229 872 229873",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Rp 1</td><td>229 842</td><td>229 843</td><td>229 844</td><td>229 845</td><td>229 846</td><td>229 847</td><td>229 848</td><td>229 849</td><td>229 850</td></tr><tr><td>Rp 1 1/2, DN 40</td><td>229 851</td><td>229 852</td><td>229 853</td><td>229 854</td><td>229 869</td><td>229 870</td><td>229 871</td><td>229 872</td><td>229873</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNV9FurDYQ/RWL1+YuGNvYrtJUqqJ736KrtH1KIuQF7y4tC8iA0jTKv9eGYXeZbKs+rIbxzByfGSwf9uk9srU92mbIqzL6kUSZMIIaRgtrLZOKUsp1IQRVVivLWBHdkOhoB1Oawfj89yg85H07usIuvs0LZ72ZAKnkPEmkTtNNEoqn+LEtq131Hwmdawvb9+cMqnmm2UZyIRQLaZ11x6rvq7bpcyDz9B554ECDsTThHy8+zdmidWVet4UZWjcx7MxwCLDx7711feyqojCu9IX94MxQ9fH3t+Jg3PG7a/+wxdDH5djs+7xri7hsizEMq//SNjZOqRYiy7/VtioOpRuLP53d19blXx8fvuX3v+T3m67cRR8fnseuqm1jjoFc9D/roGp466Yq03V15bvwHccQrk2zH83e9qH5yDb7KLTc+ZW8GY9bG/pl04o7v+Ft6V9eumVCGpskhf9patWOFbtCiszwADzYv4bc9PlhONah5nYw29re3Q4Ha8q72xjssG3LN2+c/5XEta99Z5qfnqP0Obr7ta3rV+uGnS2t+0I8mdAteTpujXshX8PqzritJQ+2aV5tNVjy2MX3Dx48IJd36Y3YbDZcz7mEkq0zY3MK+yBlEEuJB7iMbNIEQoy0zk/JnqI08WG2hDnZ1mY87xlqhYCg8C0NpxgLhXIpzMje1ttTMAtBSiH6syR9cXg17u+LbacMsdQrj92bc5gnE+slrMneLbziab7zjIu2hhnrMOPBNKU/u6cxeAxf2oyO7KrKkftwtupx59NebROOsW0+Yd49doTF6saPn9A4Pc8i1YrKtasuXaLSBPkU+SnyGfI58gXys39hu6pTDMEyBMsQLMuQL5GP2mR67XPUNqdXaaJhcDQMjlhzxJoj1hyx5og1R6w5Yi2S6yzDS78h9w8EtyVQAwI1IFADAjWQIQIS4UuEL9dnT7KrfGeuIlnnoq0lmp1Es5Prcy3R6CRirhBzhZir9DNVTzITN+RTKRqaQswVYq4Qc4XeukLUFaKu0f76yln1VP31hPLQy9aIt0a8NeKtV7yVRrQ1oq1XtHVy5awGluiC0Aldl6Vrl6FsjnyMliFfruEuOHNGOL1yOwWS67Opk3VrdB2l6w7ougPK1i5fu2LtZoifvOAXg1bHs5JHH6DyQd2RVHvhfR7TJM1+0ASevNLCkxdWmsyPXkRTWPWSyWDVK2QGj0EP/cECx0ufV7kFJbn6ReBvo0XKFvledHqR5EV+ZytPcrro5sWXxfTBED4NnsckKXfwJTApflD2ScEXoZ7keBJd/EFCPqns3MMitAF8V1wXW7LWVjKddSrBKgIqCpaChbyUgeVgBdhshoVlBmls8SGNZWBhOwbbMU1AxcDSiR04sDcHUA6gHEA5gHIA5QDKAdS/ZKQpsA74AvAF4AvAz6BeQr6EfAn5kpGLux/WoFYCNwncJHCTwE0CtoI6BdgqJadLGlaAlQJkBcgKkBUgK0BWgKyhXlMy36XgAnkNsBpgNcBqgNUAqwFWz7D+FiTzpQcuBZuCZWA52CUvAyvBetj5viLz9QTLsAsFnwI8BXgK8BTgKcB7GLhepn8K8O/kt3CtRB8v/wDH3dp/",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c872a6cd9327a9b0c1e4768d36eeb6d1",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Rp 2, DN 50 229874 229 875 229 876 229 877 229878 229 879 229 880 229 881 229 882 DN 65, 80 229 883 229 884 229 885 229 886 229 887 229 888 229 889 229 890 229 891",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Rp 2, DN 50</td><td>229874</td><td>229 875</td><td>229 876</td><td>229 877</td><td>229878</td><td>229 879</td><td>229 880</td><td>229 881</td><td>229 882</td></tr><tr><td>DN 65, 80</td><td>229 883</td><td>229 884</td><td>229 885</td><td>229 886</td><td>229 887</td><td>229 888</td><td>229 889</td><td>229 890</td><td>229 891</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNV9FurDYQ/RWL1+YuGNvYrtJUqqJ736KrtH1KIuQF7y4tC8iA0jTKv9eGYXeZbKs+rIbxzByfGSwf9uk9srU92mbIqzL6kUSZMIIaRgtrLZOKUsp1IQRVVivLWBHdkOhoB1Oawfj89yg85H07usIuvs0LZ72ZAKnkPEmkTtNNEoqn+LEtq131Hwmdawvb9+cMqnmm2UZyIRQLaZ11x6rvq7bpcyDz9B554ECDsTThHy8+zdmidWVet4UZWjcx7MxwCLDx7711feyqojCu9IX94MxQ9fH3t+Jg3PG7a/+wxdDH5djs+7xri7hsizEMq//SNjZOqRYiy7/VtioOpRuLP53d19blXx8fvuX3v+T3m67cRR8fnseuqm1jjoFc9D/roGp466Yq03V15bvwHccQrk2zH83e9qH5yDb7KLTc+ZW8GY9bG/pl04o7v+Ft6V9eumVCGpskhf9patWOFbtCiszwADzYv4bc9PlhONah5nYw29re3Q4Ha8q72xjssG3LN2+c/5XEta99Z5qfnqP0Obr7ta3rV+uGnS2t+0I8mdAteTpujXshX8PqzritJQ+2aV5tNVjy2MX3Dx48IJd36Y3YbDZcz7mEkq0zY3MK+yBlEEuJB7iMbNIEQoy0zk/JnqI08WG2hDnZ1mY87xlqhYCg8C0NpxgLhXIpzMje1ttTMAtBSiH6syR9cXg17u+LbacMsdQrj92bc5gnE+slrMneLbziab7zjIu2hhnrMOPBNKU/u6cxeAxf2oyO7KrKkftwtupx59NebROOsW0+Yd49doTF6saPn9A4Pc8i1YrKtasuXaLSBPkU+SnyGfI58gXys39hu6pTDMEyBMsQLMuQL5GP2mR67XPUNqdXaaJhcDQMjlhzxJoj1hyx5og1R6w5Yi2S6yzDS78h9w8EtyVQAwI1IFADAjWQIQIS4UuEL9dnT7KrfGeuIlnnoq0lmp1Es5Prcy3R6CRirhBzhZir9DNVTzITN+RTKRqaQswVYq4Qc4XeukLUFaKu0f76yln1VP31hPLQy9aIt0a8NeKtV7yVRrQ1oq1XtHVy5awGluiC0Aldl6Vrl6FsjnyMliFfruEuOHNGOL1yOwWS67Opk3VrdB2l6w7ougPK1i5fu2LtZoifvOAXg1bHs5JHH6DyQd2RVHvhfR7TJM1+0ASevNLCkxdWmsyPXkRTWPWSyWDVK2QGj0EP/cECx0ufV7kFJbn6ReBvo0XKFvledHqR5EV+ZytPcrro5sWXxfTBED4NnsckKXfwJTApflD2ScEXoZ7keBJd/EFCPqns3MMitAF8V1wXW7LWVjKddSrBKgIqCpaChbyUgeVgBdhshoVlBmls8SGNZWBhOwbbMU1AxcDSiR04sDcHUA6gHEA5gHIA5QDKAdS/ZKQpsA74AvAF4AvAz6BeQr6EfAn5kpGLux/WoFYCNwncJHCTwE0CtoI6BdgqJadLGlaAlQJkBcgKkBUgK0BWgKyhXlMy36XgAnkNsBpgNcBqgNUAqwFWz7D+FiTzpQcuBZuCZWA52CUvAyvBetj5viLz9QTLsAsFnwI8BXgK8BTgKcB7GLhepn8K8O/kt3CtRB8v/wDH3dp/",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "cb43fac3163a7b84d884698e23afe6c2",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. DN 100 229 892 229 893 229 894 229 895 229 896 229897 229 898 229 899 229900 DN 125 229 901 229902 229903 229 904 229 905 229 906 229 907 229908 243 416 DN 150 229909 229910 229911 229912 229913 229914 229915 229916 243 417",
+    "metadata": {
+      "text_as_html": "<table><tr><td>DN 100</td><td>229 892</td><td>229 893</td><td>229 894</td><td>229 895</td><td>229 896</td><td>229897</td><td>229 898</td><td>229 899</td><td>229900</td></tr><tr><td>DN 125</td><td>229 901</td><td>229902</td><td>229903</td><td>229 904</td><td>229 905</td><td>229 906</td><td>229 907</td><td>229908</td><td>243 416</td></tr><tr><td>DN 150</td><td>229909</td><td>229910</td><td>229911</td><td>229912</td><td>229913</td><td>229914</td><td>229915</td><td>229916</td><td>243 417</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNV9FurDYQ/RWL1+YuGNvYrtJUqqJ736KrtH1KIuQF7y4tC8iA0jTKv9eGYXeZbKs+rIbxzByfGSwf9uk9srU92mbIqzL6kUSZMIIaRgtrLZOKUsp1IQRVVivLWBHdkOhoB1Oawfj89yg85H07usIuvs0LZ72ZAKnkPEmkTtNNEoqn+LEtq131Hwmdawvb9+cMqnmm2UZyIRQLaZ11x6rvq7bpcyDz9B554ECDsTThHy8+zdmidWVet4UZWjcx7MxwCLDx7711feyqojCu9IX94MxQ9fH3t+Jg3PG7a/+wxdDH5djs+7xri7hsizEMq//SNjZOqRYiy7/VtioOpRuLP53d19blXx8fvuX3v+T3m67cRR8fnseuqm1jjoFc9D/roGp466Yq03V15bvwHccQrk2zH83e9qH5yDb7KLTc+ZW8GY9bG/pl04o7v+Ft6V9eumVCGpskhf9patWOFbtCiszwADzYv4bc9PlhONah5nYw29re3Q4Ha8q72xjssG3LN2+c/5XEta99Z5qfnqP0Obr7ta3rV+uGnS2t+0I8mdAteTpujXshX8PqzritJQ+2aV5tNVjy2MX3Dx48IJd36Y3YbDZcz7mEkq0zY3MK+yBlEEuJB7iMbNIEQoy0zk/JnqI08WG2hDnZ1mY87xlqhYCg8C0NpxgLhXIpzMje1ttTMAtBSiH6syR9cXg17u+LbacMsdQrj92bc5gnE+slrMneLbziab7zjIu2hhnrMOPBNKU/u6cxeAxf2oyO7KrKkftwtupx59NebROOsW0+Yd49doTF6saPn9A4Pc8i1YrKtasuXaLSBPkU+SnyGfI58gXys39hu6pTDMEyBMsQLMuQL5GP2mR67XPUNqdXaaJhcDQMjlhzxJoj1hyx5og1R6w5Yi2S6yzDS78h9w8EtyVQAwI1IFADAjWQIQIS4UuEL9dnT7KrfGeuIlnnoq0lmp1Es5Prcy3R6CRirhBzhZir9DNVTzITN+RTKRqaQswVYq4Qc4XeukLUFaKu0f76yln1VP31hPLQy9aIt0a8NeKtV7yVRrQ1oq1XtHVy5awGluiC0Aldl6Vrl6FsjnyMliFfruEuOHNGOL1yOwWS67Opk3VrdB2l6w7ougPK1i5fu2LtZoifvOAXg1bHs5JHH6DyQd2RVHvhfR7TJM1+0ASevNLCkxdWmsyPXkRTWPWSyWDVK2QGj0EP/cECx0ufV7kFJbn6ReBvo0XKFvledHqR5EV+ZytPcrro5sWXxfTBED4NnsckKXfwJTApflD2ScEXoZ7keBJd/EFCPqns3MMitAF8V1wXW7LWVjKddSrBKgIqCpaChbyUgeVgBdhshoVlBmls8SGNZWBhOwbbMU1AxcDSiR04sDcHUA6gHEA5gHIA5QDKAdS/ZKQpsA74AvAF4AvAz6BeQr6EfAn5kpGLux/WoFYCNwncJHCTwE0CtoI6BdgqJadLGlaAlQJkBcgKkBUgK0BWgKyhXlMy36XgAnkNsBpgNcBqgNUAqwFWz7D+FiTzpQcuBZuCZWA52CUvAyvBetj5viLz9QTLsAsFnwI8BXgK8BTgKcB7GLhepn8K8O/kt3CtRB8v/wDH3dp/",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "2aa0410b5fcdfb87ad090982f8cdc323",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Standard Offset ≤ 5 mbar (Schließkraft der Gegenfeder in Geschlossenstellung)\n\nEinbaumaße\n\nS I : DN e S I\n\n[T A —",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztVctO3TAQ/RUrq1ZqiV95mF0rWsSGokJXgKKxPb43JS/ZTlWE+PfaFxBthap2icoiytg+Mz5n5ig5vylwwBGn2PW22CdFbaVpASxaLTkwIazQrbNcYw3asKp4Q4oRI1iIkPA3RQ66MK/e4MMaO+MxvXYFWSMlpY3ifI/m5N35ONve9X8ALH42GMIjgilZK7HXyKpqRYYt6Mc+hH6eQndP5vymSIUzDSE4lbeXCebRzN52w2wgzn7HcIG4zWXLLwF9KH1vDHibEkP0EPtQnlybLfjxxM9f0cRQ2nXahG6ZTWlns+ZmhbfzhCVnqqrq7nDA3mytX82Vx82Avvv4+fiwO3jfHewt1hW3t4mH6wecYMzkir/Mu8+K18suC5Zl6JOKpLi8Px5g2qywwZDFFzhtiix5STvdtI4as16x2/GPE9Y2DY9rUTWAlJr0KIatE8aZpqpBFpluxO8xg08jTDZ1h3xyLmAkFyvntSQVGTV48urUbIceL1ZKrbvy4CKx6MkhbnBymMN+SquQUHMa5hQiDkNq5utM/kHXMfjc9m94lu9Ml/9uSS5rKqxpNQqppFK24k43yF2trVPSvVjyv7Lkh37SsI5w5zr8JysxV6epUo280owxYwRT1oGA2qHSSr1Y6blZ6ZePFTki++TgmCBJ4c/GOBpT1lOGkIZb2TLTNEIYKl3FJEXLWzC0raxuXwzxnA1xfkbe5V8WZfIJN1z+ALvx27c=",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "4a16b95e02fbbe662aa3dcdb7c57744b",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Typ Bestell- Nummer [ r] Rp /DN EinbaumaBe [mm] Gewicht [kal a b c d e 9 h FRNG 503 220967 500 Rp 3/8 7 115 24 143 G 1/4 G1/4 G1/8 225 0,60",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Typ</td><td>Bestell- Nummer</td><td>[ r]</td><td>Rp /DN</td><td/><td>EinbaumaBe</td><td/><td>[mm]</td><td/><td/><td/><td/><td>Gewicht [kal</td></tr><tr><td>a</td><td>b</td><td>c</td><td>d</td><td>e</td><td/><td>9</td><td>h</td></tr><tr><td>FRNG 503</td><td>220967</td><td>500</td><td>Rp 3/8</td><td>7</td><td>115</td><td>24</td><td>143</td><td>G 1/4</td><td>G1/4</td><td>G1/8</td><td>225</td><td>0,60</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzNl99vozgQx/+VEc/dYowdw6rXh6p3eatWq72nNkIOOD9uISAg2q2q/u835uckhajtvdxDEmOPv/54bGYmjy+OSU1mDnW0T5yv4MR+oBdCK85i4a15wHWozcZXWm1irr3EuQInM7VOdK3R/sWxjajKj2Vs+mcTxaXBn0bQU0IwpkLOr5md3IxnebLf7C8YFGUem6oaLbxQLEL/WgkpA9+aFabM9lW1zw9V1ME8vjgobDF8nzPxukKz0sR5mURpHus6LxvCQtc7K+v+XZmycst9HOsywYlVXep6X7nfnuOdLrNvZf6PievKTY6HbRUVeewmeXy0zqq+5Afjci+UchEtU7OPd0l5jH+WZpuaMvrr+8Myur+L7q+LZOO8viLHZp+ag84snPPOed2s+rloZumiSPe4C9yx2w2n+rA96q2p7OYdc9g6dssF9kSHY7Y2dr8+9tTmdx3pKtrVWWqlbmq9Ts3tTb0zOsGf0jahzH9VhT788eTwJ+f2x3Nx49a7iZE7dJRJ0y/wcMwyU85YPUK5mhn6XoB7/9AP3g6NP/eHtT5m+s68HXvMstXb3vnG2ZJL8wt9XcPjT522Jm6z62bnt3qYvh5a8dBKhtYEVzi0dkTX7T27zpPnbpnk1h4vSObjcNJ0cM7ChRoeJWNDG33ku8HwOBp5nhzni7FbjLJL8NxxZHn2EJDlRyl2tegWHx0zEMtT4mCO2HP5/4RYnRKH8z4mQGTI88c2H9f3FvLjzGKc412xWWaPnTArNutl4llCTJbxR896IfswsU9lr/g8MTlXFgJbiFlkejM8SeTDUUMQBxCTJZ17Cn2yH5+cDb+Ss9ScnVHLOWqCrKbZhJp02nuRBZHyLyAz4hpPhuDL6ctx/wDUiWzaz4r4KfiEn4nURWh57ujpSIfQ1NKf9nSARzouKz7ha7JVeeE1pPehxZ4Od4hNLclrxoOxP6TYggTS92JLIqwueTs49/Z0zENsYkkvLcWmofC/UnvsYtAjAJ4AwfkcNjWlLwBt04Aowo9zqwXRWlzi5ic5UcnZS0ItxYlbyVLEZuF/HBtdQ8/xEjd91bjg3ry7aZgLptueoNdbfSKYeB69jWfkblc+uW256rx2pawtYbE8haEQLSDTv6/B1pWA6H0d+XRkLNkYsLUj9BVgW7Ri31qXK9CwhhgSMLCBLeywPtyuoK/TAE8WsEDDNoO2IAOlMJlJ4AKwfoFmM+Q7wCkSbGXSi8hOJOhF0DEfFlGdSDiSCPs+AJYpwAPAsmRKRUiwBQf0r1qrotiAghSogWa+D1goTGj41gBLgF4DodtMTzRwQ3hZUEBi9gEM2s1cfqKGyRlsUoY+B3c6stdBDdVOFqpZ9a0GZkvwRw1MitAlw0akSX4o25IoXC+YJMFBqiJ7FNWr2B6/ZbFZBzDbTNGguhy9a7fSpYtex/aE9nwk2DSAdHJCB0MlKMIT9Dxhr4M91iFWx575vEwTaYfTxhltQO11bJd1lv3Yg8cAOSGEIRCa0AdDpGvuDYa4QYjbzbDmY9sYsiaEbFCCJhgNl8feQIFYI5I976D9NMEE1OSh2TABTXiwf3v7f8Q/bFhwXlf/AqAQj8E=",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "10c33b4c1e2ed87a69b805626a276aad",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. FRNG 505 220968 500 Rp 1/2 7 115 24 143 G 1/4 G1/4 G1/8 225 0,60 FRNG 507 220969 500 Rp 3/4 100 130 28 165 G 1/4 G1/4 G1/8 245 1,00",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FRNG 505</td><td>220968</td><td>500</td><td>Rp 1/2</td><td>7</td><td>115</td><td>24</td><td>143</td><td>G 1/4</td><td>G1/4</td><td>G1/8</td><td>225</td><td>0,60</td></tr><tr><td>FRNG 507</td><td>220969</td><td>500</td><td>Rp 3/4</td><td>100</td><td>130</td><td>28</td><td>165</td><td>G 1/4</td><td>G1/4</td><td>G1/8</td><td>245</td><td>1,00</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzNl99vozgQx/+VEc/dYowdw6rXh6p3eatWq72nNkIOOD9uISAg2q2q/u835uckhajtvdxDEmOPv/54bGYmjy+OSU1mDnW0T5yv4MR+oBdCK85i4a15wHWozcZXWm1irr3EuQInM7VOdK3R/sWxjajKj2Vs+mcTxaXBn0bQU0IwpkLOr5md3IxnebLf7C8YFGUem6oaLbxQLEL/WgkpA9+aFabM9lW1zw9V1ME8vjgobDF8nzPxukKz0sR5mURpHus6LxvCQtc7K+v+XZmycst9HOsywYlVXep6X7nfnuOdLrNvZf6PievKTY6HbRUVeewmeXy0zqq+5Afjci+UchEtU7OPd0l5jH+WZpuaMvrr+8Myur+L7q+LZOO8viLHZp+ag84snPPOed2s+rloZumiSPe4C9yx2w2n+rA96q2p7OYdc9g6dssF9kSHY7Y2dr8+9tTmdx3pKtrVWWqlbmq9Ts3tTb0zOsGf0jahzH9VhT788eTwJ+f2x3Nx49a7iZE7dJRJ0y/wcMwyU85YPUK5mhn6XoB7/9AP3g6NP/eHtT5m+s68HXvMstXb3vnG2ZJL8wt9XcPjT522Jm6z62bnt3qYvh5a8dBKhtYEVzi0dkTX7T27zpPnbpnk1h4vSObjcNJ0cM7ChRoeJWNDG33ku8HwOBp5nhzni7FbjLJL8NxxZHn2EJDlRyl2tegWHx0zEMtT4mCO2HP5/4RYnRKH8z4mQGTI88c2H9f3FvLjzGKc412xWWaPnTArNutl4llCTJbxR896IfswsU9lr/g8MTlXFgJbiFlkejM8SeTDUUMQBxCTJZ17Cn2yH5+cDb+Ss9ScnVHLOWqCrKbZhJp02nuRBZHyLyAz4hpPhuDL6ctx/wDUiWzaz4r4KfiEn4nURWh57ujpSIfQ1NKf9nSARzouKz7ha7JVeeE1pPehxZ4Od4hNLclrxoOxP6TYggTS92JLIqwueTs49/Z0zENsYkkvLcWmofC/UnvsYtAjAJ4AwfkcNjWlLwBt04Aowo9zqwXRWlzi5ic5UcnZS0ItxYlbyVLEZuF/HBtdQ8/xEjd91bjg3ry7aZgLptueoNdbfSKYeB69jWfkblc+uW256rx2pawtYbE8haEQLSDTv6/B1pWA6H0d+XRkLNkYsLUj9BVgW7Ri31qXK9CwhhgSMLCBLeywPtyuoK/TAE8WsEDDNoO2IAOlMJlJ4AKwfoFmM+Q7wCkSbGXSi8hOJOhF0DEfFlGdSDiSCPs+AJYpwAPAsmRKRUiwBQf0r1qrotiAghSogWa+D1goTGj41gBLgF4DodtMTzRwQ3hZUEBi9gEM2s1cfqKGyRlsUoY+B3c6stdBDdVOFqpZ9a0GZkvwRw1MitAlw0akSX4o25IoXC+YJMFBqiJ7FNWr2B6/ZbFZBzDbTNGguhy9a7fSpYtex/aE9nwk2DSAdHJCB0MlKMIT9Dxhr4M91iFWx575vEwTaYfTxhltQO11bJd1lv3Yg8cAOSGEIRCa0AdDpGvuDYa4QYjbzbDmY9sYsiaEbFCCJhgNl8feQIFYI5I976D9NMEE1OSh2TABTXiwf3v7f8Q/bFhwXlf/AqAQj8E=",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "0a705661dece541497c42ef16422bde3",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. FRNG 510 220970 500 Rp 1 110 145 33 190 G 1/4 G1/4 G1/8 310 1,20 FRNG 515 209 064 500 Rp 11/2 150 195 40 250 G1/2 G1/4 G 1/4 365 2,50",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FRNG 510</td><td>220970</td><td>500</td><td>Rp 1</td><td>110</td><td>145</td><td>33</td><td>190</td><td>G 1/4</td><td>G1/4</td><td>G1/8</td><td>310</td><td>1,20</td></tr><tr><td>FRNG 515</td><td>209 064</td><td>500</td><td>Rp 11/2</td><td>150</td><td>195</td><td>40</td><td>250</td><td>G1/2</td><td>G1/4</td><td>G 1/4</td><td>365</td><td>2,50</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzNl99vozgQx/+VEc/dYowdw6rXh6p3eatWq72nNkIOOD9uISAg2q2q/u835uckhajtvdxDEmOPv/54bGYmjy+OSU1mDnW0T5yv4MR+oBdCK85i4a15wHWozcZXWm1irr3EuQInM7VOdK3R/sWxjajKj2Vs+mcTxaXBn0bQU0IwpkLOr5md3IxnebLf7C8YFGUem6oaLbxQLEL/WgkpA9+aFabM9lW1zw9V1ME8vjgobDF8nzPxukKz0sR5mURpHus6LxvCQtc7K+v+XZmycst9HOsywYlVXep6X7nfnuOdLrNvZf6PievKTY6HbRUVeewmeXy0zqq+5Afjci+UchEtU7OPd0l5jH+WZpuaMvrr+8Myur+L7q+LZOO8viLHZp+ag84snPPOed2s+rloZumiSPe4C9yx2w2n+rA96q2p7OYdc9g6dssF9kSHY7Y2dr8+9tTmdx3pKtrVWWqlbmq9Ts3tTb0zOsGf0jahzH9VhT788eTwJ+f2x3Nx49a7iZE7dJRJ0y/wcMwyU85YPUK5mhn6XoB7/9AP3g6NP/eHtT5m+s68HXvMstXb3vnG2ZJL8wt9XcPjT522Jm6z62bnt3qYvh5a8dBKhtYEVzi0dkTX7T27zpPnbpnk1h4vSObjcNJ0cM7ChRoeJWNDG33ku8HwOBp5nhzni7FbjLJL8NxxZHn2EJDlRyl2tegWHx0zEMtT4mCO2HP5/4RYnRKH8z4mQGTI88c2H9f3FvLjzGKc412xWWaPnTArNutl4llCTJbxR896IfswsU9lr/g8MTlXFgJbiFlkejM8SeTDUUMQBxCTJZ17Cn2yH5+cDb+Ss9ScnVHLOWqCrKbZhJp02nuRBZHyLyAz4hpPhuDL6ctx/wDUiWzaz4r4KfiEn4nURWh57ujpSIfQ1NKf9nSARzouKz7ha7JVeeE1pPehxZ4Od4hNLclrxoOxP6TYggTS92JLIqwueTs49/Z0zENsYkkvLcWmofC/UnvsYtAjAJ4AwfkcNjWlLwBt04Aowo9zqwXRWlzi5ic5UcnZS0ItxYlbyVLEZuF/HBtdQ8/xEjd91bjg3ry7aZgLptueoNdbfSKYeB69jWfkblc+uW256rx2pawtYbE8haEQLSDTv6/B1pWA6H0d+XRkLNkYsLUj9BVgW7Ri31qXK9CwhhgSMLCBLeywPtyuoK/TAE8WsEDDNoO2IAOlMJlJ4AKwfoFmM+Q7wCkSbGXSi8hOJOhF0DEfFlGdSDiSCPs+AJYpwAPAsmRKRUiwBQf0r1qrotiAghSogWa+D1goTGj41gBLgF4DodtMTzRwQ3hZUEBi9gEM2s1cfqKGyRlsUoY+B3c6stdBDdVOFqpZ9a0GZkvwRw1MitAlw0akSX4o25IoXC+YJMFBqiJ7FNWr2B6/ZbFZBzDbTNGguhy9a7fSpYtex/aE9nwk2DSAdHJCB0MlKMIT9Dxhr4M91iFWx575vEwTaYfTxhltQO11bJd1lv3Yg8cAOSGEIRCa0AdDpGvuDYa4QYjbzbDmY9sYsiaEbFCCJhgNl8feQIFYI5I976D9NMEE1OSh2TABTXiwf3v7f8Q/bFhwXlf/AqAQj8E=",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "08c333c9e6a7a1678bf96c71c5d5cf47",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. FRNG 520 209 065 500 Rp 2 170 250 47 310 G1/2 G1/4 G 1/4 450 3,50 FRNG 5040 159 350 500 DN 40 200 195 75 280 G1/2 G1/4 G 1/4 395 3,50",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FRNG 520</td><td>209 065</td><td>500</td><td>Rp 2</td><td>170</td><td>250</td><td>47</td><td>310</td><td>G1/2</td><td>G1/4</td><td>G 1/4</td><td>450</td><td>3,50</td></tr><tr><td>FRNG 5040</td><td>159 350</td><td>500</td><td>DN 40</td><td>200</td><td>195</td><td>75</td><td>280</td><td>G1/2</td><td>G1/4</td><td>G 1/4</td><td>395</td><td>3,50</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzNl99vozgQx/+VEc/dYowdw6rXh6p3eatWq72nNkIOOD9uISAg2q2q/u835uckhajtvdxDEmOPv/54bGYmjy+OSU1mDnW0T5yv4MR+oBdCK85i4a15wHWozcZXWm1irr3EuQInM7VOdK3R/sWxjajKj2Vs+mcTxaXBn0bQU0IwpkLOr5md3IxnebLf7C8YFGUem6oaLbxQLEL/WgkpA9+aFabM9lW1zw9V1ME8vjgobDF8nzPxukKz0sR5mURpHus6LxvCQtc7K+v+XZmycst9HOsywYlVXep6X7nfnuOdLrNvZf6PievKTY6HbRUVeewmeXy0zqq+5Afjci+UchEtU7OPd0l5jH+WZpuaMvrr+8Myur+L7q+LZOO8viLHZp+ag84snPPOed2s+rloZumiSPe4C9yx2w2n+rA96q2p7OYdc9g6dssF9kSHY7Y2dr8+9tTmdx3pKtrVWWqlbmq9Ts3tTb0zOsGf0jahzH9VhT788eTwJ+f2x3Nx49a7iZE7dJRJ0y/wcMwyU85YPUK5mhn6XoB7/9AP3g6NP/eHtT5m+s68HXvMstXb3vnG2ZJL8wt9XcPjT522Jm6z62bnt3qYvh5a8dBKhtYEVzi0dkTX7T27zpPnbpnk1h4vSObjcNJ0cM7ChRoeJWNDG33ku8HwOBp5nhzni7FbjLJL8NxxZHn2EJDlRyl2tegWHx0zEMtT4mCO2HP5/4RYnRKH8z4mQGTI88c2H9f3FvLjzGKc412xWWaPnTArNutl4llCTJbxR896IfswsU9lr/g8MTlXFgJbiFlkejM8SeTDUUMQBxCTJZ17Cn2yH5+cDb+Ss9ScnVHLOWqCrKbZhJp02nuRBZHyLyAz4hpPhuDL6ctx/wDUiWzaz4r4KfiEn4nURWh57ujpSIfQ1NKf9nSARzouKz7ha7JVeeE1pPehxZ4Od4hNLclrxoOxP6TYggTS92JLIqwueTs49/Z0zENsYkkvLcWmofC/UnvsYtAjAJ4AwfkcNjWlLwBt04Aowo9zqwXRWlzi5ic5UcnZS0ItxYlbyVLEZuF/HBtdQ8/xEjd91bjg3ry7aZgLptueoNdbfSKYeB69jWfkblc+uW256rx2pawtYbE8haEQLSDTv6/B1pWA6H0d+XRkLNkYsLUj9BVgW7Ri31qXK9CwhhgSMLCBLeywPtyuoK/TAE8WsEDDNoO2IAOlMJlJ4AKwfoFmM+Q7wCkSbGXSi8hOJOhF0DEfFlGdSDiSCPs+AJYpwAPAsmRKRUiwBQf0r1qrotiAghSogWa+D1goTGj41gBLgF4DodtMTzRwQ3hZUEBi9gEM2s1cfqKGyRlsUoY+B3c6stdBDdVOFqpZ9a0GZkvwRw1MitAlw0akSX4o25IoXC+YJMFBqiJ7FNWr2B6/ZbFZBzDbTNGguhy9a7fSpYtex/aE9nwk2DSAdHJCB0MlKMIT9Dxhr4M91iFWx575vEwTaYfTxhltQO11bJd1lv3Yg8cAOSGEIRCa0AdDpGvuDYa4QYjbzbDmY9sYsiaEbFCCJhgNl8feQIFYI5I976D9NMEE1OSh2TABTXiwf3v7f8Q/bFhwXlf/AqAQj8E=",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "68140da06f5b2daf472d2ee7f1cb7e20",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. FRNG 5050 209 067 500 DN 50 230 250 82,5 340 G1/2 G1/4 G 1/4 480 5,00 FRNG 5065 209 068 500 DN 65 290 285 92,5 405 G1/2 G1/4 G 1/4 590 7,50",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FRNG 5050</td><td>209 067</td><td>500</td><td>DN 50</td><td>230</td><td>250</td><td>82,5</td><td>340</td><td>G1/2</td><td>G1/4</td><td>G 1/4</td><td>480</td><td>5,00</td></tr><tr><td>FRNG 5065</td><td>209 068</td><td>500</td><td>DN 65</td><td>290</td><td>285</td><td>92,5</td><td>405</td><td>G1/2</td><td>G1/4</td><td>G 1/4</td><td>590</td><td>7,50</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzNl99vozgQx/+VEc/dYowdw6rXh6p3eatWq72nNkIOOD9uISAg2q2q/u835uckhajtvdxDEmOPv/54bGYmjy+OSU1mDnW0T5yv4MR+oBdCK85i4a15wHWozcZXWm1irr3EuQInM7VOdK3R/sWxjajKj2Vs+mcTxaXBn0bQU0IwpkLOr5md3IxnebLf7C8YFGUem6oaLbxQLEL/WgkpA9+aFabM9lW1zw9V1ME8vjgobDF8nzPxukKz0sR5mURpHus6LxvCQtc7K+v+XZmycst9HOsywYlVXep6X7nfnuOdLrNvZf6PievKTY6HbRUVeewmeXy0zqq+5Afjci+UchEtU7OPd0l5jH+WZpuaMvrr+8Myur+L7q+LZOO8viLHZp+ag84snPPOed2s+rloZumiSPe4C9yx2w2n+rA96q2p7OYdc9g6dssF9kSHY7Y2dr8+9tTmdx3pKtrVWWqlbmq9Ts3tTb0zOsGf0jahzH9VhT788eTwJ+f2x3Nx49a7iZE7dJRJ0y/wcMwyU85YPUK5mhn6XoB7/9AP3g6NP/eHtT5m+s68HXvMstXb3vnG2ZJL8wt9XcPjT522Jm6z62bnt3qYvh5a8dBKhtYEVzi0dkTX7T27zpPnbpnk1h4vSObjcNJ0cM7ChRoeJWNDG33ku8HwOBp5nhzni7FbjLJL8NxxZHn2EJDlRyl2tegWHx0zEMtT4mCO2HP5/4RYnRKH8z4mQGTI88c2H9f3FvLjzGKc412xWWaPnTArNutl4llCTJbxR896IfswsU9lr/g8MTlXFgJbiFlkejM8SeTDUUMQBxCTJZ17Cn2yH5+cDb+Ss9ScnVHLOWqCrKbZhJp02nuRBZHyLyAz4hpPhuDL6ctx/wDUiWzaz4r4KfiEn4nURWh57ujpSIfQ1NKf9nSARzouKz7ha7JVeeE1pPehxZ4Od4hNLclrxoOxP6TYggTS92JLIqwueTs49/Z0zENsYkkvLcWmofC/UnvsYtAjAJ4AwfkcNjWlLwBt04Aowo9zqwXRWlzi5ic5UcnZS0ItxYlbyVLEZuF/HBtdQ8/xEjd91bjg3ry7aZgLptueoNdbfSKYeB69jWfkblc+uW256rx2pawtYbE8haEQLSDTv6/B1pWA6H0d+XRkLNkYsLUj9BVgW7Ri31qXK9CwhhgSMLCBLeywPtyuoK/TAE8WsEDDNoO2IAOlMJlJ4AKwfoFmM+Q7wCkSbGXSi8hOJOhF0DEfFlGdSDiSCPs+AJYpwAPAsmRKRUiwBQf0r1qrotiAghSogWa+D1goTGj41gBLgF4DodtMTzRwQ3hZUEBi9gEM2s1cfqKGyRlsUoY+B3c6stdBDdVOFqpZ9a0GZkvwRw1MitAlw0akSX4o25IoXC+YJMFBqiJ7FNWr2B6/ZbFZBzDbTNGguhy9a7fSpYtex/aE9nwk2DSAdHJCB0MlKMIT9Dxhr4M91iFWx575vEwTaYfTxhltQO11bJd1lv3Yg8cAOSGEIRCa0AdDpGvuDYa4QYjbzbDmY9sYsiaEbFCCJhgNl8feQIFYI5I976D9NMEE1OSh2TABTXiwf3v7f8Q/bFhwXlf/AqAQj8E=",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "dc6d7c2fbb95e84a354d8a96fc731545",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. FRNG 5080 209 069 500 DN 80 310 285 100 405 G1/2 G1/4 G 1/4 590 10,00 FRNG 5100 214 422 500 DN 100 350 350 110 495 G1/2 G1/4 G 1/4 760 16,00",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FRNG 5080</td><td>209 069</td><td>500</td><td>DN 80</td><td>310</td><td>285</td><td>100</td><td>405</td><td>G1/2</td><td>G1/4</td><td>G 1/4</td><td>590</td><td>10,00</td></tr><tr><td>FRNG 5100</td><td>214 422</td><td>500</td><td>DN 100</td><td>350</td><td>350</td><td>110</td><td>495</td><td>G1/2</td><td>G1/4</td><td>G 1/4</td><td>760</td><td>16,00</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzNl99vozgQx/+VEc/dYowdw6rXh6p3eatWq72nNkIOOD9uISAg2q2q/u835uckhajtvdxDEmOPv/54bGYmjy+OSU1mDnW0T5yv4MR+oBdCK85i4a15wHWozcZXWm1irr3EuQInM7VOdK3R/sWxjajKj2Vs+mcTxaXBn0bQU0IwpkLOr5md3IxnebLf7C8YFGUem6oaLbxQLEL/WgkpA9+aFabM9lW1zw9V1ME8vjgobDF8nzPxukKz0sR5mURpHus6LxvCQtc7K+v+XZmycst9HOsywYlVXep6X7nfnuOdLrNvZf6PievKTY6HbRUVeewmeXy0zqq+5Afjci+UchEtU7OPd0l5jH+WZpuaMvrr+8Myur+L7q+LZOO8viLHZp+ag84snPPOed2s+rloZumiSPe4C9yx2w2n+rA96q2p7OYdc9g6dssF9kSHY7Y2dr8+9tTmdx3pKtrVWWqlbmq9Ts3tTb0zOsGf0jahzH9VhT788eTwJ+f2x3Nx49a7iZE7dJRJ0y/wcMwyU85YPUK5mhn6XoB7/9AP3g6NP/eHtT5m+s68HXvMstXb3vnG2ZJL8wt9XcPjT522Jm6z62bnt3qYvh5a8dBKhtYEVzi0dkTX7T27zpPnbpnk1h4vSObjcNJ0cM7ChRoeJWNDG33ku8HwOBp5nhzni7FbjLJL8NxxZHn2EJDlRyl2tegWHx0zEMtT4mCO2HP5/4RYnRKH8z4mQGTI88c2H9f3FvLjzGKc412xWWaPnTArNutl4llCTJbxR896IfswsU9lr/g8MTlXFgJbiFlkejM8SeTDUUMQBxCTJZ17Cn2yH5+cDb+Ss9ScnVHLOWqCrKbZhJp02nuRBZHyLyAz4hpPhuDL6ctx/wDUiWzaz4r4KfiEn4nURWh57ujpSIfQ1NKf9nSARzouKz7ha7JVeeE1pPehxZ4Od4hNLclrxoOxP6TYggTS92JLIqwueTs49/Z0zENsYkkvLcWmofC/UnvsYtAjAJ4AwfkcNjWlLwBt04Aowo9zqwXRWlzi5ic5UcnZS0ItxYlbyVLEZuF/HBtdQ8/xEjd91bjg3ry7aZgLptueoNdbfSKYeB69jWfkblc+uW256rx2pawtYbE8haEQLSDTv6/B1pWA6H0d+XRkLNkYsLUj9BVgW7Ri31qXK9CwhhgSMLCBLeywPtyuoK/TAE8WsEDDNoO2IAOlMJlJ4AKwfoFmM+Q7wCkSbGXSi8hOJOhF0DEfFlGdSDiSCPs+AJYpwAPAsmRKRUiwBQf0r1qrotiAghSogWa+D1goTGj41gBLgF4DodtMTzRwQ3hZUEBi9gEM2s1cfqKGyRlsUoY+B3c6stdBDdVOFqpZ9a0GZkvwRw1MitAlw0akSX4o25IoXC+YJMFBqiJ7FNWr2B6/ZbFZBzDbTNGguhy9a7fSpYtex/aE9nwk2DSAdHJCB0MlKMIT9Dxhr4M91iFWx575vEwTaYfTxhltQO11bJd1lv3Yg8cAOSGEIRCa0AdDpGvuDYa4QYjbzbDmY9sYsiaEbFCCJhgNl8feQIFYI5I976D9NMEE1OSh2TABTXiwf3v7f8Q/bFhwXlf/AqAQj8E=",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "a1d4cef61f91db6faf880c3d51264034",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. FRNG 5125 220758 500 DN 125 400 400 125 635 G1/2 G1/4 G 1/4 1000 28,00 FRNG 5150 224212 500 DN 150 480 480 142,5 780 G1/2 G1/4 G 1/4 1180 38,00",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FRNG 5125</td><td>220758</td><td>500</td><td>DN 125</td><td>400</td><td>400</td><td>125</td><td>635</td><td>G1/2</td><td>G1/4</td><td>G 1/4</td><td>1000</td><td>28,00</td></tr><tr><td>FRNG 5150</td><td>224212</td><td>500</td><td>DN 150</td><td>480</td><td>480</td><td>142,5</td><td>780</td><td>G1/2</td><td>G1/4</td><td>G 1/4</td><td>1180</td><td>38,00</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzNl99vozgQx/+VEc/dYowdw6rXh6p3eatWq72nNkIOOD9uISAg2q2q/u835uckhajtvdxDEmOPv/54bGYmjy+OSU1mDnW0T5yv4MR+oBdCK85i4a15wHWozcZXWm1irr3EuQInM7VOdK3R/sWxjajKj2Vs+mcTxaXBn0bQU0IwpkLOr5md3IxnebLf7C8YFGUem6oaLbxQLEL/WgkpA9+aFabM9lW1zw9V1ME8vjgobDF8nzPxukKz0sR5mURpHus6LxvCQtc7K+v+XZmycst9HOsywYlVXep6X7nfnuOdLrNvZf6PievKTY6HbRUVeewmeXy0zqq+5Afjci+UchEtU7OPd0l5jH+WZpuaMvrr+8Myur+L7q+LZOO8viLHZp+ag84snPPOed2s+rloZumiSPe4C9yx2w2n+rA96q2p7OYdc9g6dssF9kSHY7Y2dr8+9tTmdx3pKtrVWWqlbmq9Ts3tTb0zOsGf0jahzH9VhT788eTwJ+f2x3Nx49a7iZE7dJRJ0y/wcMwyU85YPUK5mhn6XoB7/9AP3g6NP/eHtT5m+s68HXvMstXb3vnG2ZJL8wt9XcPjT522Jm6z62bnt3qYvh5a8dBKhtYEVzi0dkTX7T27zpPnbpnk1h4vSObjcNJ0cM7ChRoeJWNDG33ku8HwOBp5nhzni7FbjLJL8NxxZHn2EJDlRyl2tegWHx0zEMtT4mCO2HP5/4RYnRKH8z4mQGTI88c2H9f3FvLjzGKc412xWWaPnTArNutl4llCTJbxR896IfswsU9lr/g8MTlXFgJbiFlkejM8SeTDUUMQBxCTJZ17Cn2yH5+cDb+Ss9ScnVHLOWqCrKbZhJp02nuRBZHyLyAz4hpPhuDL6ctx/wDUiWzaz4r4KfiEn4nURWh57ujpSIfQ1NKf9nSARzouKz7ha7JVeeE1pPehxZ4Od4hNLclrxoOxP6TYggTS92JLIqwueTs49/Z0zENsYkkvLcWmofC/UnvsYtAjAJ4AwfkcNjWlLwBt04Aowo9zqwXRWlzi5ic5UcnZS0ItxYlbyVLEZuF/HBtdQ8/xEjd91bjg3ry7aZgLptueoNdbfSKYeB69jWfkblc+uW256rx2pawtYbE8haEQLSDTv6/B1pWA6H0d+XRkLNkYsLUj9BVgW7Ri31qXK9CwhhgSMLCBLeywPtyuoK/TAE8WsEDDNoO2IAOlMJlJ4AKwfoFmM+Q7wCkSbGXSi8hOJOhF0DEfFlGdSDiSCPs+AJYpwAPAsmRKRUiwBQf0r1qrotiAghSogWa+D1goTGj41gBLgF4DodtMTzRwQ3hZUEBi9gEM2s1cfqKGyRlsUoY+B3c6stdBDdVOFqpZ9a0GZkvwRw1MitAlw0akSX4o25IoXC+YJMFBqiJ7FNWr2B6/ZbFZBzDbTNGguhy9a7fSpYtex/aE9nwk2DSAdHJCB0MlKMIT9Dxhr4M91iFWx575vEwTaYfTxhltQO11bJd1lv3Yg8cAOSGEIRCa0AdDpGvuDYa4QYjbzbDmY9sYsiaEbFCCJhgNl8feQIFYI5I976D9NMEE1OSh2TABTXiwf3v7f8Q/bFhwXlf/AqAQj8E=",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "0bd9af86649ce28d37ad73e9c051ed71",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Bypass-\n\ndrossel\n\n225 256\n\nRp 3/8 - Rp2\n\nFunktion\n\nWirkungsweise nach dem Kräftever- gleichsprinzip zwischen der Kraft:\n\nder einstellbaren Sollwertfeder\n\n- der vorgegebenen Gegenfeder\n\n- aus dem Differenzdruck an der Ar- beitsmembrane\n\nund\n\n- der Gewichtskraft der beweglichen Teile.\n\nDie Gegenfeder wirkt der Einstellfeder und der Gewichtskraft der beweglichen Teile entgegen. Abhängig von der Vorspannung der Einstellfeder und der Einbaulage wird die Kraft der Gegen- feder kompensiert.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztl01v2zgQhv+K4PM6lvgp9dYi2xwKFEU2u3voFsaQHNrc6AukHG8S5L93JKe7QVtk46MR+WJpNBy+Qz0aDj/fL7DGBtthHdziTbYoBP1KaaRVTHlZoWBgS+28sMZY5xa/ZIsGB3AwAPnfL8aLdep20eK3e1zbiPR3CKiFyHNdMXaWj4On503ngg/POPSxs5jSfx5FJVTFz7SQsuSjW4+xCSmFrk3rRzGf7xcUeJTBOcvFwxdyi2i76NZ1Z2Ho4qSwh2E7hl39njCmVQzWQnQ0MA0RhpBWn27tFmLzKXZ/ox3Syu3aTVr3nV25zu7GxUrLrsUVKyop1fqixmC3Lu7sdcRNjXH9/vLjxfr83fr8rHd+8fBAOnyosYVmFLd44bjHUcNtP42Cvq8DZUEZrx4f19BudrDBNCa/wHazGFPuybJud43BMV8+zj7gP8MY491tDyktx7Hfwn6EOGZ9g1ejDzl/T4Q2DEzhhcmN5co4wdCRQZYeq1x5MRNxykS42NGi1kcRAUYpZFD4youKagLPlTIllsidFcKbmYhTJoIxmTGpjiKikBYZFs6jqTjxwLhkEnOpJBdGop+JOGUiLvuMr8psmV327CgsKiICiAnIpVNFpW2pwOUKCimRXo2csTgxLMRTLN7v2usxwFMkrsJQ409R0DlyAaJgoCWg5Ay45LpQujSVLGcUTg6FyRKP+NifsvNniNdj9nsMCbMW7DZz2GQf4l+7PEfhB7zBuMw2Uyqpj6G9C312tw/JbrEl30i+4Ic3R9UjJkBr9MoBgpOVFJZ7Q9MVxtLaOTtD+KogHCnC0KYB69qMUbLfurreYxw80rPjTklKgi5Ac6Mgx0I6Tzqgyn2JwhRm7oBeF1rLqUTddHGDGzTYElsXdNUeDxbLSy60lVyhtqA8lSnpS2uE0JUWdq5Zrw0s2KVprzwP3iOFuZsEZ3DYFd/SrmkwDKnBxkRo8biGHaytdOGtYM5yJgsuXO5U5ZzmqpJzFTs52J6ys2vdi3p170WFhS6F1vTila0K7XKrS+qdpHEwl5yTo+CHkvN/3/mPe9kF7knpkK7HtnuyGNyT5DA15FdIKs+OqjW8lKVRFTPaouVgdMUVdeNclZADdVAzZa+KsvOAT1qkbE8HxANmvz526Ac71bCX4piRkrH9as+yt2Z7OFi2m7ChtuywV/7RxdRD29KiPzMTWQ3sakp1FEU2Evrh31knycvsMOS6a3psU6ATxHPfwpevnCTKcw==",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "0b2450f4e82d4081561b61db32014f41",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Schnittbild FRNG 515 Druckregelgerät in Geschlossenstellung\n\nÜberkompensation führt zu positiven Reglerausgangsdrücken, Teilkompen- sation führt zu negativen Regleraus- gangsdrücken.\n\nHinweise\n\nGasführende Leitungen, Impuls- und Verbindungsleitungen müssen aus Stahl und mindestens PN 1, DN 6 sein.\n\nDie Leitungen müssen den ther- mischen, chemischen und mecha- nischen Belastungen standhalten. Die Leitungen müssen dauerhaft und sicher gegen Verformung und Abriss sein.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztlktv3DYQx78KobN3V6QorZhbgkXcAoFhJE4vaSBQ5EhiTFECSaVNDH/3DuV1s3GDPI5GfVg9yJn/PPankd7dZGBhBBcbo7NnJGvzVhS6aFuq6r1s64qpruqKvWCVoDRX2RnJRohSyyjR/iZLF02YFq/g/h4a5QFPqyDdc57n6M+2eXJe98dJm858x2D2k4IQvlhQwStRbPe8LOsimc3gRxOCmVxojsm8u8lQOKVRFCznt+/RzIOavG7spGSc/JrhLOOQZHdvA/iw80Yp6TU6huhlNGF3+UkN0o+XfvoAKoadXlwfmnlSOz2pJTUrbCYHO0ZFWVbNuQWjBu0Xde2ht+Cbl68vzpvDi+awnXWX3d5iHp2x4OSYkst+0u/oFT/Nq5ecZ2uwCqx4d9y20vWL7CGk4jNwfZZKnnGlccvYQqqXp+gR/o5J440anImxNVaTFIyUtCSHYwZge/B/LnkOPBLjyDkENdgJ/wUXIliLXUhB7/O5MtFChuoPEcq5KHVe1lBQJXJNuw5KoXlZcCWY2OdPCD02hNYV/wtD4pS5RJRWqHQ9jTOitIYnXVru1OAj+byQeQommo/gyOu1DLmEHhML2t+ZqWtwZ+QKjL0T2ZBvyjjo5QOZDfmP0PaU4gvp/epzldL9Bs2cdbRgTIm2qpnOGS1pLoCyvdZYvaieaH5sNJ/C+Ztxf4EJ8FODjQu1r1XNc1lWNYVCSFkwmndVzXWlW/aEwmND4eFg++HDfsrOuQz/jh9wGsgrMBHbkUbV7+O8WBw+i9PkD/CtcWuj7L0FGe8808uV4Jgib6Ic7Go+oi22Gyclubwg9IwcLkhFAphfHFwlE4opUKzr8L1LgVcF39ct1HiWvH6i9f9F68GcAPoVfhp/cQC/QfTwiy/hi8fj9R2SgG3cEHdcegFWhqNQiNLpQVrkdUu+E0Mu4AfZxVUvYLfAkx6SGT4e3eRH9Fn3nrceYfgh7+//Acl3Gkw=",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "365539ef4fbd444cbc6827c3988f6198",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Kondensat aus Leitungen darf nicht in das Druckre- gelgerät geleitet werden.\n\nDer Einbauraum der Ein- stellfeder darf nicht mit Brenngas oder Brenngas-Luft- gemischen beaufschlagt werden.\n\n5  p1  p 2  11  10  9  8  7  6  4  3  2  1  12  13 \n\na NN =\n\nGehäuse\n\nRegelteller\n\nImpulsabgriff, intern\n\nAuslgeichsmembrane\n\nexterner Impuls\n\noNO\n\nO\n\nMembranscheibe\n\nArbeitsmembrane\n\nSicherheitsmembrane\n\nAtmungsstopfen\n\nSollwertfeder\n\nVerstelleinrichtung\n\nGegenfeder\n\n11\n\n12",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztmlmP2zYQgP8K4efsLu+jQB8SbLsImm6DHH1JA2NIDr1qZcmgpKbpIv+9I2+CGGnaxHlbWIAFieI1Q36aGZJ+dbvCFrfYjesmr75jK8dtBpASpPM2JRs5aoVCWmWjxcxXD9hqiyNkGIHK367mh/XQTzXhhzSuU0W67RsUTmvOXZDyfF95n7/tc1Oa/ymwq33CYfhYQgRtgzp32hiv5mI7rNtmGJq+G9bvhXl1u6KGZzGUkly/e03FKqa+5nXbJxj7updwB+PN3OzFywHrcFGblKBmqjiMFcZmuHj6Nt1A3T6t/e+YxuEiT91mWO/6dJH7NM2DNZz1HV5IEYyx66sWm3ST65T+qLhpsa5/fHZ9tb58tL483+WyeveO5ChNix1sZ+FWX1nvfa3x7W5fC3a7tiEtSOOL99ktdJsJNjjMyq+w26xmlXf0Zt1N24izvnr/pn6cYS2LUFKmEK2XmUthBA80wy5nkXywq1ncEf8a58I/9V3GboCRwTSwJ9iMNBbYsQy1sI7EH1kzpwZ2eafHGdtgu8H628SJnHFOUSUc2Rus1NL5LPYHja6hzgP+J76Ye6NuP4XRGJmDEijoArCmEJLFZemlD6lEt8B4UjBeYmU/NF2EqcK0ZfkuecaGEdu24Jw+4HLbjOwRddVtiM5+zvyQOnsylXEGleYs3RDNEWEq9NjC5ttADQIARLIi8GwQM+mjSBGredKBlFpAvW+gHnJnGNsJuphkTNCD4IwFxjxjjjHLmGZMsX0m/eabYof0PN5S05+jhmtNrjbG4ERByEKitQZd8TRp0gm5UHOfqQF2fc2+PwThRTO2nwVBqxS5FzFFZ1yRuViVswnO5ZQ0KFxAuG8gfOrnvvipH5JzhTd34dM04FFuiGOhmF0VY5UJFMQnYzAr8IZ7bzD6haOT4ugZUvQ9x0bU1jEYIaDLwSRhJBchFmUdeFGSAWV8grhgdFIYPd7upnaAuKlNKQ9ovTdi7Y4CKpGyXhdrIggwXvioMmYgf6eDgyIWoE4KqIfT0G5mMYctbmOF7jgvp5AsUvQgnIo8CKEhypCLcph5SjwtNJ0UTXQje0TL+zs7dRRKWkZS1NrChRTIo9Q6Oa48GGcy6MXT3TuUDsnor3/5quUXtxExy6CKI0NCoxmF5eBcIWsirS4LBfeZgq9jIGULPAuvnNEJM4LnViSbTDQGBF928O4dA/9yKl/6yg+h+fkuMJm3h5t4XHiCOphM8Igc8tw+lw6Nkp7PGU4thxanRdLDGrEZvy3S9R5Sshq4TsGizdZxx411MXjrMS1G6bRQek4SYr35Zpy4j7JEKU0mllAlAQqUojBb6xCKWXA6LZwejttZ+WHsdwWP29DxyqILgCaiE9kpmw3GUkomw8SVXXzcaZH0vG/bN1jH/Rn8USBFbhMGYZJJ1IOXNkOktX7RNinB5XLydVog/UojtD+waLo6/4mDRuIonFywInNMuiB1ARoSmCQUcGdSDLgcgJ0WTle4we54o4RZRPQm6syjhxgij8r4IKIoNDNSLRSdFEVCHNLzsqP+cdPX5m/M/7mvTKZn1tBHMIZHUIgCPBI/XETtlyOKEyNIfoGg1/8Anmdqug==",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "ba24cfa7a783c47670c25f8605b918c3",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. 13 Option DN 125, DN 150 Messöffnung mit Verschluss- Schraube G 1/8\n\n4 … 8\n\nAnwendung Nulldruckregler (Standardausführung)\n\nFür Gasmotoren und selbstansau- gende Gasgeräte regelt das FRNG einen dem Verbraucherunterdruck proportionalen Gasstrom aus.\n\nAn der Sollwertfeder wird der Regler im Einstellbereich justiert.\n\n° ° Vmin. = Vmax. x 0,1\n\n° Vmax. siehe Volumenstrom-Druckge- fälle-Kennlinie.\n\nMischer",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztlktv3DYQx78KoVMDeHcp6kEpQA8p3PhQZGvEqS9JIPAx3GVKPUBStQPD3z1DrYNsgyCtj4b3RJGaIWf+/GGG7+8ycNDDEDurs5ckAyFoyXnFK1XXrWGclYYybmiu67qSLDsjWQ9RaBEF2t9l6aML4+wVfJ1DpzzgsGyY87KklLeMrWlyXv73o7bG/sRg8qOCEL5Z5G1Zt8Wal1XVFMlsAt/bEOw4hO4hmPd3GW6cwigKRsv7j2jmQY1ed25UIo5+iXAScZ+23fwVwIeNt0oJr9ExRC+iDZvLz2ovfH/px0+gYtjoediFbhrVRo9qTmKF1TjAhuVtVdXdhQOr9trP6m8POwe+e/12e9Gd/9adrydtsvt7jMNYB4PoU3DZ//R78Iqfp8VLTJOzmAVmvHn47cSwm8UOQko+g2GXpZQnXOmGuZeQ8i2XFf/thmktATRrC8NZq1EpmddUcG6UoqwuMV70iHAbF+kL8ueUjiTnW5Kz6mwZK0re4O18mCk1tTED6kN6G8k16qn2bg5hRa7U3otZArkg+aZJ0X5NZCt80vkfeJcOwdO+ZxAjYQWXtBG64K0sqdaaS0Ama01ldWLwyTF4jFRJPswMSSP/guISHbYH+x8QUVUt0imMkBooLWUJVauB5yJvhGFSnoh4YkRUx0S8Gm5gSOmQ7ezc0dHkl6soBo06iDmYpdxgVUHDF8fovLPRwY/rCOOF1IzKpm6pNEzVOOeal8AbWuUnap4aNd/3sv+sC8eYvT4A5MmFCP2ICsJA5kGTAE4G5CyIeUV2SCIkix34ZA9lBIIpgYtEi0BSWgTsgL4a+tTxJLY5tQfEMoJfFCB449PoU3YClUq74XWMPUGK14/qhNikTcVUJTj2vaJpWCW5YprlJdMAp9fYMyP4VYLOk6vRuRvw0UCa3Vivl+W3h5ppe/K7HUIE5/DMlBT5NIdo0eFx8HGqBTMGn4RcKF4bLJ0FNIxTqGtWGH2C71nBl6qhpORhuO7tsCa/4ihu1+SW0LP8UXDpsilEidctlJGaFkqqirFaCi1lLgt+gus5wnWgKVjYA7keXdJg6Zyr8xT9DlbEHJqyc7D6A4bB2cHC48qaqQWvWt6C1iXU2oDSWNaMlKzOjSyKE3nPirw3NqTX208Q+vgFi+cfgg==",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "c9481acbf110b48efdcaf4f4b6b5d4c3",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. p2  [mbar]  k  c  +5  u  r  d  r  e  b  Ü  +1  k  c  u  r  -1  d  r  e  t  n  -3  U  p2  [mbar]  k  c  +5  u  r  d  r  e  b  Ü  +1  resultierender Ausgangsdruck  k  c  u  r  -1  d  r  e  t  n  -3  U  resultierender Ausgangsdruck  °  Vmax.  2  p     h  c  i  e  r  e  2  p     h  c  i  e  r  e  b  l  l  e  t  s  n  i  r  E  a  b  m     5  +     …  r  a  b  m     5  +     …     r  a  b  m     3  -     °  3  V [m  /h]  p2  [mbar]  100 % 95 %  b  l  l  e  t  s  n  i  E     r  a  b  m     3  -     k  c  u  1 : 1",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJydUl1r2zAU/SsXwZ7axLIdJ3HfNtqVvYwyaF/SYBTp2tFqWUKSoSXkv09Skn20WygztizrnnvuOdd3tSPYo8LBN1KQKyDzgi7zRSGQt2LZ8gLbStS0rDfLtq4wR3IJRKFngnkW8DsSN43To+V4+saGWwyvRJgvZjNKF3VRTGlMTnGlhWzlGYCxmqNzvxB5PZvX5XQxq6plGWEGrZLOST245ihmtSOBOMooy4LO9usAs8i1FU2vOfPaJoWG+W2kze4dWpdZyTmzIiQ6b5mXLrt74Vtm1Z3V35F7l4lx6FxjNM+E5mNslpvoAbMir6tq3tz2KPlW2JE/Wex6tM3nb19vm+tPzfXUiJbs90FHK3scmIriyDvzjln+xaQsZkwvg4vgODuGezZ0I+vQRfMEh45EyyacNMOoNhj9VrG6x2cfOUwBsFIbZtcATwAc4KICGAEsgEgrAmwAHkdKRYzmJ9wBM8l/w3mAIRyVAPcA/8Ns0Y29l2hxEGjh4+i6YMiljry37nmOWG1DAR4Ue54CBI0G4rVN3DLRHUjPhILqPt2H2i6Vlyl6A8ASQKXc4PgibR7HghbzBDkbhzeQ4GpyhBykh4OH0FmAbLv+s805pfAB6ios/9R4c7bGzxbncBWe1+36u4TDD6WXoXBMinN4GtEvKowe2a9/AAPVLYI=",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e51be3402ac736c0d11103487ea4f87d",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. 5  +     …     r  a  b  m     3  -     °  3  V [m  /h]  p2  [mbar]  100 % 95 %  b  l  l  e  t  s  n  i  E     r  a  b  m     3  -     k  c  u  1 : 1 °  Vmax.  °  3  V [m  /h]  r  d  0,95 : 1 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJydUl1r2zAU/SsXwZ7axLIdJ3HfNtqVvYwyaF/SYBTp2tFqWUKSoSXkv09Skn20WygztizrnnvuOdd3tSPYo8LBN1KQKyDzgi7zRSGQt2LZ8gLbStS0rDfLtq4wR3IJRKFngnkW8DsSN43To+V4+saGWwyvRJgvZjNKF3VRTGlMTnGlhWzlGYCxmqNzvxB5PZvX5XQxq6plGWEGrZLOST245ihmtSOBOMooy4LO9usAs8i1FU2vOfPaJoWG+W2kze4dWpdZyTmzIiQ6b5mXLrt74Vtm1Z3V35F7l4lx6FxjNM+E5mNslpvoAbMir6tq3tz2KPlW2JE/Wex6tM3nb19vm+tPzfXUiJbs90FHK3scmIriyDvzjln+xaQsZkwvg4vgODuGezZ0I+vQRfMEh45EyyacNMOoNhj9VrG6x2cfOUwBsFIbZtcATwAc4KICGAEsgEgrAmwAHkdKRYzmJ9wBM8l/w3mAIRyVAPcA/8Ns0Y29l2hxEGjh4+i6YMiljry37nmOWG1DAR4Ue54CBI0G4rVN3DLRHUjPhILqPt2H2i6Vlyl6A8ASQKXc4PgibR7HghbzBDkbhzeQ4GpyhBykh4OH0FmAbLv+s805pfAB6ios/9R4c7bGzxbncBWe1+36u4TDD6WXoXBMinN4GtEvKowe2a9/AAPVLYI=",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "db3b4d430ca697c3a26beeb1c37b096f",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Anwendung mit Druckluft ge- führtes Druckregelgerät (Standardausführung) Für extern gesteuerte Gasgeräte.\n\nIn Verbindung mit einer ausgewählten Sollwertfeder kann der Regleraus- gangsdruck in Abhängigkeit des Gebläsedruckes (Druckluft) geführt werden.\n\nDie Führungsgröße kann bis + 150 mbar betragen.\n\n° ° Vmin. = Vmax. x 0,05\n\n° Vmax. siehe Volumenstrom-Druckge- fälle-Kennlinie.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztll1P2zAUhv+KlSvQaOskdj4m7YKpopomITQ2bhiKHPs49XCcyHYGCPHfZ7eFSrtA45KpN3Xi8/Wekydurh8T0NCD8Y0SyUeUpFVe8jbNCW8LClUFuShoVYgaY1nXlCQnKOnBM8E8C/6PSbxo3DBZDs/30HALYdkmLAnBuKyzbI5j8MbeD0JJ9YrDaAcOzu090poUdT4vCaVVHt1GsL1yTg3GNTsx149JSBxl5HmGydNNcLPABysaPXDmB7tRODK/jmkXPxxYt7CKc2ZFCHTeMq/c4uKBr5ntL+zwC7h3CzGZzjXjwBdi4FMclpsNBhZZWlNaNCsNiq+FnfithU6Dbc6+na+a5edmOR+FTJ6egg6pNBjWR3HJP8btovzDuIli46hV6CJ0vNiZNTPdxDpwsfkETJfElsew05ipbyH2S2N1D/c+5jg1d2BiO6hXHi1jaT1JjzqYIflzCs+Yr60HtzUFVaA7sNEAxKOjS8+MCLNik3vxDsmO0dn2zqJQB6wJ+ZyHCUIqtGJunwLmUfZzR+fMxoH/hu9RXtD5N4xVCaTMRCHTDOcFZhnFjLCqqiVOS5rmBxjfM4xfDLoC26o9kKAMWBTo6uBuS8xaezDoctD6LtAkQQT7LTMGxYtvG6HBfYa6UNxt1CNl0Gm73oabTnW3EDKHeaIVtHq7HR5ldA17Ry/vwHGAdv8KoFBOgHkbrrKFlFVFwdq0LiXnAiiDUhJSg2S0POD6rnFdKng+5zannus2p5os4q+QsOWyVQ59QCnFqG+ZRS2EuXRvBSmXJSkZEIkBB5jSCgosSIFxWtW0KuUBpPcMUuSlxWi3XPXKzNGnsLL7ObpH+ATTN8HCKpmnBGdVVkBKaF0RKtI8K2WREc4pHGD5D2DZ0uEUrAFdDTq2FHof+tnm/+vl8w2I1jD7CsZoZdSrX1s3fwAM+90r",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "7df544d2871a7051c742c84e826cce78",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. s  u  a  r  e  Offsetbereich  100 % 95 %  Steuerluft  für Reglerkennlinie  l  g  e  R  1 : 1  Gebläsedruck pL  0,95 : 1  pL [mbar]  tatsächliches Druckverhältnis \n\np2  [mbar]  für Reglerkennlinie  p2  2  p     k  c  Gebläsedruck pL  pL [mbar]  u  r  d  s  g  Vorspannung der Sollwertfeder  Z.B. Feder Nr. 6 (gelb) 30 - 70 mbar  n  e  ß  ö  r  g  e  g  l  o  F  a  g  s  u  a  r  e  l  g  e  R  p2  Führungsgröße  –1  0  +1  pL [mbar]  Gebläsedruck pL  oder Druckluft \n\nDruckabgriffe Impuls- und Gebläseanschluß",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztVO9rnTAU/VcuwmBj63vx11P7sZRXCqMr7bYP64rE5EZdY5Qkbiul//uS2G6vYx39WqioMebec++J53hxE6HEAZWtex7tQ9TghmdVkZeCMC7KgtA0T6psQ3KWJlUsoncQDWgpp5a6+JvIP9RmnDXD+znWTKMbAmBcZBkhRZUkK+KTw/ow8l70/wmY9MjQmD8RseuhSldFludl6sMm1ENvTD8qU981c3ETOWDfRpomJLu9dGEa2ah5LUdG7ahDhxO1nYddfzKozVr3jFHNXaKxmtrerE+vWUf1cKrHb8isWfNZtaaeRrbmI5v9Zpm9UeE6ias839RHEnvWcT2zK42tRF1vz06O6sOD+nA1cRHd3ro+RC9R0cE3Fz0x7y7LXk8hi06T7B0Lx3h9tyypamfaovHkI1Rt5ClP7k2t5qFBzzf31S3+tB7DAMwAFEADIMAHIQxaF+cbAYgJgVdQ5e4G5xZn1HIWFkB8nQkRTMNZaPMKlZK96h2ABGgD0pnLhn13wRE20sdj5r6e5wbTewDyzsGGdTe7GBqqLwEstWYJZZ2j1qGBQ5/xHXW3vJdW9QY81ftdOB4cu8hx+lu4LI/TTKRFEm/iIsmxollMRUFySkvGcvYi3Ocs3CmB37J5XI4+yp0T+OMKgD0mxx0RzsEMHMAELX8etZmoUm7ngKOG81HKH6itQD+DL6uDFWzD84lewQZetyibN5AS2IOCgAcFUMETviwXyyg2ocxiljYYZwTYBi+2ofauL3dt5TltF8ad9t+z1QvgAh/qJCROnbUIwNuHDvs3+9G3H5wW/P0ke6WpcM5Km4xXScN5mbuBJoKVoixTnlYv9nrO9gpioE2re+EUdTxMszR7MCv+QEFUGfejnhfh7armY2+lU83lL2qflw0=",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "51b80566684987a52e833f2043512c4e",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. 1 Atmungsstopfen oder Anschluß für Atmungsleitung. Atmungsleitung muß nur in Sonder- fällen verlegt werden oder Anschluß für Luftimpulsleitung\n\n2 Anschluß für externen Gasimpuls. Interner Impuls muß verschlossen werden\n\n3 Druckanschluß im Eingangsbe- reich Verschlußschraube G 1/4 ISO 228, Rp 3/8 bis Rp 2 mit Bypassdeckel vorbereitet zur Montage der einstell- baren Bypassdrossel\n\n–1  0  +1  pL [mbar]  225 256 \n\nAnwendung Gleichdruckregler (Standardausführung)",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztlU1v3DYQhv/KQKcGiVcUKWmp3hw4NQykaRCnvTiGQJGjXSYSJZCUE9fwf+9wvQs76VdyDOLT8GNmOO/wAXlxk+GAI7rYWpP9DFlTKsResrrpGBOdMabTvaxNLWvNG2myZ5CNGJVRUZH/TZYGbZgWr/Ewx1Z7JLNLWKzLkrF1w/mKpeDd/jgZ29v/cJj9pDGEe4+iKetGrNZlVUmR3Gb0ow3BTi60+2IubjJKnMoQgrPy9pLcPOrJm3aYtIqT31U4q7hNafPfA/qQe6u18oYCQ/Qq2pC/vtZb5cfXfnqPOobcLG4T2nnSuZn0kpoVjiaHOS+aqqrb0wGt3hq/6A8eNwP69pc3r07bk+ftyWo2fXZ7S3X0dkCnxlRc9pVx+6h4Pe+i1DwPllSQ4ny/PSi3WdQGQxKfodtkSfJMK61bxg6T3mq34u9vWIieF7XoStNwul9ZkVG817KXUhjRZKnciJ/irvVwHMckP8Rp7tEBtcnDsQt6OyzvFsZMD32yvfYHV5IVya6+mMN4CHCLB+vgfHKU7OguHsuBGgRX6AfcRPiI3vzPaS+XPtpxXobDAakjh2a9Uj7d5RW+TUJI0ZecK6kbWci+0QUqaVCqSpR1YcqulqZu+CPnPxTn/N8oo330jlA8VeGOthWcud2ah7Pdwj3YRG9KMtGFuj3C3wSlRl6h4rqn17Zmha54z1hlhOrUmsqXj1D+UFAKOEn1qc/ItCO8sG5Dh4cOj8AnGfDHHXh7Hxp6tXQIp1DkJZyd/wacy2fwZgaRS+hsSEMOo43w/HpWIRjUH3CAq8lT3fSaYoQ/6ZH+dXKR9EB6hdG6EHEYjqBLgg6BPsE+fBPlXdEI7EXFylKsdaNNo0xjOsk5NqbQ9SPl3xvlD6F9t3BWiAKAATwlM7+Ei5GQuQSCsAJe1fCQlrORUv0TJZWhz1gzXpbSqILECNZxrZjgXc1UsX6k5DujpH5IybH7iC7Jgb8dDj+dR+UMdUItYf8Pbz25PnnIzVsbB+Lm8i9WwBnp",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d1ae0bc0c4bd99f0c8e82dfb62b5e8a4",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Als Gleichdruckregler für Gas-Luft- Verbundregelungen mit festem Wirkdruckverhältnis V = 1:1 , an mit Differenzdruck betriebenen Gasge- p2 räten.\n\n[mbar] Durch die Sollwertfeder kann der Offsetbereich der Gegenfeder ein- gestellt werden. Dadurch wird die +5 k Gewichtskraft der beweglichen Teile c u kompensiert.\n\nr d Gasvorlauf oder Luftvorlauf sind bei r e Vollast und Teillast einstellbar.\n\nb Grundlast über Bypassdrossel ein- Ü +1 stellbar.\n\nk Die Führungsgröße kann bis + 150 c -1 u mbar betragen. r",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztlt9vnDgQx/+VEa/pZjEYWCrdw1Wr7kvVVv2Re8hFyNjjXd+CQbZJmkb532/sTRTpKlXtvSYPCLBnhu+MP9hzeZfhgCPa0BmVvYaslELwSjYF12Vf4oaXTc+0FDVrK60ZZq8gGzEIJYIg+7ssPnR+WpzEx3fspEO6pYCs4TzPm7YozvPonObHSRltfmIwu0mi908WrOV1W543vKo2ZTSb0Y3GezNZ3z2IubzLKHCUUZZFzu+vyMyhnJzqhkmKMLmkcBbhEMOuv3p0fu2MlMIpcvTBiWD8+uOtPAg3fnTTPyiDX6vF7n03T3KtJrnEYvnVZHFdUE2qutsNaORBuUUeHe4HdN3bT+933fZNtz2flc7u70mHNgNaMUZx2S/6PXiF2zl5iXkeDGVBGa8fpgdh94vYo4/JZ2j3WUx5ppHOLmOPMd86jbinFa4UU1zmBecbJRgJKfO+kCIvi77OBWuyKDfgtxCN/xw8/KAT9N9LnmvpYCf86t2iwwou0PWLVWSAA5ULLYwmgKaa4gh/GXdM/tfoDtEX+RCs8XABfwB7zeAViJPD1miNJPZ7MocegzPYo6V49K09rmAuwJ1CBLTnsQqPBXovXFy/a/wSxVMW/2W70jXqsiaW60YVqmxbjUVRYkVZb+pav7D9rNi+HHvhrmBLy3sAZRA+T8Nwgy5oVAT5UVgL8eGD1h4DfTGmlEZ2RLk9WaGxK9hHzIchAHkrohK2QqWoN8apFPqsgiO53VCE4I9O6JAC9XhD1aFB4vsLUkFAwgLHaZzRekNSfg9woTVXmus+8i2pEAo3RauquuJcsaZ4AfxZAe5AxV3zenKDWDRMkbi4Wz8OeGMVIWiAMIYLgl/4ALSJJxTTC9GdyKYf5fdILHDTNj1dBfJc85xXhW6bludYVshk+ULisyKxh50jsBJTp96BosKb21l4r9xEKzScdtI4qSScMfh/3GnGhValYLmo25azMq+VqjcEn0CWK/bC3bPi7kgNJcLbE3IHFwuxT92jrhNpGk/HfE+96BmwKqfzd8XoCI6tQeo+SQyd5+4nEF79C4KiP2Q=",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "97626f02c3de6112deee63e75d006560",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. d r ° ° e Vmin. = Vmax. x 0,05 -3 t\n\nn\n\n° Vmax. siehe Volumenstrom-Druckge- fälle-Kennlinie.\n\n°  Vmax.  225 256  2  p     h  c  i  e  r  e  b  l  l  e  t  s  n  i  E  r  a  b  m     5  +     …     r  a  b  m     3  -     °  3  V [m  /h] \n\np2  [mbar]  100 % 95 %  k  c  u  1 : 1  r  d  0,95 : 1  s  g  tatsächliches Druckverhältnis  n  a  g  s  u  a  Offsetbereich  r  e  für Reglerkennlinie  l  g  e  R  Gebläsedruck pL  pL [mbar] \n\n6 … 8\n\n7 … 8\n\nVolumenstrom-Druckdifferenzkennlinie Bypassdrossel",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztl19v2zYQwL/KQcCeVtuUSEpigb0UWbNhQxYEXV/SQKDIk61F/0DKRdIg331H2kaNzhi6vRmwYYkUeXe8o366k+5fEuywx2GuWpu8hUSWoswML/KaF6IxqPKSYS0zw5jFMsfkDSQ9ztrqWZP8SxI6lR+3zuDhGivjkJpoMC2EYKxQWbZkQTnO96Ntm/ZfBCY3GvT+q0SqRK74shBSljyITej61vt2HHy1d+b+JSHDwQ3OMyZeH0jMoRmdrbrR6Hl00cNJz5tgdvWnR+dXrjVGO0uKfnZ6bv3q9tlstOtv3fgXmtmv7HZY+2oazcqOZhs2yy/GAVdZqqTMq+sOW7OxbmseHa47dNX7u5vr6upddbWcbJO8vpIfTdvhoPvgXPKdenut+XmKWnqaupaioIhX++lOD+utXqMPwSc4rJMQ8kQj1bDtawzx5mH1GZ/mYMOCg09bxmp2aBA+9u2whJ+o1U9LeAL2hklYcJjDCofF34+u33Y6IWPfEoO2TqWRjVG6NpmQaZpKaTm3WlumeHMh5pyJGY4p+NDOHZ5iILNKoCAAEAmGxvDcZrzUWGpb8pTrCwPnxkAccf/hKT+GZp9bdhnFt7ihLDN2YQ9os8Z+cRW8X+MCmiCJoutw8RsOQ9cOLS6PibvRLuzuZ/wQTJ8gL9eSK/JLSyvqmjVlkxvWFEypOtO8YBfyzo28EyDtSYIsk5DJnDoAE4TfBsAAtEB1jEpbONcAXfxTfwbwAEMU+DkK6CjQR10J8GPsfNpmLMtj9xsRDrDYi+wcoYGPcE+Tq80DHIP6a09RnCyPOW8Yr9NcsZLLTGW5UkIVRSlUw4nRC6DnDOhEJN73tXYPAClj8AMoSSd4jFxuaRDe0hG4skCvVjQbrwnLNfGpZ7/LgGZDrmzQQ0yNn9Ft9plxHtodwjpq+GiU+n80jceZPAohH9iP6bQxDu5i+I+HlBqfh3UUuQO4xrrbWSccwnIw/Q7h2AfyXVhLlqqGvg1Mhiw3RFOGjbYSrShsmgtxwfqcsc4PObE8huGWFG528ieIUA1yYXRRcMNqWStFX48ospRuSSkxvVTicyOiOCai+B9ElIgsLULR41rUaYlCqtykpZUyzXR9+TI8ayL++UZP96GhgjR8+Vp43j1P2nvrRtr/7picX1DbQM3D312iyGA=",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "ec7d2d7c873e0654c742d6b8697f4428",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. 100  80  60  50  empfohlener Arbeitsbereich  40  30  ]  r  a  b  20  m  [     p  ∆  10  8  Bypassdrossel,   einstellbar für   ��  6  5  FRNG 503  FRNG 505  FRNG 507  +  –  FRNG 510  4  FRNG 515  FRNG 520  3  Bestell-Nummer  225 256  2  Basis          + 15° C, 1013 mbar, trocken  Based on   + 15° C, 1013 mbar, dry  Base          + 15° C, 1013 mbar, sec  Base          + 15° C, 1013 mbar, secco  1  0,1  0,2  0,3 0,4 0,5 0,6 0,8  1  2  3  4  5 6  7 8 9 10  °  3  Vn [m  /h] Luft / Air / Aria dv = 1,00  0,2  0,3",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJyVUlFr2zAQ/iuHX5fWsmzH9mAP7crKYJQy2F7SYGTpnGi1LCPJY6Hkv+/kpulbaQUnS77v7r5Pd5unBAc0OIZWq+QzJNma1V0tSsQGi7pieaeyssOqkbyWXa2SFSQGg1AiCMI/JfHQejs7iS93bKVD+jwnrIqCsarh/JLF4MVvrNK9fgMwOSvR+1dE1hTrJr+sirKs8wib0Bntvbajb09kNk8JJY408pyz4rglmENpnWoHK0WwbmE4ibCPadNfHp1PnZZSOEWBPjgRtE/vD3IvnLl39g/K4FM1jzvfTlamyso5Ppa/sCOmPGvKct3eDqjlXrlZPjrcDejabz/vbtub6/bmclJ9cjwSj14POAoTySXvjDtFhcO0RIlpGjSpIMXpyT2IcTeLHfooPsFxl0TJE/1px9l0GPVWsXrAf2F5ScYAarI1WUmGZurtnqihgyvXoQ6ewiIvgIL8OdkWwAEIgA6A090AbCCuCeBh5pytAbKYF+D6MAnvlbPUumFFENSjDzgMnXDQP8yM9ZJyUVjf9+p5JzLEBSCKJ075+fT6rwL4tNRi2dkdKxbnyxkbCRLmGpeyF3ezMSQNOC+Bl1SIk0947eG8PkFWRmYdg68rEkIlDNFdQaAZfMRxCUAFdnwLrNzhGfiOxB7lR7DS0vsCsNWy8bjlZAVZSbYmqxcEX6QX8TVJaUUNaZbGnBJH5+8RNtS/dL+FH3MfIIUr7eLutAD1F75Atooz8rE6DVWJ8/gyqt8NjWBy3P4H0A4x4A==",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fed2f85136d52e42237b4ad6be0d6797",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. + 15° C, 1013 mbar, secco  1  0,1  0,2  0,3 0,4 0,5 0,6 0,8  1  2  3  4  5 6  7 8 9 10  °  3  Vn [m  /h] Luft / Air / Aria dv = 1,00  0,2  0,3 0,4 0,5 0,6 0,8  1  2  3  4  5 6  7 8910 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJyVUlFr2zAQ/iuHX5fWsmzH9mAP7crKYJQy2F7SYGTpnGi1LCPJY6Hkv+/kpulbaQUnS77v7r5Pd5unBAc0OIZWq+QzJNma1V0tSsQGi7pieaeyssOqkbyWXa2SFSQGg1AiCMI/JfHQejs7iS93bKVD+jwnrIqCsarh/JLF4MVvrNK9fgMwOSvR+1dE1hTrJr+sirKs8wib0Bntvbajb09kNk8JJY408pyz4rglmENpnWoHK0WwbmE4ibCPadNfHp1PnZZSOEWBPjgRtE/vD3IvnLl39g/K4FM1jzvfTlamyso5Ppa/sCOmPGvKct3eDqjlXrlZPjrcDejabz/vbtub6/bmclJ9cjwSj14POAoTySXvjDtFhcO0RIlpGjSpIMXpyT2IcTeLHfooPsFxl0TJE/1px9l0GPVWsXrAf2F5ScYAarI1WUmGZurtnqihgyvXoQ6ewiIvgIL8OdkWwAEIgA6A090AbCCuCeBh5pytAbKYF+D6MAnvlbPUumFFENSjDzgMnXDQP8yM9ZJyUVjf9+p5JzLEBSCKJ075+fT6rwL4tNRi2dkdKxbnyxkbCRLmGpeyF3ezMSQNOC+Bl1SIk0947eG8PkFWRmYdg68rEkIlDNFdQaAZfMRxCUAFdnwLrNzhGfiOxB7lR7DS0vsCsNWy8bjlZAVZSbYmqxcEX6QX8TVJaUUNaZbGnBJH5+8RNtS/dL+FH3MfIIUr7eLutAD1F75Atooz8rE6DVWJ8/gyqt8NjWBy3P4H0A4x4A==",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b9a192b474e6b001101de7ee41199fb0",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. ° 3 Vn [m /h] Erdgas/Natural gas/Gaz Naturel/Gas metano dv = 0,65\n\nDruckregelgerät FRNG\n\nNulldruckregler Gleichdruckregler Druckluftgeführtes Druckregelgerät\n\nDUNGS Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztkktv1DAUhf+KlXWZOLGdBxIbGBixGVVA2ZQq8uM6E3DiyHYqSjX/HTuaigoQostKs8pNfO855zrf9X0GBkaYQjeo7CXKOIGKNrVQrNFMNQSDkExUUGMiZduy7AJlIwSueOCx/z5LReft4iQ8vEMnHcTHKljUlGJct2W5wWl4PR+tGvTwj4bZWQne/+ooWlq1ZFNTxhqS2mZw4+D9YCffncJc32dROMUgpMT0eBPbHEjrVGes5MG6NeHMwyHJ5lcenM/dICV3Kg764HgYfH55Jw/cjZfOfgUZfK6WqffdbGWurFzSZfkXdoK8LFrGqm5nYJAH5Rb5zUFvwHXvPux33fZ1t93MSmfHY8yhBwMTH1O47D/nTlPhbl6n+DybIW4RN85Px4ZP/cJ78Gn5DKY+SyvP8Us3LaOAtG+d3AN8D0njy4KxwIigzxO6HlF+uEFvneq5z/c8LI4blOod/4HWdzCx9ij978kidYteIXxRrQw8pNpzly7tFj4li+j1O1C0ZERgTLkQqmpFxXSpCkYJh7riDWvPQD0zoJrHQG1PZmB6cIkuoAEl1ycxUoBoQAumiloRraBkTdkSWsm2LBiD4szIc2ZkvxjzyBD9EQGtFJlFhx50gkjLgwvg0d/oehJYgEnJVUkY5UoXUlPaiLqoJOimwhTXZ7CeM1jbq/3uI3pjR7H4JBTLKThr/GNG3o9RIDve/AT0qd1c",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f5cf0c08092f8e9d06a25ea10010a4a7",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Volumenstrom - Druckgefällekennlinie  2  /  1  8  /  3     p  R  2  /  1     p  R  4  /  3     p  R  1     p  R     1     p  R     ,     0  4     N  D  2     p  R     ,  0  5     N  D  5  6        N  N  D  D  0  8     N  D  0  0  1     N  D  5  2  1     N  D  0  5  1     N  D  100  90  80  70  60  empfohlener Arbeitsbereich  50  40  30  20  10  9  8  7  ]  r  6  a  b  m  5  4  [     p  3  ∆  2  Basis         + 15° C, 1013 mbar, trocken  Based on  + 15° C, 1013 mbar, dry  Base          + 15° C, 1013 mbar,",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJy1VN9v0zAQ/ldOeaVbHOdHGyQeNgoTEqomJPbSVZHrXFuzJI7sBDGm/e/cuS10TBrwgFWn9vm7u++7i7N8iLDBFruhMnX0GiItcTZNUi2kLMsiyVUiMp0Wm3Va1okQMppA1OKgajUowj9EvKi8HZ3G4x4r7ZD+QsBkmmVCTEspzwU7h/PW1mZjXgD0zmr0/hciKbOiTM+nWZ7PUob16FrjvbGdrw5klg8RBWYaaSpF9rgimENtXV01VqvBusCwV8OOw8afPTofO6O1cjU5+sGpwfj4+l7vlGuvnf2CevBxPXZbX/VWx7XVIxfLn9kOY5mUeV5UVw0avavdqO8cbht01ftPi6tqflnNz/t6Ez0+Eo+NabBTLZOL/tLv4DXc98FL9X1jSAUpjg/Hjeq2o9qiZ/ERdtuIJfdkqbqxXSPrnXH2Ab8NHOPGNsyfhNoWzmDOube4uR2FwKxp8A67rjGdQQAJEAMkALOwSIFHD/Dp5OinJXuGOT2FZ9tJeIrgSGMBMA9hf8MQID8B0LqAw1gcjfMAm53ARPglTx3lU8s+8qmFXm6AkkPRnNIsaGLbb+yOOocOLtwazeCpqtw28mf6NFOakhOyf2AyBVgBuMBWAawB2pCOxC6PGqlWt6OUogjULpU3/igNXkGSc0vWAt5OKG6SQrtWbgLUNk0tCniswXYvYGt3v8fBn+N61P+C1ZbUTvY1lkFWwbqTQyGyffGojqGmUgRbMLI1mPf2/YHgUoRMXJWbDpZUrni3go/jZqD36sI4fjqjoP4Kbzj1/8/9ztVb5eOFGkanGuD1lfoOYY8NrT3wZ7Cze05iUuTAV/J4Wz+0dAujx9UPtGxcpQ==",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "632f801a2803aa475637b4b782369c1c",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. 6  a  b  m  5  4  [     p  3  ∆  2  Basis         + 15° C, 1013 mbar, trocken  Based on  + 15° C, 1013 mbar, dry  Base          + 15° C, 1013 mbar, sec  Base          + 15° C, 1013 mbar, secco  1,0  1  2  4  6  8 10  20  40  60 80 100  200  400  600 800 1000  2000  4000  °  3  Vn [m  /h] Luft / Air / Aria dv = 1,00  1  2  4  6  8 10  20  40  60 80 100  200  400  600 800 1000  2000  4000  °  3  Vn [m  /h] Erdgas/Natural gas/Gaz Naturel/Gas metano dv = 0,65 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJy1VN9v0zAQ/ldOeaVbHOdHGyQeNgoTEqomJPbSVZHrXFuzJI7sBDGm/e/cuS10TBrwgFWn9vm7u++7i7N8iLDBFruhMnX0GiItcTZNUi2kLMsiyVUiMp0Wm3Va1okQMppA1OKgajUowj9EvKi8HZ3G4x4r7ZD+QsBkmmVCTEspzwU7h/PW1mZjXgD0zmr0/hciKbOiTM+nWZ7PUob16FrjvbGdrw5klg8RBWYaaSpF9rgimENtXV01VqvBusCwV8OOw8afPTofO6O1cjU5+sGpwfj4+l7vlGuvnf2CevBxPXZbX/VWx7XVIxfLn9kOY5mUeV5UVw0avavdqO8cbht01ftPi6tqflnNz/t6Ez0+Eo+NabBTLZOL/tLv4DXc98FL9X1jSAUpjg/Hjeq2o9qiZ/ERdtuIJfdkqbqxXSPrnXH2Ab8NHOPGNsyfhNoWzmDOube4uR2FwKxp8A67rjGdQQAJEAMkALOwSIFHD/Dp5OinJXuGOT2FZ9tJeIrgSGMBMA9hf8MQID8B0LqAw1gcjfMAm53ARPglTx3lU8s+8qmFXm6AkkPRnNIsaGLbb+yOOocOLtwazeCpqtw28mf6NFOakhOyf2AyBVgBuMBWAawB2pCOxC6PGqlWt6OUogjULpU3/igNXkGSc0vWAt5OKG6SQrtWbgLUNk0tCniswXYvYGt3v8fBn+N61P+C1ZbUTvY1lkFWwbqTQyGyffGojqGmUgRbMLI1mPf2/YHgUoRMXJWbDpZUrni3go/jZqD36sI4fjqjoP4Kbzj1/8/9ztVb5eOFGkanGuD1lfoOYY8NrT3wZ7Cze05iUuTAV/J4Wz+0dAujx9UPtGxcpQ==",
+      "is_continuation": true,
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "88ff9b5d8eb04c12a784ede8a7a3e68e",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Änderungen, die dem technischen Fortschritt dienen, vorbehalten.\n\ni 1 [=.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJztUk1r3DAQ/StG53T9JXvXhV5KSMglhNCetkHIo7Gt1pLMSA4Ny/73SmZDaQ+h10BP+pj3Zt4b3vHEcEaDNgit2MeMNUPdq34om6btVFX22A6Sl103VHCAtijYVcYMBqlkkBF/YukivFsJ8PWNAgjjsTUs95wXxb6rqt1G3urGKT3oNwALOUDvfyPKjrddvdvzpjnUCbYgGe29dtaLi5jjicXGSUZdVwU/P0UYIThSYnYgg6NN4SLDlNrmXz2Sz0kDSFKR6APJoH3+8AKTJPNA7jtC8Lla7ejF4iBXDta0LP/BWcyrsotrErczapgUrfCDcJyRxM3j/a24/iyud4sa2PkcdQx6RitNEsf+kXdhhZdlY8llmXV0ER3nl/Is7bjKEX0yz9COLFle4o+wq+kx+T2k6QF/htTj21oUwK1CipbQXmVKY6bQZAFhstrDhDa7cRTijXQIqW4T7tlRj5OcA9pdmvwq6l5S2tkzfkkT4qi/89THLAFw1UHFsSyatm9b1aCEppf7QyX/5+k950lnZXb89Eci7kyEs/PTL+PMZfc=",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "32d2a3ec3e053751e75d534f518b8d35",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. Hausadresse Karl Dungs GmbH & Co. KG Siemensstraße 6-10 D-73660 Urbach, Germany Briefadresse Karl Dungs GmbH & Co. KG Postfach 12 29 D-73602 Schorndorf, Germany Telefon +49 (0)7181-804-0 e-mail info@dungs.com Telefax +49 (0)7181-804-166 Internet www.dungs.com",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Hausadresse</td><td>Briefadresse</td></tr><tr><td>Karl Dungs GmbH &amp; Co. KG</td><td>Karl Dungs GmbH &amp; Co.KG</td></tr><tr><td>SiemensstraBe 6-10</td><td>Postfach 12 29</td></tr><tr><td>D-73660 Urbach, Germany</td><td>D-73602 Schorndorf, Germany</td></tr><tr><td>Telefon +49 (0)7181-804-0</td><td>e-mail info@dungs.com</td></tr><tr><td>Telefax +49 (0)7181-804-166</td><td>Internet www.dungs.com</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNU2FP2zAQ/SuWP0ybRhsnTZNmQ2hi1cqENKEBnxiyXPvSeEvsyHYEFep/nx1SKINW+2T7/N7z3bvzzQOGGhpQjkqBPyGckiLnRQYznuQExHICWU44SzgAgRISfIRwA44J5pjHP+CwoVZ3hsP2DJQb8EsvGOdpSkheJMmYBHJ/32ghS3kA0BrNwdpnRFykWTEZ5+l0OpsEWAumkdZKrSwdkrl5wF44pDGZJCTd3HqYAa6NoLXmzGnTZ9gyVwXZ6NqCsZGRnDMjPNE6w5y00cWaV8w0F0b/Bu5sJDq1srTVPBKad8EsO9IKoiQuptOMLmqQvBKm438MrGow9NvPHws6P6XzcStKvNn4PEpZg2JNSA7/J29guXXbs1jb1tJX4SuOhuuaqVXHVmBD8RjUCoeSWx+hqmuWEOqd+YiDe0eZpZVr6iB17NiyhpNjVwETfjFhe3LGOsuECbYfR/4cYqdGQvkiGAV0tGUutVgPAuLknJkazYNZaNEsz9A71rSf0Vc9RucLTxGHQVtM/8CgeCnDbNrQmFNA2SgmTzoX2rqS8QrFCUqK19T5KJ9kGUHXZulRR2jh54Wp9RO/vycJuuSVNkpoU/6D2RW78p+k1Ap9TAv0nnzI41k8mpF09JwOjBomayRVqb/08zLmutkjxO5fCcVZ9iT1XTkwChy6u7sbv6UVDbZHj23Em6HFobU7TUSvrB56gXZs/dURIspHb9Eez9DuFOxXfdkRdMBgtNdP9KaP6IBt6G27wvfY/pyrYBPe3P4FBRWRDA==",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "30f83fa8cdcd21d1942575be114333a8",
+    "text": "Dieser Text ist für Produt: Gleichdruckregler_FRNG. Produkt ID: 219556. Der Dokumentyp is Datenblatt. 8 … 8",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/219556_Gleichdruckregler_FRNG_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.745583",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "219556_Gleichdruckregler_FRNG_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJyNkMtuwyAURH8lYt3GNsY27rKKml0UVeoqjRCBa4fWBgRYahT53wtuou6qrnjcOcMMhyuCAUbQgSmJnlaItLQqKRRVLfGpo4SWJZElp9BK3vATRg8rNELgkgce9VeUNsybyQm4n4EJB3FZDIuGkDxvWozXeYKX+Wik6tQfAuuMAO9/FUVL6rZcN6SqaJlkFtyovFdGe3YLc7iiaJxilCXOyXyMMgfCOMkGI3gwbkloeTgn2+zNg/OZU0JwJyPog+NB+Wx/EWfuxr0zHyCCz+Ske8+sEZk0Ykqf5R+NhgwXbVXVbDuAEmfpJvHpoB/AsZfX3ZZtntlmbWWH5jnm6NQAmo8pHPond6PCxS4Ut3ZQsUVsnN3GA9f9xHvwqTwC3aNU2cYbpqfxBKkvTa8H+ArJg67eJ5zjekUTfnfeR2D3o5+P39Ylp6U=",
+      "product_id": "219556",
+      "product_name": "Gleichdruckregler_FRNG",
+      "document_type": "Datenblatt",
+      "product_category": "Gleichdruckregler"
+    }
+  }
+]

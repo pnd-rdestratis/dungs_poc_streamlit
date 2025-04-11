@@ -1,6 +1,5 @@
 .idea
-pdfs/
 .streamlit/secrets.toml
 .venv
 .git
-documents/
+.env

@@ -1,0 +1,711 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "8836e314907d3f13b080bba0a80fed0d",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. Manometer Druckknopfhahn Manometerabsperrventil\n\n12.05\n\nDUNGS Combustion Controls\n\n7 \\ l \\// bar = ( DUNGS® 10 /) WS F R DUNGS,\n\n7 0 7 5 2 2 . r N • 0 1 . 2 0 n o i t i d E • y n a m r e G n i d e t n i r P\n\n&\n\nTechnik\n\nDruckmeßgeräte mit Kapselfeder und Stahlgehäuse, nach DIN EN 837-3, zur Messung kleiner Überdrücke:\n\n• Genauigkeitsklasse 1,6\n\n• hohe Zuverlässigkeit\n\n• überlastsicher (1,3 x Skalenwert)\n\nNullpunktkorrektur\n\n• Meßsystem Kupferlegierung\n\nAnzeigebereiche\n\n0 - 25 mbar (0 - 2,5 kPa)",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225707_Manometer_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmW1v2zYQgP8K4Q9DC6Qx3ykW2Idt6YqiaBAsCQasKQy+HG3NegMltU2L/vednLTLirarv6WGYNiiyOORvHtE3skv3y+gghqaYVXGxWOyAJOUc8GD08A4D5E5LmmiwjDPqFSLI7KoYXDRDQ7l3y+mwqpvxxzg4z2sQga87BQyIyWlxnJ+TKfOu/a6jWUqvyHQ5TZA3/8rwazUVhwbaWghJrEOcl32fdk2/ep2Mi/fL1DxNA0hOJUfXqFYhtDmuKra4IY272bYuWEzqV1e9pD7ZS5DcDlix37Ibij75dl12Lhcn+X2bwhDv4xjs+5XXRuWsQ3jZKz+UdvAknNlqFm9cE2LJoG8Ovl1dXLcxbT48AGHTmUFjaun+Sy+LnorOFx3O0HXdVWJc8V1LW+bK9esR7eGflriApr1YlpYhzWrZqw9TKti04ADvB0mHZ9GISd5DNtt03Zp4zYN+dTgfI/2y69xKWU1jfFx+ItyqGCByj7nIiRTSEsBhFRJB+pDpDqyGNF10ks6c3E/udjV5D2e77sgMTS9uovHqcuTKV7DxSTxBUzAGEWZCAU1XOmCMgfCah8SD54pZmZM7icmd71+cnn69Jz81tZ+7CdFWGyG3Fb9XRKe1ajgSwRE6yXzXHnLrY+MaizGVCAXglHuxUzA/SfAkKsrUuHPckm8y+Rn8oDsqLgaKXVAGCXLh+TPc/I7+eOm4ei72GCpUEEWTFotgjQhJmVx02EUeSlYoWc2fgQ2KDFEEY6fY5LJKbkaOeUcqxlWTNeGtKQkA34jefKx+RqrHamxB5CnWJ4aAYWmUiZn+50yiSYTJJeKpmSj5oWXiRbUWQFcpjhzdP85+umuxy8b1AbrNpfvIH7N6xh+uqLQitOoeODRai2NtVIUjmmuZ6//AF6/gLBpyu13pRxOFiZKHfCsUJ4bB0ag1yPFB555JeZU9J76+/OU43+f2/8En1PGWsMUaMS0hjwVQA5A6nIgz13XQ5UgYmo7NpGcD25TrWFzIzT2cEQaFzbk5NkpeXJKCmEeiSPybszkBXoQTUe2FZQN9t7pxywox90IKYQtPN7rDBLCBxF8MtqqwCRzNnoWXOLAfMG8n+k8QDpvY5mnON2xXG+hHPpt5dD8qFfvhQ9lwUqDIQy3hSq8kMIJpTFDNjz5qOyMz+His2k3QP4aX0OubnYuNO8Opv0IkpAiaK9wPK0pHpEsMReE1FFJDItngg6XoJszCxXi5jP0ZdjgkfaAHQnylpxvHS7mDeTh4V44ccWCklrRIAOzjHGMvlQBIjIBvrDzm7tDxOl0rKpubLbDts0ZtsOY92JG2yS1BC5Aq1B4FwIVhlpNOaWW2XkLOkRmbregF7cxen/dD1CT52OXcDuCdQkZLbDfSZacTPiRFtO9RLm0vAhagy04Y+jqGaMDxOiX5h2Ua0BVMJ1f++VeHrxhTDDrDBMOtPHUJGmSxgkoOr8ZOERgKHlEuCL19IfEg93NkSLbM/etMOfVPwWLQpA=",
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1c90b530790f07ff6e34e1d0ec912d07",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. 0 - 40 mbar (0 - 4,0 kPa)\n\n0 - 60 mbar (0 - 6,0 kPa)\n\n0 - 100 mbar (0 - 10,0 kPa)\n\n0 - 160 mbar (0 - 16,0 kPa)\n\n0 - 250 mbar (0 - 25,0 kPa)\n\n0 - 400 mbar (0 - 40,0 kPa)\n\n0 - 600 mbar (0 - 60,0 kPa)\n\nDruckmeßgeräte mit Rohrfeder und Stahlgehäuse, nach DIN EN 837-1, zur Messung großer Überdrücke:\n\n• Genauigkeitsklasse 1,6\n\nhohe Zuverlassigkeit\n\n¢\n\n• Stahlblech-Gehäuse\n\nAnzeigebereiche\n\n0 - 1,0 bar (0 - 100 kPa) 0 - 6,0 bar (0 - 600 kPa)\n\n0 - 1,6 bar (0 - 160 kPa) 0 - 10,0 bar (0 - 1.000 kPa)",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225707_Manometer_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmUtv3DYQgP+KoFML2F6+xEduLVwEPcQw2ubSJFgMh8Nd1bvSgpKCxob/eynZhtcF0mL3KOgkUhwOh+SHGQ756aGkHe2p6dd1KN8VZUVKCmMst857KWz0nAupCVCaaLQqL4pyTz0E6CHLP5RjYd21Q0J6qdMaE+XPpJAbpRgzTogrNnae2vdtqGP9HwKH1CJ13asEd0o7eWWUYVaOYgdK+7rr6rbp1s/GfHoos+LRDCkFU49fslgibFNY71qEvk2ThQfot6Pa1ceOUrdKNSKkkDt2fYK+7la333ALaX+b2r8I+24VhmbTrQ8trkKLw7hY3WXb0EqIyjCz/gBNm5eE0vr65/X11SHE8vExDx3rHTWwH+0pvy/6LNh/O0yCcDjs6mxrntfquXkHzWaADXXjFEtqNuU4sUP+s26GvadxVnz6k173UTkG1upKsFAJFMFprYxzSlrgWuhQjhb29Hc/CrPislCs2HtIxQ9T5YIVd7fw4zj8i2U3kMbl+Up/jL1y93+jI5QkcrxChiSjokhBxWAqZyoWRMQFnZmio4/R0eehQzbDUqEF4iZwpzkotMxAFcjTgs5c0eHsmB3OzoEnex0ePERhAhJ3MZATrNI+oNHS4BKyZgvPG8fDz/I8qIExHohpbwhMUFyDBeW1U8QyWAs8M4VHVMfwiOoceIIWILiprIjOSYVCkJVZsfGOked+gWem8Kg3YUudFbYYBBtDpaKohIjAHDIepdTRB+2tWMLWXOHRb+DRZ8HDHfM5I7ckhRIk86DWGkXaRyd1HmCBZ4bwXKcB7/b0eWAsxA2lsUCqp2Jf98Vv7TbljJtSMTSh+L2H7W5D2yeRoaOLogHcFte/3hS/3BRWmstsy/2Qig95//LCFZvUPinOGqYCZpPDNEZEvKN3J/HpPVcUGaCKMQBiyGZYb7N/k8ZjqBY+Z8jn50EwIYr32dyh3txR3Xd3O8jLn/Xqk/ABzNgoQBcpelBMSvAWNbNMSQzRLvjMEJ9tu6Xiz+ErpRGaJ4BOoiZmXNAY6RAq700kZsEbXlmMlI/mZqFmhtSMAQrEMScfm2wDbdpU31P47uk7GnAGuczZvpS8ytXxkpqAK5Bu8TAzZWUKUNPhyO8It5fvj45IJ/kaV7lKOEmIllWWCUVKKE+RR2aALC38zJCfn5p7qjeUVVGN29OAyRm+9Jwpa7w2ikfvjGWGZ/a8A8HlAswMgZnupXN+f/TC8ZTsFy9PZUf3AOc8fQjhjLN5i73SCMyTdBo803nno1SLF5ovVPoIKn0E1fSG9tp0xf6fqy//AM3UgGI=",
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e6481facf65bb238ebfdb389546736e8",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. 0 - 2,5 bar (0 - 250 kPa) 0 - 25,0 bar (0 - 2.500 kPa)\n\n0 - 4,0 bar (0 - 400 kPa)\n\nAnwendung\n\nDie Druckmeßgeräte werden in der Brennerüberwachung, Filter-Zustands- meßung, Klimatechnik und Laborato- rien eingesetzt.\n\nGeeignet für Gase der Gasfamilien 1, 2, 3 und sonstige neutrale gasförmige Medien.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225707_Manometer_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztlU2P3SYUhv8K8qqR7gc2YHB3iUbJok01i3TTNLKO4XCHjI0twJ2mo/nvAc+MchW1idJVFM3K4PNyPh/jt7cVjjihT70z1c+kGkwt24ExYEpZ0bLaUlsLZLrVndFKVDtSTZjAQIKsv63Koo/zGjQ+7rHXAfNjc1hLzimVXdMcaDm82afZOOu+IFjCrDHGT4q6423HDpJLqliRLRgmF6Obfewfknl7W2XHJQ3GGsrv3mVZQD0H04+zhjSHLcMF0lVxe/w9YojH4LSGYPLBmAIkF4+XH/QVhOkyzO9Rp3g0qz/Ffpn10cx6Lc2K+9njsWmEpLJ/DX7OLcHQX7zoLw6LsdXdXQ5t3YgeppJP9d/SB2H6sGxCWJbR5VxzXccH8wj+tMIJYymxQn+qSmFLftP7dRqwVFVvb8KnOfKOglKtaKgRjW5M17Zcdh1nCuq2aU1VMkz4dypiSvak2QkyQCA/bRtByfUlPCP3mx09Mx0EvTeW3B7T/g1C6d1f+Ka4zL4/50rIQSqDja2lNVQLrZQ0ttGihrbjUD9x9YNyxc/h4f8HHWSc5oBgGFomGW1E2ykK1iCI2qjhCZ3vE51zEp77G/Ql6fPJv3FpxH+bOAihOjrQjmsjzKAsqJojEyr/lygb4Gni3+fEP78svvrlniNy4ZBchFVfT/jnSqmxJwxlgTwhucFg0BPnicFAXuQY/t5qdY59A/oqt2dHXrox17X/Y40JvIl78uhrs/4yuinPVV95d01Wb8ivMMy52/OeBJe9o/O5QEz/pMM3XVC8phnSXFcnQSjbABWoWs6kFILJJ1x/SFxfIbqTx0TsPYaBvIKIG555YWFyY2EqB2l2hG24xdz35E5IPK65bSOSU1Zux9s8mGx4jSYf+hJ97z4CFGqooQ==",
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b5b8b1032da431a09cbeaf98c1248f19",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. Technische Daten KP, D201 RF, D201 Genauigkeitsklasse 1,6 nach EN 837-3 1,6 nach EN 837-1 Anzeigebereiche 0 - 25 mbar bis 0 - 600 mbar (0-2,5 kPa bis 0 - 60 kPa) 0 -1 bar bis 0 - 25 bar (0 - 100 kPa bis 0 - 2.500 kPa) Gehéause Stahlblech, schwarz Stahlblech, schwarz Sichtscheibe Kunststoff Kunststoff",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Technische Daten</td><td>KP, D201</td><td>RF, D201</td></tr><tr><td>Genauigkeitsklasse</td><td>1,6 nach EN 837-3</td><td>1,6 nach EN 837-1</td></tr><tr><td>Anzeigebereiche</td><td>0 - 25 mbar bis 0 - 600 mbar (0-2,5 kPa bis 0 - 60 kPa)</td><td>0 -1 bar bis 0 - 25 bar (0 - 100 kPa bis 0 - 2.500 kPa)</td></tr><tr><td>Gehéause</td><td>Stahlblech, schwarz</td><td>Stahlblech, schwarz</td></tr><tr><td>Sichtscheibe</td><td>Kunststoff</td><td>Kunststoff</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "225707_Manometer_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy9Vltv2zYU/isHAgq0qG1RF1v2EASImy4Y0gTB6r6sKwRKOrI4S5RBUU2TNP99h5YtK74kQ7DtyeK5fDzXj/76YGGOBUodisT6BSzf9cY8deIoCHDsuE7kTCbuJPDSOI0x9ZnVA6tAzROuOdk/WOYjrMpaxbg5YxgrpJ8VoBP4PmPBxHUHK+eVvigTkYpnDJaqjLGqthbOxB9NvEHgB2zsGbMlqkJUlShlFa6D+fpgEbAJw/Nc5j9+IzOFcamSMC9jrku1inDJdWZg7S8VqspWIo65Ssix0oprUdk3d3HGVXGjyr8w1pWd1HJehcsytpMyrk2xqn4p0XbdYcCC8IrLkkqCKjyfhueDZZJaj490dSpylLww8VjHTdeG+m65MuTLZS4oVsrLXqtzLuc1n2NlUrRQzi2T2JIkoayLCE1W7kqitn1Ez2ejocsTD1Mv8Jg7HE3GjKcJ8qGTjCMDrPGHDnkVZrrIjc+J5lGOpyc6Q57QjzKfpzOMMymqOEM4p9bIE5uERnF504Nzlzmt4PdfuwLb+NsbrKhM7taQyekF1aUW8wUKXS1yTn0mw2SlcnojkDzO4OM1jL2g7x3VOI1mdc0a90zeo5gjlQQFxdu6MuiDO4Qi4goiUYE5jxhrBG9Z3+0NYXHDOzpzfNf1d6DrTGCNK307jD1xdgdD1vXvBniB2Z81YzjhdSfnz5pnOVU+znpAdb7l6v5lXRf2M2WrTYdEtEW9rGWlK12m6VFRF+MPkaaoopxr3dqf5XCLwjvg3zOK3DsAYxqgtuEveC5Q0QJtogcC3Uty36p71fG8cW628RbVosW6ItoQBFQIDdd1ni9rudCLUilc6Frtmu1jXuF0TsEkreWHeor9TzhvAuyId4VdlHNVxwsuKXJRT70efKJthQu8FZIW0IjzetpCKZ4InveglrRecOHY7nHdRtW97EtBM284SmNBtMgpT7jCRNRFVzJrP7+jynjerHJzSwF9l5nJjNiHHszgPa3A+ggFPFUx2GhYb/TGdtglRD8BhUQFZ9Gt2TzTyO+lhIRE16UqzGVtHO8JbwPRBjCjfsmdILYh9I9HAD78KzF06/lRyIjXObWsjY8KmaFMDp+fjCTdrO+52i7RbzfgufCWWGvEhu7k3QuKNW02fGk3jGw9rtnasPQuH8M+m8IOEcKGd3yiHeiyBXTWHprdhc5W0RgZvyRdrQRspzqvG/nByW5U8OqxhG0DoK0nbJ4b2Hsi4AV+N9rDDA8H6LVDPdAQ4DqfZ7kMnucdeMoisLPWQDsPU5jREgzMtMN23Av+YwDvR9uZ/0dGtJrwBmx6nIBWA8UrdwPWcw67swqbt36vG86qvq95Ll9qxs7rc7wrB96Otj1d2v4fuuD/p11Y/Ylb/3GcGaawHr/9DRoHyWY=",
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f998b9a872eeece89851574118fc969c",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. Zifferblatt Al wei3 Kunststoff, weil3 Zeiger Skalierung schwarz Al schwarz Skalierung schwarz Kunststoff, schwarz Segmentwerk Messing mit Nullpunktkorrektur Messing MeBglied CuBe-Legierung Cu-Legierung DruckanschiuB3, Lage GewindeanschluB radial, unten G1/2B radial, unten G12B",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Zifferblatt</td><td>Al wei3</td><td>Kunststoff, weil3</td></tr><tr><td>Zeiger</td><td>Skalierung schwarz Al schwarz</td><td>Skalierung schwarz Kunststoff, schwarz</td></tr><tr><td>Segmentwerk</td><td>Messing mit Nullpunktkorrektur</td><td>Messing</td></tr><tr><td>MeBglied</td><td>CuBe-Legierung</td><td>Cu-Legierung</td></tr><tr><td>DruckanschiuB3, Lage GewindeanschluB</td><td>radial, unten G1/2B</td><td>radial, unten G12B</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "225707_Manometer_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy9Vltv2zYU/isHAgq0qG1RF1v2EASImy4Y0gTB6r6sKwRKOrI4S5RBUU2TNP99h5YtK74kQ7DtyeK5fDzXj/76YGGOBUodisT6BSzf9cY8deIoCHDsuE7kTCbuJPDSOI0x9ZnVA6tAzROuOdk/WOYjrMpaxbg5YxgrpJ8VoBP4PmPBxHUHK+eVvigTkYpnDJaqjLGqthbOxB9NvEHgB2zsGbMlqkJUlShlFa6D+fpgEbAJw/Nc5j9+IzOFcamSMC9jrku1inDJdWZg7S8VqspWIo65Ssix0oprUdk3d3HGVXGjyr8w1pWd1HJehcsytpMyrk2xqn4p0XbdYcCC8IrLkkqCKjyfhueDZZJaj490dSpylLww8VjHTdeG+m65MuTLZS4oVsrLXqtzLuc1n2NlUrRQzi2T2JIkoayLCE1W7kqitn1Ez2ejocsTD1Mv8Jg7HE3GjKcJ8qGTjCMDrPGHDnkVZrrIjc+J5lGOpyc6Q57QjzKfpzOMMymqOEM4p9bIE5uERnF504Nzlzmt4PdfuwLb+NsbrKhM7taQyekF1aUW8wUKXS1yTn0mw2SlcnojkDzO4OM1jL2g7x3VOI1mdc0a90zeo5gjlQQFxdu6MuiDO4Qi4goiUYE5jxhrBG9Z3+0NYXHDOzpzfNf1d6DrTGCNK307jD1xdgdD1vXvBniB2Z81YzjhdSfnz5pnOVU+znpAdb7l6v5lXRf2M2WrTYdEtEW9rGWlK12m6VFRF+MPkaaoopxr3dqf5XCLwjvg3zOK3DsAYxqgtuEveC5Q0QJtogcC3Uty36p71fG8cW628RbVosW6ItoQBFQIDdd1ni9rudCLUilc6Frtmu1jXuF0TsEkreWHeor9TzhvAuyId4VdlHNVxwsuKXJRT70efKJthQu8FZIW0IjzetpCKZ4InveglrRecOHY7nHdRtW97EtBM284SmNBtMgpT7jCRNRFVzJrP7+jynjerHJzSwF9l5nJjNiHHszgPa3A+ggFPFUx2GhYb/TGdtglRD8BhUQFZ9Gt2TzTyO+lhIRE16UqzGVtHO8JbwPRBjCjfsmdILYh9I9HAD78KzF06/lRyIjXObWsjY8KmaFMDp+fjCTdrO+52i7RbzfgufCWWGvEhu7k3QuKNW02fGk3jGw9rtnasPQuH8M+m8IOEcKGd3yiHeiyBXTWHprdhc5W0RgZvyRdrQRspzqvG/nByW5U8OqxhG0DoK0nbJ4b2Hsi4AV+N9rDDA8H6LVDPdAQ4DqfZ7kMnucdeMoisLPWQDsPU5jREgzMtMN23Av+YwDvR9uZ/0dGtJrwBmx6nIBWA8UrdwPWcw67swqbt36vG86qvq95Ll9qxs7rc7wrB96Otj1d2v4fuuD/p11Y/Ylb/3GcGaawHr/9DRoHyWY=",
+      "is_continuation": true,
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "04cd8e24582b2dbba503b429e228c9f3",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. Umgebungstemperatur Mediumstemperatur Temperaturverhalten m -20°C, T + 60°C m 20°C, T +0 °C 0,6%/10K b| einer Abweichung von der Normaltemperatur + 20 °C T min -20°C, T 60°C -20°C, T +0 °C 0, 4 %/10K b| einer Abweichung von der Normaltemperatur + 20 °C Einbaulage stehend stehend Schutzart IP 32 (EN 60529) IP 32 (EN 60529)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Umgebungstemperatur Mediumstemperatur Temperaturverhalten</td><td>m -20°C, T + 60°C m 20°C, T +0 °C 0,6%/10K b| einer Abweichung von der Normaltemperatur + 20 °C</td><td>T min -20°C, T 60°C -20°C, T +0 °C 0, 4 %/10K b| einer Abweichung von der Normaltemperatur + 20 °C</td></tr><tr><td>Einbaulage</td><td>stehend</td><td>stehend</td></tr><tr><td>Schutzart</td><td>IP 32 (EN 60529)</td><td>IP 32 (EN 60529)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "225707_Manometer_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy9Vltv2zYU/isHAgq0qG1RF1v2EASImy4Y0gTB6r6sKwRKOrI4S5RBUU2TNP99h5YtK74kQ7DtyeK5fDzXj/76YGGOBUodisT6BSzf9cY8deIoCHDsuE7kTCbuJPDSOI0x9ZnVA6tAzROuOdk/WOYjrMpaxbg5YxgrpJ8VoBP4PmPBxHUHK+eVvigTkYpnDJaqjLGqthbOxB9NvEHgB2zsGbMlqkJUlShlFa6D+fpgEbAJw/Nc5j9+IzOFcamSMC9jrku1inDJdWZg7S8VqspWIo65Ssix0oprUdk3d3HGVXGjyr8w1pWd1HJehcsytpMyrk2xqn4p0XbdYcCC8IrLkkqCKjyfhueDZZJaj490dSpylLww8VjHTdeG+m65MuTLZS4oVsrLXqtzLuc1n2NlUrRQzi2T2JIkoayLCE1W7kqitn1Ez2ejocsTD1Mv8Jg7HE3GjKcJ8qGTjCMDrPGHDnkVZrrIjc+J5lGOpyc6Q57QjzKfpzOMMymqOEM4p9bIE5uERnF504Nzlzmt4PdfuwLb+NsbrKhM7taQyekF1aUW8wUKXS1yTn0mw2SlcnojkDzO4OM1jL2g7x3VOI1mdc0a90zeo5gjlQQFxdu6MuiDO4Qi4goiUYE5jxhrBG9Z3+0NYXHDOzpzfNf1d6DrTGCNK307jD1xdgdD1vXvBniB2Z81YzjhdSfnz5pnOVU+znpAdb7l6v5lXRf2M2WrTYdEtEW9rGWlK12m6VFRF+MPkaaoopxr3dqf5XCLwjvg3zOK3DsAYxqgtuEveC5Q0QJtogcC3Uty36p71fG8cW628RbVosW6ItoQBFQIDdd1ni9rudCLUilc6Frtmu1jXuF0TsEkreWHeor9TzhvAuyId4VdlHNVxwsuKXJRT70efKJthQu8FZIW0IjzetpCKZ4InveglrRecOHY7nHdRtW97EtBM284SmNBtMgpT7jCRNRFVzJrP7+jynjerHJzSwF9l5nJjNiHHszgPa3A+ggFPFUx2GhYb/TGdtglRD8BhUQFZ9Gt2TzTyO+lhIRE16UqzGVtHO8JbwPRBjCjfsmdILYh9I9HAD78KzF06/lRyIjXObWsjY8KmaFMDp+fjCTdrO+52i7RbzfgufCWWGvEhu7k3QuKNW02fGk3jGw9rtnasPQuH8M+m8IOEcKGd3yiHeiyBXTWHprdhc5W0RgZvyRdrQRspzqvG/nByW5U8OqxhG0DoK0nbJ4b2Hsi4AV+N9rDDA8H6LVDPdAQ4DqfZ7kMnucdeMoisLPWQDsPU5jREgzMtMN23Av+YwDvR9uZ/0dGtJrwBmx6nIBWA8UrdwPWcw67swqbt36vG86qvq95Ll9qxs7rc7wrB96Otj1d2v4fuuD/p11Y/Ylb/3GcGaawHr/9DRoHyWY=",
+      "is_continuation": true,
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "2fec4aa467b84c8f6dea9161eed2b263",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. Einbaumaße\n\n�  �����  �  �  �����  �  � \n\n2 … 4",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225707_Manometer_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztlD1v2zAQhv+Kwbm1aH5KGYN06NDAQzslgXAij44KSRRIqmhg+L+XdGzECJqiYwtk0Ynkc8f3PsC7PcEBR5xS21tytSLO8g3CxtpOUSm6Oi+YFLQxTjgGwpIPKzJiAgsJMr8n5aeNfgkGz2tsTcBsjgE3WghKdcPYmhbn4/nobe/6PwBz8AZjfCE2jVANX2uhac0LNmMY+xh7P8X2JOZuT3LgIoNzRsXhIWMBjQ+2HbyB5MNR4QzpsYStvkUMsQq9MRBsdowpQOpjtX0yjxDGbfDf0aRY2WXaxXb2prLeLKVY8aOfsGJMaqrbLzD5XBIM7c11e7OerSOHQ77a9QNOMBY95G30BKan+QjCPA991przqk7HA0y7BXYYS4oEpx0pic15p52WscOSFTvuhJc+IhdUSQaWo+OaUyZVU1NwFkFubN2RojDhz1TgT/3UwTLC/UKpdVguPeu5hVCK8gO/FjY7vR4YgI5yKmnNOIjGOiaBCw4a65oKqev3gfk3B+ay//eLc86uVs/2re/5/LX9a/5yrj6PWc7v5qlRzEGtlGtY7h0wq5lSILUSSnY1f3+A/oN5YrnjjDK1Epct32aH22f+8PALYLEMdQ==",
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "a6809eedd10599a7d9f34f849973e132",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. Typ MeB- bereich Bestell- nummer AnschluB EinbaumaBe [mm] Gewicht [kl a b c KP 80 0 - 25 mbar 217 101 G1/2B 80 43,3 20 69 14,8 0,4 KP 80 0 - 40 mbar 099 028 G1/2B 80 43,3 20 69 14,8 0,4",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Typ</td><td>MeB- bereich</td><td>Bestell- nummer</td><td>AnschluB</td><td>EinbaumaBe [mm]</td><td>Gewicht [kl</td></tr><tr><td>a</td><td>b</td><td>c</td><td/><td/></tr><tr><td>KP 80</td><td>0 - 25 mbar</td><td>217 101</td><td>G1/2B</td><td>80</td><td>43,3</td><td>20</td><td>69</td><td>14,8</td><td>0,4</td></tr><tr><td>KP 80</td><td>0 - 40 mbar</td><td>099 028</td><td>G1/2B</td><td>80</td><td>43,3</td><td>20</td><td>69</td><td>14,8</td><td>0,4</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "225707_Manometer_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWVtvozgU/itHPCfFGHNbdSNtNLt9WFWqVt2ntkIOOA073AREs1XV/742GMIldBztZHiKwf7Mdy72ueTpXWMxS1ha+VGo/QKax1zm7Gxnv9uxkO32LGB723JsJ7AQdRHWVqAlrKIhrShf/66JgV9mxyJg7TPzg4Lxn3pDwyEEIcfD+AYJcD2fZGG0jz5ZkBdZwMrytMLwiO2ZNw5xkGuKZTkrkqgsoywtfUnm6V3jGwsapokR+XjhywoWZEXox1lAq6yoGea0Ooht9b9LVpR6EQUBLUIOLKuCVlGpP7wFB1okD0X2DwuqUg+P6Wvp51mgh1lwFMoq11nKdIwtBzn+PU0zrhJW+F+2/pebPNxrHx/80/soZilNBB9tfqlcWL3l9UKa53HEuXK5dDkd0/T1SF9ZKUTUWPqqCcFy/sZPj8mOCalM/qZi/1Y+Lf1DlcRiq9uK7mK2ua0OjIb8pxBDKLJvZU7TX581/KxtHt/yW706nJm5Z9s18M1ZFBxmlmy5xlgcr4HTSFgxs+q3tAwO8XHbTQdZLKctPv17lO7oMaFbBk9J8jKzyR37xnlU8PQ1blbotTi1SBvagja7bhR0o9GgBuqtTnZZ+Cb3CTd/PoCL+FxYPyFYA7Yg2dGie4cNBwxkdM93ho633VMPTMyVeUKd3tteNzTIyj19bEWa8Umuc3wIGvJBngcIu4vxsUd8DGSC7TmL8THQWEEuBuQuZzBjqiHCCZmLEcLWWEOOA6ZnL+jSZzRkouV8yJ4SMsFB1s8jxL3481uIuGAaeIZQH03IOT7uSbmGtbJ7fCwlPuNbqOEzd8iuz2d8xho+aDE+k1sIYwTIIssRmmqIH3qynAdNbiFMCNiLuvSYkInAduYi68/w6YkPOUDsuWvxBxP664/Brbg2BvehwZMORyGEmcY5Ig7u7bRyekSwCpOVPdaKQRSi1zW44JU1Tg6xSnJ4BS6wJjCI6hYGYijErKtwsWGql7mzfW1/QWN3wSrZ11XUwuP4NEzNRYUfT2ZwxQyPNOYh3cXeDJU+EHsr6xwbt8+mx8VUoTI604KMqRK+r0FmfKhrI815zJXJjE81JgY/1QuZaXKs6wi5mM+gST5jzYWBqytmcrAtwJ5K7vB/2OiyeaE3bR7tQ7aAROvn8S2He/Z8RCjcr6Hr08hWTPMe2s5L89i0X6BttMjOj2ztAIUdBBACX/X19QXqqgl6tQnIzgjcARcWtmJalEP84gfbA1H2AC93ekBZRIBsYagDZS4LstegDmzTcpBNgQuQp2/W1bs6sk10QZbZl+in901eD1+ioJ6GeOGqgBSqGVizqTA7pJjnGToHutzMPH3kQKsPbK0pS0F1oD0AInVgZ01ZXF2APH2zroLUkZ01ZblyiX5aZFNXXKKgTs66APgOsk46GjGh9oEmWe/7gGkIkINBpA0g0oU+alXf8iATa2UcD5vQ3gN4eA98iqsDHMh0VRll976F1WVDnWjYVVYJloI12dr3UZ2bSVidWQ2sJm792m4CyXHmANYaoMmC1IGdBZqMRR1IJKzOLdRhkmaTBVwgnzRCE7GVcZ0V6tD6OUz8adL+n/IogqP28fIfNpMx+w==",
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f4fba3663499fe1593b0df4e4d002aec",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. KP 80 0 - 60 mbar 103 697 G1/2B 80 43,3 20 69 14,8 0,4 KP 80 0 - 100 mbar 082 081 G1/2B 80 43,3 20 69 14,8 0,4 KP 80 0 - 160 mbar 104 083 G1/2B 80 43,3 20 69 14,8 0,4",
+    "metadata": {
+      "text_as_html": "<table><tr><td>KP 80</td><td>0 - 60 mbar</td><td>103 697</td><td>G1/2B</td><td>80</td><td>43,3</td><td>20</td><td>69</td><td>14,8</td><td>0,4</td></tr><tr><td>KP 80</td><td>0 - 100 mbar</td><td>082 081</td><td>G1/2B</td><td>80</td><td>43,3</td><td>20</td><td>69</td><td>14,8</td><td>0,4</td></tr><tr><td>KP 80</td><td>0 - 160 mbar</td><td>104 083</td><td>G1/2B</td><td>80</td><td>43,3</td><td>20</td><td>69</td><td>14,8</td><td>0,4</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "225707_Manometer_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWVtvozgU/itHPCfFGHNbdSNtNLt9WFWqVt2ntkIOOA073AREs1XV/742GMIldBztZHiKwf7Mdy72ueTpXWMxS1ha+VGo/QKax1zm7Gxnv9uxkO32LGB723JsJ7AQdRHWVqAlrKIhrShf/66JgV9mxyJg7TPzg4Lxn3pDwyEEIcfD+AYJcD2fZGG0jz5ZkBdZwMrytMLwiO2ZNw5xkGuKZTkrkqgsoywtfUnm6V3jGwsapokR+XjhywoWZEXox1lAq6yoGea0Ooht9b9LVpR6EQUBLUIOLKuCVlGpP7wFB1okD0X2DwuqUg+P6Wvp51mgh1lwFMoq11nKdIwtBzn+PU0zrhJW+F+2/pebPNxrHx/80/soZilNBB9tfqlcWL3l9UKa53HEuXK5dDkd0/T1SF9ZKUTUWPqqCcFy/sZPj8mOCalM/qZi/1Y+Lf1DlcRiq9uK7mK2ua0OjIb8pxBDKLJvZU7TX581/KxtHt/yW706nJm5Z9s18M1ZFBxmlmy5xlgcr4HTSFgxs+q3tAwO8XHbTQdZLKctPv17lO7oMaFbBk9J8jKzyR37xnlU8PQ1blbotTi1SBvagja7bhR0o9GgBuqtTnZZ+Cb3CTd/PoCL+FxYPyFYA7Yg2dGie4cNBwxkdM93ho633VMPTMyVeUKd3tteNzTIyj19bEWa8Umuc3wIGvJBngcIu4vxsUd8DGSC7TmL8THQWEEuBuQuZzBjqiHCCZmLEcLWWEOOA6ZnL+jSZzRkouV8yJ4SMsFB1s8jxL3481uIuGAaeIZQH03IOT7uSbmGtbJ7fCwlPuNbqOEzd8iuz2d8xho+aDE+k1sIYwTIIssRmmqIH3qynAdNbiFMCNiLuvSYkInAduYi68/w6YkPOUDsuWvxBxP664/Brbg2BvehwZMORyGEmcY5Ig7u7bRyekSwCpOVPdaKQRSi1zW44JU1Tg6xSnJ4BS6wJjCI6hYGYijErKtwsWGql7mzfW1/QWN3wSrZ11XUwuP4NEzNRYUfT2ZwxQyPNOYh3cXeDJU+EHsr6xwbt8+mx8VUoTI604KMqRK+r0FmfKhrI815zJXJjE81JgY/1QuZaXKs6wi5mM+gST5jzYWBqytmcrAtwJ5K7vB/2OiyeaE3bR7tQ7aAROvn8S2He/Z8RCjcr6Hr08hWTPMe2s5L89i0X6BttMjOj2ztAIUdBBACX/X19QXqqgl6tQnIzgjcARcWtmJalEP84gfbA1H2AC93ekBZRIBsYagDZS4LstegDmzTcpBNgQuQp2/W1bs6sk10QZbZl+in901eD1+ioJ6GeOGqgBSqGVizqTA7pJjnGToHutzMPH3kQKsPbK0pS0F1oD0AInVgZ01ZXF2APH2zroLUkZ01ZblyiX5aZFNXXKKgTs66APgOsk46GjGh9oEmWe/7gGkIkINBpA0g0oU+alXf8iATa2UcD5vQ3gN4eA98iqsDHMh0VRll976F1WVDnWjYVVYJloI12dr3UZ2bSVidWQ2sJm792m4CyXHmANYaoMmC1IGdBZqMRR1IJKzOLdRhkmaTBVwgnzRCE7GVcZ0V6tD6OUz8adL+n/IogqP28fIfNpMx+w==",
+      "is_continuation": true,
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "caecb912200cca5b136ff3bc568860c7",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. KP 80 0 - 250 mbar 077 396 G1/2B 80 43,3 20 69 14,8 0,4 KP 80 0 - 400 mbar 104 307 G1/2B 80 43,3 20 69 14,8 0,4 KP 80 0 - 600 mbar 103 705 G1/2B 80 43,3 20 69 14,8 0,4",
+    "metadata": {
+      "text_as_html": "<table><tr><td>KP 80</td><td>0 - 250 mbar</td><td>077 396</td><td>G1/2B</td><td>80</td><td>43,3</td><td>20</td><td>69</td><td>14,8</td><td>0,4</td></tr><tr><td>KP 80</td><td>0 - 400 mbar</td><td>104 307</td><td>G1/2B</td><td>80</td><td>43,3</td><td>20</td><td>69</td><td>14,8</td><td>0,4</td></tr><tr><td>KP 80</td><td>0 - 600 mbar</td><td>103 705</td><td>G1/2B</td><td>80</td><td>43,3</td><td>20</td><td>69</td><td>14,8</td><td>0,4</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "225707_Manometer_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWVtvozgU/itHPCfFGHNbdSNtNLt9WFWqVt2ntkIOOA073AREs1XV/742GMIldBztZHiKwf7Mdy72ueTpXWMxS1ha+VGo/QKax1zm7Gxnv9uxkO32LGB723JsJ7AQdRHWVqAlrKIhrShf/66JgV9mxyJg7TPzg4Lxn3pDwyEEIcfD+AYJcD2fZGG0jz5ZkBdZwMrytMLwiO2ZNw5xkGuKZTkrkqgsoywtfUnm6V3jGwsapokR+XjhywoWZEXox1lAq6yoGea0Ooht9b9LVpR6EQUBLUIOLKuCVlGpP7wFB1okD0X2DwuqUg+P6Wvp51mgh1lwFMoq11nKdIwtBzn+PU0zrhJW+F+2/pebPNxrHx/80/soZilNBB9tfqlcWL3l9UKa53HEuXK5dDkd0/T1SF9ZKUTUWPqqCcFy/sZPj8mOCalM/qZi/1Y+Lf1DlcRiq9uK7mK2ua0OjIb8pxBDKLJvZU7TX581/KxtHt/yW706nJm5Z9s18M1ZFBxmlmy5xlgcr4HTSFgxs+q3tAwO8XHbTQdZLKctPv17lO7oMaFbBk9J8jKzyR37xnlU8PQ1blbotTi1SBvagja7bhR0o9GgBuqtTnZZ+Cb3CTd/PoCL+FxYPyFYA7Yg2dGie4cNBwxkdM93ho633VMPTMyVeUKd3tteNzTIyj19bEWa8Umuc3wIGvJBngcIu4vxsUd8DGSC7TmL8THQWEEuBuQuZzBjqiHCCZmLEcLWWEOOA6ZnL+jSZzRkouV8yJ4SMsFB1s8jxL3481uIuGAaeIZQH03IOT7uSbmGtbJ7fCwlPuNbqOEzd8iuz2d8xho+aDE+k1sIYwTIIssRmmqIH3qynAdNbiFMCNiLuvSYkInAduYi68/w6YkPOUDsuWvxBxP664/Brbg2BvehwZMORyGEmcY5Ig7u7bRyekSwCpOVPdaKQRSi1zW44JU1Tg6xSnJ4BS6wJjCI6hYGYijErKtwsWGql7mzfW1/QWN3wSrZ11XUwuP4NEzNRYUfT2ZwxQyPNOYh3cXeDJU+EHsr6xwbt8+mx8VUoTI604KMqRK+r0FmfKhrI815zJXJjE81JgY/1QuZaXKs6wi5mM+gST5jzYWBqytmcrAtwJ5K7vB/2OiyeaE3bR7tQ7aAROvn8S2He/Z8RCjcr6Hr08hWTPMe2s5L89i0X6BttMjOj2ztAIUdBBACX/X19QXqqgl6tQnIzgjcARcWtmJalEP84gfbA1H2AC93ekBZRIBsYagDZS4LstegDmzTcpBNgQuQp2/W1bs6sk10QZbZl+in901eD1+ioJ6GeOGqgBSqGVizqTA7pJjnGToHutzMPH3kQKsPbK0pS0F1oD0AInVgZ01ZXF2APH2zroLUkZ01ZblyiX5aZFNXXKKgTs66APgOsk46GjGh9oEmWe/7gGkIkINBpA0g0oU+alXf8iATa2UcD5vQ3gN4eA98iqsDHMh0VRll976F1WVDnWjYVVYJloI12dr3UZ2bSVidWQ2sJm792m4CyXHmANYaoMmC1IGdBZqMRR1IJKzOLdRhkmaTBVwgnzRCE7GVcZ0V6tD6OUz8adL+n/IogqP28fIfNpMx+w==",
+      "is_continuation": true,
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "8fbe75d2c22735afb5ccab5078c0e16b",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. KP 100 0 - 25 mbar 248 312 G1/2B 100 44 20 87 15,6 0,5 KP 100 0 - 40 mbar 248 311 G1/2B 100 44 20 87 15,6 0,5 KP 100 0 - 60 mbar 248 310 G1/2B 100 44 20 87 15,6 0,5",
+    "metadata": {
+      "text_as_html": "<table><tr><td>KP 100</td><td>0 - 25 mbar</td><td>248 312</td><td>G1/2B</td><td>100</td><td>44</td><td>20</td><td>87</td><td>15,6</td><td>0,5</td></tr><tr><td>KP 100</td><td>0 - 40 mbar</td><td>248 311</td><td>G1/2B</td><td>100</td><td>44</td><td>20</td><td>87</td><td>15,6</td><td>0,5</td></tr><tr><td>KP 100</td><td>0 - 60 mbar</td><td>248 310</td><td>G1/2B</td><td>100</td><td>44</td><td>20</td><td>87</td><td>15,6</td><td>0,5</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "225707_Manometer_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWVtvozgU/itHPCfFGHNbdSNtNLt9WFWqVt2ntkIOOA073AREs1XV/742GMIldBztZHiKwf7Mdy72ueTpXWMxS1ha+VGo/QKax1zm7Gxnv9uxkO32LGB723JsJ7AQdRHWVqAlrKIhrShf/66JgV9mxyJg7TPzg4Lxn3pDwyEEIcfD+AYJcD2fZGG0jz5ZkBdZwMrytMLwiO2ZNw5xkGuKZTkrkqgsoywtfUnm6V3jGwsapokR+XjhywoWZEXox1lAq6yoGea0Ooht9b9LVpR6EQUBLUIOLKuCVlGpP7wFB1okD0X2DwuqUg+P6Wvp51mgh1lwFMoq11nKdIwtBzn+PU0zrhJW+F+2/pebPNxrHx/80/soZilNBB9tfqlcWL3l9UKa53HEuXK5dDkd0/T1SF9ZKUTUWPqqCcFy/sZPj8mOCalM/qZi/1Y+Lf1DlcRiq9uK7mK2ua0OjIb8pxBDKLJvZU7TX581/KxtHt/yW706nJm5Z9s18M1ZFBxmlmy5xlgcr4HTSFgxs+q3tAwO8XHbTQdZLKctPv17lO7oMaFbBk9J8jKzyR37xnlU8PQ1blbotTi1SBvagja7bhR0o9GgBuqtTnZZ+Cb3CTd/PoCL+FxYPyFYA7Yg2dGie4cNBwxkdM93ho633VMPTMyVeUKd3tteNzTIyj19bEWa8Umuc3wIGvJBngcIu4vxsUd8DGSC7TmL8THQWEEuBuQuZzBjqiHCCZmLEcLWWEOOA6ZnL+jSZzRkouV8yJ4SMsFB1s8jxL3481uIuGAaeIZQH03IOT7uSbmGtbJ7fCwlPuNbqOEzd8iuz2d8xho+aDE+k1sIYwTIIssRmmqIH3qynAdNbiFMCNiLuvSYkInAduYi68/w6YkPOUDsuWvxBxP664/Brbg2BvehwZMORyGEmcY5Ig7u7bRyekSwCpOVPdaKQRSi1zW44JU1Tg6xSnJ4BS6wJjCI6hYGYijErKtwsWGql7mzfW1/QWN3wSrZ11XUwuP4NEzNRYUfT2ZwxQyPNOYh3cXeDJU+EHsr6xwbt8+mx8VUoTI604KMqRK+r0FmfKhrI815zJXJjE81JgY/1QuZaXKs6wi5mM+gST5jzYWBqytmcrAtwJ5K7vB/2OiyeaE3bR7tQ7aAROvn8S2He/Z8RCjcr6Hr08hWTPMe2s5L89i0X6BttMjOj2ztAIUdBBACX/X19QXqqgl6tQnIzgjcARcWtmJalEP84gfbA1H2AC93ekBZRIBsYagDZS4LstegDmzTcpBNgQuQp2/W1bs6sk10QZbZl+in901eD1+ioJ6GeOGqgBSqGVizqTA7pJjnGToHutzMPH3kQKsPbK0pS0F1oD0AInVgZ01ZXF2APH2zroLUkZ01ZblyiX5aZFNXXKKgTs66APgOsk46GjGh9oEmWe/7gGkIkINBpA0g0oU+alXf8iATa2UcD5vQ3gN4eA98iqsDHMh0VRll976F1WVDnWjYVVYJloI12dr3UZ2bSVidWQ2sJm792m4CyXHmANYaoMmC1IGdBZqMRR1IJKzOLdRhkmaTBVwgnzRCE7GVcZ0V6tD6OUz8adL+n/IogqP28fIfNpMx+w==",
+      "is_continuation": true,
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "2e11fd9ac21ea78727e8339c716a730e",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. KP 100 0 - 100 mbar 220 054 G1/2B 100 44 20 87 15,6 0,5 KP 100 0 - 160 mbar 247 342 G1/2B 100 44 20 87 15,6 0,5 KP 100 0 - 250 mbar 244 612 G1/2B 100 44 20 87 15,6 0,5",
+    "metadata": {
+      "text_as_html": "<table><tr><td>KP 100</td><td>0 - 100 mbar</td><td>220 054</td><td>G1/2B</td><td>100</td><td>44</td><td>20</td><td>87</td><td>15,6</td><td>0,5</td></tr><tr><td>KP 100</td><td>0 - 160 mbar</td><td>247 342</td><td>G1/2B</td><td>100</td><td>44</td><td>20</td><td>87</td><td>15,6</td><td>0,5</td></tr><tr><td>KP 100</td><td>0 - 250 mbar</td><td>244 612</td><td>G1/2B</td><td>100</td><td>44</td><td>20</td><td>87</td><td>15,6</td><td>0,5</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "225707_Manometer_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWVtvozgU/itHPCfFGHNbdSNtNLt9WFWqVt2ntkIOOA073AREs1XV/742GMIldBztZHiKwf7Mdy72ueTpXWMxS1ha+VGo/QKax1zm7Gxnv9uxkO32LGB723JsJ7AQdRHWVqAlrKIhrShf/66JgV9mxyJg7TPzg4Lxn3pDwyEEIcfD+AYJcD2fZGG0jz5ZkBdZwMrytMLwiO2ZNw5xkGuKZTkrkqgsoywtfUnm6V3jGwsapokR+XjhywoWZEXox1lAq6yoGea0Ooht9b9LVpR6EQUBLUIOLKuCVlGpP7wFB1okD0X2DwuqUg+P6Wvp51mgh1lwFMoq11nKdIwtBzn+PU0zrhJW+F+2/pebPNxrHx/80/soZilNBB9tfqlcWL3l9UKa53HEuXK5dDkd0/T1SF9ZKUTUWPqqCcFy/sZPj8mOCalM/qZi/1Y+Lf1DlcRiq9uK7mK2ua0OjIb8pxBDKLJvZU7TX581/KxtHt/yW706nJm5Z9s18M1ZFBxmlmy5xlgcr4HTSFgxs+q3tAwO8XHbTQdZLKctPv17lO7oMaFbBk9J8jKzyR37xnlU8PQ1blbotTi1SBvagja7bhR0o9GgBuqtTnZZ+Cb3CTd/PoCL+FxYPyFYA7Yg2dGie4cNBwxkdM93ho633VMPTMyVeUKd3tteNzTIyj19bEWa8Umuc3wIGvJBngcIu4vxsUd8DGSC7TmL8THQWEEuBuQuZzBjqiHCCZmLEcLWWEOOA6ZnL+jSZzRkouV8yJ4SMsFB1s8jxL3481uIuGAaeIZQH03IOT7uSbmGtbJ7fCwlPuNbqOEzd8iuz2d8xho+aDE+k1sIYwTIIssRmmqIH3qynAdNbiFMCNiLuvSYkInAduYi68/w6YkPOUDsuWvxBxP664/Brbg2BvehwZMORyGEmcY5Ig7u7bRyekSwCpOVPdaKQRSi1zW44JU1Tg6xSnJ4BS6wJjCI6hYGYijErKtwsWGql7mzfW1/QWN3wSrZ11XUwuP4NEzNRYUfT2ZwxQyPNOYh3cXeDJU+EHsr6xwbt8+mx8VUoTI604KMqRK+r0FmfKhrI815zJXJjE81JgY/1QuZaXKs6wi5mM+gST5jzYWBqytmcrAtwJ5K7vB/2OiyeaE3bR7tQ7aAROvn8S2He/Z8RCjcr6Hr08hWTPMe2s5L89i0X6BttMjOj2ztAIUdBBACX/X19QXqqgl6tQnIzgjcARcWtmJalEP84gfbA1H2AC93ekBZRIBsYagDZS4LstegDmzTcpBNgQuQp2/W1bs6sk10QZbZl+in901eD1+ioJ6GeOGqgBSqGVizqTA7pJjnGToHutzMPH3kQKsPbK0pS0F1oD0AInVgZ01ZXF2APH2zroLUkZ01ZblyiX5aZFNXXKKgTs66APgOsk46GjGh9oEmWe/7gGkIkINBpA0g0oU+alXf8iATa2UcD5vQ3gN4eA98iqsDHMh0VRll976F1WVDnWjYVVYJloI12dr3UZ2bSVidWQ2sJm792m4CyXHmANYaoMmC1IGdBZqMRR1IJKzOLdRhkmaTBVwgnzRCE7GVcZ0V6tD6OUz8adL+n/IogqP28fIfNpMx+w==",
+      "is_continuation": true,
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "be7cbf278802b54958f39ab8dcecde30",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. KP 100 0 - 400 mbar 230 678 G1/2B 100 44 20 87 15,6 0,5 KP 100 0 - 600 mbar 227 467 G1/2B 100 44 20 87 15,6 0,5 RF 80 0-1bar 119 073 G1/2B 80 31 20 72 11,7 0,25",
+    "metadata": {
+      "text_as_html": "<table><tr><td>KP 100</td><td>0 - 400 mbar</td><td>230 678</td><td>G1/2B</td><td>100</td><td>44</td><td>20</td><td>87</td><td>15,6</td><td>0,5</td></tr><tr><td>KP 100</td><td>0 - 600 mbar</td><td>227 467</td><td>G1/2B</td><td>100</td><td>44</td><td>20</td><td>87</td><td>15,6</td><td>0,5</td></tr><tr><td>RF 80</td><td>0-1bar</td><td>119 073</td><td>G1/2B</td><td>80</td><td>31</td><td>20</td><td>72</td><td>11,7</td><td>0,25</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "225707_Manometer_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWVtvozgU/itHPCfFGHNbdSNtNLt9WFWqVt2ntkIOOA073AREs1XV/742GMIldBztZHiKwf7Mdy72ueTpXWMxS1ha+VGo/QKax1zm7Gxnv9uxkO32LGB723JsJ7AQdRHWVqAlrKIhrShf/66JgV9mxyJg7TPzg4Lxn3pDwyEEIcfD+AYJcD2fZGG0jz5ZkBdZwMrytMLwiO2ZNw5xkGuKZTkrkqgsoywtfUnm6V3jGwsapokR+XjhywoWZEXox1lAq6yoGea0Ooht9b9LVpR6EQUBLUIOLKuCVlGpP7wFB1okD0X2DwuqUg+P6Wvp51mgh1lwFMoq11nKdIwtBzn+PU0zrhJW+F+2/pebPNxrHx/80/soZilNBB9tfqlcWL3l9UKa53HEuXK5dDkd0/T1SF9ZKUTUWPqqCcFy/sZPj8mOCalM/qZi/1Y+Lf1DlcRiq9uK7mK2ua0OjIb8pxBDKLJvZU7TX581/KxtHt/yW706nJm5Z9s18M1ZFBxmlmy5xlgcr4HTSFgxs+q3tAwO8XHbTQdZLKctPv17lO7oMaFbBk9J8jKzyR37xnlU8PQ1blbotTi1SBvagja7bhR0o9GgBuqtTnZZ+Cb3CTd/PoCL+FxYPyFYA7Yg2dGie4cNBwxkdM93ho633VMPTMyVeUKd3tteNzTIyj19bEWa8Umuc3wIGvJBngcIu4vxsUd8DGSC7TmL8THQWEEuBuQuZzBjqiHCCZmLEcLWWEOOA6ZnL+jSZzRkouV8yJ4SMsFB1s8jxL3481uIuGAaeIZQH03IOT7uSbmGtbJ7fCwlPuNbqOEzd8iuz2d8xho+aDE+k1sIYwTIIssRmmqIH3qynAdNbiFMCNiLuvSYkInAduYi68/w6YkPOUDsuWvxBxP664/Brbg2BvehwZMORyGEmcY5Ig7u7bRyekSwCpOVPdaKQRSi1zW44JU1Tg6xSnJ4BS6wJjCI6hYGYijErKtwsWGql7mzfW1/QWN3wSrZ11XUwuP4NEzNRYUfT2ZwxQyPNOYh3cXeDJU+EHsr6xwbt8+mx8VUoTI604KMqRK+r0FmfKhrI815zJXJjE81JgY/1QuZaXKs6wi5mM+gST5jzYWBqytmcrAtwJ5K7vB/2OiyeaE3bR7tQ7aAROvn8S2He/Z8RCjcr6Hr08hWTPMe2s5L89i0X6BttMjOj2ztAIUdBBACX/X19QXqqgl6tQnIzgjcARcWtmJalEP84gfbA1H2AC93ekBZRIBsYagDZS4LstegDmzTcpBNgQuQp2/W1bs6sk10QZbZl+in901eD1+ioJ6GeOGqgBSqGVizqTA7pJjnGToHutzMPH3kQKsPbK0pS0F1oD0AInVgZ01ZXF2APH2zroLUkZ01ZblyiX5aZFNXXKKgTs66APgOsk46GjGh9oEmWe/7gGkIkINBpA0g0oU+alXf8iATa2UcD5vQ3gN4eA98iqsDHMh0VRll976F1WVDnWjYVVYJloI12dr3UZ2bSVidWQ2sJm792m4CyXHmANYaoMmC1IGdBZqMRR1IJKzOLdRhkmaTBVwgnzRCE7GVcZ0V6tD6OUz8adL+n/IogqP28fIfNpMx+w==",
+      "is_continuation": true,
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "04589435a596a7befb67c1c5d42116f7",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. RF 80 0-1,6bar 227 146 G1/2B 80 31 20 72 11,7 0,25 RF 80 0-2,5bar 217 201 G1/2B 80 31 20 72 11,7 0,25 RF 80 0 -4 bar 052 415 G1/2B 80 31 20 72 11,7 0,25",
+    "metadata": {
+      "text_as_html": "<table><tr><td>RF 80</td><td>0-1,6bar</td><td>227 146</td><td>G1/2B</td><td>80</td><td>31</td><td>20</td><td>72</td><td>11,7</td><td>0,25</td></tr><tr><td>RF 80</td><td>0-2,5bar</td><td>217 201</td><td>G1/2B</td><td>80</td><td>31</td><td>20</td><td>72</td><td>11,7</td><td>0,25</td></tr><tr><td>RF 80</td><td>0 -4 bar</td><td>052 415</td><td>G1/2B</td><td>80</td><td>31</td><td>20</td><td>72</td><td>11,7</td><td>0,25</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "225707_Manometer_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWVtvozgU/itHPCfFGHNbdSNtNLt9WFWqVt2ntkIOOA073AREs1XV/742GMIldBztZHiKwf7Mdy72ueTpXWMxS1ha+VGo/QKax1zm7Gxnv9uxkO32LGB723JsJ7AQdRHWVqAlrKIhrShf/66JgV9mxyJg7TPzg4Lxn3pDwyEEIcfD+AYJcD2fZGG0jz5ZkBdZwMrytMLwiO2ZNw5xkGuKZTkrkqgsoywtfUnm6V3jGwsapokR+XjhywoWZEXox1lAq6yoGea0Ooht9b9LVpR6EQUBLUIOLKuCVlGpP7wFB1okD0X2DwuqUg+P6Wvp51mgh1lwFMoq11nKdIwtBzn+PU0zrhJW+F+2/pebPNxrHx/80/soZilNBB9tfqlcWL3l9UKa53HEuXK5dDkd0/T1SF9ZKUTUWPqqCcFy/sZPj8mOCalM/qZi/1Y+Lf1DlcRiq9uK7mK2ua0OjIb8pxBDKLJvZU7TX581/KxtHt/yW706nJm5Z9s18M1ZFBxmlmy5xlgcr4HTSFgxs+q3tAwO8XHbTQdZLKctPv17lO7oMaFbBk9J8jKzyR37xnlU8PQ1blbotTi1SBvagja7bhR0o9GgBuqtTnZZ+Cb3CTd/PoCL+FxYPyFYA7Yg2dGie4cNBwxkdM93ho633VMPTMyVeUKd3tteNzTIyj19bEWa8Umuc3wIGvJBngcIu4vxsUd8DGSC7TmL8THQWEEuBuQuZzBjqiHCCZmLEcLWWEOOA6ZnL+jSZzRkouV8yJ4SMsFB1s8jxL3481uIuGAaeIZQH03IOT7uSbmGtbJ7fCwlPuNbqOEzd8iuz2d8xho+aDE+k1sIYwTIIssRmmqIH3qynAdNbiFMCNiLuvSYkInAduYi68/w6YkPOUDsuWvxBxP664/Brbg2BvehwZMORyGEmcY5Ig7u7bRyekSwCpOVPdaKQRSi1zW44JU1Tg6xSnJ4BS6wJjCI6hYGYijErKtwsWGql7mzfW1/QWN3wSrZ11XUwuP4NEzNRYUfT2ZwxQyPNOYh3cXeDJU+EHsr6xwbt8+mx8VUoTI604KMqRK+r0FmfKhrI815zJXJjE81JgY/1QuZaXKs6wi5mM+gST5jzYWBqytmcrAtwJ5K7vB/2OiyeaE3bR7tQ7aAROvn8S2He/Z8RCjcr6Hr08hWTPMe2s5L89i0X6BttMjOj2ztAIUdBBACX/X19QXqqgl6tQnIzgjcARcWtmJalEP84gfbA1H2AC93ekBZRIBsYagDZS4LstegDmzTcpBNgQuQp2/W1bs6sk10QZbZl+in901eD1+ioJ6GeOGqgBSqGVizqTA7pJjnGToHutzMPH3kQKsPbK0pS0F1oD0AInVgZ01ZXF2APH2zroLUkZ01ZblyiX5aZFNXXKKgTs66APgOsk46GjGh9oEmWe/7gGkIkINBpA0g0oU+alXf8iATa2UcD5vQ3gN4eA98iqsDHMh0VRll976F1WVDnWjYVVYJloI12dr3UZ2bSVidWQ2sJm792m4CyXHmANYaoMmC1IGdBZqMRR1IJKzOLdRhkmaTBVwgnzRCE7GVcZ0V6tD6OUz8adL+n/IogqP28fIfNpMx+w==",
+      "is_continuation": true,
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "21ff1f8915cfa29b54cd539af03f4e38",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. RF 80 0 -6 bar 217 202 G1/2B 80 31 20 72 11,7 0,25 RF 80 0-10bar 227 283 G1/2B 80 31 20 72 11,7 0,25 RF 80 0 -25 bar 248 314 G1/2B 80 31 20 72 11,7 0,25",
+    "metadata": {
+      "text_as_html": "<table><tr><td>RF 80</td><td>0 -6 bar</td><td>217 202</td><td>G1/2B</td><td>80</td><td>31</td><td>20</td><td>72</td><td>11,7</td><td>0,25</td></tr><tr><td>RF 80</td><td>0-10bar</td><td>227 283</td><td>G1/2B</td><td>80</td><td>31</td><td>20</td><td>72</td><td>11,7</td><td>0,25</td></tr><tr><td>RF 80</td><td>0 -25 bar</td><td>248 314</td><td>G1/2B</td><td>80</td><td>31</td><td>20</td><td>72</td><td>11,7</td><td>0,25</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "225707_Manometer_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWVtvozgU/itHPCfFGHNbdSNtNLt9WFWqVt2ntkIOOA073AREs1XV/742GMIldBztZHiKwf7Mdy72ueTpXWMxS1ha+VGo/QKax1zm7Gxnv9uxkO32LGB723JsJ7AQdRHWVqAlrKIhrShf/66JgV9mxyJg7TPzg4Lxn3pDwyEEIcfD+AYJcD2fZGG0jz5ZkBdZwMrytMLwiO2ZNw5xkGuKZTkrkqgsoywtfUnm6V3jGwsapokR+XjhywoWZEXox1lAq6yoGea0Ooht9b9LVpR6EQUBLUIOLKuCVlGpP7wFB1okD0X2DwuqUg+P6Wvp51mgh1lwFMoq11nKdIwtBzn+PU0zrhJW+F+2/pebPNxrHx/80/soZilNBB9tfqlcWL3l9UKa53HEuXK5dDkd0/T1SF9ZKUTUWPqqCcFy/sZPj8mOCalM/qZi/1Y+Lf1DlcRiq9uK7mK2ua0OjIb8pxBDKLJvZU7TX581/KxtHt/yW706nJm5Z9s18M1ZFBxmlmy5xlgcr4HTSFgxs+q3tAwO8XHbTQdZLKctPv17lO7oMaFbBk9J8jKzyR37xnlU8PQ1blbotTi1SBvagja7bhR0o9GgBuqtTnZZ+Cb3CTd/PoCL+FxYPyFYA7Yg2dGie4cNBwxkdM93ho633VMPTMyVeUKd3tteNzTIyj19bEWa8Umuc3wIGvJBngcIu4vxsUd8DGSC7TmL8THQWEEuBuQuZzBjqiHCCZmLEcLWWEOOA6ZnL+jSZzRkouV8yJ4SMsFB1s8jxL3481uIuGAaeIZQH03IOT7uSbmGtbJ7fCwlPuNbqOEzd8iuz2d8xho+aDE+k1sIYwTIIssRmmqIH3qynAdNbiFMCNiLuvSYkInAduYi68/w6YkPOUDsuWvxBxP664/Brbg2BvehwZMORyGEmcY5Ig7u7bRyekSwCpOVPdaKQRSi1zW44JU1Tg6xSnJ4BS6wJjCI6hYGYijErKtwsWGql7mzfW1/QWN3wSrZ11XUwuP4NEzNRYUfT2ZwxQyPNOYh3cXeDJU+EHsr6xwbt8+mx8VUoTI604KMqRK+r0FmfKhrI815zJXJjE81JgY/1QuZaXKs6wi5mM+gST5jzYWBqytmcrAtwJ5K7vB/2OiyeaE3bR7tQ7aAROvn8S2He/Z8RCjcr6Hr08hWTPMe2s5L89i0X6BttMjOj2ztAIUdBBACX/X19QXqqgl6tQnIzgjcARcWtmJalEP84gfbA1H2AC93ekBZRIBsYagDZS4LstegDmzTcpBNgQuQp2/W1bs6sk10QZbZl+in901eD1+ioJ6GeOGqgBSqGVizqTA7pJjnGToHutzMPH3kQKsPbK0pS0F1oD0AInVgZ01ZXF2APH2zroLUkZ01ZblyiX5aZFNXXKKgTs66APgOsk46GjGh9oEmWe/7gGkIkINBpA0g0oU+alXf8iATa2UcD5vQ3gN4eA98iqsDHMh0VRll976F1WVDnWjYVVYJloI12dr3UZ2bSVidWQ2sJm792m4CyXHmANYaoMmC1IGdBZqMRR1IJKzOLdRhkmaTBVwgnzRCE7GVcZ0V6tD6OUz8adL+n/IogqP28fIfNpMx+w==",
+      "is_continuation": true,
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f7f9007ee94e75f3d43434014bb50e70",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. RF 100 0-1bar 240 829 G1/2B 100 29,5 20 82 11 0,3 RF 100 0-1,6bar 240 830 G1/2B 100 29,5 20 82 11 0,3 RF 100 0-2,5bar 248 313 G1/2B 100 29,5 20 82 11 0,3",
+    "metadata": {
+      "text_as_html": "<table><tr><td>RF 100</td><td>0-1bar</td><td>240 829</td><td>G1/2B</td><td>100</td><td>29,5</td><td>20</td><td>82</td><td>11</td><td>0,3</td></tr><tr><td>RF 100</td><td>0-1,6bar</td><td>240 830</td><td>G1/2B</td><td>100</td><td>29,5</td><td>20</td><td>82</td><td>11</td><td>0,3</td></tr><tr><td>RF 100</td><td>0-2,5bar</td><td>248 313</td><td>G1/2B</td><td>100</td><td>29,5</td><td>20</td><td>82</td><td>11</td><td>0,3</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "225707_Manometer_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWVtvozgU/itHPCfFGHNbdSNtNLt9WFWqVt2ntkIOOA073AREs1XV/742GMIldBztZHiKwf7Mdy72ueTpXWMxS1ha+VGo/QKax1zm7Gxnv9uxkO32LGB723JsJ7AQdRHWVqAlrKIhrShf/66JgV9mxyJg7TPzg4Lxn3pDwyEEIcfD+AYJcD2fZGG0jz5ZkBdZwMrytMLwiO2ZNw5xkGuKZTkrkqgsoywtfUnm6V3jGwsapokR+XjhywoWZEXox1lAq6yoGea0Ooht9b9LVpR6EQUBLUIOLKuCVlGpP7wFB1okD0X2DwuqUg+P6Wvp51mgh1lwFMoq11nKdIwtBzn+PU0zrhJW+F+2/pebPNxrHx/80/soZilNBB9tfqlcWL3l9UKa53HEuXK5dDkd0/T1SF9ZKUTUWPqqCcFy/sZPj8mOCalM/qZi/1Y+Lf1DlcRiq9uK7mK2ua0OjIb8pxBDKLJvZU7TX581/KxtHt/yW706nJm5Z9s18M1ZFBxmlmy5xlgcr4HTSFgxs+q3tAwO8XHbTQdZLKctPv17lO7oMaFbBk9J8jKzyR37xnlU8PQ1blbotTi1SBvagja7bhR0o9GgBuqtTnZZ+Cb3CTd/PoCL+FxYPyFYA7Yg2dGie4cNBwxkdM93ho633VMPTMyVeUKd3tteNzTIyj19bEWa8Umuc3wIGvJBngcIu4vxsUd8DGSC7TmL8THQWEEuBuQuZzBjqiHCCZmLEcLWWEOOA6ZnL+jSZzRkouV8yJ4SMsFB1s8jxL3481uIuGAaeIZQH03IOT7uSbmGtbJ7fCwlPuNbqOEzd8iuz2d8xho+aDE+k1sIYwTIIssRmmqIH3qynAdNbiFMCNiLuvSYkInAduYi68/w6YkPOUDsuWvxBxP664/Brbg2BvehwZMORyGEmcY5Ig7u7bRyekSwCpOVPdaKQRSi1zW44JU1Tg6xSnJ4BS6wJjCI6hYGYijErKtwsWGql7mzfW1/QWN3wSrZ11XUwuP4NEzNRYUfT2ZwxQyPNOYh3cXeDJU+EHsr6xwbt8+mx8VUoTI604KMqRK+r0FmfKhrI815zJXJjE81JgY/1QuZaXKs6wi5mM+gST5jzYWBqytmcrAtwJ5K7vB/2OiyeaE3bR7tQ7aAROvn8S2He/Z8RCjcr6Hr08hWTPMe2s5L89i0X6BttMjOj2ztAIUdBBACX/X19QXqqgl6tQnIzgjcARcWtmJalEP84gfbA1H2AC93ekBZRIBsYagDZS4LstegDmzTcpBNgQuQp2/W1bs6sk10QZbZl+in901eD1+ioJ6GeOGqgBSqGVizqTA7pJjnGToHutzMPH3kQKsPbK0pS0F1oD0AInVgZ01ZXF2APH2zroLUkZ01ZblyiX5aZFNXXKKgTs66APgOsk46GjGh9oEmWe/7gGkIkINBpA0g0oU+alXf8iATa2UcD5vQ3gN4eA98iqsDHMh0VRll976F1WVDnWjYVVYJloI12dr3UZ2bSVidWQ2sJm792m4CyXHmANYaoMmC1IGdBZqMRR1IJKzOLdRhkmaTBVwgnzRCE7GVcZ0V6tD6OUz8adL+n/IogqP28fIfNpMx+w==",
+      "is_continuation": true,
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "207dc60959bb26764a3d5608ccdbf480",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. RF 100 0 -4 bar 241 419 G1/2B 100 29,5 20 82 11 0,3 RF 100 0 -6 bar 230 679 G1/2B 100 29,5 20 82 11 0,3 RF 100 0-10bar 247 356 G1/2B 100 29,5 20 82 11 0,3",
+    "metadata": {
+      "text_as_html": "<table><tr><td>RF 100</td><td>0 -4 bar</td><td>241 419</td><td>G1/2B</td><td>100</td><td>29,5</td><td>20</td><td>82</td><td>11</td><td>0,3</td></tr><tr><td>RF 100</td><td>0 -6 bar</td><td>230 679</td><td>G1/2B</td><td>100</td><td>29,5</td><td>20</td><td>82</td><td>11</td><td>0,3</td></tr><tr><td>RF 100</td><td>0-10bar</td><td>247 356</td><td>G1/2B</td><td>100</td><td>29,5</td><td>20</td><td>82</td><td>11</td><td>0,3</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "225707_Manometer_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWVtvozgU/itHPCfFGHNbdSNtNLt9WFWqVt2ntkIOOA073AREs1XV/742GMIldBztZHiKwf7Mdy72ueTpXWMxS1ha+VGo/QKax1zm7Gxnv9uxkO32LGB723JsJ7AQdRHWVqAlrKIhrShf/66JgV9mxyJg7TPzg4Lxn3pDwyEEIcfD+AYJcD2fZGG0jz5ZkBdZwMrytMLwiO2ZNw5xkGuKZTkrkqgsoywtfUnm6V3jGwsapokR+XjhywoWZEXox1lAq6yoGea0Ooht9b9LVpR6EQUBLUIOLKuCVlGpP7wFB1okD0X2DwuqUg+P6Wvp51mgh1lwFMoq11nKdIwtBzn+PU0zrhJW+F+2/pebPNxrHx/80/soZilNBB9tfqlcWL3l9UKa53HEuXK5dDkd0/T1SF9ZKUTUWPqqCcFy/sZPj8mOCalM/qZi/1Y+Lf1DlcRiq9uK7mK2ua0OjIb8pxBDKLJvZU7TX581/KxtHt/yW706nJm5Z9s18M1ZFBxmlmy5xlgcr4HTSFgxs+q3tAwO8XHbTQdZLKctPv17lO7oMaFbBk9J8jKzyR37xnlU8PQ1blbotTi1SBvagja7bhR0o9GgBuqtTnZZ+Cb3CTd/PoCL+FxYPyFYA7Yg2dGie4cNBwxkdM93ho633VMPTMyVeUKd3tteNzTIyj19bEWa8Umuc3wIGvJBngcIu4vxsUd8DGSC7TmL8THQWEEuBuQuZzBjqiHCCZmLEcLWWEOOA6ZnL+jSZzRkouV8yJ4SMsFB1s8jxL3481uIuGAaeIZQH03IOT7uSbmGtbJ7fCwlPuNbqOEzd8iuz2d8xho+aDE+k1sIYwTIIssRmmqIH3qynAdNbiFMCNiLuvSYkInAduYi68/w6YkPOUDsuWvxBxP664/Brbg2BvehwZMORyGEmcY5Ig7u7bRyekSwCpOVPdaKQRSi1zW44JU1Tg6xSnJ4BS6wJjCI6hYGYijErKtwsWGql7mzfW1/QWN3wSrZ11XUwuP4NEzNRYUfT2ZwxQyPNOYh3cXeDJU+EHsr6xwbt8+mx8VUoTI604KMqRK+r0FmfKhrI815zJXJjE81JgY/1QuZaXKs6wi5mM+gST5jzYWBqytmcrAtwJ5K7vB/2OiyeaE3bR7tQ7aAROvn8S2He/Z8RCjcr6Hr08hWTPMe2s5L89i0X6BttMjOj2ztAIUdBBACX/X19QXqqgl6tQnIzgjcARcWtmJalEP84gfbA1H2AC93ekBZRIBsYagDZS4LstegDmzTcpBNgQuQp2/W1bs6sk10QZbZl+in901eD1+ioJ6GeOGqgBSqGVizqTA7pJjnGToHutzMPH3kQKsPbK0pS0F1oD0AInVgZ01ZXF2APH2zroLUkZ01ZblyiX5aZFNXXKKgTs66APgOsk46GjGh9oEmWe/7gGkIkINBpA0g0oU+alXf8iATa2UcD5vQ3gN4eA98iqsDHMh0VRll976F1WVDnWjYVVYJloI12dr3UZ2bSVidWQ2sJm792m4CyXHmANYaoMmC1IGdBZqMRR1IJKzOLdRhkmaTBVwgnzRCE7GVcZ0V6tD6OUz8adL+n/IogqP28fIfNpMx+w==",
+      "is_continuation": true,
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "8164a0c53519dda656b2e9146fce2b24",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. RF 100 0 -25 bar 245 298 G1/2B 100 29,5 20 82 11 0,3",
+    "metadata": {
+      "text_as_html": "<table><tr><td>RF 100</td><td>0 -25 bar</td><td>245 298</td><td>G1/2B</td><td>100</td><td>29,5</td><td>20</td><td>82</td><td>11</td><td>0,3</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "225707_Manometer_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFWVtvozgU/itHPCfFGHNbdSNtNLt9WFWqVt2ntkIOOA073AREs1XV/742GMIldBztZHiKwf7Mdy72ueTpXWMxS1ha+VGo/QKax1zm7Gxnv9uxkO32LGB723JsJ7AQdRHWVqAlrKIhrShf/66JgV9mxyJg7TPzg4Lxn3pDwyEEIcfD+AYJcD2fZGG0jz5ZkBdZwMrytMLwiO2ZNw5xkGuKZTkrkqgsoywtfUnm6V3jGwsapokR+XjhywoWZEXox1lAq6yoGea0Ooht9b9LVpR6EQUBLUIOLKuCVlGpP7wFB1okD0X2DwuqUg+P6Wvp51mgh1lwFMoq11nKdIwtBzn+PU0zrhJW+F+2/pebPNxrHx/80/soZilNBB9tfqlcWL3l9UKa53HEuXK5dDkd0/T1SF9ZKUTUWPqqCcFy/sZPj8mOCalM/qZi/1Y+Lf1DlcRiq9uK7mK2ua0OjIb8pxBDKLJvZU7TX581/KxtHt/yW706nJm5Z9s18M1ZFBxmlmy5xlgcr4HTSFgxs+q3tAwO8XHbTQdZLKctPv17lO7oMaFbBk9J8jKzyR37xnlU8PQ1blbotTi1SBvagja7bhR0o9GgBuqtTnZZ+Cb3CTd/PoCL+FxYPyFYA7Yg2dGie4cNBwxkdM93ho633VMPTMyVeUKd3tteNzTIyj19bEWa8Umuc3wIGvJBngcIu4vxsUd8DGSC7TmL8THQWEEuBuQuZzBjqiHCCZmLEcLWWEOOA6ZnL+jSZzRkouV8yJ4SMsFB1s8jxL3481uIuGAaeIZQH03IOT7uSbmGtbJ7fCwlPuNbqOEzd8iuz2d8xho+aDE+k1sIYwTIIssRmmqIH3qynAdNbiFMCNiLuvSYkInAduYi68/w6YkPOUDsuWvxBxP664/Brbg2BvehwZMORyGEmcY5Ig7u7bRyekSwCpOVPdaKQRSi1zW44JU1Tg6xSnJ4BS6wJjCI6hYGYijErKtwsWGql7mzfW1/QWN3wSrZ11XUwuP4NEzNRYUfT2ZwxQyPNOYh3cXeDJU+EHsr6xwbt8+mx8VUoTI604KMqRK+r0FmfKhrI815zJXJjE81JgY/1QuZaXKs6wi5mM+gST5jzYWBqytmcrAtwJ5K7vB/2OiyeaE3bR7tQ7aAROvn8S2He/Z8RCjcr6Hr08hWTPMe2s5L89i0X6BttMjOj2ztAIUdBBACX/X19QXqqgl6tQnIzgjcARcWtmJalEP84gfbA1H2AC93ekBZRIBsYagDZS4LstegDmzTcpBNgQuQp2/W1bs6sk10QZbZl+in901eD1+ioJ6GeOGqgBSqGVizqTA7pJjnGToHutzMPH3kQKsPbK0pS0F1oD0AInVgZ01ZXF2APH2zroLUkZ01ZblyiX5aZFNXXKKgTs66APgOsk46GjGh9oEmWe/7gGkIkINBpA0g0oU+alXf8iATa2UcD5vQ3gN4eA98iqsDHMh0VRll976F1WVDnWjYVVYJloI12dr3UZ2bSVidWQ2sJm792m4CyXHmANYaoMmC1IGdBZqMRR1IJKzOLdRhkmaTBVwgnzRCE7GVcZ0V6tD6OUz8adL+n/IogqP28fIfNpMx+w==",
+      "is_continuation": true,
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "8d8c9f81bd17509d522859d47c67b8b7",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. Zubehor\n\nBestell- nummer\n\nDruckknopfhahn DKH\n\n033 621\n\nManometerabsperrventil MAV 230 762\n\n    \n\nTechnik\n\nDKH: Handbetätigtes Absperrorgan zwischen Meßleitung und Manometer nach DIN 3537-1. Im Normalzustand ist der Druckknopfhahn geschlossen. Das Manometer ist dadurch dauerhaft druckentlastet. Der Druckknopf wird betätigt, um das Manometer mit Druck zu beaufschlagen und den Betriebs- druck anzuzeigen.\n\nMAV: Handbetätigtes Absperr- oder Drosselorgan zwischen Meßleitung und Manometer nach DIN 16270.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225707_Manometer_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztV01v2zgQ/SuEzrVNivpibw18SFAk6CG7h+0WwpAcWtroCyTVbh3kv+/IyXaTohvAPSWFdaFMvhnO45sxRx9vE+ywxyHWrU3esoSDQKWdqUSuKu2cQ4VaaO1EYStl8uQNS3qMYCEC4W+T5aUO4+wN/vsba+ORhoNDUWYZ56VK0zVfjA/r/Whb1z4DmPxoMIT/EEJlhZLrMit5JRfYhL5vQ2jHIdQPwXy8TcjxEoaUKc/uPhHMoxm9rbvRQBz9IcIJYrO43fwW0IeNb40Bb8kwRA+xDZsPX00Dvv/gx7/QxLCx87AL9TSajR3NvBxWWI0DbtI0L3lZX8Iw0pGgr7dn9XY9WZfc3dHWru1wgH6JJ/l/6AMwfp0OQJimrqVYidfmYbmDYTfDDsNCMcFhlyzEJpqph7nXuLCSy4YR/46Ljz9mjQ2RXaYe3F6BX7h9xusFQ+DvdRdWpOhKTfoL0GidUMLoskgLZQpdnXR/BbqfERPsuhWj5R6P059jVlYcHC9LmWuRgnOFsmkpoDCZKE/6vwL9t342NzfDOLkGmoFt358flQKgAMGkSnAuMqi0cMYqZUSeO6WV1acUePkpwKVkRSqO0l1DSRc+6cArIYVxVWZyByJPSX9d5tVJ95ev+7ddQAc6Jv+ZIm47dvnud5ZKzugePyolsiqvhOOyQF2qQmvBJVZao6oUCoTTX8ErSAlGz2PRL3rC/khs1NpwlJnjVaWhoj6gVBmXoJzIM13Ik9gvX+xrNM3Q3jzW+7qN3Q/1djyXuhKpQmUyleYZfeNJrg1ACkrm7qT3y9T7MOOPqNsnveH787fsHAarMf45c2r3Y7uLGNi7+wtj9DsY2P5LG0yDA7vEBWRdh22ko2HzYNk3ZmwA07DtxRWTuSxXYs0uenY1+h66/RwibcLaEJkl5HctKTE0TTeS6sOabSE88nmwAEtJ1tA4o2/A0cxiT5Q7oE+bSDZPfLIvrbfsCaM3bO7J/rHnvo33Nmw/ExhmtwRBZzscaFkazzD6FnVY3W/IYNjPe2wJsj6ulZLOFlIbpPrKqZESggrMpLkpNTjr+Km0fsHSoibr2dJasfG+FJa8736u0ESRlvy5XPz0D3Z4T+w=",
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "2ee590581a09139e89ee927c2220d525",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. Anwendung\n\nGeeignet für Gase der Gasfamilien 1, 2, 3 und sonstige neutrale gasförmige Medien.\n\nZulassung\n\nEG-Baumusterprüfbescheinigung nach EG-Gasgeräterichtlinie:\n\nCE-0085 AQ 0985\n\nDKH\n\nDVGW-Baumusterprüfzertifikat:\n\nDKH\n\nDG-4315 AO 0724\n\nMAV\n\nDG-4315 BO 0429\n\nManometer Druckknopfhahn Manometerabsperrventil\n\nDUNGS® Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225707_Manometer_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztmF1v2zYUhv+KoOsk5jfF3iV14Q5Dug5rO2BdYRweHtpaZMnQR9cuyH8f5SWbE2RLfecFurFl8+Xh4TmPXlr+eJ1TRRuq+2UZ8hdZbrUrUEVdeGEloRKAQdlAHplmwGV+kuUb6iFAD0l/nY8Xy64ZWqS7z7TEltLbLiC3SjFmnRBnbJy8G980oYzlfwi2bYPUdf8ouFPGyTOrLCt2SWyp3ZRdVzZ1t7xN5uN1ngKPaUgpmLr5lGQtYdOGZdUg9E27y3AL/XoMO3vfUdvN2hIR2pAmdn0LfdnN3n7FNbSbt23zG2HfzcJQr7rltsFZaHAYi9WdNjXNhNCW2eUl1E0qCbXL+cVyfrYNMb+5SUvHsqIaNmM++b9Lb4X91+1OCNttVaZc075mt8MV1KsBVtSNW8ypXuXjxrbpm2U9bDyNu5Ljgj196ccY5/XvVI9Jj7PvAr8r+4ryJHvYcQ1IBYDhKkSrWKGkN0x4kIqkjkWYOn6cHd990x5w5+4jsiAqVzX1Wfx1YCximy2goyzQ7iLCpqxKqjN+komTTGZDHbIu1b0vV5TVNKSyVZStknI33aTGpIFLCmnS2T51b6AdK/yZ3o0LP0afi+ijUsZCQCMl55YDJgipYAVXdqLvOOnbh+mXoYKu+1a/iYWRwmgWbMGE1iSiiciDdt6Rl0FMHT/Ojj/0myfv3H1EXi1OL2DYDF3KbNv+5TnRU4drKutylbaf1YDrLOmS/6xoJyGV1CWu+ypp6MVBvhIUB82EcICIhlQInPHUZKU1U3rylWdJ2ctXp4wVOjv/MWOu0AcB44iMR+mcllaDKAh14I5hsN4XzsQJmOMEZr//8+9ff9MR5BwGzj0wikIbX2jOESRYT4Irx9zU6+Ps9UNzePKevQfHh8XPjxxCf1DbpzZdQX/YAaPJpPKjdkDCoCm0KKRXRlpHQUo9PSg/S4buG8zTkHDPoktWgxSARQpktUb03iT30QQTJM8RksWpkjz9CvkhY1aog4ARArUh5jQ3jJCJdCgVwUsBjgnyMAHzHIG5PP9wECQEFK1HJMNkAJ+aJ5UR3lgeIgvMTJA8Q0juXOUiuYoS7iBguEEUzATQwDgaLo0N0Rnn0ksR1fSXy3ECo+6ZxN0q2bwd8OqqbrZxDes6+3sAfJfq135OWymrfT5eE4QU8LHjJnBNzss0joXFqAtuDIQQOSQ7wQmM/wEY8/dvFj+NDzNA2ctm49PjTQqXLuu+bapuH4TvNilMfvPpT8AkzPc=",
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "e437d0cfdcae6cee5f425abd28471fd0",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. Technische Daten DKH MAV Anschluß Rp 1/2 G 1/2 / G 1/2 B Max. Betriebsdruck 5 bar (500 kPa) 100 bar (10.000 kPa) Temperaturbreich -15 °C … +70 °C -5 °C … +60 °C Gehäuse Messing vernickelt Messing",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Technische Daten</td><td>DKH</td><td>MAV</td></tr><tr><td>AnschluB</td><td>Rp 1/2</td><td>G1/2/G1/2B</td></tr><tr><td>Max. Betriebsdruck</td><td>5 bar (500 kPa)</td><td>100 bar (10.000 kPa)</td></tr><tr><td>Temperaturbreich</td><td>-15°C ... +70°C</td><td>-5°C ... +60°C</td></tr><tr><td>Gehéause</td><td>Messing vernickelt</td><td>Messing</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "225707_Manometer_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9UmFr2zAQ/StCnza2WorjxMkIgWaBDkYgjG5f2mJk6RJrtSUjyaMl5L9Xcm23SbZ9kXT33j2d3unugKGECpTLpMBfEJ6xCaQ0ZvE8BgCeTyGfQTpmcTJL0hnM8WeEK3BMMMc8/4DDIbO6MRz6GDJuwG+t4ChNEkrTeRxHNBS3eKWF3Mn/EGqjOVj7xhjNk+l8HKVJSmfjQKvBVNJaqZXNumbuDtgLhzbG45gmxwdPM8C1EVmpOXPatB3WzBVBlvy0YCwxknNmhC+0zjAnLdk+84KZamv0b+DOEtGovc1qzYnQvAlm2SutgMTxJKVptmFKe0vAZOtVto5qscPHo796J0tQrAr94H9TO6J7rlsiq+tS+l79u0gHl0ztG7YHG56IQe1xeFjtM5lqqhzCqxKfcfDkMmazwlVlkFo4lpewXLgCmPCbCcflLfBCScsLQGvvtFoQnwzA+vu34by5/vV6JqGK9Aq5Fs+dkFheKy9SNisPizbxo0YjEg/hjQ9IWDpGK9XVbthThFbgjITcCtPwx6FsgnJm0IcJpehxyz4O+ZFPtMiIRvQEfC98C5X/GMw1JjcgeTGUX40m9w2lOf2KoihCn1LahW+MU8L0lPD+khsoAgZz1lgY6jf+v0q1R3/AKMkfoXTn0Dsl0nlJXmeEj938wtzOJ4T8ZJCfCOocD3eLHXq1G920K+n2Fbq0Fp1Ziv5mJTp3DnnHUO/IfRPTeBpcG1JXl+j0De0tSrxD6NKZPhW+d//zb4MT+PjwAntAbMk=",
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "8be86896636c5876af3b6fd1db5c79c6",
+    "text": "Dieser Text ist für Produt: Manometer. Produkt ID: 225707. Der Dokumentyp is Datenblatt. Einbaumaße DKH [mm]\n\nEinbaumaBe MAV [mm]\n\n64  Rp 1/2\"  5  ,  1  7  Rp 1/2\" \n\nF  2  L  S1  A  L1 \n\nÄnderungen, die dem technischen Fortschritt dienen, vorbehalten.\n\nHausadresse\n\nKarl Dungs GmbH & Co. KG\n\nSiemensstraße 6-10\n\nD-73660 Urbach, Germany\n\nTelefon +49 (0)7181-804-0\n\nTelefax +49 (0)7181-804-166\n\nBriefadresse\n\nKarl Dungs GmbH & Co. KG\n\nPostfach 12 29\n\nD-73602 Schorndorf, Germany e-mail info@dungs.com Internet www.dungs.com\n\n4 … 4",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225707_Manometer_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.747083",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225707_Manometer_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztl99PHDcQx/8Vax+qVoU7//7Rp4bSQEQToUL6Aug0tsfcVre7J+9eCEL87/USSFGbVrmqD4e0T+fzjsdjfz8az1zcVbjCBtthUcfqB1Ipb5ELD4ZRy5TkDgNXGGPi1sREfbVHqgYHiDBAsb+rxsGi7zY54NN/XISM5efBITNSUmoc5zM6Ln743nSxTvW/GKxzF7Dv/7RgTmonZkYaasVotsbc1H1fd22/eAzm4q4qjscwhOBU3l8Vs4yhy3Gx6gIMXX6IcA3DcnQ7f99j7ue5DgFyLAv7IcNQ9/PT27CE3Jzm7ncMQz+Pm/a6X6y7MI9d2IyX1e93Lc45V4aaxVtou3IlmBeHB4vD2Tqm6v6+bJ3qFbbQjPFU/2z6aDjcrh8MYb1e1SXWcq754+cVtNcbuMZ+PGKF7XU1HmxdZhbtpvE4nkqOGw74cRh9/Fy3HjYNXG4ojQnJ4ckxuWiaq9HZ0z7n9bDCqqz6KwBeBCN14BCVDNJS6oJUOrhYNIrG8AmAlwPAAZK3r377eu2TFkVuExiXwQrDkHuuALlGTJRZmLTffe21JOTXNWFzflkRogjZI4QRYp7NPmfhTVNcfYmFaLjinqrAkgGMTHqfeLQJuHMOnZ5Y2H0WXhPCCfmFkLNCwKsyYl+nPZoUjZJGcKGEM6zcIVXGUTDalYzAJu13X/vx8Q+yjZhL4NjukVgjidiQAcOyrfuwxJa87vJQRrkehvF7O9p96LLHJawGbGfPaXkHebyZD3g+7vCljMGks15rbqwDI6L3UiZHJQ9a+lJATtTsPjXHsOkh5vH+ttJepfJGpOhVSRMsRCm4R6q5sIDWaRkn7Xdf+xPIK3I4Bk2OGn9MviE/dTNycrQVCDQZJSwtTaORVHjLodQPiYEEZjCqNIGw+yCc1aOi/XicpxZS7zO6FQdAldY+GjQSEncpOht4CopqxSMzEwcvgIPDfSO0puR99hCWe+SoXBW0t1txkMAxmZC56CCk8iAELqPWQnIs3YSdioIXwMF5kTR1LfleOvIt/c4wy/YtlfvbZYSApYeAQA0V1nvGlbbSMGFSyQmc8SkjvBQS4OPfSGBab5cVhI4iSMaZtElFVNIzB04CTwypkxMLu8/CQa4LC/+hVygNIQbqSi2QeLLKQ6TOASqBPAkfcRJ/98X/X3qFBFwFZOC9ccBQOURGI5RiATlFnGqDFwDCadcPqVSHhHHC3XYFgXUxGsG1wugpVcEmr8sImQ4MPjmb5N9t+R9aBMrJWVh2uY1dTp/bBIL7DdQrUrep+/HhXLPQNeRNW2JqcSA3Nzezz9NbgSNSlOWhEEF7xSRYH0MUotSU3miq2QTOCwBHkssNp1wT+Vz607Lg3Sf7+6s/AJVqRQ8=",
+      "product_id": "225707",
+      "product_name": "Manometer",
+      "document_type": "Datenblatt",
+      "product_category": "Manometer"
+    }
+  }
+]

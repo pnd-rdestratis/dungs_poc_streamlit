@@ -1,0 +1,481 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "ee921a51c5f7c4227a04063057a501ab",
+    "text": "Dieser Text ist für Produt: Magnetventil_LV. Produkt ID: 257655. Der Dokumentyp is Datenblatt. Luft-Magnetventile, einstufig\n\nLv-D/4\n\nLv-D/5\n\n6.50\n\nDUNGS Combustion Controls\n\nA = = | A 78 W = N 5\n\n5 5 6 7 5 2 . r N • 6 1 . 6 0 n o i t i d E • y n a m r e G n i d e t n i r P\n\n1 … 4\n\nTechnik\n\nDas DUNGS Luft-Magnetventil LV-D/4, LV-D/5 ist ein einstufiges automatisches Absperrventil für Kaltluftbetrieb an Industriebrennern:\n\n- max. Betriebsdruck bis 200 mbar (20 kPa)\n\n'\n\nstromlos geschlossen\n\n'\n\nschnell 6ffnend\n\n- Hauptmenge einstellbar",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/257655_Magnetventil_LV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.761974",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "257655_Magnetventil_LV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmFlvGzcQgP8KoZe2QGzxPgL0IamLNKhrGGiSPiSBMCSH8tZ7CHsYSdP8987aDuK0blo9ylgI0g7JmeGxn4Ycvv6wwhobbMdNlVeP2UoF6aRLydgkCxanbABtS0xcQFCyrB6xVYMjZBiB9D+sZmEzdFOf8FMZN6lHelw7FE5rzl2Q/pjPxtftTZerUn1FYdd3CYfhs4YI2gZ17KwITs9qO+ybahiqrh02t4N5/WFFjudhKCW5/viW1HpMXZ83dZdg7PrrEe5gvJjdrl8O2A/rvkoJ+kyGw9jDWA3r8/fpAvrmvO9+xzQO6zy122Gz69I6d2maF2s46lpcS+OsMZtfYNvieEXVVb05fbU5ebo5Od7lsvr4kQZQqhpbaOZRrf7L4FZ9fL+7Vofdrq5o3DTH9W1zDe12gi0O83RX2G5X8yR3VLNppybiPEMxdzviu3H2cTqV8ehuh/iIYdUO41Sq7ezxU2dn0M+zv8IXsyW5+DsZxEVKWbkCYISWWuVkHGgTeIKUpV/IODAyro5O1no/BIKMImqpPFpAtNZEA5JACJwjCL0gcIAImL0QyFp5IYrEIEyIXvioSykcTEItZIgLAoeFgD02fC8AbESRQBYpgeK+MzIb5Y2TketolDALAIcFwMnLs2e/sh+6Jk7D7IjEduy7erhLxfOGHNy7I9ioghYRozZ6jgXChYhQwApF8hIODoyGJ+x7+vzJnjDn2W8knjHzv0DAYLMw3jklNc+07pi8EjqlKAxmveQNBwaCYYZZ5uhXsmPWEwdvJsmlpEpBFZZx1rKOVWykb2Y/fmp+T9XAGrJA9ozkuRFJaZZ6dr7XVuNSMLxk1FZ6gV6mYjRGIVUxXEWvFqYOiylxA4llX2Qd52RwdqN/DwNBSSvRB1OKEQK1jhy9h0BuUGhYss4DY+AFpou2urwLwItqrO/dU5JyyjlXZDHZAmiKL4BKW09FX/hyuDiAd39d0+/xf/7ibAoDuzmf/uMai52+mq8vHt08DauGcb7X+ny3hQODaeyaeRXTBZWexIHeU39rXt5MnJfUs5+hHmvyHnHsK4wMWva8zXQWnks08Bb79vFe21ZED7FEBcoBJ2AjRMqLdBAZwQvjFmwfOLZHrIF3x+zpDVFD7qd0yWI1MMk5ayL07FvJ2eU5fLcXV4g6QhE2CB5tlFYkWSykQAmXNSksW+FD5+qbu7i8bKl73HZ99Qfmf0MmcJ+yizZ7HopOBo0qSRcnQ/HJm+XC9qEjQ4vQNXU3MOokXZAwYLtX0IFIG5dBpUISHgr6YikJyyVYJLD4koM9dIL2DzrRFpmsAp59QXLsICbJMVN/OnjLF2QeODIUaVqsa2ZLabHNe8WbAgG59SFrYbn2SshYjDbW8iSc8kvO99DhOWI/wbQbaZZbvMnmCCU6M3+Ford/ARlY+Gw=",
+      "product_id": "257655",
+      "product_name": "Magnetventil_LV",
+      "document_type": "Datenblatt",
+      "product_category": "Magnetventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fbd444aaf4d774a51bdf08f22a51a11c",
+    "text": "Dieser Text ist für Produt: Magnetventil_LV. Produkt ID: 257655. Der Dokumentyp is Datenblatt. - Gleichspannungsmagnet, Gleich- richterbeschaltung im Anschlußka- sten mit PG-Verschraubung\n\n- Endkontakt zur Überwachung der Ge- schlossenstellung des Ventils (…/5)\n\n- Rohrgewinde nach ISO 7/1\n\nFlanschanschluB nach DIN EN 1092-1\n\n'\n\n- funktionssicher, robust und wartungs- frei\n\n- Ausführungen buntmetallfrei auf Anfrage\n\nAnwendung\n\nDas Magnetventil wird zum Sichern, Begrenzen, Absperren und Freigeben der Luftzufuhr an Industriebrennern eingesetzt.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/257655_Magnetventil_LV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.761974",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "257655_Magnetventil_LV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmFtv2zYUgP8KoZdtQByT1IXi3hKkDQJ0WbC2eWkLgZdDW4tEGSTVrA7y33fopGgQbC3ythn2i0XykOf2iYfUh7sCBhjBp663xa+kUNoAVMKw2uqmqkxFHeeGOy6o5PgrjkgxQlJWJYXyd0V+6OI0BwNf29CZAPi3W5CJqqJUSN4e0zx5Nz5Otnf9dwQ2YTIQ4zcJJqtGlseiYVJUWWwDYexj7Ccfu0djPtwVuHA2oyw5re4/oVgAMwXbDZNRaQo7CzcqrfOyy/cRQlyG3hgVLE6MKajUx+XVF7NWYbwK059gUlza2a9it5nM0k5mzsGKi8nDkteiqevuN7XykD5jdz90b667s9Pu7HhjXXF/jwa4fgCvxmxV8aMJj+Lpy2YnrjaboUe70cfl4/Cg/GpWK4jZ3QL8qshObrCn8/OoIXvIdj3hW05lyRsOraydqxmDqtIU2lZJyhtglWqLbGeCv1IWXpDzAXqzjhvlfXZ83Fl79Ni9IBivdYKgIWKUhoQipB/JicfmMH+cKbXuRi1ITODJ2Cdydb64xjibdVCzRunsxlcPL1XIIf8M77J2NOM5jo5RKqlSEuEraWmp1YaBBMqVdqVpDzjuPY6vvL2ZfFI3iWznQHaEGVz6Vpl1hs9CIOeAwCF/E+bII3nD8DASyfXOrUh+/jhzVLCsf3kRf5YrxpkVvBWldlqZ0ja04oI7gNYqdeBv7/n7Y1qHFdz23gLxyBy5ePs7EUv2Io60UhwME8yaxrRQllXDSttK0RjRKKoPHO05R69RRS6YD2Xy9IGks4tL8uqSMDxaLV7GE57LGNIkoWqAI1VMg61rW9ZaY3EEOPC05zz99BSX9x7Vw2oK/RbsvyHDhXBYxFrhWmGtMw0yI61zVetqWYvDyX7fkVkQN/ubrBODa9YQjkiY9BwTmb0ltyrks3xEqQD9izYjrhqFBa1sNHIFgtqmUlQyib0SOD8Ut/0n62SOLp/MHV7z0HO8+uFVL+WkD0PmiajZ4R3RBdT6IrZq21oJmlPLETHBSqkbVluLKbXQyANb/wO2nqJy4m/B22efAd71aYB/yr6UFTXGlszVlDPluAEGjZOVlKVxlB6y/9/P/vOd5Ydv9FNczlQkTw0kt32wZDuP5O2uhPkjcgorXH0L+HiiIyYCW7uK9hr3nRVobOVPBG9ml7azm9eBKE8ukEEMcA8apT2uQ6DHbStC2qbj72xQn/4GOnq7Sg==",
+      "product_id": "257655",
+      "product_name": "Magnetventil_LV",
+      "document_type": "Datenblatt",
+      "product_category": "Magnetventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1b58b10d8163fa6a262461fa62fbafbe",
+    "text": "Dieser Text ist für Produt: Magnetventil_LV. Produkt ID: 257655. Der Dokumentyp is Datenblatt. LV-D/4 Einsatzgebiet für hohe Schalt- leistung z.B. gepulste Anwendungen (pulse firing).\n\nLV-D darf nicht für brennbare Gase eingesetzt werden; es sind aus- schließlich nichtbrennbare, inerte Medien zulässig!\n\nLV-D/4, LV-D/5\n\neinstufiges Magnetventil stromlos geschlossen, schnell öffnend, schnell schließend, manuelle Begrenzung der durchfließenden Luftmenge durch Hauptmengeneinstellung möglich\n\nTechnische Daten",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/257655_Magnetventil_LV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.761974",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "257655_Magnetventil_LV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztlUtv1DAQx7+KyQmkdtdJ7DzgRFUEh4KQKL0AivwYZ40SJ7IdHlv1uzNOC11xAFXigKCn7M6Mx/8Z/zTz7jKDAUZwsbM6e0yyWkgOWjY5B1BFK3mjKiaBUwYtN0WRHZFshCi0iALjL7P0owvT4hV8/w+d8oCfNWFeM0Zp3RbNhqbDq3+ctDX2FwGznxSEcBuRt6xqy01d5W3NUtgMfrQh2MmF7kbMu8sMEycZZVlQdvUBwzyoyetumJSIk18VziLuUtrt2wA+bL1VSniNB0P0Itqwff1V7YQfX/vpI6gYtnpxfejmSW31pJbUrHA8OdgWvK44716K3kH8hGY7dGcX3elJd7qZtcmurlCAsQM4MSZV2e8O3ITHr/MaLuZ5sKgba9zeuAfh+kX0EFK5Gbg+S0XOaOncMkpIFearxd++KdeNbkEWVBclq+q8bGWVc62xlRqqVmZJZ4QvMQWfXRyfbhl5Zl0Qcd+DtBCJeb9QapQnu2kH5A22Z4jHZAAbIvaG7DcnG9LDvAwhAnnqPoNLPQNHHiYbEGO9df2jTSrhe3WvhE/t/gTn6WaU8DOKAK3SOROFkE2Tt1XeNDw32MG2qCtt1D2K/wGKRAtviLNqd0ChxIxOYl7yXCBdgGxBgLiP5DN4De4JgUCCdZqIJRyToHaDhXRYG6xid53uR5IjYh14BPclaIvM7pchxQLDJ+0f3AnZUtYcOKuBtWUOWjCq2pJSTqGRdSXZPbJ/PbLFH5ieR2T98juxo2raCMUrA5TmrS54wQ3FpVtLY4yS+p6df5wdHGO4To3FO8ihUILdmcZhCrhi0yib8HXcUZpqDoaBrEOxMsbh0r21Hs681TEKt6ADyAn0qHCf9rYGTzTyszOHsTgCzxYTsds9XLvJC7HM1wa3qsRE6fx4fXefhuqdWDeNznlppIKmVpxJLaXK61aykuZCVfKe9b+f9UN0zwGxs8gckFNsrDuE4dzGAbKrD98A9Xb8sg==",
+      "product_id": "257655",
+      "product_name": "Magnetventil_LV",
+      "document_type": "Datenblatt",
+      "product_category": "Magnetventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "2ee51a19c24999f4e1dc7d5f07d04db7",
+    "text": "Dieser Text ist für Produt: Magnetventil_LV. Produkt ID: 257655. Der Dokumentyp is Datenblatt. Nennweite, DN 65 80 Rohrgewinde nach DIN 2999, Rp 1% 2 2% Flansche AnschluBflansche (PN 16) nach DIN EN 1092-1 Max. Betriebsdruck bis 200 mbar (20 kPa) SchlieBzeit <1s Offnungszeit <1s Hauptmenge einstellbar",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Nennweite, DN</td><td>65</td><td>80</td><td/></tr><tr><td>Rohrgewinde nach DIN 2999, Rp</td><td>1% 2 2%</td></tr><tr><td>Flansche</td><td>AnschluBflansche (PN 16) nach DIN EN 1092-1</td></tr><tr><td>Max. Betriebsdruck</td><td>bis 200 mbar (20 kPa)</td></tr><tr><td>SchlieBzeit</td><td>&lt;1s</td></tr><tr><td>Offnungszeit</td><td>&lt;1s</td></tr><tr><td>Hauptmenge</td><td>einstellbar</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "257655_Magnetventil_LV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/257655_Magnetventil_LV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.761974",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJydVwlv00gU/itPlrpqtUl9xM4BXaSGQEFAiSh0JQ5FY/s5no2P7MyY0qLy2/eNjyRtbFiqqqozfve87/uaT98NTDDFTC14aDwCA+0otFgQjGzXs12HMXc4GFujseUNo5EVDI0eGCkqFjLFyP67oR8WMi9EgM1nXAQC6U8Z0B65rmWNJs742NLO5fs0D3nEf2KwFnmAUm4t7Ik7nAyOR0N7MnK12RpFyqXkeSYXdTGfvhsUWJcxGDiWe/uFzAQGuQgXSR4wlYuywjVTsQ5rfpAopCl4EDARkqNUgikuzfl1EDORzkX+DwZKmmGRLeVinQdmmAeFHpbs5xmajjcaet7iDVtmqL7SMU8Wry8Xs+lidrwOI+P2lgqIeIIZS3VVxq8canN1vS7N2XqdcKqbejTr1wnLlgVbotTtGpgtDd3kmk4WWZH6qDt0yhOxvdNoHNreIPIDHI8Cz/VD3w/s0cR3B5bNgqGvAyv8phZMLmKVJtrnRDE/wScnys/Da/oj6Dd8co5ZdoVcYQ9m5ycmnejTobd5HFubx+rBLD0r73d5LJZ4xbMQIWNBDLOX5+BMJpMevFs3fhDkiVyz7K/PxuCz8cQ+AAecg/1gz2kUMoixw+9Uv0yKaVSbweH8HOzh0TbxM/psTZy+vR/7Dft2DFNUgqMvQ1EEq44sPpfgWBakPhNw6FiwmrOj/XgXVArH6Q1NriPQH4l6bMt9z7dRlOnte4DrC1asFS3rsmtEyDOpMEmo9n3vv1GspMqjCCFEAUsmI85jWqoQM3iPtKUdUc8w/lxYFk4KiY/gNClSnvEi7cGFYnHSgzcEa54t4Xz6DmY8iBW1h9mjlqFRTN07mPBc4L8FZjcdKX8cnj49AmdgXcLhn7YFB9C3PTg4egye1R9a8OIG+sCocoHQRKUuWBHBaRYJ1kxoN/tr5FJV2S+UyFMyzlicdnUtOdKOvSfgZgWhUOrG9oM+43oXWaJCVqDYIMW2dM3PZveg04ohWqVC3TDRtQ2e25I2wRXtsoaBgBoYHe4UXrDCX5Em0OqA4tQMzM/AtvUFYrD6isInAOvJ3EHSyCMy6Y+tQXlMyVTbWu1kc6tsNIyYZsuXK9pwSDXwaByWGbegEqd9KLIQPnKqgDaSVa0MuqjDdMvyXl68BccZg488lJSFL4GnQHexJDKt4E1dIl1ZD24KydQNsW4MWBv0oXY6g4Hp9oD5xH3gWnBYU1AL4D+kS/Q1bhWmJFRMFaKjSNpUDRffegqaTP4E2tenrZvjsyJhnWCuNAUoYUwYpZKzFUlfrMqoV4wcq4/EQ7T7YUuGLFzlmWKrrs1iuoJWrrgslWwtOI/ktW55s78ECLicvSo58hRSuuHTkK0V7RSVtbG6sByqS28aXXF9qVMat77AJqsWHNhRlzLy/IIQvrXZXzeRX9UdONTBR4JmnLfdBL29Z7sdB7x6S8tfAXxG/5tkfsKUAts5tmw4Q1GxHb2QGh/UBBGlAOIPTR8yzKUWy/so2fTh2LZD7Tu2NxoM9ke7c2LWUmxWymzc1qqt1fqOLtNMYOjRsOCnggs2/ZS7F2qJbR4bXW2IQh+H0f+QUdhXTWjVR6jksAqshQ1OqBJZFhAOdwSvPt8KGexIFrQolI4QBXdUCho9cn+hRztaVGpTi/zAD2iUBh4sNdClLLCjIVUjjZDAXd2ARi9gIwbwcg6eC21EX42ZaoJ73L7J8RB+r5xLkoeaxespt1A5zbiqoqbvynmXwusiK8g/gLOr3L9N3NDC0+WF7lFyc7DlYfhNxoUdRmkICxrmrCZSsyfcZU3Njtu7akbZNrgtV7ax4336rQgVSlIs4w/Fbo2vrG7WI9ICzVoN+7k75FeV+ksC1IwHRHnld4/6+857TWzG7Zf/AM6SvK0=",
+      "product_id": "257655",
+      "product_name": "Magnetventil_LV",
+      "document_type": "Datenblatt",
+      "product_category": "Magnetventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "1b08109c9b81d4cfe5a83fc6d68e2cfb",
+    "text": "Dieser Text ist für Produt: Magnetventil_LV. Produkt ID: 257655. Der Dokumentyp is Datenblatt. Werkstoffe der gasfiihrenden Teile Gehéuse: Aluminium, Stahl, Messing NBR Dichtungen: Spannung / Frequenz ~(AC) 230V (+10 % -15 %); 50-60 Hz - andere Spannungen auf Anfrage Leistung / Stromaufnahme siehe Typenubersicht Einschaltdauer 100 % ED Schutzart 54",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Werkstoffe der gasfiihrenden Teile</td><td>Gehéuse: Aluminium, Stahl, Messing NBR Dichtungen:</td></tr><tr><td>Spannung / Frequenz</td><td>~(AC) 230V (+10 % -15 %); 50-60 Hz - andere Spannungen auf Anfrage</td></tr><tr><td>Leistung / Stromaufnahme</td><td>siehe Typenubersicht</td></tr><tr><td>Einschaltdauer</td><td>100 % ED</td><td/><td/></tr><tr><td>Schutzart</td><td>54</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "257655_Magnetventil_LV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/257655_Magnetventil_LV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.761974",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJydVwlv00gU/itPlrpqtUl9xM4BXaSGQEFAiSh0JQ5FY/s5no2P7MyY0qLy2/eNjyRtbFiqqqozfve87/uaT98NTDDFTC14aDwCA+0otFgQjGzXs12HMXc4GFujseUNo5EVDI0eGCkqFjLFyP67oR8WMi9EgM1nXAQC6U8Z0B65rmWNJs742NLO5fs0D3nEf2KwFnmAUm4t7Ik7nAyOR0N7MnK12RpFyqXkeSYXdTGfvhsUWJcxGDiWe/uFzAQGuQgXSR4wlYuywjVTsQ5rfpAopCl4EDARkqNUgikuzfl1EDORzkX+DwZKmmGRLeVinQdmmAeFHpbs5xmajjcaet7iDVtmqL7SMU8Wry8Xs+lidrwOI+P2lgqIeIIZS3VVxq8canN1vS7N2XqdcKqbejTr1wnLlgVbotTtGpgtDd3kmk4WWZH6qDt0yhOxvdNoHNreIPIDHI8Cz/VD3w/s0cR3B5bNgqGvAyv8phZMLmKVJtrnRDE/wScnys/Da/oj6Dd8co5ZdoVcYQ9m5ycmnejTobd5HFubx+rBLD0r73d5LJZ4xbMQIWNBDLOX5+BMJpMevFs3fhDkiVyz7K/PxuCz8cQ+AAecg/1gz2kUMoixw+9Uv0yKaVSbweH8HOzh0TbxM/psTZy+vR/7Dft2DFNUgqMvQ1EEq44sPpfgWBakPhNw6FiwmrOj/XgXVArH6Q1NriPQH4l6bMt9z7dRlOnte4DrC1asFS3rsmtEyDOpMEmo9n3vv1GspMqjCCFEAUsmI85jWqoQM3iPtKUdUc8w/lxYFk4KiY/gNClSnvEi7cGFYnHSgzcEa54t4Xz6DmY8iBW1h9mjlqFRTN07mPBc4L8FZjcdKX8cnj49AmdgXcLhn7YFB9C3PTg4egye1R9a8OIG+sCocoHQRKUuWBHBaRYJ1kxoN/tr5FJV2S+UyFMyzlicdnUtOdKOvSfgZgWhUOrG9oM+43oXWaJCVqDYIMW2dM3PZveg04ohWqVC3TDRtQ2e25I2wRXtsoaBgBoYHe4UXrDCX5Em0OqA4tQMzM/AtvUFYrD6isInAOvJ3EHSyCMy6Y+tQXlMyVTbWu1kc6tsNIyYZsuXK9pwSDXwaByWGbegEqd9KLIQPnKqgDaSVa0MuqjDdMvyXl68BccZg488lJSFL4GnQHexJDKt4E1dIl1ZD24KydQNsW4MWBv0oXY6g4Hp9oD5xH3gWnBYU1AL4D+kS/Q1bhWmJFRMFaKjSNpUDRffegqaTP4E2tenrZvjsyJhnWCuNAUoYUwYpZKzFUlfrMqoV4wcq4/EQ7T7YUuGLFzlmWKrrs1iuoJWrrgslWwtOI/ktW55s78ECLicvSo58hRSuuHTkK0V7RSVtbG6sByqS28aXXF9qVMat77AJqsWHNhRlzLy/IIQvrXZXzeRX9UdONTBR4JmnLfdBL29Z7sdB7x6S8tfAXxG/5tkfsKUAts5tmw4Q1GxHb2QGh/UBBGlAOIPTR8yzKUWy/so2fTh2LZD7Tu2NxoM9ke7c2LWUmxWymzc1qqt1fqOLtNMYOjRsOCnggs2/ZS7F2qJbR4bXW2IQh+H0f+QUdhXTWjVR6jksAqshQ1OqBJZFhAOdwSvPt8KGexIFrQolI4QBXdUCho9cn+hRztaVGpTi/zAD2iUBh4sNdClLLCjIVUjjZDAXd2ARi9gIwbwcg6eC21EX42ZaoJ73L7J8RB+r5xLkoeaxespt1A5zbiqoqbvynmXwusiK8g/gLOr3L9N3NDC0+WF7lFyc7DlYfhNxoUdRmkICxrmrCZSsyfcZU3Njtu7akbZNrgtV7ax4336rQgVSlIs4w/Fbo2vrG7WI9ICzVoN+7k75FeV+ksC1IwHRHnld4/6+857TWzG7Zf/AM6SvK0=",
+      "is_continuation": true,
+      "product_id": "257655",
+      "product_name": "Magnetventil_LV",
+      "document_type": "Datenblatt",
+      "product_category": "Magnetventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c99a0f8e2343b159afe4ae252fb84705",
+    "text": "Dieser Text ist für Produt: Magnetventil_LV. Produkt ID: 257655. Der Dokumentyp is Datenblatt. Elektrischer Anschlu Schraubklemmen tiber PG 11, Steckverbindung nach DIN EN 175301-803 nachristbar Schalthaufigkeit max. 1000/h MeB- und Ziindgasanschlu3 1/4 DIN ISO 228 beidseitig im Eingangsdruckbereich, zusatzlich eingangs- seitig G 3/4, ab DN 40 (Flansch) Umgebungstemperatur -15°C bis + 60 C Einbaulage Magnet stehend senkrecht bis waagerecht liegend",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Elektrischer Anschlu</td><td>Schraubklemmen tiber PG 11, Steckverbindung nach DIN EN 175301-803 nachristbar</td></tr><tr><td>Schalthaufigkeit max. 1000/h</td></tr><tr><td>MeB- und Ziindgasanschlu3</td><td>1/4 DIN ISO 228 beidseitig im Eingangsdruckbereich, zusatzlich eingangs- seitig G 3/4, ab DN 40 (Flansch)</td></tr><tr><td>Umgebungstemperatur</td><td>-15°C bis + 60 C</td></tr><tr><td>Einbaulage</td><td>Magnet stehend senkrecht bis waagerecht liegend</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "257655_Magnetventil_LV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/257655_Magnetventil_LV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.761974",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJydVwlv00gU/itPlrpqtUl9xM4BXaSGQEFAiSh0JQ5FY/s5no2P7MyY0qLy2/eNjyRtbFiqqqozfve87/uaT98NTDDFTC14aDwCA+0otFgQjGzXs12HMXc4GFujseUNo5EVDI0eGCkqFjLFyP67oR8WMi9EgM1nXAQC6U8Z0B65rmWNJs742NLO5fs0D3nEf2KwFnmAUm4t7Ik7nAyOR0N7MnK12RpFyqXkeSYXdTGfvhsUWJcxGDiWe/uFzAQGuQgXSR4wlYuywjVTsQ5rfpAopCl4EDARkqNUgikuzfl1EDORzkX+DwZKmmGRLeVinQdmmAeFHpbs5xmajjcaet7iDVtmqL7SMU8Wry8Xs+lidrwOI+P2lgqIeIIZS3VVxq8canN1vS7N2XqdcKqbejTr1wnLlgVbotTtGpgtDd3kmk4WWZH6qDt0yhOxvdNoHNreIPIDHI8Cz/VD3w/s0cR3B5bNgqGvAyv8phZMLmKVJtrnRDE/wScnys/Da/oj6Dd8co5ZdoVcYQ9m5ycmnejTobd5HFubx+rBLD0r73d5LJZ4xbMQIWNBDLOX5+BMJpMevFs3fhDkiVyz7K/PxuCz8cQ+AAecg/1gz2kUMoixw+9Uv0yKaVSbweH8HOzh0TbxM/psTZy+vR/7Dft2DFNUgqMvQ1EEq44sPpfgWBakPhNw6FiwmrOj/XgXVArH6Q1NriPQH4l6bMt9z7dRlOnte4DrC1asFS3rsmtEyDOpMEmo9n3vv1GspMqjCCFEAUsmI85jWqoQM3iPtKUdUc8w/lxYFk4KiY/gNClSnvEi7cGFYnHSgzcEa54t4Xz6DmY8iBW1h9mjlqFRTN07mPBc4L8FZjcdKX8cnj49AmdgXcLhn7YFB9C3PTg4egye1R9a8OIG+sCocoHQRKUuWBHBaRYJ1kxoN/tr5FJV2S+UyFMyzlicdnUtOdKOvSfgZgWhUOrG9oM+43oXWaJCVqDYIMW2dM3PZveg04ohWqVC3TDRtQ2e25I2wRXtsoaBgBoYHe4UXrDCX5Em0OqA4tQMzM/AtvUFYrD6isInAOvJ3EHSyCMy6Y+tQXlMyVTbWu1kc6tsNIyYZsuXK9pwSDXwaByWGbegEqd9KLIQPnKqgDaSVa0MuqjDdMvyXl68BccZg488lJSFL4GnQHexJDKt4E1dIl1ZD24KydQNsW4MWBv0oXY6g4Hp9oD5xH3gWnBYU1AL4D+kS/Q1bhWmJFRMFaKjSNpUDRffegqaTP4E2tenrZvjsyJhnWCuNAUoYUwYpZKzFUlfrMqoV4wcq4/EQ7T7YUuGLFzlmWKrrs1iuoJWrrgslWwtOI/ktW55s78ECLicvSo58hRSuuHTkK0V7RSVtbG6sByqS28aXXF9qVMat77AJqsWHNhRlzLy/IIQvrXZXzeRX9UdONTBR4JmnLfdBL29Z7sdB7x6S8tfAXxG/5tkfsKUAts5tmw4Q1GxHb2QGh/UBBGlAOIPTR8yzKUWy/so2fTh2LZD7Tu2NxoM9ke7c2LWUmxWymzc1qqt1fqOLtNMYOjRsOCnggs2/ZS7F2qJbR4bXW2IQh+H0f+QUdhXTWjVR6jksAqshQ1OqBJZFhAOdwSvPt8KGexIFrQolI4QBXdUCho9cn+hRztaVGpTi/zAD2iUBh4sNdClLLCjIVUjjZDAXd2ARi9gIwbwcg6eC21EX42ZaoJ73L7J8RB+r5xLkoeaxespt1A5zbiqoqbvynmXwusiK8g/gLOr3L9N3NDC0+WF7lFyc7DlYfhNxoUdRmkICxrmrCZSsyfcZU3Njtu7akbZNrgtV7ax4336rQgVSlIs4w/Fbo2vrG7WI9ICzVoN+7k75FeV+ksC1IwHRHnld4/6+857TWzG7Zf/AM6SvK0=",
+      "is_continuation": true,
+      "product_id": "257655",
+      "product_name": "Magnetventil_LV",
+      "document_type": "Datenblatt",
+      "product_category": "Magnetventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "6bf663371631ed99ef6201e195ae6d29",
+    "text": "Dieser Text ist für Produt: Magnetventil_LV. Produkt ID: 257655. Der Dokumentyp is Datenblatt. Endkontakt anbaubar Ventilpriifsystem Typ VDK 200 A mit Adapter bis S02 liber MeBanschluB G 1/4 anbaubar, DN 80 Typ VPS 504 anbaubar Zubehor Endkontakt KO1, siehe Datenblatt 12.01 Geréatestecker fiir Leitungsdose, DIN EN 175301-803 211202 215733",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Endkontakt</td><td>anbaubar</td></tr><tr><td>Ventilpriifsystem</td><td>Typ VDK 200 A mit Adapter bis</td><td>S02 liber MeBanschluB G 1/4 anbaubar, DN 80</td><td>Typ VPS 504 anbaubar</td></tr><tr><td>Zubehor</td><td>Endkontakt KO1, siehe Datenblatt 12.01 Geréatestecker fiir Leitungsdose, DIN EN 175301-803</td><td>211202 215733</td></tr><tr><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "257655_Magnetventil_LV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/257655_Magnetventil_LV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.761974",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJydVwlv00gU/itPlrpqtUl9xM4BXaSGQEFAiSh0JQ5FY/s5no2P7MyY0qLy2/eNjyRtbFiqqqozfve87/uaT98NTDDFTC14aDwCA+0otFgQjGzXs12HMXc4GFujseUNo5EVDI0eGCkqFjLFyP67oR8WMi9EgM1nXAQC6U8Z0B65rmWNJs742NLO5fs0D3nEf2KwFnmAUm4t7Ik7nAyOR0N7MnK12RpFyqXkeSYXdTGfvhsUWJcxGDiWe/uFzAQGuQgXSR4wlYuywjVTsQ5rfpAopCl4EDARkqNUgikuzfl1EDORzkX+DwZKmmGRLeVinQdmmAeFHpbs5xmajjcaet7iDVtmqL7SMU8Wry8Xs+lidrwOI+P2lgqIeIIZS3VVxq8canN1vS7N2XqdcKqbejTr1wnLlgVbotTtGpgtDd3kmk4WWZH6qDt0yhOxvdNoHNreIPIDHI8Cz/VD3w/s0cR3B5bNgqGvAyv8phZMLmKVJtrnRDE/wScnys/Da/oj6Dd8co5ZdoVcYQ9m5ycmnejTobd5HFubx+rBLD0r73d5LJZ4xbMQIWNBDLOX5+BMJpMevFs3fhDkiVyz7K/PxuCz8cQ+AAecg/1gz2kUMoixw+9Uv0yKaVSbweH8HOzh0TbxM/psTZy+vR/7Dft2DFNUgqMvQ1EEq44sPpfgWBakPhNw6FiwmrOj/XgXVArH6Q1NriPQH4l6bMt9z7dRlOnte4DrC1asFS3rsmtEyDOpMEmo9n3vv1GspMqjCCFEAUsmI85jWqoQM3iPtKUdUc8w/lxYFk4KiY/gNClSnvEi7cGFYnHSgzcEa54t4Xz6DmY8iBW1h9mjlqFRTN07mPBc4L8FZjcdKX8cnj49AmdgXcLhn7YFB9C3PTg4egye1R9a8OIG+sCocoHQRKUuWBHBaRYJ1kxoN/tr5FJV2S+UyFMyzlicdnUtOdKOvSfgZgWhUOrG9oM+43oXWaJCVqDYIMW2dM3PZveg04ohWqVC3TDRtQ2e25I2wRXtsoaBgBoYHe4UXrDCX5Em0OqA4tQMzM/AtvUFYrD6isInAOvJ3EHSyCMy6Y+tQXlMyVTbWu1kc6tsNIyYZsuXK9pwSDXwaByWGbegEqd9KLIQPnKqgDaSVa0MuqjDdMvyXl68BccZg488lJSFL4GnQHexJDKt4E1dIl1ZD24KydQNsW4MWBv0oXY6g4Hp9oD5xH3gWnBYU1AL4D+kS/Q1bhWmJFRMFaKjSNpUDRffegqaTP4E2tenrZvjsyJhnWCuNAUoYUwYpZKzFUlfrMqoV4wcq4/EQ7T7YUuGLFzlmWKrrs1iuoJWrrgslWwtOI/ktW55s78ECLicvSo58hRSuuHTkK0V7RSVtbG6sByqS28aXXF9qVMat77AJqsWHNhRlzLy/IIQvrXZXzeRX9UdONTBR4JmnLfdBL29Z7sdB7x6S8tfAXxG/5tkfsKUAts5tmw4Q1GxHb2QGh/UBBGlAOIPTR8yzKUWy/so2fTh2LZD7Tu2NxoM9ke7c2LWUmxWymzc1qqt1fqOLtNMYOjRsOCnggs2/ZS7F2qJbR4bXW2IQh+H0f+QUdhXTWjVR6jksAqshQ1OqBJZFhAOdwSvPt8KGexIFrQolI4QBXdUCho9cn+hRztaVGpTi/zAD2iUBh4sNdClLLCjIVUjjZDAXd2ARi9gIwbwcg6eC21EX42ZaoJ73L7J8RB+r5xLkoeaxespt1A5zbiqoqbvynmXwusiK8g/gLOr3L9N3NDC0+WF7lFyc7DlYfhNxoUdRmkICxrmrCZSsyfcZU3Njtu7akbZNrgtV7ax4336rQgVSlIs4w/Fbo2vrG7WI9ICzVoN+7k75FeV+ksC1IwHRHnld4/6+857TWzG7Zf/AM6SvK0=",
+      "is_continuation": true,
+      "product_id": "257655",
+      "product_name": "Magnetventil_LV",
+      "document_type": "Datenblatt",
+      "product_category": "Magnetventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "0ce417df3a84f91770cb24c3f9568b55",
+    "text": "Dieser Text ist für Produt: Magnetventil_LV. Produkt ID: 257655. Der Dokumentyp is Datenblatt. Typ Pnax DN/ Rp Magnet- Nr. | Best.- Nr. p max. [Vi 1 max. ~(AC) | 230V | Off- nungs- zeit EinbaumaBe [mm] Ge- wicht [kgl a b c d e LV-D 210/4 200 Rp 1 200 256 437 25 0,15 <s 75 110 135| 90 151 200 30 2,45",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Typ</td><td>Pnax</td><td>DN/ Rp</td><td>Magnet- Nr.</td><td>| Best.- Nr.</td><td>p max. [Vi</td><td>1 max. ~(AC) | 230V |</td><td>Off- nungs- zeit</td><td>EinbaumaBe [mm]</td><td>Ge- wicht [kgl</td></tr><tr><td>a</td><td>b</td><td>c</td><td>d</td><td>e</td><td/><td/></tr><tr><td>LV-D 210/4</td><td>200</td><td>Rp 1</td><td>200</td><td>256 437</td><td>25</td><td>0,15</td><td>&lt;s</td><td>75</td><td>110</td><td>135|</td><td>90</td><td>151</td><td>200</td><td>30</td><td>2,45</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "257655_Magnetventil_LV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/257655_Magnetventil_LV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.761974",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVttu4zYQ/ZWBgBYtYFvUhbq0aYBNUxQLbNNgsfWLYwiURNtqrQskuZs0Sb+9Q0qWxlnLRdEHWSNyeHjOcDjj1bMh9zKXRRtlqfEdGNwPA0/yTcKY9OMg9JizCdPQ9UKWypT5xgyMXLYiFa1A/2dDGVFTHupEHr9llNQSXxrQ8l2XMT+0gwVTi/V8XqbZJrvgUNVlIptm9LAUBWfhe1bou8qtknWeNU1WFk3Uk1k9GwisaDiOzdzXNbrVMinrNNqXiWjLWjOsRLtTsOZvjawbs86SRNQpLmzaWrRZY94/JTtR5/d1+btM2sZMD8W2iaoyMdMyOahgNfOykKbNfY/z6BexLWT7Jw5n++jDMrq9iW4XVboxXl+RwCbby0LkipXxbwt69/ap0u6iqvYZ8kaNZj+9F8X2ILayUXINWWwNJbLCkag45LFUCm09Uo9nuglSizubOJGBn3A3TuM4sfwwdh1micSLFXArH9tINNGuzfdqzVUr4r28vmp3UqT4qpUJdfm5qUTxw4NhPxjXn56qK7PdnZm5L8TjxNTtnQkfp9Z1kZnDXb2Y8HiBGzynxSWXCnLxuIDVMptwsDqHv7959+O38AK2w5bwMuH762Yzh0IlwBz+klk7uCXlvnfz0e2nrIjFIRc3ElZ5vp4A+1nO4XOW7FpY/bHdd06mDq0O77U4rruOBysZrHSw5GC9MTSYeTyzuEyfeuz0+sNyfgu2xUwXHVI9ZDM22B8rsM5O2NwD1/HJ92CymTV+fL1vv2+GL3+csKwRzHL4y/ARknF+fnOH8Ji5PeYYsUEVn1RlfTVOBKeqAm/c1GNEle1NqAooY2L7xLa8iTCOEXGJOTtK/FKVzUw+oQpsEiK6iQ/M8c6rIrE8VRXy80roGdKDIBlge6NNAsJn4bQqPqnKHs/K/ULVmIEWo7LcYEKWRZLTPuFPNBL+ND0copEcnMUuCGOcnheWFULz9g44zWrCxg0hDML/mIjheWknR0alkYyjicjHNPJn/rQyj19SRjZy3yoLrav/c2zh+bSzyLhD/B0SC3ps9iVxwcVjI0nBT3OSOQFZFpyIs6fEOZQ4hSM2rX8uscnh0msazDgVZ/Zl3+wauPHaN3fV1LFhQ6V7Hyoz4dht+456r2fe69+HA2Opp3rfsbPpkU3X3kA1MqxC2IP1s1q+W/ftFNMRlrRhgoAYEkhBwga2Y/tbw9iRVNAVnqWNvuPgG1SHgSscb8DngJ0EsINAiC/e+eJuqjHA2AdGLMU4TgHvNfTlHjwG6lb1kIHCwcfHx/L6vTkgnCrLMFbhI6aN+ykfXWU7MPTrwELeASmeihWyx+qI1x5UNYSx+I1gPUF3wPQBLwmoy9GD4mXQEUUWgBdaa8HaBMhS1yIgpUfj6kLTsewKyxvJYYenWSo81KokcxtUAQBy349w6OUe4ULrLMGwk4u3EvA24p9vpgnaBDEgBFEDHyQH6lPdmCOgo0DULOsO2MUH2arQqkzX/1X7/8efVIYbr+t/AAN+lnQ=",
+      "product_id": "257655",
+      "product_name": "Magnetventil_LV",
+      "document_type": "Datenblatt",
+      "product_category": "Magnetventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "965ee471c59ed5d61c510db635bbcd7f",
+    "text": "Dieser Text ist für Produt: Magnetventil_LV. Produkt ID: 257655. Der Dokumentyp is Datenblatt. LV-D 215/4 200 Rp1% 280 256 861 60 0,26 <s 80 150 170 116 200 255 45 4,30 LV-D 220/5 200 Rp 2 300 257 036 60 0,30 <s 95 170 175 130 225 265 50 5,90",
+    "metadata": {
+      "text_as_html": "<table><tr><td>LV-D 215/4</td><td>200</td><td>Rp1%</td><td>280</td><td>256 861</td><td>60</td><td>0,26</td><td>&lt;s</td><td>80</td><td>150</td><td>170</td><td>116</td><td>200</td><td>255</td><td>45</td><td>4,30</td></tr><tr><td>LV-D 220/5</td><td>200</td><td>Rp 2</td><td>300</td><td>257 036</td><td>60</td><td>0,30</td><td>&lt;s</td><td>95</td><td>170</td><td>175</td><td>130</td><td>225</td><td>265</td><td>50</td><td>5,90</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "257655_Magnetventil_LV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/257655_Magnetventil_LV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.761974",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVttu4zYQ/ZWBgBYtYFvUhbq0aYBNUxQLbNNgsfWLYwiURNtqrQskuZs0Sb+9Q0qWxlnLRdEHWSNyeHjOcDjj1bMh9zKXRRtlqfEdGNwPA0/yTcKY9OMg9JizCdPQ9UKWypT5xgyMXLYiFa1A/2dDGVFTHupEHr9llNQSXxrQ8l2XMT+0gwVTi/V8XqbZJrvgUNVlIptm9LAUBWfhe1bou8qtknWeNU1WFk3Uk1k9GwisaDiOzdzXNbrVMinrNNqXiWjLWjOsRLtTsOZvjawbs86SRNQpLmzaWrRZY94/JTtR5/d1+btM2sZMD8W2iaoyMdMyOahgNfOykKbNfY/z6BexLWT7Jw5n++jDMrq9iW4XVboxXl+RwCbby0LkipXxbwt69/ap0u6iqvYZ8kaNZj+9F8X2ILayUXINWWwNJbLCkag45LFUCm09Uo9nuglSizubOJGBn3A3TuM4sfwwdh1micSLFXArH9tINNGuzfdqzVUr4r28vmp3UqT4qpUJdfm5qUTxw4NhPxjXn56qK7PdnZm5L8TjxNTtnQkfp9Z1kZnDXb2Y8HiBGzynxSWXCnLxuIDVMptwsDqHv7959+O38AK2w5bwMuH762Yzh0IlwBz+klk7uCXlvnfz0e2nrIjFIRc3ElZ5vp4A+1nO4XOW7FpY/bHdd06mDq0O77U4rruOBysZrHSw5GC9MTSYeTyzuEyfeuz0+sNyfgu2xUwXHVI9ZDM22B8rsM5O2NwD1/HJ92CymTV+fL1vv2+GL3+csKwRzHL4y/ARknF+fnOH8Ji5PeYYsUEVn1RlfTVOBKeqAm/c1GNEle1NqAooY2L7xLa8iTCOEXGJOTtK/FKVzUw+oQpsEiK6iQ/M8c6rIrE8VRXy80roGdKDIBlge6NNAsJn4bQqPqnKHs/K/ULVmIEWo7LcYEKWRZLTPuFPNBL+ND0copEcnMUuCGOcnheWFULz9g44zWrCxg0hDML/mIjheWknR0alkYyjicjHNPJn/rQyj19SRjZy3yoLrav/c2zh+bSzyLhD/B0SC3ps9iVxwcVjI0nBT3OSOQFZFpyIs6fEOZQ4hSM2rX8uscnh0msazDgVZ/Zl3+wauPHaN3fV1LFhQ6V7Hyoz4dht+456r2fe69+HA2Opp3rfsbPpkU3X3kA1MqxC2IP1s1q+W/ftFNMRlrRhgoAYEkhBwga2Y/tbw9iRVNAVnqWNvuPgG1SHgSscb8DngJ0EsINAiC/e+eJuqjHA2AdGLMU4TgHvNfTlHjwG6lb1kIHCwcfHx/L6vTkgnCrLMFbhI6aN+ykfXWU7MPTrwELeASmeihWyx+qI1x5UNYSx+I1gPUF3wPQBLwmoy9GD4mXQEUUWgBdaa8HaBMhS1yIgpUfj6kLTsewKyxvJYYenWSo81KokcxtUAQBy349w6OUe4ULrLMGwk4u3EvA24p9vpgnaBDEgBFEDHyQH6lPdmCOgo0DULOsO2MUH2arQqkzX/1X7/8efVIYbr+t/AAN+lnQ=",
+      "is_continuation": true,
+      "product_id": "257655",
+      "product_name": "Magnetventil_LV",
+      "document_type": "Datenblatt",
+      "product_category": "Magnetventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "63fdd57e720b00cf5a4ed235201ff316",
+    "text": "Dieser Text ist für Produt: Magnetventil_LV. Produkt ID: 257655. Der Dokumentyp is Datenblatt. LV-D 225/5 200 Rp2% 400 257 037 100 0,48 <s 115 230 220 165 280 325 55 10,90 LV-D 2050/5 | 200 DN 50 300 249 989 60 0,26 <s 95 230 175 165 245 255 52 7,70",
+    "metadata": {
+      "text_as_html": "<table><tr><td>LV-D 225/5</td><td>200</td><td>Rp2%</td><td>400</td><td>257 037</td><td>100</td><td>0,48</td><td>&lt;s</td><td>115</td><td>230</td><td>220</td><td>165</td><td>280</td><td>325</td><td>55</td><td>10,90</td></tr><tr><td>LV-D 2050/5</td><td>| 200</td><td>DN 50</td><td>300</td><td>249 989</td><td>60</td><td>0,26</td><td>&lt;s</td><td>95</td><td>230</td><td>175</td><td>165</td><td>245</td><td>255</td><td>52</td><td>7,70</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "257655_Magnetventil_LV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/257655_Magnetventil_LV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.761974",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVttu4zYQ/ZWBgBYtYFvUhbq0aYBNUxQLbNNgsfWLYwiURNtqrQskuZs0Sb+9Q0qWxlnLRdEHWSNyeHjOcDjj1bMh9zKXRRtlqfEdGNwPA0/yTcKY9OMg9JizCdPQ9UKWypT5xgyMXLYiFa1A/2dDGVFTHupEHr9llNQSXxrQ8l2XMT+0gwVTi/V8XqbZJrvgUNVlIptm9LAUBWfhe1bou8qtknWeNU1WFk3Uk1k9GwisaDiOzdzXNbrVMinrNNqXiWjLWjOsRLtTsOZvjawbs86SRNQpLmzaWrRZY94/JTtR5/d1+btM2sZMD8W2iaoyMdMyOahgNfOykKbNfY/z6BexLWT7Jw5n++jDMrq9iW4XVboxXl+RwCbby0LkipXxbwt69/ap0u6iqvYZ8kaNZj+9F8X2ILayUXINWWwNJbLCkag45LFUCm09Uo9nuglSizubOJGBn3A3TuM4sfwwdh1micSLFXArH9tINNGuzfdqzVUr4r28vmp3UqT4qpUJdfm5qUTxw4NhPxjXn56qK7PdnZm5L8TjxNTtnQkfp9Z1kZnDXb2Y8HiBGzynxSWXCnLxuIDVMptwsDqHv7959+O38AK2w5bwMuH762Yzh0IlwBz+klk7uCXlvnfz0e2nrIjFIRc3ElZ5vp4A+1nO4XOW7FpY/bHdd06mDq0O77U4rruOBysZrHSw5GC9MTSYeTyzuEyfeuz0+sNyfgu2xUwXHVI9ZDM22B8rsM5O2NwD1/HJ92CymTV+fL1vv2+GL3+csKwRzHL4y/ARknF+fnOH8Ji5PeYYsUEVn1RlfTVOBKeqAm/c1GNEle1NqAooY2L7xLa8iTCOEXGJOTtK/FKVzUw+oQpsEiK6iQ/M8c6rIrE8VRXy80roGdKDIBlge6NNAsJn4bQqPqnKHs/K/ULVmIEWo7LcYEKWRZLTPuFPNBL+ND0copEcnMUuCGOcnheWFULz9g44zWrCxg0hDML/mIjheWknR0alkYyjicjHNPJn/rQyj19SRjZy3yoLrav/c2zh+bSzyLhD/B0SC3ps9iVxwcVjI0nBT3OSOQFZFpyIs6fEOZQ4hSM2rX8uscnh0msazDgVZ/Zl3+wauPHaN3fV1LFhQ6V7Hyoz4dht+456r2fe69+HA2Opp3rfsbPpkU3X3kA1MqxC2IP1s1q+W/ftFNMRlrRhgoAYEkhBwga2Y/tbw9iRVNAVnqWNvuPgG1SHgSscb8DngJ0EsINAiC/e+eJuqjHA2AdGLMU4TgHvNfTlHjwG6lb1kIHCwcfHx/L6vTkgnCrLMFbhI6aN+ykfXWU7MPTrwELeASmeihWyx+qI1x5UNYSx+I1gPUF3wPQBLwmoy9GD4mXQEUUWgBdaa8HaBMhS1yIgpUfj6kLTsewKyxvJYYenWSo81KokcxtUAQBy349w6OUe4ULrLMGwk4u3EvA24p9vpgnaBDEgBFEDHyQH6lPdmCOgo0DULOsO2MUH2arQqkzX/1X7/8efVIYbr+t/AAN+lnQ=",
+      "is_continuation": true,
+      "product_id": "257655",
+      "product_name": "Magnetventil_LV",
+      "document_type": "Datenblatt",
+      "product_category": "Magnetventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "2d5b79147159dd45fdff15f0fc2137eb",
+    "text": "Dieser Text ist für Produt: Magnetventil_LV. Produkt ID: 257655. Der Dokumentyp is Datenblatt. LV-D 2065/5 | 200 DN 65 400 249 991 100 0,48 <s 115 290 225 190 315 330 55 12,70 LV-D 2080/5 | 200 DN 80 500 257038 | 80 0,42 <s 130 310 250 200 340 375 70 18,50",
+    "metadata": {
+      "text_as_html": "<table><tr><td>LV-D 2065/5</td><td>| 200</td><td>DN 65</td><td>400</td><td>249 991</td><td>100</td><td>0,48</td><td>&lt;s</td><td>115</td><td>290</td><td>225</td><td>190</td><td>315</td><td>330</td><td>55</td><td>12,70</td></tr><tr><td>LV-D 2080/5</td><td>| 200</td><td>DN 80</td><td>500</td><td>257038</td><td>| 80</td><td>0,42</td><td>&lt;s</td><td>130</td><td>310</td><td>250</td><td>200</td><td>340</td><td>375</td><td>70</td><td>18,50</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "257655_Magnetventil_LV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/257655_Magnetventil_LV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.761974",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVttu4zYQ/ZWBgBYtYFvUhbq0aYBNUxQLbNNgsfWLYwiURNtqrQskuZs0Sb+9Q0qWxlnLRdEHWSNyeHjOcDjj1bMh9zKXRRtlqfEdGNwPA0/yTcKY9OMg9JizCdPQ9UKWypT5xgyMXLYiFa1A/2dDGVFTHupEHr9llNQSXxrQ8l2XMT+0gwVTi/V8XqbZJrvgUNVlIptm9LAUBWfhe1bou8qtknWeNU1WFk3Uk1k9GwisaDiOzdzXNbrVMinrNNqXiWjLWjOsRLtTsOZvjawbs86SRNQpLmzaWrRZY94/JTtR5/d1+btM2sZMD8W2iaoyMdMyOahgNfOykKbNfY/z6BexLWT7Jw5n++jDMrq9iW4XVboxXl+RwCbby0LkipXxbwt69/ap0u6iqvYZ8kaNZj+9F8X2ILayUXINWWwNJbLCkag45LFUCm09Uo9nuglSizubOJGBn3A3TuM4sfwwdh1micSLFXArH9tINNGuzfdqzVUr4r28vmp3UqT4qpUJdfm5qUTxw4NhPxjXn56qK7PdnZm5L8TjxNTtnQkfp9Z1kZnDXb2Y8HiBGzynxSWXCnLxuIDVMptwsDqHv7959+O38AK2w5bwMuH762Yzh0IlwBz+klk7uCXlvnfz0e2nrIjFIRc3ElZ5vp4A+1nO4XOW7FpY/bHdd06mDq0O77U4rruOBysZrHSw5GC9MTSYeTyzuEyfeuz0+sNyfgu2xUwXHVI9ZDM22B8rsM5O2NwD1/HJ92CymTV+fL1vv2+GL3+csKwRzHL4y/ARknF+fnOH8Ji5PeYYsUEVn1RlfTVOBKeqAm/c1GNEle1NqAooY2L7xLa8iTCOEXGJOTtK/FKVzUw+oQpsEiK6iQ/M8c6rIrE8VRXy80roGdKDIBlge6NNAsJn4bQqPqnKHs/K/ULVmIEWo7LcYEKWRZLTPuFPNBL+ND0copEcnMUuCGOcnheWFULz9g44zWrCxg0hDML/mIjheWknR0alkYyjicjHNPJn/rQyj19SRjZy3yoLrav/c2zh+bSzyLhD/B0SC3ps9iVxwcVjI0nBT3OSOQFZFpyIs6fEOZQ4hSM2rX8uscnh0msazDgVZ/Zl3+wauPHaN3fV1LFhQ6V7Hyoz4dht+456r2fe69+HA2Opp3rfsbPpkU3X3kA1MqxC2IP1s1q+W/ftFNMRlrRhgoAYEkhBwga2Y/tbw9iRVNAVnqWNvuPgG1SHgSscb8DngJ0EsINAiC/e+eJuqjHA2AdGLMU4TgHvNfTlHjwG6lb1kIHCwcfHx/L6vTkgnCrLMFbhI6aN+ykfXWU7MPTrwELeASmeihWyx+qI1x5UNYSx+I1gPUF3wPQBLwmoy9GD4mXQEUUWgBdaa8HaBMhS1yIgpUfj6kLTsewKyxvJYYenWSo81KokcxtUAQBy349w6OUe4ULrLMGwk4u3EvA24p9vpgnaBDEgBFEDHyQH6lPdmCOgo0DULOsO2MUH2arQqkzX/1X7/8efVIYbr+t/AAN+lnQ=",
+      "is_continuation": true,
+      "product_id": "257655",
+      "product_name": "Magnetventil_LV",
+      "document_type": "Datenblatt",
+      "product_category": "Magnetventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "162bdcf5b8e6f52df4f43edf31027c8d",
+    "text": "Dieser Text ist für Produt: Magnetventil_LV. Produkt ID: 257655. Der Dokumentyp is Datenblatt. f = Platzbedarf für Magnetmontage\n\nd = größte Breite\n\n2 … 4\n\nEinbaumaße [mm]\n\nLV-D 210 - 215/4\n\nLV-D 220 - 225/5\n\nLV-D 2050 - 2080/5\n\nf  c  g  b  f  c  e  g  AIR ONLY !  a  e  b  d \n\ngrößte Breite: Maß d\n\nTyp LV-D\n\n7  5  4  3  2  1  p1  p2  6 \n\nGehäuse\n\nVentilteller\n\nSchliessfeder\n\noo,\n\nAnker\n\nMagnetspule\n\nElektroanschluss\n\n7\n\nEinstellung\n\n- Hauptmenge\n\nFunktion\n\nDas DUNGS Luft-Magnetventil ist ein mit Hilfsenergie betriebenes automa- tisches Absperrventil.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/257655_Magnetventil_LV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.761974",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "257655_Magnetventil_LV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztmlmP1DgQgP+Kt5+Zad8H0j6AhgWkgR0th7QC1Cq7yj1ZupNWjtUC4r+v0zOIFuLYvJFVHpKOnbJdtr8uVzl+9WFFO9pT3W8qXN1lK/QekkNnAIMKCEojd8pyrsE5nuLqDlvtqQeEHor8h9X4sOmaoU30KU2b1FL5OVYonNacuyD9OR8LH9/vG6xy9R2BQ9sk6rrPEiJoG9S5syI4PYodqN1XXVc1dbe5VebVh1WpeFRDKcn1xzdFrKXUtLjZNQn6pj1qeID+eqx2/aKjtlu3VUrQYinY9S30Vbe+epeuod1ftc1flPpujUO97TaHJq2xScM4WN1ZU9NaGmeN2TyBbU393yW72m0uX24u7m8uzg+YVx8/FgVytaMa9qNWqx8VuBXv3x2O4nA47Kqid+nj+vb1DurtAFvqxu6uqN6uxk4eSs6mHvaRxh7KY077eU6zR2FUjom8S0ZHjDEJF6JWXECycTXq2dM//VGY/cqudtC/j4TQZpZfD5zn1LIbrfdN3ZfWRl0+qfkU2nHc/qbnYxWlri+ZcjFF9NxKo9Bb54LAYCmgBCmzF3Zh6n/OFBamtu0RJDveMffE7rdU9dNAssp7HSIEmQKW9tFr7rOMqFDLHPkC0s8P0ikXkr0eJJeW6VMMrkqBpzfyX2EAPVJZiqT0LkvDradInvvgoi6X8gsDPz0D6pSBB1UdYdjDjV0g9mq/fzPJKESJWmklRLDGeo5KubLMBMPBUllzFo9lZkBcvjy7YFJwdlbuZq0nweBD8MY4kbMPyUXUXnEAbwMob4u3scAwRxjkEQZp1mYaDOi0NQlSSOBSyjpYhVIHTCZrqRbLMEsYuDnSwD2fiAN3FLyyRW9prLaqRCEoLVgMRkSeFtswMxwyY4mxLWORsZtnOibvPf6D/f708k/2C2NwzCwCyE5ZebwfY9ivMAJZ+eJL8BLW5KyslxwkUcbAXaJsYGFkXox8I+q8y57cOpwMJ9kQ4VL2UmA0WFYSTYSkkrYl6aQr94WPefHx/N2BjcvKNL9CxkAOhAUtPE9BOwwpaqBgc0JQCwTzgsAxZhjTjCnGJGOCscN4lUf731YNrsj6EMEUD5NUBK5yliYIB85T5otnMTMgHtL1uDqQHrqJO90kvFReGeGLkTBJp6RDTlJEpVOJPRYQ5gXCy2MrPe125d0UEIwuJiFr7lCR4lYY6SFh9gEUkLKLnzAzEJ6l611VRjIXh28aCQEyZhszJB7A5WyCNdGqDFFqgTosJMyLhKa5czr/L+pSH22btnpP+M0tajQJStCgYzLSkqUYrALtgpYlBhF6YWBeDNyr3060AjpKVaZDR+UzWidQxZRRhsStzOjTQsC8CLhpqzsMu2kOoscSOxqDkltt0VGMocy51gBAhi9fsOfGwYMdve3bBuquOAhD103bkFbFGgQRBedCapcUj1IaU8KHZIV0y/eJmcHgJjsGIqFRKluRTIjScS1ytC4jl5EnGRfHYGYEPKjqbowWSxcmWQJywmWevdUyyDSeqOLCCa4SwXgekxYO5sXBGXsEw6EvSk88KgmehFHRkaAM3CKPLhvyQeZiIbRajkrODITfhvrtWMEpBM+rfvfVbeSgrBptgHJCCumzLDRQVtwnTyDEso08g8m/88U52R/+oU9puYCOXbx4+vAZuxxyf3aqK6u6nlFVs33Vs0fVLndUU7utiEXq24piSXYMhr7ZwxkrI5muS/pe7MpctTdVnH/HEr35F2feOCE=",
+      "product_id": "257655",
+      "product_name": "Magnetventil_LV",
+      "document_type": "Datenblatt",
+      "product_category": "Magnetventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "73a9c696347a53db8bad3de9e55597bb",
+    "text": "Dieser Text ist für Produt: Magnetventil_LV. Produkt ID: 257655. Der Dokumentyp is Datenblatt. 3 … 4 Der elektromagnetische Antrieb öffnet gegen die Schliessfeder 3. Der Hub\n\ndes Ankers 4 kann durch die Einstell- schraube 7 begrenzt werden.\n\nWird die Hilfsenergie (Betriebsspannung) unterbrochen, schließt die Schliessfeder 3 das Ventil innerhalb 1 s.\n\nDie Geschlossenstellung des Ventils kann durch einen anbaubaren Endkon- takt überwacht werden.\n\nLuft-Magnetventile,\n\neinstufig\n\nLV-D/4\n\nLV-D/5\n\nDUNGS Combustion Controls\n\nDurchfluß-Diagramm",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/257655_Magnetventil_LV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.761974",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "257655_Magnetventil_LV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztl9tu3DYQhl+F0FULeL08SJTYu6YbJAXcIEAa9yIJBB6GWtUStSClpInhd+9QdhA3CFJse9O4e6XTcPjP8MMv8tV1AQOMEOa2d8UPpADHRVnrmta1rGVlVFPVnEmqaCVoU5XFGSlGmLXTs8b46yLftGlaooWPz9DaCHhZE7K6LCmtFW/OaR68fh8n1/v+KwGHOFlI6VMEU6VU4ryWTNWriAPEsU+pn0Jq78S8ui4wcZYhBKflzRsMi2Cn6Nphsnqe4qrwoOd9Trt9mSCmbeyt1dHhwDRHPfdp+/y93es4Po/T72DntHVL6FJ7mOzWTXbJzUqbKcCWV9ihqv1FdwHmt/i6H9qLy3b3qN2dH5wvbm5QgO8HCHrMqoq/G3AXPr8/rOH6cBh61I01bu8+Dzp0i+4g5XILCF2RizzgmzYso4FcoVjfxE9rqhtglTA1MPCaSkdN7StoFPe2UqWQRdY5wx9zDhbk9cIpl6QkO4gE6bia4zSukvtk90B+DHPswWAcpV56jx9IBx0E4nogL+x+6HHpPDgcLs7XLE8Xk9V/LOyZjrnTb+HXPCnO/jmFQppGUVkaXHUvmKEVcsi4K6nk1iIVJwofNoXYBuTsCjuDHF7pgGzh2u5Xwh73Ic0wDBuCOEa9GCA1MdDhXB9m8g6ig3B+FG6MSVk5ZtD4QPpGScm994qXWlSomZ1we+C4/dZHt7L1tB98ggCxw4fvHsHqdCkdkEDsx/dkCTNEg+u0h3CW+UOvyz7o/Pwl9yNOJ3K51kz6gGn3ejCEkXQcn4YaU5fKVaXzqqo00loJXgomG+44Uyc+HzifO0TrCWTcJuz/rf1h/STb5C1e6b5LQh/wb6yDQXPMc5LHwV1NYUNmfTXf/rctynqn7f4fGmYJGm3SyAac9VpLq4RzFW2cY3XFT//n/z6Q5b8C8mLx8+a+Qjg7CiDqtSmdqhQHqhg+OM+tA6GdNULp5gTQAwcI8iZu8X13FDaKV1Q4PJ0wqpRvTMMa1UilnLZGMclP2DxwbC4uN7tteRQz2ljPdKnKumROOua5AGWUN8I1CA49MfN/YKY6iplS4TGwNnXDPGsoZbX0wpimxgOh5sKf9jffADN/2T+/fPbkBflpGs2SciK8DXOchnSfip9HTPDF3a7kIIyWJu+atQHc4zojOafeoKNweaLhG6MhH5L8sNwe3De7XndRj+NXHOLNn4g2XHQ=",
+      "product_id": "257655",
+      "product_name": "Magnetventil_LV",
+      "document_type": "Datenblatt",
+      "product_category": "Magnetventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b03e311a459a6f51b500029fff1c1df1",
+    "text": "Dieser Text ist für Produt: Magnetventil_LV. Produkt ID: 257655. Der Dokumentyp is Datenblatt. 200  100  90  80  70  60  50  40  30  20  10  9  8  7  ]  r  6  a  b  m  5  4  [     p  3  ∆  2  1,0  0,9  0,8  0,7  0,6  0,5  0,4  0,3  0,2  1  2  4  6  8 10  20  40  60 80 100  °  Vn [m3/h] Luft / Air / Aria dv = 1,00  1     p  R  200  2  2  /  /  1     1     p  0  5     N  2     p  1  5     6  2        N  p  0  8     N  R  D  R  D  R  D  Basis   + 15° C, 1013 mbar, trocken  Based on  + 15° C, 1013 mbar, dry  Base   + 15° C, 1013 mbar, sec  Base   + 15° C, 1013 mbar, secco  400  600 800 1000  2000  4000 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/257655_Magnetventil_LV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.761974",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "257655_Magnetventil_LV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJyNkk2P0zAQhv/KKFdK43w1CRIHll6QFrRCYi/dKnJspzUkcWQ7K6qq/50ZpwVxKVSZN439zPidkXfnSPVqUKNvtIzeQZS1ZZYxKVVXdbxN86pgqkw5L0TVibTi0QqiQXkuuefInyP60zgzW6Fu36oRVuErFEzKPGesrNNqzSg57A9G6k7fASZrhHLuD5HU+abO1uUmqcucsEnZQTunzeiaq5ndOcLCZCPLUpZf9ohZJYyVTW8E98YGhxP3Ryobf3PKuthqIbiVmOi85V67+OkkjtwOT9Z8V8K7WM7jwTWTEbE0YqZhubdmVHFalJuiaD7zw6j8Ky7rvnl8brYPzXY9yS66XNBAp3s18oFcRf9KuOL+NAWcT1Ov0Tf2GF+3ez4eZn5QjtqN1HiIqMkJV5pxHlpFHeZ0rFc/fTiSMYCEpMaoMEqMDUaBkWNkGGmAkEEECYA9gEUMgAO0AAPiSAPsgH4TZgG8zGnKEEkxd4XJbFWTVCQlyYakIMlJMhKCQ0oeylfh2PRqBW2hw+D2ZWasxffzCLshi497eJw7DzF80JbUag7yFd7T0SzUXHx9pWosnIBPHJ5l8zfCQjP4+xKYZTG5LW5uiwuw8NXtE8tv/9YH7rTDzTeQFFfTH1fYQ5LB0HK7Ao9X+YcaA6kkmPEOK+1p4e4VdEr8FyQMTTWMleYaBhuGzcK4UelG3S7bpwEvUXTZ/wJA8wz/",
+      "product_id": "257655",
+      "product_name": "Magnetventil_LV",
+      "document_type": "Datenblatt",
+      "product_category": "Magnetventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "c4980fce82f9e54c170dc8ac74a8171f",
+    "text": "Dieser Text ist für Produt: Magnetventil_LV. Produkt ID: 257655. Der Dokumentyp is Datenblatt. Änderungen, die dem technischen Fortschritt dienen, vorbehalten.\n\nHausadresse\n\nKarl Dungs GmbH & Co. KG SiemensstraBe 6-10 D-73660 Urbach, Germany Telefon +49 (0)7181-804-0 Telefax +49 (0)7181-804-166\n\nBriefadresse\n\nKarl Dungs GmbH & Co. KG\n\nPostfach 12 29\n\nD-73602 Schorndorf, Germany e-mail info@dungs.com Internet www.dungs.com\n\n4 … 4",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/257655_Magnetventil_LV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.761974",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "257655_Magnetventil_LV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztll1vHCcUhv8KmosqVb27fA3M9KpyrTpVmshS4t4k0YiPwy7VDIwY1o5r+b8XNk4TKUoq926lvYLhHOB9mUdw3t43MMIEIQ/eNj+jBlzLOXfKtaIzonO645hbARxTZhR2zRlqJsjKqqxK/n1TO8MS98nAp28YTILSHBYkknOMZU+7Na6TD/EpWu/8dxLmFA0sy+cM0nPRs7UUpJe8ps2QJr8sPoZleBTz9r4pC1cZjFHMH96XtAQmJjuM0agc00HhrPKuLru5XiAtm+SNUcmWiUtOKvtlc3VndipNVyn+BSYvG7sP22WYo9nYaPb1sJZVDLChrRRtO7xU2wD5pgz7cfjjz+HifLhYz9Y1Dw9FgPMjBDVVVc1/TXhMz3fzIV3N8+iL7uJx8xgeVdju1RaWareBsG2qybmMDGE/aagOed02w4dc13i3x9jwYCEVExDOkPWALEwog9kFv5gdBPRbTLn0ks+5xkPNu4lJw06NGcK67vxJ1CuV6indwJu6Q9nqK4KsEVgzA5Y4JphQTFBHMXOcGda29ETQcRH0XO0XZVM9yydxILUgncJaYMsktNhq1nPtKCO9Kb3uxMFxcfBCpRFdVAPoctLP0Q/o17hGLy7Ra19/+1I9nwMSK4LRxUoyITC6TlqZ3Rm6LEeswh16UxBxMaCfeI+e4R8l6ciqw3yFP0bUh68iRIgvqbsOxQVsY/J/g/0WeUIoLozqrWx1R6wVEhvFbCd7Rwnn+kTecZF3nnxh439cQa0R4DRRXLeylbpvqZZOUEU71fUMixMIxwXCt66gJ0GBi2pLDCUgei4Z4xh4qUtkJ0uRCy05QXFcUFzFJbvyyiBCEe2fhEJvSj0iqWC4lZT3VAotdEdJy0rTshMKR4bCoezAFL02u5iCjcl9Lj1gNSk/Ih9c/OXgcW3ihH4PGVLRh25vb9f/Dj8JItN1rFO9lsoJ1WliqXK23CUMm94Rc3pkjgwijt7tKaYC8S8xuCoTXn3Mf3j/DzCMdi4=",
+      "product_id": "257655",
+      "product_name": "Magnetventil_LV",
+      "document_type": "Datenblatt",
+      "product_category": "Magnetventil"
+    }
+  }
+]

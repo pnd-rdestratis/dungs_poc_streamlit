@@ -1,0 +1,2089 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "dd98a28b1c4d6e754b5e85ada2d57546",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 7. Y. & LSV IA leading valve technology™\n\nRevisionsstand: 10. Oktober 2022 Autoren: H. Hirschlein, M. Bogert\n\nBetriebs- und Wartungsanleitung\n\nfür Produkte als Ausrüstungsteil mit Sicherheitsfunktion: Automatische Ventile für gasförmige Brennstoffe Ventilbaureihe 5-FCF\n\n[ N ) 2 ¢ ) %\n\nInhaltsverzeichnis",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztlm1r5DYQx7+KMFyhcNm1Za0f8u7S65HAPYTmmlJyhxlLI68utmwkebk05Lt35EvapYT2+nJh/caS50H/Gf8Y++Y+wR4HtKExKjlliZJYlEJyUWqEgktQUpQVSF3wkldplrxkyYABFAQg//skLho/zk7i0x4b6ZBuS8KsFCJNy5pXqzQGL/ZhVEabf3GY3CjR+789sloUdb4qc5GLbFExoRuM92a0vnlUc3OfUOaoI895Kh4+k5tDOTrV9KOEMLpF4gRhG/Ouf/Xo/NoZKcEpCvTBQTB+fXknt+CGSzd+QRn8Ws228800yrUa5Ry75U9Gi+t6uZpLi/NAgbc7spi++fnyunl91rxeTUonDw8kQpseLQxRWfI9QY8h4W5aQmCaekP6qdb1o7kH283QoY9lJ2i7JBY70ZPGzkOLsdIsHh3wa4g5yhX7fcV+YG+vrtnFK9YjKGM7toN+hyyg3NqxH7u7TzPPOI8nPB1+MVDShFL9ExWhS8C6zFJBwNR1XrepgDLXFWAGWsojKgeKyi+4M0uzfACryJiu2IfbMJIr4ynn7NVM/UF7ys5X7Nw4L7c9GvuSvVuxs7FDF/b5OSfS6IxnAMqyjZaKp4VuUw1VWfBWigpBY96iADwCdEAALU/c/5gO+8SdYXAGW3/CZqvYb+BC7AJYwiqu9nH6aEL/7Dja1CCKjWzLAou0zVNdoai0UAQZr9o2P9J0wDT956jYp0l/mtNUS8eoDWq+Dcig9zS0vPtm8AtdAU3PBhPYlZFbdFtCzevZ3katp8uIi0XSbEN2vRSK7K/EHfhv64LeZIfsjKRaH0atn5xbmB0ait2cvPnpzT7A78HFd7XDj1HuMyBrqlXroq1LnmPWlkSYwE1GmwJVgZsjyAcE8j6XN+w9+5FxFskBTssX3/WfVZb0M65zju2GE3KYKV1XStQasRWqSo88HA4PfJ+HC7uFPvgduj+QZpA1/pkP3ec/AVszXe0=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f2c031f9ace929f9b88d82d41b7100e1",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 1 Allgemeines 1.1 Geltungsbereich 1.2 EU-Baumusterpriifung 13 Ventilausfihrungen 1.4 Produktbeschreibung 1.5 Kenndaten 1.6 Bestimmungsgemae Verwendung N Aufbau / Ausfhrung w Funktion",
+    "metadata": {
+      "text_as_html": "<table><tr><td>1</td><td>Allgemeines</td><td/></tr><tr><td>1.1</td><td>Geltungsbereich</td><td/></tr><tr><td>1.2</td><td>EU-Baumusterpriifung</td><td/></tr><tr><td>13</td><td>Ventilausfihrungen</td><td/></tr><tr><td>1.4</td><td>Produktbeschreibung</td><td/></tr><tr><td>1.5</td><td>Kenndaten</td><td/></tr><tr><td>1.6</td><td>Bestimmungsgemae Verwendung</td><td/></tr><tr><td>N</td><td>Aufbau / Ausfhrung</td><td/></tr><tr><td>w</td><td>Funktion</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzNWW1v2zYQ/iuEPqXAYr1bdhEUSJZ0GIp1AdKmH9pCoKSTzZmiPIpalwb57ztSjiUnGZ0NrVUGsWXzHvK5F5J39MdbBzhUIFTKCuclceaQgw9BTkOgpefFfjRLPEi8YOaFcRAnzk/EqUDRgiqK8reOfkibupU53H+GNJeAb2ZAP4kiz0vmwWziabDpr+qClcwisJZ1Dk3TS/jzaDoPJ0kYhZHva7k1yIo1DatFk27YfLx1cGTNIwwDL7r7jGIS8loWKa9zqmppKK6pWupx3fcNyMaVLM+pLBDYKEkVa9zLm3xJZXUp6z8gV41btGLRpOs6d4s6b7W1muNagDs3Lb0U0FYIXP2FPYynF5fX6flZej5ZF6Vzd4ckSsZB0AqMhZ8B2kDUzdpA6HrNGfJHXd1NN6di0dIFNFptB8TC0cqu8ZtUtFUGWtPAfCN75yZJlJRlGEAWB55Xgl+U81kRzUuALCpmxvwK/lYpbdKlqrjGnCiacXh1orK6uME3if/FK//ExVf9dMr5AgOICWi233UPrpHdyE96xC/AlTYokgSWL62oYNt78f74jLZV2yiQa8lYiUPYoOG289oYmLZNyZYSUSCsU0bbXvR/0a5UBk2+RKrZnhkn8bb3DQih49g+03Tbe4ahx6pKWwWNSYFcg/wCorDP+LZ3QltmtCUuOUUtjZIW2Jdt3+tWrHRQWYTD3m9XClqQvC3VZGJDDJym6bDO6uTtzyRwg+MPsAAbOnwa/PtzwA9cnsFXHWBCD3B0BqxZM+AvLPhoEKXvcO0JdDzjxfPA265fRaMo53SPZePBZJe4D9WC8j9bynFjXBnsZGK1czyw82+1UNRqmnjSG/aCCYwWvg/QL4RT8bVdNFWtdz47Jn7SCqTzB6mYIrhvQYm7F5pWQUWua9mYuOq2Qevg/Xq5ei4k6U1cKy1O9Uaw4DouyNGF1CvsBbEbeqBSBkoyyARdVjY7TAeuPesgVunggWKFbPOVFTFwpijQlJTjtmhFDLw5WFfaI6eZXtOFrPG85eRItJJkwHC9Hu9I1gs8g5a2FTAduP8141rvPVvRdOBTjMpOkYK2Vl16n36gUtknmG37zqF6sEh877H8fHjevKlFWWOSoajCRGHF6Y42vj+Au5vj0e1OS+duc5Ka9IUMzkgda+M34hM8kcmDk3gkboZMQHYP+E8tJii5PuQPy8qQCUmfM3RENonD4S1k+ETkiVTkwFxIgERiss1sxg5kw2dKdjMn7SyI9GtRDpOo70YWWQRkJ/saxMtYJiIh/t3ndmP7adhIRELcdvpEcnxyhlLwyHODZPWQRMLHRPrE90DGQiIRsSXQh3SaJoMR83QyfugdMCIx2UlrDzv/vzakhcUEebKIODRHwyUgm4LkB7CQIRSSvuYZm5MhFJGdmmqszEtTeRDTzy7V/j9nMsVpp+Tqmwz2LZohlJA9JeL3p5Egkd0ic/RgRUq4tWyK2LHZdM1wCsigVB45ejQf3GH6QnxkOxlC0aNUYn+tvyNtPky7ov+/KERmOHtMBhcAo4cNmSOlKdm9YRiPFdJJyObuYnTbDBrympHtPckPwYz4HrIa3sV0JV53IdM96xA7MCnzA9T9rzPv9JWPc/f5H+gpz14=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "fe87864d41137ea9447fb146b18d2d51",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 31 Steuerluft.. 3.2 Ausfiihrung NC 2/2-Wege 33 Ausfiihrung NO 2/2-Wege Ventilbezeichnung (Beispiel) 4.1 Typenschild (Beispiel) Installation 5.1 Personalqualifikation.... 5.2 Montage 5.3 Einbaulage",
+    "metadata": {
+      "text_as_html": "<table><tr><td>31</td><td>Steuerluft..</td><td/></tr><tr><td>3.2</td><td>Ausfiihrung NC 2/2-Wege</td><td/></tr><tr><td>33</td><td>Ausfiihrung NO 2/2-Wege</td><td/></tr><tr><td/><td>Ventilbezeichnung (Beispiel)</td><td/></tr><tr><td>4.1</td><td>Typenschild (Beispiel)</td><td/></tr><tr><td/><td>Installation</td><td/></tr><tr><td>5.1</td><td>Personalqualifikation....</td><td/></tr><tr><td>5.2</td><td>Montage</td><td/></tr><tr><td>5.3</td><td>Einbaulage</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzNWW1v2zYQ/iuEPqXAYr1bdhEUSJZ0GIp1AdKmH9pCoKSTzZmiPIpalwb57ztSjiUnGZ0NrVUGsWXzHvK5F5J39MdbBzhUIFTKCuclceaQgw9BTkOgpefFfjRLPEi8YOaFcRAnzk/EqUDRgiqK8reOfkibupU53H+GNJeAb2ZAP4kiz0vmwWziabDpr+qClcwisJZ1Dk3TS/jzaDoPJ0kYhZHva7k1yIo1DatFk27YfLx1cGTNIwwDL7r7jGIS8loWKa9zqmppKK6pWupx3fcNyMaVLM+pLBDYKEkVa9zLm3xJZXUp6z8gV41btGLRpOs6d4s6b7W1muNagDs3Lb0U0FYIXP2FPYynF5fX6flZej5ZF6Vzd4ckSsZB0AqMhZ8B2kDUzdpA6HrNGfJHXd1NN6di0dIFNFptB8TC0cqu8ZtUtFUGWtPAfCN75yZJlJRlGEAWB55Xgl+U81kRzUuALCpmxvwK/lYpbdKlqrjGnCiacXh1orK6uME3if/FK//ExVf9dMr5AgOICWi233UPrpHdyE96xC/AlTYokgSWL62oYNt78f74jLZV2yiQa8lYiUPYoOG289oYmLZNyZYSUSCsU0bbXvR/0a5UBk2+RKrZnhkn8bb3DQih49g+03Tbe4ahx6pKWwWNSYFcg/wCorDP+LZ3QltmtCUuOUUtjZIW2Jdt3+tWrHRQWYTD3m9XClqQvC3VZGJDDJym6bDO6uTtzyRwg+MPsAAbOnwa/PtzwA9cnsFXHWBCD3B0BqxZM+AvLPhoEKXvcO0JdDzjxfPA265fRaMo53SPZePBZJe4D9WC8j9bynFjXBnsZGK1czyw82+1UNRqmnjSG/aCCYwWvg/QL4RT8bVdNFWtdz47Jn7SCqTzB6mYIrhvQYm7F5pWQUWua9mYuOq2Qevg/Xq5ei4k6U1cKy1O9Uaw4DouyNGF1CvsBbEbeqBSBkoyyARdVjY7TAeuPesgVunggWKFbPOVFTFwpijQlJTjtmhFDLw5WFfaI6eZXtOFrPG85eRItJJkwHC9Hu9I1gs8g5a2FTAduP8141rvPVvRdOBTjMpOkYK2Vl16n36gUtknmG37zqF6sEh877H8fHjevKlFWWOSoajCRGHF6Y42vj+Au5vj0e1OS+duc5Ka9IUMzkgda+M34hM8kcmDk3gkboZMQHYP+E8tJii5PuQPy8qQCUmfM3RENonD4S1k+ETkiVTkwFxIgERiss1sxg5kw2dKdjMn7SyI9GtRDpOo70YWWQRkJ/saxMtYJiIh/t3ndmP7adhIRELcdvpEcnxyhlLwyHODZPWQRMLHRPrE90DGQiIRsSXQh3SaJoMR83QyfugdMCIx2UlrDzv/vzakhcUEebKIODRHwyUgm4LkB7CQIRSSvuYZm5MhFJGdmmqszEtTeRDTzy7V/j9nMsVpp+Tqmwz2LZohlJA9JeL3p5Egkd0ic/RgRUq4tWyK2LHZdM1wCsigVB45ejQf3GH6QnxkOxlC0aNUYn+tvyNtPky7ov+/KERmOHtMBhcAo4cNmSOlKdm9YRiPFdJJyObuYnTbDBrympHtPckPwYz4HrIa3sV0JV53IdM96xA7MCnzA9T9rzPv9JWPc/f5H+gpz14=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "6e40a9fa0201349842ba3cc329d32f43",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 5.4 Anzugsmomente 5.5 Installation Ventil mit angeflanschtem Vorsteuerventil 5.6 Steuerventil 5.7 Potentialausgleich (Erdung) ... Inbetriebnahme 6.1 Betrieb 6.2 Steuerdruck 6.3 Endschalter",
+    "metadata": {
+      "text_as_html": "<table><tr><td>5.4</td><td>Anzugsmomente</td><td/></tr><tr><td>5.5</td><td>Installation Ventil mit angeflanschtem Vorsteuerventil</td><td/></tr><tr><td>5.6</td><td>Steuerventil</td><td/></tr><tr><td>5.7</td><td>Potentialausgleich (Erdung) ...</td><td/></tr><tr><td/><td>Inbetriebnahme</td><td/></tr><tr><td>6.1</td><td>Betrieb</td><td/></tr><tr><td>6.2</td><td>Steuerdruck</td><td/></tr><tr><td>6.3</td><td>Endschalter</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzNWW1v2zYQ/iuEPqXAYr1bdhEUSJZ0GIp1AdKmH9pCoKSTzZmiPIpalwb57ztSjiUnGZ0NrVUGsWXzHvK5F5J39MdbBzhUIFTKCuclceaQgw9BTkOgpefFfjRLPEi8YOaFcRAnzk/EqUDRgiqK8reOfkibupU53H+GNJeAb2ZAP4kiz0vmwWziabDpr+qClcwisJZ1Dk3TS/jzaDoPJ0kYhZHva7k1yIo1DatFk27YfLx1cGTNIwwDL7r7jGIS8loWKa9zqmppKK6pWupx3fcNyMaVLM+pLBDYKEkVa9zLm3xJZXUp6z8gV41btGLRpOs6d4s6b7W1muNagDs3Lb0U0FYIXP2FPYynF5fX6flZej5ZF6Vzd4ckSsZB0AqMhZ8B2kDUzdpA6HrNGfJHXd1NN6di0dIFNFptB8TC0cqu8ZtUtFUGWtPAfCN75yZJlJRlGEAWB55Xgl+U81kRzUuALCpmxvwK/lYpbdKlqrjGnCiacXh1orK6uME3if/FK//ExVf9dMr5AgOICWi233UPrpHdyE96xC/AlTYokgSWL62oYNt78f74jLZV2yiQa8lYiUPYoOG289oYmLZNyZYSUSCsU0bbXvR/0a5UBk2+RKrZnhkn8bb3DQih49g+03Tbe4ahx6pKWwWNSYFcg/wCorDP+LZ3QltmtCUuOUUtjZIW2Jdt3+tWrHRQWYTD3m9XClqQvC3VZGJDDJym6bDO6uTtzyRwg+MPsAAbOnwa/PtzwA9cnsFXHWBCD3B0BqxZM+AvLPhoEKXvcO0JdDzjxfPA265fRaMo53SPZePBZJe4D9WC8j9bynFjXBnsZGK1czyw82+1UNRqmnjSG/aCCYwWvg/QL4RT8bVdNFWtdz47Jn7SCqTzB6mYIrhvQYm7F5pWQUWua9mYuOq2Qevg/Xq5ei4k6U1cKy1O9Uaw4DouyNGF1CvsBbEbeqBSBkoyyARdVjY7TAeuPesgVunggWKFbPOVFTFwpijQlJTjtmhFDLw5WFfaI6eZXtOFrPG85eRItJJkwHC9Hu9I1gs8g5a2FTAduP8141rvPVvRdOBTjMpOkYK2Vl16n36gUtknmG37zqF6sEh877H8fHjevKlFWWOSoajCRGHF6Y42vj+Au5vj0e1OS+duc5Ka9IUMzkgda+M34hM8kcmDk3gkboZMQHYP+E8tJii5PuQPy8qQCUmfM3RENonD4S1k+ETkiVTkwFxIgERiss1sxg5kw2dKdjMn7SyI9GtRDpOo70YWWQRkJ/saxMtYJiIh/t3ndmP7adhIRELcdvpEcnxyhlLwyHODZPWQRMLHRPrE90DGQiIRsSXQh3SaJoMR83QyfugdMCIx2UlrDzv/vzakhcUEebKIODRHwyUgm4LkB7CQIRSSvuYZm5MhFJGdmmqszEtTeRDTzy7V/j9nMsVpp+Tqmwz2LZohlJA9JeL3p5Egkd0ic/RgRUq4tWyK2LHZdM1wCsigVB45ejQf3GH6QnxkOxlC0aNUYn+tvyNtPky7ov+/KERmOHtMBhcAo4cNmSOlKdm9YRiPFdJJyObuYnTbDBrympHtPckPwYz4HrIa3sV0JV53IdM96xA7MCnzA9T9rzPv9JWPc/f5H+gpz14=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d4ec6bfecd108e07a4d403b167ee2211",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 6.4 Ausfiihrung mit Abluftdrossel (nur bei NC-Ausfiihrung moglich) 6.5 Filtrierung 6.6 Einschaltdauer 7 Wartung 8 Demontage 10 9 EU-Konformitatserklarung 11",
+    "metadata": {
+      "text_as_html": "<table><tr><td>6.4</td><td>Ausfiihrung mit Abluftdrossel (nur bei NC-Ausfiihrung moglich)</td><td/></tr><tr><td>6.5</td><td>Filtrierung</td><td/></tr><tr><td>6.6</td><td>Einschaltdauer</td><td/></tr><tr><td>7</td><td>Wartung</td><td/></tr><tr><td>8</td><td>Demontage</td><td>10</td></tr><tr><td>9</td><td>EU-Konformitatserklarung</td><td>11</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzNWW1v2zYQ/iuEPqXAYr1bdhEUSJZ0GIp1AdKmH9pCoKSTzZmiPIpalwb57ztSjiUnGZ0NrVUGsWXzHvK5F5J39MdbBzhUIFTKCuclceaQgw9BTkOgpefFfjRLPEi8YOaFcRAnzk/EqUDRgiqK8reOfkibupU53H+GNJeAb2ZAP4kiz0vmwWziabDpr+qClcwisJZ1Dk3TS/jzaDoPJ0kYhZHva7k1yIo1DatFk27YfLx1cGTNIwwDL7r7jGIS8loWKa9zqmppKK6pWupx3fcNyMaVLM+pLBDYKEkVa9zLm3xJZXUp6z8gV41btGLRpOs6d4s6b7W1muNagDs3Lb0U0FYIXP2FPYynF5fX6flZej5ZF6Vzd4ckSsZB0AqMhZ8B2kDUzdpA6HrNGfJHXd1NN6di0dIFNFptB8TC0cqu8ZtUtFUGWtPAfCN75yZJlJRlGEAWB55Xgl+U81kRzUuALCpmxvwK/lYpbdKlqrjGnCiacXh1orK6uME3if/FK//ExVf9dMr5AgOICWi233UPrpHdyE96xC/AlTYokgSWL62oYNt78f74jLZV2yiQa8lYiUPYoOG289oYmLZNyZYSUSCsU0bbXvR/0a5UBk2+RKrZnhkn8bb3DQih49g+03Tbe4ahx6pKWwWNSYFcg/wCorDP+LZ3QltmtCUuOUUtjZIW2Jdt3+tWrHRQWYTD3m9XClqQvC3VZGJDDJym6bDO6uTtzyRwg+MPsAAbOnwa/PtzwA9cnsFXHWBCD3B0BqxZM+AvLPhoEKXvcO0JdDzjxfPA265fRaMo53SPZePBZJe4D9WC8j9bynFjXBnsZGK1czyw82+1UNRqmnjSG/aCCYwWvg/QL4RT8bVdNFWtdz47Jn7SCqTzB6mYIrhvQYm7F5pWQUWua9mYuOq2Qevg/Xq5ei4k6U1cKy1O9Uaw4DouyNGF1CvsBbEbeqBSBkoyyARdVjY7TAeuPesgVunggWKFbPOVFTFwpijQlJTjtmhFDLw5WFfaI6eZXtOFrPG85eRItJJkwHC9Hu9I1gs8g5a2FTAduP8141rvPVvRdOBTjMpOkYK2Vl16n36gUtknmG37zqF6sEh877H8fHjevKlFWWOSoajCRGHF6Y42vj+Au5vj0e1OS+duc5Ka9IUMzkgda+M34hM8kcmDk3gkboZMQHYP+E8tJii5PuQPy8qQCUmfM3RENonD4S1k+ETkiVTkwFxIgERiss1sxg5kw2dKdjMn7SyI9GtRDpOo70YWWQRkJ/saxMtYJiIh/t3ndmP7adhIRELcdvpEcnxyhlLwyHODZPWQRMLHRPrE90DGQiIRsSXQh3SaJoMR83QyfugdMCIx2UlrDzv/vzakhcUEebKIODRHwyUgm4LkB7CQIRSSvuYZm5MhFJGdmmqszEtTeRDTzy7V/j9nMsVpp+Tqmwz2LZohlJA9JeL3p5Egkd0ic/RgRUq4tWyK2LHZdM1wCsigVB45ejQf3GH6QnxkOxlC0aNUYn+tvyNtPky7ov+/KERmOHtMBhcAo4cNmSOlKdm9YRiPFdJJyObuYnTbDBrympHtPckPwYz4HrIa3sV0JV53IdM96xA7MCnzA9T9rzPv9JWPc/f5H+gpz14=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f46902c008ec86c1d353f9c97ed9bc52",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 1 Allgemeines\n\n1.1 Geltungsbereich\n\nDiese Erweiterung der allgemeinen Betriebsanleitung gilt für die Ventilbaureihe 5-FCF, für die Nennweiten DN 25, DN 50, DN 80 und DN 100, in den Ausführungen NC und NO mit einem oder zwei Endschalter- bzw. ohne Endschalterausführung.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztVE1T2zAQ/Ssan0Msf9u9AYHe0hwoF2A8a2mdqJUljyRDIZP/XsmTtqGHDj0ygy+yd98+vV09+W4focQBlWsFjz6RCKCsaUMp5lmVlXWXVk1NKVRFw3pecx4tSDSgAw4OPH4fhZfW6skw/PWNLTPol5kwqfKc0qpJ6yUNxXN+0Fz04h+A0WiG1v5BJE1eNtmyyvIsT5KAG9EMwlqhlW2Pau72kWcOOrIspfnhwcMMMm14KzUDp80scQS3C7zxV4vGxkYwBob7QusMOGHjzTPbgRk2Rn9D5mzMJ7W17ahZzDWbwrTsmVYYN/PTbhROgy/8/ugzQrZXm9t2ddGuliPvo8PBi+iFRAVDUBa9pehY4p7HuQTGUQqv3/caH9MS1HaCLdrQdoRqG4VmRx9p1TR0GDrNwtYOf7h5iORcyq0/aqF8UUgcyW+Ekxh56N9W4EVFEyjTomAJYxWrK5oVGU9rDk3CaPlhhfdqhWVCPqN0oRWfRsF2bzJEyXIKtC5oXde0T6qyQuiSJkmh6wDS7MMQ78gQc8T8x20/ddBKoEVyZZ5QODR+AoSjIfD7B6PIBTojsLOgpMcExFZIR/r7idKeGcIFktu5uw4mb8EdkuLs+vJ68RqyRqXmTRRZrUlaLMJS0HmpKZkUD28J9RGhvAhFzid7ZNgFYT6yvpxx6y9kEI4EeQPRQe+LZyZXilt/otL3cUa6l6cl0TuFp2F4zbg8vStrMMEWj3gTJnN4+AldtlcH",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "0ffede74f9e0dccc7118cdc3eb6774b4",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Sie ergänzt die „allgemeine Montage- und Betriebsanleitung für Armaturen“. Die allgemeine Betriebs- und Montageanleitung gilt unverändert, sofern sie nicht durch diese Anleitung ausgeschlossen oder ersetzt wird. Um eine einwandfreie Funktion unserer Produkte zu gewährleisten, sind die Anweisungen und Hinweise dieser und der allgemeinen Betriebsanleitung zu befolgen. Für explosionsgeschützte Geräte gilt zusätzlich die Betriebsanleitung „Erweiterungsmodul für Ventile mit nicht-elektrischem Ex-Schutz“ sowie",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJyNVE1v2zAM/SuCz41jx87Xbi2atpcVAbr10haGItGOFlsy9NG0KfrfR9pOMwzBsBwSh+J7fHyk/PQRQQ0NaF8oGX1j0YYvN+liUi5mfMGFkHm2lNP5JJWzaT7nsowuWNSA55J7jvkfET0UzgQr4PgfCmEBfzrCdJ7nSTJfThZxQuDuvDFSleofCa01Apw7ZaTLfLbM4nmWZ3maUl4LtlHOKaNdMah5+oiQmXRk2STJP18wzYIwVha1Edwb20lsud8S7/inA+vGVgnBrUSg85Z75cbrd7Hltllb8wuEd2MZdOWK1oixNCKQW25kNIyX3adYawgNAneveKLqYrV+LK6viuu4Rb8+P1FEqWrQvCFl0f+ABoh/bzsIb9taoX7sdTwc11xXgVfgqO0IdBVRsy1GCh2aDVCnWRexp+HiJJOUzybTqUiFmIvFPMmmmZwsJF+mIplFpNXDm6fkBwUMbPUckgRyffBMYuA5TJIUeF1XuDRKA/tutMeiIxa0ZFfgrYKN47oG5dE0VhK8FJZdWmw2oJaOQcTsGtn+4DlCe6KB9cRTqdrjySvYQY8E6y+YMyVYzRxyaSW2qBH3cEtKHbDLLzQPDp0S29rgSmmGk7bYmgOPXe2VlTH72bBOBn7tuZalBaS8CXpHnmNhXBTE4ELIsPPADoFVsO+lbC2WcR40ylGonWy61HuMYWnQXT93qgtAr8x2MRJxMkCfMQ+rbKA0mKJjdnN0Et5a7IPWvuupD2MnwG6P7uBzZ9ghuCFwwP3pfDlTpp/pyqJCD5ZWHS9RqE+ze+w2FFijfG/zCN8ZO6TB8tCw1dvoQWyDP/SjxaHssU5VlTHrKc8UxX5Pq6E3PHigCgQ8xFcxezQWLQ1g+9sBF2ylJZbjtSf73D6OkVSxe5KD/tEB9UKmnisGtia1/RLf/jU6Avai6RRdhd4vYHe8HBaoHJBfDsd0C48X9J5benO8wg+6PJ8vvwF1PtgK",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "534a7a5b639d5786b74490ec2eeb35b5",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. efolgen. Für explosionsgeschützte Geräte gilt zusätzlich die Betriebsanleitung „Erweiterungsmodul für Ventile mit nicht-elektrischem Ex-Schutz“ sowie ggf. weitere Betriebsanleitungen für Anbauteile wie z.B. Vorsteuerventile, Endschalter usw.. Bei Nichteinhaltung der Betriebsanleitungen erlischt die Gewährleistung sowie die gesetzliche Haftung auf die Geräte.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJyNVE1v2zAM/SuCz41jx87Xbi2atpcVAbr10haGItGOFlsy9NG0KfrfR9pOMwzBsBwSh+J7fHyk/PQRQQ0NaF8oGX1j0YYvN+liUi5mfMGFkHm2lNP5JJWzaT7nsowuWNSA55J7jvkfET0UzgQr4PgfCmEBfzrCdJ7nSTJfThZxQuDuvDFSleofCa01Apw7ZaTLfLbM4nmWZ3maUl4LtlHOKaNdMah5+oiQmXRk2STJP18wzYIwVha1Edwb20lsud8S7/inA+vGVgnBrUSg85Z75cbrd7Hltllb8wuEd2MZdOWK1oixNCKQW25kNIyX3adYawgNAneveKLqYrV+LK6viuu4Rb8+P1FEqWrQvCFl0f+ABoh/bzsIb9taoX7sdTwc11xXgVfgqO0IdBVRsy1GCh2aDVCnWRexp+HiJJOUzybTqUiFmIvFPMmmmZwsJF+mIplFpNXDm6fkBwUMbPUckgRyffBMYuA5TJIUeF1XuDRKA/tutMeiIxa0ZFfgrYKN47oG5dE0VhK8FJZdWmw2oJaOQcTsGtn+4DlCe6KB9cRTqdrjySvYQY8E6y+YMyVYzRxyaSW2qBH3cEtKHbDLLzQPDp0S29rgSmmGk7bYmgOPXe2VlTH72bBOBn7tuZalBaS8CXpHnmNhXBTE4ELIsPPADoFVsO+lbC2WcR40ylGonWy61HuMYWnQXT93qgtAr8x2MRJxMkCfMQ+rbKA0mKJjdnN0Et5a7IPWvuupD2MnwG6P7uBzZ9ghuCFwwP3pfDlTpp/pyqJCD5ZWHS9RqE+ze+w2FFijfG/zCN8ZO6TB8tCw1dvoQWyDP/SjxaHssU5VlTHrKc8UxX5Pq6E3PHigCgQ8xFcxezQWLQ1g+9sBF2ylJZbjtSf73D6OkVSxe5KD/tEB9UKmnisGtia1/RLf/jU6Avai6RRdhd4vYHe8HBaoHJBfDsd0C48X9J5benO8wg+6PJ8vvwF1PtgK",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "386384c34cef1f6c96a02babea6832f5",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 1.2 EU-Baumusterprüfung\n\nDie genannten Ventile wurden der EU-Baumusterprüfung (Modul B) – Baumuster nach Richtlinie 2014/68/EU unterzogen. Prüfgrundlagen: DIN EN 16678:2016-02, DIN EN 161:2013-04 (in Anlehnung), DIN 16304:2013-05 (in Anlehnung)\n\nDie Produkte sind als Ausrüstungsteil mit Sicherheitsfunktion als automatische Ventile für gasförmige Brennstoffe zertifiziert. Die Ventile dürfen baulich nicht verändert werden.\n\nZertifikat Nr.: Z-IS-TAF-MUC-21-12-2652116-16110837\n\n1.3 Ventilausführungen",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztVttu2zgQ/RVCTy1Q2bzomrdkkwX60MDYJn3oBQJNjmxuJErgJd0myL93qDhtUHQX7WOwMQxLJOcMz4zPofThNoMBRrChMzo7IlnJFPS65VC1UFNoS84rVvQ1DkXb1Cx7RbIRgtQySIy/zdJN56foFDyMoVMO8LIkZHVRUFq3vFnRBF7Wx0mb3vxHwOwmBd5/j2BtUbViVYtCFGxhMYMbjfdmsr47sPlwm2HmxEMITou7TxjmQE1Od8OkZJjcQnGWYZ/yri89OL92RinpNAJ9cDIYv958UXvpxo2b/gYV/FpHu/PdPKm1nlRM3fL5ZGHdLp9uYyGOCLy6xhUzdGebd93pSXe6mnWf3d0hid4MYOWYmGW/AjpAwpd5gch5Hgzyx1rXh+VB2l2UO/Cp7AzsLkvFzjjT2ThuIVUq0tYB/glLE1ecnF3mJzKO0Qdws/sYKe1Vj7WlhA97XZgwQIbIH5XBVbmtJO970WotKKOi0k2zBZA9LWSrn5XxhJSxzLjfsP1jKZ0aIDtkbW0AS94tLIF8jk7jUIP7V52RF28mHQdy8pJ8jJwyQb6FESvVnvxl1D4MxuIGuFysq2Z9dkki7uNuJtxyRTYP6XYuWj1gVfaInL4+J2fnhFVV3RwhsMopf/V9lqU5kdOCvDCWHNsB9hbZvLwPYZWgxSGi/CHisTHOpUsauIaL1IafGAQaqWittk1ZMq2auoBGiYILXcmm3wr5bJD/k0GwAzpeBSDeWE3k4Mlx9Afx+pC6EsAMZDSBvEXVg9uDCR5dcpW4LgAZw5Tq9Lj8zWb9fQpHdtLf31f4Z+6AnCBb68PU90BuwAVUyY3B64okOg9wfYD3aNWtjNibPbHJdeQaFnZQWLRwIJ8h2Xn1Ww5gtaA1Kl7qrdRVWRVtCdsefwQHXlfbZwc8IQc8FvT7ez1dyUDO3eqIvM9fv80vjv/M31z+kXOWM57zquQMT148bhltRP1L7xSirFRTiqaitKJKCV0zrgv8soa3+L7xLJgnKhi2EocjR8bDMaX2+MTGx/VPhPHpK+Mr/fw=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "976fbca19e5076d2765ac308e05117ff",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Ventiltyp Funktion Endschalteranzeige Materialausfiihrung Pilot- ventil Abluft- drossel Steuerluft- druck 5-FCF 25 NO Abblaseventil ohne Steuerenergie offen ohne Endschalter Aluminium oder Stah nein 4,5-38,0 bar 5-FCF25NO 1E geschlossen oder offen Aluminium oder Stah nein 4,5-38,0 bar",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ventiltyp</td><td>Funktion</td><td>Endschalteranzeige</td><td>Materialausfiihrung</td><td>Pilot- ventil</td><td>Abluft- drossel</td><td>Steuerluft- druck</td></tr><tr><td>5-FCF 25 NO</td><td>Abblaseventil ohne Steuerenergie offen</td><td>ohne Endschalter</td><td>Aluminium oder Stah</td><td/><td>nein</td><td>4,5-38,0 bar</td></tr><tr><td>5-FCF25NO 1E</td><td>geschlossen oder offen</td><td>Aluminium oder Stah</td><td/><td>nein</td><td>4,5-38,0 bar</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzVWW1v4zYM/iuEPzexHceJM3QFul76YcXuAtx2X64HQ5HoRFe/QbK3tUX++yTbcZOrk+bFWa5Fi9iiRD4kH6ok8vXZwBAjjDOfM+MXMAbYs/qBEwT9qesyytypg8QJrBEbom0zalyAEWFGGMmI2v9s6AdfJrmguHxHnwpUH4VCe9jvW9Zw1PO6lj5cyKOE8YBv2ZCKhKKULzvsUX8wcrpDp+/0bVvvS1FEXEqexNKv0Hx9NpRmjcNxlBuLb2qbQJoI5ocJJVkiCogpyeZar/mXRCFNwSklgqmDMhMk49KcPNI5EdFEJN+RZtJkeTyTfppQkyU019GSnSRGc1T8+JMY80gdfPhbSXjojydf/A+/+R+6KQuMxUKBCHiIMYk0MmOXQ9WR7DEtjpA0DbnCr3w1K3FI4llOZii12wbGM0M7m6oVP86jKWpPnWJFvCTXcQfUcx1vYFkDi1KHDe0e66tf2+uNqDvVijP8N/OJ9OdZFOozlxmZhnh1mc2RMPUh9OPVlwK0wndpqje9cpvHDxpgvTCOmVRhDDMUJH5CPsNa9IdKseAkJLkMOJ8LFd5aNuFhknWgjEq9ej0N80AtM5EoVrysf84wR7GU5fShlJgaprmEPE3YY4WcXbmd25tb6Lnw8ZPaocUMRPKPTEn8673h3BvK1jQkEksEkMxjhNIMxihmHCEJAoyXh6+KDSvO1oLrMI94zPMIFLWE0kHmtax+iJG/qOpfuB3Hu7BgSio1hSOryHvux09gj+sjigF0HuqgxKWZdXAnwVBGD3rNKPKY/W8gbjamUKrrQWxO4Qw7UEO+gDuVcIlw3VJSfyd7pvSmnZSuRMEeqjBIjnMERp5yuCMpzzAEtzs4EGYZ8Hayvqdl1zpvtf7ATWs3wC2V6YHGW8nTQbZ/rqJco9qODrSUuYNMt19fb1v23ll9edb5qss7Y3V577y6VN7OVFve2WrLtt5ZcVWIz1VflfXzFFhh/OeqsKN411a1HQmi3UnhbQxmNfKZ5exqLKq5Vs+z9eQKy4kVXk+qsDqh3ueWFdBiSoVqOl2Oo6vjZ8WLakItp1FYnZcaiv1HRkBDAELQNAbVJ8N93rNsByqH15Tb46abA5pzfriZ3hgaM3ioxhtoqKrdovKdvKX6VUx0ge4TkbdNqHg0VPw+Mdpmo+zkj+WNtU15e7zZauYg3mzReCxvtqpWMVnvyGG19Vt9bmRYEyF2+0e/KezNoXvl7j5JO3IxhycgwABhrv44SBhAF1wI1Vum3lMlvdOhVr9FNjel9OCl9W68PXZ5p2OXZ7V3K2010dKttMFG1aGd6Fqqu88T30t1n9kedapu5yTcqdu5E5Kn7tZOwp7iy4XqC40/dV9mLL79Bz4imlU=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "a8c68954b671826c0a97040aff24e2be",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 5-FCF 25 NO 2E geschlossen und offen Aluminium oder Stah nein 4,5-38,0 bar 5-FCF 25 NC Absperrventil ohne Steuerenergie ge- schlossen, Klasse A ohne Endschalter Aluminium oder Stah Ja 4,5-38,0 bar 5-FCF25NC 1E geschlossen oder offen Aluminium oder Stah siehe dazu Kapitel 5.6 Ja 4,5-38,0 bar",
+    "metadata": {
+      "text_as_html": "<table><tr><td>5-FCF 25 NO 2E</td><td>geschlossen und offen</td><td>Aluminium oder Stah</td><td/><td>nein</td><td>4,5-38,0 bar</td></tr><tr><td>5-FCF 25 NC</td><td>Absperrventil ohne Steuerenergie ge- schlossen, Klasse A</td><td>ohne Endschalter</td><td>Aluminium oder Stah</td><td/><td>Ja</td><td>4,5-38,0 bar</td></tr><tr><td>5-FCF25NC 1E</td><td>geschlossen oder offen</td><td>Aluminium oder Stah</td><td>siehe dazu Kapitel 5.6</td><td>Ja</td><td>4,5-38,0 bar</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzVWW1v4zYM/iuEPzexHceJM3QFul76YcXuAtx2X64HQ5HoRFe/QbK3tUX++yTbcZOrk+bFWa5Fi9iiRD4kH6ok8vXZwBAjjDOfM+MXMAbYs/qBEwT9qesyytypg8QJrBEbom0zalyAEWFGGMmI2v9s6AdfJrmguHxHnwpUH4VCe9jvW9Zw1PO6lj5cyKOE8YBv2ZCKhKKULzvsUX8wcrpDp+/0bVvvS1FEXEqexNKv0Hx9NpRmjcNxlBuLb2qbQJoI5ocJJVkiCogpyeZar/mXRCFNwSklgqmDMhMk49KcPNI5EdFEJN+RZtJkeTyTfppQkyU019GSnSRGc1T8+JMY80gdfPhbSXjojydf/A+/+R+6KQuMxUKBCHiIMYk0MmOXQ9WR7DEtjpA0DbnCr3w1K3FI4llOZii12wbGM0M7m6oVP86jKWpPnWJFvCTXcQfUcx1vYFkDi1KHDe0e66tf2+uNqDvVijP8N/OJ9OdZFOozlxmZhnh1mc2RMPUh9OPVlwK0wndpqje9cpvHDxpgvTCOmVRhDDMUJH5CPsNa9IdKseAkJLkMOJ8LFd5aNuFhknWgjEq9ej0N80AtM5EoVrysf84wR7GU5fShlJgaprmEPE3YY4WcXbmd25tb6Lnw8ZPaocUMRPKPTEn8673h3BvK1jQkEksEkMxjhNIMxihmHCEJAoyXh6+KDSvO1oLrMI94zPMIFLWE0kHmtax+iJG/qOpfuB3Hu7BgSio1hSOryHvux09gj+sjigF0HuqgxKWZdXAnwVBGD3rNKPKY/W8gbjamUKrrQWxO4Qw7UEO+gDuVcIlw3VJSfyd7pvSmnZSuRMEeqjBIjnMERp5yuCMpzzAEtzs4EGYZ8Hayvqdl1zpvtf7ATWs3wC2V6YHGW8nTQbZ/rqJco9qODrSUuYNMt19fb1v23ll9edb5qss7Y3V577y6VN7OVFve2WrLtt5ZcVWIz1VflfXzFFhh/OeqsKN411a1HQmi3UnhbQxmNfKZ5exqLKq5Vs+z9eQKy4kVXk+qsDqh3ueWFdBiSoVqOl2Oo6vjZ8WLakItp1FYnZcaiv1HRkBDAELQNAbVJ8N93rNsByqH15Tb46abA5pzfriZ3hgaM3ioxhtoqKrdovKdvKX6VUx0ge4TkbdNqHg0VPw+Mdpmo+zkj+WNtU15e7zZauYg3mzReCxvtqpWMVnvyGG19Vt9bmRYEyF2+0e/KezNoXvl7j5JO3IxhycgwABhrv44SBhAF1wI1Vum3lMlvdOhVr9FNjel9OCl9W68PXZ5p2OXZ7V3K2010dKttMFG1aGd6Fqqu88T30t1n9kedapu5yTcqdu5E5Kn7tZOwp7iy4XqC40/dV9mLL79Bz4imlU=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "4e4903fae22cb7aff798166f231ceeb1",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 5-FCF 25 NC 2E geschlossen und offen Aluminium oder Stah Ja 4,5-38,0 bar 5-FCF 50 NO Abblaseventil ohne Steuerenergie offen ohne Endschalter Aluminium oder Stah nein 4,0-38,0 bar 5-FCF 50 NO 1E geschlossen oder offen Aluminium oder Stah nein 4,0-38,0 bar",
+    "metadata": {
+      "text_as_html": "<table><tr><td>5-FCF 25 NC 2E</td><td>geschlossen und offen</td><td>Aluminium oder Stah</td><td>Ja</td><td>4,5-38,0 bar</td></tr><tr><td>5-FCF 50 NO</td><td>Abblaseventil ohne Steuerenergie offen</td><td>ohne Endschalter</td><td>Aluminium oder Stah</td><td>nein</td><td>4,0-38,0 bar</td></tr><tr><td>5-FCF 50 NO 1E</td><td>geschlossen oder offen</td><td>Aluminium oder Stah</td><td>nein</td><td>4,0-38,0 bar</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzVWW1v4zYM/iuEPzexHceJM3QFul76YcXuAtx2X64HQ5HoRFe/QbK3tUX++yTbcZOrk+bFWa5Fi9iiRD4kH6ok8vXZwBAjjDOfM+MXMAbYs/qBEwT9qesyytypg8QJrBEbom0zalyAEWFGGMmI2v9s6AdfJrmguHxHnwpUH4VCe9jvW9Zw1PO6lj5cyKOE8YBv2ZCKhKKULzvsUX8wcrpDp+/0bVvvS1FEXEqexNKv0Hx9NpRmjcNxlBuLb2qbQJoI5ocJJVkiCogpyeZar/mXRCFNwSklgqmDMhMk49KcPNI5EdFEJN+RZtJkeTyTfppQkyU019GSnSRGc1T8+JMY80gdfPhbSXjojydf/A+/+R+6KQuMxUKBCHiIMYk0MmOXQ9WR7DEtjpA0DbnCr3w1K3FI4llOZii12wbGM0M7m6oVP86jKWpPnWJFvCTXcQfUcx1vYFkDi1KHDe0e66tf2+uNqDvVijP8N/OJ9OdZFOozlxmZhnh1mc2RMPUh9OPVlwK0wndpqje9cpvHDxpgvTCOmVRhDDMUJH5CPsNa9IdKseAkJLkMOJ8LFd5aNuFhknWgjEq9ej0N80AtM5EoVrysf84wR7GU5fShlJgaprmEPE3YY4WcXbmd25tb6Lnw8ZPaocUMRPKPTEn8673h3BvK1jQkEksEkMxjhNIMxihmHCEJAoyXh6+KDSvO1oLrMI94zPMIFLWE0kHmtax+iJG/qOpfuB3Hu7BgSio1hSOryHvux09gj+sjigF0HuqgxKWZdXAnwVBGD3rNKPKY/W8gbjamUKrrQWxO4Qw7UEO+gDuVcIlw3VJSfyd7pvSmnZSuRMEeqjBIjnMERp5yuCMpzzAEtzs4EGYZ8Hayvqdl1zpvtf7ATWs3wC2V6YHGW8nTQbZ/rqJco9qODrSUuYNMt19fb1v23ll9edb5qss7Y3V577y6VN7OVFve2WrLtt5ZcVWIz1VflfXzFFhh/OeqsKN411a1HQmi3UnhbQxmNfKZ5exqLKq5Vs+z9eQKy4kVXk+qsDqh3ueWFdBiSoVqOl2Oo6vjZ8WLakItp1FYnZcaiv1HRkBDAELQNAbVJ8N93rNsByqH15Tb46abA5pzfriZ3hgaM3ioxhtoqKrdovKdvKX6VUx0ge4TkbdNqHg0VPw+Mdpmo+zkj+WNtU15e7zZauYg3mzReCxvtqpWMVnvyGG19Vt9bmRYEyF2+0e/KezNoXvl7j5JO3IxhycgwABhrv44SBhAF1wI1Vum3lMlvdOhVr9FNjel9OCl9W68PXZ5p2OXZ7V3K2010dKttMFG1aGd6Fqqu88T30t1n9kedapu5yTcqdu5E5Kn7tZOwp7iy4XqC40/dV9mLL79Bz4imlU=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "95fc728907b815848d7b30f1546098df",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 5-FCF 50 NO 2E geschlossen und offen Aluminium oder Stah nein 4,0-38,0 bar 5-FCF 50 NC Absperrventil ohne Steuerenergie ge- schlossen, Klasse A ohne Endschalter Aluminium oder Stah Ja 4,0-38,0 bar 5-FCF 50 NC 1E geschlossen oder offen Aluminium oder Stah Ja 4,0-38,0 bar",
+    "metadata": {
+      "text_as_html": "<table><tr><td>5-FCF 50 NO 2E</td><td>geschlossen und offen</td><td>Aluminium oder Stah</td><td>nein</td><td>4,0-38,0 bar</td></tr><tr><td>5-FCF 50 NC</td><td>Absperrventil ohne Steuerenergie ge- schlossen, Klasse A</td><td>ohne Endschalter</td><td>Aluminium oder Stah</td><td>Ja</td><td>4,0-38,0 bar</td></tr><tr><td>5-FCF 50 NC 1E</td><td>geschlossen oder offen</td><td>Aluminium oder Stah</td><td>Ja</td><td>4,0-38,0 bar</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzVWW1v4zYM/iuEPzexHceJM3QFul76YcXuAtx2X64HQ5HoRFe/QbK3tUX++yTbcZOrk+bFWa5Fi9iiRD4kH6ok8vXZwBAjjDOfM+MXMAbYs/qBEwT9qesyytypg8QJrBEbom0zalyAEWFGGMmI2v9s6AdfJrmguHxHnwpUH4VCe9jvW9Zw1PO6lj5cyKOE8YBv2ZCKhKKULzvsUX8wcrpDp+/0bVvvS1FEXEqexNKv0Hx9NpRmjcNxlBuLb2qbQJoI5ocJJVkiCogpyeZar/mXRCFNwSklgqmDMhMk49KcPNI5EdFEJN+RZtJkeTyTfppQkyU019GSnSRGc1T8+JMY80gdfPhbSXjojydf/A+/+R+6KQuMxUKBCHiIMYk0MmOXQ9WR7DEtjpA0DbnCr3w1K3FI4llOZii12wbGM0M7m6oVP86jKWpPnWJFvCTXcQfUcx1vYFkDi1KHDe0e66tf2+uNqDvVijP8N/OJ9OdZFOozlxmZhnh1mc2RMPUh9OPVlwK0wndpqje9cpvHDxpgvTCOmVRhDDMUJH5CPsNa9IdKseAkJLkMOJ8LFd5aNuFhknWgjEq9ej0N80AtM5EoVrysf84wR7GU5fShlJgaprmEPE3YY4WcXbmd25tb6Lnw8ZPaocUMRPKPTEn8673h3BvK1jQkEksEkMxjhNIMxihmHCEJAoyXh6+KDSvO1oLrMI94zPMIFLWE0kHmtax+iJG/qOpfuB3Hu7BgSio1hSOryHvux09gj+sjigF0HuqgxKWZdXAnwVBGD3rNKPKY/W8gbjamUKrrQWxO4Qw7UEO+gDuVcIlw3VJSfyd7pvSmnZSuRMEeqjBIjnMERp5yuCMpzzAEtzs4EGYZ8Hayvqdl1zpvtf7ATWs3wC2V6YHGW8nTQbZ/rqJco9qODrSUuYNMt19fb1v23ll9edb5qss7Y3V577y6VN7OVFve2WrLtt5ZcVWIz1VflfXzFFhh/OeqsKN411a1HQmi3UnhbQxmNfKZ5exqLKq5Vs+z9eQKy4kVXk+qsDqh3ueWFdBiSoVqOl2Oo6vjZ8WLakItp1FYnZcaiv1HRkBDAELQNAbVJ8N93rNsByqH15Tb46abA5pzfriZ3hgaM3ioxhtoqKrdovKdvKX6VUx0ge4TkbdNqHg0VPw+Mdpmo+zkj+WNtU15e7zZauYg3mzReCxvtqpWMVnvyGG19Vt9bmRYEyF2+0e/KezNoXvl7j5JO3IxhycgwABhrv44SBhAF1wI1Vum3lMlvdOhVr9FNjel9OCl9W68PXZ5p2OXZ7V3K2010dKttMFG1aGd6Fqqu88T30t1n9kedapu5yTcqdu5E5Kn7tZOwp7iy4XqC40/dV9mLL79Bz4imlU=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "be7272fd3ff01059e9033fd68d8b0ee4",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 5-FCF 50 NC 2E geschlossen und offen Aluminium oder Stah Ja 4,0-38,0 bar 5-FCF 80 NO Abblaseventil ohne Steuerenergie offen ohne Endschalter Aluminium oder Stah nein 4,0-38,0 bar 5-FCF80NO 1E geschlossen oder offen Aluminium oder Stah nein 4,0-38,0 bar",
+    "metadata": {
+      "text_as_html": "<table><tr><td>5-FCF 50 NC 2E</td><td>geschlossen und offen</td><td>Aluminium oder Stah</td><td>Ja</td><td>4,0-38,0 bar</td></tr><tr><td>5-FCF 80 NO</td><td>Abblaseventil ohne Steuerenergie offen</td><td>ohne Endschalter</td><td>Aluminium oder Stah</td><td>nein</td><td>4,0-38,0 bar</td></tr><tr><td>5-FCF80NO 1E</td><td>geschlossen oder offen</td><td>Aluminium oder Stah</td><td>nein</td><td>4,0-38,0 bar</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzVWW1v4zYM/iuEPzexHceJM3QFul76YcXuAtx2X64HQ5HoRFe/QbK3tUX++yTbcZOrk+bFWa5Fi9iiRD4kH6ok8vXZwBAjjDOfM+MXMAbYs/qBEwT9qesyytypg8QJrBEbom0zalyAEWFGGMmI2v9s6AdfJrmguHxHnwpUH4VCe9jvW9Zw1PO6lj5cyKOE8YBv2ZCKhKKULzvsUX8wcrpDp+/0bVvvS1FEXEqexNKv0Hx9NpRmjcNxlBuLb2qbQJoI5ocJJVkiCogpyeZar/mXRCFNwSklgqmDMhMk49KcPNI5EdFEJN+RZtJkeTyTfppQkyU019GSnSRGc1T8+JMY80gdfPhbSXjojydf/A+/+R+6KQuMxUKBCHiIMYk0MmOXQ9WR7DEtjpA0DbnCr3w1K3FI4llOZii12wbGM0M7m6oVP86jKWpPnWJFvCTXcQfUcx1vYFkDi1KHDe0e66tf2+uNqDvVijP8N/OJ9OdZFOozlxmZhnh1mc2RMPUh9OPVlwK0wndpqje9cpvHDxpgvTCOmVRhDDMUJH5CPsNa9IdKseAkJLkMOJ8LFd5aNuFhknWgjEq9ej0N80AtM5EoVrysf84wR7GU5fShlJgaprmEPE3YY4WcXbmd25tb6Lnw8ZPaocUMRPKPTEn8673h3BvK1jQkEksEkMxjhNIMxihmHCEJAoyXh6+KDSvO1oLrMI94zPMIFLWE0kHmtax+iJG/qOpfuB3Hu7BgSio1hSOryHvux09gj+sjigF0HuqgxKWZdXAnwVBGD3rNKPKY/W8gbjamUKrrQWxO4Qw7UEO+gDuVcIlw3VJSfyd7pvSmnZSuRMEeqjBIjnMERp5yuCMpzzAEtzs4EGYZ8Hayvqdl1zpvtf7ATWs3wC2V6YHGW8nTQbZ/rqJco9qODrSUuYNMt19fb1v23ll9edb5qss7Y3V577y6VN7OVFve2WrLtt5ZcVWIz1VflfXzFFhh/OeqsKN411a1HQmi3UnhbQxmNfKZ5exqLKq5Vs+z9eQKy4kVXk+qsDqh3ueWFdBiSoVqOl2Oo6vjZ8WLakItp1FYnZcaiv1HRkBDAELQNAbVJ8N93rNsByqH15Tb46abA5pzfriZ3hgaM3ioxhtoqKrdovKdvKX6VUx0ge4TkbdNqHg0VPw+Mdpmo+zkj+WNtU15e7zZauYg3mzReCxvtqpWMVnvyGG19Vt9bmRYEyF2+0e/KezNoXvl7j5JO3IxhycgwABhrv44SBhAF1wI1Vum3lMlvdOhVr9FNjel9OCl9W68PXZ5p2OXZ7V3K2010dKttMFG1aGd6Fqqu88T30t1n9kedapu5yTcqdu5E5Kn7tZOwp7iy4XqC40/dV9mLL79Bz4imlU=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "db58b97c06c4f80875cc2fde393e15f4",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 5-FCF 80 NO 2E geschlossen und offen Aluminium oder Stah nein 4,0-38,0 bar 5-FCF 80 NC Absperrventil ohne Steuerenergie ge- schlossen, Klasse A ohne Endschalter Aluminium oder Stah Ja 4,0-38,0 bar 5-FCF80NC 1E geschlossen oder offen Aluminium oder Stah Ja 4,0-38,0 bar",
+    "metadata": {
+      "text_as_html": "<table><tr><td>5-FCF 80 NO 2E</td><td>geschlossen und offen</td><td>Aluminium oder Stah</td><td>nein</td><td>4,0-38,0 bar</td></tr><tr><td>5-FCF 80 NC</td><td>Absperrventil ohne Steuerenergie ge- schlossen, Klasse A</td><td>ohne Endschalter</td><td>Aluminium oder Stah</td><td>Ja</td><td>4,0-38,0 bar</td></tr><tr><td>5-FCF80NC 1E</td><td>geschlossen oder offen</td><td>Aluminium oder Stah</td><td>Ja</td><td>4,0-38,0 bar</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzVWW1v4zYM/iuEPzexHceJM3QFul76YcXuAtx2X64HQ5HoRFe/QbK3tUX++yTbcZOrk+bFWa5Fi9iiRD4kH6ok8vXZwBAjjDOfM+MXMAbYs/qBEwT9qesyytypg8QJrBEbom0zalyAEWFGGMmI2v9s6AdfJrmguHxHnwpUH4VCe9jvW9Zw1PO6lj5cyKOE8YBv2ZCKhKKULzvsUX8wcrpDp+/0bVvvS1FEXEqexNKv0Hx9NpRmjcNxlBuLb2qbQJoI5ocJJVkiCogpyeZar/mXRCFNwSklgqmDMhMk49KcPNI5EdFEJN+RZtJkeTyTfppQkyU019GSnSRGc1T8+JMY80gdfPhbSXjojydf/A+/+R+6KQuMxUKBCHiIMYk0MmOXQ9WR7DEtjpA0DbnCr3w1K3FI4llOZii12wbGM0M7m6oVP86jKWpPnWJFvCTXcQfUcx1vYFkDi1KHDe0e66tf2+uNqDvVijP8N/OJ9OdZFOozlxmZhnh1mc2RMPUh9OPVlwK0wndpqje9cpvHDxpgvTCOmVRhDDMUJH5CPsNa9IdKseAkJLkMOJ8LFd5aNuFhknWgjEq9ej0N80AtM5EoVrysf84wR7GU5fShlJgaprmEPE3YY4WcXbmd25tb6Lnw8ZPaocUMRPKPTEn8673h3BvK1jQkEksEkMxjhNIMxihmHCEJAoyXh6+KDSvO1oLrMI94zPMIFLWE0kHmtax+iJG/qOpfuB3Hu7BgSio1hSOryHvux09gj+sjigF0HuqgxKWZdXAnwVBGD3rNKPKY/W8gbjamUKrrQWxO4Qw7UEO+gDuVcIlw3VJSfyd7pvSmnZSuRMEeqjBIjnMERp5yuCMpzzAEtzs4EGYZ8Hayvqdl1zpvtf7ATWs3wC2V6YHGW8nTQbZ/rqJco9qODrSUuYNMt19fb1v23ll9edb5qss7Y3V577y6VN7OVFve2WrLtt5ZcVWIz1VflfXzFFhh/OeqsKN411a1HQmi3UnhbQxmNfKZ5exqLKq5Vs+z9eQKy4kVXk+qsDqh3ueWFdBiSoVqOl2Oo6vjZ8WLakItp1FYnZcaiv1HRkBDAELQNAbVJ8N93rNsByqH15Tb46abA5pzfriZ3hgaM3ioxhtoqKrdovKdvKX6VUx0ge4TkbdNqHg0VPw+Mdpmo+zkj+WNtU15e7zZauYg3mzReCxvtqpWMVnvyGG19Vt9bmRYEyF2+0e/KezNoXvl7j5JO3IxhycgwABhrv44SBhAF1wI1Vum3lMlvdOhVr9FNjel9OCl9W68PXZ5p2OXZ7V3K2010dKttMFG1aGd6Fqqu88T30t1n9kedapu5yTcqdu5E5Kn7tZOwp7iy4XqC40/dV9mLL79Bz4imlU=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "cecaf9d53ed61eb5068c440ec3cf44dd",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 5-FCF 80 NC 2E geschlossen und offen Aluminium oder Stah Ja 4,0-38,0 bar 5-FCF 100 NO Abblaseventil ohne Steuerenergie offen ohne Endschalter Aluminium oder Stah nein 4,0-38,0 bar 5-FCF 100 NO 1E geschlossen oder offen Aluminium oder Stah nein 4,0-38,0 bar",
+    "metadata": {
+      "text_as_html": "<table><tr><td>5-FCF 80 NC 2E</td><td>geschlossen und offen</td><td>Aluminium oder Stah</td><td>Ja</td><td>4,0-38,0 bar</td></tr><tr><td>5-FCF 100 NO</td><td>Abblaseventil ohne Steuerenergie offen</td><td>ohne Endschalter</td><td>Aluminium oder Stah</td><td>nein</td><td>4,0-38,0 bar</td></tr><tr><td>5-FCF 100 NO 1E</td><td>geschlossen oder offen</td><td>Aluminium oder Stah</td><td>nein</td><td>4,0-38,0 bar</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzVWW1v4zYM/iuEPzexHceJM3QFul76YcXuAtx2X64HQ5HoRFe/QbK3tUX++yTbcZOrk+bFWa5Fi9iiRD4kH6ok8vXZwBAjjDOfM+MXMAbYs/qBEwT9qesyytypg8QJrBEbom0zalyAEWFGGMmI2v9s6AdfJrmguHxHnwpUH4VCe9jvW9Zw1PO6lj5cyKOE8YBv2ZCKhKKULzvsUX8wcrpDp+/0bVvvS1FEXEqexNKv0Hx9NpRmjcNxlBuLb2qbQJoI5ocJJVkiCogpyeZar/mXRCFNwSklgqmDMhMk49KcPNI5EdFEJN+RZtJkeTyTfppQkyU019GSnSRGc1T8+JMY80gdfPhbSXjojydf/A+/+R+6KQuMxUKBCHiIMYk0MmOXQ9WR7DEtjpA0DbnCr3w1K3FI4llOZii12wbGM0M7m6oVP86jKWpPnWJFvCTXcQfUcx1vYFkDi1KHDe0e66tf2+uNqDvVijP8N/OJ9OdZFOozlxmZhnh1mc2RMPUh9OPVlwK0wndpqje9cpvHDxpgvTCOmVRhDDMUJH5CPsNa9IdKseAkJLkMOJ8LFd5aNuFhknWgjEq9ej0N80AtM5EoVrysf84wR7GU5fShlJgaprmEPE3YY4WcXbmd25tb6Lnw8ZPaocUMRPKPTEn8673h3BvK1jQkEksEkMxjhNIMxihmHCEJAoyXh6+KDSvO1oLrMI94zPMIFLWE0kHmtax+iJG/qOpfuB3Hu7BgSio1hSOryHvux09gj+sjigF0HuqgxKWZdXAnwVBGD3rNKPKY/W8gbjamUKrrQWxO4Qw7UEO+gDuVcIlw3VJSfyd7pvSmnZSuRMEeqjBIjnMERp5yuCMpzzAEtzs4EGYZ8Hayvqdl1zpvtf7ATWs3wC2V6YHGW8nTQbZ/rqJco9qODrSUuYNMt19fb1v23ll9edb5qss7Y3V577y6VN7OVFve2WrLtt5ZcVWIz1VflfXzFFhh/OeqsKN411a1HQmi3UnhbQxmNfKZ5exqLKq5Vs+z9eQKy4kVXk+qsDqh3ueWFdBiSoVqOl2Oo6vjZ8WLakItp1FYnZcaiv1HRkBDAELQNAbVJ8N93rNsByqH15Tb46abA5pzfriZ3hgaM3ioxhtoqKrdovKdvKX6VUx0ge4TkbdNqHg0VPw+Mdpmo+zkj+WNtU15e7zZauYg3mzReCxvtqpWMVnvyGG19Vt9bmRYEyF2+0e/KezNoXvl7j5JO3IxhycgwABhrv44SBhAF1wI1Vum3lMlvdOhVr9FNjel9OCl9W68PXZ5p2OXZ7V3K2010dKttMFG1aGd6Fqqu88T30t1n9kedapu5yTcqdu5E5Kn7tZOwp7iy4XqC40/dV9mLL79Bz4imlU=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "9a895da75871e4c8af3555b1449c570a",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 5-FCF 100 NO 2E geschlossen und offen Aluminium oder Stah nein 4,0-38,0 bar 5-FCF 100 NC Absperrventil ohne Steuerenergie ge- schlossen, Klasse A ohne Endschalter Aluminium oder Stah Ja 4,0-38,0 bar 5-FCF 100 NC 1E geschlossen oder offen Aluminium oder Stah Ja 4,0-38,0 bar",
+    "metadata": {
+      "text_as_html": "<table><tr><td>5-FCF 100 NO 2E</td><td>geschlossen und offen</td><td>Aluminium oder Stah</td><td>nein</td><td>4,0-38,0 bar</td></tr><tr><td>5-FCF 100 NC</td><td>Absperrventil ohne Steuerenergie ge- schlossen, Klasse A</td><td>ohne Endschalter</td><td>Aluminium oder Stah</td><td/><td>Ja</td><td>4,0-38,0 bar</td></tr><tr><td>5-FCF 100 NC 1E</td><td>geschlossen oder offen</td><td>Aluminium oder Stah</td><td/><td>Ja</td><td>4,0-38,0 bar</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzVWW1v4zYM/iuEPzexHceJM3QFul76YcXuAtx2X64HQ5HoRFe/QbK3tUX++yTbcZOrk+bFWa5Fi9iiRD4kH6ok8vXZwBAjjDOfM+MXMAbYs/qBEwT9qesyytypg8QJrBEbom0zalyAEWFGGMmI2v9s6AdfJrmguHxHnwpUH4VCe9jvW9Zw1PO6lj5cyKOE8YBv2ZCKhKKULzvsUX8wcrpDp+/0bVvvS1FEXEqexNKv0Hx9NpRmjcNxlBuLb2qbQJoI5ocJJVkiCogpyeZar/mXRCFNwSklgqmDMhMk49KcPNI5EdFEJN+RZtJkeTyTfppQkyU019GSnSRGc1T8+JMY80gdfPhbSXjojydf/A+/+R+6KQuMxUKBCHiIMYk0MmOXQ9WR7DEtjpA0DbnCr3w1K3FI4llOZii12wbGM0M7m6oVP86jKWpPnWJFvCTXcQfUcx1vYFkDi1KHDe0e66tf2+uNqDvVijP8N/OJ9OdZFOozlxmZhnh1mc2RMPUh9OPVlwK0wndpqje9cpvHDxpgvTCOmVRhDDMUJH5CPsNa9IdKseAkJLkMOJ8LFd5aNuFhknWgjEq9ej0N80AtM5EoVrysf84wR7GU5fShlJgaprmEPE3YY4WcXbmd25tb6Lnw8ZPaocUMRPKPTEn8673h3BvK1jQkEksEkMxjhNIMxihmHCEJAoyXh6+KDSvO1oLrMI94zPMIFLWE0kHmtax+iJG/qOpfuB3Hu7BgSio1hSOryHvux09gj+sjigF0HuqgxKWZdXAnwVBGD3rNKPKY/W8gbjamUKrrQWxO4Qw7UEO+gDuVcIlw3VJSfyd7pvSmnZSuRMEeqjBIjnMERp5yuCMpzzAEtzs4EGYZ8Hayvqdl1zpvtf7ATWs3wC2V6YHGW8nTQbZ/rqJco9qODrSUuYNMt19fb1v23ll9edb5qss7Y3V577y6VN7OVFve2WrLtt5ZcVWIz1VflfXzFFhh/OeqsKN411a1HQmi3UnhbQxmNfKZ5exqLKq5Vs+z9eQKy4kVXk+qsDqh3ueWFdBiSoVqOl2Oo6vjZ8WLakItp1FYnZcaiv1HRkBDAELQNAbVJ8N93rNsByqH15Tb46abA5pzfriZ3hgaM3ioxhtoqKrdovKdvKX6VUx0ge4TkbdNqHg0VPw+Mdpmo+zkj+WNtU15e7zZauYg3mzReCxvtqpWMVnvyGG19Vt9bmRYEyF2+0e/KezNoXvl7j5JO3IxhycgwABhrv44SBhAF1wI1Vum3lMlvdOhVr9FNjel9OCl9W68PXZ5p2OXZ7V3K2010dKttMFG1aGd6Fqqu88T30t1n9kedapu5yTcqdu5E5Kn7tZOwp7iy4XqC40/dV9mLL79Bz4imlU=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "0a3cc65ccc83fd45dabcc50590328ba0",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 5-FCF 100 NC 2E geschlossen und offen Aluminium oder Stah Ja 4,0-38,0 bar",
+    "metadata": {
+      "text_as_html": "<table><tr><td>5-FCF 100 NC 2E</td><td>geschlossen und offen</td><td>Aluminium oder Stah</td><td/><td>Ja</td><td>4,0-38,0 bar</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzVWW1v4zYM/iuEPzexHceJM3QFul76YcXuAtx2X64HQ5HoRFe/QbK3tUX++yTbcZOrk+bFWa5Fi9iiRD4kH6ok8vXZwBAjjDOfM+MXMAbYs/qBEwT9qesyytypg8QJrBEbom0zalyAEWFGGMmI2v9s6AdfJrmguHxHnwpUH4VCe9jvW9Zw1PO6lj5cyKOE8YBv2ZCKhKKULzvsUX8wcrpDp+/0bVvvS1FEXEqexNKv0Hx9NpRmjcNxlBuLb2qbQJoI5ocJJVkiCogpyeZar/mXRCFNwSklgqmDMhMk49KcPNI5EdFEJN+RZtJkeTyTfppQkyU019GSnSRGc1T8+JMY80gdfPhbSXjojydf/A+/+R+6KQuMxUKBCHiIMYk0MmOXQ9WR7DEtjpA0DbnCr3w1K3FI4llOZii12wbGM0M7m6oVP86jKWpPnWJFvCTXcQfUcx1vYFkDi1KHDe0e66tf2+uNqDvVijP8N/OJ9OdZFOozlxmZhnh1mc2RMPUh9OPVlwK0wndpqje9cpvHDxpgvTCOmVRhDDMUJH5CPsNa9IdKseAkJLkMOJ8LFd5aNuFhknWgjEq9ej0N80AtM5EoVrysf84wR7GU5fShlJgaprmEPE3YY4WcXbmd25tb6Lnw8ZPaocUMRPKPTEn8673h3BvK1jQkEksEkMxjhNIMxihmHCEJAoyXh6+KDSvO1oLrMI94zPMIFLWE0kHmtax+iJG/qOpfuB3Hu7BgSio1hSOryHvux09gj+sjigF0HuqgxKWZdXAnwVBGD3rNKPKY/W8gbjamUKrrQWxO4Qw7UEO+gDuVcIlw3VJSfyd7pvSmnZSuRMEeqjBIjnMERp5yuCMpzzAEtzs4EGYZ8Hayvqdl1zpvtf7ATWs3wC2V6YHGW8nTQbZ/rqJco9qODrSUuYNMt19fb1v23ll9edb5qss7Y3V577y6VN7OVFve2WrLtt5ZcVWIz1VflfXzFFhh/OeqsKN411a1HQmi3UnhbQxmNfKZ5exqLKq5Vs+z9eQKy4kVXk+qsDqh3ueWFdBiSoVqOl2Oo6vjZ8WLakItp1FYnZcaiv1HRkBDAELQNAbVJ8N93rNsByqH15Tb46abA5pzfriZ3hgaM3ioxhtoqKrdovKdvKX6VUx0ge4TkbdNqHg0VPw+Mdpmo+zkj+WNtU15e7zZauYg3mzReCxvtqpWMVnvyGG19Vt9bmRYEyF2+0e/KezNoXvl7j5JO3IxhycgwABhrv44SBhAF1wI1Vum3lMlvdOhVr9FNjel9OCl9W68PXZ5p2OXZ7V3K2010dKttMFG1aGd6Fqqu88T30t1n9kedapu5yTcqdu5E5Kn7tZOwp7iy4XqC40/dV9mLL79Bz4imlU=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "078919adef106f66526abe2d16b52a93",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 10. Oktober 2022\n\nSeite 1 von 11\n\n1.4 Produktbeschreibung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztVMuK3DAQ/BWjc2LLktaPHMMmx2Qgj8uyiLbUnlHGlowkL1mG+fdI3hnyIIRcF9YXW+6qclVT+O5EcMIZbZRGkzcFaUCpWvUdtCOlKFDotutrBgA4spZx8qogM0bQECHhTyQ/yOBWr/B6Rqk8ptsmWLdCUNr2rCtpJm/z2Wkzmn8AFu8UhvATUfei6XnZcsFFXWfcgn42IRhng7y4uTuRpJx9cM6oON8nmEflvJaTUxCd3ywuEA9Zt/oS0IfKG6XA60QM0UM0odo9qgP4eefdN1QxVHq1+yAXpyrt1Jq3FV47i1W/XXJncZ0T8fiQJmaS73Zf5e1beVsueiTnczIxmgktzNkZ+R/ShRIfl40CyzKZ5D9lrS7jCex+hT2GHJug3ZMcdklvpF3nAXNSnj8d8XvclkjL4uMxujQqGGUsi1z13zsXEyPB/6yDaDSojgmqOxh1q6HrKSAT2OiGKc5e6vBM6/AJTcSiLh6cLZ4WeFXfJdKHJ87fCtFxDfVNKwZOFRuFumn4QGnTac5bRbuXQjyfQojf/g+lKFIgvR7jgEEdPJohxfq1GZ9NnJCc738AcVz5Vg==",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "c8c1ddb5f8e6683faaf6d88e1505b665",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Die baumustergeprüfte Ventilbaureihe 5-FCF gibt es nur in der 2/2-Wege Ausführung. Die Schaltstellung wird je nach Anwendung in Grundstellung geschlossen (NC = normally closed) oder in Grundstellung geöffnet (NO = normally open) ausgeliefert und ist auf dem Typenschild gekennzeichnet. Bei angelegter Steuerluft und Steuerspannung am Steuerventil schalten die Ventile in die Arbeitsstellung. Bei deaktivierter Steuerspannung oder abgeschalteter Druckluft schalten die Ventile in die Grundstellung zurück.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJyNU01P3DAQ/SujnIpUNtlN9qtSD8CW3igSlB4oihx7nDXr2JE/oID2v3ec3YVWqlBzSTwz782bN87tS4YaOzShViL7BFkxXhYLVsiymZZsImdLLKZVucTZTI65mCyyj5B1GJhggVH9S5Y+am+j43g4Y80d0msgHM+rqijmy8liVCTwkO+sUFK9U9A7y9H7t4rxspoty9G8rMpqPE51PbpOea+s8fVeze1LRsxJR1lOimp7R2UOuXWi1pazYN0gsWdhnXjz7x6dz53inDlBQB8cC8rnl098zVx36ew98uBzEU3r697yXFgek1v+2BrMl8NTXxqMHQE3D5RRuv5yeVOvTuvVqBcy225JhFQaDeuSsux/QHtIeOoHCOt7rUg/zZrv05qZNrIWfRo7Q9NmadieIrWJXYNp0mqIuLflVotSsPF0XjVlwSey4tNZ2RTFbCHKcs6LRZa0BvwVUvFKITQsdtEHdC327mcsCsllQLgZJFPSoVojTI/Pz86hVU0A9GCiA2VAoINJPjn+gS3CSfRyB1878nIEifyKTNaB2LWmGDwqJ+AewTC+hhPziCbZnqi+Eka81tHMfK0tXQ4DHy7O4DMY6zqm9RNwCqM4Apua/wM4SJhJaTAQ9NufUNujOQIWfYtaoUQXgLCgfKCgpGk6uKZtGOqttCCuDRrzjIqviWwEp6iANkL/UktuwVXAiE5HuWPZHX3PjElCWLeP7FYPfjCCxhHq4C0OFtLxxDWogj8MseskkG2CelCk8rXZK/swPGsGmxJtKlm5yDeDnPd6/W3Xc9xvnG9G6cYdLuMFc+kvecDrdFG2d78Bz0NxzQ==",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "3ac97711c4aec44b6f2e97ed5ccc14b5",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 1.5 Kenndaten",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJyNULtOwzAU/ZXKM+RlhySMqEwsGYClqizXvkkN8UO2g6ii/Dt21IoN4cWP8/A597AgmECBDlQK9LhDUAs2tCcmyq4byo7UQ4VxWxZ13bQVGTC62yEFgQkWWOQvKB2oN7PjcLsD5Q7ithmWDSFF0XRVmxVJvOHKCDnIPwjWGQ7e/zJilIcOZw0mmJRl4llwSnovjfb0muawoOiccmBcFWQ9RpoDbpygk+EsGLdFtCyck2/+5sH53EnOmRNR6INjQfq8v/Azc6p35gN48LmY9eipNTwXhs9pWv7eaMi7bdFew6yi8PMrInKiz/073T/RfWbFgNY1hhjkBJqplAz9R3SVhIvdJMzaScb8sWt+hSemx5mN4FNtBHpEqayNL1TP6gSpKUlfB/gO2xCzevcCWqfx6uRwM3+VYQK0Hn8AGqimIw==",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "626be144c841afda6627b65222f794ba",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Bauart: 2/2-Wege-Ventil, ausgefihrt als - NC) automatisches Absperrventil (Typen 5-FCF - automatisches Abblaseventil (Typen 5-FCF ... NO) Baureihe: 5-FCF Ausfiihrungen: Siehe Abschnitt 1.3 Medium: Brenngase der 1., 2. und 3. Gasfamilie sowie neutrale, nicht aggressive Gase",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Bauart:</td><td>2/2-Wege-Ventil, ausgefihrt als - NC) automatisches Absperrventil (Typen 5-FCF - automatisches Abblaseventil (Typen 5-FCF ... NO)</td></tr><tr><td>Baureihe:</td><td>5-FCF</td></tr><tr><td>Ausfiihrungen:</td><td>Siehe Abschnitt 1.3</td></tr><tr><td>Medium:</td><td>Brenngase der 1., 2. und 3. Gasfamilie</td></tr><tr><td/><td>sowie neutrale, nicht aggressive Gase</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVWlv20YQ/SsDfopRi6RI6jKMAPIVFEUVoTn6IQmIJTmktuaFPZy6hv57Z0lKVCJaVQVIPHZm9s3beU9fXizMscBShTyxrsBKktl8uhjPIvRZMnYn3iyaTKeLWRKliyh20boEq0DFEqYYxb9Y5iaUlRYx7p4xjAXSpSk4ngWB684W3tx2TXKzXlQJT/mJgFpUMUrZR4wXwXTh2zM/8IPx2MTVKAouJa9KGXZovrxYVNng8H3PDbbfKExgXIkkzKuYqUo0EGumNqau80mikI7gccxEQolSCaa4dNbP8YaJYi2qvzBW0kl0mcmwrmInqWJt2JKjqkRn0XzCdYm6oMTHJ1rheXi//hze3YR3dp2k1nZLIFKeY8kKg8w6J6lLUc91k8LqOueEn3p1uuWclZlmGUrTtoVlZplma3oTlrqI0HQaNG9Ef7g4SVg6j+hgF4uUGJ2knu/P6ZQns7kXpL4prPBvFTIZblSRm5xrxaIc316rqEqe6SLom7y9YZoJdXXt0L159hxv9CdmOPrcdHMJTMsMU74RClguYQSr2wt6qSrTs4w3KGEZSTpD0fYPbz5SsyVMRg+3DxT+c2iUM4lDobZtw+r9RYvEaeDtIQrkG+xBNgnHgUstU05I6ZCx7KM/cNygARlvSq4UjG3/OPd3TLgu+qQbYrvMCCokKCjlEjwbdJmAb8M7JlNW8JzjcZ19AVl95wg0GzSKOV5CyeMNUZhlguTAn9BUGcj/jeiRB60u4U2GBfsD7n5dwf0KxtPpbH4JR8TRoYza0Mc+1HeDgdAhjt8JXdcH23rHISsi5DtyRb0sS+Iy11L2CQ80x/SS7VZgbQBAZdij28A9QdW+cgnynLP6R+c23KASHCOpNGkkETp+7MHQxhETryR+KjKMjA8oLGhsmdJinzgau/BVu27k3kLEJfwy3z8PjFvZIOi33TkBgT+O/qBQd0AJMNI0/M8Jvc/xkTY0OoI7staDCV9GRHzGM3iqCmg3eurk+zOhE3s6UJqXEdM5ec6BAJDmO+LZQbTTWYfTOom17VzGuEvnI/CKfxgS07g3kbMN5Kv2XG/azffZXrLLen8Be/foloxJ7NC0RgED9EPnB3CeD8BZaodO3NCK2qDAwPwm6Ql5/8DA63lHWj/goFM3eDAoYvhP8cJpicIPimzZ3asSWjXCa+K7ghOqg53I4EBcMKClwUM8lgwFbFr+ztcLHMgDdrJo/mG7f/WPRg7W9tu/924aUw==",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b0ea9f4ed707de9e43eed4506d325300",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Klasse: A (gemaR DIN EN 16678, Typen 5-FCF ... NC) - (gemak DIN EN 16304, Typen 5-FCF ... NO) Gruppe: 2 Nennweite, Anschluss: Flanschanschluss PN 16 oder PN 40 Nennweiten siehe Abschnitt 1.3 zul. Betriebstuberdruck: 16 bar zul. Umgebungstemperatur -10 °C bis +80 °C Antrieb: Pneumatisch",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Klasse:</td><td>A (gemaR DIN EN 16678, Typen 5-FCF ... NC) - (gemak DIN EN 16304, Typen 5-FCF ... NO)</td></tr><tr><td>Gruppe:</td><td>2</td></tr><tr><td>Nennweite, Anschluss:</td><td>Flanschanschluss PN 16 oder PN 40</td></tr><tr><td/><td>Nennweiten siehe Abschnitt 1.3</td></tr><tr><td>zul. Betriebstuberdruck:</td><td>16 bar</td></tr><tr><td>zul. Umgebungstemperatur</td><td>-10 °C bis +80 °C</td></tr><tr><td>Antrieb:</td><td>Pneumatisch</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVWlv20YQ/SsDfopRi6RI6jKMAPIVFEUVoTn6IQmIJTmktuaFPZy6hv57Z0lKVCJaVQVIPHZm9s3beU9fXizMscBShTyxrsBKktl8uhjPIvRZMnYn3iyaTKeLWRKliyh20boEq0DFEqYYxb9Y5iaUlRYx7p4xjAXSpSk4ngWB684W3tx2TXKzXlQJT/mJgFpUMUrZR4wXwXTh2zM/8IPx2MTVKAouJa9KGXZovrxYVNng8H3PDbbfKExgXIkkzKuYqUo0EGumNqau80mikI7gccxEQolSCaa4dNbP8YaJYi2qvzBW0kl0mcmwrmInqWJt2JKjqkRn0XzCdYm6oMTHJ1rheXi//hze3YR3dp2k1nZLIFKeY8kKg8w6J6lLUc91k8LqOueEn3p1uuWclZlmGUrTtoVlZplma3oTlrqI0HQaNG9Ef7g4SVg6j+hgF4uUGJ2knu/P6ZQns7kXpL4prPBvFTIZblSRm5xrxaIc316rqEqe6SLom7y9YZoJdXXt0L159hxv9CdmOPrcdHMJTMsMU74RClguYQSr2wt6qSrTs4w3KGEZSTpD0fYPbz5SsyVMRg+3DxT+c2iUM4lDobZtw+r9RYvEaeDtIQrkG+xBNgnHgUstU05I6ZCx7KM/cNygARlvSq4UjG3/OPd3TLgu+qQbYrvMCCokKCjlEjwbdJmAb8M7JlNW8JzjcZ19AVl95wg0GzSKOV5CyeMNUZhlguTAn9BUGcj/jeiRB60u4U2GBfsD7n5dwf0KxtPpbH4JR8TRoYza0Mc+1HeDgdAhjt8JXdcH23rHISsi5DtyRb0sS+Iy11L2CQ80x/SS7VZgbQBAZdij28A9QdW+cgnynLP6R+c23KASHCOpNGkkETp+7MHQxhETryR+KjKMjA8oLGhsmdJinzgau/BVu27k3kLEJfwy3z8PjFvZIOi33TkBgT+O/qBQd0AJMNI0/M8Jvc/xkTY0OoI7staDCV9GRHzGM3iqCmg3eurk+zOhE3s6UJqXEdM5ec6BAJDmO+LZQbTTWYfTOom17VzGuEvnI/CKfxgS07g3kbMN5Kv2XG/azffZXrLLen8Be/foloxJ7NC0RgED9EPnB3CeD8BZaodO3NCK2qDAwPwm6Ql5/8DA63lHWj/goFM3eDAoYvhP8cJpicIPimzZ3asSWjXCa+K7ghOqg53I4EBcMKClwUM8lgwFbFr+ztcLHMgDdrJo/mG7f/WPRg7W9tu/924aUw==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "710857a4b01e79c3b1c04162bd965b8c",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Steuerdruckbereich: Siehe Abschnitt 1.3 Elektrische Daten: Abhangig vom Steuerventil, siehe Abschnitt 5.6 Einbaulage: Beliebig",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Steuerdruckbereich:</td><td>Siehe Abschnitt 1.3</td></tr><tr><td>Elektrische Daten:</td><td>Abhangig vom Steuerventil, siehe Abschnitt 5.6</td></tr><tr><td>Einbaulage:</td><td>Beliebig</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVWlv20YQ/SsDfopRi6RI6jKMAPIVFEUVoTn6IQmIJTmktuaFPZy6hv57Z0lKVCJaVQVIPHZm9s3beU9fXizMscBShTyxrsBKktl8uhjPIvRZMnYn3iyaTKeLWRKliyh20boEq0DFEqYYxb9Y5iaUlRYx7p4xjAXSpSk4ngWB684W3tx2TXKzXlQJT/mJgFpUMUrZR4wXwXTh2zM/8IPx2MTVKAouJa9KGXZovrxYVNng8H3PDbbfKExgXIkkzKuYqUo0EGumNqau80mikI7gccxEQolSCaa4dNbP8YaJYi2qvzBW0kl0mcmwrmInqWJt2JKjqkRn0XzCdYm6oMTHJ1rheXi//hze3YR3dp2k1nZLIFKeY8kKg8w6J6lLUc91k8LqOueEn3p1uuWclZlmGUrTtoVlZplma3oTlrqI0HQaNG9Ef7g4SVg6j+hgF4uUGJ2knu/P6ZQns7kXpL4prPBvFTIZblSRm5xrxaIc316rqEqe6SLom7y9YZoJdXXt0L159hxv9CdmOPrcdHMJTMsMU74RClguYQSr2wt6qSrTs4w3KGEZSTpD0fYPbz5SsyVMRg+3DxT+c2iUM4lDobZtw+r9RYvEaeDtIQrkG+xBNgnHgUstU05I6ZCx7KM/cNygARlvSq4UjG3/OPd3TLgu+qQbYrvMCCokKCjlEjwbdJmAb8M7JlNW8JzjcZ19AVl95wg0GzSKOV5CyeMNUZhlguTAn9BUGcj/jeiRB60u4U2GBfsD7n5dwf0KxtPpbH4JR8TRoYza0Mc+1HeDgdAhjt8JXdcH23rHISsi5DtyRb0sS+Iy11L2CQ80x/SS7VZgbQBAZdij28A9QdW+cgnynLP6R+c23KASHCOpNGkkETp+7MHQxhETryR+KjKMjA8oLGhsmdJinzgau/BVu27k3kLEJfwy3z8PjFvZIOi33TkBgT+O/qBQd0AJMNI0/M8Jvc/xkTY0OoI7staDCV9GRHzGM3iqCmg3eurk+zOhE3s6UJqXEdM5ec6BAJDmO+LZQbTTWYfTOom17VzGuEvnI/CKfxgS07g3kbMN5Kv2XG/azffZXrLLen8Be/foloxJ7NC0RgED9EPnB3CeD8BZaodO3NCK2qDAwPwm6Ql5/8DA63lHWj/goFM3eDAoYvhP8cJpicIPimzZ3asSWjXCa+K7ghOqg53I4EBcMKClwUM8lgwFbFr+ztcLHMgDdrJo/mG7f/WPRg7W9tu/924aUw==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "310bed07aec54e85a3a652ea1227d54b",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 1.6 Bestimmungsgemäße Verwendung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJyNUMlOwzAU/JXIZ8hqEsKxKvccoJdSWa79khriRV6Aqsq/Y0etuCF88PZm5s28/QXBDBKUJ4KjpwyVbVOXjLW47Xk9Htu6A+g6GB/pkdW0eUB3GZLgKaeeRvwFpQtxOlgGtzcQZiEeq2DVYVyWXV8/5mUir3WpuRjFHwBjNQPnfhFVHx01edfgBldVwhmwUjgntHLk6mZ/QVE5+WhiCrwcIswC05aTWTPqtV0tGupPSbd4dWBdYQVj1PJIdN5SL1wxnNmJWjlY/Q7Mu4IHNTliNCu4ZiFNy91rBUW/LjIoCDISPz5jRczkediR7YZsc8NHtCzRxChmUFQmZ+g/pCvFn81KocbMIvqPWYtreaZqCnQCl2IjUBNKYU38ISrII6SkOLX28O3XIeZttokJhZQpzQTyLZQl4LTzEbId2C9QKWmSv3V+EX4GtBx+AKyBsUY=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "09b125dfb2af7ebd321075070c72b0d4",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Die Armaturen sind ausschließlich dazu bestimmt, nach dem Einbau in ein Rohrleitungssystem und nach dem pneumatischen und elektrischen Anschluss, Brenngase der 1., 2. und 3 Gasfamilie sowie neutrale, nicht aggressive Gase innerhalb des zugelassenen Druck- und Temperaturbereiches abzusperren oder durchzuleiten. Die Ventilausführung darf nicht durch Anbauteile und Zubehör verändert werden. Das Einsatzgebiet der Armatur unterliegt der Verantwortung des Anlagenbetreibers. Besondere Kennzeichnungen an der",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJyNU8tu3DgQ/BVCpyww1jykee3Nxhg5LBAYu44PcQKBIlsSY4kS+LDXY/jfU00ra+wlyAAzIzW7q6uqm/cvGfU0kA2V0dmfIiu2ddmU2+1Wr8vDqt6V9bosNrvjoahLfSCVLUQ2UJBaBon8l4wfKj9Gp+jnO1XKEf4S4HpflqvV/rg55CsuTufDqE1jfpEwuVGR9+8Z62O5Oxb5viiLcr3mvIncYLw3o/XVzOb+JQMy8yiKzap8/YY0R2p0uupHJcPoEsVJho5xl589Ob90RinpNAp9cDIYv7x5Vp10w40bv5MKfqmjbX01jWqpRxXZLX8xWloe06e6sRQHFD484sT01fXNXXW6qk75pJvs9RUkGtOTlQMzy36naC4Jz1MqkdPUG/CH1uV83EvbRtmSZ9kZ2TZjsRMilY1DTay0TBH3PtzVDrYotYOVetPUu82eaL+n5iBrtZHFNmOugf4NnHwyJC4dKEYgCG+sFjJ6r7re0Ne4WukGnDqh5TmKGtaZYQgLYSXHaBDXxtYyCmMF4fv32LmeTGAj/bMPSIgA/C97mt0APJrxEdbyIbg5cGm5L7ovxBXY2FZ6Qp0T63whNnkqKMRH6Rs5GPATfnzCL0Ax0Z5AC1SDkG3rsFXmkTiXQM6S62RfA8uLc2ypl1g6i44nF9XDRQK+pQG7xj7AVgIQcmV9jh5RtmZkIhoXoDtH1kg2F2zeXRosPGvYrkZ1Durhl2tmOqkG2uBTIIw7dfsSa+pSwc6JR3L8SKVFjyCeyOmELj3762U4t1QbCsmLeVhACeRgQvsWvgN3G55GF1J7kL+0PfbE1hQgB5p8Lq7Ij9yDxF+w98wqLdKhTtr/gac9SBPH6MI8K/0m0DV4f5MW7QNwQtqQlgbOndmLD+f8Khe3WG0equn1QpzYiIbn67gajRfiH3KG7MUnh+n6p/wPXvqf9+GTdHxRH+mWd/X12w9Jd6MR",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "7c86580562516b37c2050f7db4a2ecff",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. eile und Zubehör verändert werden. Das Einsatzgebiet der Armatur unterliegt der Verantwortung des Anlagenbetreibers. Besondere Kennzeichnungen an der Armatur sind zu beachten und dürfen nicht unkenntlich gemacht werden (z.B. Typenschild, Durchflussrichtung, Serien-Nr. usw.)",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJyNU8tu3DgQ/BVCpyww1jykee3Nxhg5LBAYu44PcQKBIlsSY4kS+LDXY/jfU00ra+wlyAAzIzW7q6uqm/cvGfU0kA2V0dmfIiu2ddmU2+1Wr8vDqt6V9bosNrvjoahLfSCVLUQ2UJBaBon8l4wfKj9Gp+jnO1XKEf4S4HpflqvV/rg55CsuTufDqE1jfpEwuVGR9+8Z62O5Oxb5viiLcr3mvIncYLw3o/XVzOb+JQMy8yiKzap8/YY0R2p0uupHJcPoEsVJho5xl589Ob90RinpNAp9cDIYv7x5Vp10w40bv5MKfqmjbX01jWqpRxXZLX8xWloe06e6sRQHFD484sT01fXNXXW6qk75pJvs9RUkGtOTlQMzy36naC4Jz1MqkdPUG/CH1uV83EvbRtmSZ9kZ2TZjsRMilY1DTay0TBH3PtzVDrYotYOVetPUu82eaL+n5iBrtZHFNmOugf4NnHwyJC4dKEYgCG+sFjJ6r7re0Ne4WukGnDqh5TmKGtaZYQgLYSXHaBDXxtYyCmMF4fv32LmeTGAj/bMPSIgA/C97mt0APJrxEdbyIbg5cGm5L7ovxBXY2FZ6Qp0T63whNnkqKMRH6Rs5GPATfnzCL0Ax0Z5AC1SDkG3rsFXmkTiXQM6S62RfA8uLc2ypl1g6i44nF9XDRQK+pQG7xj7AVgIQcmV9jh5RtmZkIhoXoDtH1kg2F2zeXRosPGvYrkZ1Durhl2tmOqkG2uBTIIw7dfsSa+pSwc6JR3L8SKVFjyCeyOmELj3762U4t1QbCsmLeVhACeRgQvsWvgN3G55GF1J7kL+0PfbE1hQgB5p8Lq7Ij9yDxF+w98wqLdKhTtr/gac9SBPH6MI8K/0m0DV4f5MW7QNwQtqQlgbOndmLD+f8Khe3WG0equn1QpzYiIbn67gajRfiH3KG7MUnh+n6p/wPXvqf9+GTdHxRH+mWd/X12w9Jd6MR",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "846d6bd6d62c5f6d258bbce6fa596920",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ACHTUNG!\n\nDer Kunde ist selbst dafür verantwortlich, dass alle geltenden Bestimmungen, Vorschriften, Normen und Gesetze eingehalten werden die für seine Einsatzbedingungen und seinen Einsatzort gelten.\n\n10. Oktober 2022\n\nSeite 2 von 11\n\n2 Aufbau / Ausführung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztVl1v0zAU/Ssmz6O1EzsfvG1sDAmpVGLby5gix75pzRI7sp2NMe2/Y2ctVKhC8FipecnHPef43JuTj9vnBDroQftayeQdSnhFq6apyrTJmkakuAJMqwKYyAtCsjJNTlDSg+eSex7wz0k8qJ0ZrYDtOdTCQthNgqSgFOOiSssZjuSp3hupWvUXwGCNAOd+I0hF8yqbFRnNKCERN4DtlXPKaFdv3Nw+J0E5+siyFNOXuwCzIIyVdWcE98ZOFgfu11F3fu3AurlVQnArA9F5y71y8+WTWHPbL635BsK7uRz1ytWDEXNpxBin5d4aDfNq2uqlhrEPxPuHUFFdfbG8qc/P6vPZINvk5SWYaFUHmvfRWfIvpA3FPw0ThQ9Dp4L/0Ot8U+64Xo18BS62nYBeJbHZIVyp9dg3EDulcWkP333UOH3/8ep6cfkmkre6V8p3kATUnykgVcsIg5K2hDBKWY5ZW7IqK3GWluLVwTEFB5KC6Yr9j0d8NzbnYNGnUUtAynnkoGvCTvL264hxKyx6AMu1fzTWB2/rk1ByDvGuA7SCzkMganQWRqr6PowP9Am6MdaJtVWtj2cLY8MkUVgBXYID/wMQqABc88hGj2CjglSAfi3pAgDQhdKO+x8NyACfpCeRqai31WBr42O2m/sFt/EWP8BV7HJP/vOiqCouZZo2TJaiyduW0bIUlWRNXpTFMf8HlP/dOBM8Q5/vvQkllOI03U3FB2N8YOyJQ9GKghUcZxnHWOS8aVnOKaEZaVPI0mMcDjUOX0B5QCl6MBq9DnCrvgykxStnXyBYkVOGU9ZigoFxSUTFSVEIGV6lWNJjIA4nEGw3ECk6HduGj2geDtzmk7O2obM9/013PwEJ/Zhq",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1a6d66100fc392d96e053ce92b174997",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Bei den fremdgesteuerten 5-FCF-Ventilen besteht der Antrieb aus einem Zylinder mit einem pneumatisch angetriebenen Kolben. Der Kolben ist mit dem Ventilstellglied (dem Steuerrohr) verbunden. Die Armaturen werden als 2/2-Wege-Ventile in den Grundfunktionen NC (normally closed) oder NO (normally open) ausgeführt. Angesteuert wird der Antrieb über ein angeflanschtes Pilotventil.\n\nAbbildung 1: Beispielhafter Aufbau eines FCF 50 NC 1E mit Schnittebene durch die Steuerluft und Leckagebohrungen\n\n2 4 % |\n\n2 a D D",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztU1tr3DgU/ivCUGhgM+OLbI37lnbaZdmSHegN2i1Glo7G2siSkeRkQzb/fY88kzYtYdnXQPxiSef6nfN9X24yMDCCjZ2W2QuS9bwQ5UZwkBVlDWN1r1jNS1oC6ze8otkvJBshcskjR/+bLB264GYv4O4OnfCAvyVhwSjNc9aWm1Weghf76KRW+j8cJu8EhPDdo2hp01YrVtGKFkXym8CPOgTtbOiO3Xy5yTBz6qOqypzefkU3D8J52RkneHR+aXHicUh51x8C+LD2WgjuJQaG6HnUYb27FgP34867v0DEsJaz3YducmItnZjTtMKps7Bul6/bWZhHDLy4RIs23evdx277stuuJqmy21tsQmkDlo+ps+z/BB1D4vW0hPBpMhr7R6zro9lwu5/5HkKCnYHdZwnshC+dncceEtJ6efHfl8tq1tA6L2uVFznUXBai5QVjQua0zSXNUq8R/o7J+SVoIsES5WGUWCjCDD7iQ3365tWb049L23jtk2mI6OvJmY1eQ0/4HAhoCyP5fG20TaZRx+PTdEQexEAQBSwhYDHV787gYUW26H84Ex3iEiox8FASqxmzN8ge8jy9vlsa827wJ+QSfD9juZRDAznzWGfGAZAr8AkLN4GU6/L0E+zhDgHRdsH5q8dINduLNGa8n78iz63DDMZcE2EckvGEuATl/I97FjeBPUmA96D+nPNcicHHFU7i28jIlfbyh/Ec/HBJaSLLDBTuE+cRIZCdNi4eSLFKm74jwTn3iZ2X8D4tCDf1s3RVAdAXDDfLGpB1pTgDKdq2LIqyFvJJuo9JuveVeNb32iQgpHhBUJZh0mAGrmKi1Kx6Pi/KCgR1Seo8Mbd4vajmnRisjnGRF5G46IFI1MVBMmZWkSDnyVsQF1i9RwlhEbD3WfdeRwMPsS1vgW54LmXd131TcFU2TFX9pi0Eb1pRP7HtkbKtJJQ8I//cJ8FvI7o/RIJGiVxWFW3kJs9LoJVSRc0o9DVlbVVXTyR4tCTgZEu2D5Dg67/IbE6R",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "ba9bd46dae5971c4a9de654b6356b459",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Abbildung 2: Beispielhafter Aufbau eines FCF 50 NC 1E mit Schnittebene durch die Steuerluft und den Endschalter\n\n2 4 2 a\n\nSteuermedium\n\nDurchflussmedium\n\nLeckage Bohrung\n\naktiver Endschalter\n\n10. Oktober 2022\n\nSeite 3 von 11\n\n3 Funktion\n\n3.1 Steuerluft\n\n- Ohne Steuerluft (druckloser Zustand) drückt eine Feder das Ventil in Grundstellung.\n\n- Druckbeaufschlagung Steueranschluss [2] => Grundstellung Ventil => Kolbenkraft plus Federkraft",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztmN1v2zYQwP8VQk8bsNr8lKgCG9A0yTBsSAOk68OyQDiSx1izPgyRCloE+d9HOgnqFlmX7M2Y/SKT96E76ifxeJe3BXbY4xCb1hWvSSGsl8xKJhRXyDirlOSKSuWdB1WbuviBFD1GcBAh6d8W+U8Txnmy+DjGxk6YLluHrJKS0qrmekGz8Vbej6717TcUNtNoMYTPGqyWZS0WlZBCMpb1Njj1bQjtOITmIZrL2yJ5znEIwam8u0pqE9pxck03WojjtA1xA3GV/S5/DziF5dRaC5NLhiFOENuwPP9kVzD159P4F9oYlm4erkOzGe3SjXbOqxVejQMu6+2vOR9w7pPh+iZJ2q45Of/QHB81x4uN88XdXQrCtx0O0OfIiucYPZjET5utCWw2XZviT7kuH8QdDNczXGPIaRc4XBc52U2aaYa5N5gzVfnWET/G7OONMW2XEyH8NTnCNmxa7FbgI07kzewNzATbAQM5fXtKFCVnbwk7IX0byYVdDW2MaHBA4tKDXhHXIrmIOOPUzT6SeXDE4UBOBhfSynXJZ47xMfz3beywSMF8DZtSqtayKkteA1TKCA5eIhWlcFBxqQ6w7SlsnEjCCexC8Euf1J+CQGPt0seFe8WEt6WQSgAqLSrNrGO6PECwpxDcfyB6dO3c75JwBlNO+gbfZ8UniOC1LS1lzlnHS0EtSzsSBQncaCWd4Qci9pSI47x5+G4O4T9QkXYELo2WQihVgi+tBkqFKCVNnDhz2Cz2lYrf0K6TlByNqyml8yIoSmm5NWXtqXFVVQnhoTbUGuc9ovaHzWNfoYB1fuzTP5WU/woG1Qori1VVC0lThQkMsFbCGlrqupJwAGNPwWB0Qd6t45hEhFPOd6k4HcfMyRM4MCqMLqUTyjgH4FJt4Z3ltTbKcQrigMOe4nCBbUQiyM04kPsFfPR+nozO7m2eAMJYS0tWU828cvn8IVJlAWhEgiFVFwcg9giIchcIQU7nYZ1dPKsF4b03SEvDsWTUSeQSgYLhTljua80OHOwrBwu206J6FguorNC1Y1BJq5hWvNIV0xUVYCQDaw4s7BEL25npBS/6LjyvyLvV8EWL8zs3zXbdjWnVyB9ziDC474mb/pwp9dau47Z5Sk7RJbmDQD5sMyPtQH5OhxoXInZdWsnFi4rYFDET1DulK60TlSIN0mlXoCkhN+gPQP5/gDzO/BmE2afzUAfXuZN/zycMeWYOgVzyK/LjT18S90himv917AwO6wkSz5tkcI/rdvwNLK/+BslpXy8=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f009a7820e7e81fb1e78ef33e432c20d",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. - Druckbeaufschlagung Steueranschluss [4] => Arbeitsstellung Ventil => Kolbenkraft minus Federkraft\n\n3.2 Ausführung NC 2/2-Wege\n\nIn der Grundstellung drückt das Steuerrohr gegen den Ventilsitz, das Ventil ist geschlossen.\n\nIn der Arbeitsstellung drückt der Kolben gegen einen Anschlag, das Ventil ist geöffnet.\n\n3.3 Ausführung NO 2/2-Wege\n\nIn der Grundstellung drückt der Kolben gegen einen Anschlag, das Ventil ist geöffnet.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztlV1v0zAUhv9KlGvW+itOggTSYIAQElTi62JMkT+O29DEiWxnYkz779hZgVEQsAsuJtqLtPF5j3uO8+Q9p5c5dNCDDU2r8/tZLgEX2BRMYS4ANKlqjgktgOGCFyUt8ntZ3kMQWgQR9Zd5+tH4YXIKvt5DoxzEr3lDXDKGUFmTaoFS8hzvB92a9jeC0Q0KvP+uwDXjNV2UlFGGcdKN4PrW+3awvtlVc3qZx51THZQSxK7OosyBGpxuukGJMLi5xFGETdp3+daD80vXKiWcjok+OBFav1xdqI1w/coNH0EFv9STXftmHNRSD2pKp+WPBgvLev40KwtTHxO35zHSds2T1bvm5FFzshi1ya+uYhGm7cCKPlWW/03SLiVcjHOKGMeujfXHXpe7cCfsehJr8KntHOw6T82OcaWxUy8hdcrnFff94RpjJCAuCXCMNAPCQCAhiaaKmLrCeao1wKeQxEfZiZvUVoKYjFebTqzjKWSvA0zghE0rk/fZKTvLHjzMjp2ENngfoOuS7N3cVIq8GDoJduuECVnf2slnT0GDmxdSI197fClcOvxzeJP+PxayT2bBWMWKUhPKoSYGKqYKpLhipdaSa3og8w6ReRM0uiDZ8eTNhwkhozYu8fPycUaW5Og9rOEmJG/a0MGv4KixxgZBjaXgleIMEaG4KSWrMS0KdrCtuwTHvm398c2/SdNzm0V7yZ5FjPQ3O9LuGi61DZkWfudibti4bB0RSyl251m+DZ/vzaKdh7U+RFHyuyE+Wbu4lWnxqmZFRbGSFcJIVryuJNXRbA0zAnF14PI/43J/UP5AZoxfj8sdldDaeD221+P3F1TOudwYC+F2XEoqaVkwJJhCxMiqknXNS8lloSKbWB+4vENc/jhM6c/D9NXthqk2FTIlIYhXJWYFpQgTBaREdYRGGTjAcYfg2DetP775txum/8qyzr4AH9Ktgg==",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "00d3e93ff6d67aa78aba34c8b9d34fb2",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. In der Arbeitsstellung drückt das Steuerrohr gegen den Ventilsitz, das Ventil ist geschlossen.\n\n  \n\n4 Ventilbezeichnung (Beispiel)",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztVU1r3DAU/CvGpxbStWTLlt1bQ3rIpSw0zSUNRh9Pu2psyUhyaLLsf6/kbMhSSsl1YX2xJc2TZ94M0t0uhwFGMKHXMv+c5R0gySRBreJCUNxK3HYgyhrRtuR1i/KLLB8hMMkCi/hdnj56b2cn4HUMvXAQX8uGmBKCEO3KdrUUL+ujlVrp/wAmZwV4/4bAHWm6akUrUhGME24CN2rvtTW+P7C52+Vx58SjqkpE9vcR5kBYJ/vBChasWyhOLGzTvsUPD84XTgvBnIyFPjgWtC/WT2LL3Lh29heI4As5m43vJysKacWcuuU/WQNFtzz92sA8xsKHx7iih/7r+ra/uuyvVpNU+X4fSSg9gGEjLB1+R9GhJDxNSwmbpkFH/lFrcVgemNnMbAM+yc7BbPIkdoozvZlHDklps8y4N3N5xStaE8SIQKXibcu7rqG84bVQncIyT1wD/A4JfG0yCS774jjo4H2AYYhtyKT7OSOkhHgImWQ++x5gBufs1mUb2EAqMtntosnr8HyxgF7GmfYhgrzYDjZ6a1ZJyKvGb8yl5j/CTfp/JPJ3MpFoCFeoqQFwSwWhTDHoCEVcEUERnJN5Qsk8DlqWHefgeozIf/lPOVJNh3mMKuG4rmshm7rjWJQynk9ldfb/RP1/l/stKSUAAqKwKgHjtqSSkprzCuJZ1Kiz+yfqPjlcDhyeQYutSXfMh0vQftIwfDzOxo0OQ8zG/R/h5sky",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "062d0a2b0bc2ab6c131e55b6f4b5d155",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 5- mit angebauten 5/2 Steuerventil FCF Ventilbaureihe 25 Nennweite in mm NC Grundstellung geschlossen 1 E 1 angebauter Endschalter",
+    "metadata": {
+      "text_as_html": "<table><tr><td>5-</td><td>mit angebauten 5/2 Steuerventil</td></tr><tr><td>FCF</td><td>Ventilbaureihe</td></tr><tr><td>25</td><td>Nennweite in mm</td></tr><tr><td>NC</td><td>Grundstellung geschlossen</td></tr><tr><td>—</td><td>1 angebauter Endschalter</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNUk2P0zAU/CuWz7TOZ9Ogqge6XW5VJWAvy8py7JfGkNiR7QBV1f+OnWZbYLVALu/Fb2Y08+zHE4YWOlCOSoHfIsxLVou8Kus6qxiLFnHJ8oQnRV0voiQtS/wG4Q4cE8wxjz/h0FCrB8Ph+R8oN+DLKBgXWRZFRZks51Egj/NOC1nLvwB6ozlYe0PEZbYo03mRZmkWxwHXg+mktVIrSyc3jyfslYOPNE2i7PzkYQa4NoK2mjOnzWixZ64JuuSTBWOJkZwzIzzROsOctGR/5A0z3d7oL8CdJWJQB0t7zYnQfAjbsjOtgJTjR/cKhs4Tv37zE9nS7f6B3r2jd/Ne1Ph89iZq2YJiXXCG/4c0UdyxHyms71vp/fusZBq3TB0GdgAbYmNQBxzC9v6EqqGrICRdjCfmdrnLLBEAEWR1XCcQx8ukEEWWV1UKNeeLUdjBD0eZpY3r2sBZOVa1sF65BpjwxYR2nc9WxJfQdtIhbwYqNjhQKCcJ+uBgAHMJdsGRwCPPGpUWx0lKrO83934ixv5hpHglA7KBy/FInbBJfoXuQKnvIB0gqVDXvcTuNlfsezMoYR20rb9I5JfGm1b716Vesj4PSRRnV2Z8i2bQ1ov4h9H6/hcimeKQy6LweVpiWF4+Q/9YD/Lx0e+xUZKjP9Kh3Qa9GgLFaIteMzpe6fSMPgaD+Pz0E6h/TR0=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "72b252d0dcd9e0022146462bc2f2c0bf",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 5 - FCF 25 NC 1E\n\n4.1 Typenschild (Beispiel)\n\n                 \n\n10. Oktober 2022\n\nSeite 4 von 11\n\n5 Installation\n\n5.1 Personalqualifikation\n\nDie Montage/Demontage, Inbetriebnahme und Wartung darf nur von geschultem Personal vorgenommen werden!\n\n5.2 Montage\n\nDie Montage und Installation ist nach gültigen Installationsstandards durchzuführen. Dabei ist den Hinweisen der allgemeinen, sowie der zusätzlichen Montage- und Betriebsanleitung Folge zu leisten.\n\nVentile sind so zu montieren, dass",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztmE1z2zYQhv8KqlM7Y1sACAJgj47jaQ5NPVM3PaQZDT4WEmoSVAnQTuzxf+9SthvZdWvnqBnxIhDYXb5YPlgC+ngzgxY6SGUR/exHMjO8kjWIJnBgNVOaUeGpagRTVjoe6tkBmXVQjDfFoP3NbGoscj8ODh7uYeEGwJ9NQKaEoBiB6yM6OW/Gu97HEP/HYD30DnL+asEaIZvqSFWiEoxNdmsYuphz7FNe3Kv5eDPDyJOOquJU3H5CswFcP/hF2ztT+mEjcW3Kaoo7/y3DkOdDdM4MHh1zGUyJeX72xa3M0J0N/Z/gSp77MS3zYt27ue/dOGUrH/YJ5s3mWpwlGDt0vLjEkdgu3p59WJwcL06O1j7Mbm9RRIgtJNNNymavcbp3KV/WGxezXrcR9eNc5/fDrUnL0SwhT9OeQVrOpsmusWeRxs7CNFO56Rm+vlwtuAegIAKb3i/TXHklamsrCM5JFIseBT6Xybgmh+T0zSnhNXn/hrC301MfBL03w5SpSzifjNHrKUaW1RAU6CDqutZGqsCYokYrbih3VO0x2iGMtqkQR4ycY7yU3Sq2nnx/DDGvI7Q/bPNxHksLz3EhtEb0GmNsFYSQMtSmqbwMzFINqtlzsatckKfXNg7vOnR8DgfZGE9dMJVlKnhJG8GtrrBsWFFpy2GPw47iwOgR+eWi9DhEOOV8m4bTvi/o8QwOmgvmDYUanKC89lIxWgnJqJWylnqPw67i8CvEAkSQyz6RuwS+DAMPVGhrQwBpGQ3caC6FlpxJ5Rx1zR6G3YFBPd5Yvku5mLbdhHnVtkHXTrlKclEZqSkLlbRcW+qdpTXUnu1Z2FUWcDt5htPtk2n/Gk2L+b94PRZGcgOuNmo6vDSUK0sb6YwwIeAZQ4o9FjuExb8Oqy+t+W2OTiKQn/tUMOT8BLq71gEWGgtliGCTWXVAxuTJ72YomCHizRBIGofNNwmludXYFuj+oRH7hyWkvsMMkisYPKTvvukITEOoKiNAaimlASoYzoM1NtS+Erq2ezh3CM7HNYs/sPaqKhUcgqwqqRUoqbi0UmNKHVRqArvmexB2CISnVerFVf4fVWpTi7b3QSTmQpJxK7L8Y6Q0uLZErD+PbDI2ExYun4lHOlbXY7izXaGiI3JiLMRNHCxW5KeYriBmbHk8hGGIJUIZE6QDkvsrVDJ1X495igCiXGM6Vmh8r+9wI/D4rnpmk1rcwU9l87THOOhGsCMXfOq3/S2oBQXuGl7LSvPGNUGqoJj3tXY+QLVfCju0FLbJ/rB5DJAckZrcT4BMH+EIw8SbNzk/Uyo//Q2W/c/m",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f2cfea065bd33c926ceba891f5fa9e16",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. • keine äußeren Kräfte auf das Ventil wirken.\n\nsie vor äußerlichen mechanischen Einflüssen geschützt sind (z. Bsp. Schlageinwirkungen)\n\n• ein wirksamer Potentialausgleich zur Vermeidung elektrostatischer Aufladung vorhanden ist.\n\n• das Typenschild gut erkennbar ist.\n\n• das Ventil von allen Seiten besichtigt werden kann, um gegebenenfalls notwendige Inspektionen und Kontrollen durchführen zu können.\n\nAnschluss pneumatisch\n\n• Alle vorhandenen Steueranschlüsse müssen angeschlossen und angesteuert werden.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztl01v3DYQhv8KoVMDpLuURIlibg6SQxGgMBA3lyQQ+DHcZVeiBJKyGxv+7x3K69gwgrQ+Bt69SCRnqJfUs+9Qn28KGGAEn3pnijekqDqrqka3LZWtqlsmoSw7LjrNrWg1b4rXpBghSSOTxPibIt/0cVqChvs29DoAXtYJS84YpVxU3Ybm5HV8nIyz7icBc5g0xPgQUQrWinrDa1azssxxM4TRxegmH/ujms83Bc6cddR1RdntVwwLoKdg+mHSMk1hlTjLtM/zbv+KEOI2OK1lMJgYU5DJxe35N72XYTwP09+gU9yaxe9iP096aya95N2Kv08etmL99ecelhETD5c44ob+/fmn/t3b/t1mNra4vUUR1g3g5ZiVFf8n6ZiSvs1ripznwaF+XOv2ODxIv1vkDmJedgF+V+TFztjT+2VUkFfK157w8HJVxyhUWlRNW3eV0MK23PLSmKbTxkJdZK0J/kk5+MtS0aoiB3AeyJeFUmBLvmAgTkk+hLs+m4DIxRIjI/m0LoVcuXAAv8ky71fwpwx5ay/hIs+Oj3nKXaOpER0wZpmwvBUN3pgWgHEQmkl+4u6lcBcdkMspPEUOhewRuxFwi7yLa+O983bIAVbjO/MEZen9XTtdJxKdN+S36w15G+cN+aj3A8p0PuOJGwv+1bMIVQyMpqyDUggJktZKKNUY3rUKOibrE6EvhdCjMyJKq9VFlB/I+ZSyXDnIJe4GQFrJ9RLQEsMILm8TQZwOKUwx5Z1EfgM5W+wg1zEEHrE2yLCL6XnOWdZSMF6ZRmGJbqhqGyu1MLxuZNVxaU5cvjAucyW+QB0eIXODIbslEcgV2SsZns8XbVpagrJQlU3DpZKttbVWtClbKWrVnvh6gXwdT3qXkydywJWQj+DQ/4iCiM6X3C6RKwjZzw7S+9dkGbE470CBB28xIxI/pSvwxu2A/OHjjNaIa8H4BWv2h8mjUa7zGsRob+9q+j6fO68XclibrffPPWTqRleVNGVTY+E2FgkSeLhkRjBVQ2tPVvkrofyYzLPsdcMSI5mPT8b2YzQuXBrgh9WTlYpLBKKqNKt5U1a07qipLadUmkafkPiFkHjqbv/5f/+Bu52h7Twcx7KzJVggyJWw798aZHz02YHS8ofHMK2tbGBrz5p374M/M6qv/wL3maTq",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "64049f1134f87e424ff69657db903e28",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. • Zur Ansteuerung des Ventils darf keine explosionsfähige Atmosphäre verwendet werden.\n\n5.3 Einbaulage\n\nDie Einbaulage ist beliebig, jedoch soll das Pilotventil vorzugsweise nach oben zeigend positioniert sein. Es ist auf einen freien Zugang der Abluftdrosseln zu achten. Das Typenschild muss gut erkennbar sein.\n\n5.4 Anzugsmomente\n\nAnzugsdrehmomente für Flanschverbindungen der Ventilbaureihe FCF in der Ausführung Stahl und Aluminium",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztlslu3DgQhl+F0DnTLVHUNjdnbB8HDYwnhywQKLIoMZZIgYudxPC7T1HdQTrGIMvRgHWRRFYVq0o/P/HdQwYzLGBCr2X2J8mKvAGoqrIVqmJdmfNhKKuiprIaaNE0TfaKZAsELnngaP+QpYfe2+gEfH2HXjjA2zFgw1ieNx1td3ly3uYXK7XSPzBYnRXg/TeLomN1V+6akpWsKJLdCm7R3mtrfH/K5t1DhpFTHmVJc/b4Ac0cCOtkP1vBg3VbiisPU4q7/9eD83unheBOoqMPjgft94fPYuJuOTj7EUTwexnN6PvVir20IqZu+T+sgX23Xf3BQFzQ8fYOZ/TcXx3e9Jev+8vdKlX2+IhJKD2D4UvKLPsVp5NL+LxuLnxdZ435Y6370/TMzRj5CD6VnYEZs1TsiiO9icsAqdJmG3HfPq6oBKVcFlU5VFIq7GnXCcZkx4YSaiWzlGuATyEZv480p5S8jY5cGB8ggsM2EOwSebOl7InkTpFb0AYIfFpnu30M9T7mObBJj0AuwmL9Oh1HHJA7cPdgJARyD06C2aVSvlb5N3ep/XdwkzLAVJ5qEzrGVaegaQWrupw3reyUYrSlsitVU7xo8xlp81xq1a4kV9oMPM5odK6JGx1m+D8tSApUtYMYWmgGKlnOZMV4qwQHVrUcXrTwjLTwlFM/3ejn4rnUcCYeon0gA8waBj2+Ih8BOzERb+cZaeXJQc82HCshd9Z9iaO/B+2BGI5mdgBDvgCSy0iyIs5SJRpcIB4htyNXfgvPoyIJeoYoBxpvb+PINzQiKoc5qiCdRVHMGCwSDByQdOQSl7/BRhkvJj1LskTvyRgDAXcLBvN3x1V+C4klZW3BZSUaVbdI9laVTdWVXdfkQ1Wzl9/1c9oG3yOR4W836XOxqYJfo2LRQFk3DPdPJQWtuwEUY5TSqq5ULXL6IodnJIenVPzpXj/Xz1E70sF00g/ZzmVKOHKNqyOD8Cw2aJOagwRL6Dqe6pCjCLUJyPVf10QfZy6iP3lP2xnwn8CnmUSE5MUcF210XH5ArQ//AaHZASA=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d5a90abae6b5ce80b1315d08ac38e1c3",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Typ Druckstufe | Gewinde Anzugsdrehmoment FCF 25 PN 16 M 12 61 Nm FCF 25 PN 40 M 12 61 Nm FCF 50 PN 16 M 16 147 Nm FCF 50 PN 40 M 16 147 Nm FCF 80 PN 16 M 16 147 Nm FCF 80 PN 40 M 16 147 Nm",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Typ</td><td>Druckstufe</td><td>| Gewinde</td><td>Anzugsdrehmoment</td></tr><tr><td>FCF 25</td><td>PN 16</td><td>M 12</td><td>61 Nm</td></tr><tr><td>FCF 25</td><td>PN 40</td><td>M 12</td><td>61 Nm</td></tr><tr><td>FCF 50</td><td>PN 16</td><td>M 16</td><td>147 Nm</td></tr><tr><td>FCF 50</td><td>PN 40</td><td>M 16</td><td>147 Nm</td></tr><tr><td>FCF 80</td><td>PN 16</td><td>M 16</td><td>147 Nm</td></tr><tr><td>FCF 80</td><td>PN 40</td><td>M 16</td><td>147 Nm</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVF1v0zAU/SuWn2Gx8+UETZOAMZ6Y+jB4mSbLtW/asCSObAcoo/8dO0mXrVLR0Ppi349zeu71aW8fMDTQQud4rfA7hFmcxyWhVAJRJVRVLOmalKzMs4yxVKb4DcItOKGEE77/AYcLt3owEg4xcGnAHyMhZWlKCCvj4owE8Fhvtaqr+h8NvdESrF06aJnmZXLGkjRJKQ19PZi2trbWneWzmtsH7JmDjiSJSbq/820GpDaKN1oKp80osRduG3ijrxaMjUwtpTDKA60zwtU2Wu3kVph2ZfR3kM5Gaug2lvdaRkrLIWzLvtUdROX44asOhtYD73/4St3wT6tv/PIDvzzrVYX3ey+iqhvoRBuU4ZeAZojb9SNE9H1Te/1+1mguN6LbDGIDNoyNodvgMGzvM7wb2jWESdmYMcvjJnFaUKEyyaq8EIoWVcKyMilLRtZZnrJA7OCX48LyrWubgDl3Yt3AxbnbglD+MOF6cbPrzyN/hvulGeS9dUMFj6k/6DP8rDu1ZN53v4eNVQa2rQ4LnApRoIsO1GutdvM3qIurj1coznxRjeHqGtH8MfqCaPwY5BRdt1M08p0kSMl/E2TktIIloCl7IcNzCS9jKF6toXi1BkpeLeKI4pmKeAni8ogimn0RTUbE+9mkwZzehmix38F06NhsaPICGpWj8PZofPMn+ZQc5zOy9OdomuxJYQI8KxSnEMUphN/JCchcGTExQdNWxt/n/J9wE7aB93d/Af6ps2w=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "aa7bf3a56b82387e0854c3675ff49479",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. FCF 100 PN 16 M 16 147 Nm FCF 100 PN 40 M 20 297 Nm",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FCF 100</td><td>PN 16</td><td>M 16</td><td>147 Nm</td></tr><tr><td>FCF 100</td><td>PN 40</td><td>M 20</td><td>297 Nm</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVF1v0zAU/SuWn2Gx8+UETZOAMZ6Y+jB4mSbLtW/asCSObAcoo/8dO0mXrVLR0Ppi349zeu71aW8fMDTQQud4rfA7hFmcxyWhVAJRJVRVLOmalKzMs4yxVKb4DcItOKGEE77/AYcLt3owEg4xcGnAHyMhZWlKCCvj4owE8Fhvtaqr+h8NvdESrF06aJnmZXLGkjRJKQ19PZi2trbWneWzmtsH7JmDjiSJSbq/820GpDaKN1oKp80osRduG3ijrxaMjUwtpTDKA60zwtU2Wu3kVph2ZfR3kM5Gaug2lvdaRkrLIWzLvtUdROX44asOhtYD73/4St3wT6tv/PIDvzzrVYX3ey+iqhvoRBuU4ZeAZojb9SNE9H1Te/1+1mguN6LbDGIDNoyNodvgMGzvM7wb2jWESdmYMcvjJnFaUKEyyaq8EIoWVcKyMilLRtZZnrJA7OCX48LyrWubgDl3Yt3AxbnbglD+MOF6cbPrzyN/hvulGeS9dUMFj6k/6DP8rDu1ZN53v4eNVQa2rQ4LnApRoIsO1GutdvM3qIurj1coznxRjeHqGtH8MfqCaPwY5BRdt1M08p0kSMl/E2TktIIloCl7IcNzCS9jKF6toXi1BkpeLeKI4pmKeAni8ogimn0RTUbE+9mkwZzehmix38F06NhsaPICGpWj8PZofPMn+ZQc5zOy9OdomuxJYQI8KxSnEMUphN/JCchcGTExQdNWxt/n/J9wE7aB93d/Af6ps2w=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d75a2e1244a33ea7f89eea44130ba50f",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 10. Oktober 2022\n\nSeite 5 von 11\n\n5.5 Installation Ventil mit angeflanschtem Vorsteuerventil\n\nDas Vorsteuerventil ist auf das Ventil montiert und direkt mit den Steuereingängen des Ventils verbunden. Das benötigte Steuermedium erhält das Vorsteuerventil über eine Versorgungsleitung. Sofern keine Rückführung für das Steuermedium montiert wurde, wird das Medium an die Umgebung abgegeben. Standardmäßig wird das Vorsteuerventil elektromagnetisch betätigt.\n\n5.6 Steuerventil",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztlclu2zAQhl+F0Dm1tVBbj0VaoIemRrNc0kCgyKHMWiIFkkoaBHn3DiW7WZAW7TFADMFaZv5ZqG+oy7sIehhA+0aJ6D2JSpHKqmK04JSnTAheJSXwhLEW6oIziI5INIBngnmG/ndRuGicmSyHwz003AKe5oBJSWkcl3VareIgnu2DEUqqvziM1nBw7sEjqWlRZ6syoxlNkuA3gh2Uc8po1+yrubyLMHKoI8vSmN5foZsFbqxoesOZN3YucWR+G+Kuzx1Yt7aKc2YFCp23zCu33tzyLbPDxpofwL1bi0l3rhkNXwvDp7Ba7p3RsK7nX7PRMA0o3F2jRfXNx81Fc/yhOV6NQkb391iEVD1oNoTKon8R7SX+dpwlbBx7hfVjr+u9uWe6m1gHLrQdge6i0OyITxo9DS2ETsuQ2sNPPy9ivCJfd96giaRxmoYgh/ifjPGoQPfnOBSpLNI8bxOacZqkkpWyLvI6yalkWc7bNxxeKQ6noDyQnFwbTZYFPETfoOhk0bwABK+zMitaJICXMskRhapu8ajzuEqLNyBeExDVYyDyVU4+a+dZ38+ByMWclwzKE4wFEiM6vvUwkAtjnYcJ7FLaY3jOlO/hJW5alha0jrOSp7xFaiSP4wx4zJOYMhGnb9y8Im7mJ/Y/NoXHoB0z95wgohxCNkkigm3PncETWE8mLYhQFnZ+ZlGAJqezFpTuvk9xDBTx1Gg4aB25BtuiDvSKhHQt6OAoC6863PUW+QBCTQMBu12C9H5J/6y0WcjDVxPzAWawztguvLget1A8r8ipkWA12c0O3xYB38nlYmvRh+xv7JziSf7ffd5MVsARuVFWzF5fFjvDzhSQ86GDNkRibQd4GVo79UwLJGxYGgj/QqruIcTzXnAkd96agXUakEe+xZXxiziszOrxJJ8wG6C9hrPw3l6Y6AQHB0oo2zqjddVWVdHKAmoKOCO0Leq3iX5FE/30S1DsEf3j/n71C7hw9pU=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "9d875c280c1950e71095120eaf31ba65",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Das Steuerventil wird in der Regel nur mit Schalldämpfern, bewusst ohne Abluftdrosseln ausgeliefert. Ausführungsbedingt kann bei der NC-Ausführungen jedoch ein zusätzliches Drossel-Rückschlagventil Typ GRLA-1/4-B-F-SA des Herstellers FESTO zum Einsatz kommen. Dieses Drossel-Rückschlagventil wird dann am Port 5 des Steuerventils zusätzlich zum Schalldämpfer installiert. Dieses spezielle Drossel-Rückschlagventil ist mit einer Mindestleckage versehen. Selbst bei vollständig eingeschraubter Drossel lässt sich",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJyNVF1P20AQ/CtbP+PEISa2+xYaoFJbGhHKC0XW2bd2jpzP1n2EEpT/3j3HFESl0rw48e3uzM7M5fYpQIkNKpsLHnyEIJ7hNJkmGcc4i9JkUhbpbIInx0maRGlUJcERBA1axpllVP8U+C+5aZ0u8fk35qVGevQDJ0kcR1GSHaejyDf3503LRSX+UdDptkRjXiomWTzLpqNkGk/jycTXdagbYYxolckHNrdPAU32PKbT4yje31GZxrLVPJdtyWyre4ods2s/d/zDoDZjLcqSaU6NxmpmhRkvH8s1081St/dYWjPmTtUm79pyzNvSebVM2CocZ/0nXyp0DTVutnQiZH62vMkXp/li1PEq2O+JRCUkKtZ4ZsH/NA0t9rHrW1jXSUH8adfxcCyZqh2r0fi1A1R14Jft6E2uXFOg3zTt3+gXcyekISaYFNk0ztIiTWdFNcMsRpIrLmZZ4Lla/GV98YIZWFl0qA8M4UFoDkIBRw1XWKME5TQ0wsKK5JKS/3RRhHHTVajVERT44Iyx0K4VwryQrrJct+SpVMCcoX6BVGlHMHem8r1VudZe6QK5ULWFDVOKxoge8fJT+KYOFdwjGbIGJFY7Zw74dkdardHA4oAWXh16yo0p15LVwzbXjx1cXH2dh5NxHJ6G5+FqTjgGPlMkLEpJDzg/W11/p8kNnAllmN3Bpm3I/hEsBJp3IXrBuF+CNbBstYWTHuK1quYt8R7ub0FJeGPpnegVG+BNhzvhub5DRJAN3ifSiSZ9E8pHXWK5objAljbFtV9qhbKgSq/4tpXS2AO+4qL2rRQ2Ep65wtKQARDkocYbbTx7Tqkhq24OwN0QcmoERcc0nC7ihpYg85ziPiRYD60e9xQ50xVpQKz+jCZ4HzuBcEG+894e8p8ICyJOkDtHiaIJX1gn6BBmo3gEIQ0bovM9vGFaMGWp+CCQrohA5dTG36mXwHmB3mb1lfDwgJqj+uAv4PPdvGTa/2ls8drfm/3db/aa0dg=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "2481919f65532fe4d97f09828145e6fb",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. stalliert. Dieses spezielle Drossel-Rückschlagventil ist mit einer Mindestleckage versehen. Selbst bei vollständig eingeschraubter Drossel lässt sich das NC-Ventil pneumatisch nicht blockieren und bewegt sich bei Bedarf zuverlässig in die Grundstellung. Siehe dazu auch Kapitel 6.4. - Bei der NO-Variante dürfen funktionsbedingt keine Abluftdrosseln installiert werden!",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJyNVF1P20AQ/CtbP+PEISa2+xYaoFJbGhHKC0XW2bd2jpzP1n2EEpT/3j3HFESl0rw48e3uzM7M5fYpQIkNKpsLHnyEIJ7hNJkmGcc4i9JkUhbpbIInx0maRGlUJcERBA1axpllVP8U+C+5aZ0u8fk35qVGevQDJ0kcR1GSHaejyDf3503LRSX+UdDptkRjXiomWTzLpqNkGk/jycTXdagbYYxolckHNrdPAU32PKbT4yje31GZxrLVPJdtyWyre4ods2s/d/zDoDZjLcqSaU6NxmpmhRkvH8s1081St/dYWjPmTtUm79pyzNvSebVM2CocZ/0nXyp0DTVutnQiZH62vMkXp/li1PEq2O+JRCUkKtZ4ZsH/NA0t9rHrW1jXSUH8adfxcCyZqh2r0fi1A1R14Jft6E2uXFOg3zTt3+gXcyekISaYFNk0ztIiTWdFNcMsRpIrLmZZ4Lla/GV98YIZWFl0qA8M4UFoDkIBRw1XWKME5TQ0wsKK5JKS/3RRhHHTVajVERT44Iyx0K4VwryQrrJct+SpVMCcoX6BVGlHMHem8r1VudZe6QK5ULWFDVOKxoge8fJT+KYOFdwjGbIGJFY7Zw74dkdardHA4oAWXh16yo0p15LVwzbXjx1cXH2dh5NxHJ6G5+FqTjgGPlMkLEpJDzg/W11/p8kNnAllmN3Bpm3I/hEsBJp3IXrBuF+CNbBstYWTHuK1quYt8R7ub0FJeGPpnegVG+BNhzvhub5DRJAN3ifSiSZ9E8pHXWK5objAljbFtV9qhbKgSq/4tpXS2AO+4qL2rRQ2Ep65wtKQARDkocYbbTx7Tqkhq24OwN0QcmoERcc0nC7ihpYg85ziPiRYD60e9xQ50xVpQKz+jCZ4HzuBcEG+894e8p8ICyJOkDtHiaIJX1gn6BBmo3gEIQ0bovM9vGFaMGWp+CCQrohA5dTG36mXwHmB3mb1lfDwgJqj+uAv4PPdvGTa/2ls8drfm/3db/aa0dg=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e33f8f890ba5710eaca032b0451dd915",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Die Verkabelung und der ordnungsgemäße Anschluss der Spannungsversorgung erfolgt in kundenseitiger Verantwortung. Es darf nur das werkseitig angebaute und abgenommene 5/2-Wege-Pilotventil von der Firma Norgren (IMI HERION) mit den vorgesehenen Magnetspulen verwendet werden.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJyNkk2PmzAQhv+KxamVmgDBy0dvrZKqOWwa9WN72K6QsQfiBmw0Ntmuovz3jtms9laVAxj7mZd33uH+HEEPAxhfaxW9Z9GqKRtZNKriUq5uUtkWvASV8DyHnJcConcsGsALJbwg/hyFRe3shBJe3qGWCPSYBdOC8yQpqlW5TELxfD5YpVv9D2BEK8G5VyKteF5lyyLjGU/TwI2Ag3ZOW+Pqq5v7c0TKwUeWrRJ+eSAMQVpUdW+l8BZni6Pwh6Ab/3CALkYtpUBFhc6j8NrF+yd5EDjs0f4G6V2sJtO5erQyVlZOIS23sAbiar7qvYFpoMLjiU50X2/2d/X6Y71ejqqNLhcy0eoejBiCs+h/iq4l/mmcS8Q49pr8U6/x9bgXpptEBy60HYHpotDsSDu1mYYGQqflvIOvw00pQyigaKqMV2VTlnnT5lBxoLh4k1dR8Orhjw/wWgO7AzyKBnrqn01GMQXIKE0T8uhg+DUlCfBwVy2wD8bJQz85N2PfRmFm7kQZW+yCBGBr+84zbdiR5MA40F53RNOHhPGPFj1xS7YhDYEtMxPSwrFH8vHMMuobGjF5mA2JpgNjBxoJsJt4tfgJHSz2urf+OVZ2sma280njINiOjFAe7M32dss+b75uv+zeskF7QgyhSHnCgbQMuxWdAe/GqQ8ngI9Afn0wQugyTOBlODuB4a85wfcQ3OXhL1URG2A=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "db9445a78268b7f01eaf7c1c65207bd0",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Zul. Betriebsuberdruck: 2,5 bis 8,0 bar Magnetbetrieb (wahlweise) 2050.0000 4200.02400 4201.23050 Nennspannung: >8 VY DC24V AC230V Nennleistung: =] 0,8 W 1,3VA Zundschutzart: Kennzeichnung gemaR ATEX 2014/34/EU Schutzgrad: 66",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Zul. Betriebsuberdruck:</td><td>2,5 bis 8,0 bar</td><td/><td/></tr><tr><td>Magnetbetrieb (wahlweise)</td><td>2050.0000</td><td>4200.02400</td><td>4201.23050</td></tr><tr><td>Nennspannung:</td><td>&gt;8 VY</td><td>DC24V</td><td>AC230V</td></tr><tr><td>Nennleistung:</td><td>=]</td><td>0,8 W</td><td>1,3VA</td></tr><tr><td>Zundschutzart:</td><td>Kennzeichnung</td><td>gemaR ATEX</td><td>2014/34/EU</td></tr><tr><td>Schutzgrad:</td><td>66</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVGtv0zAU/StX+YCY1DXPpskYk7qHtAkxKhgF9lDk2LdpWF6yHdhD/e9cpyVd2UBYSmzfx8nxvce5erSwwBIrneTC2gOLRXzOfTEaCX9OzzjyIxFzHHt+GqduxK0BWCVqJphmFP9omUWi6lZy/L3HhEukqQN0x0HgOOPYi4aOSe78ZS3yef6PgEbWHJXaRLhxEMb+cOwHfuC6Jq5BWeZK5XWlkjWbq0eLkA0P3/ecYHlDYRJ5LUVS1JzpWnYUG6YXBtf+rFAqW+acMykoUWnJdK7s6T1fMFlOZf0duVa2aKtMJU3NbVHz1lRL7dYV2nE3kmmFbUmJtz/IkxfJyXSWHB8mx8NGzK3lkkjM8wIrVhpm1v8krVP0fdOlsKYpcuJPZ7XX7oJVWcsyVObYFlaZZQ7bkCWp2jJFc9Kos8hNc12qIY5xnMZ+EEdpFIXpPMQ4QCpXkIaxAdZ4pxOmkoUuC5Ozr1la4MG+TmtxT5OkRxxctsUQDlHLHFPV0ueEbPnt3r5NPuP3BiNIc0UUHEiZ7O1/LOwObgX5nmUV6nSFCa9/skXxE3OFOxtQZ+QMHRq9JfAcsnjBtskdej6FPv/EOVaValhVUT83XF9l+k0Es2+94fjIC2b9bnJEaLOXwQoiqLfA3t70S2cQwZd+5w782eQ5ymVbCcUXrX5gUm9g3hH4A+Z8Yaj21gxL9hEmFydfn9TEDWw/sE8+P8f+1OFmkokeGHhdmAq8vbb8a+sgDF9ipJh+IL0tELZo/A3E8BnApKJjFK1SNBHNJ7j2Wjr2SknWcq0yo65TuoAaiwIlfNLYolzdhj04r2VGyoXXZ+/P4PTk49mH8x24uG/2IB671NzR8I5G97qDLTVet44z570k4Q8pwl91RqG/BQYbYcFGULClH7huPS8cAUnH3YHjI/ACmMGEZt+hxZY8YHeXYjpBAAkBZhO4XPF82v3tcgN128RgYN5i3vUdNv2GJ+2Fs2kYUhnUKuHl9sGLjeru/Po/c2EaZC1vfgHN9++9",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "66f5ead836127e5f0ac6fbce87c6bf8c",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Zusatzliche Kennzeichnung: ATEX, Anschlussschema",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Zusatzliche Kennzeichnung:</td><td>ATEX, Anschlussschema</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVGtv0zAU/StX+YCY1DXPpskYk7qHtAkxKhgF9lDk2LdpWF6yHdhD/e9cpyVd2UBYSmzfx8nxvce5erSwwBIrneTC2gOLRXzOfTEaCX9OzzjyIxFzHHt+GqduxK0BWCVqJphmFP9omUWi6lZy/L3HhEukqQN0x0HgOOPYi4aOSe78ZS3yef6PgEbWHJXaRLhxEMb+cOwHfuC6Jq5BWeZK5XWlkjWbq0eLkA0P3/ecYHlDYRJ5LUVS1JzpWnYUG6YXBtf+rFAqW+acMykoUWnJdK7s6T1fMFlOZf0duVa2aKtMJU3NbVHz1lRL7dYV2nE3kmmFbUmJtz/IkxfJyXSWHB8mx8NGzK3lkkjM8wIrVhpm1v8krVP0fdOlsKYpcuJPZ7XX7oJVWcsyVObYFlaZZQ7bkCWp2jJFc9Kos8hNc12qIY5xnMZ+EEdpFIXpPMQ4QCpXkIaxAdZ4pxOmkoUuC5Ozr1la4MG+TmtxT5OkRxxctsUQDlHLHFPV0ueEbPnt3r5NPuP3BiNIc0UUHEiZ7O1/LOwObgX5nmUV6nSFCa9/skXxE3OFOxtQZ+QMHRq9JfAcsnjBtskdej6FPv/EOVaValhVUT83XF9l+k0Es2+94fjIC2b9bnJEaLOXwQoiqLfA3t70S2cQwZd+5w782eQ5ymVbCcUXrX5gUm9g3hH4A+Z8Yaj21gxL9hEmFydfn9TEDWw/sE8+P8f+1OFmkokeGHhdmAq8vbb8a+sgDF9ipJh+IL0tELZo/A3E8BnApKJjFK1SNBHNJ7j2Wjr2SknWcq0yo65TuoAaiwIlfNLYolzdhj04r2VGyoXXZ+/P4PTk49mH8x24uG/2IB671NzR8I5G97qDLTVet44z570k4Q8pwl91RqG/BQYbYcFGULClH7huPS8cAUnH3YHjI/ACmMGEZt+hxZY8YHeXYjpBAAkBZhO4XPF82v3tcgN128RgYN5i3vUdNv2GJ+2Fs2kYUhnUKuHl9sGLjeru/Po/c2EaZC1vfgHN9++9",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "6e680f9099864682f22baa94873c18a1",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Schaltbild für „eigensichere Ausführung“ Nennspannung: ≥ 8 VDC Nennstrom: ≥ 33 mA\n\n+ o\n\nSchaltbild für Steuerspannung 24 VDC\n\n(Pilot ohne Kabelverschraubung M20 x 1,5)\n\n(wa D o\n\nSchaltbild für Steuerspannung 230 VAC (Pilot ohne Kabelverschraubung M20 x 1,5)\n\nD o\n\n10. Oktober 2022\n\nSeite 6 von 11\n\n5.7 Potentialausgleich (Erdung)",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJztl0tv3DYQgP8KoVOCprt8imRubpwCRVF3Aae+JIEwJIe7avRY6OEmMPzfO1rbjYsYhXPoYYHVRRJnhprHhxnx/U2BDbbYTVWdites4GVpreLJOYyeZ15yA8mVTsrsk7SueMWKFidIMAHp3xTLQzX28xDx4R2rOCDdDhsKqzXn1ku34ovxQd72qc71fyjshz7iOH7VEF6XXq2s0koLsejtcWjrcaz7bqzuvXl/U9DOix9KSa5vP5LagLEfUtX0EaZ+OLi4h2m37Lv+Y8RhXA91jDAkMhynAaZ6XG++xB0M7Wbo/8Q4jes0d9ux2vdxnfo4L9kaf+w7XPvDVW06nFsy/HRNkrqp3m6uqvOfqvPVPuXi9pacyHWDHbSLZ8VzjO5Npi/7gwns901N/lOs63txA912hi2OS9gFdttiCXZPK1U3twGXSN1hZfhaXEE5RIs2eKW9C86VIZfoNVK6dCh9sfg64edpUb6kHDRTqJvE8oeZ8xwH9mGWXCDWW+zGOu5wQHY2j/fi3UBpOmhEdoFdN+6h62jp9WImS8Mcuzp/cyeahr79Z10p1p4tQT3EewHDUohrfLf4Qk59Q2nOUkuLwHPQwSerjdFBZKfBJQPlidIjovQxdD+w/jEIv7Sk+hQAWoANSpfKKC+J6VKGmCJV3keDyuoTAEcKwFNd53LCmTJw306Y1Esf+a5+gbzU0eiSuoYDSFlIoC4IOSNEKYw/4XKkuLzY1E0/sX7XIfsVAjbXFDtNIpjDgspvkrPPTLwyL78LF+NcNC4IDmBoXBrgLoI0lnstaeaoEy7HistfwM6fOWIyeJGzipBVAiqM0SoFJwwPYDLHeILgSCF4zohRnF2dvWH/T3uxkCKGUosgoqeBlG0EoaGkurqA/tRejpWs57aWEFXUwthsUQXMXlhRWh99opNYLjmcADhSAARfsd8/TT2JmORSPqbh576fyOIJHBKdXWx2jjselAcRpBZULZ0hGc59OOFwpDhcYj0hK9l137G7BD7sviGjizubJ4AAj95oaRP9dSAGFBZ4DBmcjiJzOB1XjggI/xgIs7JsQ22APgYNzOO2wTru2Iu3wxLdv/4i3tVTQ8Pj49/eIOTL",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "aeafdd60ebdd6c6f7e532e9796d6cd0e",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Alle am Ventil vorhandenen Anschlüsse für den Potentialausgleich müssen angeschlossen werden. Siehe auch die allgemeine Bedienungsanleitung „elektrischer Anschluss“. Ein Potentialausgleich, nur über die Rohrleitung, ist unzulässig.\n\n6 Inbetriebnahme\n\nDie Inbetriebnahmen des Ventils darf erst erfolgen wenn es:\n\n• Vorschriftsmäßig in der Anlage montiert und angeschlossen wurde.\n\n• Auf seinen ordnungsgemäßen Zustand bezüglich des Einbaus und der Anschlussbedingungen geprüft wurde.\n\nACHTUNG!",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "orig_elements": "eJztV0tz2zYQ/isoz64EkgAfuTl1pu0lo2kdH5pkOHgsKDQkyAFAt4nH/70LSmkUj6dJevNEOlAAsQt8u/j2wdd3GQwwgoud1dkzkrVQ5E3FednmOQA0mrI617QCKsq2akV2QbIRotAiCpS/y9KgC9PiFXycQ6c84N+6YV4zRmndFs2GJuV1fZy0NfY/BGY/KQjhk0TesqotN3XJSpbnSW4GP9oQ7ORCd0Tz+i7DnROOsiwou3+LYh7U5HU3TErEya8QZxH3ad/tqwA+bL1VSniNiiF6EW3Y7t6rvfDjzk9/gophqxfXh26e1FZPakneCj9ODrbt+ut2DpYRFd/d4ooduhe7m+7qeXe1mbXJ7u8RhLEDODHC6uGvUDqqxPfzqiLmebCIH23dHpcH4fpF9BCS2Rm4PkvGzvimc8soIVnarm/8p8sVLbScFbUuGg4gIa8FVdKIhqncUNFmCWuEv2MSvhwGIGIkNys+cjv5vXAaHDhy6YLaD28WSo3CSyLmMPQEl8luiklDDGIJ/QBW7cn4r6gjiBuS9rTO/gKPOhvyu4U9nragsLY4GIYeWWkdkOeAL1y6AOFwt4gj8mYpKLJzgHfRW9wM/BHSEsK6pjbkhX0MygVxiycHOOik9bDfpr0/7nxBbIhkcR+W1TpgyK9+k/z98SpeCp84cgvXyU3or4cBBCyXBWsaAFEXtax5LZu2VhxkVRS0YucAekIBdBoPFfnVSUDCgXRij1BOWHFt4wCPsaESEhSwtmatFKyiBWcM56oxDS8lRtyZDU+HDQ/T6RdD/ZQ+V5hpPieQw3QZjuk1EC28Iei/iA8zYfpLydE5AuHZN+UfUbQVzRvaGlkrXSAQXhrDdNnIRihanxn3vTAuVcKiIDeTx9LorYlhPBS19NTG9sQmCqbaOeCxZJzQDvCp/umHZXrBMv2NdbChnNEyF4hPcyy3WooS0XKTN4pxOPPwO+Ph5WJISC2dI+jHtaPDHu+UkbjyxxIidplEwodDk9YPqYFMiRIbOol93MpOfdrxSewQ0QaXUmYPsz8omvh/WKtkoQznFEHlrCixV+ZNU2letZKjffLM2ifE2s++Zn765frVy59/eKRre/sPJYPXOA==",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "010c3e4dc89cacb49a94e60b9409c34a",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Der Betreiber der Anlage muss vor der Inbetriebnahme eine Prüfung veranlassen, die mit den nationalen Vorschriften für die Prüfung vor Inbetriebnahme übereinstimmt.\n\n6.1 Betrieb\n\nIm Betrieb ist darauf zu achten, dass keine äußeren Kräfte, Schläge oder Stöße auf das Ventil einwirken. Siehe dazu auch Kapitel 5.2 (Montage).\n\n6.2 Steuerdruck",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "orig_elements": "eJztVNtq3DAQ/RXhpxbSXdmWb31rSB9CaFlImpc0GFka7aprS0aS06Yh/96Rd0MuDb08BmIwsmbmjGZGx+fiJoEeBjCh1TJ5TxJFGZesrlVeCt5RykspypzWFeN5VVKRHJBkgMAlDxzjb5L40Xo7OQF3e2iFA1zmhGnFGKVVk9ULGsGzf7BSK/2HgNFZAd7fR6QNK5t8UeUsZ2ka40Zwg/ZeW+PbfTUXNwlmjnXkeUbZ7SWGORDWyba3ggfr5hJHHjYx7/KLB+eXTgvBnUSgD44H7Zera7Hhblg5+w1E8Es5mbVvRyuW0oopTsu/swaWzfy0KwPTgMDtFXp0335cnbdHh+3RYpQqub3FIpTuwfAhVpb8C2gPCdfjDOHj2GusH3td7t09N+uJr8HHthMw6yQ2O6KlNdPQQey0mS3u/nJFlwlVFJRSSFmWs6wq6rqURdl0RSWKLom1BvgRYvAROHIIwYHGbETi+8H0mJ8Mk/fkyu5sx6bDGA2d4ZsBCGgDZOW+TpQqoXBs5AocRxzepTkgUiNcB0QaYuZ+OA6GnFvnxcZpFXCjdmA3Bz9OZX87b+fFAvFgH/QwhEWczt3gPnMXb/QKzmJT2N1TuudNWmRFx0qRCkqzFEROMyqVygrKFcAr3V8Q3R+yt1ykM3uRKQ8JcaZDD88RoSnrhoq6UJJRVZcVa5q0SXMhWK0qwekrEV4QEZ7q3l//8ofMOR7uiEO0R6nijk+K/JwIF5swixiKGdnOShflB9gUF6lQhAw5cTsbStkBORWbfrdF2bRRLk/DrFjlHkFiasxHzudhRPn8rt0WzIKcatgA+uLBk9iQEz7qAD0pFhl588magC2//T+x61gq0iqlVc2FhCqru0zxDGmlyjqlNXvl+Avi+GOxy5BZMIGTbhLbZwTv8hdnfi5D",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "789c376c80f4508eda5a43a9d353035d",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Der pneumatische Steuerluftdruck am Pilotventil ist der Tabelle im Kapitel 1.3 zu entnehmen. Der Steuerdruck- Anschluss am Steuerventil ist mit 1 gekennzeichnet. Die Ventile arbeiten mit ungeölter und geölter Luft. Wir empfehlen eine Wartungseinheit und folgende Luft-Qualitätsklasse:\n\nDruckluft DIN ISO 8573-1, Druckluftqualitätsklasse 5/4/3\n\nKlasse 5:\n\nmaximale Teilchengröße: 40 μm, maximale Teilchenmenge: 10 mg/m³\n\nKlasse 4:\n\nmaximaler Drucktaupunkt: 3 °C\n\nKlasse 3:\n\nmaximaler Ölgehalt: 1 mg / m³\n\nHinweis:",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "orig_elements": "eJztVktv3DYQ/iuEzvaKFCmR8i2tCzRIkbqIkxySQKDI4S5rvUpRaRLD/71DeV07aZDWvQW7e9BK5MxwHh+/mTfXGXTQwxAbb7MzkinKJDAhal04YFDrmivBS8WoKKUEm52QrIeorY4a5a+z9NLM4xIM3H1DYwLg32qQSSEolXWhNjQpr/v9aL3z3xCYwmhgnu8lWC2qmm8kF1wwluQmCL2fZz8Oc7P35s11hpaTH5wXVNy8Q7EAZgy26Uaj4xhWFycdd8lu/nKGMOfBG6ODRcU5Bh39nF98NDsd+osw/g4mzrldhu3cTKPJ7WiWlK35dBwgr9dfczHA0qPi1Xvc8V3z08Wr5vyH5nwzWZfd3KATzncw6D55lv0Xpb1K/DitKnqaOo/+Y6z5frvTw3bRW5hT2BkM2ywFO+FKMyx9CynSel0J98VtBTNMMiqVNhZkodrC6QLz6SossBJZ8jXCh5iEzyGQae/kbHZAXkRYIHSLizYs5oronlz4boy3ARA/R2JR51K30HVAfE+e6clH6AjbcPJpISg3wA7TtyHJ+K291dYpeTLgGd0yz8ns7c4Du72PhJEtXMEwfAJvdgNENOKBvFqFgOjQAp41rKJYLni7UOqqLuJBy2DJZwu/YAwb8toHAv3kYIfFIeAHIK91iKnW+LGD1ZAlbuy2MFhYtU5/W3TnY7IFIs5XnUaQnqWC3NXquQ4JRO/hMuURE/rlDdO2NqItmamkw6wXphDUKMMLVddK1+x4w76jG/bZhUlITteDnD99Tp6++JWoUvJTdkL+3vnjK+ghZS5y/hBClz528FXoyFJWRjJXulZCXRScCcmdAu0McvYROt8TdL4k53/lhYdYe7aHziOpp5AO27kxRirbWlMJpkEZgw3ActHKI34OBT+9/uB7jX3zEnyHzX3Yhtv+mJ7WwRkRlOA7b01/Qv4hjVnaogyjpN/mfdJp+aOQ6EpTt7KtDW2LmjrqCil54XileaGNOo6ZB4PEPZOJxzGZqkscWS3jrqqq0rpKF1pYAN2WQjvWHvFzKPi546ZwO2VFvUzLcBUxt2TlJfrjo4BFOUhaKctci22R1kLXlQJBFbVCMU6PwDoUYO2JiT+OmJi12D6ZpZj/qiiU0G1VOq1ZUbLKwnFEPxj83BPTOlNV3RZ2ukNiYjg0kZz8r7FJ4cQkFVjZqpYzJgzTjOL5TtCK1sURXYeCrp/98Cf4+Vvk9O4vc7L1dg==",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "34d68475bddc8f855179e5b07f1fef8a",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Bei ausgeschalteter Steuerluft stellt die Feder die Armatur automatisch in die Grundstellung zurück.\n\n6.3 Endschalter\n\nDie Ventile werden je nach Ausführung auch mit induktiven Endschaltern ausgeliefert, die entweder die Ventilstellung „geschlossen“ oder „offen“ anzeigen (siehe Kapitel 1.3).\n\nEs kommen Endschalter in drei Ausführungen zum Einsatz:\n\nAusf. Namur\n\n     \n\nAusf. PNP / SchlieRer\n\n1 —t ot\n\nAusf. NPN / SchlieBer\n\ni ==\n\n10. Oktober 2022\n\nSeite 7 von 11",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "orig_elements": "eJztmN9v2zYQx/8VQk8b0Nn8JVIs0IcGSYdhQGYsXV/awqDIY6JGPwyKStcE+d93lJPUbYM2fTRmv1jm3VF35EdfnvX2poAWOujTuvHFc1KI2kvLvQlOgKx9KYJnrlal8XgVqCuekaKDZL1NFv1vinyxHocpOrj/DWsXAb/mCZmWklJteLWgOXi2d4NvQvMdh00cHIzjZw9mpDJioYUUkrHst4HYNePYDP24vsvm7U2BM+c8hOBU3r5HtwhuiH7dDs6mIc4pbmy6yPMu/xkhjsvYOGejx8AxRZuacbn65C5s7FZx+AAujUs/9efjejO4pR/clFdr/G3oYWnmz3rVw9Rh4OUVWpp2fbJ6sz4+Wh8vNj4Ut7eYRGha6G2XMyueEnQXkj5t5hC72bQN5o+1Lu/Mre3PJ3sOYy67gP68yMVucGTdT10NuVIzj8TPm2u9cbIumVM6VIxyxyV1lRO8MqayhhU51wT/pux8BA2x04i3wMVoEySI5CzBBLGdQiJjgrZNxDdAXoFHW756GbGkKWJcGnJxGEqafjb9Hqfez0G4mOR6iu8mSoNzl4tczn2lpzbmLbiC1zkLTOdbPgPIstSYsWIcN67WdVWXWjPLTCXKA597xOcubmohyAkSsoUt7kLxukktPAZDBSxIB44FLWtttaLUmaDqipU6I3KAYY9g+Fqsfvik79JzjArzZs4NyEeIHnryAUhvUX9eTmPYas1FzNJjJxzsmoTC5KfLrDX9Lnj9VvTaBgLE9GzWLpz444PGbW/zoGTvJk4ZzCrZDghBPw84MmT/rXEI4WHY9tfQnOMtfxkbuADyp900OBVhC/HrzymhL6kWAhgXwjGhQYEXEkSJx7TQJugD/P8X+E9Gcjl03Zccz+duxDP8K/7R63rqyEnTjzZdP/8p5GRQRmtfIWdIXKgcM9gb2qCkEtaAPSC3R8jtEpQZWZBT201PO3ittUbaGpzjXriKKc+rSnnJrHCaenEAYU9BIPmzi8AfHTo/hoAJQqnSB840x0cfpKhZWYJytATKwqH32lcEtlqwOl2RJTnDpqaBv5/YjiMGFbbhTFe48sClYjXUllkFwpWewgGJPUWCbRtZmciQnigOuCuS6RKs8YpaLlEupJaU10I6fniLtK8k3DUKq9MHcTj6Uhx+2ENyr3ylS64ZVco57GqVcdrjsFacl4cecl/RaMiLF08TB891iW2jYRS33HpX28pL7YItOVemPhCwpwQwuiB/XaYBTYRTzndpeDUM+a3eIzioWlFROm48c1x4jn8ugy8ri71lLbyQBxz2FIczaBIQTa6GnmwX8H72FQadbmNu3/8HYUB11Q==",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fda604c6b9d73d6ad1f62e1c1f8c24be",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 6.4 Ausführung mit Abluftdrossel (nur bei NC-Ausführung möglich)",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "orig_elements": "eJyNkEtPAyEUhf/KhJUmtjPTIdOOO19b04W6UUMYuExRXuFhbJr+d2FS48LEyAYu95zLd3g+IFCgwUQiObqskOC0bzDrx4GvO95T3op+BS1rxYat8AjookIaIuU00qw/oHIgwSbP4LsGwjzkbR7YrjFumvWw2iybYp772nIp5B8C5y2DEH4U7YD7oVuuO9zhti06B17LEKQ1gZxong8oTy4cXbdq8PE1yzww6zlRltFo/YzoaNyVufVjAB9qLxmjnmdjiJ5GGertnu2o11tv34DFUPNkpkCcZTW3LJXfCgtroB7mRbYGks7G94/ckYrcbZ/I7TW5XTou0PGYIYRUYKguZOg/ppMl7t1soc4pmflz1vrUVtRMiU4QSmwEZkIlrMs3xCQ9QknaNuXtCJ+xDOmXuLpKQbykphFs53OmSstYXY0qici9zd+tqjOTfDWCrO5vFr/Uc9FPmWV3XiC++R5kVICOr18qxr5d",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "de903f44c2268d53d68dcdaf6a1a6c37",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Ausführungsbedingt kann bei der NC-Ausführungen ein zusätzliches Drossel-Rückschlagventil Typ GRLA-1/4- B-F-SA des Herstellers FESTO zum Einsatz kommen. Dieses Drossel-Rückschlagventil wird dann am Port 5 des Steuerventils zusätzlich zum Schalldämpfer installiert. Dieses spezielle Drossel-Rückschlagventil ist mit einer Mindestleckage versehen. Selbst bei vollständig eingeschraubter Drossel lässt sich das NC-Ventil pneumatisch nicht blockieren und bewegt sich bei Bedarf zuverlässig in die Grundstellung und",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "orig_elements": "eJyNVE1z0zAQ/SvC57qxYxMn3FJSPmagZJrSCzAeWVolIrLs0UdL0+l/Z9dOW4YDxRc70tt9b9+T8u0+AQMt2FBrmbxhyaxQfNYUnFfZtJJKVdVCFfNpNeciz+Y8S05Y0kLgkgeO+PuEPmrfRSfg8TfUwgG+hoZ5VZZZVi2m89OheNhvO6mV/gegd50A758R+aKcLYrTqiiLMs8J14Nrtfe6s74+qvl2n2Bn0lEU06x8+IEwB6Jzsjad4KFzg8Sehx31nXz14PzEaSG4k1jog+NB+8n6Tuy4a9eu+wki+ImMduvrvhMT2YlIbvm0szBZDE+9thBbLNzf4I429fn6ul6d1avTXqrk4QFFKG3A8paUJf9TdCwJd/1QwvveaNSPs06O24bbbeRb8DR2Anab0LA9rtQ2tg3QpHk2LLnndJXks6wUs2Yhq0LOuMzVbAq5yNVcTMsGEhIb4Fcg8DJ69T1mmRI7RwY0ILXdBrbn1rIGNJPg2MXb9C8cWAbaskP0tAhlOKD2HXi2ch0matLLESz2XuwM347zs6u7nr2//LRM80mZsrP0XbpZIoNnHzCjAMbgi70731x9wdYtO9fW83Bg+67FPE7ZSoN/keNWO8kkyectW3cusNcDxSZABDeC/N/KB7oNHghj5Lje9gonRwEB1zS48ETvezho0vqCEO0Da3Ugo7DTZ23p7BkQe8yP3eCksKOhNmAaRJLXN50xPoz8VuotlWL6aDmPTcAmR0JmRozHOk/qJfcU0vVI3B9PHRYyi9vYHG/GHofA2KKVyHUL22Mp8Z6B5E6hB6jqqTXSY8JSA3uPicshHkx+aEBzaiCkVGjM2fGcfLQNBKehsXzXAmuj9xTCszLqNlTNlLJ03A4wGoRTUv/AbsFJsCcM41i5ODo6KkLTSA/SLK0hCw+RXNyRrw59TJ9kXHxJr7nT3AZgcozGKRxdRbun6/V8yCkatmxMVEGO1to/Iz+qeUV38fGaXnBH/x83cEU36OHHbzEm1yI=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "582e3b04c0ee750683b607444e46f836",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ständig eingeschraubter Drossel lässt sich das NC-Ventil pneumatisch nicht blockieren und bewegt sich bei Bedarf zuverlässig in die Grundstellung und schließt. Bei der Inbetriebnahme muss am NC-Ventil die Öffnungszeit eingestellt werden, um Druckschläge in der Anlage zu verhindern. - Bei der NO-Variante dürfen funktionsbedingt keine Abluftdrosseln installiert werden!",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "orig_elements": "eJyNVE1z0zAQ/SvC57qxYxMn3FJSPmagZJrSCzAeWVolIrLs0UdL0+l/Z9dOW4YDxRc70tt9b9+T8u0+AQMt2FBrmbxhyaxQfNYUnFfZtJJKVdVCFfNpNeciz+Y8S05Y0kLgkgeO+PuEPmrfRSfg8TfUwgG+hoZ5VZZZVi2m89OheNhvO6mV/gegd50A758R+aKcLYrTqiiLMs8J14Nrtfe6s74+qvl2n2Bn0lEU06x8+IEwB6Jzsjad4KFzg8Sehx31nXz14PzEaSG4k1jog+NB+8n6Tuy4a9eu+wki+ImMduvrvhMT2YlIbvm0szBZDE+9thBbLNzf4I429fn6ul6d1avTXqrk4QFFKG3A8paUJf9TdCwJd/1QwvveaNSPs06O24bbbeRb8DR2Anab0LA9rtQ2tg3QpHk2LLnndJXks6wUs2Yhq0LOuMzVbAq5yNVcTMsGEhIb4Fcg8DJ69T1mmRI7RwY0ILXdBrbn1rIGNJPg2MXb9C8cWAbaskP0tAhlOKD2HXi2ch0matLLESz2XuwM347zs6u7nr2//LRM80mZsrP0XbpZIoNnHzCjAMbgi70731x9wdYtO9fW83Bg+67FPE7ZSoN/keNWO8kkyectW3cusNcDxSZABDeC/N/KB7oNHghj5Lje9gonRwEB1zS48ETvezho0vqCEO0Da3Ugo7DTZ23p7BkQe8yP3eCksKOhNmAaRJLXN50xPoz8VuotlWL6aDmPTcAmR0JmRozHOk/qJfcU0vVI3B9PHRYyi9vYHG/GHofA2KKVyHUL22Mp8Z6B5E6hB6jqqTXSY8JSA3uPicshHkx+aEBzaiCkVGjM2fGcfLQNBKehsXzXAmuj9xTCszLqNlTNlLJ03A4wGoRTUv/AbsFJsCcM41i5ODo6KkLTSA/SLK0hCw+RXNyRrw59TJ9kXHxJr7nT3AZgcozGKRxdRbun6/V8yCkatmxMVEGO1to/Iz+qeUV38fGaXnBH/x83cEU36OHHbzEm1yI=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "952d0cf716618cfdf9a3423eb23b31f6",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Empfohlene Vorgehensweise zum Einstellen der Abluftdrossel (drucklos)\n\n• Ausreichend Steuerluft zur Verfügung stellen - siehe Tabelle Kapitel 1.3\n\n• Drosselschraube ganz einschrauben\n\n• Ventil schalten und Schaltgeschwindigkeit überprüfen\n\nBei zu langsamer Schaltgeschwindigkeit die Stellschraube soweit herausdrehen bis die Schaltge- schwindigkeit ca. 1-2 Sekunden beträgt\n\n• Erst danach die Anlage unter Druck setzen und Schaltgeschwindigkeit final gegenprüfen\n\n  \n\nI & | s\n\nHinweis:",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "orig_elements": "eJztmE1v3DYQhv8KoUPRArWXFPXF3BzYQIMChYGkviSBQA6HWtb6AinFjR3/9w7XazgtEiPuzfDuZUXODGdIPngp6v1Nhj0OOC6tt9krlnFbSt1I3mjQtdJaN8jrSivIeQ61qrNfWTbgoq1eNPnfZOmhjdMaAO/b2EJA+tsNKOqi4LxWeXPMU/DOPkzWO/+IwxwmwBgfPIQqKiWPa1nIQojkN2MYfIx+GmO7r+b9TUYjpzqkzHlx+5HcAsIUbNtPoJcp7Eqc9bJN427+jBjiJngAHSwFxiXoxcfN+WfY6jCch+kvhCVu7Dp2sZ0n2NgJ1rRa8WgacaN2v/Z8xHWgwMtPZPF9e3Z+0Z6+bk+PZ+uy21sqwvkeRz2kyrIfCdqHLJ/nXYie595T/TTXzd7c67FbdYcxTTvDscvSZGfqacd1MJhmKviuKzzsrrO64gVURtla2kpb4aocBQjXQF4YzFKxC/69JOezYXbTlgpHdjGFDrc4xiv0Edn1OrAzP8YFezIzi4GdmH51iw0TbVrPfrZhhct+ir+kWu+n8YcOaX0/4buUgVL9F766zMuyNEqJwjoOBdc1WKPQ0qYrAuQA34uB78NKgpOzkzUG9EDoWfZ2wRVDwowADOwCg/uwcu6goxVi9zAesegJVfZOm9TBftezJxMTx/JJLCqpnHLgeMGFQpFbCXUtS25QSlcZcWDxpbF4eiduEbZBrwZZp8drhiSD+47xSXyVWOYKmgp448pcGFvbxuVYI5TCKlUe+HppfF3s6mOEk+4XUrI1ad6uQdlhe+VH67tL9Au7kz3KPYe7R/dE+HSVmwLKquSkcoXGulSyKOsGJXVyZQ7wvRj4XqOn45SlTJFqD99BznpMB3D/IH9xukqGLVIz2pBeD5nx8c5zP8YR+/cooI+ZOMrZW7wkulMALjuEseiWJxFs6H4CtTF0W+G6qHKOyggNAmwhoDoQ/III3svnWYiEqR41bHcMnow9ZSEVXQjq03QfYRGX60eF1flR96zDDsf/K60cUAlbNE4DEqM250rLvDFFLVQpxeG98VmB+TVnjH0NwpuBXL8FgBTgctkUuWlKA1VtnS0s1Fo2TjZ5xQ8APFcA3rCf2BcWf4gChUi3RcBGucoJNKXgdHVEKUwJtincgYLnSsFvfkxfwV49cip8/Acebdo3",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "be7285a51f7de4ca2970bc16e2e2074e",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Die Abluftdrossel ist mit einer Mindestleckage versehen. Selbst bei vollständig eingeschraubter Drossel lässt sich das Ventil pneumatisch nicht blockieren und schließt im Bedarfsfall sicher.\n\n10. Oktober 2022\n\nSeite 8 von 11\n\n6.5 Filtrierung\n\nAm Eingang des Ventils ist ein Schmutzfänger zu installieren, dessen Maschenweite < 1,0 mm beträgt! Der Schmutzfänger muss zugänglich für Reinigung oder Austausch sein, ohne dass das Ventil entfernt werden muss.\n\n6.6 Einschaltdauer",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "orig_elements": "eJztVk2P2zYQ/SuszhubFPVZ9LKBk1tSo5vkkgQCRQ5lZilKIKlNk8X+9wy1XtRtF0VzNGAd/MGZN5wZPg3fx/sMLIzgYmdU9ivJcsVq1tYF5JTqslaN6vsmb0DkZdkI1WdXJBshCiWiQP/7LP3owrR4CU//oZMe8GsNyOqioLRu82ZDE3i1j5My2vyHw+wnCSH85cHaomr5puYFLxhLfjP40YRgJhe6YzYf7zOMnPLgPKfFw2d08yAnrzo7SREnv6Y4i3hIcbfvA/iw9UZK4RUCQ/QimrDdf5MH4ce9n76AjGGrFjeEbp7kVk1ySd0KLyYH23Z9ur2DZUTg7R1ajO1e7T90u5fdbjMrnT08YBLaWHBiTJll/wd0hMRv8woR82wN5o+1bo9mK9ywiAFCKjsDN2Sp2BlXOreMPaRKGU17R/gzpiA7A+S6t4uOyk/YWktMiGQ0kYBx4Mkb41IHLMhbjELusDVwALchN2B79OzBkLvJ2hA/LZRC4ZQZEhRzkAcvlj5ikN0xtH30CYgLRh6IEoF8WAsl87FwRBGHNoyMh3NrwIMji1MEDdZACqB0JGYkL0EJr4MW1q7RwG9SC56681b4dGx38C5ViiX/k9O9YqLER+U1ywume9oyqQTkZZ5rrdWF0+fKaUY35PfbOKGN5DTPT2nxepqQkc/xoa1q2VbrGfU1lKzWIDUIWtW8VtBfZtzZ8uEGTATS4Jxy5LGDT+H3iHr7CHqGEcBr2nKo8r6RAJypWoLiModSUc7Ly4Q4J0awU0ZUm5K8NjZ6vF+wnlNKvDN42T3HBsbLStNG8SbXvOzroipKJbRSmnHQ0FzYcE5sWJf8T7zrp/S5HskrlDi4EcHWHCVMWJUTSh9yIw/jEr/royIa8Br6vhDjQkStsiqaq4QLqGzeCNQ14L6uE+o3wq4oGUcUVdE/gof4C9kh/pmQ4xICxh2elmxSVKuDlp78gYmYAU+H4Ol5cr3g5ksSVwENV2Q6OEjyK5xqMPzU4F0kX8ErTC7t8HOaSlElWNVSVnPgJQdaSdq0pVRl3+jLHXpm78jfJ2aVOI8MEjYqsaDLv4fm5x/DV5h5",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "320f69e16862de08ba391f1f45bcb983",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Die Ventile sind für 100 % Einschaltdauer ausgelegt.\n\n7 Wartung\n\nDie Ventile der FCF Baureihe sind wartungsfrei. Wir empfehlen jedoch die regelmäßige Überprüfung der Funktion und Dichtheit in folgenden Prüfintervallen:",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "orig_elements": "eJztVE1P3DAQ/StWpN7ajZ2PdcKRLhyrPVA4UBQ59jgxJE5kO7QI8d87DotAqKW9IpGD49gzz2/GL+/yPoEBRrChMSo5Iklb01K2vOUF1LTGscpAi6wsy5ZXtFbJZ5KMEIQSQWD8fRInjZ8WJ+HpGxrpAF8rIONFQSmvs2pDY/K6P07KaPNGwOwmCd4/R7C62Nb5hudFXjAW42Zwo/HeTNY3BzaX9wkiRx55ntHi4QrDHMjJqWaYpAiTWynOIvQRN/3uwfnUGSmFU5jogxPB+HR/J3vhxr2brkEGn6rFdr6ZJ5mqSS6xW/7LZCGt16fZW1hGTLy5xR0zNCf782Z33Ow2s9LJwwOS0GYAK8bILPmfpENKuJvXFDHPg0H+WGt62B6E7RbRgY9lJ2C7JBY740pjl7GFWClj65J7vl1FlWDbmjKeQ17mQLeSVnUpVdlWGto2iWQD/AoxeGeAnK/kgHhjFdE/Fkq1dIRRSj6RE2M99mkISizgiFh8h1rqwibye6L+TbjY01s4i6gI/1pwVcGZ1LysW1RAxniWVaUsBaNa4xXm2Yfg3pPgXuqHkwvhAlbyUg9nJgzwJx0UVall1mYCBalK4FyxWm+lQCtSGeT6QwfvSQevjeeff/nfjEehs5x+PSXHYnFg+oMT/XwUlte4tiEXxhEYZw09FkuuAXvVE4UgDtCRxuhaUMRRadMBWWcSmc7u0dA0Qj0etNibWCtZ8IydkX3owQRiLNHT0IFVCL9/SjI2gLsVA5559IbjXf0GLVldyQ==",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "629d9d016c77acefdb5808f7d24f0a8c",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Intervall nach Schaltspielen Intervall nach Zeit Ventiltyp Erste Prüfung Weitere Prüfungen (falls die Schaltspiele nicht erreicht wurden) nach Anzahl Schaltspielen je nach Anzahl Schaltspielen FCF25 – FCF50 300.000 150.000 mind. 1 mal in 12 Monaten FCF80 – FCF100 200.000 100.000 mind. 1 mal in 12 Monaten",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ventiltyp</td><td>Intervall nach Schaltspielen</td><td>Intervall nach Zeit (falls die Schaltspiele nicht erreicht wurden)</td></tr><tr><td>Erste Prifung</td><td>Weitere Priifungen</td></tr><tr><td>nach Anzahl Schaltspielen</td><td>je nach Anzahl Schaltspielen</td></tr><tr><td>FCF80 — FCF100</td><td>200.000</td><td>100.000</td><td>mind. 1 mal in 12 Monaten</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVU11v0zAU/SuWn0CCxs7H2qJRCdgm8YBUCRgS6xS59k3jkdiR7WyMqf8d20nXbdoH9MW5vvccH59Tn91gaKAF5Uop8DuERbU+EHk1K4TIhGDZel2RGfAiE4SLDBh+g3ALjgnmmJ+/weGjtLo3HHY1lNyAXyIhneY5IdN5OpuQAI79VgtZyWcGOqM5WLufoPP8YJ5Nplme5ZSGuQ5MK62VWtlyVHN2gz1z0JFlKcm3537MANdGlI3mzGkTJXbM1YE3+W7B2MRIzpkRHmidYU7aZHnNa2bapdEXwJ1NRK82tuw0T4TmfXDLvtUKknn8lUsFfeuBvy59Rzbl8fK0PPpYHk06UeHt1ouoZAOKtUEZ/hfQCHHXXYSwrmuk1+/vmozthqlNzzZgw7UxqA0Ol+38Tqn6dg3hppTGLbNPd5ZPKa+mxXzt7U7pNE1nBS8YJVXl/crSwOzgtyuZLWvXNgFz6Ni6gcWhq4EJv5jwiYy+sh1T71c4W+HFabyDl3uYuDr2uW7Gfur7n5UDc8maBinGa/TV29s420n/31O3kPuUDyA/QTr0qvK1RULCPQqkJK8dAmMgflz1RoB6PRAnUXAUvTg21gFaGln5QHfnLn54ajBxPzZ2ku4io4YP6g+rm8fVLy4AvTAU+ZKdjWstrkd6sTj5dDIjaNWnhObIF5QQPyliLyVkQu7U9EHdSiUmiKKWNUgqRFP0RSv/htQwMZ46HJcMWeLtmHPI97ls0GMp3IaNdn6uekIqHrxDezP3m57n/5J72kn0nM3BubQYbMxCURCUDW4hWgzrk26hOxlkYwYo3aHJC+j4cMbX+i14jLfnfwEq2b6I",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "943a7bab705921500c2eb35ccb8717fc",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Die Empfehlung basiert auf optimale Betriebsbedingungen d.h. Betrieb bei Raumtemperatur, gute Filtration, des Mediums usw. Bei stärkerer Beanspruchung wie z.B. hohe Schaltwechsel, sind die Prüfintervalle im Ermessen des Betreibers entsprechend anzupassen.\n\nDurchführung der Funktionsprüfung:\n\nMindestens drei Schaltvorgänge, danach muss das Ventil jeweils sicher in die Grundstellung zurückschalten.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "orig_elements": "eJztVMlu2zAQ/RVCZ1cWtVhWjkGSnlIYXXJpA4EihxJjkRK42E2C/HuHioMAPQTtOdHFEmfxmzeP7+djAiNoML5VIjkjSV3zpt7yTEqArqy4oJtuQ2m9pXLDWZklK5Jo8EwwzzD/MYkvrZuC5fDyDS23gD9LQ1qXZZbVTb5Nl+IlriehpHojYbYTB+deM2hTbpoirYuyKCmNeTNYrZxTk3HtCc3PxwQ7RxxFkWfl0y2mWeCTFe04ceYnu0CcmR9i3/UPB9atreKcWYGFzlvmlVvv7vnArN7Z6Q64d2sRTO/aeeJrMfEQ2XKfJgPrZnnanYGgsXB/wIga28vdTXtx3l6ks5DJ0xOCkGoEw3RElvxL0anE389LCZvnUSF+nHV9Co/M9IH14OLYCZg+icPOeNKaoDuIk1K6HNnX7W7LmnJZV02HdOe0zvNtxStGcd3IV5EnEayH3z4mXyggl3qWMIw4P+mYU2A9YUGSafZKsxHIOXiroHMdCIWATA+GiHRIXwKkA0W+sqA9aFwY88GuSB88kCs1LmxPZkWQeXKNHYJ2JLhjrFbE+V8hy6C0e7Bg8YgZN9vAhwjmiNge0vOUDNMA5Buua/RH4IODcUWcMoIIzNjZ2EJyqYwHe2AjIlaaXFodtWWW/41AQSFhjsS9zqiXAbCemYcws5iWRr5fVvGF2Yj6AN8jS0jX3xcoY1VH+VZCXeV4cYpK5l1dClZVYlPApvu4QO/nAuFOB/kswcFG2QoU8lUw+wgEpXZSJ0bO/ktjsis5b8qGC14L2WR0y4ssYyi7blPKuvzQ2LvR2DV6HVICxhGBPnaywsNk+2f3REdGf2WG8YHo4DCLOXKzTEPu4AhqdOiXaHmWKLOY5mdUqsCO4+L6D+GkUr53S+u3/fD2D4F7s0s=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e483c5fe9384e7e3342d6412ec4a8d77",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. NC-Ausführung = Ventil muss nach Schaltvorgang in Grundstellung sicher schließen NO-Ausführung = Ventil muss nach Schaltvorgang in Grundstellung sicher öffnen\n\nDas Absperrverhalten muss dabei noch in ausreichendem Maße vorhanden sein.\n\nIm Fehlerfall, Austausch der Armatur, Rückmeldung an den Hersteller\n\nDurchführung der Dichtheitsprüfung: Sichtprüfung auf eine mögliche Außenleckage durchführen. Lecksuchspray verwenden.\n\n=\n\nIm Fehlerfall, Austausch der Armatur, Rückmeldung an den Hersteller",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "orig_elements": "eJztlcFu3DYQhl+F0NnZJSVKpALk4GSTtEDrGEmTSxoIFDlcMZYogZScOIbfvUPZRp0CLWogyGV3L7tLzgz/GX74+fE6gx4G8HPjTPaUZBJAKyltQbnJ88LonFtFQVfApaWWZyckG2BWRs0K46+z9KOJ4xI03P+HRgfAr7UgE5xTKupcbmhKXveH0Tjr/iNgCqOGGP+OYDWv6mIjCl5wxlLcBGFwMbrRx+ZOzcfrDCsnHUWRU37zCcMC6DGYph+1msewSpzU3KW62/cRQtwGp7UKBhPjHNTs4vb8SncqDOdh/Ax6jluz+H1splFvzaiXNK34ZPSwrddPc+5hGTDx4hJ3XN+8PP/Q7J43u81kbHZzgyKs68GrISnL/k/SXcp8Na0papp6h/qx1+3ddq/8flF7iKntDPw+S81OuNL4ZWghdcrYuhQe3C4XTFtR1i2OO2ciz2WpS8WotTivIs+S2Bm+zin47MWT0yXaPxdKre4CzoA8Ix9WtWRYYiRe6Y68w1H18+UY9qiIOE9eY6SJM/R9yohOdxBI1F3vIJUyFjw5e/PjSq9FKms9+DSY+5mdqZAu8xL+SO1gX/8kXRSmtJWp81rktTS1loXIeVW0nIpCcjiSfjCk71Qkp23EOYdLCAk6ZHTl0KgWHPEj0oj8qSUGSNR5AwP5Xd3xTBDRTuGaJxGc3zwKQ2ZKrbjODS2kNLk0WtWVFS2D3AgtzBHDg8Hw14G8gq6HYFXfnxB0yBmJQ/QM2txpQPFLOCFvb11TXwzQpzkR5UlC7xccbbJGVPIoGwTFlLUVsyArk15/DSWg/zGQmlXlkb+D4W+Hd9p99ygn8HZoeHMHbo5TuN2zuPWUvEvrD5fQHi1B/wMy3L7J+z55JXJ8/+73oC9QMDHfHQR+Q37DnbjoDs9QVwRN+Evy2EdaqbFWGMFLVUpqTaWlqBmVtYCyllJzfUT5YFB+9hCc9x7Ph/0Y3Dcw/wYP3pBQrKxLBtS2olXSWMW0lLxllOX0CM/BwPMT3uFPfwFwgvbk",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "62bb9a5ce089fa6200b24689e82a90a6",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Bei optimalen Betriebsbedingungen d.h. Betrieb bei Raumtemperatur, gute Filtration des Mediums usw. kann eine Einsatzdauer von ca. 5 Jahren zu Grunde gelegt werden. Bei stärkerer Beanspruchung z.B. bei abrassiven Medien oder sehr häufigen Schaltwechseln, kann sich die Lebensdauer entsprechend verkürzen.\n\n10. Oktober 2022\n\nSeite 9 von 11\n\n8 Demontage",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "orig_elements": "eJztVNtu1DAQ/RUrzyVr5x4eVwUkxGVFgZdSRY492ZhN7MiXlrbqvzPOtmqFEOK1UvPixDNncubMsc9vE5hgBu07JZPXJMmrqqRZPzSlkBlkFe1ZXVd107Cy7auhTE5IMoPnknuO+bdJfOmcCVbAwzd0wgIua0FWFwWldZs1KY3gNT4bqQb1j4TFGgHOPWawtqjaPK3zIi8Yi3kL2Fk5p4x23T2b89sEK0ceeZ7R4u4C0ywIY2U3GcG9sSvFhfsx1t18c2DdxiohuJUIdN5yr9xmdy1GbuedNT9BeLeRQe9dtxixkUaEqJZ7ZTRs2vXpdhrCjMDDJUbU1L3Zfe9Ot91pusghubtDEoOaQPM5Mkv+B3QP8dfLCuHLMinkj71u7sMT1/vA9+Bi2wnofRKbXXCn02HuIXbK2LplH6fbFDUTQ42jRLkzVmcZzrnkjA4D6pVnSSTr4ZePyVtQxCxezRzJky14q6B3PUiFv9Z73JPpmD4ESI/pX3iYPcw4Gu6DPSH74IG8VdOqq0EAOPIRC4TZkeCuUnLgWhNQGsgbpR33N5IHsOQScwVPSUne8xH5k5tA3tmgJZA9+nXvyRVYCTr+XRHnfwRKobAHsAjeAtdusUGMyJLcpNt05cZ7y9EuKPdKARecuCUORkvGY4EwqNjWGU5/8lcgRgeTPjmSdEqMBGHkA/Sg3ZFndMKCDhtBS3IJ9hDrDMLeILU4pYcBfuI2KnAJX6O2KPKfx65hRUsbWbe8H6pSlryuGRe4mVWirAb5cuye07F7eooYTcnngzcYIxnNsqe2eGuMR8hf/MD7qihbQdsWqKyFLMoaepoPLUhB6+MkXvzwHP1wBgrvxHa94o4KPpTfIerTEfQXR8gecpFlnIsCKBNFIxoKJYNmKHnRMHhxxDNyRPbUEQ05hdlojylP7fBV+QmSu4vf/mYaiw==",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f0c203219d245eb247ac35483ae0f6c0",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Es kann generell nur das gesamte Ventil ausgetauscht werden. Eine Reparatur des Ventils muss durch den Hersteller erfolgen. Idealerweise stehen dafür rechtzeitig Austauchventile zur Verfügung. Der Betreiber ist für den ordnungsgemäßen Aus- und Einbau verantwortlich. Der Ausbau und Austausch der Armatur darf nur im spannungs- und drucklosen Zustand erfolgen.\n\nAchtung!\n\n• Druckführende Leitungen vor dem Ventilausbau entlasten und soweit als möglich entleeren.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "orig_elements": "eJztVdtu2zAM/RXNz2vi+2VvLVJgA4YhGLo+rC0MWqJsrbZsSHK7tui/j3LSC4qh22uB5iFxyEOK5KGOz+4C7HFA7Wolgk8swKopIyyrBLOiwSoXDRYAOcq4QgllGXxkwYAOBDgg/F3gH2o7zobjw3+suUH6WRJGRZqGYVHF5Sr0wYt/GIWS6hXAZEaO1j4hoirNq2RVJGmSRpHHTWgGZa0ata331ZzdBZTZ15EkcZjeXxDMIB+NqPuRgxvNUuIErvN51z8sGrs2inMwggKtM+CUXW9veAdm2JrxF3Jn12LWra2nka/FyGc/LXswalxXy6feapwHCry8Io/q6+Ptab05qjerScjg/p6KkKpHDYOvLPifoH2Iu5mWEJimXlH91Ot67+5BtzO0aH3bAeo28M1OZKn1PDToO43ixWSe2CU2Ex7HADzFMOJpycsQM+JbZpAS74Ev1uFv58HHll2C1qxFjQb7nunZMAGWDBYGh+x0qZzBbFvaiNnyzrFrNAL1ih0rjew70ungfBjaPdyyYbaWCVqYjsyafSYOHKVHw9DIsW99+BeBQJZrVBYZuTsCCpDncxhKbhiR2rlbVE617HC2dDjvdnNEdkvHnVKmHbYl6lZsQ8mP0BlUNBmmrGOPqXwJtCDaU9zi4M2Y+m8hyUPJD9ishe+ngZldoQHtrkfjiJBul5gw3uVRu1rs0hk5zLBrHoxchqcGZicaqT9rl1aYmV/2o6WjfvpYMj0OwdP8sAHfwPjVvMITTw6x9PLeNkVeJE2KMovDJuRZVsZ5mBdR1lSyrMT7vX1T9/b5NTykVac+PjxfhxPlevzbGoQokzzJoJClbNI8w0qmkjepDBOBSZy/r8FbWoOX8v3PS/58b87nOIxjtvEKs1e7jnIJZF9JOGkkpDlXoxfAYS/NsBMyeu6BNFcvCmVHEmHHwAv3kiVvvfQtKKT3wqs6dfEHiRm+og==",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1e275b25bd2f1b6ab3fa6a1eda4ec486",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. • Bei gefährlichen oder umweltkritischen Medien sind hinsichtlich des restlichen Mediums im Ventil Sicherheitsvorkehrungen zu treffen.\n\n• Beim Wiedereinbau des Ventils in die Rohrleitung sind die Flanschdichtungen zu erneuern.\n\n10. Oktober 2022\n\nSeite 10 von 11\n\n9 EU-Konformitätserklärung\n\nEU - Konformittserklarung\n\nDer Hersteller:\n\ngceax\n\nmiiller co-ax gmbh\n\nFriedrich-Muller-Strae 1 D-74670 Forchtenberg\n\neerklart hiermit, dass die Produkte des Geltungsbereichs",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "orig_elements": "eJztmEtv2zgQx78KoXNt8yGJYo9Fku1i0W6wabqHthD4GFpa62FQVDbdIN99h3bSGkHQbo7G2gdLImeImb9+GA356S6DDnoYYt267DXJCsmZZiw3hhuoKJOM0ZJKUJYx6ZTPXpGsh6idjhrt77J0U0/jHCw8PkNtA+BltyCTeU6pVLxa0uS8m+9H1/r2BwbbMFqYpu8WTOWlEkspcpEzluy2EPp2mtpxmOqHaD7dZbhyikMITvP7L2gWwI7B1d1odRzDLsStjk1ad3U9QZhWobVWB4eOUww6ttPq8qttdOgvw/gX2Dit3Dysp3o72pUb7ZzUmhbjACu1+9WXA8w9Om5ucKbt6vPLj/XZm/psuXU+u7/HIHzbwaD7FFn2X5weXOLX7c5Fb7ddi/FjrquH6U4P61mvYUppZzCss5TsFkfqYe4NpEwZ3w2F72/XyFIKk4MvODXUFkXFS1pKVhjlK+WqLAUb4TYm488zp5yTN9CSNfjPM6WQNwEDaWAgqFYgc/83dHETWhRtN/oOXIuXqR0cadphQtuYHAhqSwLq++Cd7OZ+Im1PPu7SJ1dpIjTQxulmDBtoAmqOlv/MJAbwHoZlSvtRkfc6pFd1Ax9SsBj1U46dZJXJqaa58RUToixdngud47hmXtITx/9DjnvyJ74sCNAORs87KPf4IYkDQXTJHyMSjhCiUHuK0+AFBol8u0TzNyohYOL49zIsGTCfY12lVluqgVFTOWULiYVWUZDqhOUxYXlIGaNL8vsmjjhHEm+HWFyMY0SXZ3iA0nChmealERYADHVQgqfCOo446xMPx8rDFVYRIIySm3Egewkf179Et/d7r2eQsKCF8iW4khtXUMuoBSYLIbTNAUp3QuKIkBCHSChyfr34bRz8iLrFfUMVUYBNt79PLc8hJ29Bu+cZUVVRlXnFhfX4MXHWgC14hU2OYdp7WZ4YOSZGnnY3P60Ah1CdX5MF+QbVHif9lKQPbezgOZCkKQQtREWNN86DQIhowRRl2pSWM3MC6ZhB+mmZOATpDBuXtyhQhK6D8PpFba3iUmmtlcM2RpZgK64c9ueFMrLCtvaE0VFhdEjFGovR7SELv/Zo/RwDlDNvVEUL7/NKUyO0BBA094whCJCfGDhWBvq2TSWB2HGhb8m6N82LioNUkgsAC1UlCmN8mReOW1lVuG/HTe9pz3u0YFwEFBxzbRbv5kTI4gqzxU0POVvIvJSUXIzBNhEGdF6/iBnuZIF9iTFKgvfYAAmpCl5a57nED1d1YuZYmYF9gxpJ0ybl4ivi9DTtztkwUTdvcNecDuZ+gS4dtk0mHdfZZvoBPl/+Bebw7DI=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "a38e0969ddc90fdafe83a810e49a359b",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Produkte als Ausriistungsteil mit Sicherheitsfunktion: Automatische Ventile fiir gasférmige Brennstoffe\n\nTyp 5-FCF\n\nIn den Druckstufen 0 — 16 bar,\n\nmit den Nennweiten 25 mm, 50 mm, 80 mm und 100 mm\n\ndie wesentlichen Sicherheitsanforderungen der\n\nRichtlinie 2014/68/EU\n\ndes Europdischen Parlaments und des Rates vom 15. Mai 2014 gemaR Anhang | fur Ausristungsteile mit Sicherheitsfunktion gema Artikel 4 Absatz 1 Buchstabe d in Verbindung mit",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "orig_elements": "eJztl01v3DYQhv8KobPj5YdESbnZtQPkkGDhOrkkgTAih7usJUogKaeu6/9eUnUQJ0jT+Gh490KuOEO9Qz6aIT/cFjjgiC52VhcvSVFyBF63TYW0BAWy0Zy3NTSlrATHBoojUowYQUOEZH9b5E4XpsUr/PIfO+UxNeuErC5LSuuWN8c0O6/j46StsT8xmP2kMISvFqwtZSuOa1GKkrFsN6MfbQh2cqG7V/PhtkgzZx1CcFrefUpmHtXkdTdMCuLkV4kzxH2ed/MuoA8bb5UCr5NjiB6iDZvtjdqDH7d++gNVDBu9uF3o5klt9KSWvFrhxeRw066/butwGZPj1XUasUN3vn3fnZ12Z8ezNsXdXRJh7IAOxqys+BWne5d4M68uMM+DTfpTrJv74QHcboEdhhx2gW5X5GDn9KRzy9hjjpSJ/O6If8Y8SYpGL1cRCQyBnCzBWxtiDiyiHchoI/ndqj36PdoYzOKu8uteJss4ZZ0hjZH3q1YkxlpPdhDMx4VSbNNG7JCcenQuxMkYzAq/iL+0ccAiKfkeNSX7HpoeOFDDq0pxqZkWolGq5aJU9IDaU0JtfeQfkUgesnl5M5PqxavfXj0E5y34vEbXeJmtfgBQU3LGJK8kY32lqaCyKtsehaihNUD1AaBnA9BrRzQ6cuYXdZWymkl9Sj4unLKSMEl68EePQquHStQ1VFSIlI7QtLquGpBcmLpSRooDWs8GrVwZM1tvU3X7nGpj6vKKjOMRqejaNLkhi9OE0dx9FGg1pG1nWsqeSlGLSlLRNNgYzmnfM8EOoD0b0LRF8hlD8h7yQcw9PI+BM2lV0aeFwZzq/OMgSzuekpcUWkkQCKKHskLQgnKohSgPkD0lyB4yc5EQSbi4hE6udRvZbM7f/dLpG+q6NkIybDnDHiugEpikRqkSWqwOTDwpJr5PPP/7xX+TeDCQ88VPs15veY5swQ+wRr+WtTx+kTYrkOtpJKw6Jm/ArryRHY5wQU7cPqkkfxOz+H+vll9vlvhfV8vVl5z4tDI4kJKc9AHiX4SR00XtQ4QeiSbWpTun763LO5Nn+kne+/QPX6FaTw==",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e54d76b4269b58eb2b4958cb81b4fba0",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. DIN EN 16678:2016-02, DIN EN 161:2013-04 (in Anlehnung), DIN 16304:2013-05 (in Anlehnung) erfillen.\n\nDie alleinige Verantwortung fir die Ausstellung dieser Konformitatserklarung tragt der Hersteller.\n\nKategorie IV — Modul B (EU-Baumusterpriifung) + Modul D (KONFORMITAT MIT DER BAUART AUF DER GRUNDLAGE EINER QUALITATSSICHERUNG BEZOGEN AUF DEN PRODUKTIONSPROZESS):\n\nEU-Baumusterpriifung (Modul B) — Baumuster nach Richtiinie 2014/68/EU\n\nVentil Typen Abblaseventi: Abspeventit",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "orig_elements": "eJztlk1v2zgQhv8KoVOCbWJJpPWRm71WUyOt7fojh3YLYUSObG5lSaCo7hZB/nuHitMWxWKxOS4SH2zOzDvkzPAB4Y93HlZ4xNrmWnlXzAOURSlDqcKiKBOMYwllxAORQpCIIPW9V8w7ogUFFkh/57lF3jW9kfhoYy4N0s+wYRAL4ftxGiaXQ/IQPzZKl/pfBK1pJHbdD0WQiijllzEXXASB07VojrrrdFN3+amaj3ce7ezq4Dz0xf0nkhmUjVF51UiwjRlKbMEe3L6jXYemGxktJRhFiZ01YHU3Wn2VBzDHlWn+RGm7kerrfZe3jRypRvZuWt1FU+MoHT75qsb+SImfv1BEV3m2us1n03x22arSu7+nIkpdYQ1HV5n3X5JOKfZrO6RA21aa6qdeR6dwBfW+hz12rm0P673nmm3Jk9f9sUDXacAHl/lxu27UEIURVzICjsALEGMExf0QYs6F54q1+Ld14tl8wbIFC6IoTq5CP4gu/PAV++4NnI9f+IKd6ZpN6goPNc3p/EESRNwXJ8X4FwVDQ93RRC5dJ49NLsC46X/BrTufCvkVzQgAhUxKFUJUiDRJy9iHhAgtEFNVqhc0nw+aGhkQQbrWe2S3aKC2fzXG0jBYqQ1TFJ/0XWexqpyPbJonu2nqsqGrsWDJ/FyBcUGa7N4yRfE3NHOXguZpZMoo8uPARx7GyXhcJmGo0Fec8yCQkYxfyHw+ZN7QRewbQ/zNb9kfPT2Agr1rVF+xKTvLdhdT6I89QWZao3U5vIa/nQQzdnazXLxert/Nt5Mto282y9ZsOtlN1ls22b0ezOv1bjF7O7nOWDZfkP1+N3nr9JvN/Pc3GQWv2TT7sLymN/ohZcFW6+Vsd7OdLxcbWn7INpvzqyfxHafjJFTjMsUiGaco/bH00U8jFGURiSh44fvZ8P1PCLOzE+Hnj8R/l7Aa5IGttTxYTY81MhceRcko2z2JQJQIAhOuxkki0yROC0FlJlCiAgjC+IXA/xOBPwN1O5zDtrQn/Ucsigo6HM6+IqtrH9b2Z1i22lbo3X/6BkeZBxk=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "91f430f8b085963310678c1d5fcfdc3e",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 5FCF25NO/1E/2E, SFCFS50NO/E/2E, S5-FCFBONO/1E/2E. S5FCF100NO/E/2E 5-FCF25NC/1E/2E-Klasse A, 5-FCFS50NC/1E/2E-KlasseA, S5-FCFBONC/1E/2E-Klasse A, 5-FCF100NC / 1E/2E - Klasse A\n\nifgrundiagen: DIN EN 18672:2018-02. DIN EN 161:2013-04 (in Anlehnung). DIN 18304:2013-05 (in Anlehnung)\n\nEU-Baumuster Zertifikat Nr.: Z-IS-TAF-MUC-21-12-252116-16110837\n\nEingeschaltete notifizierte Stelle:\n\nTUV SUD Industrie Service GmbH Westendstralle 100 180686 Minchen ‘GERMANY\n\nKenn-Nr. 0038\n\n0036",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "orig_elements": "eJztlt9v2zYQx/8VQk8bEFn8JYrym5M4XVDEDea4w9oVAkWeHK0SZVBSsC7I/z5SsdetwIr52daLxbvvne+OH4j8+BxBAy3YoahNNEdRikslUixyBbwCanBJVcU0pYRozjGOLlDUwqCMGpTXP0fhpei70Wk4rKHQDvzPlJBkISzLqZxNwZO/7Uxd1d8R7Fynoe+/KkjORc5mGeOMExJ0O3Bt3fd1Z/tiX83H58hnDnUwRjF/+eRlDnTnTNF0Wg2dm0rcqeEx5E02Pbg+cbXWyhkf2A9ODXWf3H/Rj8q19677HfTQJ2a0277YdToxnR7DtPq4s5Dk01PcWxhbH/j5yXvqpljevy+uL4vr2c5U0cuLL6KqG7CqDZVF/ydoHzJ82U0hardral+/7zXZuxtlt6PaQh/ajsBuo9DszlsKO7YlhE4Jm0zu6+6CBsVBMpNKqXOZ5SVnpZKqAqMUoVkUih3gj2FC4ebqhqardwlZJnR5gdZ+vU6xN+zXaewtl+8Oipm3eAPBBwmaBD7F1asgftsov6docfHqCcn+7Vr8I+t/BIX0VyhBkxPF6OAOQznMa6Vc2MgneAit+J6+pVwCz4xQmaEAqW+9wtgPQRvAaa50mp8pPxnK62rrRmtqn9PO0fXtCi1XiEiR0TnFRMaYzv62ChJsLMYc/VBbtLANPFo/tR9fJUQyzPeK9BvFUXhirFNdCoyVoYJkUnGcZlRwBZJkgtMznieD53ITX6qxHfsBHPoAbvBb9lkNaOVmc/Qhvl3HD4ub+G5zFVMSExrT1J/UIvaoEixZdhR2pSAgsclZmetcVJhrnFfY0MwwXpFSnrE7Hexq6/P7STQDDIBsF7j7s/b8AVoP0DQwP+7ADfdIUxoiU1rmxoAw2JiSpilnmOryjNbJoPWweY/Wm2t0a43/qrnaAwXuqdaA3rTlT+gXPy6wJszMU4b8dc+fq1hIge5qqx/Bot/GcDC/Wf58t1j9ehSFgI00RGnFMqqVoHmVZToDrErK80qoM4UnQ+FbsDb2hyjCmMmjIKJaYu6vYwyLqvR/kjJFjFFSq4xgyqszRCcDkWdHfIedT38Br/hu8w==",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "c1966e4fea1e06488e169882567843b8",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Angewandte (harmonisierte) Normen:\n\nDIN EN ISO 8708; in Anlehnung AD 2000 Regelwerk: DIN EN 12516: DIN EN 1226 DIN 3230; DIN CEN/TR 764-8; DIN EN IEC/IEEE 82079-1. VDI\n\nDariiber hinaus ist das QM-System der muller co-ax gmbh zertifiziert nach:\n\nDIN EN ISO 9001:2015 (Zertifikat-Nr. 12 100 2026/03 TMS)\n\nDGRL 2014/88/EU Anhang Ill\n\n- Modul A2 (Zertifikat-Nr. Z-IS-AN1-KAR-10-11-2715043-28172333)\n\nModul D (Zertifikat -Nr. DGR-0036-QS-811-19)\n\nModul H und H1 (Zertifikat-Nr. DGR-0036-QS-12-19)",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "orig_elements": "eJztmEtv2zgQx78KoVMLrCK+H8nJWxtbYxtvmqQ9tCgMPoa2NrJkSHLbNMh3X8pNkGC7WMRn2ReR4sx4SP3wn5E+32VQwQbqflmG7BRlAqjHxgSLQVABXHLunTVWGKYFlTT7DWUb6G2wvU32d9kwWHbNrvXwOIelbyFd9gGJ4hxjZag+wYPzfn3ThDKW/2OwbRsPXfdkQQyXhp0oxhknZLDbQrspu65s6m75kM3nuyxFHvJgjGJ+/yWZteCbNiyrxtu+afcpbm2/HuIWHzpou6ItvbdtSI5d39q+7IqLW7+27eaibf4G33dF2NWrbrltfBEavxtOq8ubGgqz/y0vathtkuPN17RSVsvZxcfl9Pfl9GQbYnZ/n5KIZQW13QyZZS9xenDpb7d7F7vdVmXKP+21eFiubL3a2RV0w7YzqFfZsNlturOsdxsHw04J299qn54ueLAcNAtCa2+0Mo4zZ7WNEKwlVGVDsj187wfjSb2Cb7YOPaBXw3E0ddmV0PbwGi2aNp3C6ZDIY44L2w6H9xWuB/cU599kaRUlM0ITrDRhDJzTxlDi0sQGGvWRrNGQNZ0v0GyB5ld/Ia2wPkNljSZ1Bes6HQeaTBHFGKNLWEH1DdqbU/TgQKgg8tmMyv2YUYbP9qM3s0VxfYmU5Lk+e7Sbz94U89lshjRNMOTkBH2czg9C14INIXpKgWJPtNU4UG88DpGAj4Qf0R0PurYtyxQJrcva7jpUdj0KtkPvz/Or266HDQppcbOrqnTxTW6/o9XGrdGPJJzp6f4YBBTV1q8PE0+MqdORYYmJgigTGUwGyQJ31CctZUcCx0Pgk3gajMkpxUSgV59+8nVj+3zRniRtRCRJKMVUFpih6/Or1wfxpgJzPBIbnfLRSIW9pdKalBsLLsCxWI+Ht+fcvEtyN08i91/ISImx4Y5j7byIDphRkhoqrNCpaPJwRGY0yEz/uHyXtIfwQuti9iH1duv0p2heVYeJEERFBZYiCExT68e8AaGojtqB4E4ciRoNUTk6b8KuQhP6S6n7lM+v8smC5H9OLnOCc0JyqojAnOVUE0UZY4fVPptqnqHANObCuhCZiYFTJaIXJBJ8/AQyHuxeWvu48wDUCWV5iJYzNbzAOudjCkt0cEdkRoPMT52aPpcptNepVBRzjJnM31/lOokUMYfJEpFGOizAK5oacsIdUTgS4SzjijOBj4yNjLG3aFcH9Jb8UhGfk0bowaApF3GUWnEjKY0xOuKoJWAYsSpy7o+gjQa0l9Y/z8FFMnTm0gWn09teKoiMCS4liTwcO/WxI/PlH5qT7DA=",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "97a3c98381e19a126545f116724fbbe1",
+    "text": "Dieser Text ist für Produt: Pneumatikventil_EPV. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ATEXRL 2014/34/EU (Zertifikat Nr. EPS 21 ATEX Q 029)\n\nIECEx (QAR Ref. No.: DE/EPS/QAR21.0006/01)\n\nOrt / Datum:\n\nHersteller-Unterschrift:\n\nAngaben zum Unterzeichner:\n\nForchtenberg, 3. Februar 2022\n\nMartin B¢ = Ao\n\nGeschaftsbereichsleiter Qualitatsmanagement\n\n10. Oktober 2022\n\nSeite 11 von 11",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Pneumatikventil_EPV_DB_D.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.7343411",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Pneumatikventil_EPV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "orig_elements": "eJztl99v2zYQx/8VQk8d0Fr8LTLAHtLF2QJ0qZM2xbCuEE7kydZiSQZFBW2D/O+j3AQNumCYHwNbD5ZF3p2+R31wR368zXCNLXaxbHx2RDJDORO+Ase05spwTmWlAIR3HB0Ynb0kWYsRPERI9rfZ9Kcc+jE4fHjG0gVMt21AVkhJaWG5mdHJeTvf9r6pm/8w2ITe4TB8t2BWaitmhZBCMjbZbTC0zTA0fTeU92o+3mYp8qRDiCT87lMyC+j64Mt17yD2YStxA3E1xc2vBgxDHhrnIPjkOMQAsRnyxRe3gtAuQv83ujjkfuyWQ7npXe57N06rNbzqO8zt9ioXHY5tcry+STPNupwvPpQnr8uT2cbX2d1dElE3a+ygnZRl/8fp3iV+2WxdYLNZN0l/yjW/n15DtxxhicOUdobdMpuS3aSRshvbCqdMmdgOhe9fFx2CRCO8MsZZU9hKigoM1OgBGC+ySWzEz3EyPn4//+PyDeGUyVzIfH5FXvyJIaYPdw2RnIcZmS/eEc7IZEguCOX2p0nag+pzCNNy3uD7KWCK/CNrwEHXVlCUijlFlaOm8EmTpQo8Ah5Y2xvWHnPzphniWcT2KWSUV1AL7S1HyytUzNIKC6U1o8Y5KQ/I7A0yZ/Nf5p/Ji4vjS3KJ9Yyc97MjcjLPU1HK0yBnM0qpzinbrShhYRg30nrPC1NZramxCTMvDJXImD8QtjeEvQ2R5OQE4tge7cRQTUUluZJMGFRC1QVzWjoPLrU2YMIeGNobhn5LixNxvcbw6qqL6cGtQlPH3XhSphA1ONBUOicqAXXBJWcUUWnuDpvyPeLpuFtChR35OrZkC9RXbNyqw7AbUUx7IQHAVC69vtKcMV0wA5UpwAl5IGp/iDrtg1tF7FKw5UsiZuQUqzBCSAc/zneCSmtZF9Yxo22RIKqBSeWZSi91xhrlDlA9J6geM/I7pHN/R17/NVIKnPxMjvvHZJy1yffJEz5UntVpNy2tpuDSbhqq9AssNS3Uih+IeK5E/IppJwN1HNLk1IGGNTapG5GLEdZNhDi00CX3KbudaoiURjNV+JpxwY2vgHphnce6pqmMyMPx69kSw+iMvL2OfZr7V2s57fsEz1M8WF1IYytneGEZInoNstIaraKmpqAOPDxXHt5NBYMwRm76jnxbwof4i+R2/s3r7tM/fGnN8w==",
+      "product_id": "999999",
+      "product_name": "Pneumatikventil_EPV",
+      "document_type": "Datenblatt",
+      "product_category": "Pneumatikventil"
+    }
+  }
+]

@@ -1,0 +1,1325 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "8244ae51d43af42309110c4ac7af9585",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. @\n\nDUNGS® Combustion Controls\n\nAustauschanleitung\n\nDSLC px Vx durch VPM-VC\n\nDer Austausch des DSLC px Vx durch ein VPM-VC darf nur durch qualifizierte Fachkräfte erfolgen. Die Funktion des VPM-VC entspricht weitestgehend der DSLC px Vx Steuerge- räte.\n\nNach dem Austausch ist eine Überprüfung der Funk- tion durch eine qualifizierte Fachkraft erforderlich.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztlU1P3DAQhv+KlXPZdWInTnoqZdWqUkFIwF4oihx7vJuSr9pOC0X8947DQrctolQ9sqc49vj1eOZ5k/ObCBpoofNlraPXJGLaCJHEFVBQec6ljIXIRCogMXmVcx69IlELXmrpJcbfRGFQun60Cu7foVQW8DEJxoJzSkXB6IyGzdN62+va1E8EDLZX4NzPiLjgWcFmOEopLULcALatnav7zpWbbM5vIlQOeTCWUH57gWEWVG912fRK+t5OKQ7Sr4Pu/MyBdXNbKyWtxo3OW+lrNz++Vmtp22Pbfwbl3VyP3cqVQ6/muldjqJbb6zuYJxnjnJVLnKibwY6fRspobty189CWi5OPB+Xy+HBveVAmjJb7o/NydGpdvj3cLxezQZvo9hZTNHUDnWxD3tH/S24E/fUwCcphaGq8O9ZpvlluZLca5QpcKFkE3SoKhRpwpuzGtoJQpTgk5uHKB403Yde94IcWAyNc/h0dI7FDtIqVMKLImIGqKJgAyAuapiwvdui8QHQWZ0fvTzATKoEc9G2Fp6IcDjtv+8Y9CywOBU+EMNxkhsYa8RJZFhdSc5rLPIMdWC8QrIdjZNdA7bEa2yyd1r55lCXN4rwQihmVqSrOJU94IWWGza4YmIruWHqBLIVjyXBFlldEY6PX5C6FZwEFSiojkgRvVcWyMlwwBgxpSqsi1Um6A+qFADXN2H/40vxCIFjykBvBwpI/mIS623BJtLSGdKPdrHwZZYN0fK/BeiDvpFpf2vDLBW7wHazpmxV0M7KocXXsLqc/cDhjIxfaM2BT1558w08pdnUFa+g0xtjtPE48jGBXsEc28h5m2x45kjbg8BVOw60e8QplIi0UyLRStNKMm8LwhFYp54axXIudV3Ze+btXjuRkkXbLMLXzwR9AApda4SnDhKhRBqs7cRzA3yN36N/7CR61jjR+Mo3FbXi79VOMX/wAxxjkgw==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "393188cdf41f21351cd3fd09c38563b1",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Die Umbauanleitung ersetzt nicht die Betriebs- und Mon- tageanleitung der VPM-VC und des DSLC px Vx. Diese ist für den Umbau und den anschließenden sicheren Betrieb zwingend erforder- lich.\n\n-\\\n\n/\n\nSafety  first  O.K. \n\n- —— tt\n\nArbeiten am DSLC/VPM dürfen nur von Fachperso- nal durchgeführt werden.\n\nAlle Einstellungen und Einstellwerte nur in Über- einstimmung mit der Be- triebsanleitung des Kes- sel-/Brennerherstellers ausführen.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmFFv2zYQx78KoefZJkVKJPeWNBswdNkCdM1LUwgUebQ1SJRBUm3SIN+9RydZimErMuzRfrHk4/F09+ePNnUf7isYYYKQu8FVP5KKteB76UC3ulZCSCOo5rR1UklnpVfVD6SaIBtnskH/+6rcdGleooXn79DZCHh5DCiFoFRikDUtkw/j0+wGP3zHYR9nCym9eDAtWs3XeNdQqovfHuI0pDTMIXVP2Xy4rzByyYPzmoqHj+gWwc7RdeNsTZ7jIcW9ybsSd/M+QUybOFhrosOJKUeTh7S5urM7E6erOP8JNqeNW8I2dfvZbtxsl6JWWs0BNnXLheDdNRqGcR+Xm4Vyqny6Sxmm7uLdr2+666vL1fWbrua0O1tSNkuyu+788qy7WO+drx4eMEU/jBDMVPKu/n/Ip4D5bn8IaPb7ccDaUafN0/BownYxW0hFsgrCtipC7dHShWXqoajEDpb4AobjTGlpubet7ZkyohbamBZXrueIDK1KJRluc3G+GIC8n3qzmDDCkFE+gkpD/pJJGOwuE4cO55DjAH1akSU4cjmHFcmYw8sUB5E8FnvwwPUhRQCyvyXXt2uCD0lAhpSJR5WotxFdwuNznyYEYgKqMw5QPJyHUGwJUwAs7TkD8uXzELY4hkl6hAXiiqBmu3UR61nH30wscHyCP0qNWOzfd440jdMKWs2csoY3yrVCtI71fe+doe1p5xzJzvl2I6xubr6F6JcJXf8JHmuEVVaJpqctteC0kx6gYRx/hXtemxM8RwjP5lXoeCocUMOptlL6pjVNzaylNWcUrBTNCZ0jROdV5AhL29Yq6aV1VrQ1cw2V3Fmleml7JU/kHCE574zHeIT4IeLJivy+frsmr6IJFEjqoNbO6AaPh8zqtjEOgEltWGNPNB0hTStys9SUicdPkvOrUNIcWt5C23hfC2cbpYUXVrZYEFVK9yeUjhClV5FTc8ucqZk03KhWQq8lpXgO0qbl3MnTX9qJnH8hh1lPjaOKMSlVo4Ts8YWMs74Fyb3oT29gx0jOWexhyKWNNB1aTxtMgbinbpNHe1gi+TQH8rOxO1yXNK9IMCNxSMVuC099qV3M5DNEB+G/dZQEc0xrqiVrkAPe6JoxRY2sqbKNqPkJyWNEchyB/DQEzGEcl9K2PPQ6ny3IWYYDlkMgh6an7Us/E8r4ME2lrzoN+dBbPYcVeWzBfttzTeQtpBVJMK425xFCgLjDpSnB8UKwxL+w/j7QH78CWtzLvg==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "0e3fc2f5f7550539ab1df3eac0d3926e",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Niemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nNach Abschluß von Arbei- ten am DSLC/VPM: Dicht- heitskontrolle und Funkti- onskontrolle durchführen.\n\nDirekter Kontakt zwischen DSLC/VPM und aushär- tendem Mauerwerk, Be- tonwänden, Fußböden ist nicht zulässig.\n\nBei Nichtbeachtung der Hinweise sind Personen- oder Sachfolgeschäden denkbar.\n\nDie Garantie für das Ge- rät erlischt bei Eingriff in die Elektrotechnik, d.h. automatisch bei Verlet- zung der Verplombung.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztlk1v4zYQhv8KoXNsk/qytbdkvbsF2gQB0vqyXQj8GFqsJVIgqXWTIP+9Q9nGFj0sEPSYHARR5Mzw1fDRaL4+Z9DDADa2RmUfSEZZUfOqoqUoBegKuBSKioaxdSnyoqmzK5INELnikaP9c5YGbXCTl3B5hlZ6wNscEB1LStdNQZc0Oc/rg1NGm58YjN5JCOGHBWvKuimWOKoobZLdCH4wIRhnQ3tW8/U5w8hJR1HktHz5hmYepPOq7Z3k0flZ4shjl+Ku/gjgw8obKblX6Bii59GE1f2j7Lgf7r37C2QMKzXZfWhHJ1fKySllKyychVVeF2VZtDucMP3opz8nWtCNDo8hwtBuH3772O7ubxe7j21e0PZ6CpFPQXbtze11u12OSmcvLyhRmx4sH5Lu7P+HPAeMj+MckI9jb/DdMU+r83LP7X7iewgpZRnYfZYSNeJMa6dBQMoSS8Ii/B1TjDsDA+8DufYCTARLFB53tyAa1VEtOw/2ihzBWvIwcmsxW4Tb3sA+LkkyUbXW+EKoowOyc35BULI3OoUSiFiHg2VSdhF9x306ie/we1KAUv6LaV3THPIaSpYXIFlZ8LpqxFrlbC02lebvmL5FTJEkci1wn36asdPku7MnahckwcYHkrStUNsHskUc44J0iHQ4OBu963sgk1Xk82QPEV3wzH4szMz/i/jXAauqWjNZC2gYVbDOWcnWDIoC6IZraNbvwL5BYLfGwyGCJ78iZfwQydPR4KYI6oXSGUdU0iXuoPQzxgoGcssn8EfwhytyAzjr7PFkgqtYjD+fPwAx81rjHDEhEpuQJ09Tf7LFU96/DuNGILFKcVnpooF8nedNzuUaGC0KTsvNO8ZvEOMbMOQukXX6l6ffv0KofzH2CCYACQYhvsdcYlIsVtW0+ICW2vW4izyznRjF6yC4fx2TFGTDcsap3uQVEzpXaiNTA5sL1jQqf2fyDTK5NUC+cM9RE1z6VE8UD+QLlkt/Qi4S8H2quBHbUEM+GbvHrlQTgySi26ceq7N3EWRnDRZateyWWIyjG1LKsddITjsMAdhGPF2wx4mxd4PA559x/O0fPYtgIQ==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "ac844db0a3ef5017642d3f340c88ee0e",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. 1 … 14\n\nÄnderungen, die dem technischen Fortschritt dienen, vorbehalten.\n\nVerwaltung und Betrieb Karl Dungs GmbH & Co. KG Siemensstraße 6-10 D-73660 Urbach, Germany Telefon +49 (0)7181-804-0\n\nKorrespondenzanschrift Karl Dungs GmbH & Co. KG\n\nD-73602 Schorndorf e-mail info@dungs.com\n\nInternet www.dungs.com\n\n3 4 4 3 6 2 . r N • 3 1 . 5 0 n o i t i d E • M",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztl9tu3DYQhl+F0EWRot5dnkSJvWpit27g2jDgxDdJIPAw9KqQSIGi4riG373kxkaNoC3g9nIXgqAROTMc/fOBAj/cVzDACD51va1+RJWQrK5rTASAJlY5JiwXmNaNtARES6sjVI2QlFVJZf/7qhjdHJZo4OkdOhMhP3YJScM5xo1keI1L8G5+DLZ3/b84TDEYmOe/PIjkubR1tmqMZfGbII79PPfBz91jNR/uq5y51MEYxfzhU3aLYEK03RCMSiHuSpxU2pa8m/czxHkTe2NUtDlwTlGlft5c3pmtiuNlDL+DSfPGLv5m7qZgNjaYpag1r4KHDRWMc9Zd54F+mOLyccEMt26+mxOM3cnVb8fd9eX56vq4owx3r5c5qWU22+7N+evuZD1ZVz085BJdP4BXY6m7+v8pHxOmu2mXUE3T0OdvzzptHqcH5W8WdQNzkawCf1MVoaY80vll1FBUIqWwBF/SrgHo40IxFYjwEv+U+jJHXHwNyN7fklQri1nNreaqhbplbW25Y40jVhOssTmQtIck5SKw4d5CzEKAP0K2B2RhRAnM1vd5ffDolxBTtmKfUpn3xe9ziBq2akjg188ZvFCxKP0Z3pUV/g5DXrcatHDKgMmNt41xYIAT2zpZO3HAcA8xvIZ4m1nKKqDFW/QGUuxBozMVB3RStEGno/4VfYeOwxqdnaKrviA1FzkLwdYBEiuC0cmqYUJg9D5qZbZH6DS3UPk79C4z6IJHP3CJXuHvG9KSVYv5Cr8IXcG0Iq6lVqn86xUtaWyWjsmGaMatbA/o7iG6ZyFGmKeQ91D/h/K7fdKlf0T3RcBR0DUltRWUtgZcraTOL1BsZZ2GA3B7CNxuj8MUXZltiN6G6BCsRtUPqPcu/LSTZ23C+CLSZCt1YyTLaDGWu0paY3WjmORUCVDuQNoekvbWJ4geErq9vV3/N64a2RjKjRT51FFrWnPcGIaFosyaWhJ74GoPuWKI54shgShao4guvh5naR4ieaBGGHkUUI9Svi36+Wn6/EXoqXyi0FQ5SoWpXWsbLgQzLcZYSSqdPKC3H+jR5+g9J+jtmP2qh09/Ah5DM8U=",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "7f993128abc86d4fbb7a7c87c117f144",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Die Druckgeräterichtlinie (PED) und die Richtlinie über die Gesamtener- gieeffizienz von Gebäuden (EPBD) fordern eine regel- mässige Überprüfung von Heizungsanlagen zur lang- fristigen Sicherstellung von hohen Nutzungsgraden und somit geringster Um- weltbelastung. Es besteht die Notwendigkeit sicher- heitsrelevante Kompo- nenten nach Erreichen ihrer Nutzungsdauer aus- zutauschen. Diese Emp- fehlung gilt nur für Hei- zungsanlagen und nicht für Thermprozessanwen- dungen. DUNGS empfieh- lt den Austausch gemäss",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJylU01P3DAQ/SujnKjUbMImQNMbsCsqtaxWfF0oihx7krjEduQPKIv2v3ecZaGnXnpK7Jl5896b8f1rggMq1L6WIvkKSV7kbXUsjkRRYV40JwUygfOyYUdFU5VNnnyGRKFngnlG+a9J/KmdCZbj/ow1t0ifCfDwpCzz/KQq8tlUPMWVEbKV/0gYreHo3EfGYVUeV8WM/o7yvIp5I1olnZNGu/qNzf1rQsiRR1HM83L7QGkWubGiHgxn3tiJ4sh8H3GzW4fWZVZyzqygQuct89Jl6xfeM6vW1vxC7l0mgu5cPRqeCcNDdMulRmM2Py7Ksqjv6EIOow0/A9n3pXUvzqOqF9c/zuu79WV6d17Pi7w+Dc6z4Hhfn12e1ovZKNpkuyWKrRxQMxV5J/8P+QboX8YJkI3jIEk7+ZS9hQemu8A6dNGyBHWXRKNGuql1UA1Gl+aRmMffPmIsJMLCBv7YoSVCOZYeybXeD1JT6GC9XHyCoAUIOl19BGJuywlwClygY8qjRptCJxHbVm4k6g08GU3BZoccBGo4WK7PCLKlyaHVgFIjWOxwSEHt0mjw3a6BiA1Gu+vV0qQmvG8oN3FqTA+kS8MmWIi6U2itdF7Gu2tiSgvgcRj2Zb3pKbAKfiruLItsojJnlPRA+iXdk3q4VSk84+AbHJjzlD2DpYOGdgh7P+ldGf+MWsjuEanUTc1S6OngLD26J6Y9wnejRpOCpnlTJ814D0trMSZrkL2lTns2ggU60bhTUrMbO+oZ0HAcwlKNJA37SUknBw+aFLc7V2y0I1b9ZUgUpeOoPpJuiKCil7ehl8c0cU8hbv7U5HZ1cQ2oRnq1fQoEH415Xz8y5n0uccP2y7diNr6oJ7yJm7R9+AObn4JE",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b2963ee0a45e4831eff11700b4cf2512",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. DUNGS Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJylkMtqIzEQRX/FaD1xqx9pu7NLbAgDk2AI8SYJoixV2wqtByoJxhj/+0geh+xmMyuVqq5OXd23E8MJDdootGJ3M1bX0NegVD0uF/0w3GINuByhWY6NxJH37MeMGYygIELWn1gpBLkUJH7dUciA+fgLXHQd54uh5XNeHl/mxik96n8IfHASib4V9dD1QzvP1S3nQ9F5DEYTaWdJXN28nVgmFx9t2/Du/JFlAaULSkxOQnThYtFDPBRu9UoYqApaSggqP6QYIGqqNkd5gGA2wX2ijFSpZPckvJOVcjKVtOjGWayavu26VmxzQ08+pPfEW74c6UgRjVi//FqJ7ebpZrsSTcvFfaIIieRBPDzdi/Xcq5Gdz9niqCe0YIpv9v/IKzAe/QUI3k86/z3nVF3HE9h9gj1SiYyh3bMSlM8dYZPZYUmpKcYi/o6FsX59fnyZrZzZ5X0ZlEsbg5uo0L4W/TQZwM4ffwDPKr8A",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "afbcb700bca286ea1a8f02a36addc4e0",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Sicherheitsrelevante Komponente NUTZUNGSDAUER DUNGS empfiehlt den Aus- tausch nach: 10 Jare Feuerungsmanager mit Flammenwéchter 10 Jahre 250.000 UV-Flammenfihler 10.000 h Betriebsstunden A Gas-Luft-Verbundsysteme 10 Jahre * Gasfamilien I, 1 1l N/A kann nicht verwendet werden",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Sicherheitsrelevante Komponente</td><td>NUTZUNGSDAUER DUNGS empfiehlt den Aus- tausch nach:</td><td/></tr><tr><td/><td>10 Jare</td><td/></tr><tr><td>Feuerungsmanager mit Flammenwéchter</td><td>10 Jahre</td><td>250.000</td></tr><tr><td>UV-Flammenfihler</td><td>10.000 h Betriebsstunden</td></tr><tr><td/><td>A</td></tr><tr><td>Gas-Luft-Verbundsysteme</td><td>10 Jahre</td><td/></tr><tr><td>* Gasfamilien I, 1 1l</td><td>N/A kann nicht verwendet werden</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVFFP2zAQ/itWHhFtkialK2JIhQ7EBgittA8DFDnOpfFwnMh2YBXqf985SVtY6ZC2hyhn++67++4+++7FAQE5SBPxxDkkDgxgQP2gzw58GLAwCAZBCv3Yp3HI/Hh44OwTJwdDE2oo+r841oh0USkGqzVETAH+akB/EIaeNxgGXtezwfV5XiQ85X9xKFXBQOuNhz8MD4ZBF62+5w2tXwkq51rzQuqorebuxUFkW0cQ9Lxw+YBuClihkkgUjJpC1SWW1GQW151qUNpVnDGqEgzURlHDtXuzYBlV+Y0qfgIz2k0qOddRWTA3KVhlu6U7hQS3dxCEYRDNcIOLUlX3lRd4n1K90AbyaDy5PI1mN1ed2WnUC7xoVGlDK82y6ORqFI27ZZI6yyWWmHIBkua2buf/IVtAsyhrQFqWgiN37JPbHgsq5xWdg7Ytc0DOHduoEnciWeUx2C71cMfALxNRHWUmFxbqyNBYwPGRyYAm+FPWPJ5wloHKgButUEtPVBog34q8xA6heeSij/W7nt7+mF6fT8aj6ZfvZGxNAnmJMsiEIQlIgmw6pOFDJGXZ4Tq2MVyb0V1lj4tk0RaR2O2kNnyPfKUK1uvGqCNb1zOoQNmB5lQiZUVybsiZoDnO9Rnb7cGQZQbUW8jsFWavj1L1vG3o6azTAqU8ExsIwgqhSyo/3zu9ewcBbTjJyAkYxSHW2lQSG7ANuANgtO15TnXnskpNZwYqRrRGMLCbxDbEHkGQlOZccBzGxT7xiS92VHDtjsgjlZJInL4hT6CeASkY8gzqLRO3HZTbiMdZtsKygvpAOuQfJENWN8dOMmXtxQGy4k/GqmKPzZzDes6bo4+V8WfEq4E3+ezUya752v4mNr2COQhM0GAiUb/fAqLHU02gzv0ul5onAWXbb5dnUCfdRBaZhPdD9zaVX3HZXdfzPrlX06FxLKiGNsHaY4foNg5bkrqovwvygX7IBB9gYXTJURakvW910C67/ezztnr5bq3gnOXDbyKuSG0=",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "328b221efc7eb8e2f3c39b366de4ae21",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. 3 4 4 3 6 2 . r N • 3 1 . 5 0 n o i t i d E • M\n\n2 … 14\n\nDUNGS Combustion Controls\n\nInhalt",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztld9r2zAQx/8V4ec1liXLP/bWJWMU1hDompe2iLN0Tjxsy0jyWCn53yelDSuj9GWPKcb4fLr76uvjg3z3lGCPA45edjr5TJK2AIZVrhRrUFEsC2S8LjRkIHQBoko+kWRADxo8hPqnJAbSmdkqPL2jVBbD4yiYlXlOaVlzuqCx+bg+GN213TsFkzUKnftbkdV5UfNFiASldayb0A6dc50ZnXxxc/eUBOXog3NG88NDKLOojNWyNwq8sUeLE/h91E1vHVqX2k4psDo0Om/Bdy7dPKo92GFjzU9U3qV6HndOTkal2qg5TstdmBFTVvA853IbEl0/2fl+ppxWrXt0Hge5uvm+lNvN9cV2KRmn8nJ2Hman9vLL9aVcLSbdJodDsNh2PY4wRN/J/0u+CPrH6SgI09R34dvDnNKX5R7G3Qw7dHFkCY67JA5qChk5zkODcUosGvP420cNTvJwcVIQRhbEkjW5nxllLKSykBCEkpEY0hEfbk2+npav424nI2uwcbq/8EdUDfL/oidK0FyIqla5opXIOWhUda5B11SJuv5A7wzRY88sFSTLX8O0CR3r54Y3SKJVozVUFbRUqACi5pRlTasazTPVYPtB0nmQxF+TtLpdf7shSzM0Yb8gFMLRW9O711xdDUHgLaS01gKyhpZYZYJDWVY1z0TBACpeKfpxOJ0jUlfjHnr/zk/u4Q+uoPil",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "755a636c412b2d731047c556e2e974e9",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Entliiftung Gber Dach: 2 Hilfsventile 4.5 Entliiftung Gber Dach: 1 Hilfsventil 6-7 Entliftung in dem Brennerraum: 2 Hilfsventile 8-9 Entliiftung in dem Brennerraum: 1 Hilfsventil 10-11 Entliiftung in dem Brennerraum: kein Hilfsventil 12-13",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Entliiftung Gber Dach: 2 Hilfsventile</td><td>4.5</td></tr><tr><td>Entliiftung Gber Dach: 1 Hilfsventil</td><td>6-7</td></tr><tr><td>Entliftung in dem Brennerraum: 2 Hilfsventile</td><td>8-9</td></tr><tr><td>Entliiftung in dem Brennerraum: 1 Hilfsventil</td><td>10-11</td></tr><tr><td>Entliiftung in dem Brennerraum: kein Hilfsventil</td><td>12-13</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFlF1r2zAUhv+K0fVsy/FH4hIKbTO2ixUC23LTFaFIx7E2WzaSPBZC/vsk22HZlrQdg8Y3OpbOefTq1cfDDkEFNUhDBEdXHipolObJLI/zaTZN0ixNMsymKUC0nmU5BfTGQzUYyqmhNn+HXEB00ykGh38gTIFtemA0TRKMp3mMA+yK+/G64aIQTyS0qmGg9a+MKE+yPA5slGKcu7wWVC20Fo3UZFTzsEOW7HTE8QQn+0ebpoA1ipOqYdQ0qpfYUlM6bvhZg9KhEoxRxW2hNooaocPllpVU1UvVfAVmdMg7udGkbVjIG9Y5t7TfSAgnWZwkMVnZDlG1qvvS4RjPCr3VBmqy+PjhjqyW9/7qjkxiTG46bWinWUlu72/IImh5gfZ7K7EQFUhaO93o/5Ej0GzbHkjbthJ27dancByuqNx0dAPaWYZAbpAzqrU9RHb1GpxLse0x8MMQqklp6sqh5oauK7iemxIot41y4fVbaSohCmM98t7ZYm9BWXnlTbz3oir0934hMA9tpstOgnSIQ1ceHlDrhm9HIj9HjI6JtpT3yZk/HeIeeEwYAEJ6HGrvVoGUoBTt6hPaBtTMz8+gnmCdVhVhP4r+HfYNbO9J3sSP4iNeODoWDluC9uN2uW1yk9hjgws2TDTE53YmuOyX+Kn3nODfLL6w3iCwB+4vxc8fstdWac/yi1RezNv+hrxI4p+X4vUkukvnHszDW/rJXTa0f/wJCbALIw==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fb5281ac21082531c8424a2ce69f896b",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. 3 … 14\n\n3 4 4 3 6 2 . r N • 3 1 . 5 0 n o i t i d E • M\n\n3 4 4 3 6 2 . r N • 3 1 . 5 0 n o i t i d E • M\n\nUmverdrahtung DSLC  VPM-VC \n\nDSLC (alt) \n\nDSLC Ventilkontrolle mit\n\nHilfsventilen\n\n.\n\n.\n\nEntliiftung iber Dach\n\nDSLC  px Vx  V3  V1  Pp  Prüfabschnitt  V2  LGV \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nElektrischer Anschluß DSLC \n\nPp  D S L C ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztmNtu4zYQhl+F8FULbGyeJfYu3QRtgSQIkMY3uwuBh6GtriwJFJ1mG+TdO7ITNCjSIkGB3kgwaNHkcPxr+GF4+PSwgAZ20OaqDosfyELTIDwtPNdGGVYUwK1hPjIvZBmlU4sPZLGDbIPNFu0fFmOlGrp98vD8GyqfAB8Hh6yQktLCCLqk4+BD/64Ldaz/xaBPnYdh+MuCGamNWGJNUWpGux7Srh6GumuH6knNp4cFeh51CMGpfPyCZgl8l0LVdN7mLh0k9jZvR7+r2wHSsEq19zYFHDjkZHM9rK6/+a1Nu+vU/QY+D6uwbzdD1Xd+FTq/H6M1nHQtrLgWUopqjQ1106f95z0VtIzDtyHDrjq7ufhYra8vT9YfKy5odbofst0Pflv9eHlanS37EBePjygx1g20djfqXvx3l08O87f+4ND2fVPju2OcVk/djW03e7uBYQzZAtrNYgxUjy1Vu985GKMkRmEZ7vPoQ5DPe065JkyO459dX+OIq+MAtP47SdJbAQqMpQqYEl4pHjhoap0GEGU5kzRJkiR+BNGEkyVJ5OpIFscmhg2KUNKSjtQkYwnk/Ln78iV3VzaN0b2DX0evr6BXyKgY4FyAodRLr7QOWoYDgtHCjN5E0JP/P3pSWQ40cFVyRsEZ4ST4II3S1obIihm9CaJ3u7uDFJLdZgwEGUUQclRBXsL1yw5dvAZVMM5JzbkuCuWk4SZQS4WyZamZKE2coZogVAeMvrNN/v5tEJWsdIxLiUlIcVZQC/jtMTtZBMk5N0M0VYiOkr52bU5d0wDZ1fldax5IavB4GEpNI5W6oCV1WLfRGMCcZWayJkjWz3UTh7uDJGjfhZOTQhSqLKkpDVfWBM4hCMEc5zI4JWacJojT8iVCty16g02X6j8g/CNGpS1KCAC2wK2449Za4b0BjS+HWcrOGM0YvQEjbRVuk0phIBhdBu2U8yHywLXG3bea995TxOi8zU1dx8NxrsZ+cmb99l2LHBeeaUpBBK8p2KiMpEqUgjMtcCM175mmiNXxZqC/J+t7QtYCCyPkuseSUB+NPlqHIto6Z+zjhFz8tH7rDYIAA+ghGMl8wa0sClfgbOP8MaHnG9Ep4nZVw842AzlNDuoMLQk43dsTEo+wbRO0H8jv0LbkprdtOyY72zY1bPKSjCZBxwhjJvRbIOsunRCUnDAtoisHmBGxsnxXVowR8TRFdMZzxkunjPK43roQCxcZm+8opojpeQNfc6rxf3ChPW3x2ewP+MXjVeqbEiBIZ/AQ6VU0gUXuVGlw0nG5VUpELdhM1gTJGpfWM3JDLsirFH35Exuegzs=",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "70b0c9179740348d4a1126e1f09bde71",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. N Umver- drahtung nach PS/NO I I [ | I Reset/OUT frei LGV /230 VAC ] PS/NC frei frei V3/230 VAC Freigabe / 230 VAC ]",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>N</td><td>Umver- drahtung nach</td></tr><tr><td>PS/NO</td><td/><td/></tr><tr><td/><td/><td>I</td></tr><tr><td>I</td><td>[</td><td>|</td></tr><tr><td/><td>I</td><td/></tr><tr><td>Reset/OUT frei</td><td/><td/></tr><tr><td>LGV /230 VAC</td><td>]</td><td/></tr><tr><td>PS/NC</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td>V3/230 VAC</td><td/><td/></tr><tr><td>Freigabe / 230 VAC</td><td/><td/></tr><tr><td/><td/><td>]</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVG1v2jAQ/isnf17rvPE2dUiMbhNaC2i0fGmRZewLyZQ32c401vHfZ4fAqjEhpokQX+6ee/L4fJenF4IZ5lgYlkryFkgcd4TsdWPZF3LNMYgGvXiNIoqifhD4UYe8AZKj4ZIbbvEvxBlMl7USeHhGJhTapSH0e1Hkeb1B6F17LrmJ56VM4/QMoFKlQK1/I/xB1B2E19bqeN7A4SpUeap1WhaatWqeXohldjrCMPCi3crCFIpSSZaVgptSNRIrbhLHSx81Kk1VKgRX0iZqo7hJNZ1vRcJVPlflVxRGU1kXG82qUlBZitpVS1+VBdKgG0ZRyJbWkWaVqp9rL/T6sd5qgzm7XdyN2XJ+f7UcsyD02KjWhtdaJOz9/YjdXlcyJrudlRinGRY8d7rJ/1O2hGZbNYS8qrLU7t3WibbhjBebmm9Qu5IRLDbEFaqyHlbU+RpdlSLrMfjdMK5ZYvLMUd0Yvs5weGMS5NIuypnDG+pu9j89Wo/5N1RXIBVPjC0dFFwk+yB1SfRAsC7ltuWRw/mCTmc2JpunP4wmrwWeYianoMkx+HS0fp7hmpx54RfUaOjs8QFiheklEu8+LYHaA4LlaHyErc4kuM2PL2G+VMGluGV4ovMM+qNl3fA1AoV/yDrFrE5AIMpMV7x490zCZzKc1gr2fQ74CkvblqH7TiS7tktdd7rZAITc/kaFHYnMzY4nY+vL4DMUUMI3mH9oroXdwHQG/t4az+4haM4WQmgO2zonU4hgYRxH3FW8+GF3joddQwfmqgmJmBex/cCgco1+50P3yOAapren7e+XATSNcWTxvVaKNf09xG+F+CEsw9fQCE6LD34HpuB34VW5/jZ7bugP34MHVzmyW/0CC4Pb+w==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "5eca018741146d9ed0cd937f2e652921",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Nur VPM-VC e",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Nur VPM-VC e</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVG1v2jAQ/isnf17rvPE2dUiMbhNaC2i0fGmRZewLyZQ32c401vHfZ4fAqjEhpokQX+6ee/L4fJenF4IZ5lgYlkryFkgcd4TsdWPZF3LNMYgGvXiNIoqifhD4UYe8AZKj4ZIbbvEvxBlMl7USeHhGJhTapSH0e1Hkeb1B6F17LrmJ56VM4/QMoFKlQK1/I/xB1B2E19bqeN7A4SpUeap1WhaatWqeXohldjrCMPCi3crCFIpSSZaVgptSNRIrbhLHSx81Kk1VKgRX0iZqo7hJNZ1vRcJVPlflVxRGU1kXG82qUlBZitpVS1+VBdKgG0ZRyJbWkWaVqp9rL/T6sd5qgzm7XdyN2XJ+f7UcsyD02KjWhtdaJOz9/YjdXlcyJrudlRinGRY8d7rJ/1O2hGZbNYS8qrLU7t3WibbhjBebmm9Qu5IRLDbEFaqyHlbU+RpdlSLrMfjdMK5ZYvLMUd0Yvs5weGMS5NIuypnDG+pu9j89Wo/5N1RXIBVPjC0dFFwk+yB1SfRAsC7ltuWRw/mCTmc2JpunP4wmrwWeYianoMkx+HS0fp7hmpx54RfUaOjs8QFiheklEu8+LYHaA4LlaHyErc4kuM2PL2G+VMGluGV4ovMM+qNl3fA1AoV/yDrFrE5AIMpMV7x490zCZzKc1gr2fQ74CkvblqH7TiS7tktdd7rZAITc/kaFHYnMzY4nY+vL4DMUUMI3mH9oroXdwHQG/t4az+4haM4WQmgO2zonU4hgYRxH3FW8+GF3joddQwfmqgmJmBex/cCgco1+50P3yOAapren7e+XATSNcWTxvVaKNf09xG+F+CEsw9fQCE6LD34HpuB34VW5/jZ7bugP34MHVzmyW/0CC4Pb+w==",
+      "is_continuation": true,
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "de53ec35237aa43abe269738b10fe819",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Neu nur VPM\n\n4 … 14\n\nUmverdrahtung DSLC  VPM-VC \n\nVPM (neu) \n\nVPM Ventilkontrolle mit\n\nHilfsventilen\n\n.\n\n.\n\nEntliftung Giber Dach",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztl01v3DYQhv+KoFMLJF5+iSJzS+KgLdAYBlL7kgTCcDjcVaovkJJR1/B/L7V2UKNIggQ9ri4SRc68fDV6IJLv70rqqKdhblpfvihKpSAAgidE5yvpjAoUeDBOuUpIIctnRdnTDB5myPF35dpo0rhEpM/P1GCkfDsK8lopxmor2Rlbk4/j/ejb0H4jYIojUkr/RnCrtJVnuVUxZte4iWLfptSOQ2oe3by/K7Py6kNKwdT9xxwWCcfom25EmMd4tDjBfFh1d1eJYtrFFhGiz4lpjjC3aXd5iweI/WUcPxHOaeeXYZ+aacSdH3FZq5WejwPthJZKyeY6d7TdFJcPC5PMhHSbZuqb83e/v26uL98+v37dCMmal0uaYUl4aF69fdmcn00+lPf32WJoOxqgX32X/1/yUXC+nY6CME1dm98912n3ONzBsF9gT2ktWUnDvlwLNeWeZlh6R2uV1Gpspr/mVeOClmJYYpFnXvM/S19AXOt1Q3+scTnhvzBZTuCVVRkeDhJDrU0F1jKhEGsp+AbTCcKkig+LYEIXXD2F6TJnXDwkfIEkV3NeO4OMGBqhBCMFtkYjVdDWOL2RdBokVU9JuupvKPoIhzkXolhNFMWDi+IpWb/1WeJLUIlaoGfghRcKhENh8s9KAtREyhmJG1QnCFWesfhpoOXn72OoZlYSmsArENb4/CnAKG9V7QOzut72S6fK0IOjP8dhjmPXUdG38w/tnQTIuuIYAthK8XytiWkhvfMuwyTZBtYJgvVr24V0c7REww/hxEkwrrk0ZIXSxgueaaoRvSYVmHcbTieI09lThK6GrEb7MbZ/k//qiU4Ga1HkjTcaxEpL1FxX4IMToA1sGG0YfQ9GHJx2QbGAlXdOk1PGEfDsWXvEelvcThGjN8PcteF4lvulzePFOeDhG4vcx38AQFmhQg==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ae59daf619019cfd3e11a030b299c21f",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. e VPM m m e Anschluß l K f u a → PE PE → 13 PS / NO → L1 → 12 Reset / IN (von L1) → 17 Störung OUT 230 VAC → 16 Störung IN (von L1) → 4 Prüfanforderung L1 → L1 → 10 LGV / 230 VAC → 14 PS / NC → 6 V3 / 230 VAC → 11 Freigabe / 230 VAC → 3 N",
+    "metadata": {
+      "text_as_html": "<table><tr><td>_</td><td/><td/></tr><tr><td/><td>[a]aeme |</td><td/></tr><tr><td>-</td><td/><td/></tr><tr><td>-</td><td/><td>PS/NO</td></tr><tr><td/><td>7 [[a]s]s]</td><td/></tr><tr><td/><td/><td>1</td></tr><tr><td/><td>[</td><td/></tr><tr><td/><td>|</td><td>_</td></tr><tr><td>-</td><td/><td>LGV /230 VAC</td></tr><tr><td/><td>[sla]</td><td>PS/NC</td></tr><tr><td/><td>|</td><td/></tr><tr><td/><td>zlal</td><td>V3/230 VAC</td></tr><tr><td/><td/><td>Freigabe / 230 VAC</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVNtu2zAM/RXCTxuw1tc49VAUyLoLhrWpsbR+SQNBkenEg2+Q5GFZl38f5TnuuhZGgMF2TJFHh4c0leWDhQWWWGmWp9ZbsDJ3GoUBCtfBKAgnGAZRKITnnmXT6GzCufUGrBI1T7nmhH+wjMFU3UqBhzUyIZFeHaE7DQLHmUa+c+qYzV28rNM8y0cAjawFKvWIcElN5J+SNXGcyOAalGWuVF5XivVqlg8WMRsdvu85wX5FMImilikrasF1LTuJDddbw2vfKZTKlrkQXKa0UWnJda7seCe2XJaxrL+h0MpO22qjWFMLO61Fa7qlTuoKbS/0g8BnCTnyopHtfev4zlmmdkpjyd4vri5ZEl+fJJfM8x02a5XmrRJb9u56xt6fNmlm7fckMcsLrHhpdFv/T9kT6l3TEfKmKXKqnfpk9+GCV5uWb1CZlllYbSzTqIY8rGrLNZouTcij8YdmXLGtLgtDda75usCLc72u0x29JD3pBTu36ddY/xh2B5BPQ0u+4jRv8GsEfHIM4wugeGHPb0ZyT2FJ6RVdxygdDHesnGOYHmtlR9Vx9SkBmz4vJLPLsdyq4KsnxY+hxxo+hH4WvBgWiX+EiMH4KDHf8DWCDc932f3I2H8myNr302WmCoEGGkq6EGYVzXJhht5JMyjgC2TQAof71nMjD+IP5u4Xrg/xgrLNbw6eK3eIefAVFWoKf57Dq+91RcHXQ3QKC21yZKGkkw03d7cHzQMkfAp5gSWAWHYIkfEqo/8Y7JCPIv6S40D3TZ9lCfoSBk8Iif8CzoXn7T0EfZibQ30477emw9Z+9Rv+KsiX",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "e1402e163cad67df99d233953eab9d8e",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Multifunktionsausgang OUT 20 230 VAC Multifunktionsausgang IN 19 230 VAC 18 frei 15 frei 9 frei 8 frei 7 frei 5 frei 2 L1 / Dauer 1 L1 / Dauer",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>l</td></tr><tr><td/><td>l</td></tr><tr><td>I</td><td/></tr><tr><td/><td>e</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylUctu2zAQ/BWC58akHn6oMAK49iVA3Bpo4ksaEBS5stlKosAHUMPwv5eUZDdAg1x6EHe5MxzMjl7OGGpooHVMSfwZ4VkpOKTpgopFJTIQNAEueDmfcShLmEn8CeEGHJfc8cA/49gwq70RcL0DEwZC6QWTeZ5TOi8yOqHxcY83WqpKfUDojBZg7V9GUuSzIpuEbkppEXkdmEZZq3Rr2ejm5YyDcvSRZSnNL6+BZkBoI1mtBXfa9BY77o5RlzxbMJYYJQQ3Mjy0znCnLNmdxJGbZmf0TxDOEunbg2WdFkRq4WNa9k63QNJZlucZ24eBqjvjf3ia0UVlT9ZBwzbfH9dsv9ve7dcszShbeeu4t+LIvmxXbDPpZIUvl2CxUjW0vIm+8f9LjoLu1PWCvOtqFXYPOZERrnl78PwANkaGoT3gGFQXJqz1TQkxpWmYOPjtGLfs6Jo6Si0dL2u4X7ojcBmKie39ksQjfPXQkTgnV06p5WmkyjiWfVMPXU8dsYcb+C92g+ANRkZtMrjCl9FxdLr1tVOVb3/FtW1I6BBWRt+en1BKUQgO7Vdr9D7p4StKihsnWaDKgELJdKjFUMbpfCgjlqLHBBG04R4MSt5cYubX3/EUzeLL6x8Gzxx+",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "9ad9b4192d041b4c9b16b3cd236b6c0e",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. VPM VC  V3  LGV  (NO)  Pp  V2  GW 1  V1 \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nElektrischer Anschluß VPM-VC \n\nFA     T  I  T  L  L  U  U  A  M  F     M     O  M  K  C  O  O     C        T        I  L  T  U  L  A  U  F  M  T  O  O  C  C  E  S  N  N  N  N  E  R        E  T  O  M  GW1  E  R  Pp1  Pp1  Pp2  V2  V1  V3  LGV  TR  L1  N  N  N \n\nDIP-Schalterbelegung \n\n1  X X  X X  X X  X X  X  X  X X  0  A  B  C ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztV9tu4zYQ/ZWBnlpgHVPUvW9eJ7sIaidG47gFtguBIoe2Wt1ASm2DIP/eIRPvBu2iCNBHmyao0XB4eDQ6pOhPjwE22GI3lrUKfoBA5FEVJqrIeKjjtJBpmsuEpzrLVSYqpoJ3ELQ4CiVGQfGPgTNK209G4vEeS2mQLh4wzOKYsayI2AVzg31/26ta1/8RMJheorVfI8KC2EQXZCWMFS5uQNPW1tZ9Z8sXNp8eA0J2PKKIs/jpM4UZlL1RZdNLMfbGUxzEeHC483uLxs5NLaUwigba0YixtvPNgzwI025M/xvK0c7V1O1tOfRyrno5uWzZWd/hnKdRHEfljhx1M5jp14lFLNf2wY7Ylpd3q2W526xnu2XJI1YuJjuKycpD+X69KC8vBqWDpyeiqOsGO9E63sH/h3wBHB8GDyiGoanp2SlP85fuRnT7SezRupQF2O0Dl6iBPGU3tRW6LCWO2Ih/jQ6DZoTdEmAXAaw+7gC+u7n9HmAzkIsDfPwZQrJCcODHea9bwgsI5Z8KwziNRVxpzCNSWKWjBAueyixWmvM8Y2eFnaDCbmpsRWNhYSqsR+xA0es+zEATO6blwWD3Dv7EroO7QXQdZQtE19S4Hy/AhahUa3og4nFA2PVmBkTZ1NpBVSjkgYyL1/K8Eca9iT9w6xh8Q6a5UjrhyKkRyIsw1aJCRqbMwiyMzxvhKcr0qsHfR1PTPGhg0dG1mbz8NDyTedsWGIU5y2UV8pinSV7EScTCSBYqUzyMeJKetXWC2vqwAFe2ANe+Xfl67yt1rQE++IC1b2+98SPA0tu33rmEl7I9GtceZOtBVh7n3uOsvfN54NLXK4A7gJtXlTw/HXGujvFr97kPj52bIfzS8OfDwC58dU7YUswq/Ir5ptXBK51pJRKZkg4TFlW5zAWPeMFyHtMiOa+OE1wdl9eb2R2lpBmRjggN7t0R4E1yUphUWUglrXKRyUKk9A+HHHQXJ0pGZzmdoJxoT/qFfv9uvpjM75bv3d74DZl9/huuk7Nm",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "bf4afafdc2abfbf07237a79b37355cee",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. 3 4 4 3 6 2 . r N • 3 1 . 5 0 n o i t i d E • M\n\n5 … 14\n\nUmverdrahtung DSLC  VPM-VC \n\nDSLC (alt) \n\nDSLC Ventilkontrolle mit\n\nHilfsventil\n\n.\n\n.\n\nEntliiftung iber Dach\n\nPrüfabschnitt  LGV \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\n3 4 4 3 6 2 . r N • 3 1 . 5 0 n o i t i d E • M\n\nElektrischer Anschluß DSLC \n\nPp  D S L C ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztmVtrIzcUx7+K8FMLG1v3S9/STWgLSTCkycvuMuhyZE93LkYjp82GfPdq7ISGkpaEQl9mMGZk6eg/f5/5cSTLnx4W0EALXa7qsPgBLZTgmmAmSISIlYyCKUPBhmhc9J6yxQe0aCHbYLMt8Q+LsVEN/T55eP4MlU9QLgdBojjHWBmGl3icfBhv+1DH+l8Cdqn3MAx/RRDDpWHL0hIYmzFuB6mth6Huu6F6cvPpYVGURx+MUcwfv5SwBL5PoWp6b3OfDhZ3Nm9H3dXNAGlYpdp7m0KZOORkcz2s1vd+a1O7Tv1v4POwCvtuM1S73q9C7/djtoaTvoMVlYxzVt2WjrrZpf3nPWZYx+F+yNBWZ9cXH6vb9eXJ7ceKMlyd7ods94PfVj9enlZny12Ii8fHYjHWDXS2HX0v/rvkk2C+3x0E7W7X1OW7lzytnoYb2232dgPDmLIFdJvFmKhd6am6fetgzJIYjWX4I48aDPHyYkgiipYooSv0eU8xpaWLlA6BMOpQj2qUyzug8+fhy/Fuz0aubBqzewe/jqpF/u/o+WCcZBKiFsHSAN4aK4PGgThVePQzehNETxxZkojwlzCty4yr44RXSCKCEcKDDsEqTLkBJh0oQ2RQ3gkhZ5KmQZJ8SdJNewcpJLvNJRFoNIHQ0QV6SdYvbZF4DaqoGQQppAAIwhjlfXBSuiANBAMGz1BNEKoDRt/ZJn//Noi4cd5FZ5jgkgarJbexPEFHVSAYh3mNmyxER0tf+y6nvmkAtXV+1+6JWMy5w9ZK68eSJF3EkWHBghNlC09msiZI1s91E4e7g6X3weRsVBgcRK45COyk8hg0ldaA5sLOME0QpuVLhG66ogabPtXfIPwTRpxi5pUKmDlpo+SRx2iNcBqowEGbGaMZozdgJKJVxjDNiDYjSsGp6DAVVCnqbXQzRhPE6LzLTV3Hw4+5uoyjM+u371rkFFEAijhvtMKq7MeNAom5JdpJws1cnaaI1ToVGzj6aF25V1fnjNDFT7dvPCIoOEHZgQdvqDDO6SAoVYR5ETm2JsxETZCoqxpa2wzoNDmoM3QolMe9PUHxCNo2QfcB/Q5dh653tuvGema7poZNXqIxJMgYYSx2fgvotk8nqFhOpfIVKQel6JXG8n2FT4vANKEcHHfEOgGkbPe1Z05zH/V8PDpFTP+f/3i44h6811pwyw1hmDoaCRdB8GDJfDI/SfTOG/iaU13uU7Zxp125NvtD5YvHY/o3rb0MGCNOMxOoIAITLJWmUkQlQFCL5/OvKZK13iF0hq7RBXqVoi9/AmfIfjQ=",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "20bd4e13ea8f52476072208020ca9439",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. N Umver- drahtung nach PS/NO I I [ | I Reset/OUT frei LGV /230 VAC ] PS/NC frei Versorgung V1 /230 VAC V1/230 VAC Freigabe / 230 VAC",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>N</td><td>Umver- drahtung nach</td></tr><tr><td>PS/NO</td><td/><td/></tr><tr><td/><td/><td>I</td></tr><tr><td>I</td><td>[</td><td>|</td></tr><tr><td/><td>I</td><td/></tr><tr><td>Reset/OUT frei</td><td/><td/></tr><tr><td>LGV /230 VAC</td><td>]</td><td/></tr><tr><td>PS/NC</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td>Versorgung V1 /230 VAC</td><td/><td/></tr><tr><td>V1/230 VAC</td><td/><td/></tr><tr><td>Freigabe / 230 VAC</td><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVG1v2jAQ/iunfF7rvBHIVFVidJvQWkCjzZeushznApnyJtupxhj/fXYSqFSmqNVEiM++5548dz77cW9hjgWWimaJ9REsZ8RHYRwzx+UO57YdTmIWxH4YBuN4PHFj6wNYBSqWMMU0fm8Zg8qqERyPc6RcoB46wrHv2/Y49OxL2wS3/qJKsjQbANSi4ijlC8IJ/SD0LrU10qIMrkZRZFJmVSlpr+Zxb2lmo8PzXNs/PGmYQF6JhOYVZ6oSrcSaqa3hJQ8ShSQi45yJRAdKJZjKJFnt+JaJYiWqn8iVJElTbiStK06SijemWvKiKpG4gef7Ho30QpbXovnR2J49SeVOKizozfp2RqPV3UU0o65n02kjFWsk39JPd1N6c1knqXU4aIlplmPJCqPb+n/KnlDt6paQ1XWe6dx1nUjvzlm5adgGpSmZheXGMoWq9QotmyJGU6VAryj8pSiTdKuK3FBdKRbneH2ltsgSPQhjXl8R89L/xcl6KJ5RXEAi2Fbp0kHJ+LZzEhNEjgRxlex6nuR6tSaLpfYl7eyV0cb1wHPM/Bw0PzkfT9afAa75wAe/o0RFlg/3kArM3iLx9msERG8QRNPZCfY0EGCSn72F+a0KIt3ZldiY6kfOuZahSOc96C9az4bFCATeEXVy4QBo0Qjoen2QkvRtRLrutA5955qONecFEAr9m5b6mOTmPNlJqtdy+AYlVPAMq8/ts9YpLJbgdNZseQduu9/gQdsAenG+AB/WynCkgWDlb507HvOGEaxE6+IpK1N96aAw5b91IDgxmCYad7STbgihbZYTi2P3UrTpdBDHhVfb+YL2Xs19ON8RcEawACeAl4rCv46ouRuO18a9KaZ1ePoLa5zmRw==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "790a4306a82707a90f370b28cb13b8cc",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. e Nur VPM-VC",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>e</td><td/></tr><tr><td>Nur VPM-VC</td><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVG1v2jAQ/iunfF7rvBHIVFVidJvQWkCjzZeushznApnyJtupxhj/fXYSqFSmqNVEiM++5548dz77cW9hjgWWimaJ9REsZ8RHYRwzx+UO57YdTmIWxH4YBuN4PHFj6wNYBSqWMMU0fm8Zg8qqERyPc6RcoB46wrHv2/Y49OxL2wS3/qJKsjQbANSi4ijlC8IJ/SD0LrU10qIMrkZRZFJmVSlpr+Zxb2lmo8PzXNs/PGmYQF6JhOYVZ6oSrcSaqa3hJQ8ShSQi45yJRAdKJZjKJFnt+JaJYiWqn8iVJElTbiStK06SijemWvKiKpG4gef7Ho30QpbXovnR2J49SeVOKizozfp2RqPV3UU0o65n02kjFWsk39JPd1N6c1knqXU4aIlplmPJCqPb+n/KnlDt6paQ1XWe6dx1nUjvzlm5adgGpSmZheXGMoWq9QotmyJGU6VAryj8pSiTdKuK3FBdKRbneH2ltsgSPQhjXl8R89L/xcl6KJ5RXEAi2Fbp0kHJ+LZzEhNEjgRxlex6nuR6tSaLpfYl7eyV0cb1wHPM/Bw0PzkfT9afAa75wAe/o0RFlg/3kArM3iLx9msERG8QRNPZCfY0EGCSn72F+a0KIt3ZldiY6kfOuZahSOc96C9az4bFCATeEXVy4QBo0Qjoen2QkvRtRLrutA5955qONecFEAr9m5b6mOTmPNlJqtdy+AYlVPAMq8/ts9YpLJbgdNZseQduu9/gQdsAenG+AB/WynCkgWDlb507HvOGEaxE6+IpK1N96aAw5b91IDgxmCYad7STbgihbZYTi2P3UrTpdBDHhVfb+YL2Xs19ON8RcEawACeAl4rCv46ouRuO18a9KaZ1ePoLa5zmRw==",
+      "is_continuation": true,
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d53ef5ea34f82c5e399f77618d160dec",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Neu nur VPM\n\n6 … 14\n\nUmverdrahtung DSLC  VPM-VC \n\nVPM (neu) \n\nVPM Ventilkontrolle mit\n\nHilfsventil\n\n.\n\n.\n\nEntliftung Giber Dach",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztl9tu1DAQhl8lyhVIdNenODF3pUWABNVKtL1pq8iH8W4gJ9lORan67tjbVqxQqYq43FzFsWd+/558yiQXtzm00EEf6sbkb7Oc2oJzhiiRUhSaMWtoWSlqhTY4jnH+Jss7CNLIIGP8bZ4GtR8mp+HxHmrtIF62grhkDKFSULRAKXm73g2msc0zAaMbNHj/OwILxgVdxFGBkEhxI7iu8b4Zel8/uLm4zaNy8kEpQezuKoY50IMzdTtoGQa3tTjKsEm6yzMPzi9do7V0Jib64GRo/HJ1ozfSdSs3fAMd/NJM/drX46CXZtBTqpY/GHpYEk4Zo/V5nGja0U2XE6Kosv7GB+jq46+fj+rz1ZeD86OaUFQfTj7IyetN/e7LYX28GI3N7+6iRdu00Msu+c7/X/JBMNyMW0E5jm0Tzx7rtHxYbmW/nuQafCpZDv06T4Ua40zdT52CVCWejAX4EZLGCUxZP7ks7pzyH6VPm9BCHgP/hIhxZQgTllsMpYEKI0aF1YYXkkhL0AzRHkLEs8uJIMIzzHYhWsWMk/uEJ0iCQmltqSyxFUpVQpWghJJaESRKbcqZpP0gqdwl6ay7Bmec3IRYiCyZyLJ7F9kuWZ+6KPEUVLjCpOLYFqmjEYYtoRYEM0JggrASM1R7CFXcMXvVw/T6ZQwRRiI5zCikCkFjtyutFhY4KUCVCpOZoT1l6N7R96EPbmhbyLom7AJ1Il2q3TWcppwnwDIECg2YYsErKrBRHClcUY1j5ytkyWaw9hCsj01r/fXW0j/BpGx8GbECC2s4ExLHwyltlWWqMkwWZoZpD2Fa7CJ01kc1WA+u+QnmbxgRSRSSilnFpYnwUAQRJuBVfI5UqBmjGaOXYIQLWqLY1EpcVUZDGT+WZGUMVsQiKJicMdpDjN73oW3s9k/uQxPXs2OpN880uatfJkmcag==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "98c3a38aff74aaf74965a39696d898df",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. e VPM m m e Anschluß l K f u a → PE PE → 13 PS / NO → L1 → 12 Reset / IN (von L1) → 17 Störung OUT 230 VAC → 16 Störung IN (von L1) → 4 Prüfanforderung L1 → L1 → 10 LGV / 230 VAC → 14 PS / NC → 6 V1 / 230 VAC → 11 Freigabe / 230 VAC → 3 N",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>[a]aeme |</td><td/></tr><tr><td/><td/><td>EE</td></tr><tr><td/><td/><td>PS/NO</td></tr><tr><td/><td>= 7 [[a]s]s]</td><td/></tr><tr><td>L1 | [</td></tr><tr><td/><td/><td>] LGV /230 VAC</td></tr><tr><td/><td>[sla]</td><td>PS/NC</td></tr><tr><td>|</td></tr><tr><td/><td>zlal</td><td>V1/230 VAC</td></tr><tr><td>L</td><td/><td>Freigabe / 230 VAC</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVGtv0zAU/StX/gQSLM++0FapbAMhui6iW760leU6ThuUxJHtAGXrf+c6SztGt2oSysu+9/j4+Fw7szsiclGI0tAsIR+AdPqiy4Ju2gmXvtfpDNx+GvY7/cTlKU9T1yPvgBTCsIQZhvg7YhtUy1pxsesLypXAT0Po9cLQdXuDwD1x7eAmX8gkS7MjgEpJLrR+RHiDsDsITrDVcd2BxVVCFZnWmSw1bdXM7ggyWx1B4LvhdoEwJbhUCc0lZ0aqRmLFzNryOrdaKO2ojHOmEhyojWIm00604WumikjJ74Ib7SR1udK0ktxJJK+tW/q9LIXjd4MwDGiMgSyvVD2v3QAN0xttREEvpuNzGkdX7+Nz6gcuHdXasFrzNf14NaIXJ1WSku0WJaZZLkpWWN3k/ylbQrOpGkJWVXmGa0efnDads3JVs5XQ1jIiyhWxRlUYoWVdLIV1qYcRI34ZyjRdmyK3VKeGLXMxPDVLmWzwo/BJhqeOfeEzYwuGWwnu95GHhtMA/wHvG5eXr0FFU2dyfQR4Bj2YoQCN18vTA5e5rlh5NifBnICSP9uePyfDsQf3MHuNmAWMP8fgYAEgHp0fGTHTOVs8WcMh+qmm4f0Rut85y/ed2HtZwPhQ8yclshVbCnDgcJjTVtR5KDDZtsW3RReA+w0KvASMStxqud2TbpJCDl8hhRoYzGvfG/gQXdq77XgBRFOcbXK9i6DBu5wP34QWBtNfJvDmhywx+Xaf7cHU2DnSrsKDB9e3NzvNe0j3KeQZlhAi1SB4ysoUfwGiQT6K+EuO+1DQg1nCdgn7SBdi7xmcB4f27pIBTOyZ2x3HG+sw2S7+AAVDqbc=",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d0fc6f8bda907a89c33b9aa5a986f486",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Multifunktionsausgang OUT 20 230 VAC Multifunktionsausgang IN 19 230 VAC 18 frei 15 frei 9 frei 8 frei 7 frei 5 frei 2 L1 / Dauer 1 L1 / Dauer",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>l</td></tr><tr><td>I</td><td/></tr><tr><td/><td>e</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylUF1r2zAU/StCz2skf8SuRyhkyUuh2QJr89IVIUvXiTbbMvqAhZD/Pil2s8JKX/YgXemeo6Nzz/MJQwsd9I4piT8jnCQ0TaUo5gUUddkUNa3zZJ7yvE6gKUHgTwh34Ljkjgf+CccDs9obAa93YMJAKKNgmeeUllVGZzQ+vuCdlqpRHxAGowVY+5eRVHlRZbNwmlNaRd4AplPWKt1bNrl5PuGgHH1kWUrz80ugGRDaSNZqwZ02F4sDd4eoS54sGEuMEoIbGR5aZ7hTlmyP4sBNtzX6JwhnifT93rJBCyK18DEte6N7IGmR5XnGdqGh2sH4H55m9LaxR+ugY+vvDyu2225udiuWZpQtvXXcW3FgXzZLtp4NssHnc7DYqBZ63kXf+P8lJ0F3HC6CfBhaFWYPOZEJbnm/93wPNkaGod/jGNQQOqz3XQ0xpTJ0HPx2jFt2cF0bpRaO1y3cLVyt5TEUE5a8W5C4hdWOJ3Lpj9j9FfwXu0LwBiOTNhm/wufJRvx+41unGt//irPYMPY+zIG+PT2ilKKQBtotV+h90v1XlFRXTnKLGgMKJfOxVmOZuuVYJixFDwkiaM09GJS8ucQgXzN+jGbx+eUPS1AM8Q==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e933bd708afc551602e68cad97262648",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. 7 … 14\n\nLGV  VPM VC  (NO)  Pp  V1  V2  GW 1 \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nElektrischer Anschluß VPM-VC \n\nFA     T  I  T  L  L  U  U  A  M  F  n     M  i        O  M     K  1  C  O  O  V     C        T        I  L  T  U  L  A  U  F  M  T  O  O  C  C  E  S  N  N  N  N  E  R        E  T  O  M  GW1  E  R  Pp1  Pp1  Pp2  V2  V1  LGV  TR  L1  N  N \n\nDIP-Schalterbelegung \n\n1  X X  X X  X X  X X  X  X  X X  0  A  B  C ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztVm1v4zYM/iuEP23AJZElv+5bLu0diiW9YE2zAXcHQ5aoxJtjG7K9rSj630epya3YiqHAPiaKItMU+ZimHsn8/BhgjQdshqLSwQ8Q6BTjLOQYhUZI1HmsZaSYRhOxhKQ4eAfBAQep5SDJ/jFwQtG3o1V4usdCWaSLBwzTKGIszQWbMufs5w+trkz1HwadbRX2/d8WYR4luZiSFDOWO7sO7aHq+6pt+uIYzefHgJBdHEJwFj19JTOLqrW6qFslh9b6EDs57B3u7L5H289spZS0mhz7wcqh6mfrB7WX9rC27a+ohn6mx2bXF12rZrpVo8tWP2kbnPFERJEotqSo6s6OX0YmWGb6h37AQ3F1t1wU2/Vqsl0UXLBiPvaDHHu1L96v5sXVtNMmeHqiEE1VYyMPLu7g/0MeAYeHzgPKrqsrenfK0+w4XctmN8od9i5lATa7wCWqI03RjIcSXZZSF9iAfw4OI4UvI2c8gTBy/ifoNXncPjuQ9T+ZlOVJmnOlQh2lYRRqmUnMmFu9XJam1BcmnSGTlh+3APRY2C4Avrv99D3AuiNNSH8O8PFnCOElxW4OhPUau0yUpZHgWIZcJIwleYqiVIhlHpexSMMLu86QXbcVHmTdw9yWWA3YgKbl3k/AUHTMqL3F5h38gU0Dd51sGsoWyKaucDdMwZnoxBh6IYpjj7Bt7QQoZFsZB1WiVHsSpi/peSutW4nfceMieIWmIZdhwhTncZJKZkoelVpHSqLhCc9NdKHpGdL0usbfBlvRc9DCvKFrPXr6GXgO5m1HIC9VXqYmI14lSgsps0SImJWlDhNXul24dYbc+jAH1zYAN35c+n7vO02tAD4ANN6G5AqO7ZO/pfYj0BcYFl5DfeuVi5PZ5iTceNiNh1165HuPvPLKZ9+F79cAdwC3LzppfjrhXJ/sV+7jH54m1134beDPpYErEXz1sKH5ZXgEe9NGSYmOiUg0R2lSYZgsI8NUrDETJefGXDbKGW6Uq5v15I5SUg9I1UKNO1cNvIlOpVIRCoNlLJPYaCV4Hic642VIQ5rihU5nSCc6kH6h37+HbyLzx+R7dyi+QrOvfwEc6XE9",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "883fdeebcc4689b9afede222dd82912f",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. 3 4 4 3 6 2 . r N • 3 1 . 5 0 n o i t i d E • M\n\n3 4 4 3 6 2 . r N • 3 1 . 5 0 n o i t i d E • M\n\nUmverdrahtung DSLC  VPM-VC \n\no J\n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nDSLC (alt) \n\nDSLC  px Vx  V3  V1  Pp  Prüfabschnitt  V2  V4 \n\nDSLC\n\nDSLC (alt)\n\npx Vx\n\nV3\n\nDSLC Ventilkontrolle mit\n\nHilfsventilen\n\n.\n\n• Entlüftung in dem Brennerraum\n\nElektrischer Anschluß DSLC \n\nPp  D S L C ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztmVlv3DYQgP8KsU8tEHt5H31zYgNtEQcGHPslCQQeQ68aXaC0adIg/72jtY26qdus0YcCXWFBiEtSw+Hwwww1fPN5BQ200E1VnVY/kJWwKUAEJrkKkJKkTiQVo2TcMSZjXj0jqxYmn/zkcfzn1Vypxn5bItz/hyoWwMdOIDNSUmqcoMd0fnnX3/apzvU/DBhKH2Ec/xjBnNROHGNNUermcQOUth7Huu/G6k6bN59XKHnWQwhO5Zd3OKxA7Euqmj76qS87FQc/bWa566sRyrgudYy+JHxxnIqf6nF98SlufGkvSv8LxGlcp213M1ZDH9epj9vZWuNR38GaayGlqK6xoW6Gsn27pYLaPH4aJ2ir08uXL6rri/Oj6xcVF7Q62Y6T345xUz0/P6lOj4eUV1++oIq5bqDz7az36t+LvBM4fRp2Av0wNDWuHe20vutufHez9TcwziZbQXezmg01YEvVbdsAs5XMrNgEH6cdFETiTxBNODkmhbwib7ecco5NDBsUoaQjPanJhCWRs/vu83m2e0Ve+TJb9wO8nqWi+K/RSyFkK5J20WTuKZegrLcGMjUqqdtNX9D7/6Nn/wP0TLDOKMGijTrKIDRkpr0FK3hgIS3oHSB6V+0HKKn4zYSGILMShNxqQR7C9VOLIh6DSrjApbVWGYyiEt1ZiCYJrbWUINGvLVAdIFQ9+fkhPK/rqXkUHqqyzYIzrqmllDNLgxDOZmu9A6H4As+BwLNrKU/wKg9pe1VD65uRnJQA9QQdScjH5ohkXA7NcYNyn5FfoevI5eC7bvZzvmtquJmOyTwk6ZxxalR8A+S6L0cE11jqPIsK4OMGK8dPirSgmQfKwLDslebRZtDeBRoZF4ypxSkeCtcPMd3F1u98M32/X2RV0umkrLJWRGVTooE67hQwZEt5qxeIDhUiMnwk1x/xnCawMEIuBizl1ttlH1CJrp4m7ONY5H60Ra2YNhp9bvSWG5Mtz5IGj25YRSf9QtuB0rbXQS6Z6HxKmVqvHLorjJoxMskhhIAbtxzkDpWe24C3H0M5OAuOUhCWgxVziowHrZOWSRgVF4YOkKFdpNsLHy48p1p6qaKkTBjHkhIUY5k1yaQgFnwOEJ9rsRc7DAA/zzz3uGEYtrKKMUkfecDPUCaBLewcCDtf5yG+6VT+Eu9u1/C+76bSNw2Qtp6elDrIQmRDo3KBJWM4M0oJxlxUObrkbVhQXFD8Noo/1k0eP+zWAN3T+MMplHORCRGFwbVzYR0PnoqkgvcLfwt/e/D3p3TpVYfTw01f6t8g/R13lHvqHdPGCpeVdtYYlpk3UrCo7ZIyXbjbh7u7e/Gzbmru0mG7a826Iwla8hzFdoAOcNs+ySfaZBgz1EUaszc6Mh8DaJsCyzkaYxc2D4TNh6idNfB+KjXOA4WcdPhstrvbpHx7i75X1tUKGbS24EWy0jsTtOdRmsCco1zyJet6iGTN6fxTcklekkcpevc7Fejm4g==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "af0ae89c65601fca5d1c740b81b28a8d",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. DSLC e m m Anschluß e l K n o v PE PE PS / NO 1 PS / COM 2 frei 3 Reset / IN 4 Störanzeige 230 VAC 5 Prüfanforderung L1 6 Reset / OUT 7 frei 8 V4 / 230 VAC 9 frei 10 PS / NC 11 frei 12 frei 13 V3 / 230 VAC 14 Freigabe / 230 VAC 15 N 16 Nur VPM-VC Umver- drahtung nach",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>SR</td><td>Umver- drahtung nach</td></tr><tr><td>PS/NO</td><td>IR</td><td/></tr><tr><td/><td>I</td><td/></tr><tr><td/><td>IS</td><td/></tr><tr><td/><td>S</td><td/></tr><tr><td>Reset/OUT frei</td><td/><td/></tr><tr><td>V4 /230 VAC</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td/><td/><td>I</td></tr><tr><td/><td>[E</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylU21P2zAQ/iunfB7YadI0mRBSV5iEBm1FoV8Yslz70mTKm2wHraD+99lJKGhDqNKUF1+ee+7R5fH54cXDAkusDMul9xW8cSJ8ngY4GftJLHnMJ0G4GdFUbqJxHEcj7wt4JRouueGW/+K5gOm6VQJfv5EJhXbpBP1JGFI6SQJ6Sl1xly9rmaf5J4RG1QK1fmP4SRglwamNxpQmjtegKnOt87rSbOjm4cWzyq6PIBjRcP9oaQpFrSQrasFNrboWG24yp0vuNSpNVC4EV9IWaqO4yTVZ7kTGVblU9S8URhPZVlvNmloQWYvWuaVP6grJKArCMGBrC+RFo9qfLQ1onOqdNliyi9X1jK2XNyfrGRsFlE1bbXirRca+3UzZxWkjU2+/ty2meYEVL13f3v9LDoJm13SCvGmK3P679YkM6YJX25ZvUTvLPKy2njOqsQir2nKDzqXYIgZ/G8Y1y0xZOKkzwzcFnp+ZDLm0i3Lh+RlxL/usbg/hffmE6gSk4pmx3kHFRdYniasirwqbWu4GIXm+XJH5wuZk93V1ewj7oKscqG+so0irY1ifkW5RoyGL+ztIFeZ/ET+sWIdA7A7Bejo7hn6s7L+cq09ID5cfSZHBdtJvp7cfttptsRswQCjtNa3sXBVuAKlMLVbAD6ighidYXnb3CgjMF+D30WxxA6POHgig88uCV3MIYWWcRhopXj1jvkUYfIExLFWXEimvUntKUblhufYhOig4zye9bAzO1EN10qM+HTqZge8P0NCHH8A6eFfhh/Dd4lu+wffoGObgRzBvFfRHCz4aX3dwXs/UnTPO2z/+AVnJoLw=",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "92528cff5b7f14f6521811c01a67c703",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Neu nur VPM\n\n8 … 14\n\nUmverdrahtung DSLC  VPM-VC \n\n——\n\nVPM VC  V3  V2  Pp  GW 1  V1  V4 \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nElektrischer Anschluß VPM-VC \n\nFA     T  I  T  L  L  U  U  A  M  F     M     O  M  K  C  O  O     C        T        I  L  T  U  L  A  U  F  M  T  O  O  C  C  E  S  N  N  N  N  E  R        E  T  O  M  GW1  E  R  Pp1  Pp1  Pp2  V4  V1  V3  V2  TR  L1  N  N  N \n\nDIP-Schalterbelegung \n\n1  X X  X X  X X  X X  X  X  X  X  0  A  B  C ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJztlttu4zYQhl+F0PUm5kkH9i7rZIugcdZonLTA7kLgYWirlSWBknabBnn3DpW4Mdq0SNFLW6Ioihz+Go0+UfPpIYEattAMZeWS70iSQq5pZqXS1kqZe0W1c9QaxgvHaV4k70iyhUE7PWi0f0hio+zbMVjYXUNpA+BpEmS5lJTmStBTGidP49vWVb76F4MutBb6/sWCKZkpcYqtlFIV7ToI26rvq7bpy2dvPj0kqBz9EIJT+fgFzQLYNriybq0e2jC52OlhE3Vntz2EfhYqa3VwOLEfgh6qfra8txsdtsvQ/gJ26GdubNZ92bV25lo7xmj1J20DM54JKUV5hx1V3YXx80gFLXx/3w+wLc9vrubl3XJxcjcvuaDl2dgPeuztpny/OCvPTzvnk8dHdNFXNTR6G/1O/r/ks+Bw302CuuvqCp8d4zR7Hq51sx71GvoYsgSadRID1WFP2YxbAzFKRXRsgN+GqHENI2nGQPDOcf5OelUNNSRo+FeItOaZM0xSiTTlxhXCOwDqlTNUgTpCdIgQFeTzyCnPCJP7EC1xxvXThFdIMjJVjlLPlOCFpUYrW3hJC+6NVNyKI0mHQZLaJ+l2+xWCC3ozYCBIdIKQJy/IPlmXW5R4DSowkFPpaU5TV6ROMcrw9eQ2t0rptIAjVAcIVVycmHyq9ym6bVAY1m2ofge3isavEGVzqlLHnbC5zLLM2zxljAmwghvrU3kk6gCJwjuSu7g0CTw4IcuOkO9/Igyv4iHftljJ1EHGrTWq4JKxjKaycE4awYxOLRxzqUNE67qCra57chYMVAM0xOHr3pwQj95RbzcBmnfkGzQNuel008TfpG7qCtbDKYkmLvMeHwj92AC5a8MJQZdD5aOUAW032Djdx/Nah/gmvsI/rYCFpziRa2a1Sik4xp1TWVooY5FYyY6YHiCmFzX8OoQK7wOBnDV4rscJP/+f8jUuOFBDDQevhadOg3MFpRlYBlrYI1uHyNaHMxK3FSGXU301ldup4NCCkA+TwWKqP06NHwiZT+2PU+ecPG+rXeNyEllNIleTzu2ks5g6nybOp3JByA0h13sFe37c6Vzs7Bfxl892g8uO/VnxKQV4SgWeE4QVmlyxF8k3fRwGZJoVYFjBnBKpwAQUswWlBShMSZ06fhwH+HGcXy5PbjAk9QCYIdSwjhnAm3DCv3WqeCpZChajLJgSFjiYFJyWhvIjTgeIE65JP+P+9+ql0Gm1fB/Xxlc4+/IHPVKhxA==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e959244207a2a5a730c14fa9664aff4e",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. VPM (neu) \n\nVPM Ventilkontrolle mit\n\nHilfsventilen\n\n.\n\n• Entlüftung in dem Brennerraum\n\nBrennerraum",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "orig_elements": "eJztll9r1TAYxr9K6ZWC20mTNmm82x9BwcnAbTfbKOmbN2fRNi1JKs6x725y3HCIE4aX51yUpsn7Pn368CPp5V2JA47oYmd1+bYoay0lBa2pqdMlpKwbjr1soKZMS1GXb4pyxKi0iirV35V50IVp8YCPz9iBx3TbCFairgkRkpF9kps36+OkrbH/KJj9BBjC74pK1lyy/TRqCJG5bkY/2hDs5EL34ObyrkzK2QdjlNT316nMI0xed8MEKk5+Y3FW8Sbrrs4D+rDyFkB5nRpD9CrasDq9hRvlx1M/fUGIYaUXtw7dPMFKT7DktMLe5HBFOatr1l2kCTvMfrlaCCOtCbch4tgdf/541F2cnuxdHHWUke5gCVEtAW66w5OD7nh/1qa8v08WjR3QqTH7Lv9f8kEw3s4bQTXPg03fnnJaPSwPyq0XtcaQIyvRrcsc1JxmOreMPeaUZDYW8XvMGumNxSuHy+sitz8qfxhTR5nq/mTI9FxAJSrBBKPSMMVpi6Kpe011r3qzY2hLGfrl6Ovkop+GAYvRxqdAfVI+Z/cNz3LPX8ASjVFt01aUAhrZE1o1oqdSIe8lJ43egbWFYL23gwnfNpbQvQinlkI65biGBqCpJEVsdcVZI0hLlDS7s24bcdp/itC5S2q4nrz9gfo5jLgBYgRIbnqC2CvFmOpBtQywRmjkDqMtxOhqoYTS4p2LQ/JDDJiYEimsKzSOxaFH5zBtT8v4oh2Lt6CpULxVrRBSIGcSCVS8r7SpgPAdaluI2jMwndk4pN/z65/YwHM4",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "5f14556fdf98e530bd64dbc67f016032",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Brennerraum e VPM m m e Anschluß l K f u a → PE PE → 13 PS / NO → L1 → 12 Reset / IN (von L1) → 17 Störung OUT 230 VAC → 16 Störung IN (von L1) → 4 Prüfanforderung L1 → L1 → 8 V2 / 230 VAC → 14 PS / NC → 6 V3 / 230 VAC → 11 Freigabe / 230 VAC → 3 N",
+    "metadata": {
+      "text_as_html": "<table><tr><td>_</td><td/><td>Brennerraum</td></tr><tr><td/><td/><td>eset /IN (von L1</td></tr><tr><td/><td>7</td><td>Stérung OUT 230 VAC</td></tr><tr><td/><td/><td>-</td></tr><tr><td>L</td><td>IIII</td><td>PS/NC ]</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylU2tr2zAU/SsXf9pgreTH/BilkKYblLVpWNp8aYtQpOvEwy8keSyU/PdJjuv0Rb/MGOvo3nOPr46ku0cPS6ywNqyQ3jfwwjQOMYjyLE1jmuZJJiI/z2lCKfLEF7n3BbwKDZfccMt/9BxguumUwKc5MqHQDr2gn0QRpUkW0mPqivt81cgiLz4gtKoRqPWB4WdRnIXHFn2lNHO8FlVVaF00tWZDN3ePnlV2fYRhQKPdg6UpFI2SrGwEN43qW2y52ThdcqtRaaIKIbiStlAbxU2hyXwrNlxVc9X8RmE0kV291qxtBJGN6Jxb+qipkQRxGEUhW9pAUbaqu+9oaE3TW22wYueLyylbzq+OllMWhJRNOm14p8WGnV1N2PlxK3Nvt7Mt5kWJNa9c397/Sw6CZtv2grxty8Ku3fpEhnTJ63XH16idZR7Wa88Z1doIq7tqhc6lrI+ow8GIUyGDhMcpT5MkSzAOM6TCj1e+zH1BYyds8K9hXLONqUpXc2L4qsTTE7NBLu2gHDxlJ8R+HRrBmf1RjUrxrtrHiOOSp7pVI7dDuXRh+RKgRgPkYgaf/jQ1XPr7RC/xuiYZ0cJYaylmyu4tXN/egPUTlpPpB8UjOHpLuhyTF/YZJ/MFmU3h4RmfDKshe2+83eCb8+uZDYBg9xkqcGhS2y0u3VmgMocSfkIOHXC47wI/C2D+3b3DxA9hvgACs+unyKU/5gL4tTcLDm59HrMJ7E3J49emjJT4JeUdlQjmqmeInNe5vXrYMw9NHFAKy8C28vof0bCAMRLDMnyH58MPhcWar/BtMoRZfyCHS3DjvPZ2D/8A3MJ+lA==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "7b5250ec639fbba90f8ccc7a6be5ad48",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Multifunktionsausgang OUT 20 230 VAC Multifunktionsausgang IN 19 230 VAC 18 frei 15 frei 9 frei 8 frei 7 frei 5 frei 2 L1 / Dauer 1 L1 / Dauer",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>l</td></tr><tr><td>I</td><td/></tr><tr><td/><td>e</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylUsGO2yAU/BXEuRvAduxQRSulyWWlTRupu7lsVwjDc+LWNhZgqVGUfy84bnalVr30gB+8GYZhzMsZQwMtdF7UGn9EmOdMz5XWrOSl0nJRJJVUUlOueZLTdI4/INyCl1p6GfhnHCfCmcEq+L0GoSyEMgqyIssoLXhKZzRuHvHW6Lqq/0HorVHg3BuD8Szn6SzM5pTyyOvBtrVztemcmNy8nHFQjj7SNKHZ5TXQLChjtWiMkt7Y0WIv/THqkmcH1hFbKyWtDhudt9LXjuxO6ihtu7PmOyjviB66gxO9UUQbNcS03J3pgCR5mmWp2IdG3fR2+DbQlC4qd3IeWrH5+rgW+932br8WSUrFanBeDk4dxaftSmxmva7w5RIsVnUDnWyjb/z/kpOgP/WjoOz7pg53DzmRCW5kdxjkAVyMDEN3wDGoPnREN7QlxJT42LFvDyNfKJ0UMl+EN1HwAvKUA1UsL5mumKJ5FPbw0wvpxNG3Tdyz9LJs4H7pS6NPodgw9P2SxE8YzXVGxv4Ve7iBf2I3CN5hZNIm16PwZbIRj98Oja+rofsRL+9CTodwcfTl+QklFIX40H61Rn8nPXxGjN84bIEqCzVi82vl1zJ1i2uZsAQ9MkTQRg5gEXu3GAOafspTNIsvr78AeXQa6A==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "a51d38fad8bc0ab6f0a00106efc587af",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. 3 4 4 3 6 2 . r N • 3 1 . 5 0 n o i t i d E • M\n\n9 … 14\n\nUmverdrahtung DSLC  VPM-VC \n\nDSLC (alt) \n\nDSLC Ventilkontrolle mit\n\nHilfsventil\n\n.\n\n• Entlüftung in dem Brennerraum\n\nPrüfabschnitt \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\n3 4 4 3 6 2 . r N • 3 1 . 5 0 n o i t i d E • M\n\nElektrischer Anschluß DSLC \n\nPp  V4  D S L C ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "orig_elements": "eJztmFtr5DYUx7+K8FMLmxnJ1rVv2U2ghU0IbJOX3cXocjTjrm/Idto05Lv3eCZhQ0lLQqEvNsMgWTo6/kv6cXSsz/cZ1NBAO5ZVyH4iGQvOeU6jtTYYIWlwUlsreM6iZkB19o5kDYw22NGi/X02V8qhm5KHp2cofQIsjg4V55QqU9ANnQcf+psuVLH6F4M+dR6G4bsFM1yaYoM1QamZ7XpITTUMVdcO5aOaz/cZep51FEVO+cNXNEvguxTKuvN27NJBYm/H/ex3ez1AGrap8t6mgAOHMdmxGrZXd35vU3OVut/Aj8M2TO1uKPvOb0Pnp3m1hpOuhW0uC86L8gYbqrpP05eJFlTH4W4YoSnPPn38UN5cXZzcfCjzgpan0zDaafD78v3FaXm26UPMHh5QYqxqaG0z687+u8tHh+Ndf3Bo+76ucO64TtvH7tq2u8nuYJiXLIN2l80L1WNL2U6Ng3mVzKElfQdDah9yZZEGrZRRIAsD1DPpWIjMU5nNMxnhj3E2LgjHX0EkycmGJHJJvkw5zXNsYtggCCUt6UhFRvwHcv7UfTHLe1J+adO8Hbfw6+wV3f+dVWltzKMWoKWMMkJeCM6CioprA9a4ldWFsPocPXNkSRLGn8N0hSMujwNeIMkxL5zQ3AjBlA0uSOsjaOuMC5YqWElaBkmMPkfpurmFFJLdj7gSZFZByFEGeY7WLw36eIkq63F7oxOeY1xiSkVnNZ6jJhZMUGn5StUSqTpw9IOtxx9fR5HWuojMeWqU0dGYQjJngQHPI48S1oxsuRQdNX3r2jF1dQ2kqcY3JVDWY9LlihgKIUJhHBVW5JxaBjFo5+KK1hLR+rmq43B70PQmmnAbuNaQG5EzKjFKRZYLE4yWKhph1ErTEmnaPGfoukV3sOtS9SeEf+KIRho5y0MMXFpJkakoBe6hLqgqHF8PvEVy9HhDcN6ONQqi0cdDVl61JEBD3idoW8AANTVvilkaYowyhhBBSSoMyNwYaQyAZq6gcmVtiaxdpUfErMOXtdU4vvKDT2onLbNMBSVAc2BCYirFKBN5nus1n1okTZcVNLYeyGlyUI2AAQv3e39C4hGyPYaud+R3jF/kU2/bdo5qtq0r2I0bMpsEGSPOCIXsgdx06YSg5lTF2ZUD6/dY2bwp6lEdXDBBB81ZYJrnYJxwEktmovJrprZITv+fS3svcNcYc/hRQLWyEmOsikoijwq4A7+yt0T2zmv4NqYKXwSJnLZY1tMh9sXjveurjl9Pcy1MpBjK8iBAClngGQyOicJEqdZkbpFoXfWE3HBCzsgn8pG8iNLXvwCHJtl/",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "52b78ff50e966e3171fa92c952a83a6f",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. DSLC e m m Anschluß e l K n o v PE PE PS / NO 1 PS / COM 2 frei 3 Reset / IN 4 Störanzeige 230 VAC 5 Prüfanforderung L1 6 Reset / OUT 7 frei 8 V4 / 230 VAC 9 frei 10 PS / NC 11 frei 12 frei 13 V1 / 230 VAC 14 Freigabe / 230 VAC 15 N 16 Nur VPM-VC Umver- drahtung nach",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>SR</td><td>Umver- drahtung nach</td></tr><tr><td>PS/NO</td><td>IR</td><td/></tr><tr><td/><td>I</td><td/></tr><tr><td/><td>IS</td><td/></tr><tr><td/><td>S</td><td/></tr><tr><td>Reset/OUT frei</td><td/><td/></tr><tr><td>V4 /230 VAC</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td/><td>[E</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylU+9r2zAQ/VcOf14rK3acZJRClnZQ1iahafOlK0KRzrGHLRtJLstK/vdJtpuWEUpg+Nf53bvH6en09BpggSUqy3IZfIUglnQ0FhvJB2MZSUSZiDRJNtHIxeNoiMEXCEq0XHLLHf818AEzVaMFvv0jExrdpxWkozgOw9EkCs9DX9zmy0rmaf4JodaVQGPeGXQSJ5Po3EXDMJx4Xo26zI3JK2VY383Ta+CUfR9RNAjj/bOjaRSVlqyoBLeVblusuc28Lnk0qA3RuRBcS1dorOY2N2S5ExnX5VJXv1BYQ2SjtobVlSCyEo13y5xVCskgieI4YmsH5EWtm59NGIXj1OyMxZJdrW5nbL28O1vP2CAK2bQxljdGZOzb3ZRdndcyDfZ712KaF6h46fsO/l+yF7S7uhXkdV3kbu3OJ9KnC662Dd+i8ZYFqLaBN6p2CFNNuUHvEg0dZPG3ZdywzJaF17qwfFPg5YXNkEv30T68vCD+5Z7V/SF8LF9Qn4HUPLPOPFBcZF2S+CryprCp5K4XkpfLFZkvXE62fzf3h7AL2sqe+s46ibQ6hfUZ6R4NWrJ4fIBUY/4P8WjFOgbitgjW09kp9FNlD6mn62Ms0jtKup0K9v0u+t3zwwMIpbumys1M4YcrlKnDCvgBCip4geV1e6+AwHwBtItmizsYtCuHCForHHgzhxhW1mukiebqD+ZbhH7JMISlblMi5Sp1JxC1n4NbCslBwds56mTH4P06VE86lIZ9JzOgtIf6PmgEa/qhgsbw3eFbvsGP6BDmQBOYNxq6YwPHJtMfirfz8uCNC/bPfwH3VZZT",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1527c11330fb3ee1a778c0c9c04294be",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Neu nur VPM\n\n10 … 14\n\nUmverdrahtung DSLC  VPM-VC \n\nVPM (neu) \n\nVPM Ventilkontrolle mit",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "orig_elements": "eJztks1q3DAUhV/FeNVCE0uWLMvdpcmm0ISBptkkQcjS1Yxb2zL6CQ1h3r3SJKFDCaXQ5czGlqVzj44P3+1TCSNMMAcx6PJjUdZ9D9jQlmjgmqsOGw4MDDUArCeKlx+KcoIgtQwy6Z/KvBDeRqfg9RuEcpBeO0PcUopQ2xF0ivLw7nyyejDDXwSLswq8/63AHWUdOU2rBqEu6xZw0+D9YGcvXtLcPpXJOecgpEZ0e59kDpR1WoxWyWDdLuIiwyb7Vt88OF+5QSnpdBr0wckw+Gr1qDbSTStnv4MKvtJxXnuxWFVpq2Juy5/YGaqaEUqJuEkbw7i4eBcRQdz4Rx9gEhdfv5yLm9Xlyc25qAkSZ9EHGb3aiE+XZ+LidNGm3G5TRDOMMMsJdv3/t+WLYXhcdoZyWcYh/XvqqXo5HuW8jnINPldWwrwuc1FL2hFznHrILWGUkwX4GbLJFcRijq5IV2eDV+/rIYxQJuGfFDUdoJqphhMlecu7zvQJJoIa4J1GLRwpOkSKMCruYp3AKDDdx2iVZq6eR95gSQEkfijlmPGWMt4YxjStTcMpZajvjywdCEt4n6Vv0wM47eQmpCaKnKIonmMU+2h9npLHW1Rpjeq2kRowM9hITtMDo65XmkJNW3Ok6hCpSlcW72aI7/8NItkpaCVtleqgVVIqhijp08qwpm5rfIToUCF6jvTDzsHZcYRiGsI+UVfS5fIe4DrPbO9/AaJ9rC8=",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "e14f52852c4f5a452f63a0cfc4b01e4b",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. • Hilfsventil • Entlüftung in dem Brennerraum e VPM m m e Anschluß l K f u a → PE PE → 13 PS / NO → L1 → 12 Reset / IN (von L1) → 17 Störung OUT 230 VAC → 16 Störung IN (von L1) → 4 Prüfanforderung L1 → L1 → 8 V4 / 230 VAC → 14 PS / NC → 6 V1 / 230 VAC → 11 Freigabe / 230 VAC → 3 N",
+    "metadata": {
+      "text_as_html": "<table><tr><td>_</td><td>. .</td><td>Hilfsventil Entliftung in dem Brennerraum</td></tr><tr><td>-</td><td>[a]]rmeme</td><td/></tr><tr><td/><td>[</td><td/></tr><tr><td/><td>7 [o][s[s]</td><td>Stérung OUT 230 VAC</td></tr><tr><td/><td>[</td><td/></tr><tr><td/><td>[o]</td><td/></tr><tr><td>L</td><td>| []</td><td>S/NC</td></tr><tr><td/><td>ozlal</td><td>V1/230 VAC viizow |</td></tr><tr><td>-</td><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVGtP2zAU/StX+bRJa+M86GNCSAU2bRqUakC/lMpynZvWUxJHtsNWoP99dpqmvIYmIVXN9b3Hx8fn3mR272GGORaGisT7DF5/cZAyQkJOBj0MF+FiyHgUJAf9NMTegBPvE3g5GpYwwyz+3nMB1bJSHHdrpFyhfdSEQT+OCekPI9KtN9f1XCYiFW8ASiU5ar1HBMO4N4y6NjogZOhwJapcaC1koWmjZnbvWWanI4pCEm/mFqaQS5XQTHJmpKollsysHK9/rVFpXwnOmUrsRm0UM0L7kzVfMZVPlPyF3Gg/qYqlpqXkfiJ55dzSHVmgH/aiOI7o1CZEVqrqpiIRGaR6rQ3m9PTy7IROJ+ed6QkNI0JHlTas0nxFj89H9LRbJqm32ViJqciwYLnT7b2fsiE067ImZGWZCXt365PflDNWLCu2RO0s87BYes6o0mZoUeULdC4FgU0Z/GMo03Rl8sxxHRq2yPDo0KyQJfahXHhED33776IudNv4m8hSfVtfA74UJhOpsS6CKCDBHI4VFgUqxap8u8N3ZP6OeCGTdcOfHHVsPqmjGZvPVW7Htc1sg3pzg96D/wfUh5mcz/RMz9vUpbGeExwqJ/fi+gqs0TAdnbz3KHvQG7CztvYAs0di/PFbB8u7jGXtahr4jVa4FeJO/oaHl3s7z0Q8VeM31vvbTnubZgpc92+qkIQhPG5sk3L9daal/F9NBgQ7tpCDi0aFndjMjTZJUsjgB6RQAXNswTCEyRf3axZBBJNL8GF8scucBW0thJ+o0djy9zF8uJWFLX5sq33YtjLtPW9lC+k9hbzCEsNENVdjRWq/JFgj9yL20QCmsZXy/Iy4uUCb6cE0eAUXwFeFYskW+LIYwdi9uLt3+so1x9vM/wJbk8Zi",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "79ff5ee17f11ca31877979997a398b56",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Multifunktionsausgang OUT 20 230 VAC Multifunktionsausgang IN 19 230 VAC 18 frei 15 frei 9 frei 8 frei 7 frei 5 frei 2 L1 / Dauer 1 L1 / Dauer",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>l</td></tr><tr><td>I</td><td/></tr><tr><td/><td>e</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylUE2P2yAU/CuIczdg43y4ilZKk8tKmzZSd3PZrhCB54TWNhYfUqMo/71ge9OVWvXSAzx4Mwzz5uWCoYYGWs+1wh8RLmZ0CrNyzqBaVIzNWD6bTg8AucqzQqoSf0C4AS+U8CLyLzgduDPBSni7A5cWYukFs3lRUDovGZ3Q9LjHG6N0pf9B6KyR4NxvRlYWs5JN4mlKae+iA9to57RpHR/dvFxwVE4+GMtpcX2NNAvSWMVrI4U3trfYCX9KuuTZgXXEaimFVfGh81Z47cjuLE/CNjtrvoP0jqjQHh3vjCTKyJDScnemBZLPWFEwvo8NXXc2fAuU0UXlzs5DwzdfH9d8v9ve7dc8Z5SvgvMiOHnin7Yrvpl0qsLXa7RY6Rpa0STf+P8lR0F/7npB0XW1jrPHnMgI16I9BnEElyLD0B5xCqqLHd6G5gAppSyLLQ8/PReOn3xTJ62lF4ca7pf+YNQ5FhuXul+StMVVDyfS9wfs4Qb+id0geIeRUZsMX+HraCN9vw2111Vof6RhXJz7GAdBX56fUE5RjAPtV2v0d9LDZ5SVN062QJUFjbLpUMuhjN35UEYsR48ZImgjAliUvbukJN9Cfkpm8fX1F8qnDKw=",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1ac47ad384536df1cc00aa4ee5e0a6ac",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. V4  VPM VC  Pp  V1  V2  GW 1 \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nElektrischer Anschluß VPM-VC \n\nFA     T  I  T  L  L  U  U  A  M  F  n     M  i        O  M     K  1  C  O  O  V     C        T        I  L  T  U  L  A  U  F  M  T  O  O  C  C  E  S  N  N  N  N  E  R        E  T  O  M  GW1  E  R  Pp1  Pp1  Pp2  V2  V1  V4  TR  L1  N  N \n\nDIP-Schalterbelegung \n\n1  X X  X X  X X  X X  X  X  X  X  0  A  B  C ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "orig_elements": "eJztVm1v2zYQ/isHfa5tUqQla99cJy2CxZnRON6ArhAo6mir0xtIaW0Q5L/vyNhrsRVDgH206TN1Oh4fnY4Pqfv4FGGNDbZDXpXRTxBlhWCCc4NJVuLCGKEWJiswxVhiqVIRvYGowUGValDk/xR5JXfdaDWe7jHXFukSAHkqJWNpJtiU+clhvOnKylT/4dDbTqNz3zx4JpNMTEmbM5Z5vx5tUzlXda3Lj9F8fIoI2cchRMzk8ydys6g7W+Z1p9XQ2RBir4aDx509OLRuZiutlS1pohusGio32zzqg7LNxnafUQ9uVo7t3uV9p2dlp0efLTfpWpzFiZBS5DsyVHVvx99HJtjCuEc3YJNf3d+u8t1mPdmt8liwfDm6QY1OH/K362V+Ne1LEz0/U4imqrFVjY87+v+QR8DhsQ+Aqu/rit6d8jQ7Dteq3Y9qj86nLMJ2H/lE9WTJ27Ep0GeJcx/ZgF8HD7KTAPRY2K0ANj3pnP4xwPtfgYOHPD3tpiGUiKb+k1eMi0TN50wWskAzR6WLkhUZp7UtYpElF16dI6/uKmxU7WBpC6wGbKGk9T5MwFB4zOiDxfYNfMG2hftetS2lC1RbV7gfpuBdysQYeiMK5ICw6+wEKGZbGQ9VEMcOpEy/5+edsn4p/sStj+AHPOU6SWVZlKpQqUItM80MX8g510rLRSIvPD1Hnl7X+MdgK3oQWli2dK3HwD8DL9G87hBMeCZEqgoe60QIlS4KmWAiUylQL/hcXch1juR6twTftgA3ob8N8hCEhtYA7wDa4EN6Bcf2S7il9jPQRxhWwUKyC8bVyW17Um4C7DbA3gbkh4C8DsaXuasg1wD3AHffCVk+nHCuT/5r//3np8FNz//u4pfqIFQJVDlsafiWH7FetVGkWEgj5nORCVkkqRIyVZKK0LmJk7hQi8tGOceNcnWzmdxTTuoBqV6oce/rgVfxKY1To+M4LRNJ9ClinZKSZbwUTNP5yy58Okc+0ZH0G/3+3X0TFg7Kt/5Y/AHRPv0Feay0Wg==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "9c8293690488718e02b0c8df26321b0b",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. 3 4 4 3 6 2 . r N • 3 1 . 5 0 n o i t i d E • M\n\n11 … 14\n\nUmverdrahtung DSLC  VPM-VC \n\nDSLC (alt) \n\nDSLC Ventilkontrolle\n\n• Entlüftung in dem Brennerraum\n\nPrüfabschnitt \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\n3 4 4 3 6 2 . r N • 3 1 . 5 0 n o i t i d E • M\n\nElektrischer Anschluß DSLC \n\nPp  D S L C ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "orig_elements": "eJztmEtrJDcQx7+KmFMC6xm91crNu/YhsDYDzvqyuzR6lDyd7Rdq9SbG7HdP9YxNTDDBJpDLDM3QGqlU+nf1jyqpPz+soIUO+lI3cfULWSkpuKU0VcHFIBMPPApvlbPaGOFFWL0jqw6Ki644tH9YLY16GuYc4Ok/1CED3vYOmZGSUmMFXdNl8n68G2KTmn8xGPMQYJr+tmBWaivW2FKU2sVuhNw109QM/VQ/qvn8sELPiw4hOJU/vqJZhjDkWLdDcGXIe4mjK7vF7+bTBHna5CYElyNOnEp2pZk22/uwc7nb5uF3CGXaxLm/m+pxCJs4hHmJ1nQ29LDhWkgp6lvsaNoxz19mKmiVpvupQFdf3Hz8UN9ur85uP9Rc0Pp8noqbp7Cr31+d1xfrMabVjx8oMTUt9K5bdK/+u8tHh+V+3Dt049g2+OwYp83jcOv6u9ndwbSEbAX93WoJ1Ig9dT93HpYoMbYoK/BnWZwIIvESRBNO1iSTa/Jl5pRz7GLYoQglPRlIQwr+Irl8Gr5alntScu3yEt7v8NviFd3/kz3Q3nvkjSmjFE1gnfJVZZ31wdPIT+wdJXuMHWjShMnnOG1xzvVhygssUWOkFxQE9VXi3DPHjUjCxMSTjMqdWDoSlvhzlj513yHH7HYFI0EWFYQcZJDnaP3aoY+XqPJBM6ukdCJy48Fbz3RQUTqTBPeSnag6Rqr2HP3k2vLz6yjCJITASFPZZKsUjXWBSY41LnilgdITRUdL0UHTt6EveWhbeNP2STghElVKBWZSlRyTXgsjkxNeapmqE1bHiNXjTvyyLy0Koimkfe1rehKhI+8z9D0gWHP3tq26SyaCVBCDUbxikUkqglTKaF1Fq06sHSNr2/yImPO4WN+U8rqCmGgyKgFP1mrMXtrgrt0bVkEVtUXITjQdI03XDXSunch59tAUwISF73t3RtIBsh2mrnfkD8xf5GZ0fb9kNde3DdyVNVlMok4JnwiF7IDcDvmMoObcpMWVBxd22Fi/rcIqGbly3mrKLIuysjE4lqxihlGg8sTpMXL6/3wci9o5BYk5n4AyPIAmDYJqR6WrjIPToeEo2bts4VvJDS4EmZz3eG/nfe5Lh68bryq/ksnIlMWDAgheVXiGqDS+WhV4NByvE1rHiNZ2JOSC3JCP5EWMvv4FDEFSqA==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d41ae0ada85312f4be1adae6d4eafdac",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. DSLC e m m Anschluß e l K n o v PE PE PS / NO 1 PS / COM 2 frei 3 Reset / IN 4 Störanzeige 230 VAC 5 Prüfanforderung L1 6 Reset / OUT 7 Versorgung V2 / 230 V 8 V2 / 230 VAC 9 frei 10 PS / NC 11 frei 12 Versorgung V1 / 230 VAC 13 V1 / 230 VAC 14 Freigabe / 230 VAC 15 N 16 Nur VPM-VC Umver- drahtung nach",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>sslzal]=lelalal ]em</td><td>Umver- drahtung nach</td></tr><tr><td>Reset/OUT Versorgung V2 /230 V</td><td/><td>I</td></tr><tr><td>V2/230 VAC</td><td/><td/></tr><tr><td>Versorgung V1 /230 VAC</td><td/><td/></tr><tr><td>ur VPM-VC</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylU21r2zAQ/iuHPq+V35Imow1k6QZlbRrWNl/aIGT57HjIlpHksbTkv0+y3Sx0ZTCGX3S6e+7x3XPy4wtBiRXWlpUZ+QhklAajNOITHIlJOh5PIp5gMOGTOM1HPBUR+QCkQsszbrnDvxBvMKNaLfB1j0xodEtHGJ4lSRCcTePgNPDJXbxSWZmXfwE0Wgk05jcinCbjaXzqrFEQTD2uQV2VxpSqNmyo5vGFOGZfRxxHQbLfOJhGoXTGpBLcKt2V2HC79bz0waA2VJdCcJ25RGM1t6Whq53Ycl2ttPqOwhqatXVhWKMEzZRovVrmRNVIo3GcJDFbO0cpG90+tUEcTHKzMxYrdnl3vWDr1c3JesGiOGDz1ljeGrFln27m7PK0yXKy37sS81JizStfN/l/yoHQ7pqOkDeNLF3vTic6hCWvi5YXaLxkBOuCeKEa52F1W6XoVQoj57L40zJu2NZW0nOdW55KnJ3bLfLMLdqbs3PqX+4xRj5zubmQKLm7YIPVIfZQ/UB9ApnmW+vUhJqLbR+knoa+UqYq2w3M2ewbGrT09uEe1m5QShc+cx0Bdb3D2iVlHexgXPVWxzhQrKMePF/8CX8HffSZEP4hE4SSpuH1xROJn8is1dBP6QhIh95oLyLZDwJ7Yf1cAaFy17x245R+7kGWO5+Er1CDgh+w+tzdd0BheQthby1ubyCCXGMJMXR6OefVEhK4s54jH2teP2NZIAzdwAhWuguJnNe5+zlQ+4avQxgfGLzmZ29V7xlgcrRxdNP+62EwlLaAMBxcEbwR9JAUxm/2CXxxKQVP8dg7giWEY1ge9IT3zpE/06/H/d6LS/abX1xfgBo=",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d8a8f48f9ba8a5a17e0aed489cd3cc81",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Neu nur VPM\n\n12 … 14\n\nUmverdrahtung DSLC  VPM-VC \n\nVPM (neu) ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "orig_elements": "eJztkktrGzEUhf/KMKsWmoxeI810lyabQhMMbbxJgtBId+wp80KPUmP83ys5DjHFdNOlvRqNdO7R0eF72ubQwwCjl53JP2c5J7wkhihVK0YIq3jTaKiMIYIiJTjLP2X5AF4Z5VXUb/O0kG4KVsPbP0htIX72hlgwhpCoKbpGaXh/Pkyma7t/CGY7aXDuXYFrxmt6HVclQnXSzWCHzrluGp08pHna5tE55aCUILZ7iTILerJG9pNWfrL7iLPy6+RbPDqwrrCd1sqaOOi8Vb5zxWKj18oOCzv9BO1dYcK4cnKedGEmHVJb7moaoSCcMkblMm50/WzDc0AUVa3bOA+DvPv+7VYuF/dXy1tJKJI3wXkVnF7LL/c38u56Nm2+28WIbdfDqIaUO/9/y4Oh38x7QzXPfRffHnsqDse9GldBrcClynIYV3kqao47cgxDA6klTFIyD799MnmAkI3BZvHqZPDm/aPzPeRR+DdFJeZYCdIawziQmquSKFOJuKcNKuvmQtE5UoRJ9hwIIjzD7BijRZx5eB05wVIlVENKiluBG9xwLtpGGCZMxYAKqqsLS2fCEj1m6XH4BdZYtfaxiSylyLLXGNkxWl+H6HGKqhbXLaKV4aIkJaMlJ5pQoISVDcLC1BeqzpGqeGX2YYTw8RREL38A0qvn6w==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "51f00378daa8b2cb0d5176edb5d6e068",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. DSLC Ventilkontrolle • Entlüftung in dem Brennerraum e VPM m m e Anschluß l K f u a → PE PE → 13 PS / NO → L1 → 12 Reset / IN (von L1) → 17 Störung OUT 230 VAC 16 Störung IN (von L1) → 4 Prüfanforderung L1 → L1 → 9 Versorgung V2 / 230 VAC → 8 V2 / 230 VAC → 14 PS / NC → 7 Versorgung V1 / 230 VAC → 6 V1 / 230 VAC → 11 Freigabe / 230 VAC → 3 N",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>.</td><td>DSLC Ventilkontrolle Entliftung in dem Brennerraum</td></tr><tr><td>VPM</td></tr><tr><td/><td/><td>PS/NO</td></tr><tr><td>E</td><td/><td>o[ ]</td></tr><tr><td/><td/><td>riifanforderung L1</td></tr><tr><td/><td/><td>L1</td></tr><tr><td/><td/><td>Versorgung V2 / 230 VAC</td></tr><tr><td>V2/230 VAC</td></tr><tr><td/><td/><td>S/NC</td></tr><tr><td/><td/><td>Versorang vt /200 Versorgung V1 /230 VAC</td></tr><tr><td/><td/><td>N</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVGtv2jAU/StX+bRJK3kOyNRVoo9J01qKRsuXUlnGvoFsiR3ZTjVU8d9nh0Af0I1pEiE39557fHx9krtHDwssURiSc+8TeCmd9ZIk6PdpwMMojinPWB97/SRNZrOQo/cBvBIN5dRQi3/0XEC0rBXDzTMSptDeGsLQ0QW9NA46gWtu6qXkeZb/AVApyVDrJ0SYJt007tjoYxCkDlehKnOtcyk0adXcPXqW2emI4yhIVvcWppBJxUkhGTVSNRIrahaO17/VqLSvcsao4rZRG0VNrv3Rki2oKkdK/kBmtM9rMdekksznktVuWvpICvSjbpwkMZnYRF5Uqp7WQRz0M73UBktyPr48I5PR1dHkjERxQAa1NrTWbEFOrwbkvFPxzFutrMQsL1DQ0un2/p+yJTTLqiGkVVXkdu92Tn5bLqiY13SO2o3MQzH33KAqmyGiLmfophTGNmXwlyFUk4UpC8d1bOiswJNjM5N8aW/KXvzk2Hd/9upsI6cT1nv4KYVRsigQLoQp8szYWUIugGMJpwqFQKVoXa5b/YayoQUmC11R8XnqxVPvxG56B/K08jYYjf3h9S7wYhcp7+D+EEaV5xkVmfUQKif9Mjyk6zDUxNpPqrmjnUTggz1SmAzO/jqLyH8LuWcRO5GDcGsx1hrwYMCPArvAM3kh/Muaw2cgv3WLvzaPt2qN5Qy11yfTOgqiqLGLdX+Qsbc8AwjWFlCCiwbCvgaFe18CnkEB3yCDGqhjC9MIRhfu1z6EMYzGdt7D603mMtzWIviOGu0I4OsQ3j1IYYvvt9UejE2jqtu44fr2ZnNqEHZf1va0JzBS7Z5eempXRwpvuGMD6O/Nhkm7tW2m9/ocX7d092bDEL4ozOd0hrvFGIbuQ7L5xty4k/VW978Bw/HxJw==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d3c3ccf4a29e54ec29ca464dc8a8efea",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Niemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nVPM VC  Pp  V1  V2  GW 1 \n\nElektrischer Anschluß VPM-VC \n\nFA     T  I  T  L  L  U  U  A  M  F  n  n     M  i  i           O  M        K  1  2  C  O  O  V  V     C        T        I  L  T  U  L  A  U  F  M  T  O  O  C  C  E  S  N  N  N  N  E  R        E  T  O  M  GW1  E  R  Pp1  Pp1  Pp2  V1  V2  TR  L1  N \n\nDIP-Schalterbelegung ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "orig_elements": "eJztVttu4zYQ/ZWBntc2L7r2zXWyRdA4NZrEfdguBJoc2molSiCpdoMg/16SiXcXxaJYoI8JMZKo4fDM0eiQ4IfHDHsc0Pi2U9kPkAnEQkhyqKmgjKHSRCqZVwVvSsWQsewdZAN6oYQXIf4xi53WjbOVeH7HVloMjwRIqzwnpGo4WZI4OY0Po+p09x8Bkx0lOvclgjZ52fBl6BWENDFuQjt0znWjce0Lmw+PWUCOPDhnJH/6GMIsytGqth+l8KNNFCfhTxF3de/QupXtpBRWhYnOW+E7t9o9yJOww86Of6D0bqVmc3TtNMqVGuUcq+UWo8EVK3me83YfHF0/2fn3mXBSa/fgPA7txe31pt3vtov9pmWctOvZeTE7eWp/3K7bi+WkdPb0FCjqrkcjhsg7+/+QL4D+YUqAYpr6Lnx7qNPqZbgX5jiLI7pYsgzNMYuFmoKnNfNwwFglyiMzj598BLnpcBC9g7U9YOfRgAr/+7QAHegRLU8WzTv4G42B20kYE8oFwvQdHv0SYogqtQ5fFIicEPajXUDgbDsdoQ4o5Cl0lpHamfWNsPFX/IV3kUGg8m+dkobJqixY3aBSeCh4QVjOeS5qjihQvOn0Neo0pIT9BmA3AexpuBjAT78Bha+1dTUEhG9pqqalUoU8iFrnFVO1FHmhdMGpLCkn2Lxp6jVq6rLHP73tQiK0sDbh2c9pT9PwzOY7xYV5zUqlRV5Vea2JoDmty6bShNa0YsWbuF6juN6vIbY7gKt0v052nywMbQHeA5hkkF67ZJ/bL8n53H6GsNFB2PE2yR9snwySB86JnttVSnSXEl2nXPcp1zY5n6dvkl0C3ALcfGXB8+sZ5/Icv407LT0P7ib6+ca+7MV3YeiaRpDvWjOFloUsG1YdCkFpEw6ltSjLokHNSl0jf1szr3HNXFztFrehJr3HcBzt8RiPm9/Q08d/ALwZ948=",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "776481f9122aaa78cf5d3f49743fd51d",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. Multifunktionsausgang OUT 20 230 VAC Multifunktionsausgang IN 19 230 VAC 18 frei 15 frei 10 frei 5 frei 2 L1 / Dauer 1 L1 / Dauer",
+    "metadata": {
+      "text_as_html": "<table><tr><td>20</td><td>Multifunktionsausgang OUT 230 VAC</td></tr><tr><td>19</td><td>Multifunktionsausgang IN 230 VAC</td></tr><tr><td>18</td><td>frei</td></tr><tr><td/><td>L1/ Dauer</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylkU2P2jAQhv+K5XMX2/lgSYWQKFwqQYvUXS7bleXYE0ibxJE/pCLEf68NgUVqu5eeZux55/Uz45cjhgZa6ByvFf6IcJ5JyOVEJHTC8gQSWU7GLC1zVrJEJVmOPyDcghNKOBH0RxwTbrU3Eq5n4NJACGdD9phllD4WKR3R2Hyut1rVVf2OoDdagrVvClZk4yIdhSyntIi6HkxbW1vrzvKB5uWIg3PkSNOEZqfXIDMgtVG80VI4bc6IvXD76EueLRhLTC2lMCo0WmeEqy3ZHORemHZj9A+QzhLlu53lvZZEaenjtuyD7oAk4zTLUr4NF3XTG//d05ROKnuwDlq+/LZa8O1m/bBd8CSlfO6tE97KPf+0nvPlqFcVPp0CYlU30Ik2cuP/txwM3aE/G4q+b+owe9gTGcqN6HZe7MDGlWHodjguqg83vPNtCXFLLA1XDn45Lizfu7aJXlMnygZmU7cHoUIwMZ0ldEpCiOnaN66ufPczPmcD2S48hb4+P6FAi7bzxUVJYie5upRaHQYzNWNFKKhz+nezz1/uvNTgdW2e3JorA/Wfglt5xQhaCg/mTkMGEnKZEp+GDcTJ3xmMXnnQP4FZcdOwCYpoiOVDpJc4HBO0YmhAQ+zuEP/t+qVPkQ+fXn8DALQxnA==",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "90b09f9efe17ff3d40051cff509ea3ef",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_230_Austausch. Produkt ID: 263443. Der Dokumentyp is Betriebs- und Montageanleitung. 1  X X  X X  X X  X X  X  X  X  X  0  A  B  C \n\n13 … 14\n\n3 4 4 3 6 2 . r N • 3 1 . 5 0 n o i t i d E • M\n\n3 4 4 3 6 2 . r N • 3 1 . 5 0 n o i t i d E • M\n\n14 … 14",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.7445009",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "263443_Ventilprüfsystem_DSLC_VPM-VC_230_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "orig_elements": "eJztlVtr2zAUx7+K8PMa62Zb2lub7mGwlsC2UGiLkKXjxCO+IMljIeS7T0pTWmjZHgZ7SZAv0tE5fx0f/5DudxlsoIM+qNZmH1HWkFpU2FYWc8Zxg0VRG7CmMiDBCNZkH1DWQdBWBx39d1nqKD9MzsDzGJRxEF8HQVJxjnElGZ7hFHyY7wbbNu0fHEY3GPD+xYNIXko2i70CY5n8RnBd63079F4ds7nfZVE55cEYxXz/GN0cmMFZtRmMDoM7pDjqsE66+XcPzueuNUY7GwN9cDq0Pl9szVq7buGGH2CCz+3Ur7waB5PbwUypWv5i6CGnJeOcqWU0tJvRTQ8TZlg0fusDdOr665e5Wi5uLpZzRRlWl5MPevJmra5uLtX1bLRNtt/HFJt2A73uUt7Zv0seBcN2PAjqcdy08dtjnfLj9Eb3q0mvwKeSZdCvslSoMVpUP3U1pCoRljIL8Csc/gBCd7G9fbxcGKFLhK4QmqO0xvPyn7som0WtN6CVFjghTOCixELgphBGgDYyjq2A4gzaSYLG0MNEMS0R4a8xWsSY26eQd1iqeFNbKStRS0IJVIaWDaeF5AxLTuryzNIpssQQj42hElE0Qw7dPqFFo4lEQxG3rB4NqEUh3hZ9ep6+eQ3erXapvD/hW1J9hz1GCGaMN0XczqjglHFtgZlIocSklObM3omwx/8/e7ysqKlrikEXmlhRMW10VcSztJTE8PMZepLsEf73M/TxNzYHuuw=",
+      "product_id": "263443",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_230_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  }
+]

@@ -1,0 +1,899 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "396404b05bfa6951d40097cf91bdf33b",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Differenzdruckwächter für Luft, Rauch- und Abgase\n\nLGW…A2, LGW…A2P LGW...A2-7\n\n5.13\n\nDUNGS Combustion Controls\n\n__eul novita ouveau\n\nLGW...A2, LGW...A2-7\n\n• RoHS II 2011/65/EU\n\n| 4 e\n\n@ 4\n\n0 7 4 2 6 1 . r N • 6 1 . 4 0 n o i t i d E • y n a m r e G n i d e t n i r P\n\n»\n\nTechnik\n\nDer Diff erenzdruckwächter LGW…A2... ist ein einstellbarer Differenzdruck- wächter nach EN 1854 für Feuerungs- anlagen.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmd1P5DYQwP8Va5/ZrL8d96m0UIp0QugO1Ie7UzS2x5DebrJyElpK+d/rLCC4lp7YvjXKw2r9MZ6ZjH/yTOKPdwtc4wabvqrD4juyQEEVesE98AgalI7GB0YFRbBOe7k4IIsN9hCghyx/txgbVdcOyeNTHyufMP/tFDIjJaXGclnQcfFuftOGOtbfENim1mPXPUswK7UVhRHUKD2KbTFt6q6r26arHp35eLfIikc3hOBU3n/OYgl9m0K1bj30bdp5uIX+elS7uuwwdatUew8p5IVdn6Cvu9X5rb+GtDlP7a/o+24Vhuaqq7atX4XWD2OwumXb4IppLg2tqqM6RkzY/BHS4L/8Buive0wVeXfyS3XIq6MfqqNiG+Li/j47FOs1NrDB3YPtqeBxeX+73S2H7XZd5+fKMVg9Tq+huRrgCrsxHAtsrhZjELZ5pGqGjcMxAmx0o8ff+1HH30x/GihFuTNP4tiJPpF3Q+wPyHsY/PWSDE0gh+4KOhztPblyBmmM3Q1ejHqzgX9w5Y1W0nouKOMlBwGaCaa9iUGHgG7malpcZROfBk65PuQH5EXnfOwURXHIl2YvgLxgKqIIQZe65NRTA4yB1dpaZQXADNC0AFIFE/udMMEwXQbjcspiLEqrmVKWMkq5sh79DMi0ADm6PDv5QH5sN27oRkW52fSpXXcvqTndZAWv0WI0jSpKEZmhsVS54lFSciuBOyyVmmmZGC1VhcOaNO1N3QNphxuEYa/TRVEqgNnoY5kTjw3A86miHVrBc/9hq2ZepsPLU5Vy8F/rFRCShgxMyTTNtYsAZYOyxhiMTFkwMzDTAmZX4HLyvv35Azk9JZwyttJqdXy5FzVCWusshLxPjOUtAiUDGCmopuisijM106LmTyIJvqlgUVQ6z6Jg3ATQzga02gbjWWlcMHF+/5kYGd8T+SYuQCnFtGWsFFoLoL5UTjOvaX43djnaMxfT4uJNUGhmqXPOOGHRBRaVEOAVMM4RXVnOh8XEoKDE5ETCiSaMFCSRM/JYjjwMSEJJQ1pSkz7/Ajl+mr7Nw0A2eQWSk9weJzELja1EzvcqXazwmDOUlkp4HrUw0qFWTmoGzpR0Pogmxtx4O+DcS0TOs/DZg+xr3+ckdcoJz4AxrqXwynvJIo/cMAZUzHxMi4+LbKupv7wE5KLu16/mK5eTlPKMlkoFoamIlrsQvfTUcM1EObPx/2djN5L2OA+++tiLiYz+kn+5q3xxw1QUBam7nmDdjL+ux/XaZcMPCp7XL8lXGhrw1+T4jLBSyeerz59wwDRuxJJAs84P1BTfSIqf/wJDGu9k",
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "5d132f46137c29da7a82a0122a1cc946",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Er ist geeignet zum Ein- und Aus- oder Umschalten eines Stromkreises bei sich änderndem Druck-Istwert zum eingestellten Sollwert.\n\nDer Sollwert (Schaltpunkt) wird an einem Einstellrad mit Skala eingestellt. Serienmäßig im Unterteil integrierte Prüftaste bei LGW…A2P.\n\nAnwendung\n\nDiff erenzdrucküberwachung in der Feu- erungs-, Lüftungs- und Klimatechnik. Geeignet für Luft-, Rauch- und Abgase und sonstige nicht aggressive Gase als Diff erenzdruckwächter, nicht geeignet für technische Brenngase.\n\nZulassungen",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztVm1v2zYQ/iuEPm1AbFOiJFr7lsJdMCwYgrnBgLWFwJejzEWiDJKa1wb57zvKNpJlxYZ87BZAlkjxudPdw4fne3+fQQ8DuNhanX1HMkZLvCoJrNIFp4xWtOTFmjY8Xxdar7MLkg0QhRZRIP4+S4M2jJNXcJ5DqzzgY3aY87KklDdFuaTJeF4fRm2N/QfA3o8KQnhE5E1ZN2zJGeVVnWB78IMNwY4utKdg3t9n6DiFwVhBy4ePCPOgRq/bflQijn6OcC/iLrld3QbwYeWtUsJrNAzRi2jD6uaT2gk/3PjxN1AxrPTkutDuR7XSo5oSWWExOljldVFy2rYbawx4cJ+1n9TdQYDaRfAtub76pb0s2s2bdrPca5M9PGBAxvbgxABzYi90cDKPn/azudjve4t5IQer03IvXDeJDkKiIwPXZYmEPb5p3TRISAzk8xv/uOdQUllJpnKR50VdMlUpVeamMAXPc0FZluKO8EdM4Lee2BBJB2A7B5F8ngby1roFmZwml1NYEGTSk9shIIl9BEfAOghkG/043HmwAScSLAlW7ciHiVIoHVrgbyCblP/ihxAP4I+u0RizidDPrrZj36elZcr1TMNPwqd9+x3epRAx1ueabqThEmRNG8MbqVlVCa3LplAVE6os9aum/+ea3qBgz9Ii32xn4e4ndxe/JQfrNRFHEc9Cn7XohSaDjWR7J3rxVKNLsgVvwQ1HYae7NrYjdiC3DvOPYHticdQhCmfkxieMUSYK9DAfDGTow1TQor4sbl4m9LrJG1WBlGAM5TUUuclLSWvNa7aumXkV+tcv9Ke6vXQHcCnBpyp5Z2MPX1JHZQxrBC+NlLUByWW9llzhseCqqrjir+r4+tXxvAz+a0X4SxnEWMljsMfChI4PQu2QJ6xbJP21fw/TAmGJucUFuT7Xr3k+dwE/9nbAnVY7Z++W5OrcKZgj0pPryUS0/FlManfqG2QnAszDgLsebQfEYX8Qieg6j2rBokeuEkT0gTyL83CstTOxFyez7m8fPcaDTQmQN2jq0gdfVl0rbIEbzlTDKMuFksZUsigo1Los2Jq9tsb/gfPz9Dj8OvUiBEwQ3Bfq68c/AcqaSFA=",
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b1e90c3b39c8ceb0e490f603b9c58286",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. EG-Baumusterprüfbescheinigung nach EG-Gasgeräterichtlinie:\n\nCE-0085 AQ 0673\n\nEG-Baumusterprüfbescheinigung nach EG-Druckgeräterichtlinie:\n\nCE0036\n\nDruckwächter Klasse \"S\" nach EN 1854.\n\nFür den nordamerikanischen Markt spezielle Ausführungen mit UL-, FM und CSA Registrierung.\n\nZulassungen in weiteren wichtigen Gasverbrauchsländern.\n\nFunktion\n\nDifferenzdruckwächter im Über- und Unterdruckbereich.\n\nDer Differenzdruck wirkt über die Membrane gegen die Kraft der Einstell- feder auf den Mikroschalter.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztl99v1DgQx/8VK89s1z9ix+Gt0NIHKOIOqpOOosixx7u+Zp2Vk9CDqv8747SItjrBrXQvve7Tridje2b80dfjj1cFdLCBODbBFc9J0QpFNRWVldr4mjIqfaVqVgnjylZaVzwjxQZG48xo0P+qyH+aoZ+She9jaGwC/JkXZFVZUlrVvDygefL8fdO74MNPHLaptzAMPzxYXapaHFSCVlJlty2kTRiG0MehuQ3m41WBC+cwhOC0vP6Ebglsn1zT9daMfZoj3JpxnZddng2QhmUK1prkcOIwJjOGYfnui12btHmX+r/AjsPSTXE1NNveLl1vp1ysYdFHWDLFy4o2zVHwHhLEry5N9uLSgF2PkBry5uSP5pA3Ry+ao4Ot88X1NQbkQwfRbGBObMcFbqePX7bzdLPddgHzwhosbz93Jq4ms4Ihl6OAuCpyEbZoaeK0aSFXgM2W9OPMZcV0XQlbCyqYsa33suWcgnIlF1roIsc9wt9jdj4+Wbww02YaMMJtOp8o9da3MNg1hBhWWCoSjV0T9DsxwwpmFyjRO2BWHfrA8xzp9yTempSr/hk+5A1wp4dEal8KrpHLskZQGGVGK1pj3QTzQoHZE/nEiXx5vKBUS3L4G6GqEjvBZfAgW28ld5aWGpgQmluvcCfNaqHUHq4nDtcOcneUs/kPBI9WXDLJK0ZLaqRQVhvmVV3V1Om2Ar5n8vEzeV+/KBXqLiIfwtjBP6EhLVSKtty14KFuBXdUYul46YTjINo9Go8fjYdy9Us5uMvSrEGXNwo0h0ledwZPipwX78+LW6l6S5iW5cFOooSCqZRUpbaO1+CprEvH0QSeiZZX+3fBUyfv1c3dmIiDSCLWFnNJ4cLEkO/KSE5NuhjJsIWvAboOyOE0+Jsp64R1RI9NGMnZm8Uz8uqUTNGRl+8Pye+wClj+ANlnN2Jbyqys8bXABGXamFIJqrzTmrqKm9bviX3ixP45ZWm8YS9EcglhzKGTy9y3hWzFB+xnSG0yk10P3Y2qRgcp7qqd1ltmK6O45ZqWpqyFNNyUVrfMS7on8dGTyO9J4RQv8gL/qqXzSiAPIJyptTYgkVTApyjTlZCyLfdw/A/geChTvxSEey3d/Vjv9nZhQ/LQWdxnMd+ZZxHtsyOaAIVsN6Uyyppa5njwmSG0rb13la6s9s63DOQexqcOI1J3P168LnNjd9PK4RbEBSCnsMFbMwJZQb5Hs+l1Mn7E5jCR4xCHEXvABfGQx2byc9N4Gi5Sj82i6TD9n3H76RuN5uAp",
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f5175f641f0ada4f3c1a413b442f709a",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Der Druckwächter arbeitet ohne Hilf- senergie.\n\nDifferenzdruckwächter\n\nDas Schaltwerk spricht auf Differenz- druck an. Beim Über- bzw. Unter- schreiten des eingestellten Sollwertes wird der Stromkreis ein-, aus- bzw. umgeschaltet.\n\nDefinition der Schaltdifferenz ∆p\n\nDie Schaltdifferenz ∆p ist die Druck- differenz zwischen dem oberen und unteren Schaltdruck.\n\nPrüftaste LGW…A2P\n\nDer Differenzdruckwächter LGW…A2P ist mit einer Prüftaste ausgestattet.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztl01v2zgQhv8KoXNtUxRFiXtrYaA9FIsAadFDtxD4MbTZSJRAUus2Qf77klqnjdPtpjmm8MGQRM4Mh+MHL4cfbwroYQAXO6uLP1BhWkW4bIHXVU0UazWTUhiqJK5xS1RbvEDFAFFoEUWyvynySxfG2Su4+4ZOeUiPJWDZUIpxwwld4+y8zA+jtsb+j8HkRwUhfLcoOWW8WjcVbmqWzSbwgw3Bji50x2Q+3hQpcE6jqgimt5+SmQc1et31oxJx9EuGk4j7HHbzPoAPG2+VEl4nxxC9iDZsLr6qvfDDhR8/g4pho2e3C900qo0e1ZyLFVajg03JCG1w122tMeDBXWs/q6uDALWP4Dv09vWH7iXptq+67XrSpri9TQkZ24MTAywbe2KAo3v8Oi3uYpp6m/aVarA5TvfC7Waxg5DLUYDbFbkIUxrp3DxIyBUgy4j//p/zRhlVqkYwokiLqaC8qgURVLWyNDUuct4RvsRsvAWPtkuaf80YA11SRcJLsBEiGvcO0BvbmxUK4MDvLKxzYnc5/yl8LvLf8C7HS4EfAlhxaljFpWJMU0VYSRvNjTSSMUZlqc4APn8AT3g6XfoeVPexeWdjD/+FC+ZUmKbUqmpbmQSKKCk0GEJ0Iqis8RmX54/LQ716VCJO+BIBXab69PEA/gqFKdVvH5GYDfq2jRVaNoKEW6NXYAeUKdQqLb9C8vqwRu9dzO9B7X2WOYdS8RFYlxKP0Pd55HLs+7RCTBMH63Wy8Ogy+nG4Si6L8epFWjUcI85D8l3SgvhEgWRKthzq9BSiIpqzBghlrDIAAmh9Jv75E3964BrrbA7xL1MLNPoun4QqIZhNvySWtdZNQ5QqtRCm5lxVtKqoaJjW1PCWnNF5/uj8IJaPycXpYQw/AwzZEJFO80vzlxTzm8H1wSYlW0RxQKPMg2h2Ov3i8n4MmN2epnQt1hwLiauk9iXUZUuVplpKaDgr2/p8F/kNcL1P34XP565RJop0rOYVE3uYsJfk4pfkjWFca16XNeR2EGNWp8trZQSFMreG517wN+Dlobw9qhE/3F1/et84AW6Ru8HG3LilqQdopj4ut34iPtK9ffoH+P2XLQ==",
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "777f5169b2770586f5078074054e1f3d",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Die Prüftaste ermöglicht die service- freundliche Überprüfung der Sicher- heitsfunktion.\n\nWird die Prüftaste bei anliegendem Druck gedrückt so wird die Verbindung zum Druckanschluß G 1/4 unterbrochen und der Druck unter der Membrane ent- spannt. Der Mikroschalter des Druck- wächters wechselt die Kontaktlage von NO auf NC.\n\nWird die Prüftaste losgelassen baut sich der Druck unter der Membrane wieder auf, der Mikroschalter wechselt in seine ursprüngliche Lage.\n\nSchaltfunktion",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztVkuP2zgM/iuCz00ix/Krt90N0MO20wH6OrSFQUuUo40tG5I8aTuY/17KSfoYLAaY42LnZFP8yJAfP1r5eJtgjwPa0BiVPGeJaLGGLC95hnUKKtUlSilQcMXzumrL5BlLBgygIADhb5P40vhxdhIvNjbSIT2WhGkpBOdlvRVrHoMX/zAqo80DgMmNEr3/iUhrUdTZusx4mRcRNqEbjPdmtL45F/PxNqHEsYws23Jx95lgDuXoVNOPEsLolgonCPuYdvPOo/MbZ6QEpyjQBwfB+M31V7kHN1y78R+UwW/UbDvfTKPcqFHOkSy/Gi1u0mIrSt40O6M1OrTflJvl4Qgo9wFdw16++ND8sW12fza79aR0cndHBWnTo4UBl8YemeAcHr5OSzhMU2+oL+Jgc3b3YLsZOvSRjgRtl0QSJjpp7Dy0GBnYLifu58wrrmoOLc90kaWYp5WQSqi2xbIu0iqvklh3wC8hgncG2bX7NHOupQ7gAzKaxGIXHZWzD0wRhKi9MRJXTDucrYoOZBGlJFUxXRIQs0yhY2+i363YHk3wdHqITa1jR5dmr8DF6dzg21gIVXRfuSori7JuRZ4rUfEMCqF1lQJvJYpUVMWTcv/nyv1gnFq0eU++LRoGtjfYoVU4sF1shXWozjB5CMyP7HgJf4+uNTZSy77NZzhYL/f9vAhcsxcs3Qg2W6KiJTns0ZKhFqGfki+uxX6FQ+vA0hLZsGJ+AmvDmu2ixxzcSFmhP2H9KXbFjvFXUCxMe3Ykyj32p637e7QBDqEn1tjNaNnVawazZld/PW6VyiptCy1SQJRCaFHWdYkVr3DbcuS6flqlp1X611XqR99hDzQzy1qYaW/ou/6w7o+kALJJps9Ojt9k/0PdxtKVYgg/O3+5PWx3ulZeUmePEzgoyUFxhblKt5DqrOAtQl5tMcukSLMngf/3Bf6rXt8serr8r/hVKm9N6DG5+/wd1DWVag==",
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "7572066acd2f7ff4bf383470f5f4667c",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Bei steigendem Druck 1 NC öffnet, 2 NO schließt Bei fallendem Druck 1 NC schließt, 2 NO öffnet\n\nCOM  2  NO  3  p  1  NC \n\nDruck am  Meßwerk  Einstelltoleranz  COM  3  1  NC  oberer  Schaltdruck  k  c  u  r  D  p  N  d  n  e  l  l  a  f  i  e  b     e  g  a  t  s  u  J     m  e  d  n  e  g  i  e  t  s  d  n  COM  e  g  i  e  t  3  s  2  NO  unterer  Schaltdruck  1  NC \n\nEinbaumaße [mm] LGW…A2, LGW...A2-7\n\nLGW...A2P",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztlm1v2zYQx7/KQa9bmyKpB+9dWhfDhjUNsBV9kQbCkTw6WvUEklrXBvnuIxl7zbqiQF42iCHY0t39z3+efpR9eVPQQCNNoetN8RMUNdPKtJazqm5LXilsqRVMG9Zwy02NxTMoRgpoMGCsvynSSefn1Wk6XVOnHcWP3LBspGSs2XG5YUmc8+Nsett/p2Bxsybvv1SUO1nvxKYRrKnqVLaQG3vv+3ny3dHM5U0RGycbQnAmb69imSM9O9MNs8Ywu+xwwXCd2m7fenJ+63qt0Zko9MFh6P324pO+RjdeuPlP0sFvzTodfLfMemtmvaZh+efzRNuy5rJhXbfvrSVH02fjVv3hI5K+DuQ6+O3nd90Z7/Yvuv1mMba4vY2GbD/QhCPlhT2wwVEePi1Zjssy9HFdcQbbY3rA6bDigXwaR0HToUhDWGKkm9ZRUZoAzxH35Z6j0QwNM1SZkmNpRc0UYdVyEkLLUhTJd6C/Qyp+QT34QP2BJkMj7JNjKOH8JbxfGbO1tROFZ8Dh/A14fT30lOLGBkhKi8PwP+F/yo7Se83Suk5LPkeX7tFf9EeyE319zW8la6pa20pmWy1bRGUVyba0XGsupXzi98fn9z6OL9+8hkhMQgYEwAIRqcTUfWh+GaP+W7AI0ahdabFkCk3VtFLp1jSqaaqqViirJ1geFyx3zxwcAV4fHzcfyX0AeNVP8ZE2DGEeyOH0GSBjJU4wwRybkQP4Pc5qCNk4QDw0wAoQE/uM3jmAAZgACGDIBwJYgD5HFKRXPDnkeADwWf5rjo859a/8cFLdld3Fs6uvkiLnjztgncI3jD5gR1Rl1dRNy3ZGIdpIaom20pYZqXhTsd3TjnhcOyKSr3Ad8W43EFyO41X63vcrZ7w+i38V4sVmsznjz5sH/Q7vdoqs0hwrLuI7IUprBDUMpZLGiCeQHhdIJ0wuvkPJ1T+Xe+LX",
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "9f8b0eb8e44526ad6ee5531ac7d3f587",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. A  A  ø 2,5  18,5  Ø 2,5  18,5  5  ,  1  ,  7  4  9  ,  5  2  9  ,  6  5  ,  8  1  2  ,  5  1  ø 4,2  6  ,  0  6  4  ,  2  3  8  10  8  1  Druckanschluß  (+)  ø  4,6  nur  als   Meßstutzen einsetzbar.  6  ,  4     Ø  8  ,  8  3  Ø 4,6  10  7  1    SW 22  Druckanschluß  nur  über  G  1/4   möglich.  B  44,6  72  Ø 3 x 8 tief  B  72  4   p(+)  ø 3 x 10 tief  Ø 4,2  ø 4,2  Made in  Germany  2  G 1/8  0  2  1  5  1  2  8  7  ,  3  5  6  ,  4  4  SW 14  5  1  2  8  7  ,  3  5  2  Made in Germany  2  ,  5  1",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJyVU9tq20AQ/ZVBTy11LWl1dd8SDKHQQKCUPKRBrFcjW621Ersrmgv+986OLdVp2kJByOPZM3POnB3dPQe4xw61q9o6+ABBJpO6yKSK00w1GW7iLF+JOhJ5JlfppsBgAUGHTtbSScI/Bz6obD8ahdN/rJRB+uGGcZGmUVSsRLqMfDGfd33dNu0/AIPpFVr7CxGv0nyVLIskKrLcwwY0XWtt22tbncTcPQfU2MtIEhGlh3uCGVS9qat9r6TrDSscpNv5tuEXi8aGplVKmpoKrTPStTa8eVQ7abob039D5WxYj3prq6FXYd2r0Ztl3/cawzgXaRFV1bptGjSon2ozqu8/JKqdQ1PBp6vb6kJU68tqvRzqJjgcSFDT7lHLDnmw/2xwKnePA5fLYdi3NBd5EJ6O91JvR7lF6+0IUG8Db8JAmUqP3Qa9A8LLcPjgfI8LAHq+jlHUlCAWGUBc+rfP1C8y9Cwo5ncBkAKsOKa8mOJ8gpWMFBMgninShWAY5SMOUo4pmRyroql47b2Q2qrdfmQ1DcCbd2/nTtSKyvVoAOTeAsA1HmHWje4JNWCrLbqnjTTLiZLIYJ7N8xylJnOOe3oNBWsA+HwLQvxZDFOzGEXGAlxRSegZOk7mW7qcHVFfEi/3LcTMk8ADEbsWGz73J75yOB/QY0jKETTrEy+tvJY1QquJnb4HqR/ZyisSUrLBgsfIptsoebAFT5ydmZLyoHH6d+gZ1TnTfL2vDl8L87bGGd+/36fStxTRQ8zLlSyIreBF+y1ZFhT73Z7W/mNH6xwc7n8CeMZBFA==",
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "c4d2e487d1e57f8c7cd7313ecd6b8962",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Ø 4,2  ø 4,2  Made in  Germany  2  G 1/8  0  2  1  5  1  2  8  7  ,  3  5  6  ,  4  4  SW 14  5  1  2  8  7  ,  3  5  2  Made in Germany  2  ,  5  1 Made in Germany  Made in  Germany  10  15,2  6,5  82  M20x1,5  53,7  78,5  M20x1,5  53,7  87,5 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJyVU9tq20AQ/ZVBTy11LWl1dd8SDKHQQKCUPKRBrFcjW621Ersrmgv+986OLdVp2kJByOPZM3POnB3dPQe4xw61q9o6+ABBJpO6yKSK00w1GW7iLF+JOhJ5JlfppsBgAUGHTtbSScI/Bz6obD8ahdN/rJRB+uGGcZGmUVSsRLqMfDGfd33dNu0/AIPpFVr7CxGv0nyVLIskKrLcwwY0XWtt22tbncTcPQfU2MtIEhGlh3uCGVS9qat9r6TrDSscpNv5tuEXi8aGplVKmpoKrTPStTa8eVQ7abob039D5WxYj3prq6FXYd2r0Ztl3/cawzgXaRFV1bptGjSon2ozqu8/JKqdQ1PBp6vb6kJU68tqvRzqJjgcSFDT7lHLDnmw/2xwKnePA5fLYdi3NBd5EJ6O91JvR7lF6+0IUG8Db8JAmUqP3Qa9A8LLcPjgfI8LAHq+jlHUlCAWGUBc+rfP1C8y9Cwo5ncBkAKsOKa8mOJ8gpWMFBMgninShWAY5SMOUo4pmRyroql47b2Q2qrdfmQ1DcCbd2/nTtSKyvVoAOTeAsA1HmHWje4JNWCrLbqnjTTLiZLIYJ7N8xylJnOOe3oNBWsA+HwLQvxZDFOzGEXGAlxRSegZOk7mW7qcHVFfEi/3LcTMk8ADEbsWGz73J75yOB/QY0jKETTrEy+tvJY1QquJnb4HqR/ZyisSUrLBgsfIptsoebAFT5ydmZLyoHH6d+gZ1TnTfL2vDl8L87bGGd+/36fStxTRQ8zLlSyIreBF+y1ZFhT73Z7W/mNH6xwc7n8CeMZBFA==",
+      "is_continuation": true,
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "5ebd3eb6bbe9a7cd047173cd0a509fbc",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. A Ø 2,5 für Gerätestecker\n\nDIN EN 175 301-803\n\nLangsschlitz 0,8 und\n\nKreuzschlitz DIN EN ISO 4757-Z2\n\n=\n\nDruckanschluB (+)\n\nDruckanschluB3 (-)\n\nnur LGW ... A2\n\noptional\n\nDruckanschluB (+)\n\n4 Prüftaste p (+)\n\n2 … 4\n\nTechnische Daten\n\nLGW 3 A2 - LGW 150 A2\n\nLGW 3 A2P - LGW 150 A2P\n\nLGW 1,5 A2-7 - LGW 30 A2-7\n\nLGW...A2, ...A2P\n\n04 - 3 mbar\n\n1 - 10 mbar\n\nMax. Betriebsdruck\n\n500 mbar (50 kPa)\n\n500 mbar (50 kPa)\n\n100 mbar (10 kPa)\n\nLGW...A2-7\n\n20- 150 Pa\n\n20 - 300 Pa\n\nBereiche",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztm9tu20YQhl+F0FWK2vKeDwV64cBFGrR1BTRBgCaBMDs7a7OxDiCpNnGQd+9QcVqnSAOwuaq0N+JpZ3e5/DDzz5B6/nZGN7Si9bBs8+ybZqaCJEygFUj+KVmjwEyqGEXosfjZSTNb0QAZBuD2b2fjzrLf7DqkD8e0xI54s+9QemOE8FGZuRiN99dXm9yW9jMNtt0Gqe//biGjcVHPvRbeurHZlrpV2/ftZt0v7ybz/O2MOx6nobUS5t1LbtYRbrq8vNkgDJtuP8MtDNdjt2dPe+r6s65FhC6zYT90MLT92eINXkO3WnSb3wiH/izv1lf9crvBs7zB3bhY/elmTWfSKePFcnnRlkIdrW9zt8NXfwDh9UDdsvnx0bPluVpePFxezLe5zN694wmV9obWsKL9jU3s4M58eLPdm8N2e9PyffEanN1dvoH11Q6uqB+XY0brq9m4CFs+s1zvVonGFVDjNAZ6PYx9nDcvdkLk0KgT25Rxv2DXPKJu3CUz8KIQvmK70eZu3EvoxoX6nZ6MnXBv/4QoupCNFS7bokij0cXZEKVULlpvNFSIDguii8eXzXeXjfS20UKeBqEn4ZKxqCw8eqOMDJhKESlgNqSLDybaisth4fIjG/Q9Xt+0w20jTkKzW+dJwNjkQLFrQWeighxtFClbfpqGsnK2VGAOC5gfOtrdfgDmztk8/uXnxnjrT39Vk9gBWbw2pdgg0DryUKIXTlpnVCGfamw6MHa+vU/H0zX3Rlebrr2l/K/qxfBDsIjaQLbWCi+0KNkDCtDJeVkJOSxCLsYRYT36l93D5sHXX03yJ5oghuiD89HrpEwhoTlRSsmVGLFgpeWAadHNg9OJuKQYgjGxSBXIWIlYpDDSJ+9AsK6puBwWLutdNw7TzOfz5nyiUtFFU2JtMkYdL6zXxRRQUmUCRcpUVA4Llc12NIebaaWWZKIYPUjSxBq2RMW0KCOUsDIqV+XsgUHyZWLFee2DsloEEwHIgRScDeUspFUeiCoth0WLaRbd+5puGaAfqNlORsYCglYKWZ0IlXiTtLSp8C0ljDqmisxhIaOaFzsllGvMfUwWbHD5vv0nGPHFAkcfmaJTxIRIW6Ic3xppErJEURn53zOi7zPyhMdatxyDqLnghV/fJ+V7gvxpSjjaaJ2LDCmKor3NifOgkFi6uIBG1uBzAJTsz3QTPMNH7wU4T9KcJTWn+5RJWjE1ZfIyuiglFasBgxEIPlsENERARqmKWEVsj9jiI8YWkyAjn5JzRgrtitKKMy6XAyh0LKx5v0a7ChmDdWIZrFN/x5kW+6NpziyjtCZAsoY4cYMcNSpW8gaRRIk1XlbOns3n83N10uw307yYSD5JF6QMZIV3MQZUwvMjlT7mnGt18djpEoZ9l25WCaZ9/FWcKSKb5HT2QQSU6FiLxaytLwVS1WDHDpZkrqSYDlYGHRx7KK8DU8XREFxC5byNBXOG+mnqsYP1E7yeNw9p6FpK/X6+k/hSWKIWLhrCaEJOQVqdFJiUZBAkq+M6dr6seO+1mgecNb5awLRCesSEIQenUGOUPkRTpJRJowYeNOiKV8XrC/AizwK+ZCKyCii4IoXMEEFr67D4quePHS/5F17yP+ClfI65kE0cGGWxJpgcpXSs770ED/U14LHj9aEYMbHIhUJIbwOSsKWYnKLh3DGyxhfZSe1qVDx2rpQ43VfpFzCtvCUkDxIgkfEasRhVApOmUyBvdKjfRVWuxvKWmAyW91SEssqlEqRx5DULrqKzDSV6meqf1Y4drIc80Rav6TNUvfwTePJ1qg==",
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "5abb61d93da7f8fcbaf019f336649f09",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. 1 - 1 2,5 - 50 mbar 30 - 150 mbar DU T 30 - 600 Pa 0,1- 1kPa 3 kPa 0,2- DruckanschluBB LGW...A2, LGW...A2-7: LGW...A2P: mittig Druck, mit Priftaste und niederen Druck Schlauchstutzen @ 4,6 mm Gehduseunterseite G 1/4 - seitlichem MeBstutzen ¢ konisches Innengewinde, 4,6; G 1/8 fiir den hdheren Innengewinde flir den",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>1 - 1 2,5 - 50 mbar 30 - 150 mbar</td><td>DU T 30 - 600 Pa 0,1- 1kPa 3 kPa 0,2-</td><td/><td/></tr><tr><td>DruckanschluBB</td><td>LGW...A2, LGW...A2-7: LGW...A2P: mittig Druck, mit Priftaste und niederen Druck</td><td>Schlauchstutzen @ 4,6 mm Gehduseunterseite G 1/4 - seitlichem MeBstutzen ¢</td><td>konisches Innengewinde, 4,6; G 1/8</td><td>fiir den hdheren Innengewinde flir den</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "1a45249cead66e1a9b14dc1429b864c8",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Temperaturbereich Umgebungstemperatur Mediumstemperatur Lagertemperatur LGW...A2, LGW...A2P LGW...A2-7 -15°C bis +70 °C -15°C bis +85 °C -15°C bis +70 °C -15°C bis +85 °C -30 °C bis +85 °C -30 °C bis +85 °C Werkstoffe Gehéause Polycarbonat Schalterteil Polycarbonat Membrane NBR",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Temperaturbereich</td><td>Umgebungstemperatur Mediumstemperatur Lagertemperatur</td><td>LGW...A2, LGW...A2P LGW...A2-7 -15°C bis +70 °C -15°C bis +85 °C -15°C bis +70 °C -15°C bis +85 °C -30 °C bis +85 °C -30 °C bis +85 °C</td></tr><tr><td>Werkstoffe</td><td>Gehéause</td><td>Polycarbonat</td></tr><tr><td>Schalterteil</td><td>Polycarbonat</td></tr><tr><td>Membrane</td><td>NBR</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d459dd524f42ad479cf23eed94ae663d",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Schaltkontakt LGW...A2, A2P Ag, optional Ag vergoldet (Au) LGW...A2-7 Ag, vergoldet (Au) Au-Kontakte sind geeignet flir DDC-Anwendungen: DC24V;0,01 A Schaltspannung Ag-Kontakt AC eff. DC min. 24V min. 24V max. 250 V max. 48V Au-Kontakt DC min. 5V max. 24V",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Schaltkontakt</td><td>LGW...A2, A2P Ag, optional Ag vergoldet (Au) LGW...A2-7 Ag, vergoldet (Au) Au-Kontakte sind geeignet flir DDC-Anwendungen: DC24V;0,01 A</td></tr><tr><td>Schaltspannung</td><td>Ag-Kontakt</td><td>AC eff. DC</td><td>min. 24V min. 24V</td><td>max. 250 V max. 48V</td></tr><tr><td>Au-Kontakt</td><td>DC</td><td>min. 5V</td><td>max. 24V</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f16a1e4680c8c5e28c1f34d32717460c",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Nennstrom Schaltstrom Ag-Kontakt LGW. A2, A2P Ag-Kontakt LGW. A2-7 AC eff. AC eff. 10A 6A Au-Kontakt LGW. A2, A2P DC AC eff. beicos 1 20 mA min. 20 mA max. 6 A Ag-Kontakt Ag-Kontakt LGW. A2, A2P ¢ AC eff. bei cos ¢ 0,6 min. 20 mA max. 3 A Ag-Kontakt LGW. A2-7 AC eff. beicos ¢ 1 min.20 mA max. 4 A",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Nennstrom Schaltstrom</td><td>Ag-Kontakt LGW. A2, A2P Ag-Kontakt LGW. A2-7</td><td>AC eff. AC eff.</td><td>10A 6A</td><td/></tr><tr><td>Au-Kontakt LGW. A2, A2P</td><td>DC AC eff. beicos 1</td><td>20 mA min. 20 mA</td><td>max. 6 A</td></tr><tr><td/><td>Ag-Kontakt Ag-Kontakt LGW. A2, A2P</td><td>¢ AC eff. bei cos ¢ 0,6</td><td>min. 20 mA</td><td>max. 3 A</td></tr><tr><td>Ag-Kontakt LGW. A2-7</td><td>AC eff. beicos ¢ 1</td><td>min.20 mA</td><td>max. 4 A</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "8e72d4fe8aff896642f6073a512de5bc",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Ag-Kontakt LGW. A2-7 AC eff. bei cos ¢ 0,6 min.20 mA max.2 A DC min. 20 mA max. 1A Au-Kontakt DC min. 5mA max. 20 mA Elektrischer Anschlu Standard Sonderausfihrung an Schraubenklemmen SteckeranschluB fiir 3 polig ber Kabeleinfiihrung Leitungsdose nach M20x1,5 DIN EN 175 301-803,",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ag-Kontakt LGW. A2-7</td><td>AC eff. bei cos ¢ 0,6</td><td>min.20 mA</td><td>max.2 A</td></tr><tr><td/><td>DC</td><td>min. 20 mA</td><td>max. 1A</td></tr><tr><td>Au-Kontakt</td><td>DC</td><td>min. 5mA</td><td>max. 20 mA</td></tr><tr><td>Elektrischer Anschlu</td><td>Standard Sonderausfihrung</td><td>an Schraubenklemmen SteckeranschluB fiir 3 polig</td><td>ber Kabeleinfiihrung Leitungsdose nach</td><td>M20x1,5 DIN EN 175 301-803,</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c5f4ae93c07fc6365ba7a04ce3f6586c",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Schutzart IP 54 IEC 529 (EN 60529), schutzisoliert, optional IP 65 Einstelltolleranz + 15 % Schaltpunktabweichung bezogen auf den Sollwert, bei senkrechter Einbaulage wahlweise steigende (1) oder fallende ({) Einstellung vor Ort méglich Abwanderung <+ 15 % zuléssige Abwanderung des Einstellwertes bei Lebensdauerpriifung nach EN 1854",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Schutzart</td><td>IP 54 IEC 529 (EN 60529),</td><td>schutzisoliert, optional IP 65</td></tr><tr><td>Einstelltolleranz</td><td>+ 15 % Schaltpunktabweichung bezogen auf den Sollwert, bei senkrechter Einbaulage wahlweise steigende (1) oder fallende ({) Einstellung vor Ort méglich</td></tr><tr><td>Abwanderung</td><td>&lt;+ 15 % zuléssige Abwanderung des Einstellwertes bei Lebensdauerpriifung nach EN 1854</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "93ae7ca467620c5328bc00f138b17474",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Einbaulage\n\nAy\n\nStandardeinbaulage ± 0 mbar bzw. ± 0 Pa\n\nwaagerechtem Einbau ca. +0,5 mbar bzw. +50 Pa\n\n—\n\n=\n\nwaagrecht über Kopf ca. -0,5 mbar bzw. -50 Pa\n\n3 … 4\n\nα  α  α  α \n\nZwischeneinbaulage max ± 0,5 mbar bzw. ± 50 Pa\n\nDifferenzdruckwächter für Luft, Rauch- und Abgase\n\nLGW...A2, LGW...A2P LGW...A2-7\n\nDUNGS Combustion Controls\n\nTechnische Kurziibersicht\n\n1mbar =100 Pa=0,1 kPa=~10 mm WS 1 Pa=0,01 mbar = 0,1 mm WS",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztml1v1DgUhv+KNbe0M3b8ceyVetFdVuwKhCqgQlpAkT+O2yyTZOQkW1rE/vZ10hambIH2skOu4tjH9rHz6LzHSd58XOAaa2z6sgqLX8hCeFDowFE00aqi0EC5cdIzE8BS7xZ7ZFFjb4Ptbbb/uBgLZdcOyeP1PZY+Yb5MAzIQglIwhVjSsfPUXrehitV3DDap9dh1XyyYEcrwJXAKUo1mG0x11XVV23TllTNvPi7ywKMbnBdUfHqXzRL6NoVy3Xrbt2nycGP703HY1XGHqVulynubQu7Y9cn2Vbc6OvenNtVHqf0bfd+twtCcdOWm9avQ+mHcrG6/bXDFVCGAluXjKkZM2FyENPj3Zxb9aY+pJM+evC4Pi/Lxr+Xj5SbExadP2aFYrbGxNU4Lu+cAV937883U3W426yqvK+/B6qp5bZuTwZ5gN27HApuTxbgJm1xTNkPtcNwBPtWkL88corQoFXNGFWipYzIaFrCIHCmLhi5Gv3v80I/Gv1eNs8M6jzjOd+3Kq6pf42j3P56CoU4guswQIMsPERh1KCNyhlHBzNNPztPh+Z04QgscQnScCV7kdSrQGEEJwyiXIsiZo4fP0TYW21D8WY/R5hYomOfCCCiCZzqKoCRDDIHJHGQcUFfMUPyEUHCrs7ow5iRlLCghKYIOqKjAAiLVMxQ/IRSgs1REazUCCOBKRW24hGCUEyKAmaHYLShe9rYJefn4OVslbweaUxFCSe1sIu7ibPml6shuU/TcpnHH/sFX42i30GRNyA8sBxRV0AIzR9ww76hCizpAnGnaMZrObG5L04Q1uTwAEW+X5BHdk1s4PZL3JglMHMXKAtNS51NSpIV3aJXQyivws1jtGElvh4IycTfJQpScO2ZUViiJHK0LhZaIVAUWxXzi2TE0Du5ERWSce2uRCy0VZ7oQGLUURsYI0spZenaMilF6JuWZkpWYxSGRp+0mTvqzf1N/9u+vP9aBkA4Kozx6GqVUttCCW8ejVizMr3t3DCdORgUqFLmhQUe5w/NL+9tCDnrFeJYjiJ5HMDlF0SoaqRUK5+TMyI4xkgNNTjsI+cb1jm/mJFcCjAvROue1AZcRUgDKCyYhzszsFjN/nVWdP8Vm67xd2w+fD9g3ZOqq8v5i5QINjKLyWbC4l0XwIAJQLkwISvgwQ/XgoRLbUH019cgNiml6Ei+zoUSeDbHfIy/s4E/3ydAEcuhObHfj2+QfaMPtypYTHc0FgM7ZM9ceWYjS5wClqAKa1W0G6uEDtffVx8kfBpFtArNPy+XysNgj16Wjz6V92IbsuMm+4UmbqgsM3wpgPjCZj/FeMu05Hye11lHBNShaZH2ceXv4vN0IYMfPn7wkv7W1G7pxoFxs+tSuuzvlUDSnTkGLHJK4Rg/OF8CcigEkczaaOe/eMVpe5bmaKY0iT4d0UVXZpqvy/Hf70cZIwY3R438ReRdjvhNa6ygEoLByfpO8A7R8rWU/jBDbeLEpAz9gdMy7D+geI+/z9V9GSV2T1y8Ju6ym7DJVPyCjydT0nST93X9P2shy",
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "7abbf1bdaf7f3ec0bfb59dbee19d2873",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Typ Ausfithrung [AG-M-V9] Bestell- Nummer 1 Stiick Bestell- Nummer 60 Stiick Einstellbereich [mbar] min. / max. Schalt- differenz [mbar] LGW...A2 Differenz- druckwéchter LGW 3 A2 272 337 107 409 04- 3 +0,1 +15% <03 LGW 10A2 272 336 107 417 - 1 10 +0,2 +15% <05",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Typ</td><td>Ausfithrung [AG-M-V9]</td><td>Bestell- Nummer 1 Stiick</td><td>Bestell- Nummer 60 Stiick</td><td>Einstellbereich [mbar] min. / max.</td><td>Schalt- differenz [mbar]</td></tr><tr><td>LGW...A2 Differenz- druckwéchter</td><td>LGW 3 A2</td><td>272 337</td><td>107 409</td><td>04- 3</td><td/><td>+0,1</td><td>+15%</td><td>&lt;03</td></tr><tr><td>LGW 10A2</td><td>272 336</td><td>107 417</td><td>- 1 10</td><td/><td>+0,2</td><td>+15%</td><td>&lt;05</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytWN1vpDYQ/1cspGsfGhbbmI9t00g5XXUvd9VKd2kfkhUyxmRp+FgZVndplP+9NhjDLpBLmrzEHjPzm/F8eTbXDxbPecHLJsoS61dgsSSkfsC5j+OUxRxzHMdBErssdVmSEGydAavgDU1oQyX/g6U2UV0dBOM9zSMmuFxaQBQQAmGwxmQFlXD7vaiSLM2eYNiLivG6HjjQmvhrdxW4MPB8xbbnosjqOqvKOtLGXD9YEliZ4boYksetZBOcVSKJ8orRphKthXva7BSsc1VzUTsiY4yKRArWjaBNVjube7ajotiI6h/OmtpJDuVtHe0r5iQVOyhn1XZVcgf5mAQwij5kacoFL/9NxIHdfaOc7RouIvDp49/RJY4+vI8+rPZJaj0+SoPSLOclLXh7sRcCaPHmft+K0/0+z+S9pA8c/Tmn5e2B3vJaucPi5a2lnLCXJ1F5KGKuPEDaEzHEHKY0TkKSeswNOQtihgMU+2kSeCim6TpWwA3/3kS0jnZNkSuZ84bGOb84b3acJnIRagtE9a3e0/L3GwvfWBdf7/fnTrOb+XJ5qNOs2QnpWHB9+dH+bP+13i7wvpdx4Xlugz8PRcEFQOBLk2Xs7pnsPjzlZ1Wu+cmNdSL9R1a24tJTPGM7cF3EVGxBkZUr4ICCfl8tqP0iUyZvbJD0odSiHbuj/OP0voqr5F67LBnBSGsuZMRXq9UlBiYlJGSbFDcHCPm6TQyJpGASxQ1ccInNAQ6wzP3A0AgGgMC1oSGxgWsos/kFnqGBQN47Q/yUN79BLdFeorO61YzgRLN/rBkNltgybgjOqsZPqPbmVXtwcmuCjnVjb/ju2VJiVncwcCkHU1daAD5tj4xAC9efMcI7cYA7ONuFwFYyUzPs5fvPe77NkM0kCzYntgy2IQyBbIhvngaj5HVl8j47ZxGcmku8sbkYjaxXjnvb1DnVPYQNS81wSNsXp87zM+c0XOTo/m741pkz25yTmS/HzfnKNOcOvO+vywdmc9JMpwxmo7vn1F3Tnp+Mz8fNvftwvaHbKb7q34YwfbwjRx3byM4VnD1kRRvEM+/oDHuq3skyvRjFcDmKKHwqjOQlNac6xMRcb5lW5rrwh+aCLD+yGMP5nPfn1PuLdJvz/pz6USeYJv2C8rbfTLQv07IP2uhuQ6faf15WThaUu7PKw0VadjXl+meoB8fvVDg2wNFThtPNadajnuHU7CZLH6giV6mSsq7QzdhkNqejUD/hmHmtn7D0MtSRqtYOm911JWqo6TzVH5nJp09WoIcZoIcYAM+IcgxQYDGSJOq3yAPv5B5jn8hjdzw8mfBrOB/oyQR0z8qAhufRvHFdkbaugHlHgB49gB45AJb86sUYYANvDheB4SEAenQAemQAfcOXf2dEXeOqjfHVRmNgoJ/6VzpL4xGvw0P4TbzVo/pAvrLSyuB/uau/K+lsc8Mf+uu1+X71inyXT8pxtquD4UkB+ilpWwTQb8aw9hfT1wpnfROehtAdo3nDqlv6k2iSaT6C/hjUN2vfqA0WnI0BBKM+rIWHVWWn+oEge958DEkn7x7Jh2bVLXNZPmz/s9D/bv6qWqL1uP0PezHcpQ==",
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c551b7e1159caa262787c529bff0ec38",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. LGW 50 A2 272 341 107 425 25- 50 +0,75 £15% L] <1 LGW 150 A2 272 356 107 433 30 - 150 - +15% <3 LGW...A2P LGW 3 A2P 272 352 120 204 04- 3 +0,1 +15% <03",
+    "metadata": {
+      "text_as_html": "<table><tr><td>LGW 50 A2</td><td>272 341</td><td>107 425</td><td>25- 50</td><td/><td>+0,75</td><td>£15% L]</td><td>&lt;1</td></tr><tr><td>LGW 150 A2</td><td>272 356</td><td>107 433</td><td>30 - 150</td><td/><td>-</td><td>+15%</td><td>&lt;3</td></tr><tr><td>LGW...A2P</td><td>LGW 3 A2P</td><td>272 352</td><td>120 204</td><td>04- 3</td><td/><td>+0,1</td><td>+15%</td><td>&lt;03</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytWN1vpDYQ/1cspGsfGhbbmI9t00g5XXUvd9VKd2kfkhUyxmRp+FgZVndplP+9NhjDLpBLmrzEHjPzm/F8eTbXDxbPecHLJsoS61dgsSSkfsC5j+OUxRxzHMdBErssdVmSEGydAavgDU1oQyX/g6U2UV0dBOM9zSMmuFxaQBQQAmGwxmQFlXD7vaiSLM2eYNiLivG6HjjQmvhrdxW4MPB8xbbnosjqOqvKOtLGXD9YEliZ4boYksetZBOcVSKJ8orRphKthXva7BSsc1VzUTsiY4yKRArWjaBNVjube7ajotiI6h/OmtpJDuVtHe0r5iQVOyhn1XZVcgf5mAQwij5kacoFL/9NxIHdfaOc7RouIvDp49/RJY4+vI8+rPZJaj0+SoPSLOclLXh7sRcCaPHmft+K0/0+z+S9pA8c/Tmn5e2B3vJaucPi5a2lnLCXJ1F5KGKuPEDaEzHEHKY0TkKSeswNOQtihgMU+2kSeCim6TpWwA3/3kS0jnZNkSuZ84bGOb84b3acJnIRagtE9a3e0/L3GwvfWBdf7/fnTrOb+XJ5qNOs2QnpWHB9+dH+bP+13i7wvpdx4Xlugz8PRcEFQOBLk2Xs7pnsPjzlZ1Wu+cmNdSL9R1a24tJTPGM7cF3EVGxBkZUr4ICCfl8tqP0iUyZvbJD0odSiHbuj/OP0voqr5F67LBnBSGsuZMRXq9UlBiYlJGSbFDcHCPm6TQyJpGASxQ1ccInNAQ6wzP3A0AgGgMC1oSGxgWsos/kFnqGBQN47Q/yUN79BLdFeorO61YzgRLN/rBkNltgybgjOqsZPqPbmVXtwcmuCjnVjb/ju2VJiVncwcCkHU1daAD5tj4xAC9efMcI7cYA7ONuFwFYyUzPs5fvPe77NkM0kCzYntgy2IQyBbIhvngaj5HVl8j47ZxGcmku8sbkYjaxXjnvb1DnVPYQNS81wSNsXp87zM+c0XOTo/m741pkz25yTmS/HzfnKNOcOvO+vywdmc9JMpwxmo7vn1F3Tnp+Mz8fNvftwvaHbKb7q34YwfbwjRx3byM4VnD1kRRvEM+/oDHuq3skyvRjFcDmKKHwqjOQlNac6xMRcb5lW5rrwh+aCLD+yGMP5nPfn1PuLdJvz/pz6USeYJv2C8rbfTLQv07IP2uhuQ6faf15WThaUu7PKw0VadjXl+meoB8fvVDg2wNFThtPNadajnuHU7CZLH6giV6mSsq7QzdhkNqejUD/hmHmtn7D0MtSRqtYOm911JWqo6TzVH5nJp09WoIcZoIcYAM+IcgxQYDGSJOq3yAPv5B5jn8hjdzw8mfBrOB/oyQR0z8qAhufRvHFdkbaugHlHgB49gB45AJb86sUYYANvDheB4SEAenQAemQAfcOXf2dEXeOqjfHVRmNgoJ/6VzpL4xGvw0P4TbzVo/pAvrLSyuB/uau/K+lsc8Mf+uu1+X71inyXT8pxtquD4UkB+ilpWwTQb8aw9hfT1wpnfROehtAdo3nDqlv6k2iSaT6C/hjUN2vfqA0WnI0BBKM+rIWHVWWn+oEge958DEkn7x7Jh2bVLXNZPmz/s9D/bv6qWqL1uP0PezHcpQ==",
+      "is_continuation": true,
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "52447fb56df62eddb571391ff323788d",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Differenz- druckwéchter LGW 10 A2P 272 345 120212 1 - 10 +0,2 +15% <05 LGW 50 A2P 272 346 221207 25- 50 +0,75 £15% L <1 LGW 150 A2P 272 354 120238 30 - 150 - +15% <3",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Differenz- druckwéchter</td><td>LGW 10 A2P</td><td>272 345</td><td>120212</td><td>1 - 10</td><td/><td>+0,2</td><td>+15%</td><td>&lt;05</td></tr><tr><td>LGW 50 A2P</td><td>272 346</td><td>221207</td><td>25- 50</td><td/><td>+0,75</td><td>£15% L</td><td>&lt;1</td></tr><tr><td>LGW 150 A2P</td><td>272 354</td><td>120238</td><td>30 - 150</td><td/><td>-</td><td>+15%</td><td>&lt;3</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytWN1vpDYQ/1cspGsfGhbbmI9t00g5XXUvd9VKd2kfkhUyxmRp+FgZVndplP+9NhjDLpBLmrzEHjPzm/F8eTbXDxbPecHLJsoS61dgsSSkfsC5j+OUxRxzHMdBErssdVmSEGydAavgDU1oQyX/g6U2UV0dBOM9zSMmuFxaQBQQAmGwxmQFlXD7vaiSLM2eYNiLivG6HjjQmvhrdxW4MPB8xbbnosjqOqvKOtLGXD9YEliZ4boYksetZBOcVSKJ8orRphKthXva7BSsc1VzUTsiY4yKRArWjaBNVjube7ajotiI6h/OmtpJDuVtHe0r5iQVOyhn1XZVcgf5mAQwij5kacoFL/9NxIHdfaOc7RouIvDp49/RJY4+vI8+rPZJaj0+SoPSLOclLXh7sRcCaPHmft+K0/0+z+S9pA8c/Tmn5e2B3vJaucPi5a2lnLCXJ1F5KGKuPEDaEzHEHKY0TkKSeswNOQtihgMU+2kSeCim6TpWwA3/3kS0jnZNkSuZ84bGOb84b3acJnIRagtE9a3e0/L3GwvfWBdf7/fnTrOb+XJ5qNOs2QnpWHB9+dH+bP+13i7wvpdx4Xlugz8PRcEFQOBLk2Xs7pnsPjzlZ1Wu+cmNdSL9R1a24tJTPGM7cF3EVGxBkZUr4ICCfl8tqP0iUyZvbJD0odSiHbuj/OP0voqr5F67LBnBSGsuZMRXq9UlBiYlJGSbFDcHCPm6TQyJpGASxQ1ccInNAQ6wzP3A0AgGgMC1oSGxgWsos/kFnqGBQN47Q/yUN79BLdFeorO61YzgRLN/rBkNltgybgjOqsZPqPbmVXtwcmuCjnVjb/ju2VJiVncwcCkHU1daAD5tj4xAC9efMcI7cYA7ONuFwFYyUzPs5fvPe77NkM0kCzYntgy2IQyBbIhvngaj5HVl8j47ZxGcmku8sbkYjaxXjnvb1DnVPYQNS81wSNsXp87zM+c0XOTo/m741pkz25yTmS/HzfnKNOcOvO+vywdmc9JMpwxmo7vn1F3Tnp+Mz8fNvftwvaHbKb7q34YwfbwjRx3byM4VnD1kRRvEM+/oDHuq3skyvRjFcDmKKHwqjOQlNac6xMRcb5lW5rrwh+aCLD+yGMP5nPfn1PuLdJvz/pz6USeYJv2C8rbfTLQv07IP2uhuQ6faf15WThaUu7PKw0VadjXl+meoB8fvVDg2wNFThtPNadajnuHU7CZLH6giV6mSsq7QzdhkNqejUD/hmHmtn7D0MtSRqtYOm911JWqo6TzVH5nJp09WoIcZoIcYAM+IcgxQYDGSJOq3yAPv5B5jn8hjdzw8mfBrOB/oyQR0z8qAhufRvHFdkbaugHlHgB49gB45AJb86sUYYANvDheB4SEAenQAemQAfcOXf2dEXeOqjfHVRmNgoJ/6VzpL4xGvw0P4TbzVo/pAvrLSyuB/uau/K+lsc8Mf+uu1+X71inyXT8pxtquD4UkB+ilpWwTQb8aw9hfT1wpnfROehtAdo3nDqlv6k2iSaT6C/hjUN2vfqA0WnI0BBKM+rIWHVWWn+oEge958DEkn7x7Jh2bVLXNZPmz/s9D/bv6qWqL1uP0PezHcpQ==",
+      "is_continuation": true,
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d7a40315483916982e6188c2acde7801",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Typ Ausfithrung [AU-M-V9] Bestell- Bestell- Einstellbereich Schalt- Nummer 1 Stiick Nummer 60 Stiick [Pa] min. / max. differenz [Pa] LGW...A2-7 LGW 1,5A2-7 257 434 257 434 20 - 150 8 +15% <18",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Typ</td><td>Ausfithrung [AU-M-V9]</td><td>Bestell-</td><td>Bestell-</td><td/><td>Einstellbereich</td><td/><td/><td>Schalt-</td></tr><tr><td>Nummer 1 Stiick</td><td>Nummer 60 Stiick</td><td>[Pa]</td><td/><td>min.</td><td>/ max.</td><td>differenz [Pa]</td></tr><tr><td>LGW...A2-7</td><td>LGW 1,5A2-7</td><td>257 434</td><td>257 434</td><td>20 - 150</td><td/><td>8</td><td>+15%</td><td>&lt;18</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytWN1vpDYQ/1cspGsfGhbbmI9t00g5XXUvd9VKd2kfkhUyxmRp+FgZVndplP+9NhjDLpBLmrzEHjPzm/F8eTbXDxbPecHLJsoS61dgsSSkfsC5j+OUxRxzHMdBErssdVmSEGydAavgDU1oQyX/g6U2UV0dBOM9zSMmuFxaQBQQAmGwxmQFlXD7vaiSLM2eYNiLivG6HjjQmvhrdxW4MPB8xbbnosjqOqvKOtLGXD9YEliZ4boYksetZBOcVSKJ8orRphKthXva7BSsc1VzUTsiY4yKRArWjaBNVjube7ajotiI6h/OmtpJDuVtHe0r5iQVOyhn1XZVcgf5mAQwij5kacoFL/9NxIHdfaOc7RouIvDp49/RJY4+vI8+rPZJaj0+SoPSLOclLXh7sRcCaPHmft+K0/0+z+S9pA8c/Tmn5e2B3vJaucPi5a2lnLCXJ1F5KGKuPEDaEzHEHKY0TkKSeswNOQtihgMU+2kSeCim6TpWwA3/3kS0jnZNkSuZ84bGOb84b3acJnIRagtE9a3e0/L3GwvfWBdf7/fnTrOb+XJ5qNOs2QnpWHB9+dH+bP+13i7wvpdx4Xlugz8PRcEFQOBLk2Xs7pnsPjzlZ1Wu+cmNdSL9R1a24tJTPGM7cF3EVGxBkZUr4ICCfl8tqP0iUyZvbJD0odSiHbuj/OP0voqr5F67LBnBSGsuZMRXq9UlBiYlJGSbFDcHCPm6TQyJpGASxQ1ccInNAQ6wzP3A0AgGgMC1oSGxgWsos/kFnqGBQN47Q/yUN79BLdFeorO61YzgRLN/rBkNltgybgjOqsZPqPbmVXtwcmuCjnVjb/ju2VJiVncwcCkHU1daAD5tj4xAC9efMcI7cYA7ONuFwFYyUzPs5fvPe77NkM0kCzYntgy2IQyBbIhvngaj5HVl8j47ZxGcmku8sbkYjaxXjnvb1DnVPYQNS81wSNsXp87zM+c0XOTo/m741pkz25yTmS/HzfnKNOcOvO+vywdmc9JMpwxmo7vn1F3Tnp+Mz8fNvftwvaHbKb7q34YwfbwjRx3byM4VnD1kRRvEM+/oDHuq3skyvRjFcDmKKHwqjOQlNac6xMRcb5lW5rrwh+aCLD+yGMP5nPfn1PuLdJvz/pz6USeYJv2C8rbfTLQv07IP2uhuQ6faf15WThaUu7PKw0VadjXl+meoB8fvVDg2wNFThtPNadajnuHU7CZLH6giV6mSsq7QzdhkNqejUD/hmHmtn7D0MtSRqtYOm911JWqo6TzVH5nJp09WoIcZoIcYAM+IcgxQYDGSJOq3yAPv5B5jn8hjdzw8mfBrOB/oyQR0z8qAhufRvHFdkbaugHlHgB49gB45AJb86sUYYANvDheB4SEAenQAemQAfcOXf2dEXeOqjfHVRmNgoJ/6VzpL4xGvw0P4TbzVo/pAvrLSyuB/uau/K+lsc8Mf+uu1+X71inyXT8pxtquD4UkB+ilpWwTQb8aw9hfT1wpnfROehtAdo3nDqlv6k2iSaT6C/hjUN2vfqA0WnI0BBKM+rIWHVWWn+oEge958DEkn7x7Jh2bVLXNZPmz/s9D/bv6qWqL1uP0PezHcpQ==",
+      "is_continuation": true,
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "a8f5f60f3ba71fe16763635f209d556c",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Differenz- druckwéchter LGW 3 A2-7 257 435 257 435 20 - 300 8 +15% il <20 LGW 6 A2-7 257 436 257 436 30 - 600 10 +15% <30 LGW 10 A2-7 257 437 257 437 0,1-1kPa ' +15% <40",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Differenz- druckwéchter</td><td>LGW 3 A2-7</td><td>257 435</td><td>257 435</td><td>20 - 300</td><td/><td>8</td><td>+15% il</td><td>&lt;20</td></tr><tr><td>LGW 6 A2-7</td><td>257 436</td><td>257 436</td><td>30 - 600</td><td/><td>10</td><td>+15%</td><td>&lt;30</td></tr><tr><td>LGW 10 A2-7</td><td>257 437</td><td>257 437</td><td>0,1-1kPa</td><td/><td>'</td><td>+15%</td><td>&lt;40</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytWN1vpDYQ/1cspGsfGhbbmI9t00g5XXUvd9VKd2kfkhUyxmRp+FgZVndplP+9NhjDLpBLmrzEHjPzm/F8eTbXDxbPecHLJsoS61dgsSSkfsC5j+OUxRxzHMdBErssdVmSEGydAavgDU1oQyX/g6U2UV0dBOM9zSMmuFxaQBQQAmGwxmQFlXD7vaiSLM2eYNiLivG6HjjQmvhrdxW4MPB8xbbnosjqOqvKOtLGXD9YEliZ4boYksetZBOcVSKJ8orRphKthXva7BSsc1VzUTsiY4yKRArWjaBNVjube7ajotiI6h/OmtpJDuVtHe0r5iQVOyhn1XZVcgf5mAQwij5kacoFL/9NxIHdfaOc7RouIvDp49/RJY4+vI8+rPZJaj0+SoPSLOclLXh7sRcCaPHmft+K0/0+z+S9pA8c/Tmn5e2B3vJaucPi5a2lnLCXJ1F5KGKuPEDaEzHEHKY0TkKSeswNOQtihgMU+2kSeCim6TpWwA3/3kS0jnZNkSuZ84bGOb84b3acJnIRagtE9a3e0/L3GwvfWBdf7/fnTrOb+XJ5qNOs2QnpWHB9+dH+bP+13i7wvpdx4Xlugz8PRcEFQOBLk2Xs7pnsPjzlZ1Wu+cmNdSL9R1a24tJTPGM7cF3EVGxBkZUr4ICCfl8tqP0iUyZvbJD0odSiHbuj/OP0voqr5F67LBnBSGsuZMRXq9UlBiYlJGSbFDcHCPm6TQyJpGASxQ1ccInNAQ6wzP3A0AgGgMC1oSGxgWsos/kFnqGBQN47Q/yUN79BLdFeorO61YzgRLN/rBkNltgybgjOqsZPqPbmVXtwcmuCjnVjb/ju2VJiVncwcCkHU1daAD5tj4xAC9efMcI7cYA7ONuFwFYyUzPs5fvPe77NkM0kCzYntgy2IQyBbIhvngaj5HVl8j47ZxGcmku8sbkYjaxXjnvb1DnVPYQNS81wSNsXp87zM+c0XOTo/m741pkz25yTmS/HzfnKNOcOvO+vywdmc9JMpwxmo7vn1F3Tnp+Mz8fNvftwvaHbKb7q34YwfbwjRx3byM4VnD1kRRvEM+/oDHuq3skyvRjFcDmKKHwqjOQlNac6xMRcb5lW5rrwh+aCLD+yGMP5nPfn1PuLdJvz/pz6USeYJv2C8rbfTLQv07IP2uhuQ6faf15WThaUu7PKw0VadjXl+meoB8fvVDg2wNFThtPNadajnuHU7CZLH6giV6mSsq7QzdhkNqejUD/hmHmtn7D0MtSRqtYOm911JWqo6TzVH5nJp09WoIcZoIcYAM+IcgxQYDGSJOq3yAPv5B5jn8hjdzw8mfBrOB/oyQR0z8qAhufRvHFdkbaugHlHgB49gB45AJb86sUYYANvDheB4SEAenQAemQAfcOXf2dEXeOqjfHVRmNgoJ/6VzpL4xGvw0P4TbzVo/pAvrLSyuB/uau/K+lsc8Mf+uu1+X71inyXT8pxtquD4UkB+ilpWwTQb8aw9hfT1wpnfROehtAdo3nDqlv6k2iSaT6C/hjUN2vfqA0WnI0BBKM+rIWHVWWn+oEge958DEkn7x7Jh2bVLXNZPmz/s9D/bv6qWqL1uP0PezHcpQ==",
+      "is_continuation": true,
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "53f17e506edfa9ad5d21b33289e0277f",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. LGW 30 A2-7 257 438 257 438 0,2 - 3kPa ' +15% ] <80",
+    "metadata": {
+      "text_as_html": "<table><tr><td>LGW 30 A2-7</td><td>257 438</td><td>257 438</td><td>0,2 - 3kPa</td><td/><td>'</td><td>+15% ]</td><td>&lt;80</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytWN1vpDYQ/1cspGsfGhbbmI9t00g5XXUvd9VKd2kfkhUyxmRp+FgZVndplP+9NhjDLpBLmrzEHjPzm/F8eTbXDxbPecHLJsoS61dgsSSkfsC5j+OUxRxzHMdBErssdVmSEGydAavgDU1oQyX/g6U2UV0dBOM9zSMmuFxaQBQQAmGwxmQFlXD7vaiSLM2eYNiLivG6HjjQmvhrdxW4MPB8xbbnosjqOqvKOtLGXD9YEliZ4boYksetZBOcVSKJ8orRphKthXva7BSsc1VzUTsiY4yKRArWjaBNVjube7ajotiI6h/OmtpJDuVtHe0r5iQVOyhn1XZVcgf5mAQwij5kacoFL/9NxIHdfaOc7RouIvDp49/RJY4+vI8+rPZJaj0+SoPSLOclLXh7sRcCaPHmft+K0/0+z+S9pA8c/Tmn5e2B3vJaucPi5a2lnLCXJ1F5KGKuPEDaEzHEHKY0TkKSeswNOQtihgMU+2kSeCim6TpWwA3/3kS0jnZNkSuZ84bGOb84b3acJnIRagtE9a3e0/L3GwvfWBdf7/fnTrOb+XJ5qNOs2QnpWHB9+dH+bP+13i7wvpdx4Xlugz8PRcEFQOBLk2Xs7pnsPjzlZ1Wu+cmNdSL9R1a24tJTPGM7cF3EVGxBkZUr4ICCfl8tqP0iUyZvbJD0odSiHbuj/OP0voqr5F67LBnBSGsuZMRXq9UlBiYlJGSbFDcHCPm6TQyJpGASxQ1ccInNAQ6wzP3A0AgGgMC1oSGxgWsos/kFnqGBQN47Q/yUN79BLdFeorO61YzgRLN/rBkNltgybgjOqsZPqPbmVXtwcmuCjnVjb/ju2VJiVncwcCkHU1daAD5tj4xAC9efMcI7cYA7ONuFwFYyUzPs5fvPe77NkM0kCzYntgy2IQyBbIhvngaj5HVl8j47ZxGcmku8sbkYjaxXjnvb1DnVPYQNS81wSNsXp87zM+c0XOTo/m741pkz25yTmS/HzfnKNOcOvO+vywdmc9JMpwxmo7vn1F3Tnp+Mz8fNvftwvaHbKb7q34YwfbwjRx3byM4VnD1kRRvEM+/oDHuq3skyvRjFcDmKKHwqjOQlNac6xMRcb5lW5rrwh+aCLD+yGMP5nPfn1PuLdJvz/pz6USeYJv2C8rbfTLQv07IP2uhuQ6faf15WThaUu7PKw0VadjXl+meoB8fvVDg2wNFThtPNadajnuHU7CZLH6giV6mSsq7QzdhkNqejUD/hmHmtn7D0MtSRqtYOm911JWqo6TzVH5nJp09WoIcZoIcYAM+IcgxQYDGSJOq3yAPv5B5jn8hjdzw8mfBrOB/oyQR0z8qAhufRvHFdkbaugHlHgB49gB45AJb86sUYYANvDheB4SEAenQAemQAfcOXf2dEXeOqjfHVRmNgoJ/6VzpL4xGvw0P4TbzVo/pAvrLSyuB/uau/K+lsc8Mf+uu1+X71inyXT8pxtquD4UkB+ilpWwTQb8aw9hfT1wpnfROehtAdo3nDqlv6k2iSaT6C/hjUN2vfqA0WnI0BBKM+rIWHVWWn+oEge958DEkn7x7Jh2bVLXNZPmz/s9D/bv6qWqL1uP0PezHcpQ==",
+      "is_continuation": true,
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "679c460b82bebea6a39132a8510a06bf",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Zubehor fiir Druckwéchter LGW...A2, LGW...A2P Set: Geréatestecker G3, 3polig ohne Erde 231770 Leitungsdose 3 pol. + E, grau GDMW 210318 Klimaset-Zubehér KS A2-7 258 247 Winkel - Einschraubstutzen G 1/8 230278 Winkel - Einschraubstutzen G 1/4 230279 Zusatzpriftaste kpl. PT 4 224940",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Zubehor fiir Druckwéchter LGW...A2, LGW...A2P</td></tr><tr><td>Set: Geréatestecker G3, 3polig ohne Erde</td><td>231770</td></tr><tr><td>Leitungsdose 3 pol. + E, grau GDMW</td><td>210318</td></tr><tr><td>Klimaset-Zubehér KS A2-7</td><td>258 247</td></tr><tr><td>Winkel - Einschraubstutzen G 1/8</td><td>230278</td></tr><tr><td>Winkel - Einschraubstutzen G 1/4</td><td>230279</td></tr><tr><td>Zusatzpriftaste kpl. PT 4</td><td>224940</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVW1v2zYQ/isHfdqw2HqjJavIDLiw4Q1NAQPtFiBNIVDkyeaiN5AU1iTwfx8py7Uzq3HzwRYl3fPwePc8py/PDhZYYqVTwZ134DCK0dT3OSYJZXkQ83CCzNwnPGPoZ6FzBU6JmnKqqYl/duwiVXUrGR7uMWUSzaUj9GNCPC9OAjL2LLh7X9Zc5OKVgEbWDJU6RvgJiZJwHIdePIlsWIOyFEqJulJpn8yXZ8cQ2zTCMPDI7qsJk8hqydOiZlTXssuwoXprad2/FErlSsEYldwAlZZUC+WuH9mWynIt63+QaeXyttqotKmZy2vW2mKpUV2h60cBib00XYg8R4nVE5cte/iXIttqlCncrG7TeZAu3qeLccNzZ7czCeWiwIqW2B3sjQQ9XD82HZw2TSHMuUwN3P51QatNSzeobDkcrDaOLUJjnqRVW2ZoK0C6J/LYcy+nGZ+SfMLCKbI4Y0HsZ1HO44mf0TzJLLHGbzqlKt3qsrCYa02zAmfXeouUm4u0S2B1oRpa/X7vBPfO7K7NcFtLyIWQsOiOdt96Hibd8ezpxuPxPLj6vlpfu3o7M3/ywDj7hPodrFDugUYaSiN7MOhVeAVhUxdiA/W2QlhKjnu4+QWhH8feCZt7yDOr+WNPzmc3KLTtLa8VQgiGbQy/wfIKNpK2sFp8vDVA3oUGvhf60/3tMT8++1CIkirUo+6w+ywlfPgE82AUH9GTKZhWn8NvRfWABYxgKSrFtmbbTOlWP2EFK/Dd6ZEh9IJ4YP8LBOQlQXJOcNcqqp8aKXJNTW3hoTFFWH+GE2RAEuKdI99jbrohNraCTUG1xtPNIPT8c8zHutJGjCPTVliZ0pUFLRsEG/83bLDITihMC8OfZvADb4ggeJ1gXj2hMOub5cL0ZzAF8tZDSCGqIwUxjQ8Hyv6GLCzFUP2X0nauY/jDtB3hzzVEkxPNxTAlAz2Yc9pY/9VA3Ah+CeDbr0dQFIEXDgj17rEQFTfzcq8xHMKRyQnO7a3m7geFs+uHiB0e372SR2Y6dAv2YkKQH04IeDEQyOvzwJTeBzMI4LLRwRgcjMPh3NA2yd7Q0BsZLvm2E4Mx7KVA0gcmcPDhvhr/NyMYE4JxIZybDnqzwUVv9eUIfxRpPPQyMoCLMu0jyYXd+2NV0BviZ4j3uodhmUMvbzioudtgepQ09FKGYeVCr9ju29Z/Tz9bpTq7r/8BKaPWZw==",
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ad50e80e3bd7475432b9b07c2b125a01",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Befestigungsplatte 230 301 Montage-Set Glimmlampe 230 V gelb 231773 Montage-Set Glimmlampe 120V gelb 231772 Montage-Set Anzeige-LED 24 V gelb 231774 Montage-Set Glimmlampe 230 V griin 248 239 Montage-Set Anzeige-LED 24 V gelb 248 240 Ersatz-Set Haube IP 65 257 841 Adapter o 4/6 (2 x) 266 037",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Befestigungsplatte</td><td>230 301</td></tr><tr><td>Montage-Set Glimmlampe 230 V gelb</td><td>231773</td></tr><tr><td>Montage-Set Glimmlampe 120V gelb</td><td>231772</td></tr><tr><td>Montage-Set Anzeige-LED 24 V gelb</td><td>231774</td></tr><tr><td>Montage-Set Glimmlampe 230 V griin</td><td>248 239</td></tr><tr><td>Montage-Set Anzeige-LED 24 V gelb</td><td>248 240</td></tr><tr><td>Ersatz-Set Haube IP 65</td><td>257 841</td></tr><tr><td>Adapter o 4/6 (2 x)</td><td>266 037</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVW1v2zYQ/isHfdqw2HqjJavIDLiw4Q1NAQPtFiBNIVDkyeaiN5AU1iTwfx8py7Uzq3HzwRYl3fPwePc8py/PDhZYYqVTwZ134DCK0dT3OSYJZXkQ83CCzNwnPGPoZ6FzBU6JmnKqqYl/duwiVXUrGR7uMWUSzaUj9GNCPC9OAjL2LLh7X9Zc5OKVgEbWDJU6RvgJiZJwHIdePIlsWIOyFEqJulJpn8yXZ8cQ2zTCMPDI7qsJk8hqydOiZlTXssuwoXprad2/FErlSsEYldwAlZZUC+WuH9mWynIt63+QaeXyttqotKmZy2vW2mKpUV2h60cBib00XYg8R4nVE5cte/iXIttqlCncrG7TeZAu3qeLccNzZ7czCeWiwIqW2B3sjQQ9XD82HZw2TSHMuUwN3P51QatNSzeobDkcrDaOLUJjnqRVW2ZoK0C6J/LYcy+nGZ+SfMLCKbI4Y0HsZ1HO44mf0TzJLLHGbzqlKt3qsrCYa02zAmfXeouUm4u0S2B1oRpa/X7vBPfO7K7NcFtLyIWQsOiOdt96Hibd8ezpxuPxPLj6vlpfu3o7M3/ywDj7hPodrFDugUYaSiN7MOhVeAVhUxdiA/W2QlhKjnu4+QWhH8feCZt7yDOr+WNPzmc3KLTtLa8VQgiGbQy/wfIKNpK2sFp8vDVA3oUGvhf60/3tMT8++1CIkirUo+6w+ywlfPgE82AUH9GTKZhWn8NvRfWABYxgKSrFtmbbTOlWP2EFK/Dd6ZEh9IJ4YP8LBOQlQXJOcNcqqp8aKXJNTW3hoTFFWH+GE2RAEuKdI99jbrohNraCTUG1xtPNIPT8c8zHutJGjCPTVliZ0pUFLRsEG/83bLDITihMC8OfZvADb4ggeJ1gXj2hMOub5cL0ZzAF8tZDSCGqIwUxjQ8Hyv6GLCzFUP2X0nauY/jDtB3hzzVEkxPNxTAlAz2Yc9pY/9VA3Ah+CeDbr0dQFIEXDgj17rEQFTfzcq8xHMKRyQnO7a3m7geFs+uHiB0e372SR2Y6dAv2YkKQH04IeDEQyOvzwJTeBzMI4LLRwRgcjMPh3NA2yd7Q0BsZLvm2E4Mx7KVA0gcmcPDhvhr/NyMYE4JxIZybDnqzwUVv9eUIfxRpPPQyMoCLMu0jyYXd+2NV0BviZ4j3uodhmUMvbzioudtgepQ09FKGYeVCr9ju29Z/Tz9bpTq7r/8BKaPWZw==",
+      "is_continuation": true,
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d950c379036129d3b1ca9730ff2feb35",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Zylinderschraube (2 x) 266 045",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Zylinderschraube (2 x)</td><td>266 045</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVW1v2zYQ/isHfdqw2HqjJavIDLiw4Q1NAQPtFiBNIVDkyeaiN5AU1iTwfx8py7Uzq3HzwRYl3fPwePc8py/PDhZYYqVTwZ134DCK0dT3OSYJZXkQ83CCzNwnPGPoZ6FzBU6JmnKqqYl/duwiVXUrGR7uMWUSzaUj9GNCPC9OAjL2LLh7X9Zc5OKVgEbWDJU6RvgJiZJwHIdePIlsWIOyFEqJulJpn8yXZ8cQ2zTCMPDI7qsJk8hqydOiZlTXssuwoXprad2/FErlSsEYldwAlZZUC+WuH9mWynIt63+QaeXyttqotKmZy2vW2mKpUV2h60cBib00XYg8R4nVE5cte/iXIttqlCncrG7TeZAu3qeLccNzZ7czCeWiwIqW2B3sjQQ9XD82HZw2TSHMuUwN3P51QatNSzeobDkcrDaOLUJjnqRVW2ZoK0C6J/LYcy+nGZ+SfMLCKbI4Y0HsZ1HO44mf0TzJLLHGbzqlKt3qsrCYa02zAmfXeouUm4u0S2B1oRpa/X7vBPfO7K7NcFtLyIWQsOiOdt96Hibd8ezpxuPxPLj6vlpfu3o7M3/ywDj7hPodrFDugUYaSiN7MOhVeAVhUxdiA/W2QlhKjnu4+QWhH8feCZt7yDOr+WNPzmc3KLTtLa8VQgiGbQy/wfIKNpK2sFp8vDVA3oUGvhf60/3tMT8++1CIkirUo+6w+ywlfPgE82AUH9GTKZhWn8NvRfWABYxgKSrFtmbbTOlWP2EFK/Dd6ZEh9IJ4YP8LBOQlQXJOcNcqqp8aKXJNTW3hoTFFWH+GE2RAEuKdI99jbrohNraCTUG1xtPNIPT8c8zHutJGjCPTVliZ0pUFLRsEG/83bLDITihMC8OfZvADb4ggeJ1gXj2hMOub5cL0ZzAF8tZDSCGqIwUxjQ8Hyv6GLCzFUP2X0nauY/jDtB3hzzVEkxPNxTAlAz2Yc9pY/9VA3Ah+CeDbr0dQFIEXDgj17rEQFTfzcq8xHMKRyQnO7a3m7geFs+uHiB0e372SR2Y6dAv2YkKQH04IeDEQyOvzwJTeBzMI4LLRwRgcjMPh3NA2yd7Q0BsZLvm2E4Mx7KVA0gcmcPDhvhr/NyMYE4JxIZybDnqzwUVv9eUIfxRpPPQyMoCLMu0jyYXd+2NV0BviZ4j3uodhmUMvbzioudtgepQ09FKGYeVCr9ju29Z/Tz9bpTq7r/8BKaPWZw==",
+      "is_continuation": true,
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "c0469b665058037108a06bd1b5149a09",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Änderungen, die dem technischen Fortschritt dienen, vorbehalten.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztUk1v1DAQ/SuRz2WTOE684QZagZAQ6gHEoVSWP8a7hsSOxk6hVPvfsaOtWnFA4ojEyfbMm5k3z+/mgcAEM/gknCEvK6L52FrDVAty6I2xnI7GtCNwDkNDm5ZcVWSGJI1MMuMfSLmIGFbU8PgGoRHysTVsOWNNw0fKdk0p3vJzMM66PwAWDBpifEK0IxvGbse7hvdDgS2As4vRBR/FhczNA8mNC42uow0732YYgg5oxBS0TAE3hotMp9K2/hQBY41Oa4kmF8aEMrlYX9/rk8T5GsNX0CnWZvXHKJagaxP0WsSKL4KHuh0o440QB2ctIPifBlf97bsEfUqAonr/9rN4RcXhtTjsFmPJ+ZwJWTeBlzNsi/1lg0t5ul+2crksk8t7ZQ3qS3qS/rjKI8QiBwF/JEWEJUeEX2cFRQG2RfDpzxsrldkz2+tuD5orTXmrBmt43yppR0UK7wQ/UgF/WZtGM28AsyrgryrjoDIwVymz9i7qE/jqTcCUb+hSKnlfcHcBFZzklMDvCtXHLT5ILLLfwccyIY/63ZIDpZb2Vo1szAbcMwDN9pIrRTvKtO3/W/Lft+Rzhz03x7s548j59hckdn6r",
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c2ad71f6414446c6a5bbb0cfb160ba77",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. Hausadresse Karl Dungs GmbH & Co. KG Siemensstraße 6-10 D-73660 Urbach, Germany Briefadresse Karl Dungs GmbH & Co. KG Postfach 12 29 D-73602 Schorndorf, Germany Telefon +49 (0)7181-804-0 e-mail info@dungs.com Telefax +49 (0)7181-804-166 Internet www.dungs.com",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Hausadresse</td><td>Briefadresse</td></tr><tr><td>Karl Dungs GmbH &amp; Co. KG</td><td>Karl Dungs GmbH &amp; Co. KG</td></tr><tr><td>SiemensstraBe 6-10</td><td>Postfach 12 29</td></tr><tr><td>D-73660 Urbach, Germany</td><td>D-73602 Schorndorf, Germany</td></tr><tr><td>Telefon +49 (0)7181-804-0</td><td>e-mail info@dungs.com</td></tr><tr><td>Telefax +49 (0)7181-804-166</td><td>Internet www.dungs.com</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVk11P2zAUhv+KlYtp02jjfOCQDaGNVSoTu0ACtAuGLNc+abwldmQ7Kh3qf58dApRB0XZl5/g9b46fc3x1G0EDLShHpYg+oCip8jRjvDooCBaJIAvGyn2SFqTkJMlEFu2hqAXHBHPM62+jsKFW94bD/TdQbsAvd4ZFnmNclGk+xSF5OG+1kJV8RdAZzcHaR0VS5qTMpkWGi30SZB2YVlortbJ0LObqNvLGoYwsS3G+ufYyA1wbQRvNmdNmqLBjrg628aUFY2MjOWdG+ETrDHPSxmdrXjPTnhn9E7izsejV0tJO81ho3gdYdqIVxAlJ8wJTOpNVBQbUb2F6/mvFgNcODEXf5t/p55TOjuls2okq2mx8QZVsQLEWhov9p8GY7tbdkM66rpH+Xp5BPB43TC17tgQbcESgllGA0PkIVX27gEAg9xEHN44yS2vXNsHq0LFFA0eHrgYm/GLC9uiE9ZYJExpxGPvvEDs2EqonwTio4/vMhRbr0UAcnTLToFnAh+bt4gS9YW33EX3RU3Q69yniH0XDH0bLcxnG1YZeHQMikwQ/GJ1p6yrGa5SkKC2fp84mRUYIRpdm4VV7aO5HiKn1Q/5wjlN0zmttlNCm+kuzbXbh302lFXqfl+gtflckB8nkAOeTx3Jg0jLZIKkq/WkYoSnX7Q4jdvPMKCHkweqr8vOgwKHVajV9ySseucd3fYw2Y49Db7e6iJ6xHjmjLaw/eoxFdccW7WCGtsdgt+vTjqBXAKOdPNGLHNEr2NDLuML7uH86FwFTtLn+Aw2ylrg=",
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "938be5a075ca4055669db355027a99a7",
+    "text": "Dieser Text ist für Produt: Differenzdruckwaechter_ LGW_A2. Produkt ID: 162470. Der Dokumentyp is Datenblatt. 4 … 4",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf"
+        },
+        "date_created": "1744007924.0",
+        "date_modified": "1744007924.0",
+        "date_processed": "1744194693.730756",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "162470__Differenzdruckwaechter_ LGW_A2_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJyVkEtPwzAQhP9K5DM0LzdpuIEqcUGoF8ShVJazXreGxLZsR1Cq/nfsUMQNiZMfO/NpdrYnggOOqANTgtxkpO0LScul6KRcYl93yxVUXd30K+irRgKQq4yMGLjggUf9iaQL82ZygD9vZOAwHjOwbCktirar6KJI5nk+GqGk+kNgnQH0/ldRdrTp6kVbF+2ySTKLblTeK6M9u4TZnkgEpxh1XRX0vIsyh2CcYIMBHoybE1oeDgmbP3l0PncKgDsRjT44HpTPN0c4cDdunHlFCD4Xk957Zg3kwsCUyvLXRmNeNhVtC8bWSkp0qD+Fm+DtnSMcAjqWPdw/s9uKre/YemGFJOdzDCTVgJqPOC/2T8DFHo52tnNrBxX3ih3kl/HA9X7ie/SpDoJ6T1IJNv4wPY09pgZoihHwIyQGzV6mqqiajCb7D3kTDY/f+vPuC3WSrns=",
+      "product_id": "162470",
+      "product_name": "Differenzdruckwaechter_ LGW_A2",
+      "document_type": "Datenblatt",
+      "product_category": "Differenzdruckwaechter"
+    }
+  }
+]

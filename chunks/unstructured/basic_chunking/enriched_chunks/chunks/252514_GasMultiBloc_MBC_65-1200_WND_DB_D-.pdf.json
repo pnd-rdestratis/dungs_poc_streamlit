@@ -1,0 +1,477 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "a3163afc72313fd76b63799a828523ed",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_65-1200_WND. Produkt ID: 252514. Der Dokumentyp is Datenblatt. Programmübersicht WhirlWind\n\n1,5 - 1.200 kW\n\n7.60\n\nDUNGS® Combustion Controls\n\n4 1 5 2 5 2 . r N • 0 1 . 2 0 n o i t i d E • y n a m r e G n i d e t n i r P\n\n1 … 4\n\nJust the right mix! \n\nTechnik\n\nIntegriertes Gas-Luft Verbundsystem mit hoher Leistungsdichte basierend auf DUNGS Nulldruck-Mehrfachstellgerät GB-ND 055/057 D01 nach EN 126 oder MBC nach EN 161 für modulierenden oder mehrstufigen Betrieb:\n\n- Pneumatischer Verbund durch Null- druckbetrieb mit integrierter Signal- verstärkung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.765991",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmEtv2zgQgP/KrM61TVKiHj26LoIuGiNA082hLQQ+hrY2ehgUVTQI8t93aCeIUQTd5pjUMATJ5MxwOPqG5OjLbYItdtiHurHJW0gqrTWv0rRClKYyzrJCpJmuuJNGlswlbyDpMCirgiL52yQ+1OMweYMP/7E2Hum2N8iLLGOsqEQ5Z1F5398NtnHNLwR2fjA4jo8SvMryKp0XuawqHsV26LtmHJuhH+t7Z77cJmQ4upGmgmV330jMoxm8rdvBqDD4vYc7FbbR7OLziH5c+MYY5S0pjsGr0IyLixuzVb678MO/aMK4sFO/GevdYBZ2MFMM1jgbelwIKSTP6jM1nk9taJY0SH2+fFfncsYFY/XVelWvlvVqNt9Zl9zdkTuuabFXXfQxeZ76vXK42e2V1W7XNjQnmv/ivrtV/WZSGxxjKBLsN0kMwI5a6n7qNMbZ8+hEwB8h2qAJbrzquq8TY86QwNiYbYCrbePbq6a30ejDeJdNaDEh7Z+BKRgrrRCpKfLKoJWuKGQlLM8LzTMU1QmYlw3MvsU/Y4E4Joy/kTADPifv4PrqmKe18jF23/Eyij7BlRDINVOpLguWl1hmqchYJmXpHA1T4omrP5irYp6zZ9HklE4rIVOJTJeV1Eo7FLlkUlaqlCk/0fSyaTqGY/V5ffYp7mkK4d3Q6WmM5uixD35ox2NuPnRk5ilemEH6pQVKx3RltOMFcZlRY5lqU5YnXl4PLxlwkCD21xw8rOHrJJgQwKhjDvHewwANBLosvH/ovqFmBR1pIJzRc+xEEopPHi6etT5pXYpKCiWVzFLGUy0ybniZswItFkKceHs9vPEDQDlkx4hckML6IP8EH1jlaJ2lPcxooYoCy0JKnWIuJJ2OCnbi4/Xw8TdtWBC2CL7ZUDnWNT/+gt/atGzBTZ5LzFRJlRhDYfLU8qqktaSSVJGdIHk9kFyi2fbN9W+V6DZXKVNl6azOqqzSKHipNbNWapEXp8XjpXPxcyn1v+vAMUgf+oAb36APOAL5Pfs4uQD/oNdTb8ebMWBHS1CA7bBFDx+xGUMMnY2fihC0GkkVewtqcrA/ecN6alvrJ3M9O8etd8psyUjbbtDHQzlmAc6Ws/UKqPhaMFnAinHoSQrer4HTtkhvzQMF7bEx5+AOH6k8EA1TexgT+4NsR8OQV67ZUMsSA81Gv31eeciFMVw5VWRcC4kuNw4zOv3T2Z+V7pQhf3KGzOCix6mLQTIxB+5zAyy9/e2e9hnsedcH9Pbp0jymlYdPzaZXJPWdIh8OSeCvKby/YPTbf2TTW6Y=",
+      "product_id": "252514",
+      "product_name": "GasMultiBloc_MBC_65-1200_WND",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "6db987afa192639d5dff1753c8190a95",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_65-1200_WND. Produkt ID: 252514. Der Dokumentyp is Datenblatt. - Eingangsdruck GB-WND 055/057: pmax 65 mbar (6,5 kPa) MBC-WND: pmax 100 mbar (10 kPa)\n\n'\n\nModulationsbereich bis zu 1:10\n\n- Bricht Strömungsmuster auf und reduziert Resonanzen\n\n- Offsetkorrektur des Gas/Luft Verhält- nisses am Servoregler\n\n- Begrenzung des maximalen Durch- flusses durch Drossel mit geringer Hysterese, kein Düsenwechsel beim Wechsel zu anderen Gasfamilien\n\n- Durch Anpassung der Systemkompo- nenten Optimierung auf spezifische Applikations- und Konstruktionsge- gebenheiten realisierbar.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.765991",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztl02P2zYQhv8KoUtbYLUmJZGS9hbXRQq0myy6TXNIAoEihzJrfYGk0qwX+987VBykKJAAe7ZPFsn5eGf4mJTePSbQwwBjaKxObkjCac2qilYilzwvucqYkZUpW60LpUUmkyuSDBCklkGi/WMSHxo/LU7BlzE0ygH+rAFZWRSUlnVWXdPovK4Pk7bGfsdgdpMC779asLoQdX5dCl7XLJrN4AbrvZ1G35zEvHtMMHCUkecZLZ4+oJkDNTnd9JOSYXKrwlmGfQy7eePB+Y2zSkmn0dEHJ4P1m7sHtZduuHPT36CC3+hl7HwzT2qjJ7XEZvl0GmGT8Yyzonkp/e3SB7vFJM3t9udG8JRllDZvX+2a3bbZpdezNsnTE8oxtodRDlFj8jz3k3N4mFdnOc+9xZqw/s1puZdjt8gOfGxFAmOXxAbMONOMy9BCrJ6tM+7rfuuSKSE4FLJSoClkSuSa1VWGHeeaiSSqDvApROOU/GLHDtN47RZ1IC+3KYoklPMN5eUNmQf5iQhOhlY68qO44uRwJ38iWFS0O60zSk8GjK7rUfuXsl5JF/fgI/wZU2Lu//PZ0pZVdZlrUXOjhZGG19C2hTKVqDNWXvg8Yz5/+C9Kb0ZMD93k7BH0N3FSbZ0bzimlKqN5XeWK5jkOWJ4rzHrB6Yxxup300q85PYYDq/aktZ4cF8JuGH3WsaW44VQDVEwI2vKqrQEvWcYLoUydUX7h7Iw5S8kWu7UP5D649wulRgyxNcPiAzgiF0OWURMHejlacIH8AX4a5XiE8VkMZkpGVazgStCKi0qVZV6JMuOqqFSeXxg8awZfG+MhHCbn4BAWR7BpBAvY/L6YQP4Ct49oQtGHlIy4O7gqB3IP7uPkoOtRwrNYbEEZVjJdFdpIkWlZcAAKRvCsVKjtwuI5s7iFDp2P2JAVQ/xssIPEksgOAdinxPTLSqCOQ7JzE456MthAOnD4iYLH5q8P8fQED1fkABY915NVeRj/AbWP5i3Ygbw9DfBSl6NGhzFCb+Rge/vM87WUlGYF522R11JXbcbLnMpMIOplbUR9YfqsmV7RJS/GWXr/GWxH7iOkw2Ea5glPVQyN+L2egx3wno828e73Mxxxx73aA3kRpR8+v5Km61vBb/gU3HJYpzpI8Q/QwrgHG0MhSr31GAs/t6+/w/KHfwHdGahh",
+      "product_id": "252514",
+      "product_name": "GasMultiBloc_MBC_65-1200_WND",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fd498c78b848697accb3b45c27d84346",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_65-1200_WND. Produkt ID: 252514. Der Dokumentyp is Datenblatt. Anwendung\n\nFür Vormischbrenner und gebläseun- terstützte Brenner.\n\nGeeignet für Gase nache EN 437 und sonstige neutrale gasförmige Medien.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.765991",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztVE1v1DAU/CtRzuzGTpx4w41loadd9VDg0FbWi/2SNUqcyHaAsup/x94PUSFUqUdET479Zp7njUe5PaTY44DGC63St0lKEEHRhpOirqCFoiJ5U61kCRIoVTWmb5J0QA8KPAT8IY0fwo2zlXjZo5AWw3JsSDljhPA6Xy1JJB/rw6h0q58BTHaU6NxvBK1ZVRdLXpV1TSNsQjto5/RonDiLuT2koXGUURQ5YY/3AWZRjlaJfpTgR3tUOIHfx7bZJ4fWZVZLCVYFovMWvHbZ9YPcgx2u7fgVpXeZmk3nxDTKTI1yjma5xWgwy8u8pExcgdvOvdfrcInYrt+LqlzQnBDxZbcRm7XYLJaTatPHxyCn1T0aGKLG9GX0M9k/TEcyTFOvw0xh/uxc7sF0M3ToohUpmi6NBkzhRJh5aDBOT6MIjz987PHOfEcTh4vsS+Mb7XtMA+zPZDQ0p6uSIlRl20DIScVyWhW8BqIYB/aajH87GccT+4I/wdMofbybCWmlTT6P0Xy5b0IngzaZjUo6bPpYR+ZwNovEB3P9ieB/ekzWJ+zyaQx3YKPl3/Am3vCXOHIAXgdJFCmrGJcoVwh1zZGTmiHNX+P4H8fxClF3Bn3SXnIZxGNiQO4x+bBLWMGPyXThUbzuQgXn4GmPSQfuxKnCq4XCFpVG81w0738BKBJJFA==",
+      "product_id": "252514",
+      "product_name": "GasMultiBloc_MBC_65-1200_WND",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "9ba9b2eec6628e5f4d6021ed4327d333",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_65-1200_WND. Produkt ID: 252514. Der Dokumentyp is Datenblatt. WhirlWind Familie von 1,5 kW bis 1.200 kW kW | Leiteinsatz Brenner Manager & Zubehor EU-Aus- fiihrung CE III US-Aus- fiihrung CSA GB-WND 055 30 | wei3 Luft- und Gas- 50 rot MPA 10xx 70 grau GB-WND 057 90 druckwachter LGW, GW",
+    "metadata": {
+      "text_as_html": "<table><tr><td>WhirlWind Familie von 1,5 kW bis 1.200 kW</td></tr><tr><td/><td>kW |</td><td>Leiteinsatz</td><td/><td>Brenner Manager &amp; Zubehor</td><td/><td>EU-Aus- fiihrung CE III</td><td>US-Aus- fiihrung CSA</td></tr><tr><td>GB-WND 055</td><td>30</td><td>| wei3</td><td>Luft- und Gas-</td><td/><td/><td/></tr><tr><td>50</td><td>rot</td><td>MPA 10xx</td><td/><td/></tr><tr><td>70</td><td>grau</td><td/><td/></tr><tr><td>GB-WND 057</td><td>90</td><td>druckwachter LGW, GW</td><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.765991",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJydVttu2zgQ/ZWBHvoUR9TNstusAbvpGsEmiwBpamCbQqApKuZWN5BUYzfNv+/QlmTFsRN3H2zezpy5cGaor48WT3nGcx2J2HoPVpD4IWdeMveJ47CY+MPY9dnA9bwBTbjXt07AyrimMdUU8Y+WmUSqqCTjzZpHTHIc1oRO6PuEhEN3cEqM8Po8K2KRiFcApSwYV2qLcIZ+f+idhv1gOHQMrOQyE0qJIldRbczXRwuJjRme5xL/6RvCJGeFjKO0YFQXcm1hSfXC0Nq3iktlS8EYlTEKKi2pFsq+XrEFldm1LP7lTCs7rvJ7FZUFs+OCVSZYqlfk3HYDN3D8aErVVZVqMUEl0dXkY9QPeo5LSDT7+zw6n0TnvdMyTqynJzQnESnPaWZstH5PvBbWq3ItTMsyFegT+m/XxynN7yt6z5UJhcXze8sEoMSdKK+yOTfeu+sdub1vwjmNnXlIvGGfJtTrE3feH7CAMuo48ZAbYs2XOqIqWugsNTJnms5TPjrTC5TFQZopsCJVJc3/uLMGd9ZothAynYk8hj9pJlLB4UeRg3MSwPcZzIUC5xR9xMWZrRcj/JMN0Wizgz9E/moXl1xoLnJF9c92r5mALB5q3S7qnqB/OZdwRXN0XsI7mpUf4J9qzheFfCE8+nTbG1eqB4kQC4lXDR8/wcXFRXt+e7N7fjPuWG03YZgX8ap2Iu5Y5KFF00kPbxNIECDcYOORR9rpL3jgwmuWO6KXVaJ7UGEgMVF6e0Ahglqqnck2rPEo2CqUhd5D1Eeiq+sxOGS5PIYwJHtITPzvJa2OIDgUo7AVGe7TYLCxrNj3B8oWGq/3cjo7gensGJOxrg7YrNjigcqfQJyjeF6C0pcoLGZTycatFuZ0ruHNyf5gGXMNtUeeU2M9HQhX65x7WOWOiLscHxMIr+PO80yF7h21GJNfgbOpyP/ndbjjdX+v1wZd5wV8wW4n0lKKRK2U5lkrei5UmdJV3R9uNC/No1LoQh7j+rqBvZVNbVWPxkLaN5pK/Tu33qTQTg51NY++XN+8Qvku1R/2LOrOtWlZ9qafW091rzc9/uj+DVMu7ypCuK/NqtOmNx3XnCV9Ca4P85RW4A5gW2uwbYzgEdMGDTxOICAYUQ0hgZ2sMr2lTq2N1k0PGJKmDWwpQ8DIdZVh7RngmqJTm+t940ynqAATeyvq7lrx0gBMw9aCTprWYWpScB0MVufhlt8DvETo3nUt17xkG3loXqr2YYO/UopfSZBsiDfP07Ow41t2V7mh4zeDC0uY7OzVQ9P8u9Ax2K+JvCQw1V1L1rttmTUb3UqDti52uNpXt+savrzH2HFoIM+GNwTWXz7119ZnUyDW07f/ALdsb7s=",
+      "product_id": "252514",
+      "product_name": "GasMultiBloc_MBC_65-1200_WND",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "5ccf424f0b06d062cada526cd3bb4804",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_65-1200_WND. Produkt ID: 252514. Der Dokumentyp is Datenblatt. 120 schwarz 01 1 l MBC-120-WND 150 MBC-300-WND 200 schwarz 02 2xA 350 Luft- und Gas- druckwachter MPA 51 & MBC-700-WND 600 LGW, GW Ventilprifsystem Display & Steppermotor",
+    "metadata": {
+      "text_as_html": "<table><tr><td>120</td><td>schwarz 01</td><td/><td/></tr><tr><td>1</td><td/><td>l</td></tr><tr><td>MBC-120-WND</td><td>150</td><td/><td/><td/><td/></tr><tr><td>MBC-300-WND</td><td>200</td><td>schwarz 02</td><td/><td/><td>2xA</td><td/><td/></tr><tr><td>350</td><td>Luft- und Gas- druckwachter</td><td>MPA 51 &amp;</td><td/><td/></tr><tr><td>MBC-700-WND</td><td>600</td><td>LGW, GW Ventilprifsystem</td><td>Display &amp; Steppermotor</td><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.765991",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJydVttu2zgQ/ZWBHvoUR9TNstusAbvpGsEmiwBpamCbQqApKuZWN5BUYzfNv+/QlmTFsRN3H2zezpy5cGaor48WT3nGcx2J2HoPVpD4IWdeMveJ47CY+MPY9dnA9bwBTbjXt07AyrimMdUU8Y+WmUSqqCTjzZpHTHIc1oRO6PuEhEN3cEqM8Po8K2KRiFcApSwYV2qLcIZ+f+idhv1gOHQMrOQyE0qJIldRbczXRwuJjRme5xL/6RvCJGeFjKO0YFQXcm1hSfXC0Nq3iktlS8EYlTEKKi2pFsq+XrEFldm1LP7lTCs7rvJ7FZUFs+OCVSZYqlfk3HYDN3D8aErVVZVqMUEl0dXkY9QPeo5LSDT7+zw6n0TnvdMyTqynJzQnESnPaWZstH5PvBbWq3ItTMsyFegT+m/XxynN7yt6z5UJhcXze8sEoMSdKK+yOTfeu+sdub1vwjmNnXlIvGGfJtTrE3feH7CAMuo48ZAbYs2XOqIqWugsNTJnms5TPjrTC5TFQZopsCJVJc3/uLMGd9ZothAynYk8hj9pJlLB4UeRg3MSwPcZzIUC5xR9xMWZrRcj/JMN0Wizgz9E/moXl1xoLnJF9c92r5mALB5q3S7qnqB/OZdwRXN0XsI7mpUf4J9qzheFfCE8+nTbG1eqB4kQC4lXDR8/wcXFRXt+e7N7fjPuWG03YZgX8ap2Iu5Y5KFF00kPbxNIECDcYOORR9rpL3jgwmuWO6KXVaJ7UGEgMVF6e0Ahglqqnck2rPEo2CqUhd5D1Eeiq+sxOGS5PIYwJHtITPzvJa2OIDgUo7AVGe7TYLCxrNj3B8oWGq/3cjo7gensGJOxrg7YrNjigcqfQJyjeF6C0pcoLGZTycatFuZ0ruHNyf5gGXMNtUeeU2M9HQhX65x7WOWOiLscHxMIr+PO80yF7h21GJNfgbOpyP/ndbjjdX+v1wZd5wV8wW4n0lKKRK2U5lkrei5UmdJV3R9uNC/No1LoQh7j+rqBvZVNbVWPxkLaN5pK/Tu33qTQTg51NY++XN+8Qvku1R/2LOrOtWlZ9qafW091rzc9/uj+DVMu7ypCuK/NqtOmNx3XnCV9Ca4P85RW4A5gW2uwbYzgEdMGDTxOICAYUQ0hgZ2sMr2lTq2N1k0PGJKmDWwpQ8DIdZVh7RngmqJTm+t940ynqAATeyvq7lrx0gBMw9aCTprWYWpScB0MVufhlt8DvETo3nUt17xkG3loXqr2YYO/UopfSZBsiDfP07Ow41t2V7mh4zeDC0uY7OzVQ9P8u9Ax2K+JvCQw1V1L1rttmTUb3UqDti52uNpXt+savrzH2HFoIM+GNwTWXz7119ZnUyDW07f/ALdsb7s=",
+      "is_continuation": true,
+      "product_id": "252514",
+      "product_name": "GasMultiBloc_MBC_65-1200_WND",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "85d3394bce10ca841c23993f43b09029",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_65-1200_WND. Produkt ID: 252514. Der Dokumentyp is Datenblatt. 1.200 schwarz 03 Air/Start MBC-1200-WND 1.200 VPS < <",
+    "metadata": {
+      "text_as_html": "<table><tr><td>1.200</td><td>schwarz 03</td><td>Air/Start</td><td/><td/><td/></tr><tr><td>MBC-1200-WND</td><td>1.200</td><td>VPS</td><td/><td/><td>&lt;</td><td>&lt;</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.765991",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJydVttu2zgQ/ZWBHvoUR9TNstusAbvpGsEmiwBpamCbQqApKuZWN5BUYzfNv+/QlmTFsRN3H2zezpy5cGaor48WT3nGcx2J2HoPVpD4IWdeMveJ47CY+MPY9dnA9bwBTbjXt07AyrimMdUU8Y+WmUSqqCTjzZpHTHIc1oRO6PuEhEN3cEqM8Po8K2KRiFcApSwYV2qLcIZ+f+idhv1gOHQMrOQyE0qJIldRbczXRwuJjRme5xL/6RvCJGeFjKO0YFQXcm1hSfXC0Nq3iktlS8EYlTEKKi2pFsq+XrEFldm1LP7lTCs7rvJ7FZUFs+OCVSZYqlfk3HYDN3D8aErVVZVqMUEl0dXkY9QPeo5LSDT7+zw6n0TnvdMyTqynJzQnESnPaWZstH5PvBbWq3ItTMsyFegT+m/XxynN7yt6z5UJhcXze8sEoMSdKK+yOTfeu+sdub1vwjmNnXlIvGGfJtTrE3feH7CAMuo48ZAbYs2XOqIqWugsNTJnms5TPjrTC5TFQZopsCJVJc3/uLMGd9ZothAynYk8hj9pJlLB4UeRg3MSwPcZzIUC5xR9xMWZrRcj/JMN0Wizgz9E/moXl1xoLnJF9c92r5mALB5q3S7qnqB/OZdwRXN0XsI7mpUf4J9qzheFfCE8+nTbG1eqB4kQC4lXDR8/wcXFRXt+e7N7fjPuWG03YZgX8ap2Iu5Y5KFF00kPbxNIECDcYOORR9rpL3jgwmuWO6KXVaJ7UGEgMVF6e0Ahglqqnck2rPEo2CqUhd5D1Eeiq+sxOGS5PIYwJHtITPzvJa2OIDgUo7AVGe7TYLCxrNj3B8oWGq/3cjo7gensGJOxrg7YrNjigcqfQJyjeF6C0pcoLGZTycatFuZ0ruHNyf5gGXMNtUeeU2M9HQhX65x7WOWOiLscHxMIr+PO80yF7h21GJNfgbOpyP/ndbjjdX+v1wZd5wV8wW4n0lKKRK2U5lkrei5UmdJV3R9uNC/No1LoQh7j+rqBvZVNbVWPxkLaN5pK/Tu33qTQTg51NY++XN+8Qvku1R/2LOrOtWlZ9qafW091rzc9/uj+DVMu7ypCuK/NqtOmNx3XnCV9Ca4P85RW4A5gW2uwbYzgEdMGDTxOICAYUQ0hgZ2sMr2lTq2N1k0PGJKmDWwpQ8DIdZVh7RngmqJTm+t940ynqAATeyvq7lrx0gBMw9aCTprWYWpScB0MVufhlt8DvETo3nUt17xkG3loXqr2YYO/UopfSZBsiDfP07Ow41t2V7mh4zeDC0uY7OzVQ9P8u9Ax2K+JvCQw1V1L1rttmTUb3UqDti52uNpXt+savrzH2HFoIM+GNwTWXz7119ZnUyDW07f/ALdsb7s=",
+      "is_continuation": true,
+      "product_id": "252514",
+      "product_name": "GasMultiBloc_MBC_65-1200_WND",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1f27ee685d6bc113b1763cfce9de1e1d",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_65-1200_WND. Produkt ID: 252514. Der Dokumentyp is Datenblatt. Leistungsbereiche  Typ  kW \n\n2 … 4\n\nLeiteinsatz - Das Herz des WhirlWind-Systems  Integriertes Venturi  2. Signalverstärkung  Leitschaufel  1. Signalverstärkung  Leiteinsatz  +  Patentiert  +  2-stufige Signalverstärkung  +  bricht Strömungsmuster auf       und reduziert Resonanzen   Geräuschdämpfer ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.765991",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztVF1v0zAU/StXeYW2rp1PHkelMYlNFQP6sE2Ra9+0ZokT2Q6infbfuW43gaYxiUfQ8pI4957jc4+PfHWXYIsd2lAbnbyDJONCZEWOuaoYKp6mZS5SXYiqLDMUfJ28haTDILUMkvrvkvhR+350Ch/XWCuH9DoQzos0ZayoeDllEXyod702jXmhYXC9Qu9/dcyrNK/EtMizqprHtgFdZ7w3vfX1g5iru4SIowwhOEvvb6jNoeqdrtteydC7g8JBhm2knX3x6PzMGaWk0wT0wclg/Gy5U1vpuqXrv6EKfqZHu/H10KuZ7tUYzfKT3uKMZzybp/Wp9OdjG8wJbVKfn7yv82wy54zVq4tFvTipF5PpoJvk/p7kNKZFK7uoMfk7+AM47IYDWA5Da2gmmn/2UG6l3Yxygz5akaDdJNGAgf7UduzWGKfnUUTAHyFyfETjQ5yNamjUFgE+7waA2xVEvsetzjqiSAj4NCu4zlAyUa0xpkaKRnMtWZqzrGj0vMLXrPw/WeFwPXLGc0h/j8aSABfH/mfywcqSo2AiYykiX+eNWJdl0WQFVyLDUr7m45/Oh3hylwQ01suwhwkspIcP6PZARsBqa1y7MlZPLnc+YOcBzmzAjTPoAtW/kgmjMwB8CpdmY2X7nbwM1yNjmLpbMgwg0ntycmywBZi/3PioA94ALCkBNsSdDks+oRuvMRv8IwE1rekYtwEug4uVJu/imXUjaXdACuD4jFaDQz3uD+Sf0PdW2j1aKp2iO3KOpFkfP7uhIfgz9+rNT6mTYGI=",
+      "product_id": "252514",
+      "product_name": "GasMultiBloc_MBC_65-1200_WND",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e42c6c7729bb92ba259347684165b11e",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_65-1200_WND. Produkt ID: 252514. Der Dokumentyp is Datenblatt. System MPA 51 Display Burner Management System i ] ultBl BC-300 ise MPA-Vision Service Tools il Gas prossur [ GW A5 Vae proving ystem WhirlWind VPS 5 ey Zindung Flammeniber- ’. Air prossure switch LG Brenner/Burer\n\nMPA 51\n\nMikroprozessorgesteuerter Feuerungsautomat für inter- mittierenden Betrieb zur Steuerung und Überwachung von pneumatisch modulierenden Gasgebläsebrennern. Durch ein PWM-Signal wird die Drehzahl eines Gleich- stromgebläses gesteuert oder geregelt.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.765991",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztVNtuGzcQ/ZXBPlcS977bNytCjAJVIECuBdQxFhQ50rLlkguSa1c2/O8ZykrqBkGBPLbI0/IyZ3jOzNm5e05Q44AmdEomP0Mia9lkWVE2dVsKJljNyiZPS1GnqajKIk9+gmTAwCUPnOKfk7jovJ2cwM977IRD+pwTpnVRMFa3WTNnEXy+H6xUB/UvAaOzAr3/OyJti6rN53VVtm0aw0Z0g/JeWeO7C5m754QSRxp5nrHi5Z7CHArrZKet4MG6M8ORhz6mXfzm0fmFU0JwJwnog+NB+cXmJHruho2zf6AIfiEnc/TdaMVCWjHFYvmZNbjIyqxMi+6a+/Wkg1rSI916+a6rylmaMdbtPqy61bJbzeajPCQvL0TnoDQaPkSOyffBL+BwGs9gPo5akSbSv7hca26OEz+ij6VI0ByTWICRTjozDXuM6vNIIuBfIebYnnzAAdabKyhTWCk/an6C5eQMOlhzQ8goFi5xCu6BiC41LN/NcsZAeYzg2a2KbYAtugclEG6s1R6UBlIG1EjvJwd3cL2DqxJuOcazB2WO8Jp21yund8pIuN1soQQ8we+0o5rDe80HYqCI+ww+ThlL2zlcKfc5K4J/VEH08Os1LB0a4r0g+qQ0qrxU6peBdCSk+2urt5I1lTw0rMnS6rAXZAPZtFWZ5rzYs6r6YfX/j9VfPf7WFjcq6G/aIssyZLwVpazyhh+KjIsqT1ldNo0s27z+YYv/ti3OJ+47xsA/fKT+dJZa80StsY5eCjihCzQv38dFLBOfgh14gMPHibGDcKBMiPNrUCEopIclGlhicAr38ESjcRsuUJhoCEaUFMT1kYs+Hj7QaB0NTkPsDM06avCkvySi2h1xryMKC4/71ylo5rAiP/aAysBmt55t1dFwDY/KSZAKYeWwf+K9jgHo4VqjEv0MqP92eJvPwxeNQP5wtHV4RB3mb/+lD9xF3zzgTSzTy/0nVBmrdg==",
+      "product_id": "252514",
+      "product_name": "GasMultiBloc_MBC_65-1200_WND",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "9d03014b7fa2c56a055ff2a0e43fdb33",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_65-1200_WND. Produkt ID: 252514. Der Dokumentyp is Datenblatt. Heizungsregler können an den Leistungsreglereingang oder an die integrierte eBUS Schnittstelle angeschlos- sen werden.\n\nDas Anzeige- und Bedienmodul zeigt den Betriebszu- stand des Automaten und ermöglicht die Einstellung und Abfrage von Service- und Benutzerparametern. Die MPA Vision Software MV 2000 ermöglicht die Para- metrierung und Analyse des MPA durch einen PC oder Laptop.\n\nSystem MPA 10xx",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.765991",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztU8tu2zAQ/BVC59qmnpZ6s+OiPcSBASfpIQ0EilzJbCVSIKkkduB/z1J5oigK5Fg0J1Hk7HJmOHt1H0ALHShXShF8JgGHPGE0EnUUQ87mIkuYKADmRQQFD6Ms+ESCDhwTzDHE3wd+UVo9GA7P/1ByA/gZG4bzJKEU6/Mp9cXjeaeFrOVfAL3RHKx9RYRFkhXxdJ6lRRF6WA+mk9ZKrWz5RObqPsDGnkYcRzQ5XiPMANdGlK3mzGkzMuyZ2/m2swsLxs6M5JwZgYXWGeaknW32fMdMtzH6J3BnZ2JQjS17zWdC88GbZSdawSxKozRMyq/MrofWySVeUq6XJ2WWTsKI0vL72apcLcvVZNqLOjgekU4tW1Cs8xyD95U/Fbt9Pxazvm8lakL9s6fjlqlmYA1Yb0UAqgm8AT3ulGroKvDq43HHvL53IWieiTqneRRmdcXRC5EXWRrGLKlolgWetYM758HfQB68FwaaFgz59WOgtM6UAkWYIgI/pyCte4WAVA2yImiuGSESiFQOGiPBOCCwvNiSLd8p6Zx10LaAKFTAd622E2Kx4y0YbDz1Ap+1nzHjH+oGzj0vJPh7iCmDNKO8CuMsr0Jao6AcFwWFKOYpjz9C/B+HeMUsWagDyAYmZFCCLAFjqdD0oSV+241JXoLDkFb2MGAOHUMceksWg9Mdvq0aK/H1HkegQRk7N8b7i1RjktHuEbOoaoPsyY1WZAvmRvKXa9XgDmBQCXrpwKgpWWGD9WZBLqXPBNnq2t2iULK+JGgm/eOFG6yfkG6ka15uVazdWxg5+4YCo70jOI7IfHPyOI+nrHe6f+dkQZWJKuRVnsd5VKVxEoVFRfNiHuaMFfOPyfq3J+vtoGz3GORujE9I7+7e5uRcuhaC4/UDdu6hmw==",
+      "product_id": "252514",
+      "product_name": "GasMultiBloc_MBC_65-1200_WND",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "04cfe98f6b3c6269c67c255af0a697e7",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_65-1200_WND. Produkt ID: 252514. Der Dokumentyp is Datenblatt. Burner Management System  MPA 10xx  GasBloc  Gebläse  Fan  GB-055/057  MPA 101x               Swirlplate   WhirlWind      Zündung &   ControlBloc  Flammenüber-  wachung  MPA 109x  Ignition & Flame   safe guard  Brenner/Burner \n\nMPA 101x & MPA 109x\n\nMikroprozessorgesteuerte Gasfeuerungsautomaten für die Zündung und Überwachung von Gasbrennern mit oder ohne Gebläse.\n\nDie Geräte sind geprüft nach EN 298 für intermittierenden Betrieb.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.765991",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztVUtP3DAQ/itWDpy6xHlveutCqTiAkKBCKkWRY4933SZ2ZDs8ivjvHW92eVQIiWNb9rJ+zOObmc9fLu4i6KAH7Rsloo8kSvhcZixL8prRVPA5Z61sq6zNhEhSwaroA4l68Ewwz9D+LgqLxpnRctjuoeEW8G8KWOU5pVWdzndpcF7f90YoqV4xGKzh4NyjRVLnZZ3tVmVR10kwG8D2yjlltGs2YC7uIgwcYGRZSvP7SzSzwI0VTWc488auEQ7Mr0LY+KsD62KrOGdWoKPzlnnl4pNbvmK2P7HmB3DvYjHqpWsGw2Nh+Bia5WZGQ5wWaZHkzRfmjsbOqwUmaY4We01ZzJKU0ub8eL/ZXzT7s91ByOj+HuFI1YFmfcAYvc194+xvh7UzG4ZOYU1Yf7y57phejmwJLrQiAr2MQgMGPGn02LcQqs8CCA83PsRYjFaDJUdMo00oi5zeOg89IUcnn0hCb24IQXQBGC6g7b6PlELugJADpvFoMaNFEdOi2nok6PHsd3qtbDd0OFLcnK9wc660mO6+hXCS69BesoMHe0Z7a7op30HHesQ02SD4GSHXjK+C7SZZjckOl1qFHqB/cAhZHJNAsBEW0ywsaCwx3lQaurRt4GGPRUfYjj9fAJdtUbCyFoKl+AwgFfgAKkZ5RqukYPX7C/h3XsADa3ceOPWUI2fKdy9yJJnnEsFLXoqKlkJykHhSlHUpskxW7TtH/m6OrE/sGzThGanUT2twNL9wNMZiJg8jWFRArEGGZWgUG73pcYaayEniLBEKnmviiEoZ9iLo31b8rlDsMFA7KZsmvfIEp2KJWWl4ptK7T6l8zGwY2xWcBZQvUDrNi4QVooayoC0rSmRbzqWsSirKoqreZe9/pvS+CtSyE7OQyS58xJcw2Imu0hON9CSfj0lazx8ZrbQPw/JeAWYWSPYFeKugfY2al78BJDhRKQ==",
+      "product_id": "252514",
+      "product_name": "GasMultiBloc_MBC_65-1200_WND",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "41d1050809dac9db0d5c55b8850bc979",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_65-1200_WND. Produkt ID: 252514. Der Dokumentyp is Datenblatt. Abhängig von den Anforderungen stehen Versionen mit mehreren Startversuchen, Wiederanlauf, interner oder externer Zündung zur Verfügung.\n\nDie Flammenüberwachung erfolgt nach dem Ionisati- onsprinzip.\n\nMPA 109x Varianten können direkt an die DUNGS Mehr- fachstellgeräte GB 055 und GB 057 angebaut werden.\n\n3 … 4\n\nProgrammübersicht WhirlWind 1,5 - 1.200 kW\n\nDUNGS® Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.765991",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztlUtv3DYQx78KobN3l6REadWbnUXdHGwYSBMDTQKBj6GWtUQJJOU8DH/3DneddoEGBXxMY13Ex8zwP8Mfhu8fChhgBJ86Z4pfSKGrpuWy1bYpbbul+BnVyqaurN5WDFhxRooRkjQySbR/KPKgi9MSNHybQ6cD4O8QkDVVRSkG3a5pdj7sj5Nx1v2HwRwmDTH+Y8Haqm7LdVOLtj2ImCGMLkY3+dg9iXn/UGDgLKMsOa0eP6JZAD0F0w2TlmkKB4WzTPscdvM2Qoib4LSWwaBjTEEmFzc3X/RehvEmTH+CTnFjFt/Hbp70xkx6ycWKq8nDhgsuWNVdyni1DMld4CHd1cWrrhYrxintbq933e6i263Ws7HF4yPKsW4AL8essXie+5Nz+jIfnOU8Dw5zwvw3T9uD9P0ie4i5FAX4vsgFmHGl88uoIGdfHlbCyX1bJYSsW2MkZ1UL3FjVNJLqkjZMyLbIqhN8Ttn4XO0/LJRC5XvXk/vJEwOenHuLJYaAVcJZTLDH3zssLWrD0egSGWEfAE8lb5IM6R73Fo1WZ+QWIYAg/SAXe0acTxA8BIKXEQgeepz9kQ+12ud7IF+XkIPb41qPS+uc/Le6XMuQL/Eefs+aUfy/AC+5FeVWIeg1r9WWSQVlYzkTWhipzAvgPzHgOwfk10GOWIIjXxj0k9T7DB4yNw19Ih7nyP1IXk/eRRS4InhFc3D+q5ufx6JgtrYt0sEpk6JRNa2Zag2XHPBwgBcWf2IWr27OCaPtZ/JOBiexM3pyd4Cy9rmtGhfgLhGZR0B2b68v35ArbLMrYhFQ7MLD0EM4tusE5PKCUCHI4s1x2KBnD0ouiXwC7N7+mV1UUKEkL1VbY/9UDZVU4RhRqGrZKP1C7o9N7imIJfmwcMprUp0icoMO10f77/BhqnbLjdBaUWioEQZUKSvGmOXbRpTqhY8fmo/qlA9MsA/4Zv79Ykan94nc7l0Ybh02HHYmyIqwNaohd7enEP0G0nwfoMrUjWgZ42WV82sqUbOmtgZjNBRq+wLQ/wegw+OV6ZFAXk2jWmIOh0OfwjTEU2BejximePz4FxCAoNE=",
+      "product_id": "252514",
+      "product_name": "GasMultiBloc_MBC_65-1200_WND",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d11a1beb3abceee6e5931e211d529c30",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_65-1200_WND. Produkt ID: 252514. Der Dokumentyp is Datenblatt. Technische Daten GB-WND 055 | GB-WND 057 MBC-120- WND MBC-300- WND MBC-700- WND MBC-1200- WND 65 mbar (6,5 kPa) 100 mbar (10 kPa) p/ % Rp % Rp % p/ % 1% NPT/ Ya, 1 1%",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Technische Daten</td><td>GB-WND 055</td><td>| GB-WND 057</td><td>MBC-120- WND</td><td>MBC-300- WND</td><td>MBC-700- WND</td><td>MBC-1200- WND</td></tr><tr><td/><td>65 mbar (6,5 kPa) 100 mbar (10 kPa)</td></tr><tr><td>p/</td><td>%</td><td>Rp %</td><td>Rp %</td><td>p/ % 1%</td><td/><td/></tr><tr><td/><td/><td/><td/><td>NPT/ Ya, 1 1%</td><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.765991",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVgtP5DYQ/iujSEig2xDntWErQAL2RKsWhAp3VQunyEmG3ZTEiWynwFH62ztOdrMBdilFII+/eXj8+D5y/WRhgSUKHeeZ9QNYzE+iiOOeO/bQnyQ8Za6LgRcFEx5G0d6tNQKrRM0zrjnFP1nGiFXVyBSXc4xTiTS0Bd0oCBiLJt7eLjPJrb+ssvw2fyegllWKSq0i3Ekwnvi70TicTFwTVqMsc6XySqh40cz1k0WFTRu+77Hg+RuFSUwrmcVFlXJdybbDmuu5Ket8USiVI/M05TKjRKUl17lyLh7TOZflhaz+xFQrJ2vETMV1lTpZlTbmsJRdCXS80AvdID7l6qwpdH5Mi8RnxyfxOLRdj7H4t/NpPD2Op/Zund1az8/Uzm1eoOCl6dH6f+mLZP1Yt8m8rouc9kT7dxbugotZw2eozFFYKGaWOYCakFg0ZYJm9wEhGh90zFU812VhSu1rnhR4uK/nyDMapDEPrzCdi1ylc4Qp3YjYdwg0jtNjmzoDFoY99Df0YNSDtBWzDxvI8QL02RowWgeaYxigjmnNWbaZVNnjotvMwAbLIK0KVXNxcGONb6zDcQhlwiVsj0ch3F3wHXAZW0Aua5Eusy29qFU7y2qHW731aw0bJrUDW+Cu5q+MYeVNMUPj/OLKgd/5CNwPFv1c4J2W7U1JOBI0Fo1SfUKPwGXdFAhKYwn02CXkQuNM5igJ6cPPqgIf4PLRXpVKqgcocw0/8wSLNQcd0EFfakzv/kKZ5MKwBQRP5zD96Rw+n4MbhT5z7T3mr2k+FwlvCnqjawp7VPiMzwRq0/UcRQYKxR1Req4hyRXcc0rspkWOMwrY0N4qzWykba5KUCzL0ol063zgygaVQ6psu+FNw1jCTtqOPkUMlvOV9dqTYA6/XJxuXu3VM96GnZDZY/bjd/CCr/DJZVsOLbwFQ4fPWg89RuOjYfvoZKeDB2GuuzashbenxvK+wkFnmrWWxpteBy1G1OL3+4IrZa7+GtjwB0jHXyCDSs6CxE6nQNbzQp2MKr3Wn5XEhAO1gaHKwFBdYKgq8EJNoC75wy58QBzgHIW4x1wjEOfpt73BbASnnYU9ts6iuA4hMo8M6hpWt1BqLEK8HuhTvMGiJAbtX+dbmUiDx9xg4HyxloFfLGaAwVruYLX1+rFQi5UcfIzhgwIroXmjJEPl6WQFVkIAGyn/URZv0Ab4Us4wMf/LbTBPfxM7qSn6uOC6kf9NYTomLoQ5j39aHoUMbBgzaJkKPdO66/Jbvr0N9Nl7kZ37TRYx9r2szn2w5DQMSP3K/qNZMvfk8whOLo/Mt8TyM+PKENN6/vYvLP0EJQ==",
+      "product_id": "252514",
+      "product_name": "GasMultiBloc_MBC_65-1200_WND",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "751da3ddf293787370ee182586b91e18",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_65-1200_WND. Produkt ID: 252514. Der Dokumentyp is Datenblatt. Elektrischer Anschluss Anschluss Spule stem oder integriertem Molex Sy- Anschlussbox mit Kabel Steckverbindung nach DIN EN 175301-803 Einbaulage Magnet stehend senkrecht bis waagerecht liegend senkrecht mit nach oben stehendem Magnet -15°C bis +70 °C 0 °C bis +70 °C bei LPG",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Elektrischer Anschluss</td><td>Anschluss Spule stem oder integriertem</td><td>Molex Sy- Anschlussbox mit Kabel</td><td>Steckverbindung nach DIN EN 175301-803</td></tr><tr><td>Einbaulage</td><td>Magnet stehend senkrecht bis waagerecht liegend</td><td>senkrecht mit nach oben stehendem Magnet</td></tr><tr><td/><td/><td>-15°C bis +70 °C 0 °C bis +70 °C bei LPG</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.765991",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVgtP5DYQ/iujSEig2xDntWErQAL2RKsWhAp3VQunyEmG3ZTEiWynwFH62ztOdrMBdilFII+/eXj8+D5y/WRhgSUKHeeZ9QNYzE+iiOOeO/bQnyQ8Za6LgRcFEx5G0d6tNQKrRM0zrjnFP1nGiFXVyBSXc4xTiTS0Bd0oCBiLJt7eLjPJrb+ssvw2fyegllWKSq0i3Ekwnvi70TicTFwTVqMsc6XySqh40cz1k0WFTRu+77Hg+RuFSUwrmcVFlXJdybbDmuu5Ket8USiVI/M05TKjRKUl17lyLh7TOZflhaz+xFQrJ2vETMV1lTpZlTbmsJRdCXS80AvdID7l6qwpdH5Mi8RnxyfxOLRdj7H4t/NpPD2Op/Zund1az8/Uzm1eoOCl6dH6f+mLZP1Yt8m8rouc9kT7dxbugotZw2eozFFYKGaWOYCakFg0ZYJm9wEhGh90zFU812VhSu1rnhR4uK/nyDMapDEPrzCdi1ylc4Qp3YjYdwg0jtNjmzoDFoY99Df0YNSDtBWzDxvI8QL02RowWgeaYxigjmnNWbaZVNnjotvMwAbLIK0KVXNxcGONb6zDcQhlwiVsj0ch3F3wHXAZW0Aua5Eusy29qFU7y2qHW731aw0bJrUDW+Cu5q+MYeVNMUPj/OLKgd/5CNwPFv1c4J2W7U1JOBI0Fo1SfUKPwGXdFAhKYwn02CXkQuNM5igJ6cPPqgIf4PLRXpVKqgcocw0/8wSLNQcd0EFfakzv/kKZ5MKwBQRP5zD96Rw+n4MbhT5z7T3mr2k+FwlvCnqjawp7VPiMzwRq0/UcRQYKxR1Req4hyRXcc0rspkWOMwrY0N4qzWykba5KUCzL0ol063zgygaVQ6psu+FNw1jCTtqOPkUMlvOV9dqTYA6/XJxuXu3VM96GnZDZY/bjd/CCr/DJZVsOLbwFQ4fPWg89RuOjYfvoZKeDB2GuuzashbenxvK+wkFnmrWWxpteBy1G1OL3+4IrZa7+GtjwB0jHXyCDSs6CxE6nQNbzQp2MKr3Wn5XEhAO1gaHKwFBdYKgq8EJNoC75wy58QBzgHIW4x1wjEOfpt73BbASnnYU9ts6iuA4hMo8M6hpWt1BqLEK8HuhTvMGiJAbtX+dbmUiDx9xg4HyxloFfLGaAwVruYLX1+rFQi5UcfIzhgwIroXmjJEPl6WQFVkIAGyn/URZv0Ab4Us4wMf/LbTBPfxM7qSn6uOC6kf9NYTomLoQ5j39aHoUMbBgzaJkKPdO66/Jbvr0N9Nl7kZ37TRYx9r2szn2w5DQMSP3K/qNZMvfk8whOLo/Mt8TyM+PKENN6/vYvLP0EJQ==",
+      "is_continuation": true,
+      "product_id": "252514",
+      "product_name": "GasMultiBloc_MBC_65-1200_WND",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "2c89f05534846552c26d5b0b66f34205",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_65-1200_WND. Produkt ID: 252514. Der Dokumentyp is Datenblatt. ( )50-60Hz 24V +10%/-15% ( )50-60Hz 230V +10 % /-15 % (AC) 230V ( )50-60Hz 110V +10 % /-15 % (AC) 110V (DC) 12V = (DC) 24V (DC) 24V zwlassung [ 0000000000000 ces 000000000000",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>( )50-60Hz 24V +10%/-15% ( )50-60Hz 230V +10 % /-15 % (AC) 230V ( )50-60Hz 110V +10 % /-15 % (AC) 110V (DC) 12V = (DC) 24V (DC) 24V</td></tr><tr><td>zwlassung [ 0000000000000 ces 000000000000</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.765991",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVgtP5DYQ/iujSEig2xDntWErQAL2RKsWhAp3VQunyEmG3ZTEiWynwFH62ztOdrMBdilFII+/eXj8+D5y/WRhgSUKHeeZ9QNYzE+iiOOeO/bQnyQ8Za6LgRcFEx5G0d6tNQKrRM0zrjnFP1nGiFXVyBSXc4xTiTS0Bd0oCBiLJt7eLjPJrb+ssvw2fyegllWKSq0i3Ekwnvi70TicTFwTVqMsc6XySqh40cz1k0WFTRu+77Hg+RuFSUwrmcVFlXJdybbDmuu5Ket8USiVI/M05TKjRKUl17lyLh7TOZflhaz+xFQrJ2vETMV1lTpZlTbmsJRdCXS80AvdID7l6qwpdH5Mi8RnxyfxOLRdj7H4t/NpPD2Op/Zund1az8/Uzm1eoOCl6dH6f+mLZP1Yt8m8rouc9kT7dxbugotZw2eozFFYKGaWOYCakFg0ZYJm9wEhGh90zFU812VhSu1rnhR4uK/nyDMapDEPrzCdi1ylc4Qp3YjYdwg0jtNjmzoDFoY99Df0YNSDtBWzDxvI8QL02RowWgeaYxigjmnNWbaZVNnjotvMwAbLIK0KVXNxcGONb6zDcQhlwiVsj0ch3F3wHXAZW0Aua5Eusy29qFU7y2qHW731aw0bJrUDW+Cu5q+MYeVNMUPj/OLKgd/5CNwPFv1c4J2W7U1JOBI0Fo1SfUKPwGXdFAhKYwn02CXkQuNM5igJ6cPPqgIf4PLRXpVKqgcocw0/8wSLNQcd0EFfakzv/kKZ5MKwBQRP5zD96Rw+n4MbhT5z7T3mr2k+FwlvCnqjawp7VPiMzwRq0/UcRQYKxR1Req4hyRXcc0rspkWOMwrY0N4qzWykba5KUCzL0ol063zgygaVQ6psu+FNw1jCTtqOPkUMlvOV9dqTYA6/XJxuXu3VM96GnZDZY/bjd/CCr/DJZVsOLbwFQ4fPWg89RuOjYfvoZKeDB2GuuzashbenxvK+wkFnmrWWxpteBy1G1OL3+4IrZa7+GtjwB0jHXyCDSs6CxE6nQNbzQp2MKr3Wn5XEhAO1gaHKwFBdYKgq8EJNoC75wy58QBzgHIW4x1wjEOfpt73BbASnnYU9ts6iuA4hMo8M6hpWt1BqLEK8HuhTvMGiJAbtX+dbmUiDx9xg4HyxloFfLGaAwVruYLX1+rFQi5UcfIzhgwIroXmjJEPl6WQFVkIAGyn/URZv0Ab4Us4wMf/LbTBPfxM7qSn6uOC6kf9NYTomLoQ5j39aHoUMbBgzaJkKPdO66/Jbvr0N9Nl7kZ37TRYx9r2szn2w5DQMSP3K/qNZMvfk8whOLo/Mt8TyM+PKENN6/vYvLP0EJQ==",
+      "is_continuation": true,
+      "product_id": "252514",
+      "product_name": "GasMultiBloc_MBC_65-1200_WND",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1df1958d47b4737bb73aa196a9e4a8d4",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_65-1200_WND. Produkt ID: 252514. Der Dokumentyp is Datenblatt. Für weitere Informationen, siehe Datenblatt\n\n3.04 GB-WND 055\n\n3.13 GB-WND 057\n\n7.01 MBC-...-SE/N\n\n7.10 MBC-65/120-...\n\nÄnderungen, die dem technischen Fortschritt dienen, vorbehalten.\n\nHausadresse\n\nKarl Dungs GmbH & Co. KG\n\nSiemensstraße 6-10\n\nD-73660 Urbach, Germany\n\nTelefon +49 (0)7181-804-0\n\nTelefax +49 (0)7181-804-166\n\nBriefadresse\n\nKarl Dungs GmbH & Co. KG Postfach 12 29\n\nD-73602 Schorndorf, Germany e-mail info@dungs.com\n\nInternet www.dungs.com\n\n4 … 4",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf"
+        },
+        "date_created": "1744007928.0",
+        "date_modified": "1744007928.0",
+        "date_processed": "1744194693.765991",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "252514_GasMultiBloc_MBC_65-1200_WND_DB_D-.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztmW2LGzcQx7+K8IvS0tjW80Nflcs1lxByHFxCXyRhGUmj8xZ712jXuYRw372Sc2kKoYXNy2XB4PVKM9JIPzT/kd9+XuEeD9iNTRtXv5GVVYAaQHDrpBRccyUM6OQ4gjOe2dUTsjrgCBFGKP0/r+pDM/SnHPDrb2xCxvJ1dsiMlJQax+2GVuNz+6GPbWr/p8Mx9wGH4VsP5qR2YmO0co7VbkfMh3YY2r4bmsfJvP28Ko7rNITgVD68L90yhj7HZt8HGPt8nuERxl11u30zYB62uQ0BciyGw5hhbIftzaewg3y4yf1fGMZhG0/d3dAc+7CNfTjVxRrWfYdbrrhisrmC4dVpP7YXZZDm1cXTRqs145Q2f15fNpcXzeV6c4xp9fBQppPaPXZwqHNcTTN/NB4/Hc/GcDzu2xJTiX/72LyH7u4EdzjUpVhhd7eqC3Asb5rudPBYo5d1EiN+HKuPZ+9OlKaQyT22I2YkL7rU58PZKXZPyNDiDsll2Y/O72Ec6yBfx7+GXBfrA76uzorX70DSHqmLAVxIlgYvPU0Go5AYvJUuLCDNBySxoZJcXazLQIQqNYkTGgLz1lAPnEtnPQYGSSekRvPElF84mRMnTHzjxEzjREdWUpFhwIKwBhi3hZsIUiFQptLCyXw4MRvKSBlxvdls1rd/bK8nkWKU8NEBUhQBqaKao8KQKHPAhZRuIWVOpDB6JkWrbRmxAjOJFWRCOF30iJPUYnCWJYYpiCCAGsRF7s6Ilap2g+wi5hJg1bexRRLxQEYMu64dwg478qzPY3nK7TjW9rMO/tBnjzvYFx08ja6QRJAalUo+JpFUIcsrjoYyX4R3igtd86HrOZwGiLmu8yRGGC/CV9PETTK0ZKokadKcQ2BRSWaWE2hGjLyEvCeXNThydfDPyU/kab8hL68mAVNqo8SSdMwUVoL3PumoIDnvBAPp5ALMfIC5bevODzXsmr1iQqLXjE47YBgvFbWhJesgq9pYcNTAgaLBENWShGbEy+XaCK0peZM9hN0TclWWFLpP0y7uDPWMa2GZFYlKS4uK0Uxz660pr9TCy3x4eV22PvUd+VU68jP9pewvW1sq1xNPmEjLh3KfDAMrwIPmSVBlvaPGpOVqZm7EwMfviGFaT2IGuAPHbEQTrApJh5KNbDSCR6q8+XI3uDAzD2YucluY+ZHaqG4DeAHWMmEkl1qA5MxEZaKOboFkRpD8V21EbvphTEXNEMYJd9P4kUwiSwppFJ4D0GB5UFZaG5lHudTWM+LnLH0pJ7dh1+cu9jn9I38Jrg/Q7knbpf73c/yb0B8mkSST4ZLxAIqCACeS99FSE0tBxVyieiFpPiS96EbMHY7k/v5+82O4CCZ4qbbROMukYc6XuslKQXXQVOq0/Kk9I1wkeXfilGsi/43ITTG4/tL/4f3ffWurHQ==",
+      "product_id": "252514",
+      "product_name": "GasMultiBloc_MBC_65-1200_WND",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "a975324f5a93d34a29041eb9d9311059",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. Gas Flow Meter MQM with mechanical counter\n\nDUNGS Combustion Controls\n\nGAS  FLOW   METER  MQM \n\nManufacturer / Owner   of EU-Type Examination Certificate  Metreg Technologies GmbH  Tränkeweg 9   15517 Fürstenwalde / Germany \n\n4 4 1 3 9 2 . r N • 0 2 . 2 1 n o i t i d E • y n a m r e G n i d e t n i r P\n\n&\n\n== & | — e S N\n\nTechnical description\n\nThe MQM Quantometer is a turbine wheel gas meter that registers the oper- ating volume using a 8-digit mechanical counter.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztWEtv3DYQ/isDHXKqvRRFPVggh6ZZbwvUjlOv0UMSCBQ53FWrx4KksnFd//cOZRt1CyNwjl3sYVfkvIf6MDPUh9sEO+xxCHVrku8hkZjJUuTGFNioorIZ5ygxTVNdVWWOWfIdJD0GZVRQJH+bxEXtx8lpfNxjrR3SYzaYlkIwVkrOTllUnvn9aFrbfkVg50aN3v8jkUpRyOy0kDLnZRTboetb79tx8PVDMB9uEzIcw8gyzsTdJxJzqEdn6m7UKoxujnCnwjaaXVx7dH7hWq2VM6Tog1Oh9YvLG71Vrr904++og1+Yadj4ejfqhRn1FA/Ln4wDLrjMUiHqlfJE2+Dwp/o4sYxV2w5dff7+HOq3b+rVm9OdscndHQVj2w4H1ccIk29RflANN7tZVe12XUv5UO6LB3anhs2kNujjMSRkMInJ74hSD1PfYMw8jSEE/BKiDfILZ924h3MM6CA63LdhCz1S7gNZ70CP00C8aP7R87oNHSZk57+wyZUSplBNoWWOypaM64KZhhXWqgYrdoTNYcDm7fXF6gp+HPtm8tEQLYfgxs4/RcnPPRl4DiW2SK0VjcnyHHlR5lzpSlclt5w3TPHiiJLDQMnqhyuAs1/e/QYA58v18leYC8yLMNKkuWWCaWo7RcO5bkptsWS5NbZguTk2oAPByLkaJqt0mBy1nwW82w/0BBgtLK9P1uQIll9U3w7qvsygC/TCyCdCbFkON7CmVjWM3bhp0cOqb34CWDvKgaEY/sA9SUgymOZ5WsJZpFvtfMBhrzqD5HJFL1ANNy+DZYqsLCqRZpKX2mQ8a4xRNm9EqWzVSHWE5WHAUoCAFDKCDodTcHABHyfOOAc2EzgxBxihhUA/A8tH9g2RFfSkgbCidWQiCcWVg8unGLtQLp7nZ1xHn89gzVSFKTPFMlXkFbeNyStjRI6C2mZpZX7E2mFg7dVTVFyS3MW92HPlR2VpaXijGVUgZqXJdZWWykgpspQuZkdIHAYkXr+GV/DXXFRSQQXkCi5e1J6YbDjN1WllUlGJTJSpyGRGo1MlU/o3R3wcBj7mmWe+nVPe2rW7aO1FN3SlGzpeaZuqkiiyPFaNppTCMq0Le5yr/88ImSnuG6rBvyC1xfl29n5SQxj7+XNQ62mYodG8aQeE/Raxg43ycM8MWxWABvCWhmnnaYsw0ks7AQp82MDnsaOjhMnHjYLqxLSbNjzzYen0K0PRp78BD8h9Fg==",
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "0245d98c89a5de607220457277c15e4d",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. The MQM is a volume flow meter. The flow of the measured gas causes the turbine wheel to rotate.\n\nVia pulses the operating volume can be transferred to an electronic volume corrector and converted to normal or standard conditions.\n\nThreaded connection\n\nRp 1 & Rp 1 ½, acc. ISO 7/1:\n\nmax. operating pressure 4 bar\n\nFlanged connection\n\nDN 25 to DN 150, acc. DIN EN 1092-1:\n\nmax. operating pressure 16 bar.\n\nApplication",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztl02P2zYQhv8KoUNPiU2KlEjm1mDbIIds02bbSxoIQ3Joq9AXSHmTdLH/vUN3t7uHtoB7K+yLJc4MyXc4Dzjyx7sKBxxxWrs+VK9YBVEZY6TkHkzdgvMgHbSNaJ1FzZWvXrBqxBUCrEDxd1V56fJ8SB4fx9j5hPQ4Lii0UpxrW/MNL5OP/nEOfez/JWBJs8ecnyKEVa2Vm9baptYlbME09jn385S7BzEf7ypauMiQsubq/hOFJfRzCt0we1jndFS4wLovy25/zpjyNvXeQwo0Ma8J1j5v33/1e0jj+zT/hn7N23CYdrlbZr8Nsz+Uw8ov5wm3tZVCqe4NZLLtcPodfj1wyc1+wNS9+/Ed665ed29eb5YQq/t7EhP7AScYi8LqlMkPU9evy3EqLMvQUz6U+/bBPcC0O8AOczmGihasSvILWbrpMDosmYujJT3VmltXuyCFCUIZJZUWSlqpfTRW0G+oiuYVv6wl+GaPrMjqMwN2Ow90DiwO82dGNGDasOI/jufIVnofEfIhYWA7yMzDIWM+2tdDcv2E7PMecWDrzNK8UsU3JYvHBK8hlUrc4k3ZnFT8DaUNSGlrFUPjufANEEQWZMsBm8ZdKD1TSn/pgS2H4RG2mc6fFEy7R2I9TMwRhAmmHDEVPglBMhJffk3z1Pu/QmdyeyoHuQONpltM65/x05xGGBi58kpOqkvxh77kmk8jWUujpXZc8+Cdl9FQulF6GbgytcZ4IflMSb7ZU00DHsma6Fho85PAUto1dW0t96KN1MM5hsi9DxatV7ZpL2CdKVg/LUywb9jxQUq5Cy8YeL9hbz/8wPRWvDoJM4Gt587FWlgtgjagpMFGeanAqCD1BbMzxWyEL5tn/XdJVB76HmSKOUgnIYYCDF1dGENEa2rQQqo2kFVDw0VjL4idKWLfly3+e4dstUKr0TSmDcoZ1YqGSAPeFqpkvFxd58rV1TWrm/KdTy+i4Q/t8ertNfuODNzWL09skgoAWwWotYq6jg4tcC+bGlFEbsLlBjtX0v6pSYq2dMkT/0k6ZYSOWrYIjY3ROokkwbhYQJDmAtn/F7LnzHz7tMZzPm76dcDq/tMfHVbeIA==",
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "42bf143b357eb8c5dd47a1e70c0cc063",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. The MQM is for operational gas-volume measurement and is suitable for gases of families 1, 2, 3 and other neutral gaseous media. MQM is not an offical calibrated counter. It is used for internal controlling processes, most suitable for industrial thermoprocessing facilities.\n\nApprovals\n\nEU type testing certificate as per:\n\n• EU-Pressure Equipment Directive\n\nGas Flow Meter MQM with mechanical counter\n\nDUNGS Combustion Controls\n\nSpecification ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztlk1v2zgQhv8KoXNiU6RMSr1tN9mghxRZNDm1hcGPoc2FJGpJKt1ukP/eoZKgaRFsm2O6PhiW6Znhy5cPqXl/U0EPA4x56231ilSNcEoocLLdQM3A1pKx1jZtI6zkkkJ1RKoBsrIqK4y/qcrDNoU5Gnj4DVsTAb+WgrVsGkplx+iKluTl/yFY7/x/BEwxGEjpa0TdNaLjK9F1GyZL2ARx8Cn5MKbtvZj3NxUWLjI4Z7S5/YhhEUyIdtsHo3KIi8JJ5X0pu75KENM6emNUtJiYclTZp/XFZ7NXcbiI4S8wOa3tPO7SdgpmbYOZi1npOIywZh2vm2Z7phKO7WD8V32YKaftvoe4Pf/znGxPXm/PXq8m66rbWxTjfA+jGorC6jnJ96n587SkqmnqPa4H176+/7tX425WO0jFhgoLVmXxE45sx3nQUFZeLyPx615L3bS1dJILUJvOuU5zqJu21a7sB2+rojnDP7kEX+6BFFk+ERciCej/okD1ZKfS8XXo0RkygEpzXIAiarQlOs0+K93DkoahkEhwxKnB9x6fURU7InyJDnkPkYww40YsZSHMCWtar1YPk4+hVMYSDi3oCX68jgU2YsI8Zogr8iaXwBnpWeb0ZbToNGHMMfS9H3fkAbB0RIaQ8rcq/WhnhMFjTlE0hPvokuiUQeEZpa+K8Q978lbF4sc1XBa/0LjvD5Zl2jHZaq42QmnLG8e6unbWGnTccHU4WC/3YD0+J79NaPG16tNjOi597uEpKoxoGyM5tVp1hjegNdROQSe0U46r9kDFy6Xi++v2hzfAY4xOr0iZn2S0qVw7BmL25crLQFQiuB2vnnX9GCk6LRU30okaNJctF7VuqVB2w1ojD6D9T0H7MDPKGDm9Or6IuDP48ianf89+Wl7hJx59Llg9i7WO0o3mTnUNMKaMErWQeLlx2mw64IIfWHuxrLHH6OC85I8+fCLngB3W0qB98nmPDRuufbxrz+56sp96F7a17boaWiYdp8LVSjPONWhVu4bXnT1g82tgc3L19uwd+T0MGptsLISPS1/+Tcf0ZsACT1FCJWe8NoJRt6FU1K2WjnaatsIyx7g4UPJrUPJuAnPX8BREnkDj4xfVHFbY",
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "6bf95897ba0fb9981f6ee0ff8d60a598",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. Meter size I\"\"———— G10 to G1000 Flow rates 16 to 1600 m¥h Nominal sizes DN 25 (Rp1) to DN 150 (Rp 6) Max. operating pressure Threaded version: 4 bar 16 bar Flanged version: Measuring ratio Rp 1to DN 25: 1:10 DN 50 to DN 150: 1:20 Ambient temperature -20°Cto+55°C Degree of protection IP 65",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Meter size</td><td>I\"\"———— G10 to G1000</td></tr><tr><td>Flow rates</td><td>16 to 1600 m¥h</td></tr><tr><td>Nominal sizes</td><td>DN 25 (Rp1) to DN 150 (Rp 6)</td></tr><tr><td>Max. operating pressure</td><td>Threaded version: 4 bar 16 bar Flanged version:</td></tr><tr><td>Measuring ratio</td><td>Rp 1to DN 25: 1:10 DN 50 to DN 150: 1:20</td></tr><tr><td>Ambient temperature</td><td>-20°Cto+55°C</td><td/></tr><tr><td>Degree of protection</td><td>IP 65</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1Vdtu2zgQ/ZWBgAUatLEutuw4SAO0DZrmwYG3m31qCoGSxjYXFCmQ1CZOkH/fGVmJb3F2+7AwYInk8MztzNGPxwAVVqh9JsvgFIIoH41wEKejqMxHeXySnsTxYDAqT0azkwT7s+ADBBV6UQovyP4x4JfMmcYW+LzGrLBIjxYwHg0GUTQaJ1Ev4svteWVKOZNvGNTWFOjc2iIeD4bjfm84HqfJiM1qtJV0Thrtsi6YH48BAXMY/X4SDZ5+kpnFwtgyU6YQ3tg2wlr4BcOGfzq0LrSyKIQt6aLzVnjpwumyWAhbTa35CwvvwrLRc5fVpghLUzRcLHdsNIbJuE+1yS6Fo7056gdx20T96GSh0GaT3yeQXXzOLj/36nIWPD1RMDOpUIuKIwx+5XJ31S/r9qqoayUpH8o97I6V0PNGzNFxGQICDDj5mnYy3VQ5cuYJ7Xi895lw2cJXiqHOvMgVnp/5BYqSHpZfzyfo0YKTD3gW0pK2oDDK1UJ/vA2S2+D86jagX5NE8WD/Hy7jCLzhRxStAEIGDp+d5KZcdr7K86/K3AHVHR0Z8Gm54yseMlg8jCKoqESRSBcryxa0Q7k2ldRCtTEfArq4hiSFd9/r+IgRaRmnEa9heLSPOBH3PTDEMqqznkNtiY6NxQPYNwtifIkl/E2Uor6cwgByYSns9vGV+7Nx+oo7FATPntihOeCGYo1XoSfpKcSnVGh6T6N1PrybRPv4n6pcEnHBY9XmtJHK+XEScWHz6Is379O0e3853ge7wLlFBDOjshhPM0I5vZhfTWGYvnF5Qr22UigHPfhmGsc59+BCumWtxBIaLT2tbxqbS41wt0BUB6rxSTXUddlUIJQyS5gatayIuFXnAXYM9mO50s7TUTtKUBsnNzPZ8fbNWPlgNNl/4D56mkC1j/jFaL0qyCEaTjsmUafu4Xp6A7+Bb9kDN+vetIc0L7Yyd6gU3EmawUtY8X+w7/Y7yVxFQsIUpLgqLqrbbsxOGFKToMBH6N8zc0zjV8uEl/v4f9RYcEVn2IZ3KLcvptEsHcQK0SoLvOs/E+oIJkLSqRa6QJgxgXJBCg9cekpUaOananLbaRvzK6fuQI6CJ8NthBV2IhKu9Ct46rSNNW2tXrAWF9hSCDgw3bAzhvDK2MBr7Ic1q1kEk+SF2t1ym9/d5hbJ4VUywgah4I0uw26HtlQYNkW0Hy7gLS2EQ2K2q2LP6saqBP9FluAY6K/TFz58D2n6sm6FY3dm/3Wo4bW5hL0ha50UvzZpZL+aEmpXQqFtjUq3184L/L+85w/887f/htGDp5//ACWmMLs=",
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "5b46a06b98b712f3d3e79c24c8f6ba75",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. Materials . Housing . Disyplay unit . Turbine wheel Aluminium alloy Polymer material Aluminium alloy Installation position Horizontal, vertical Connections Pressure: 1x NPT % thread Temperature: 1x thermowell with G ¥4 Recommended calming section inlet = 3x DN outlet = 2x DN",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Materials . Housing . Disyplay unit . Turbine wheel</td><td>Aluminium alloy Polymer material Aluminium alloy</td></tr><tr><td>Installation position</td><td>Horizontal, vertical</td></tr><tr><td>Connections</td><td>Pressure: 1x NPT % thread Temperature: 1x thermowell with G ¥4</td></tr><tr><td>Recommended calming section</td><td>inlet = 3x DN outlet = 2x DN</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1Vdtu2zgQ/ZWBgAUatLEutuw4SAO0DZrmwYG3m31qCoGSxjYXFCmQ1CZOkH/fGVmJb3F2+7AwYInk8MztzNGPxwAVVqh9JsvgFIIoH41wEKejqMxHeXySnsTxYDAqT0azkwT7s+ADBBV6UQovyP4x4JfMmcYW+LzGrLBIjxYwHg0GUTQaJ1Ev4svteWVKOZNvGNTWFOjc2iIeD4bjfm84HqfJiM1qtJV0Thrtsi6YH48BAXMY/X4SDZ5+kpnFwtgyU6YQ3tg2wlr4BcOGfzq0LrSyKIQt6aLzVnjpwumyWAhbTa35CwvvwrLRc5fVpghLUzRcLHdsNIbJuE+1yS6Fo7056gdx20T96GSh0GaT3yeQXXzOLj/36nIWPD1RMDOpUIuKIwx+5XJ31S/r9qqoayUpH8o97I6V0PNGzNFxGQICDDj5mnYy3VQ5cuYJ7Xi895lw2cJXiqHOvMgVnp/5BYqSHpZfzyfo0YKTD3gW0pK2oDDK1UJ/vA2S2+D86jagX5NE8WD/Hy7jCLzhRxStAEIGDp+d5KZcdr7K86/K3AHVHR0Z8Gm54yseMlg8jCKoqESRSBcryxa0Q7k2ldRCtTEfArq4hiSFd9/r+IgRaRmnEa9heLSPOBH3PTDEMqqznkNtiY6NxQPYNwtifIkl/E2Uor6cwgByYSns9vGV+7Nx+oo7FATPntihOeCGYo1XoSfpKcSnVGh6T6N1PrybRPv4n6pcEnHBY9XmtJHK+XEScWHz6Is379O0e3853ge7wLlFBDOjshhPM0I5vZhfTWGYvnF5Qr22UigHPfhmGsc59+BCumWtxBIaLT2tbxqbS41wt0BUB6rxSTXUddlUIJQyS5gatayIuFXnAXYM9mO50s7TUTtKUBsnNzPZ8fbNWPlgNNl/4D56mkC1j/jFaL0qyCEaTjsmUafu4Xp6A7+Bb9kDN+vetIc0L7Yyd6gU3EmawUtY8X+w7/Y7yVxFQsIUpLgqLqrbbsxOGFKToMBH6N8zc0zjV8uEl/v4f9RYcEVn2IZ3KLcvptEsHcQK0SoLvOs/E+oIJkLSqRa6QJgxgXJBCg9cekpUaOananLbaRvzK6fuQI6CJ8NthBV2IhKu9Ct46rSNNW2tXrAWF9hSCDgw3bAzhvDK2MBr7Ic1q1kEk+SF2t1ym9/d5hbJ4VUywgah4I0uw26HtlQYNkW0Hy7gLS2EQ2K2q2LP6saqBP9FluAY6K/TFz58D2n6sm6FY3dm/3Wo4bW5hL0ha50UvzZpZL+aEmpXQqFtjUq3184L/L+85w/887f/htGDp5//ACWmMLs=",
+      "is_continuation": true,
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "e3dc88b47757adb1fb7cc6873b7d4221",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. Special features Counter rotatable (355°) Maintenance free based on permanent lubrication of ball bearings",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Special features</td><td>Counter rotatable (355°) Maintenance free based on permanent lubrication of ball bearings</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1Vdtu2zgQ/ZWBgAUatLEutuw4SAO0DZrmwYG3m31qCoGSxjYXFCmQ1CZOkH/fGVmJb3F2+7AwYInk8MztzNGPxwAVVqh9JsvgFIIoH41wEKejqMxHeXySnsTxYDAqT0azkwT7s+ADBBV6UQovyP4x4JfMmcYW+LzGrLBIjxYwHg0GUTQaJ1Ev4svteWVKOZNvGNTWFOjc2iIeD4bjfm84HqfJiM1qtJV0Thrtsi6YH48BAXMY/X4SDZ5+kpnFwtgyU6YQ3tg2wlr4BcOGfzq0LrSyKIQt6aLzVnjpwumyWAhbTa35CwvvwrLRc5fVpghLUzRcLHdsNIbJuE+1yS6Fo7056gdx20T96GSh0GaT3yeQXXzOLj/36nIWPD1RMDOpUIuKIwx+5XJ31S/r9qqoayUpH8o97I6V0PNGzNFxGQICDDj5mnYy3VQ5cuYJ7Xi895lw2cJXiqHOvMgVnp/5BYqSHpZfzyfo0YKTD3gW0pK2oDDK1UJ/vA2S2+D86jagX5NE8WD/Hy7jCLzhRxStAEIGDp+d5KZcdr7K86/K3AHVHR0Z8Gm54yseMlg8jCKoqESRSBcryxa0Q7k2ldRCtTEfArq4hiSFd9/r+IgRaRmnEa9heLSPOBH3PTDEMqqznkNtiY6NxQPYNwtifIkl/E2Uor6cwgByYSns9vGV+7Nx+oo7FATPntihOeCGYo1XoSfpKcSnVGh6T6N1PrybRPv4n6pcEnHBY9XmtJHK+XEScWHz6Is379O0e3853ge7wLlFBDOjshhPM0I5vZhfTWGYvnF5Qr22UigHPfhmGsc59+BCumWtxBIaLT2tbxqbS41wt0BUB6rxSTXUddlUIJQyS5gatayIuFXnAXYM9mO50s7TUTtKUBsnNzPZ8fbNWPlgNNl/4D56mkC1j/jFaL0qyCEaTjsmUafu4Xp6A7+Bb9kDN+vetIc0L7Yyd6gU3EmawUtY8X+w7/Y7yVxFQsIUpLgqLqrbbsxOGFKToMBH6N8zc0zjV8uEl/v4f9RYcEVn2IZ3KLcvptEsHcQK0SoLvOs/E+oIJkLSqRa6QJgxgXJBCg9cekpUaOananLbaRvzK6fuQI6CJ8NthBV2IhKu9Ct46rSNNW2tXrAWF9hSCDgw3bAzhvDK2MBr7Ic1q1kEk+SF2t1ym9/d5hbJ4VUywgah4I0uw26HtlQYNkW0Hy7gLS2EQ2K2q2LP6saqBP9FluAY6K/TFz58D2n6sm6FY3dm/3Wo4bW5hL0ha50UvzZpZL+aEmpXQqFtjUq3184L/L+85w/887f/htGDp5//ACWmMLs=",
+      "is_continuation": true,
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b3c8ee8ffa0966636faaef7ffb6ef08e",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. 2 … 4\n\nGas Flow Meter MQM with mechanical counter\n\nDUNGS Combustion Controls\n\n3 … 4\n\nFollowing basis versions are available:",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztlctO3DAUhl/FyroltnM1S4pAXYCoCitAkXN8POMqiSPbgVI07157GNRRhSq1u6JZxbH/85+LPtm3zxkOOOIUOqOyY5JJxZQohBAMlBIC+oZVGhtF4wbrG519INmIQSoZZNQ/Z2nRebs4wNd/7MBh/GwNWVOWlDaC0yOagrfno1VGmz8IZmcBvf+lYKKsRXFUC1HxJslmdKPx3tjJd7tibp+zaJzKKApOy819lDkE61Q3WJDBum2FswzrZJvfeHQ+dwZAOhUDfXAyGJ9fPcFauvHK2W8IwedqmVa+my3kysKShuU/2glzLgpWlt259HFvhdMPebfQgrbrAV138eWCdKcn3fnJ0ax0ttnEYrQZcJJjqjD7m+BdaHiat6FyngcT+4m957vjQU6rRa7QpzFk0TBLzc9xp5uWscfUOU8lBPwetunJ3cIpr0mZwl+dr2LA5Ys+in9no2VlU3EuUBcVAONAC9X3DFooWVtVeGDjv2Wj2Gcj5iVng30kFxjQkZTw0YQ1GTH2PkX3gYBdpni2z861CQO+hY0uBWjGtaBS1rqlUiPtsYrXi9LAoD5g8z6wOb25PP9KPtmxX3wyisspODv4fUo+j9HgLUo4qKpVoDhWAgtooFBV35ZQ1S1tZN8eKHkflBT/8PDossa24Ui55FS0pe7TdcLj9dEzhbo6sPE+2DizQ3x2zLQivfTGk4c4ijRLIh0S+SDNIPsBj/fBuZQuzecBr5PH5v4nCpduew==",
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c7cff3287a6f850f3944bc1fd0da5575",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. Article designation Order no. Size (inlet/ outlet) G-Type Length (mm) Max operation pressure Measurement range min (Bm%h) | Measurement | range max (Bm/h) Pulse genera- tor MQM Rp 1 (1.6-16) 292732 Rp 1 10 185 4 bar 1.6 16",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Article designation</td><td>Order no.</td><td>Size (inlet/ outlet)</td><td>G-Type</td><td>Length (mm)</td><td>Max operation pressure</td><td>Measurement range min (Bm%h)</td><td>| Measurement | range max (Bm/h)</td><td>Pulse genera- tor</td></tr><tr><td>MQM Rp 1 (1.6-16)</td><td>292732</td><td>Rp 1</td><td>10</td><td>185</td><td>4 bar</td><td>1.6</td><td>16</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy9mG1vpDYQgP+KhXRSKnXBGGzgFEVqdLp8Sdq0vft0d0IOOFmq5UWGlS6Xy3/vGLOLedtj26pSCLZnPDyeGb/tpxdL7EQuiibOUustsjyPkUSwIEySKA0wTVw38R8T7oWucEPPs35GVi4anvKGg/6LpQpxXe5lIg51ESdSwKs16Aa+j3EQEWxj1bmV52WaPWYnFCpZJqKuew038lnk2SyKKAmUWiVkntV1VhZ13MF8erHAsMLwPIL91y+gJkVSyjTelQlvStkSVrzZKrPOx1rI2pFZknCZQse6kbzJauf+Odlymd/L8i+RNLWT7ounOq7KxEnLZK+cVW/KQjgk8lzfj294DW1PovjGP++xh8PtTsj47vc7FL+7jm+u7Sp9tF5fAeYx24mC54rQOqdz17V5rtquvKp2GYwHxu504h0vnvb8SdTKDRYYtNTgK2iJi33+INTIPWhpxNcm5nW8bfKdMnXZ8IeduLpstoKn8JKqePWLbLJkJxC4JHsq2g9dOtCuZL/JVEhUlPax5c/sm0AXWQGADir3Dbx/OgpvNh+A+li9BbRmiy7yvFe5419RCeFsv4MqCXHfy77LneCqrtyOJAxToDwr0MV1/mbb2/iOTLXvB0WwDIqOoXi/39UCgb/hexsEKaEljhq5c/DCQ5k+d85Ir1Qs/qiQiy5cm21cpmylrYREJPDIsaqUjhUX98WQHss+euCyl9isL/dFXWiRJgzEphtCRwzeAgNbwUDoXPEUgm/jjY8NBAwI/jyCYXIZAQz2ZbyKgYEb2NgNdJ7BXxMKMNiX1/jhzQIEG0AEZA6DGNnxLzDe/YoIXUjL4FhttWbzkhpl9s8Ts8OYzcxwCYOtwTgnNzuKSXIqimiBwgRapjgrPTuMudQw+g4x/FUxOTc1KEYXnk1mOFyTg84Oji1iKJNzHLfvT5JQiIuLR4HxyQKJYXeZhBpxAdM/9kgIHKHiYGMOz+QI5826ZJEkNEnYShKX0LeEjkgCvETCVpG4xDbTeyUKUXNmQOKGQbRAYlo9QaKOc0Zm/ZgEfN06ZeIT3zdJBiFh61azs53Ssky9Aix0iWXglhNL2rlu0SwegWk82nN9tsRi2j3B4hHbnHJrWNpFhbBJiAbbjUsXUML/GoW2i8rYL+ESjGn4BAzFw5VlLU3YLi1j10RLNAPLJ3BCPFxeZnGc7tDq6AO99dod9tUhf+Y4j47HeDR3fEeTQy/Sh13dODmOaqk3lnabsZb6Y2m3R2opHUrhLoQf0pEOM0XTA5BWCrrW6clEy8OpfIAZTeUmhI+HcnOX1Qpu1zyz+WkFMlQwdyWt4HXNg82iHUOnEeCpRrdaIb12D+Xd0mqa8P2DYGbJ0xp0TqNbiLQGG2vQsUZwaJ6btVolnFM5TCWtEh3a9W0SPolgjkAQIBrwN6oy2jJBf2jr3zCw9mGqDT6PjLsogovB4CHKJh0+rP2DLa9/TI2wf+BGa89caVF71l/8r6f9//BavFF7cFNGMJsQpAqCWYEg89tn3KYyHkFWI0hcpBILqX3NKKn1XP9TiylSS9jcZ/X9XH/2EEEIn4rgqIqHgTy8VTDbgCIVURcChNHkio9u36vfSA4/n3xQK6T1+uVv9DM18A==",
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "4bae9cd8188ce412abe404014499315a",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. MQM Rp 1 (2.5-25) 292733 Rp 1 16 185 4 bar 25 25 MQM Rp 1 (4.0-40) 202734 Rp 1 25 185 4 bar 4.0 40 MQM Rp 1 (6.5-65) 292735 Rp 1 40 185 4 bar 6.5 65",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MQM Rp 1 (2.5-25)</td><td>292733</td><td>Rp 1</td><td>16</td><td>185</td><td>4 bar</td><td>25</td><td>25</td><td/></tr><tr><td>MQM Rp 1 (4.0-40)</td><td>202734</td><td>Rp 1</td><td>25</td><td>185</td><td>4 bar</td><td>4.0</td><td>40</td><td/></tr><tr><td>MQM Rp 1 (6.5-65)</td><td>292735</td><td>Rp 1</td><td>40</td><td>185</td><td>4 bar</td><td>6.5</td><td>65</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy9mG1vpDYQgP+KhXRSKnXBGGzgFEVqdLp8Sdq0vft0d0IOOFmq5UWGlS6Xy3/vGLOLedtj26pSCLZnPDyeGb/tpxdL7EQuiibOUustsjyPkUSwIEySKA0wTVw38R8T7oWucEPPs35GVi4anvKGg/6LpQpxXe5lIg51ESdSwKs16Aa+j3EQEWxj1bmV52WaPWYnFCpZJqKuew038lnk2SyKKAmUWiVkntV1VhZ13MF8erHAsMLwPIL91y+gJkVSyjTelQlvStkSVrzZKrPOx1rI2pFZknCZQse6kbzJauf+Odlymd/L8i+RNLWT7ounOq7KxEnLZK+cVW/KQjgk8lzfj294DW1PovjGP++xh8PtTsj47vc7FL+7jm+u7Sp9tF5fAeYx24mC54rQOqdz17V5rtquvKp2GYwHxu504h0vnvb8SdTKDRYYtNTgK2iJi33+INTIPWhpxNcm5nW8bfKdMnXZ8IeduLpstoKn8JKqePWLbLJkJxC4JHsq2g9dOtCuZL/JVEhUlPax5c/sm0AXWQGADir3Dbx/OgpvNh+A+li9BbRmiy7yvFe5419RCeFsv4MqCXHfy77LneCqrtyOJAxToDwr0MV1/mbb2/iOTLXvB0WwDIqOoXi/39UCgb/hexsEKaEljhq5c/DCQ5k+d85Ir1Qs/qiQiy5cm21cpmylrYREJPDIsaqUjhUX98WQHss+euCyl9isL/dFXWiRJgzEphtCRwzeAgNbwUDoXPEUgm/jjY8NBAwI/jyCYXIZAQz2ZbyKgYEb2NgNdJ7BXxMKMNiX1/jhzQIEG0AEZA6DGNnxLzDe/YoIXUjL4FhttWbzkhpl9s8Ts8OYzcxwCYOtwTgnNzuKSXIqimiBwgRapjgrPTuMudQw+g4x/FUxOTc1KEYXnk1mOFyTg84Oji1iKJNzHLfvT5JQiIuLR4HxyQKJYXeZhBpxAdM/9kgIHKHiYGMOz+QI5826ZJEkNEnYShKX0LeEjkgCvETCVpG4xDbTeyUKUXNmQOKGQbRAYlo9QaKOc0Zm/ZgEfN06ZeIT3zdJBiFh61azs53Ssky9Aix0iWXglhNL2rlu0SwegWk82nN9tsRi2j3B4hHbnHJrWNpFhbBJiAbbjUsXUML/GoW2i8rYL+ESjGn4BAzFw5VlLU3YLi1j10RLNAPLJ3BCPFxeZnGc7tDq6AO99dod9tUhf+Y4j47HeDR3fEeTQy/Sh13dODmOaqk3lnabsZb6Y2m3R2opHUrhLoQf0pEOM0XTA5BWCrrW6clEy8OpfIAZTeUmhI+HcnOX1Qpu1zyz+WkFMlQwdyWt4HXNg82iHUOnEeCpRrdaIb12D+Xd0mqa8P2DYGbJ0xp0TqNbiLQGG2vQsUZwaJ6btVolnFM5TCWtEh3a9W0SPolgjkAQIBrwN6oy2jJBf2jr3zCw9mGqDT6PjLsogovB4CHKJh0+rP2DLa9/TI2wf+BGa89caVF71l/8r6f9//BavFF7cFNGMJsQpAqCWYEg89tn3KYyHkFWI0hcpBILqX3NKKn1XP9TiylSS9jcZ/X9XH/2EEEIn4rgqIqHgTy8VTDbgCIVURcChNHkio9u36vfSA4/n3xQK6T1+uVv9DM18A==",
+      "is_continuation": true,
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b282c5413b151fe591542e82cbde0b6f",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. MQM Rp 1% (6.5-65) 292736 Rp 172 40 210 4 bar 6.5 65 MQM DN 25 (1.6-16) 292737 DN 25 10 150 16 bar 1.6 16 MQM DN 25 (2.5-25) 292738 DN 25 16 150 16 bar 25 25",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MQM Rp 1% (6.5-65)</td><td>292736</td><td>Rp 172</td><td>40</td><td>210</td><td>4 bar</td><td>6.5</td><td>65</td><td/></tr><tr><td>MQM DN 25 (1.6-16)</td><td>292737</td><td>DN 25</td><td>10</td><td>150</td><td>16 bar</td><td>1.6</td><td>16</td><td/></tr><tr><td>MQM DN 25 (2.5-25)</td><td>292738</td><td>DN 25</td><td>16</td><td>150</td><td>16 bar</td><td>25</td><td>25</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy9mG1vpDYQgP+KhXRSKnXBGGzgFEVqdLp8Sdq0vft0d0IOOFmq5UWGlS6Xy3/vGLOLedtj26pSCLZnPDyeGb/tpxdL7EQuiibOUustsjyPkUSwIEySKA0wTVw38R8T7oWucEPPs35GVi4anvKGg/6LpQpxXe5lIg51ESdSwKs16Aa+j3EQEWxj1bmV52WaPWYnFCpZJqKuew038lnk2SyKKAmUWiVkntV1VhZ13MF8erHAsMLwPIL91y+gJkVSyjTelQlvStkSVrzZKrPOx1rI2pFZknCZQse6kbzJauf+Odlymd/L8i+RNLWT7ounOq7KxEnLZK+cVW/KQjgk8lzfj294DW1PovjGP++xh8PtTsj47vc7FL+7jm+u7Sp9tF5fAeYx24mC54rQOqdz17V5rtquvKp2GYwHxu504h0vnvb8SdTKDRYYtNTgK2iJi33+INTIPWhpxNcm5nW8bfKdMnXZ8IeduLpstoKn8JKqePWLbLJkJxC4JHsq2g9dOtCuZL/JVEhUlPax5c/sm0AXWQGADir3Dbx/OgpvNh+A+li9BbRmiy7yvFe5419RCeFsv4MqCXHfy77LneCqrtyOJAxToDwr0MV1/mbb2/iOTLXvB0WwDIqOoXi/39UCgb/hexsEKaEljhq5c/DCQ5k+d85Ir1Qs/qiQiy5cm21cpmylrYREJPDIsaqUjhUX98WQHss+euCyl9isL/dFXWiRJgzEphtCRwzeAgNbwUDoXPEUgm/jjY8NBAwI/jyCYXIZAQz2ZbyKgYEb2NgNdJ7BXxMKMNiX1/jhzQIEG0AEZA6DGNnxLzDe/YoIXUjL4FhttWbzkhpl9s8Ts8OYzcxwCYOtwTgnNzuKSXIqimiBwgRapjgrPTuMudQw+g4x/FUxOTc1KEYXnk1mOFyTg84Oji1iKJNzHLfvT5JQiIuLR4HxyQKJYXeZhBpxAdM/9kgIHKHiYGMOz+QI5826ZJEkNEnYShKX0LeEjkgCvETCVpG4xDbTeyUKUXNmQOKGQbRAYlo9QaKOc0Zm/ZgEfN06ZeIT3zdJBiFh61azs53Ssky9Aix0iWXglhNL2rlu0SwegWk82nN9tsRi2j3B4hHbnHJrWNpFhbBJiAbbjUsXUML/GoW2i8rYL+ESjGn4BAzFw5VlLU3YLi1j10RLNAPLJ3BCPFxeZnGc7tDq6AO99dod9tUhf+Y4j47HeDR3fEeTQy/Sh13dODmOaqk3lnabsZb6Y2m3R2opHUrhLoQf0pEOM0XTA5BWCrrW6clEy8OpfIAZTeUmhI+HcnOX1Qpu1zyz+WkFMlQwdyWt4HXNg82iHUOnEeCpRrdaIb12D+Xd0mqa8P2DYGbJ0xp0TqNbiLQGG2vQsUZwaJ6btVolnFM5TCWtEh3a9W0SPolgjkAQIBrwN6oy2jJBf2jr3zCw9mGqDT6PjLsogovB4CHKJh0+rP2DLa9/TI2wf+BGa89caVF71l/8r6f9//BavFF7cFNGMJsQpAqCWYEg89tn3KYyHkFWI0hcpBILqX3NKKn1XP9TiylSS9jcZ/X9XH/2EEEIn4rgqIqHgTy8VTDbgCIVURcChNHkio9u36vfSA4/n3xQK6T1+uVv9DM18A==",
+      "is_continuation": true,
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "adfc017634b64b43c764fa1953a1cc75",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. MQM DN 25 (4.0-40) 292739 DN 25 25 150 16 bar 4.0 40 MQM DN 25 (6.5-65) 292740 DN 25 40 150 16 bar 6.5 65 MQM DN 50 (3.25-65) 292741 DN 50 40 60 16 bar 3.25 65 LF",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MQM DN 25 (4.0-40)</td><td>292739</td><td>DN 25</td><td>25</td><td>150</td><td>16 bar</td><td>4.0</td><td>40</td><td/></tr><tr><td>MQM DN 25 (6.5-65)</td><td>292740</td><td>DN 25</td><td>40</td><td>150</td><td>16 bar</td><td>6.5</td><td>65</td><td/></tr><tr><td>MQM DN 50 (3.25-65)</td><td>292741</td><td>DN 50</td><td>40</td><td>60</td><td>16 bar</td><td>3.25</td><td>65</td><td>LF</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy9mG1vpDYQgP+KhXRSKnXBGGzgFEVqdLp8Sdq0vft0d0IOOFmq5UWGlS6Xy3/vGLOLedtj26pSCLZnPDyeGb/tpxdL7EQuiibOUustsjyPkUSwIEySKA0wTVw38R8T7oWucEPPs35GVi4anvKGg/6LpQpxXe5lIg51ESdSwKs16Aa+j3EQEWxj1bmV52WaPWYnFCpZJqKuew038lnk2SyKKAmUWiVkntV1VhZ13MF8erHAsMLwPIL91y+gJkVSyjTelQlvStkSVrzZKrPOx1rI2pFZknCZQse6kbzJauf+Odlymd/L8i+RNLWT7ounOq7KxEnLZK+cVW/KQjgk8lzfj294DW1PovjGP++xh8PtTsj47vc7FL+7jm+u7Sp9tF5fAeYx24mC54rQOqdz17V5rtquvKp2GYwHxu504h0vnvb8SdTKDRYYtNTgK2iJi33+INTIPWhpxNcm5nW8bfKdMnXZ8IeduLpstoKn8JKqePWLbLJkJxC4JHsq2g9dOtCuZL/JVEhUlPax5c/sm0AXWQGADir3Dbx/OgpvNh+A+li9BbRmiy7yvFe5419RCeFsv4MqCXHfy77LneCqrtyOJAxToDwr0MV1/mbb2/iOTLXvB0WwDIqOoXi/39UCgb/hexsEKaEljhq5c/DCQ5k+d85Ir1Qs/qiQiy5cm21cpmylrYREJPDIsaqUjhUX98WQHss+euCyl9isL/dFXWiRJgzEphtCRwzeAgNbwUDoXPEUgm/jjY8NBAwI/jyCYXIZAQz2ZbyKgYEb2NgNdJ7BXxMKMNiX1/jhzQIEG0AEZA6DGNnxLzDe/YoIXUjL4FhttWbzkhpl9s8Ts8OYzcxwCYOtwTgnNzuKSXIqimiBwgRapjgrPTuMudQw+g4x/FUxOTc1KEYXnk1mOFyTg84Oji1iKJNzHLfvT5JQiIuLR4HxyQKJYXeZhBpxAdM/9kgIHKHiYGMOz+QI5826ZJEkNEnYShKX0LeEjkgCvETCVpG4xDbTeyUKUXNmQOKGQbRAYlo9QaKOc0Zm/ZgEfN06ZeIT3zdJBiFh61azs53Ssky9Aix0iWXglhNL2rlu0SwegWk82nN9tsRi2j3B4hHbnHJrWNpFhbBJiAbbjUsXUML/GoW2i8rYL+ESjGn4BAzFw5VlLU3YLi1j10RLNAPLJ3BCPFxeZnGc7tDq6AO99dod9tUhf+Y4j47HeDR3fEeTQy/Sh13dODmOaqk3lnabsZb6Y2m3R2opHUrhLoQf0pEOM0XTA5BWCrrW6clEy8OpfIAZTeUmhI+HcnOX1Qpu1zyz+WkFMlQwdyWt4HXNg82iHUOnEeCpRrdaIb12D+Xd0mqa8P2DYGbJ0xp0TqNbiLQGG2vQsUZwaJ6btVolnFM5TCWtEh3a9W0SPolgjkAQIBrwN6oy2jJBf2jr3zCw9mGqDT6PjLsogovB4CHKJh0+rP2DLa9/TI2wf+BGa89caVF71l/8r6f9//BavFF7cFNGMJsQpAqCWYEg89tn3KYyHkFWI0hcpBILqX3NKKn1XP9TiylSS9jcZ/X9XH/2EEEIn4rgqIqHgTy8VTDbgCIVURcChNHkio9u36vfSA4/n3xQK6T1+uVv9DM18A==",
+      "is_continuation": true,
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ab6ad318b33b9955c5e42b8fbe969ba3",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. MQM DN 50 (5.0-100) 292742 DN 50 65 60 16 bar 5.0 100 MQM DN 80 (8.0-160) 292743 DN 80 100 120 16 bar 8.0 160 MQM DN 80 (125:250) 292770 DN 80 160 120 16 bar 12.5 250",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MQM DN 50 (5.0-100)</td><td>292742</td><td>DN 50</td><td>65</td><td>60</td><td>16 bar</td><td>5.0</td><td>100</td><td/></tr><tr><td>MQM DN 80 (8.0-160)</td><td>292743</td><td>DN 80</td><td>100</td><td>120</td><td>16 bar</td><td>8.0</td><td>160</td><td/></tr><tr><td>MQM DN 80 (125:250)</td><td>292770</td><td>DN 80</td><td>160</td><td>120</td><td>16 bar</td><td>12.5</td><td>250</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy9mG1vpDYQgP+KhXRSKnXBGGzgFEVqdLp8Sdq0vft0d0IOOFmq5UWGlS6Xy3/vGLOLedtj26pSCLZnPDyeGb/tpxdL7EQuiibOUustsjyPkUSwIEySKA0wTVw38R8T7oWucEPPs35GVi4anvKGg/6LpQpxXe5lIg51ESdSwKs16Aa+j3EQEWxj1bmV52WaPWYnFCpZJqKuew038lnk2SyKKAmUWiVkntV1VhZ13MF8erHAsMLwPIL91y+gJkVSyjTelQlvStkSVrzZKrPOx1rI2pFZknCZQse6kbzJauf+Odlymd/L8i+RNLWT7ounOq7KxEnLZK+cVW/KQjgk8lzfj294DW1PovjGP++xh8PtTsj47vc7FL+7jm+u7Sp9tF5fAeYx24mC54rQOqdz17V5rtquvKp2GYwHxu504h0vnvb8SdTKDRYYtNTgK2iJi33+INTIPWhpxNcm5nW8bfKdMnXZ8IeduLpstoKn8JKqePWLbLJkJxC4JHsq2g9dOtCuZL/JVEhUlPax5c/sm0AXWQGADir3Dbx/OgpvNh+A+li9BbRmiy7yvFe5419RCeFsv4MqCXHfy77LneCqrtyOJAxToDwr0MV1/mbb2/iOTLXvB0WwDIqOoXi/39UCgb/hexsEKaEljhq5c/DCQ5k+d85Ir1Qs/qiQiy5cm21cpmylrYREJPDIsaqUjhUX98WQHss+euCyl9isL/dFXWiRJgzEphtCRwzeAgNbwUDoXPEUgm/jjY8NBAwI/jyCYXIZAQz2ZbyKgYEb2NgNdJ7BXxMKMNiX1/jhzQIEG0AEZA6DGNnxLzDe/YoIXUjL4FhttWbzkhpl9s8Ts8OYzcxwCYOtwTgnNzuKSXIqimiBwgRapjgrPTuMudQw+g4x/FUxOTc1KEYXnk1mOFyTg84Oji1iKJNzHLfvT5JQiIuLR4HxyQKJYXeZhBpxAdM/9kgIHKHiYGMOz+QI5826ZJEkNEnYShKX0LeEjkgCvETCVpG4xDbTeyUKUXNmQOKGQbRAYlo9QaKOc0Zm/ZgEfN06ZeIT3zdJBiFh61azs53Ssky9Aix0iWXglhNL2rlu0SwegWk82nN9tsRi2j3B4hHbnHJrWNpFhbBJiAbbjUsXUML/GoW2i8rYL+ESjGn4BAzFw5VlLU3YLi1j10RLNAPLJ3BCPFxeZnGc7tDq6AO99dod9tUhf+Y4j47HeDR3fEeTQy/Sh13dODmOaqk3lnabsZb6Y2m3R2opHUrhLoQf0pEOM0XTA5BWCrrW6clEy8OpfIAZTeUmhI+HcnOX1Qpu1zyz+WkFMlQwdyWt4HXNg82iHUOnEeCpRrdaIb12D+Xd0mqa8P2DYGbJ0xp0TqNbiLQGG2vQsUZwaJ6btVolnFM5TCWtEh3a9W0SPolgjkAQIBrwN6oy2jJBf2jr3zCw9mGqDT6PjLsogovB4CHKJh0+rP2DLa9/TI2wf+BGa89caVF71l/8r6f9//BavFF7cFNGMJsQpAqCWYEg89tn3KYyHkFWI0hcpBILqX3NKKn1XP9TiylSS9jcZ/X9XH/2EEEIn4rgqIqHgTy8VTDbgCIVURcChNHkio9u36vfSA4/n3xQK6T1+uVv9DM18A==",
+      "is_continuation": true,
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "4e587fadb7f9357cb6dc8f88914876d4",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. MQM DN 80 (20-400) 291879 DN 80 250 120 16 bar 20.0 400 MQM DN100 (125250) 292744 DN 100 160 150 16 bar 12.5 250 MQM DN 100 (20-400) 292745 DN 100 250 150 16 bar 20.0 400",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MQM DN 80 (20-400)</td><td>291879</td><td>DN 80</td><td>250</td><td>120</td><td>16 bar</td><td>20.0</td><td>400</td><td/></tr><tr><td>MQM DN100 (125250)</td><td>292744</td><td>DN 100</td><td>160</td><td>150</td><td>16 bar</td><td>12.5</td><td>250</td><td/></tr><tr><td>MQM DN 100 (20-400)</td><td>292745</td><td>DN 100</td><td>250</td><td>150</td><td>16 bar</td><td>20.0</td><td>400</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy9mG1vpDYQgP+KhXRSKnXBGGzgFEVqdLp8Sdq0vft0d0IOOFmq5UWGlS6Xy3/vGLOLedtj26pSCLZnPDyeGb/tpxdL7EQuiibOUustsjyPkUSwIEySKA0wTVw38R8T7oWucEPPs35GVi4anvKGg/6LpQpxXe5lIg51ESdSwKs16Aa+j3EQEWxj1bmV52WaPWYnFCpZJqKuew038lnk2SyKKAmUWiVkntV1VhZ13MF8erHAsMLwPIL91y+gJkVSyjTelQlvStkSVrzZKrPOx1rI2pFZknCZQse6kbzJauf+Odlymd/L8i+RNLWT7ounOq7KxEnLZK+cVW/KQjgk8lzfj294DW1PovjGP++xh8PtTsj47vc7FL+7jm+u7Sp9tF5fAeYx24mC54rQOqdz17V5rtquvKp2GYwHxu504h0vnvb8SdTKDRYYtNTgK2iJi33+INTIPWhpxNcm5nW8bfKdMnXZ8IeduLpstoKn8JKqePWLbLJkJxC4JHsq2g9dOtCuZL/JVEhUlPax5c/sm0AXWQGADir3Dbx/OgpvNh+A+li9BbRmiy7yvFe5419RCeFsv4MqCXHfy77LneCqrtyOJAxToDwr0MV1/mbb2/iOTLXvB0WwDIqOoXi/39UCgb/hexsEKaEljhq5c/DCQ5k+d85Ir1Qs/qiQiy5cm21cpmylrYREJPDIsaqUjhUX98WQHss+euCyl9isL/dFXWiRJgzEphtCRwzeAgNbwUDoXPEUgm/jjY8NBAwI/jyCYXIZAQz2ZbyKgYEb2NgNdJ7BXxMKMNiX1/jhzQIEG0AEZA6DGNnxLzDe/YoIXUjL4FhttWbzkhpl9s8Ts8OYzcxwCYOtwTgnNzuKSXIqimiBwgRapjgrPTuMudQw+g4x/FUxOTc1KEYXnk1mOFyTg84Oji1iKJNzHLfvT5JQiIuLR4HxyQKJYXeZhBpxAdM/9kgIHKHiYGMOz+QI5826ZJEkNEnYShKX0LeEjkgCvETCVpG4xDbTeyUKUXNmQOKGQbRAYlo9QaKOc0Zm/ZgEfN06ZeIT3zdJBiFh61azs53Ssky9Aix0iWXglhNL2rlu0SwegWk82nN9tsRi2j3B4hHbnHJrWNpFhbBJiAbbjUsXUML/GoW2i8rYL+ESjGn4BAzFw5VlLU3YLi1j10RLNAPLJ3BCPFxeZnGc7tDq6AO99dod9tUhf+Y4j47HeDR3fEeTQy/Sh13dODmOaqk3lnabsZb6Y2m3R2opHUrhLoQf0pEOM0XTA5BWCrrW6clEy8OpfIAZTeUmhI+HcnOX1Qpu1zyz+WkFMlQwdyWt4HXNg82iHUOnEeCpRrdaIb12D+Xd0mqa8P2DYGbJ0xp0TqNbiLQGG2vQsUZwaJ6btVolnFM5TCWtEh3a9W0SPolgjkAQIBrwN6oy2jJBf2jr3zCw9mGqDT6PjLsogovB4CHKJh0+rP2DLa9/TI2wf+BGa89caVF71l/8r6f9//BavFF7cFNGMJsQpAqCWYEg89tn3KYyHkFWI0hcpBILqX3NKKn1XP9TiylSS9jcZ/X9XH/2EEEIn4rgqIqHgTy8VTDbgCIVURcChNHkio9u36vfSA4/n3xQK6T1+uVv9DM18A==",
+      "is_continuation": true,
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f267bc9a25cd356006beb6f634241efd",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. MQM DN 100 (32-650) 202746 DN 100 400 150 16 bar 32.0 650 MQM DN 150 (32650) 292747 DN 150 400 180 16 bar 32.0 650 MQM DN 150 (50-1000) 202748 DN 150 650 180 16 bar 50.0 1000",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MQM DN 100 (32-650)</td><td>202746</td><td>DN 100</td><td>400</td><td>150</td><td>16 bar</td><td>32.0</td><td>650</td><td/></tr><tr><td>MQM DN 150 (32650)</td><td>292747</td><td>DN 150</td><td>400</td><td>180</td><td>16 bar</td><td>32.0</td><td>650</td><td/></tr><tr><td>MQM DN 150 (50-1000)</td><td>202748</td><td>DN 150</td><td>650</td><td>180</td><td>16 bar</td><td>50.0</td><td>1000</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy9mG1vpDYQgP+KhXRSKnXBGGzgFEVqdLp8Sdq0vft0d0IOOFmq5UWGlS6Xy3/vGLOLedtj26pSCLZnPDyeGb/tpxdL7EQuiibOUustsjyPkUSwIEySKA0wTVw38R8T7oWucEPPs35GVi4anvKGg/6LpQpxXe5lIg51ESdSwKs16Aa+j3EQEWxj1bmV52WaPWYnFCpZJqKuew038lnk2SyKKAmUWiVkntV1VhZ13MF8erHAsMLwPIL91y+gJkVSyjTelQlvStkSVrzZKrPOx1rI2pFZknCZQse6kbzJauf+Odlymd/L8i+RNLWT7ounOq7KxEnLZK+cVW/KQjgk8lzfj294DW1PovjGP++xh8PtTsj47vc7FL+7jm+u7Sp9tF5fAeYx24mC54rQOqdz17V5rtquvKp2GYwHxu504h0vnvb8SdTKDRYYtNTgK2iJi33+INTIPWhpxNcm5nW8bfKdMnXZ8IeduLpstoKn8JKqePWLbLJkJxC4JHsq2g9dOtCuZL/JVEhUlPax5c/sm0AXWQGADir3Dbx/OgpvNh+A+li9BbRmiy7yvFe5419RCeFsv4MqCXHfy77LneCqrtyOJAxToDwr0MV1/mbb2/iOTLXvB0WwDIqOoXi/39UCgb/hexsEKaEljhq5c/DCQ5k+d85Ir1Qs/qiQiy5cm21cpmylrYREJPDIsaqUjhUX98WQHss+euCyl9isL/dFXWiRJgzEphtCRwzeAgNbwUDoXPEUgm/jjY8NBAwI/jyCYXIZAQz2ZbyKgYEb2NgNdJ7BXxMKMNiX1/jhzQIEG0AEZA6DGNnxLzDe/YoIXUjL4FhttWbzkhpl9s8Ts8OYzcxwCYOtwTgnNzuKSXIqimiBwgRapjgrPTuMudQw+g4x/FUxOTc1KEYXnk1mOFyTg84Oji1iKJNzHLfvT5JQiIuLR4HxyQKJYXeZhBpxAdM/9kgIHKHiYGMOz+QI5826ZJEkNEnYShKX0LeEjkgCvETCVpG4xDbTeyUKUXNmQOKGQbRAYlo9QaKOc0Zm/ZgEfN06ZeIT3zdJBiFh61azs53Ssky9Aix0iWXglhNL2rlu0SwegWk82nN9tsRi2j3B4hHbnHJrWNpFhbBJiAbbjUsXUML/GoW2i8rYL+ESjGn4BAzFw5VlLU3YLi1j10RLNAPLJ3BCPFxeZnGc7tDq6AO99dod9tUhf+Y4j47HeDR3fEeTQy/Sh13dODmOaqk3lnabsZb6Y2m3R2opHUrhLoQf0pEOM0XTA5BWCrrW6clEy8OpfIAZTeUmhI+HcnOX1Qpu1zyz+WkFMlQwdyWt4HXNg82iHUOnEeCpRrdaIb12D+Xd0mqa8P2DYGbJ0xp0TqNbiLQGG2vQsUZwaJ6btVolnFM5TCWtEh3a9W0SPolgjkAQIBrwN6oy2jJBf2jr3zCw9mGqDT6PjLsogovB4CHKJh0+rP2DLa9/TI2wf+BGa89caVF71l/8r6f9//BavFF7cFNGMJsQpAqCWYEg89tn3KYyHkFWI0hcpBILqX3NKKn1XP9TiylSS9jcZ/X9XH/2EEEIn4rgqIqHgTy8VTDbgCIVURcChNHkio9u36vfSA4/n3xQK6T1+uVv9DM18A==",
+      "is_continuation": true,
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "0ea6f9305eaddbebf0ca7e6f1271ee5e",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. MQM DN 150 (80-1600) 292749 DN 150 1000 180 16 bar 80.0 1600",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MQM DN 150 (80-1600)</td><td>292749</td><td>DN 150</td><td>1000</td><td>180</td><td>16 bar</td><td>80.0</td><td>1600</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy9mG1vpDYQgP+KhXRSKnXBGGzgFEVqdLp8Sdq0vft0d0IOOFmq5UWGlS6Xy3/vGLOLedtj26pSCLZnPDyeGb/tpxdL7EQuiibOUustsjyPkUSwIEySKA0wTVw38R8T7oWucEPPs35GVi4anvKGg/6LpQpxXe5lIg51ESdSwKs16Aa+j3EQEWxj1bmV52WaPWYnFCpZJqKuew038lnk2SyKKAmUWiVkntV1VhZ13MF8erHAsMLwPIL91y+gJkVSyjTelQlvStkSVrzZKrPOx1rI2pFZknCZQse6kbzJauf+Odlymd/L8i+RNLWT7ounOq7KxEnLZK+cVW/KQjgk8lzfj294DW1PovjGP++xh8PtTsj47vc7FL+7jm+u7Sp9tF5fAeYx24mC54rQOqdz17V5rtquvKp2GYwHxu504h0vnvb8SdTKDRYYtNTgK2iJi33+INTIPWhpxNcm5nW8bfKdMnXZ8IeduLpstoKn8JKqePWLbLJkJxC4JHsq2g9dOtCuZL/JVEhUlPax5c/sm0AXWQGADir3Dbx/OgpvNh+A+li9BbRmiy7yvFe5419RCeFsv4MqCXHfy77LneCqrtyOJAxToDwr0MV1/mbb2/iOTLXvB0WwDIqOoXi/39UCgb/hexsEKaEljhq5c/DCQ5k+d85Ir1Qs/qiQiy5cm21cpmylrYREJPDIsaqUjhUX98WQHss+euCyl9isL/dFXWiRJgzEphtCRwzeAgNbwUDoXPEUgm/jjY8NBAwI/jyCYXIZAQz2ZbyKgYEb2NgNdJ7BXxMKMNiX1/jhzQIEG0AEZA6DGNnxLzDe/YoIXUjL4FhttWbzkhpl9s8Ts8OYzcxwCYOtwTgnNzuKSXIqimiBwgRapjgrPTuMudQw+g4x/FUxOTc1KEYXnk1mOFyTg84Oji1iKJNzHLfvT5JQiIuLR4HxyQKJYXeZhBpxAdM/9kgIHKHiYGMOz+QI5826ZJEkNEnYShKX0LeEjkgCvETCVpG4xDbTeyUKUXNmQOKGQbRAYlo9QaKOc0Zm/ZgEfN06ZeIT3zdJBiFh61azs53Ssky9Aix0iWXglhNL2rlu0SwegWk82nN9tsRi2j3B4hHbnHJrWNpFhbBJiAbbjUsXUML/GoW2i8rYL+ESjGn4BAzFw5VlLU3YLi1j10RLNAPLJ3BCPFxeZnGc7tDq6AO99dod9tUhf+Y4j47HeDR3fEeTQy/Sh13dODmOaqk3lnabsZb6Y2m3R2opHUrhLoQf0pEOM0XTA5BWCrrW6clEy8OpfIAZTeUmhI+HcnOX1Qpu1zyz+WkFMlQwdyWt4HXNg82iHUOnEeCpRrdaIb12D+Xd0mqa8P2DYGbJ0xp0TqNbiLQGG2vQsUZwaJ6btVolnFM5TCWtEh3a9W0SPolgjkAQIBrwN6oy2jJBf2jr3zCw9mGqDT6PjLsogovB4CHKJh0+rP2DLa9/TI2wf+BGa89caVF71l/8r6f9//BavFF7cFNGMJsQpAqCWYEg89tn3KYyHkFWI0hcpBILqX3NKKn1XP9TiylSS9jcZ/X9XH/2EEEIn4rgqIqHgTy8VTDbgCIVURcChNHkio9u36vfSA4/n3xQK6T1+uVv9DM18A==",
+      "is_continuation": true,
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "5c2d8adc921ad44f350fa823d60b138b",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. Gas Flow Meter MQM with mechanical counter\n\nDUNGS Combustion Controls\n\nFollowing options are available*",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztlE1v1DAQhv+K5SOCjfNB1uZYqq44LCqCnkoVTezxrpFjR7ZDKav979irrUCiQuJa9ZSJZ+aZd6xXvj1QtDihS4NR9B2hawRZMwW14DVDUNCMLecakQvd1yDoa0InTDmRINcfaAmG6Jcg8fEfBxkwf07Aet11jK1Fw1asNJ/yk1dGm38UzMFLjPF3RS26XrSrXoi3zbqUzRgmE6PxLg5nMbcHmsFFRts2rDve5bKA0gc1WC8h+XBSOEPaF2x1EzHEKhgpIajcGFOAZGJ1/SD3EKbr4L+hTLFSi9vFYfayUl4u5bLiG++wakRbd92wgZjPduh+wteFtYzvLYZh+2lLhsuLYXOxmpWmx2MWo41FB1NRSP+n+dyaHuZTK8yzNXmfvHt1TltwuwV2GMs10AykZfk5nwxumUYsm3dFQsIfqTDyXHJl/T3ZYsJAysB7k/Zkwry7y3RLpF9czhX84+QvJlmkmfOXbXoGehRN03AuuV6D1o3i7cj0qOteqhfbPA/bXN583Hwm7/00LrGAcuhS8Db+6ZIPUwY85RLFVSt62YsxB0pi02nkKLqWdT2Hpn5xyfNwyZW3+Wkxbkf8XECRQEAC38FYGC2+euJJufsFwOAVLQ==",
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "67241dfc8473f11a764d16dfeb24d7d2",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. Option 1 opionco rs HF 1 pulse generator Higher frequency of measuring, allows the determination of the actu- al gas flow in high resolution Option 2 Oil pump For additional, manual lubrication at biogas applications Option 3 3.1 approval material batch Confirms the technically specified parameters for the specific batch",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Option 1</td><td>opionco rs HF 1 pulse generator</td><td>Higher frequency of measuring, allows the determination of the actu- al gas flow in high resolution</td></tr><tr><td>Option 2</td><td>Oil pump</td><td>For additional, manual lubrication at biogas applications</td></tr><tr><td>Option 3</td><td>3.1 approval material batch</td><td>Confirms the technically specified parameters for the specific batch</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy9VFFP2zAQ/iunPEOTJiFtJoQ0tgEvCCaxJ4Yix740nhw7s51Bh/rfd07TwiTGtGnaQ5X4/N1339136e1jhAo71L6SInoDEcvrgi1qcbQQIjnKs0W5LJpkmQtMC3a0LKIDiDr0TDDPCP8YhZfKmcFy3J2x4hbpMRLOF3meJIsyTWZJSB7vOyNkI18B9NZwdO4JMS/zosxmRVkepYsA69F20jlptKsmMbePEREHGVmWJvnmjmAWubGiUoYzb+yosGe+DbTxJ4fWxVZyzqygROct89LF12veMttdW/MFuXexGPTKVb3hsTB8CMNyh0ZjnJbZPM+rc+YotkL9nX0ekixZtgptdfnxEqr3p9X56awXTbTZkJhGKtSsCwqjP0meUv26H1NZ3ytJ/VDv8XStmF4NbIUujCEiwig031Ok0kNXY+g8HyP2yWuxFFlZ8KKs6UVwTPMGl1jmWZIXS5bOA7HHB18xV7W+UyHn2LNa4cmxr41Y08PST5xc9UEMzI9jOoSA6enMDVgHF2cwh35QDoHaRBt82OMu5KpFC43FrwNqvgbTQIfMDVbq1QEwpcy9A98iCPTBcT22HWAhyLgfDgkFK+agISxIDS1xgkVn1BCw21rxqPQntelexZVUpLDr94EzY4EJIQOOqQPomB6oihpqOw0emIdamlD3mR3ul8WyPXc2m4cUa74RY0fLbiW91Mzzdo95Z3Qjbbft3CNvNRVQag2uRz5+OUBO0iZRNjVOagNwuuTPyV6Qku/L3NDsO3OPSu1Dgaszg/Y0/3HK2PXBs8ESP2q3827kjactiLdLEW2mhQmLMhV7u58iNLil+fDQ07pup7hbnBe3BP7DduwUpLBbAvhr83dcGbziMfwLb3eVcniyEH5v3fhBT38iN8GyaHP3A2XUDgM=",
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "9952200c56c3db66f2d0bd99d1686b16",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. Option 4 Thermowell for mounting of temperature sensor",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Option 4</td><td>Thermowell</td><td>for mounting of temperature sensor</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy9VFFP2zAQ/iunPEOTJiFtJoQ0tgEvCCaxJ4Yix740nhw7s51Bh/rfd07TwiTGtGnaQ5X4/N1339136e1jhAo71L6SInoDEcvrgi1qcbQQIjnKs0W5LJpkmQtMC3a0LKIDiDr0TDDPCP8YhZfKmcFy3J2x4hbpMRLOF3meJIsyTWZJSB7vOyNkI18B9NZwdO4JMS/zosxmRVkepYsA69F20jlptKsmMbePEREHGVmWJvnmjmAWubGiUoYzb+yosGe+DbTxJ4fWxVZyzqygROct89LF12veMttdW/MFuXexGPTKVb3hsTB8CMNyh0ZjnJbZPM+rc+YotkL9nX0ekixZtgptdfnxEqr3p9X56awXTbTZkJhGKtSsCwqjP0meUv26H1NZ3ytJ/VDv8XStmF4NbIUujCEiwig031Ok0kNXY+g8HyP2yWuxFFlZ8KKs6UVwTPMGl1jmWZIXS5bOA7HHB18xV7W+UyHn2LNa4cmxr41Y08PST5xc9UEMzI9jOoSA6enMDVgHF2cwh35QDoHaRBt82OMu5KpFC43FrwNqvgbTQIfMDVbq1QEwpcy9A98iCPTBcT22HWAhyLgfDgkFK+agISxIDS1xgkVn1BCw21rxqPQntelexZVUpLDr94EzY4EJIQOOqQPomB6oihpqOw0emIdamlD3mR3ul8WyPXc2m4cUa74RY0fLbiW91Mzzdo95Z3Qjbbft3CNvNRVQag2uRz5+OUBO0iZRNjVOagNwuuTPyV6Qku/L3NDsO3OPSu1Dgaszg/Y0/3HK2PXBs8ESP2q3827kjactiLdLEW2mhQmLMhV7u58iNLil+fDQ07pup7hbnBe3BP7DduwUpLBbAvhr83dcGbziMfwLb3eVcniyEH5v3fhBT38iN8GyaHP3A2XUDgM=",
+      "is_continuation": true,
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b2ee8279ac7aa0e32bbb417e64aee599",
+    "text": "Dieser Text ist für Produt: Gasmengenzähler_MQM . Produkt ID: 293144. Der Dokumentyp is Datenblatt. * each option can be included independent from another\n\nTechnical Information based on:\n\nRevision:\n\nProduct information 04.2020\n\nMQM_EN_10.09.2014\n\nHead Offices and Factory\n\nKarl Dungs GmbH & Co. KG • Karl-Dungs-Platz 1 • D-73660 Urbach, Germany\n\nTel.: +49 7181-804-0 • Fax +49 7181-804-166 • e-mail: info@dungs.com • Internet www.dungs.com\n\n4 … 4",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/293144_Gasmengenzähler_MQM _DB_GB.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.699527",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "293144_Gasmengenzähler_MQM _DB_GB.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztmEtvGzcQgP8KsYce2kjia8mlT0XqWgmCuG7hnJJgMSSH1hb7wu4qjmP4v3dWseq6KIrq2EgXieI8OfNhOav39xnW2GA7lVXMzliWlFQ5YJLRWWGCx6RNSNYY66LT6LIXLGtwgggTkP59Ni/KsdsOAfe/sQwD0tfOobBac26d5Es+G+/kTRerVP2LQj90AcfxSUM4bZxaGudyaWe1HoemGseqa8fyMZn39xk5ntNQSnL98JHUBgzdEMu6CzB1wy7DHqbN7Hb1bsRhXA1VCDBEMhynAaZqXF3dhQ0MzdXQ/Y5hGldx296MZd+FVezCdi7WuOhaXEmnhNblGkbau8H2C3zYcsWLTY1D+fbXt6w8f1muXy77mLKHB0omVTW20MwZZocYP5pOd/3OFPq+rug8dPbVo7iG9mYLNzjOZcjIYTYfvqedst02HueT693O8NTrWETlTDDO0yIGlDphgU4rrk0BUmRzzhN+nmbl7xlC2LCun8OyAC3zyKo21NuIkRYRe6SPdmJp6BoGbTdtKOzs4THtSxjm+n7C69kl+f47ezKHJJQQsSi89j4lCC5Fq72VGq0uTuwdKXvXGDYtRa3Z6zZ1Q7MLzzxQj1jXnh0EmUvKcJOKgnviy+gog/KB2iASOKvDCbIjhew3/FTN1T4MJ6miwoJb64IkfkKiJjpvOJhcx1CkE05HihNVI27DRDfj0xOL66Xkkh8EGNcQrI46Gl6kXGnhuY5gkxOoogungexYAaOUyp8vS0FdcoSV0AdhFXO665yx0skcC01jV+I8KpV47oUXeMLqSLF6hRDZLylV1Bea4iO7gEAVvTuILp2sR528zmNIhUNpIOWc00Rvo3H5ia7/MV1/heUNDDU7nw/G1o1/xb5jP3VL9mbNPmzpopNsli928sVVDdMXJvaS84VVxnD2bvD0WvmCrakR0D6j7KLrJgr5T0OX5s6JXDryFJxTSWMoRJFHDfSmyOGE17eB1zXWyzP2g3bMikIsCq4XfA/QBXx+LhHG7GW4aKCqz3az14+7wixD1+ylr1vCqsWJ3d7eLv+U/jfyktFgJWCQXscCLFqljYd57rd5kqe/KL4R8vRXWAx7NlVdkcHlV/2Hj38APGaqEg==",
+      "product_id": "293144",
+      "product_name": "Gasmengenzähler_MQM ",
+      "document_type": "Datenblatt",
+      "product_category": "Gasmengenzähler"
+    }
+  }
+]

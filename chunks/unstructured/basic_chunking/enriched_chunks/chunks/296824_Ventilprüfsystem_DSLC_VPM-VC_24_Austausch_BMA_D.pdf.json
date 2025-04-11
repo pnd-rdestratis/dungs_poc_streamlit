@@ -1,0 +1,1583 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "324093e24549d8014134c052a7bb9a10",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. @\n\nDUNGS Combustion Controls\n\nUmbauanleitung\n\nDSLC px Vx 24 VDC durch VPM-VC 24 VDC\n\nDer Austausch des DSLC px Vx durch ein VPM-VC darf nur durch qualifizierte Fachkräfte erfolgen. Die Funktion des VPM-VC entspricht weitestgehend der DSLC px Vx Steuerge- räte.\n\nNach dem Austausch ist eine Überprüfung der Funk- tion durch eine qualifizierte Fachkraft erforderlich.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztlk1v1DAQhv+KlTPddWLnixPQFQgJqkqlewEUTezxbiBf2A60VP3vjNMtLKiiVBy7p00849fj1884+/4qwhY77H3V6Ogpi1IQhdElKoQ0NrFUUGRpnJeGF1CrvIyesKhDDxo8UP5VFB4qN0xW4e07Vsoi/cyCcS4l53kp+IKHyXO8G3Rjmr8kjHZQ6NyvjLiUWSkWeSJ5IkPaiLZrnGuG3lW7Yt5fRSQcyhAi4fL6I6VZVIPVVTso8IOdKxzBb4Ps8tyhdUvbKAVW00TnLfjGLU8v1RZsd2qHT6i8W+qp37hqHNRSD2oKZrmjocdlUmZFIqs1DTTtaKcPExe8MO7Seeyq1dmb42p9+vZofVxR1vPJeZic2lYv3j6vVotRm+j6mio0TYs9dKHs6L8Vd3r+cpz1YBzbhnZOLi134Rb6zQQbdMGwCPtNFGwaaaTqp67G4FEc6vJ44YPGszDrVvB1R4kRhf/kBo1WIs94lmW5ygQHIUDpRGIOuixVfuDmsXGzOj95dcaOh66m9UiIHntvh9b9E0+iLnWexXFR1kZrIbGMEbCIlUCdYywPPD02ns67GiboW2w8+bAP0bvGt3dCxEuhyiIWKPK0ABGnNeeKdlaAkrKQxQGixwDRPGIfcLX8dotRmWy8YOsLlki2Xh0zTXRs2U3lu7F9GE/ABuO/4rugcAeU9K9KczAmNVzEJecCk6zAVGhAk6V5fYDyAOV9UKJlP2tjZCvbw/SGT2z6W0Y1WMP6ye4iXyZoCY3vDVqP7CWo7WdLLnCUht7RmqHdYL9gq4aiU/95/naHNXZy4XBGOtKtZ9/oLqYz3eAWe005dr+OM48T2g0esZ28x8WDGsVAadI0pvNSGdaJ4XGhUpkoYWoFnOtDoxwa5Z5GOYG5P7q9bmmcD82BLECpFa0yznwaZcjbGeJA/RG74f62mfDOvgHj546xNI12t/0b4B9/AIie85E=",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "2d87ba9a13ac95dcac12dc85d3c1ebe3",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Die Umbauanleitung ersetzt nicht die Betriebs- und Mon- tageanleitung der VPM-VC und des DSLC px Vx. Diese ist für den Umbau und den anschließenden sicheren Betrieb zwingend erforder- lich.\n\n/\n\nSafety  first  O.K. \n\nArbeiten am DSLC/VPM dürfen nur von Fachperso- nal durchgeführt werden.\n\nAlle Einstellungen und Einstellwerte nur in Übereinstimmung mit der Betriebsanleitung des Kessel-/Brennerherstel- lers ausführen.\n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmNuO2zYQhl+F8HVsUyItkr3LZlugSJMGSLM3aSDwMLRZSJRBUjli371DrTdZFEGwQS9tGLBlcjj6Z/iRoubtlxUMMEIsfXCrX8jKyNZbsMZJa8AyIxrFu9ZZrimnbStWT8hqhKKdLhrtv6zqRZ+nOVm4/w+9TYA/i8NGcE6pUIxuaB289I+TCz78wOCYJgs5f7OoMhTbiBZV8Gp2hDSGnMMUc38S8/bLCh1XGYy1lN++Q7MEdkquHyary5QWhUddDtXt9k2GlLcpWKuTw4G5JF1C3r76ZA86ja/S9A/YkrdujvvcHye7dZOda7LyeoqwbVUnW97fYEMYjmn+e6aMSp8/5QJjf/36j2f9zasX65tnPVo9nXPRc7aH/urF0/56c3R+dXuLCn0YIOqxyl79b48nf+XTcfGnj8chYOSYpe2pe9BxP+s95JqwFcT9qqbpiC19nEcDNUfN0pK+UcGMcqJrGqmMd45xUA1okI1l4AQ0fFUDKfCxVOPrAOTNaPSs4wChYPII5hnK50JisIdCHBpcQUkBTF6TOTryYoprUlDDtyEOErmLdbHA2SE1fnL8SG4+bgjeJAMJuRCPSaLeJjSJd/c9DYhER8zOEKBaOA+xtmWUABjavQLy+UOIe+xDkR5RgbQmmLPDpibrPo8vdapovIe/aowY7H+XTWeVVlaC7UTbMCV108rG4Wx6qlvP5WXZnMOyebgKHuLz+4h238WmYy1+vO845aZlyjewc7zl2jDNgV6wOTdsto/ixnZu1xmHm41Q1kneNV3nW8eZ4Kxzrr1wc27cPAobfBJZg0k3FDijTIqdaBzl3CNDsuPdBZtzw+a19uiPEB8SHqXIn5vnG/IolBRXRnaNoI2kohN4bbzgvjNUWy50c0Hp3FB63IHHNp3etXXboYJZr7m0rWRMUO2FatUFmws238HGMIbzo4RkomlEs+NKM3zR0qKRrVfOXbC5YPO9hxS+hu+U8i0ejR33grbSdxIc2wktBL28Xp0dNk+TgVBqaWhcyklbVEDcqYLksT3OibyfIvlN2wPOSp7WJOqBOETisIdTremQCvkAyUH8uSqR3nnOdtIiIZ22Hh+G3DRqx5TlquGX4uoZ8jgMQH4NESUMw1zrkEvx8r4FISuwMBkiWaqYFp1A7Q3jWMukYyhLqfS+nvqwgJrJ8zrNw3p7lSBGSAecEnS7JgNeEAzvK88/S7JBaqkFY6Tn3BmBR3/8VlI5qYSi/ELyuZH8MsCoh0y+7rDLlrkmDxB7gptmjOT1UcdYCUVWA+zL5o7szuP+W2rpHcjNlNYEJafgqysDuBuXHzP67l8JUZpf",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "cd1255c514821d6d947b64032b592de5",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Nach Abschluß von Arbei- ten am DSLC/VPM: Dicht- heitskontrolle und Funkti- onskontrolle durchführen.\n\nDirekter Kontakt zwischen DSLC/VPM und aushär- tendem Mauerwerk, Be- tonwänden, Fußböden ist nicht zulässig.\n\nBei Nichtbeachtung der Hinweise sind Personen- oder Sachfolgeschäden denkbar.\n\nDie Garantie für das Ge- rät erlischt bei Eingriff in die Elektrotechnik, d.h. automatisch bei Verlet- zung der Verplombung.\n\n1...16\n\nÄnderungen, die dem technischen Fortschritt dienen, vorbehalten.\n\nHausadresse",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztl01v2zgQhv8K4XNiUxJNUb0lTT+A3QQB2ubSLQSKHFpcS6RAUskmQf77Dm0HXSywBYI92gdDEueDr4cPRqPvzwsYYASXWqsX78ii5LSuS2YqJgytyq6glWlUUSkjmQBlFmdkMUKSWiaJ/s+LfNNGPwcFr8/QqgB42SUsasYorZuKLmkO3tlHr62xv3CYglcQ40+PomG8qZYojZYsu00QRhuj9S62BzHfnxeYOMuoqpKylx/oFkD5oNvBK5l82CmcZOpz2tW3CCGuglVKBo2BMQWZbFzdPqpehvE2+D9BpbjSs9vEdvJqpb2ac7HiuXewKhsuStbe4YIdpjD/MdOKChMfY4Kxvfry+/v27vb6/O59i14Xc0xyjqpvL68v2qvlpM3i5QUVGjuAkyPsqv9/Mx7ypcdpl09O02Dxn2OVVgfzIN1mlhuIuWALcJtFLtOEK62bxw5yjYqsK8FfKee4kaonFx3uM2Q9VBty7x25CB3Yc5LAETmSLG2F0t6RK6v6dE56sCluvUvBDwOQ2WnycXbbhCF4Yj8NGsHpTc5rVB/ALbPGV/k3MuQTuYevWQuK+jettQBK1xVba0k7xQopTCHLWvFCQV2V/ETrsdF6ZQNsEwTyGyImt4k8PVjcFCl9RXTHIirpM3TAwo5hDSO5ljOEBwjbM3IJuOrdw94Fre4M8d3T3+1g5bhGbEzEZd7J0zzsffGMN29jGNYGW21pNJVVKYu6oQWAKIXiiguxVieGj43hS7DkJmPVAfbehLUgGon+bN0D2AgkWiT4FiuJJXHYT7PxC3oaP+Au6gB2BhR/206GtwEpoTEFbs0qA8ARg4rVoqoqruiar7vuBOSxAXllgXySQaIkIIeXdSBaRvIJG2XY85YIhCH32kRwMiAfrNsEawyxiCGGfRiwLwefQPXOYovVy36JbTj5MRccR4wcdIcpAKeHp1fmcWEa/Njh8xsnA1loYURjlEGupBACQNGm0YyLmoI8QXxsEBfL5bLg/4Tom8OUsPHBPoH+L5Cajql1wTVVJatqLtaa19RAwY2QvD69no8PpNzuVB4KA5YhT4a5veUBct/b9tPmRx8S3gWbUra77Hfv8Zupl0N662eOXLNKUV5LBVxrxXhXiNJ0lBaKatqxE4PHxuBn3EPqkE/jFyT9+BtQx8o2",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "61fb8a860e81fee05ec451f2d8aaceab",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Karl Dungs GmbH & Co. KG\n\nKarl-Dungs-Platz 1\n\nD-73660 Urbach, Germany Telefon +49 7181-804-0\n\nTelefax +49 7181-804-166\n\nBriefadresse\n\nKarl Dungs GmbH & Co. KG\n\nPostfach 12 29\n\nD-73602 Schorndorf\n\ne-mail info@dungs.com\n\nInternet www.dungs.com\n\nMC Edition 2023.07 * Nr. 296 824 Rev. -0",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmE1v3DYQhv8KoUMPbVbLb5E9NbELN0gdLJrElzQQhuTQq2L1AUobxzX830stHDTJocC2vUknSdTw1fDlA3HI9w8FHrDFbqqbUPxIioob4CZSDVXlAlVSRxp4dA6DMKBo8YwULU4QYIIc/1DMN/XYH5PHz89Y+4T5chJklZSUVlbQ8tT59L7tQxObfwgYUu9xHP+OYFZqK8qKS8rlHDZgaptxbPpurJ+Sef9QZOE5DSE4lY8fclhC36dQH3oPU59OGQ4w7WfZ7bsR07hNjfeQQu44TgmmZtzu7v0eUrtL/R/op3Ebjt3tWA+934beH2ezxk3f4ZZbbbisb3JDcxjS8fcjFdTE8X6csK0v3/x6Ud/srjc3F3WOen4cJziOfl+/uH5eX5ZDiMXjY84wNgfsoJ3TLv6z4pPedD+c9GAYDk0eeXZp+/T6AN3tEW5xnA0rsLstZpuG3FJ3x9bh7BGb85rw0zRrvIJ0IJezBeSqdb+Q78hFX5JXV7PY5++8hjRb9xHfzp1y72+xAu8EU1ZyZIxHhiEwrzSNCBYt42rFaolYbU5YbXYHmP4k7DygnK24QCq0VFGrPNcCc5uULgRnGaxALQ2oy00ltKbkXXLg98/IVTYeunvyNoMT+478IC2pmGEbQ+WGngWby0S5yuUxWpr/X4yLYKzlKD16GaVeYVsabCeo4NPXUDGtz8JKe++1E6ht8N76QE3QmO9cRb2yyq5YLQ2rF6nJWIU0T8dZKEXGBANvKAjOuTDMUwNGRx8EE0HGFaWlofS/lO2We6ml5iwIabT0VcxTrozmgRvl1LrwLQ6rXT9OMddXhHHC7VkweSdNsEw6WTkAzphUTlqRB1kprW21wrQ0mE4lO+Xkjd/3qQt9imcBhRTnPR8YyUSFLgJUwlhlKBNSsXUPuDygcNNCcyBNF/ufTk6Uvm/PO1dgPCrKXbRV5kh5FYIJjMvsu5dUspWppTH1spswdTiRu7u78t9BxaJyxuZ6yeT/FQvK+7zuMVAerKWRhRWqpUF1fUF+Ds0sQTjloqQV+Z68TmWuqTTJ2ZLf8GNJzjymMswCtxhdHp0DAT7GkHeBTAGXyq7HVIvAjH+J2Zf4vGxzXPH44S/bP+tS",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "09f8b1d026ea14ed62053e797fa00c35",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Die Druckgeräterichtlinie (PED) und die Richtlinie über die Gesamtener- gieeffizienz von Gebäuden (EPBD) fordern eine regel- mässige Überprüfung von Heizungsanlagen zur lang- fristigen Sicherstellung von hohen Nutzungsgraden und somit geringster Um- weltbelastung. Es besteht die Notwendigkeit sicher- heitsrelevante Kompo- nenten nach Erreichen ihrer Nutzungsdauer aus- zutauschen. Diese Emp- fehlung gilt nur für Hei- zungsanlagen und nicht für Thermprozessanwen- dungen. DUNGS empfieh- lt den Austausch gemäss",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJylU01v2zAM/SuETx0wJ27iNslubRN0wNYgWD8uXWHIEmVrtSRDH+2aIv99lNO0O+2yky2RfHzvkbp/zbBDjSZUSmRfICvlnM0XRX1SioLPi8lM1qdzKeVCFHW9wJPsM2QaAxMsMMp/zdJP5W10HA9nrLhD+gyAx7OyLIrZYlqMilQ8xLUVSqp/JPTOcvT+I+N4UZ4upqPZpCwmZUrr0WnlvbLGV29k7l8zAk40ptNJUe4eKM0ht05UneUsWDcw7FloE+z41qPzY6c4Z05QoQ+OBeXHmxfeMqc3zv5CHvxYRNP4qrd8LCyPySyfW4PjyeJ0PimrO7pQXe/iz1hMi7n0Lz6grpbX3y+qu81VfndRUdZZ9IFFz9vq/OqsWo56IbPdjhhK1aFhOtHO/hvxDS+89AMe6/tOkXJyafwW7phpImvQJ8MyNE2WbOrppjJR15g8miReAX+HhLFUCEsX+WODjvgUWAYkz9rQKUOho81q+QmiESDo9OMjkHIlJ8AhcIme6YAGXQ6NQpRSbRWaLTxZQ8F6jxwFGjhabc4JUtLc0BlAZRAcNtjloPdpNPZm30CkBr3b95I0pwHvK6ptmhkzHekysI0Oku4cpFM+qHR3TUxp/AG77lDW2pYC6xiG4saxxCYp81arAKRf0T2ph1udwzN2ocaO+UDZI1h5qGmDsA2D3rUNz2iEah6RSv3QLIeWDt7Ri3tiJiB8s7q3ORgaN3UyjLewcg5TsgHVOup0YCNYpBONOyc1+7GjGQENxyOsdE/SsB2UNKoLYEix3Lvikh2p6i9DkiiTRvWRdEMENT27LT07Zoh7Dmnvhya368trQN3Tk21zIPhkzPv6kTHvc0kbdli+NXPpPT3hTdqk3cMfAhSCCw==",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "7f13c78adeac2f67f9f79805e018e7d4",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. DUNGS Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJylkE9rGzEQxb+K0TnxanfVtdVbakMpNMUQ4ksShFaatVVWf9BIEGP83SMZh95y6UmjmaffPL2XM4EZLLgkjCbfF0SzlsJ6UMPYygnYONDuG/Bx3fOW85G35G5BLCSpZZJFfya1EOhzVPB5B6EilOMKbFeMUbriPV3S+vg6t16byXwhCNErQPynaDkbeL9cdYx2rMoCRGsQjXcobmZezqSAq42+7yi7vBVZBOWjFrNXMvl4dRhkOlZs84wQsYlGKRl1eYgpymSw2Z3UUUa7i/4vqISNzu6AInjVaK9yDQvvvYOm48O6Y2JfGmYOMb9m2tP1hCdMYMX26fdG7HeP9/uNKKqHjElmVEfx4/FBbJdBT+RyKQ4nM4OTttom/0288dIpXHkyhNmUn5eUmtt4lu6Q5QGwBkbAHUiNKZSOcNmOUDPqqq8E76kyts9/fj4tNt6OZV8BldKl6GestM9Fv2wBkMvbB9rcve0=",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "2243a9a22d8dfb522735fc3aa2041ea3",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Sicherheitsrelevante Komponente NUTZUNGSDAUER DUNGS empfiehlt den Aus- tausch nach: Schaltspiele Ventilprifsysteme 10 Jahre 250.000 Druckwchter 10 Jahre N/A Feuerungsmanager mit Flammenwéchter 10 Jahre 250.000 UV-Flammenfler 10.000 h Betriebsstunden Gasdruckregelgerate 15 Jahre N/A",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Sicherheitsrelevante Komponente</td><td>NUTZUNGSDAUER DUNGS empfiehlt den Aus- tausch nach:</td><td>Schaltspiele</td></tr><tr><td>Ventilprifsysteme</td><td>10 Jahre</td><td>250.000</td></tr><tr><td>Druckwchter</td><td>10 Jahre</td><td>N/A</td></tr><tr><td>Feuerungsmanager mit Flammenwéchter</td><td>10 Jahre</td><td>250.000</td></tr><tr><td>UV-Flammenfler</td><td>10.000 h Betriebsstunden</td></tr><tr><td>Gasdruckregelgerate</td><td>15 Jahre N/A</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVWFPo0AQ/SsTPhorlGJtjWei9jTeqTGn7YdTQ7bLUPaEhewuesb0v98sUKu2XJO7D4Rld+Yx8+Y9uHt1MMUMpQlF5OyDs9vv4iCK0ethzILBXhDs7SL2kQ99b8r7vrMNToaGRcwwin917CLUeak4Lp4x5ArpVgF2CcLz9oY9b8ezydV5lkciFn8JKFTOUetlRHcY9Ie9nT0/8PzAhhWoMqG1yKUOm2LuXh0CtmX0er4XzB8oTCHPVRSmOWcmV1WFBTOJhXXHGpV2leCcqYgStVHMCO1ev/CEqexa5b+QG+1GpZzpsMi5G+W8tGTpTi7R9Yf9gR+EE9oQaaHK+9LreYNYv2iDWTi6uTgJJ9eXnclJSFFHpTas1DwJjy+PwtFOEcXOfE4VxiJFyTJbtvPfiA2eeSkqPFYUqaDOiSW3OU6ZnJVshtoS5qCcOZamgnZCWWZTtBz5tGPwtwmZDhOTpRbqwLBpiocHJkEW0U3Z5eGN4AmqBIXRioT0xKRB+J5nBfFDywOXYmzc1fj25/jq7GZ0NP76A0Z2CZgVpIEkNRChBOqmA3U/IBlP9t9yb2gaqdGFoBfUm659u7uoZJpHL01B0eGCOtGQZjOi6qTrwTeWqOWGv0uK87z6uYJsMEaq5I/PPDGo2rOv3KPVzFMsUVm1ZEwSowoyYeA0ZRmJ5pmG6eFwA2xrUeNJpwGK0yUA8DzVBZNf7h3/3iE4mwwJHKNRAqdam1ISu6twZ0xHtk2FM0ypUmawDXO3LhHWdkw4TxXlVauf2W+BtPMFVI9MkkYyOCURLFpaj50nElfAt9pZXMW6FHIHFk1vmu1q+juds+k0ZRrrytox1nPVuShj05mgmtJcNip0FWLL9hCzTKSCPHO+Dd0uXS0008DAcgySqjfwhOoZSQ0GnlF9FIXbmMitTe7Mmw+ANf4Gi8M/WPttlNYSMV9YFRYEQO3AyjBBNavl0WaLfc5455z6fVZt0GYV+OyMGpMafTPCes1/6AXWShxaFP0hdWtZ+UfRrm2uTZjLiBbVLQNWNHVeXeewQT/w/sMMzYerSmpbN5f9DS3+ULdWcM784Q9GHtsS",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "05c53247f81a70b36230471e925c634a",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Gasventil mit Ventilprifsystem nach erkanntem Fehler Gasventil ohne Ventilprifsystem* 10 Jahre Min. Gasdruckwchter 10 Jahre Sicherheitsabblaseventil 10 Jahre A Gas-Luft-Verbundsysteme 10 Jahre * Gasfamilien I, 11, 1 N/A kann nicht verwendet werden",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Gasventil mit Ventilprifsystem</td><td>nach erkanntem Fehler</td></tr><tr><td>Gasventil ohne Ventilprifsystem*</td><td>10 Jahre</td><td/></tr><tr><td>Min. Gasdruckwchter</td><td>10 Jahre</td><td/></tr><tr><td>Sicherheitsabblaseventil</td><td>10 Jahre</td><td>A</td></tr><tr><td>Gas-Luft-Verbundsysteme</td><td>10 Jahre</td><td/></tr><tr><td>* Gasfamilien I, 11, 1</td><td>N/A kann nicht verwendet werden</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVWFPo0AQ/SsTPhorlGJtjWei9jTeqTGn7YdTQ7bLUPaEhewuesb0v98sUKu2XJO7D4Rld+Yx8+Y9uHt1MMUMpQlF5OyDs9vv4iCK0ethzILBXhDs7SL2kQ99b8r7vrMNToaGRcwwin917CLUeak4Lp4x5ArpVgF2CcLz9oY9b8ezydV5lkciFn8JKFTOUetlRHcY9Ie9nT0/8PzAhhWoMqG1yKUOm2LuXh0CtmX0er4XzB8oTCHPVRSmOWcmV1WFBTOJhXXHGpV2leCcqYgStVHMCO1ev/CEqexa5b+QG+1GpZzpsMi5G+W8tGTpTi7R9Yf9gR+EE9oQaaHK+9LreYNYv2iDWTi6uTgJJ9eXnclJSFFHpTas1DwJjy+PwtFOEcXOfE4VxiJFyTJbtvPfiA2eeSkqPFYUqaDOiSW3OU6ZnJVshtoS5qCcOZamgnZCWWZTtBz5tGPwtwmZDhOTpRbqwLBpiocHJkEW0U3Z5eGN4AmqBIXRioT0xKRB+J5nBfFDywOXYmzc1fj25/jq7GZ0NP76A0Z2CZgVpIEkNRChBOqmA3U/IBlP9t9yb2gaqdGFoBfUm659u7uoZJpHL01B0eGCOtGQZjOi6qTrwTeWqOWGv0uK87z6uYJsMEaq5I/PPDGo2rOv3KPVzFMsUVm1ZEwSowoyYeA0ZRmJ5pmG6eFwA2xrUeNJpwGK0yUA8DzVBZNf7h3/3iE4mwwJHKNRAqdam1ISu6twZ0xHtk2FM0ypUmawDXO3LhHWdkw4TxXlVauf2W+BtPMFVI9MkkYyOCURLFpaj50nElfAt9pZXMW6FHIHFk1vmu1q+juds+k0ZRrrytox1nPVuShj05mgmtJcNip0FWLL9hCzTKSCPHO+Dd0uXS0008DAcgySqjfwhOoZSQ0GnlF9FIXbmMitTe7Mmw+ANf4Gi8M/WPttlNYSMV9YFRYEQO3AyjBBNavl0WaLfc5455z6fVZt0GYV+OyMGpMafTPCes1/6AXWShxaFP0hdWtZ+UfRrm2uTZjLiBbVLQNWNHVeXeewQT/w/sMMzYerSmpbN5f9DS3+ULdWcM784Q9GHtsS",
+      "is_continuation": true,
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "a4db50f8a0c92e3a0773247c4c38acad",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. MC Edition 2023.07 * Nr. 296 824 Rev. -0\n\n2 … 16\n\nDUNGS Combustion Controls\n\nInhalt",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztlVFv2yAUhf8K8uO02BhsY++tS6ap0hJF65qXtkIYrhNPtrEAV4ui/vdBlmrRVPVlj8mTMdx7OD58wg+HCDroYXC8VdEnFDUMFKha5IqWRFWClTKvBGU1qWWaFiz6iKIenFDCCV9/iMKAWz0ZCa/vwKUB/zgKpizLMGYVxTEOzcf1Xqu2ad8pGI2WYO3firTKiorGjGSYZKFsBNO31rZ6sPxk5uEQeeFgg1KCs5cnX2ZAaqN4p6Vw2hwdjsLtgmxyb8HYxLRSCqN8o3VGuNYm673cCdOvjf4J0tlETcPW8lHLRGk5hbDsTA+QkKooScY3fqLtRjM9TpjisrF766Dni7tvc75ZL2ebOfdVN5N1YrJyxz8vb/giHlUTvbx4h03bwSD6YDv6b8WTntuPRz0xjl3rv9ynlJyWOzFsJ7EFGwKLYNhGIabRz/Bh6msIGZHgy8EvFzSWc/RFtUECEUxojBn6gFYmRt4s8m7Rd3iO0ex4dq/7roQJUT7DjyDi1f7FjKa1qJmUeQkpziUFUmc4ZVDlFKCg1RWzS8OMoMfJ81WgtDgnae07Vn8a3sAolQRqkklCoWgwLf1N1YiUghSYMUroFaMLwIieY7S4X329Q3Pd136/cGfN9eCM7uw5VLe9F3iLJ9yUIoeK0CZPhWJNqqpMUtZUpBBUsvzK06XxdDvsROfe+bc9/QYF+/OH",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "42f5242bcd77b8a6c2ec887c297d77ce",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Entlftung Gber Dach: 2 Hilfsventile 4-5 Entlftung Gber Dach: 1 Hilfsventil 6-7 Entliftung in dem Brennerraum: 2 Hilfsventile 8-9 Entliftung in dem Brennerraum: 1 Hilfsventil 10-11 Entliftung in dem Brennerraum: kein Hilfsventil 12-13",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Entlftung Gber Dach: 2 Hilfsventile</td><td>4-5</td></tr><tr><td>Entlftung Gber Dach: 1 Hilfsventil</td><td>6-7</td></tr><tr><td>Entliftung in dem Brennerraum: 2 Hilfsventile</td><td>8-9</td></tr><tr><td>Entliftung in dem Brennerraum: 1 Hilfsventil</td><td>10-11</td></tr><tr><td>Entliftung in dem Brennerraum: kein Hilfsventil</td><td>12-13</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFlF9vmzAUxb8K8vMA8y+UKqrUNtP2sEqRtualqyzHvgRvgJFtpkVRvvtsIFq2ZWurSU1euDHn/jgcX/OwQ1BDA60hgqNLD5U0AczzdRTjLJvFaVbkWZbOOGRJSYs8Rm881IChnBpq9TvkCqJlrxgc/gNhCuxlAEZ5mmKcFwkOsGse7jeSi1L8Q9ApyUDrn4qoSGdFEuRxiuPUyTpQjdBayFaTyczDDlmws5EkMU73j1amgEnFSS0ZNVINDjtqKocN7zUoHSrBGFXcNmqjqBE6XG5ZRVWzVPILMKND3rcbTTrJQi5Z78LSvmwhjIvZRZySlV0Qdaf6zz1O8EWpt9pAQxYfP9yS1fLOX90Sq7rutaG9ZhW5ubsmi6DjJdrvrcNS1NDSxtlG/02ceGbbDTzadbWwb25TCqfbNW03Pd2AdoEhaDfIxdTZFdL2zRpcRoldMfDdEKpJZZraoeaGrmu4mpsKKLcX5cqrt62pS2Pz8d7ZVm9BWXXpxd57UZf62/AWMA+tzmlTPxvr0DWHB9Ba8u3E46d50THPNvJBOvPzsR5wR/1iBIjW49B4NwraFpSifXPC2Yi68IsXo06birAfRS9mfQW7ehIX+1FyhAuntMJxM9B+2ii3Qe4Zdl5wycYHjfXfdiU478/OgveU4V8SPrPfILDj9ofjp0fstV3aSX6Wy7NlOxyQZ1n8/VC8nkV36Nyn8vAV/eQOG9o//gAG4gg8",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "08f96ac08ff179cf013104d4a913f77f",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. 3 … 16\n\nMC Edition 2023.07 * Nr. 296 824 Rev. -0\n\nMC Edition 2023.07 * Nr. 296 824 Rev. -0\n\nUmverdrahtung DSLC  VPM-VC \n\nDSLC (alt) \n\nDSLC Ventilkontrolle mit\n\n• Hilfsventilen (V3/NC, LGV/NO)\n\n.\n\nEntliftung Giber Dach\n\nDSLC  px Vx  V3  V1  Pp  Prüfabschnitt  V2  LGV \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nElektrischer Anschluß DSLC \n\nPp  D S L C  -  +  = (DC) 24 V ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztmE1v20YQhv/KQqe4jaT94i5ZoAfXDtICsWs0sS5JQMzuzkpsKJJYUq5dw/+9Q9lBjdZtYhQ9iYcFKXJ2+HL4YD70/naGNW6xGcoqzL5jM1/IDIyTEKXLUHMVi9xZZ4MCDSHK2Us22+IAAQYg+9vZeFL27S55/PwbS5+QDnuHwmrNuS0UX/Bx8/7+tg1VrP7FoEutx77/00IU2hRqYaXmUo9mHaZt1fdV2/Tlg5j3tzNyPMpQSnJ995HMEvo2hbJuPQxt2ivsYNiMbpeXPaZ+mSrvIQXa2A8JhqpfXtz4DaTtRWp/RT/0y7Br1n3ZtX4ZWr8bg9XP2waXsjC51OWKLlR1l3YfdlzxPPY3/YDb8vTtm5NydXE2X52UZHW86wfY9X5T/nB2XJ4uuhBnd3ekMFY1NrAdZc/+s8cHf8NNt/cHXVdX9OYUpeXD7Rqa9Q7W2I8Bm2Gzno1h6uhK2ey2DscYqVHXgNfD6EOxDzvJpWHCjPs/u76gHef3G8j6rxjJorDosxyiRS0yrqxxOViphBOgUE8YHRpGZyfsVahGF4xoUgtu2TfsPC0YiWWklv2CVws2548ZO4c0hvIK341OnsAMDDdRO2czZ4JXXEgQwnIT8sAxgJ0wOwDM9P+PGXplOMcIUBjngOtgbBSeR16g8G7C7NAwu9xeYQoJNgOFgY0aGLsXwR6T9dOWXDxZH4XyKlcy5iEvYpYb6rWUQSto5Q7ziahDI2rP0Auoh6OvI0gXnjvq1ukTmCKnLstZHaITzgWfqXwqfYdJ0L2iT20zpLaukW2r4TFO76qhfjohSeqXCp3rQJOfoK7dKumUy4XxCgNOc99B4LS/kp6RZB7ztx8TJfuxqmN/tX8TbNiLlVqen7xkb16vluc/Hz2r7eKFwGi5daCV1YiZzoIGS4CCKjI/DZETk19icvEYuMuGHo/rNlW/Y/gn6Gh25AaAJsngeOEzeo5UUWHuMoA8mzqzCbovQfeqGeoq7ieD1xU5ZKfgN8/KfDlKEaShpJdlSirMePA2GgdeSwNCTBAeAoR/a+5Yd81W1zRpKlqCsYuOViJ5PPoIjkQ01TDQPcnGgvt1g4TVtgCBRSgcYU1fTHOhuAafFTyDjE+sHRpr5xVuoe7ZcXJYDdTEBfrWmzmL96RtKC++ZL9h07C3HTTNmOegqStcDws2mgQTI4450G+Qrdo0ZyQ5UUYkVw4pF9LJ4ln5EB1XUgceRU5gupAJy7NMSm9VASGaidFDY/RVjZ+GVNFzqL4eN3Ssd3v24v2/cV+V+gIHbfPoUVoJYIwRnGMeBUhLZxlOWB0aVmNFPWVv2RtG1XbO2LeMfc9enJ4cManZkwX14x8gi+3L",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b993848c8f4a107b4baf854d4ac5fcd0",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. DSLC AnschluBB von Klemme Umver- drahtung nach Pp/NO Pp/COM frei Reset/IN Stéranzeige 24 VDC + - Priifanforderung 24 VDC + Reset/OUT frei frei LGV /24VDC + Pp/NC",
+    "metadata": {
+      "text_as_html": "<table><tr><td>DSLC AnschluBB</td><td>von Klemme</td><td>Umver- drahtung nach</td></tr><tr><td>Pp/NO</td><td/><td/></tr><tr><td>Pp/COM</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td>Reset/IN</td><td/><td/></tr><tr><td>Stéranzeige 24 VDC +</td><td/><td>-</td></tr><tr><td>Priifanforderung 24 VDC +</td><td/><td/></tr><tr><td>Reset/OUT</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td>LGV /24VDC +</td><td/><td/></tr><tr><td>Pp/NC</td><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFVG1P2zAQ/iunfN2K8+KmZGKVoGwTYrTVgH4BFDn2pc2UN9kOWof632cnKWUDpk6bNCWSL3fPPXl8vvPNg4M5FljqOBPOO3CSkIqID6Mhhok7TF2XBgmlbCSGiQgRU+ctOAVqJphmBv/gWCNWVSM5br8x5hLN0hJ6I0pddxQF7oFrk9t4UYkszX4DqGXFUakdwotoGAUHI5+6PrWwGmWRKZVVpYp7MTcPjiG2MoLAd+nmzsAk8kqKOK8405VsFdZMrywtuVYoFZEZ50wKk6i0ZDpTZL7mKyaLuay+IteKiKZcqriuOBEVb2yx1KAqkfhReOjTeGEcWV7L5rZxA/cwVWulsYhPLz9P4sX8YrCYxAZ13CjNGsVX8cnFcXx6UIvU2WyMwjTLsWSFle38NWPPp9d1y8fqOs/Mzk2VSB/OWbls2BKVLZiD5dKxZaqNJy6bIkFbI2o8Gr/pmKl4pYvcUh1pluQ4PtIrZMIs0ppjKwmOSyMib05OjohxWfd9VcK56asCH13XxT3KAQjJVtrUE0rGV12QWC6y5U0qse7pxXhek+nMxET79YvR5u2Ak9nFPshUYrYP7gsq1ORsug/2UpuDcjGSrPyO2RLBp7A4ncCb58mDF7TLLEtZmZo+RWlL83r2azJn11f/cu/74j5/WgDx6d5i7XFO/ofQRfAnMj8a1iVL0O5t/5PofjDYAwq8ylXNyve3TnDrjKeNhG6qnyBJPwikGztn04+kHcV26BAK8/SjZ9tPpMaXwzmUUME9zD+0bw0EpjPwOsvMCPhgqwYBtK1jnGdToNC1cBo+a2EYwly2Mf5ik0L4SGS6EEYd+2G3RNC2yA7sub2kCXheh/F6QV4Ai+AnLIXdSTxxD7f2ALwQdtWDl64Ye+Vtb8MrW0pnc/cD6OYrSw==",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "5a446d5385e2f4d33c63cb9b347f5ac9",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. frei frei V3/24VDC + Freigabe /24 VDC + 24VDC - Nur VPM-VC",
+    "metadata": {
+      "text_as_html": "<table><tr><td>frei</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td>V3/24VDC +</td><td/><td/></tr><tr><td>Freigabe /24 VDC +</td><td/><td/></tr><tr><td>24VDC -</td><td/><td/></tr><tr><td>Nur VPM-VC</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFVG1P2zAQ/iunfN2K8+KmZGKVoGwTYrTVgH4BFDn2pc2UN9kOWof632cnKWUDpk6bNCWSL3fPPXl8vvPNg4M5FljqOBPOO3CSkIqID6Mhhok7TF2XBgmlbCSGiQgRU+ctOAVqJphmBv/gWCNWVSM5br8x5hLN0hJ6I0pddxQF7oFrk9t4UYkszX4DqGXFUakdwotoGAUHI5+6PrWwGmWRKZVVpYp7MTcPjiG2MoLAd+nmzsAk8kqKOK8405VsFdZMrywtuVYoFZEZ50wKk6i0ZDpTZL7mKyaLuay+IteKiKZcqriuOBEVb2yx1KAqkfhReOjTeGEcWV7L5rZxA/cwVWulsYhPLz9P4sX8YrCYxAZ13CjNGsVX8cnFcXx6UIvU2WyMwjTLsWSFle38NWPPp9d1y8fqOs/Mzk2VSB/OWbls2BKVLZiD5dKxZaqNJy6bIkFbI2o8Gr/pmKl4pYvcUh1pluQ4PtIrZMIs0ppjKwmOSyMib05OjohxWfd9VcK56asCH13XxT3KAQjJVtrUE0rGV12QWC6y5U0qse7pxXhek+nMxET79YvR5u2Ak9nFPshUYrYP7gsq1ORsug/2UpuDcjGSrPyO2RLBp7A4ncCb58mDF7TLLEtZmZo+RWlL83r2azJn11f/cu/74j5/WgDx6d5i7XFO/ofQRfAnMj8a1iVL0O5t/5PofjDYAwq8ylXNyve3TnDrjKeNhG6qnyBJPwikGztn04+kHcV26BAK8/SjZ9tPpMaXwzmUUME9zD+0bw0EpjPwOsvMCPhgqwYBtK1jnGdToNC1cBo+a2EYwly2Mf5ik0L4SGS6EEYd+2G3RNC2yA7sub2kCXheh/F6QV4Ai+AnLIXdSTxxD7f2ALwQdtWDl64Ye+Vtb8MrW0pnc/cD6OYrSw==",
+      "is_continuation": true,
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d3d1779b61914a7dd26869188104c15e",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Neu nur VPM\n\n4 … 16\n\nUmverdrahtung DSLC  VPM-VC \n\nVPM VC  V3  LGV  (NO)  Pp  V2  GW 1  V1 \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nElektrischer Anschluß VPM-VC \n\nFA     T  I  T  L  L  U  U  A  M  F     M     O  M  K  C  O  O     C        T        I  L  T  U  L  A  U  F  M  T  O  C  E  S  N  N  E  R        E  T  O  M  GW1  E  R  Pp  V2  V1  V3  LGV  TR  24 VDC +  -  -  - \n\nDIP-Schalterbelegung \n\n1  X X  X X  X X  X X  X  X  X X  0  A  B  C \n\nVPM (neu) ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztl21v2zYQx7/KQa9arI4pkpLIvUuTtAiWOMbieAPaQuDD0dYmSwIldQuCfPeRarwFWzBk2EtbJqgzefzrdPqJFD89JFjjDpuhrGzyPSRMqbxItRaaUldITUmWOrSGGiNSVhTJO0h2OCirBhX8H5JolH07eoP7/1gaj+E0CaYF54QUkpETEgdP/bvWVq76F4fOtwb7/i+PVPJcspOCckJ5dOvQ76q+r9qmL5+C+fSQBOEYBmOU8Mcvwc2jab0t69aoofVThJ0atlF2ftej7+e+MkZ5Gwb2g1dD1c+X92ar/G7p21/QDP3cjs2mL7vWzG1rxpisftY2OKcyF5SX69BQ1Z0fP4+EEeH6+37AXXl+e3VWrpfXs/VZGbxOx35QY2+25fvr0/L8pLMueXwMEbqqxkbtYtjJ/1Z80hvuu0lPdV1dhTsPWZo/ddeq2Yxqg31MWILNJolp6kJL2Yw7jTFHPMY14O9D1FjgCM3oIVw4jt9Lr6qhxiQ4/p0gYZ1MVW51VkjnJKOFRqJSqYRxKJg9EnRoBHH4PFJCc0jz5wQtw4jFtwEvYZSqjAmSY2F1yhQWBTMombO20ISgOWJ0ABhlzzG6231Fb73aDiENEGMA+BYEPMfqchckXiRKYpiFiEFaEC4dt0YTJmXqOCOU4HFiOjiiwgVhHSliAFcf1wBvFjdvAZZdaKIAH3+CNFjp6/CSQnEpKWaZyQNbqdCpcpmxxEmZBeiOeB0aXosKd6ru4dRrrAZswIZnvZ2BC8ERZ7Yem3fwGzYN3HaqaeKsppq6ws1wAtHF5s6F+wlxbBHWrZ9BCNlXLkppVGYbjJPnbC6Uj8/hK65iBC8wqlMrszzPFbNCGRRoGZEpciqKQCuXR0YPjdGLGn8dfBWugx5Om3Cux4k995/WVlcUzoosQ1XkOiyqjFlVOO3yvFB52AscwTo0sD6cQjxWAJdTfTWVu6mErmuAD5PD9VTfTMYPAGeTfTM1nsHTsdobl5PIahK5mnTuJp3rqfFmGnIBcAuwmEqwf9yPvdj7XMeVPd137hf7dfrsO2AVOiiH9fkZfAcweyqv+8o0QgiXcy6NCtsW5LrgVGeGMqZk7sjxTTi0N+H8cjm7DQmpBwwfAjVu4kL/OpaQZzJApGxaaBScY0aEopoHnvIsE0eWDo2lMEn9HH7/rP40yTQtvo9T4eu2LSkVQjsmDReMWiQuzTNmdeZMrrVQR8YOjbG4K37T4Pj2JYC+/AGih5V0",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "c5cdb57fcf0d7284a82450c94b723b48",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. VPM Ventilkontrolle mit\n\n• Hilfsventilen (V3/NC, LGV/NO)\n\n.\n\nEntliftung Giber Dach",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztVMtu2zAQ/BVBpxZILL4sS72ldpEektRAG1+SgFiRK5utJAokFdQN8u8lnQQtUDRA0WNy4mNnh8PBYK/ucuywxyFIo/N3WU5VTStgVasrokgtYM4ZI0wJqhqqCeZHWd5jAA0BIv4uTxvp7eQUPp1RKodxeSBcCEHIouZkRlLzod5bbVrzDGB0VqH3vxC0FmXNZwsmCBMJNqLrjffGDl4+irm6yyNxksE5I+L+JsIcKuu07KyCYN1B4Qhhl2iLS4/OF84oBU7HRh8cBOOL9V7twPVrZ7+iCr7Q07D1crSq0FZNySx/bAcsWF1WTMhNvDDd6KbriXBStX7vA/Zy9flsKTfr8+PNUkbUyeQDTF7t5PvzE7majbrN7++jwtZ0OECfZOf/zfjIF/bjgQ/GsTPx59Gl4rHcwbCdYIs+GZbjsM2TTWO8kcPUN5g8middAb+HxBEfzB4EfbNDcLbrMOtNSFxPz1yAS87d4pfUE5v/SFVdogKGjUZe0QaQzRsAqoFroeZV/Zqql5aq6ylOFZZ9NF3rbw/CcMjebHhxsTzKzk43xcWnt/8UMVwISkUr4oxqCKmgEXOFSIGWlCOU8Bqxlxax2e/5uRwiG26tMz9Q/y1DfK5o2bKWEiwJr5pFRQkRCwXR6FZx/Zqhl5ahD0PoTBuiB9mpifVsBWr3zFy6+Ql26P4u",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d4167bb232999014724a415086556017",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. e VPM m m e Anschluß l K f u a → PE PE → 13 Pp / NO → 24 VDC + → 12 Reset / IN 24 VDC + → 17 Störung OUT 24 VDC + → 16 Störung IN 24 VDC + → 4 Prüfanforderung 24 VDC + → 24 VDC + → 10 LGV / 24 VDC + → 14 Pp / NC → 6 V3 / 24 VDC + → 11 Freigabe / 24 VDC + → 3 24 VDC -",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Il</td><td/><td>VPM AnschluBB</td></tr><tr><td/><td>13</td><td>Pp/NO</td></tr><tr><td/><td/><td>24VDC +</td></tr><tr><td>12 Reset/IN24VDC</td></tr><tr><td/><td>|</td><td>+</td></tr><tr><td/><td>17 |</td><td>Stérung OUT 24 VDC +</td></tr><tr><td/><td/><td>Stérung IN 24 VDC +</td></tr><tr><td/><td/><td>]</td></tr><tr><td>]</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylk29P2zAQxr+K5bcbOP+aNBNDgrJNaFCiAX1DkeU4lzZTEke2I1F1/e6zQxJgrZimKY18Of/86Lm7+mGLoYQKak2LDH9C2HP5JI+y0PW9NA2dyTQIJjwOecR5njpTF39EuALNMqaZ4bfYBlSJVnIYvoFyCWbpBN0oCBwnin3n2LGHu/1KZEVevAM0UnBQ6oVw4yCM/ePICxwvsFgDsiqUKkStaG/mYYuNsLXh+54T7B4NJoELmdFScKaF7Bw2TK+tLLlXIBWRBedMZuag0pLpQpFkw9dMVokUP4FrRbK2XinaCE4ywVvbLHUkaiBeHE69gC5Moigb2S5bx3emudooDRW9uL2a0UVyfbSYUUOdtUqzVvE1Pb8+oxfHTZbj3c44zIsSalZB1/3/Vez19Kbp9FjTlIWp3HSJ9Nslq1ctW4GyDcNQr7BtU2MytG6rFGyPJiaj4UlTpuhaV6WVOtEsLeH0RKci25hFmjc7vSxPiFlsOAbGITqrja+yPT9/zpIOl2851x/DpCHzm3fQMfCCxcUMfdhDERelalj9eYn9JT51PfQDFGhyOe9OvCP9a4z2VV95jdALeKvNXByIpflfoJv7O+QF6LCtAxW8OXw5/6ezj3+r+zVA+kmR58HhXT9UO0xAdkiVeWAYlXWV5ahE31GOWsTQsvXc2EPJF/vrP1wfJQ0iaH4zZAb7I9F33kCviht3I/Rcfx7uNW9kwrfMAZkAJbIjeM7q3Nxv6Mg/sT1lB119WxhnextBX9ZsyIRo4R8CXfRVQrFiKRzY9YfMkb1owx28s+3Hu8ffUdigMg==",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "dec50b1d7feaa2a0c601f910ecdc812f",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Multifunktionsausgang OUT 20 24 VDC + Multifunktionsausgang IN 19 24 VDC + 18 frei 15 frei 9 frei 8 frei 7 frei 5 frei 2 24 VDC + 1 24 VDC +",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Multifunktionsausgang OUT 24VDC +</td></tr><tr><td>Multifunktionsausgang IN</td></tr><tr><td>24VDC +</td></tr><tr><td>24VDC +</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylkU2P2yAQhv+KxbXdGH9sHFfRStvkUqlpI3U3l+0KYRjbtLZBfEiNovz3gsM2vez20AsDM+88vAxPJwQDjDBZIjj6kCDWUI7rki4LVhTlikHWQM2qpsYcQ0Upep+gESzl1FKvP6GwIUY6zeDlDIRp8GEGZlVZYlzVBV7g0DzXR8lFK94QKC0ZGHNVZHW5rItFlZc4L4NMgR6FMUJOhkQzTyfkwcFGUeS4PD97mQYmNSeDZNRKPTtU1PYBmz4a0CbVgjGquW80VlMrTLo/sp7qca/lD2DWpNxNnSFKspRL5sKwzI2cIM3r5SovycEnxKC0++5wgVetORoLI9l++7whh/3u5rAhXnXvjKXOsJ583N2T7ULxFp3P3mErBpjoGGyj/yZGnj2qmUeVGoR/uZ9SGssDnTpHOzBhYAimDoUxKZ8hkxsbCDO69RkLvyyhhvR2HAJqbWkzwN3a9kC5Dzps73ZusKJ1089whfFuOo9Pvj4+JHl52G6Sd+vUq/yiwxJbG8mPkcBfIXz64uU8NkbllfjPQhrvSC+m0Tk+KDzkDcvYu05mVvKarSSrr6JslbQaRJLdXmJ9CTFbXUKs5X+1/dmGD3n5q4dgFZ2ffwMBiCSC",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f1c284fa1b1aff703e50583a7860b24a",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. 5 … 16\n\nMC Edition 2023.07 * Nr. 296 824 Rev. -0\n\nUmverdrahtung DSLC  VPM-VC \n\nDSLC (alt) \n\nDSLC Ventilkontrolle mit\n\nHilfsventil (LGV/NO)\n\n.\n\n.\n\nEntliftung Giber Dach\n\nPrüfabschnitt  LGV \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nMC Edition 2023.07 * Nr. 296 824 Rev. -0\n\nElektrischer Anschluß DSLC \n\nPp  D S L C  -  +  = (DC) 24 V ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztmF1P5DYUhv+KNVfQ7sw4tuOPSr2ggLaVgKJSuNldRcf28Uy6+ZKToaWI/15nYFVU0RZU9Sq5mXwdv3lz5tE5J/lwv8AKa2yGovSLb8jCWoU0Yx4ypm2mldRCcy59CJ5LNLB4RxY1DuBhgBR/vxh3ir7dRYdfjrFwEdNmL5gpIShVhtMVHRfvr9etL0P5DwFdbB32/Z8RmRHS8JVigjIxhnUY67Lvy7bpiyczH+4XSXi0wTmj4uFTCovo2uiLqnUwtHHvsINhO8qur3uM/TqWzkH0aWE/RBjKfn1557YQ68vY/oJu6Nd+12z6omvd2rduNyarX7YNrpmRmoniJp0oqy7uPu4opzr0d/2AdXFydXZc3FyeL2+OixR1tOsH2PVuW3x3flScrDofFg8PyWEoK2ygHm0v/rPik95w1+31oOuqMj15ytL66XIFzWYHG+zHhC2w2SzGNHXpTNHsaotjjvLR14C/DaNGTj7uGGWSZHJc/0X6Mq24eFyQov+KEfWgMqq1QqXRy+AykFw7C1pSKamYMZoaRufH5NSXowRJNPEVVeQrchFXJJklyS35CW9XZEmfM3YBcUzlLf48iryAmTIqBGOMVQKZCGC8N0YybQL3yik6YzYBzORzzK7rW4w+wnZIaSCjB0IeTZDnZP1QJ4mXiLI2aLRUG+mVCgwBATgHzLPUEAOqmaipEbVn6ACq4fB1BGU8z2UalqxLzc8CamG8M1oBZZjn1s0ETZKgR0ef22aIbVUhqcvhTa0uDU5Om5xrCXngggHzTAVLETjNJJsnqslh9X1Zhf5274gcnL2/WV/8ePgmpLjixhkrLReWUQjcisxnHjGIXIcZqekhtXrOz3WT1HDTxvJ39H9blrRHlxoeshx9ppQxQDORA7cy8zSfGZoZ+leGODM2Q29Ta7PIHKRjzKk1YE2QqNnM0NQYOm2Gqgz7V7j3ZbpOTsBt39TbUiMTKmRKcgbaWau1o1x57S06YXGuS5Nj6jImFzS4ADbdqymHgZA0Nb3upQ5QeYVOc5+Go/SDNgedUWEzyzA1wBmnqeF0UWINVU+OosVywIb49F9vlyQ8UraN2Lwjv2LTkKsOmmYsZdBUJW6GFRlDvAwBxzLntkhu2rgkyXJMRS9JWUzlLu2s3lTygCrImfGcO+k1VzIVPpbSJLzIFEWcGZ0ao//PN3calMbcBw9S55IDhdwFBtIKlQHjM2ZTw+y0ws9DLNN90qR21KRttduXuPD4Af5VHTaN/ErkUqMSjvmQKpljeUYty5BxHvyM1dSwuuwIOSFX5IwcE7Ik5GtCviUHJ8eHJFWuF+e2T38AGBB5Eg==",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "caf777157d4521b36c64e0732646e94c",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. DSLC AnschluBB S Umver- drahtung nach BE Pp/NO I Pp/COM frei I S Reset/IN S Stéranzeige 24 VDC + Priifanforderung 24 VDC + S Reset/OUT frei frei LGV /24VDC + S",
+    "metadata": {
+      "text_as_html": "<table><tr><td>DSLC AnschluBB</td><td>S</td><td>Umver- drahtung nach</td></tr><tr><td>BE</td><td/><td/></tr><tr><td>Pp/NO</td><td>I</td><td/></tr><tr><td>Pp/COM</td><td/><td/></tr><tr><td>frei I</td><td>S</td><td/></tr><tr><td>Reset/IN</td><td>S</td><td/></tr><tr><td>Stéranzeige 24 VDC +</td></tr><tr><td>Priifanforderung 24 VDC +</td><td>S</td><td/></tr><tr><td>Reset/OUT</td><td/><td/></tr><tr><td>frei frei</td><td/><td/></tr><tr><td>LGV /24VDC +</td><td>S</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVG1v2jAQ/iunfN2o4ySFMnWVCu2mai2gteVLW0XGvkCmJI5spxrr+O+zE6AvIBRp4sXm/NzDk+fu/PDiYYY5FiZOhfcFPJpQhhR5FEVUCH5McdYVPUySmR+IXsS8z+DlaJhghln8i+c2sZaV4rj5jTFXaJeGsBdFvt/rh/6R75Lr81yKNEkPAEolOWr9iqD9qNsPj3pB5AeRg5Wo8lTrVBY6Xot5ePEssZMRhoEfrZ4sTCGXSsSZ5MxIVSssmVk4WnKvUWmiUs6ZEjZRG8VMqslkyRdM5RMlfyE3moiqmOu4lJwIyStnlu7IAknQ754EUTy1gTQrVfVY+aF/kuilNpjHF7fXw3g6uelMh7FFnVfasErzRTy4OY8vjkqReKuVVZikGRYsd7K9/2Zc85llWfOxssxS++TWJbI+zlgxr9gctTPMw2LuOZtKG4mLKp+h86hrIwZ/m5jpeGHyzFGdGjbL8OzUzKRY2kXZjzhzkuC8sCKyajA4JTbkwrfb3X3+jKoDQrGFsTZCwfiiOSQ1RUMzuNwmfNi8RU1KMhpvz68OI4fjmzacicIUrvYI34X+RI2GXI3agIHLTJes+ProhY/e2a2xlfSxr1jxB9M5QhDB9GIIn/ZIV2masCKxXYvKOfYe2krj+P6u9bO7rzbg6+9TIEHUXoqr1rCtjDa4qZ1WqebOkyklO7YcyqQb5eS1euGBhG9W0pzNEMiu/QfSmj/ptIB+6I+/MKoUNKP9BkvWw0aa2fNW67l081hPHkJuX+v5cy0mEhvL4AcUIOEZJpf1u7TPMRoDbXZ2MiCo6w4h1A1jg1cjiKBp06S706ZwDBNVn/G9vQndLZHtPeg17CfN0oe6d17B1F9LGgKlDYYG8K687+Dhh4DNBBrBniIBPd7sO0C7b1yFfReRuw83V+Wds9hbPf0DBeMw2w==",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "e9065d3a24a3b78bbce47457654b7ea1",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Pp/NC frei Versorgung V1/24 VDC + V1/24VDC +/N 3 Freigabe / 24 VDC + 24VDC - | Nur VPM-VC",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Pp/NC</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td>Versorgung V1/24 VDC +</td><td/><td/></tr><tr><td>V1/24VDC +/N</td><td>3</td><td/></tr><tr><td>Freigabe / 24 VDC +</td><td/><td/></tr><tr><td>24VDC -</td><td/><td/></tr><tr><td>| Nur VPM-VC</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVG1v2jAQ/iunfN2o4ySFMnWVCu2mai2gteVLW0XGvkCmJI5spxrr+O+zE6AvIBRp4sXm/NzDk+fu/PDiYYY5FiZOhfcFPJpQhhR5FEVUCH5McdYVPUySmR+IXsS8z+DlaJhghln8i+c2sZaV4rj5jTFXaJeGsBdFvt/rh/6R75Lr81yKNEkPAEolOWr9iqD9qNsPj3pB5AeRg5Wo8lTrVBY6Xot5ePEssZMRhoEfrZ4sTCGXSsSZ5MxIVSssmVk4WnKvUWmiUs6ZEjZRG8VMqslkyRdM5RMlfyE3moiqmOu4lJwIyStnlu7IAknQ754EUTy1gTQrVfVY+aF/kuilNpjHF7fXw3g6uelMh7FFnVfasErzRTy4OY8vjkqReKuVVZikGRYsd7K9/2Zc85llWfOxssxS++TWJbI+zlgxr9gctTPMw2LuOZtKG4mLKp+h86hrIwZ/m5jpeGHyzFGdGjbL8OzUzKRY2kXZjzhzkuC8sCKyajA4JTbkwrfb3X3+jKoDQrGFsTZCwfiiOSQ1RUMzuNwmfNi8RU1KMhpvz68OI4fjmzacicIUrvYI34X+RI2GXI3agIHLTJes+ProhY/e2a2xlfSxr1jxB9M5QhDB9GIIn/ZIV2masCKxXYvKOfYe2krj+P6u9bO7rzbg6+9TIEHUXoqr1rCtjDa4qZ1WqebOkyklO7YcyqQb5eS1euGBhG9W0pzNEMiu/QfSmj/ptIB+6I+/MKoUNKP9BkvWw0aa2fNW67l081hPHkJuX+v5cy0mEhvL4AcUIOEZJpf1u7TPMRoDbXZ2MiCo6w4h1A1jg1cjiKBp06S706ZwDBNVn/G9vQndLZHtPeg17CfN0oe6d17B1F9LGgKlDYYG8K687+Dhh4DNBBrBniIBPd7sO0C7b1yFfReRuw83V+Wds9hbPf0DBeMw2w==",
+      "is_continuation": true,
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "8e946487056ef47357d1e97cc2c4387c",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Neu nur VPM\n\n6 … 16\n\nUmverdrahtung DSLC  VPM-VC \n\nLGV  VPM VC  (NO)  Pp  V1  V2  GW 1 \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nElektrischer Anschluß VPM-VC \n\nFA     T  I  T  L  L  U  U  A  M  F  n     M  i        O  M     K  1  C  O  O  V     C        T        I  L  T  U  L  A  U  F  M  T  O  C  E  S  N  N  E  R        E  T  O  M  GW1  E  R  Pp  V2  V1  LGV  TR  24 VDC+  -  - \n\nDIP-Schalterbelegung \n\n1  X X  X X  X X  X X  X  X  X X  0  A  B  C ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztl19v2zYQwL8KoacNq2OKpChpb6mTFsFix1gcb0BbCBR5tLXpHyipWxDku+/IxFuwBUOGPdoyJVHH4+l0/JFHf3qIoIYG2rGoTPQ9ibQUIgcFQJkpkxwfwSpa5kImOc3zMnpHogZGZdSoUP8h8pVi6Can4fAMhXaAt2AwToWgNM05PaO+c2hvOlPZ6l8UetdpGIa/NGL0IOdnKROUCa/Wg2uqYai6diienfn0EKFh7wbnjIrHL6jmQHfOFHWn1di54GGvxr03O78bwA1zV2mtnMGOw+jUWA3z9b3eK9esXfcL6HGYm6ndDUXf6bnp9OSDNcy6FuYslxkTxRYFVd276fNEOc3scD+M0BQXt9eLYrtezraLArXOp2FU06D3xfvleXFx1hsbPT6ih7aqoVWNdzv63xaf7Y33fbCn+r6u8MsxSvPn5lq1u0ntYPABi6DdRT5MPUqKdmpK8DGS3q8Rfh+9jRVMpJ0cwRf7/gfTm2qsIULFvxNEheIx8MwmiuFoZSKjNEm0yMosYQmPTwQdG0GSfJ4YZZLE8iVBa+yxeurwCkYsL0ujLANKlQLLlZA8TjKZyJiqMjlhdAwYpS8xumu+gjNO7UcMA/E+EPLkBHmJ1VWDJl4jCgSmtlxpzUGkGj8n4yUTCU1FnqTMwomoYyPq+uM2IEQQIfLN6uZbQtY9SmI8GSEffyLx29DKcyFkltHESqPLvKSmzBWknMqMS5OqE1rHhtaqgkbVAzl3JVQjtMTgWO9nxKJz1Oq9g/Yd+Q3altz2qm39iqbauoLdeEa8ipHW4vegH3sg287NCLrsKutNlaD0HitnL9lcKefH4StsvAevMSowfcbUWk6pAO4Tq+EJyyTeS0OTE6PHxuhlDb+OrsL3gCPnLd7rKbBn/1NeNTJWNlWlzkEKGuMOzXCpM5VpEVuT6RNYxwbWh3Pijw0hV+F6HcpdKNi0JOQDIW3QwXpFno+b8IjHDwQTL1kECZZtEC4OaptD5SqY3QSz18HyXbC8DMKb0OWSkFtCVqFg/cdD38uDztLn+fjQGNI/e9oChN3BBoVMkO3F4jtCZr68aU5ksdVKWK6lsVbhPxeelTxPdYKzQqpYnObEsc2Ji6v17BYDUo+AW4Iadj7lv4klRRnEqbGlYiwtmco5aIFjmZdZIlNJTywdG0u4OP2Mv39e/qzSsBy+90vgK4x9+QP38Nt2",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "5c8ccd23aea5c20d8084b9684a250e68",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. VPM (neu) \n\nVPM Ventilkontrolle mit\n\nHilfsventil (LGV/NO)\n\n.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztlFFr2zAUhf+K0VMLa2zLsh3trWthG7RdoWteuiKupetEm20ZSS7LQv77pDRlZYzB2GPyZFs69+j4+MMPG4Id9jh4oRV5mxDOUMkamSqbooESc1bkMpOqoFLlFZXkTUJ69KDAQ9BvSLwRzkxW4sszCmkxXHaGec1YltW8yGZZHN7t90bpVv9FMFoj0blfipyzihezmrKMsigb0fbaOW0GJ/ZhHjYkGMcYRUEztn0MMovSWCU6I8Ebu0s4gl9F2/TeoXWp1VKCVWHQeQteu/R2LVdg+1trvqL0LlXTsHRiNDJVRk6xLHdmBkwpr+aUiUVY0N1opy9TVmTz1q2dx15c3l1diMXt9dniQgTV+eQ8TE6uxLvrc3E5G1VLttuQsNUdDtDH2OS/Hfd+fj3u/GAcOx3ePLSU7rc7GJYTLNHFwggOSxJrGsOKGKa+wdhRHXN5/O6jRzgwORlwOk3i+Ivzxz5MkKD7HSBa05y1Uraq5FlFaY6qwgbmkjctQkOPAB0iQM+BvpnBW9N1mPTav6bpBmxs7gk/x5k/UIV1I4ECpxXU84JWKlclVE0GpaqxrI+/pYOj6oPuWve0S5ScXL1fpDefTv8NKY68ajB8xLaoQNF6XjWqzWjL5jlwXh6ROjSkZq/5uR+CGy6N1T9QPTP0+BNt8vJu",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "694c714d40a3fb569c4b01a08939a751",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. • Entlüftung über Dach e VPM m m e Anschluß l K f u a → PE PE → 13 Pp / NO → 24 VDC + → 12 Reset / IN 24 VDC + Störung OUT 24 VDC + → 17 → 16 Störung IN 24 VDC + → 4 Prüfanforderung 24 VDC + → 24 VDC + → 10 LGV / 24 VDC + → 14 Pp / NC → → 6 V1 / 24 VDC + → 11 Freigabe / 24 VDC + → 3 N",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td/><td>Entliiftung iiber Dach</td></tr><tr><td>VPM AnschluBB auf Klemme</td></tr><tr><td/><td>o m</td><td>BE</td></tr><tr><td>-</td><td>13</td><td>Pp/NO</td></tr><tr><td>N</td><td/><td>I</td></tr><tr><td/><td/><td>Stérung OUT 24 VDC +</td></tr><tr><td>]</td></tr><tr><td>i</td><td>1</td><td>Freigabe /24 VDC +</td></tr><tr><td/><td/><td>N</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVF1v2jAU/StXft3afJbA1FUq0E1VVxqtLS+liox9DZ7yJduRhir++2wIoVu67mEi4Bvfc4/vuYfk6YVgjgWWJpOcfAKSYHAmOB+eMX/Ik2FMRRJyJpI4YoOBWIbkI5ACDeXUUIt/IS7IdNUohod7zJhCu+wIgySOfT8ZRf6p74p3+aLiUsh3ALWqGGp9RASjeDCKTpMw9sPYwWpUhdRaVqXO2maeXogldm1EUejH22cLU8gqxbO8YtRUatdhTc3a0XqPGpX2lGSMKm4LtVHUSO2lG7amqkhV9QOZ0R5vypXO6op5vGKNG5Y+qUr0wtFgGMbZ3G7IvFbNovEjfyj0Rhsssun9t0k2T29P5pPMoi4bbWij2Tob315m09OaC7Ld2g6FzLGkhWub/Ddjy2c29Y6P1nUurXI7Ja9N57RcNXSF2g2MYLkibky13cnKpliim1Fidwz+NBnV2doUuaM6N3SZ48W5WVZ8Yxdlv/zi3HM/r4Or0uRSCmNnBlJaPphStt6nvV3VrhJYleualp8XJFqQC6sKLkurJW/GY6CNgBv7tyywV3c8qIKii8dXfeBJlw2iLkxrb3bXx876Oq7fOboL7o11yMeRcmrvHh8gjGE+ncCHf+l97rPLY79d9EWhXNElgvdX4je6mr0Cea1f3t4+sm2tdZYumtAPQ3COORmC7V3bxwfnAMGZU9gPHixyCC4ghxsQ0AC1JWEwCiG9cld7E0SQ1uDB7O6wc9DQIUL4jhqNBV3Pjtn9UMWgN9SuLumiwe/o1zQtJIZUtepoKey7AHfIP2G9M3z49nVuO+sl4lbW5LDTLgOYB2/hAzi62MtGMHMP5eF5fXAmke3zL93+skk=",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "fda86009bbda5c4679dc4e89be827c51",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Multifunktionsausgang OUT 20 24 VDC + Multifunktionsausgang IN 19 24 VDC + 18 frei 15 frei 9 frei 8 frei 7 frei 5 frei 2 24 VDC + 1 24 VDC +",
+    "metadata": {
+      "text_as_html": "<table><tr><td>20</td><td/></tr><tr><td>19</td><td>Multifunktionsausgang IN 24VDC +</td></tr><tr><td>18</td><td>frei</td></tr><tr><td>15</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylkU1v2zAMhv+KoevWyJad2B6CAF1yGbBsAdbm0haCItGONtsy9AEsCPLfJ9lO2kO3y06kyJcvHlJPZwQNtNBZKgX6FKGKFRURohAkW7AyKbN5XhBYwDzPkzTJCfoYoRYsE8wyrz+jkFCjnOZwfQPlGnwYDJM8y+I4L9N4Fofhod8qISv5D0GvFQdjXhWeZFGms5xkMcmCrAfdSmOk6gydYJ7OyBsHjDQlcXZ58TINXGlBG8WZVXog7Jk9Blv8aEAbrCXnTAs/aKxmVhq8O/Ej0+1Oq5/ArcHCdbWhveJYKO7Cscyd6gCTclGQjO59QTa9ds8uTuOiMidjoaWbH1/XdL/b3u3X1KvunbHMGX6kn7f3dDPrRYUuF09YyQY61gZs9N+Ok5899YMf6/tG+s39lfDUblhXO1aDCQdD0NUonKn3Fdq59gDhRrmvWPhtKTP0aNsmWC0tOzSwWtojMOGDDumKxEvsQ0jHBIcGvooOSpwmrVglpW+IId26xsrKdb8CmfFL1J4q+vItItl+s44+jMLB6zpc3IYrDfIdwfwmeNPEEwIe6dFl2ixs9D7E98eHiMQeJBpIor+iJuWrKCmiQBUl8zGWY5iq+RimHnkzdkvDz1w/7SGgosvLH34gJOM=",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fe5d1f36c23fee1657396d11846d8c96",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. 7 … 16\n\nMC Edition 2023.07 * Nr. 296 824 Rev. -0\n\nMC Edition 2023.07 * Nr. 296 824 Rev. -0\n\nUmverdrahtung DSLC  VPM-VC \n\nDSLC (alt) \n\nDSLC Ventilkontrolle mit\n\n• Hilfsventilen (V3/NC, V4/NC)\n\n• Entlüftung in den Brennerraum\n\nDSLC  px Vx  V3  V1  Pp  Prüfabschnitt  V2  V4 \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nElektrischer Anschluß DSLC \n\nPp  D S L C  -  +  = (DC) 24 V ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztmNtq5EYQhl+lmSs7sWf6fAjkwmsbEtg1Js7Oze4iWt3VHmV1oiU5NsbvntKMlyzBBJuQq5kLoUNX//Or+qO6NJ8eF1BDA+1YVHHxE1mAjSU4aTg4CgkU5SVNjnoRSqqMtYsTsmhg9NGPHuMfF/NFMXRTDvDtHoqQAU9bQWakpNQ4QZd0nrwdb7pYpepfAvrcBRiGvyOYk9qJpeGScjmH9ZCbahiqrh2KZzOfHhcoPNsQglP59AXDMoQux6Lugh+7vHXY+3Ezy64+DpCHVa5C8DnixGHMfqyG1fVD2PjcXOfuDwjjsIpTezsUfRdWsQvTnKzhtGthxZ22XBZrfFDVfZ4+T1RQm4aHYYSmuLh5f16srz+crs8LjDqbhtFPQ9gU7z6cFRfLPqbF0xM6TFUNrW9m24v/rPisNz70Wz3f93WFb45ZWj0P1769nfwtDHPCFtDeLuY09fikaKemhDlHZvY1wv04axjyeeKUa8L0PP+b9DXOuNpNwOh/YiShjFomFU30iSkbHZdglQwl57ZU5oDRvmH04ZxcxmqWIEiTWFJDfiBXeUnQLEG35De4W5JT+j1jVz7PqbyD32eRFzAT3iBdWljQQkWKmAEur/M6BSWs1QfM9gAz+79jRn2MIQEAC05wbZNPVEXmhFKMei0OmO0bZh+bO8gx+82IaSCzB0J2Jsj3ZP3aoMSL+2OwyoBCnEpsrEqeFGO44lrwaAWNh8K1d0RtGTry9Xj8OoKiFDKAclwFWkaWVNJWWapVEpKCOzTq+0nQztHXrh1zV9dAmmp801ZnlZI6AbOU8VIoKaVWJSTOncd23rgDVvuG1fbrj5NfqjoNd1tj0JKjtVhdnZ+QtcTT8ZsI88Kk0jHNVOCRs2TBR7AU+6tUlsbJA2F7SthlO9Zoh6aQtl1V1ZKIqL3L0LaAUE3NmziTnimPFct43BgFCBN54kJ7pjWzLtEDZ/vG2a5N7+/J+h67dYEHI+S6xyM/c+dLNNFW44hjHA/5ul4sSBu1dqXjzGuTYqSGaReMTKVSKpUH1PYNtasKGl8P5CyXUI1YxSKu9eaUpB1oG6xpJ+RPLGzkpvdtO5c739YV3I5LModEnRK+D/rYAFl3+ZSg5VylWaoEHzZ4sXxTOWTGRRuZVjGkIL2MijrFHQ/O6qg0OzC6b4xe1vB1zBX+DmRy1uK5nrbspd0fGq8qfdZgsdO6VJqDgeg9MPz6BBMti47xdMBq37CaN9QLckPeE9xsTwn5kZCfydHF+THhkqxfourLXzR4E4c=",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f2366e2dc2b9fee96ad5840a7f1c8404",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. DSLC AnschluBB von Klemme Umver- drahtung nach Pp/NO Pp/COM frei Reset/IN Stéranzeige 24 VDC + Priifanforderung 24 VDC + Reset/OUT frei Al V4/24VDC + frei Pp/NC",
+    "metadata": {
+      "text_as_html": "<table><tr><td>DSLC AnschluBB</td><td>von Klemme</td><td>Umver- drahtung nach</td></tr><tr><td>Pp/NO</td><td/><td/></tr><tr><td>Pp/COM</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td>Reset/IN</td><td/><td/></tr><tr><td>Stéranzeige 24 VDC +</td><td/><td/></tr><tr><td>Priifanforderung 24 VDC +</td><td/><td/></tr><tr><td>Reset/OUT</td><td/><td/></tr><tr><td>frei Al</td><td/><td/></tr><tr><td>V4/24VDC +</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td>Pp/NC</td><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytVG1r2zAQ/iuHv26p/FYnHl0gTTcoXZOwtv7SFqNI59jDb0hyWVby3yfZTlK2brhsJODzo+cePzrd6f7ZwhwLLFWccesDWOOQOmvuOYHrcc7WPAmoz09ZyBzX9hBd6z1YBSrKqaKa/2yZIJZVIxju3zFmAvWjFXTGvm/b49CzT2yT3K4XFc+S7C+EWlQMpTwynNAPQu9k7Pq26xtajaLIpMyqUsa9mftnSwsbG57n2v7uUdMEskrwOK8YVZVoHdZUpUaW3EkUkoiMMSq4TpRKUJVJstqylIpiJapvyJQkvCk3Mq4rRnjFGlMsOapKJG4YTFw/jjSQ5bVoHhrbsyeJ3EqFRXxx82UeR6vrUTSPNWvWSEUbydL4/HoWX5zUPLF2O+0wyXIsaWFsW/+s2Oupbd3q0brOM71zXSXSL+e03DR0g9IUzMJyY5ky1RqJy6ZYo6nRRCMKv6uYyjhVRW6kzhRd5zg9UylSrh/ChFNjCWalNpE35+dnREMGfqpKuNJ9VeABuiueUIyAC5oqXU8oKUu7RWK0yF53XfFtL8+nq5oslnqNt2+/BG3ekThfXg9hJgKzIbyvKFGRy8UQ7o3SB2VjKGj5A7MNgutDdDGHd4OsiyxLaJnoNkVhKvOW5M7l8u526NZhlg+hRj5x/cEuhtbUHOf8fwoO5UXeW7bzWatu6BqBvOUoug+MDgwn+DMZWJXLmpYfHyzvwZouGgHdXL9gkn4USDd41q4fSjOM7dghFPrXD59pQJ5oLIcrKKGCJ1h9av81EFgswekiPSXgQtsJHrTdo8HLBfjQNXES/NbEcAor0a6xV/sUgoOQbkQYd+oTiHyNHEhhBzt272gOjtNDvR/Hg8h7meL4cDyKF/DpPh6BE8CxePDaHWPuvP11eGsqae0efwLSHyuW",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "1ae5dc3c2ff8a282d55410fefbc2a53a",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. frei frei V3/24VDC + Freigabe /24 VDC + 24VDC - 16 Nur VPM-VC",
+    "metadata": {
+      "text_as_html": "<table><tr><td>frei</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td>V3/24VDC +</td><td/><td/></tr><tr><td>Freigabe /24 VDC +</td><td/><td/></tr><tr><td>24VDC -</td><td>16</td><td/></tr><tr><td>Nur VPM-VC</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytVG1r2zAQ/iuHv26p/FYnHl0gTTcoXZOwtv7SFqNI59jDb0hyWVby3yfZTlK2brhsJODzo+cePzrd6f7ZwhwLLFWccesDWOOQOmvuOYHrcc7WPAmoz09ZyBzX9hBd6z1YBSrKqaKa/2yZIJZVIxju3zFmAvWjFXTGvm/b49CzT2yT3K4XFc+S7C+EWlQMpTwynNAPQu9k7Pq26xtajaLIpMyqUsa9mftnSwsbG57n2v7uUdMEskrwOK8YVZVoHdZUpUaW3EkUkoiMMSq4TpRKUJVJstqylIpiJapvyJQkvCk3Mq4rRnjFGlMsOapKJG4YTFw/jjSQ5bVoHhrbsyeJ3EqFRXxx82UeR6vrUTSPNWvWSEUbydL4/HoWX5zUPLF2O+0wyXIsaWFsW/+s2Oupbd3q0brOM71zXSXSL+e03DR0g9IUzMJyY5ky1RqJy6ZYo6nRRCMKv6uYyjhVRW6kzhRd5zg9UylSrh/ChFNjCWalNpE35+dnREMGfqpKuNJ9VeABuiueUIyAC5oqXU8oKUu7RWK0yF53XfFtL8+nq5oslnqNt2+/BG3ekThfXg9hJgKzIbyvKFGRy8UQ7o3SB2VjKGj5A7MNgutDdDGHd4OsiyxLaJnoNkVhKvOW5M7l8u526NZhlg+hRj5x/cEuhtbUHOf8fwoO5UXeW7bzWatu6BqBvOUoug+MDgwn+DMZWJXLmpYfHyzvwZouGgHdXL9gkn4USDd41q4fSjOM7dghFPrXD59pQJ5oLIcrKKGCJ1h9av81EFgswekiPSXgQtsJHrTdo8HLBfjQNXES/NbEcAor0a6xV/sUgoOQbkQYd+oTiHyNHEhhBzt272gOjtNDvR/Hg8h7meL4cDyKF/DpPh6BE8CxePDaHWPuvP11eGsqae0efwLSHyuW",
+      "is_continuation": true,
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "dbb6da4d72e9e14cba5e360bb45e96f1",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Neu nur VPM\n\n8 … 16\n\nUmverdrahtung DSLC  VPM-VC \n\nVPM (neu) \n\nVPM Ventilkontrolle mit\n\n• Hilfsventilen (V3/NC, V4/NC)",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJztlktr3DAUhf+K8CqBJJYlW4/u0mTRQjMEmswmCUaWrmbc+oUkh4aQ/15pJqFDCaHQ5QwY9Lr36OjwLXz3nEEHPQyhbk32CWWFBlFaVRUNGMmaylQgiooy4CpOcJmdoKyHoIwKKtY/Z2lS+3F2Gt7WUGsHcdgK8rLEmEuKz3Bq3pz3o2lt+0HB5EYN3v+pKGTJJD3jpMRkY2IC17fet+Pg61czd89ZFE42KCW4fHmIZQ706EzdjVqF0W0cTiqsk2x+68H53LVaK2diow9Ohdbn1096rVx/7cYfoIPPzTysfD2NOjejnlNY/nQcICeSCVLWy7jRdpOb72dMsbD+yQfo68vv3y7q5fXV6fKijlXnsw9q9npdf746ry/PJmOzl5fo0LYdDKpPtrP/VnzVC0/TRk9NU9fGl8eU8tfjTg2rWa3Ap8AyGFZZimmKO/Uw9w2kjETyFeBXSBoLmNEwOxQvTv1v0jdt6CCLhX8TpEphuFaVsQXjlgshZaFIyatIlWRaHQjaN4IEup8JJgwVbJeg69ix2Da8gxErrK6k0UZj2mghNJbxiytRMqVkc8BoDzCSuxjd9o/gjFPrEGNAyQNCWxNoF6uvfZR4jygCuuFcVtRSpTmtsMWElpRJYhJd5EDUvhEVL0RHA8zH/waQpIboSmuBNUhTKN40FSFWay4Kbit8AGgfAdoa+jkOwY1dB6hvwy5NC+VSco9wk3reocoWpdSW0kYQyZlRDFvNCspsxWyESh6o2jeqNn9LBH1pO+sfN8ZgQEdLmi8uTtCyjMPxB4Q9/Aaul2ns",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "7407908da56f4fb75bba49940d9a6f3a",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. • Entlüftung in den Brennerraum e VPM m m e Anschluß l K f u a → PE PE → 13 Pp / NO → 24 VDC + → 12 Reset / IN 24 VDC + → 17 Störung OUT 24 VDC + → 16 Störung IN 24 VDC + → 4 Prüfanforderung 24 VDC + → 24 VDC + → 8 V2 / 24 VDC + → 14 Pp / NC → 6 V3 / 24 VDC + → 11 Freigabe / 24 VDC + → 3 N",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td/><td>Entliftung in den Brennerraum</td></tr><tr><td>VPM AnschluBB IIIIIIIIIIIII</td></tr><tr><td/><td/><td>E</td></tr><tr><td/><td>13</td><td>Pp/NO</td></tr><tr><td/><td/><td>24VDC +</td></tr><tr><td/><td>12 |</td><td>Reset/IN24VDC +</td></tr><tr><td/><td>17 |</td><td>Stérung OUT 24 VDC +</td></tr><tr><td/><td/><td>Stérung IN 24 VDC +</td></tr><tr><td/><td/><td>Prifanforderung 24 VDC +</td></tr><tr><td/><td/><td>V2/24VDC +</td></tr><tr><td>IIIIIIII</td><td/><td>o /NC ]</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVGFP2zAQ/Ssnf93AqRPaZmJItDAJbZRoQL9QZLnOpc2UOJHtSKug/312SLsiCgOtahv7/N7L3btL7h4IFliisjxPyRcgw0EUxdGwz1gwZAx7URbG86PgaJCyvhTBnHwGUqIVqbDC4R+IX3BTNVriZo9canSXVrDnBINgEIfBYeDJ7XlZpXmWvwGodSXRmL+IXhz14/BwwKKARR5Woy5zY/JKGd4lc/dAnLBPIwxZEK3vHUyjrHTKi0oKW+k2w1rYpZeltwa1oTqXUujUEY3VwuaGJiu5FLpMdPULpTU0bdTC8LqSNK1k480yB5VCyuL+kEV86gJ5Uetm1gRhMMzMylgs+dn1jzGfJpcH0zF3qNPGWNEYueSjy1N+dlinGVmvXYZZXqASpU+b/Ldip2dXdasn6rrIXeXOJdodF0ItGrFA4w0jqBbE21S7CFdNOUfvUewiFn9bLgxf2rLwUsdWzAs8ObbzKl25i3a/9OSY+r/dxbmyRZ5ZZxnkClJUMNKoFGotmvIJRVtyKwCyKkwt1NcZCWfkxBUHp8qVVDSjEVzsfl5Q9937DVAv3C6Tmk6u3qPHounZGD69pcrgcbv5iQYtvZi8gzbYoV1b1+YAY+09u7q9ARbBvwT2ky8mH+ImOs+EytzzgS39I9wpo6+W+bxlu6wK6GQM9zsU2s0TfRovsu5Gz4/crGEBY+AnyheZydfGChD85JTgV938eEaaQQHfIYMGBDi1XswgOfffbtMLIamBwuRqE9l4sEUwaNvqQDvubk8H8NSArP+ie1tM/zlmj0wEie4q3NeP13IbwpS5vF7cMOqKGm8ifZiG+4A9+KYxX4g57jkNYeLfF5tXyY3vD1nf/wGBG+As",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "793f88e23e81c3f75f9ab882cea31795",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Multifunktionsausgang OUT 20 24 VDC + Multifunktionsausgang IN 19 24 VDC + 18 frei 15 frei 9 frei 8 frei 7 frei 5 frei 2 24 VDC + 1 24 VDC +",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>Multifunktionsausgang OUT 24VDC +</td></tr><tr><td/><td>Multifunktionsausgang IN 24VDC +</td></tr><tr><td>[[[o]a] 7</td><td/></tr><tr><td/><td>frei</td></tr><tr><td/><td>24VDC +</td></tr><tr><td/><td>24VDC +</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylUk2P2jAQ/SuRr+3ifG5IhVbawqVSaZG6y4VFlrEnxG0SR/6QihD/vXYw7ErtcukhmcnMm+c3L94cEbTQQW+I4OhThHYZK7IaeEbLsoAEIKtpwaFO0nSXVbRAHyPUgaGcGurwR+QToqVVDC7fQJgCF0bCpMzzOC6rLJ7Efnjsd5KLWtwADEoy0PoVkVT5fZVNyjSP09zDBlCd0FrIXpMgZnNEjtjLyLI0zk9bB1PApOKklYwaqUaFAzWNp8XPGpTGSjBGFXeD2ihqhMarA2uo6lZK/gRmNOa232sySIa5ZNabpe9kDzit7qdpTtauINpB2RcbZ/G01gdtoCOLH1/nZL1a3q3nxKEerTbUataQz8tHspgMvEank1NYixZ62nnZ6L8ZA585DCMfHYZWuM2dSzi0W9rvLd2D9oYh6PfI2zS4CulttwPvUeUqBn4bQjVpTNd6qpmhuxYeZqYByl1QPn2YYf9yz9K2RtS2/+XP0k7W3p0TfX9+itJ8vZhHH85I7OfwhWMn+SFQcV/mY/Jvqi/f3jDxwBRGN5uN3NJtVF45/sZcW7UCcaP97iE3EDhsgs8eoVPwz/t2w5jYbRSNXNG7OyfVKyiZRl58lBTnWJ1DqJbnEHrpm7Fr6v//5Wo8eanotP0D9A5HUQ==",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e4b331085013227dfa471ed34656f7ab",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. VPM VC  V3  V4  Pp  GW 1  V1  V2 \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nElektrischer Anschluß VPM-VC \n\nFA     T  I  T  L  L  U  U  A  M  F     M     O  M  K  C  O  O     C        T        I  L  T  U  L  A  U  F  M  T  O  C  E  S  N  N  E  R        E  T  O  M  GW1  E  R  Pp  V2  V1  V3  V4  TR  24 VDC +  -  -  - \n\nDIP-Schalterbelegung \n\n1  X X  X X  X X  X X  X  X  X  X  0  A  B  C \n\n9 … 16\n\nMC Edition 2023.07 * Nr. 296 824 Rev. -0",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "orig_elements": "eJztV9Fu2zYU/ZULPa61TVIUKfUtddIhWJwYjeMN6AqBIi9tbbIkUHK3IMi/j2RstNiKIsAebYmiKPLew8OrI1L89JRggztsx7I2yTtIOKYVpUrnRJpCCaElL1Rl0WIuiKlU8haSHY7KqFF5+6ckFMqh2zuNx2cstUN/i4BUck6ILFIyJcE5tu86U9v6Bwa96zQOw1cLWnBRpFPJOGE8mPXodvUw1F07lAcyn54SDxxopCkj/PmzN3OoO2fKptNq7Fxk2KtxG2BnDwO6YeZqrZUz3nEYnRrrYbZ81FvldkvX/YF6HGZm326Gsu/0zHR6H4I1TLoWZ6wQOePl2lfUTe/2v+9JSnI7PA4j7srL+5t5uV4uJut56a0u9sOo9oPelu8XF+XltDc2eX72DG3dYKt2gXbyvxEPeONjH/FU3ze1H7mP0uzQ3Kh2s1cbHELAEmw3SQhT72vKdr+rMMSoCLxG/HsMGL5DWM8B1qm/OMCyB/j5V6D+KVwMAuqxw+udB0q8+791JaVlxBgluJUMU/QCon6saEmaFikTZ12dmq5ua9ypZoALV2E9YgvGv+vtBKwnR6zeOmzfwl/YtnDfq7b1sQLVNjVuxikEEyOs9ePxPLYI685NwFN2tQ1QFSq99YXpt9q8VS68hy+4Cgy+o9FCprlWVKWc0kpIykkqqozLXGhWFFyeNXpqGr1q8M/R1b4fdHDR+nuzj9qz8MLldZNfobRllDGS8swIZipqsdBUkDzX/t3bs7BOTVgfLiAcK4DrmN/E9BCTb1oAfIgGi5jfxcIvAPNYvouVczgcq2PhOoKsIshNxHmIOItYeRddrgDuAW5j8uWPR9+ro80irO702BgWe7/Evyz1hx+Ala9nHNaXc3gDMDmkV30IWcW51JqmWcarNENqhMiNpLmUBeWyOn8Ip/YhXF4vJ/c+IM2I/j+gwU1Y51+lJUq0sEJVmTGF1KZAqozAnOqCSlQZOWvp1LTk56jf/Pnf7GsicVp8H6bCV4lMZJpxrYQ0FeN+x8KyzBDMGLJUkCrXZ5GdmsgKv/lghAmg4lsFLb3H7YvDd2SUEoXaFtrIqiBWGJ6izdBwowuDhJ13Ficno8UcrkwdIMCrKZ0SCT/BrZuCJwueLXzEL1OYkB9sYD//A+cnJqk=",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "31d9aa418beba3b26c44e0ce2a7511af",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Umverdrahtung DSLC  VPM-VC \n\nDSLC (alt) \n\nDSLC Ventilkontrolle mit\n\n• Hilfsventilen (V4/NC)\n\n• Entlüftung in den Brennerraum\n\nPrüfabschnitt \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nMC Edition 2023.07 * Nr. 296 824 Rev. -0\n\nElektrischer Anschluß DSLC \n\nPp  V4  --  +  = (DC) 24 V \n\nzum",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "orig_elements": "eJztmNtu3DYQhl+F0JXdZnd5PhTohWMbaIHaMJpkb5JA4GHoVaMTKMqta/jdS60dtEWLwkYvd6+klYbDn7Mffg358aGCFjroc92E6jtUOa88E8KD8ASUiMIFwNF47mSkkvvqDao6yDbYbEv8Q7Xc1NMwJw9ff0PtE5TLPiFRnGOsDMNrvAzev++G0MTmPwLGNHiYpj8jiOHSsLWiHFO+hI2QumaamqGf6mcxHx+qkniRwRjF/PFzCUvghxTqdvA2D2mvcLR5t6TdfJggTZvUeG9TKAOnnGxups3Nvd/Z1N2k4RfwedqEub+d6nHwmzD4eSnWtBp62FAjNeX1tjxo2jHNn2bMsI7T/ZShqy/e/XReb2+uVtvzukSdzVO28+R39durs/piPYZYPT4WhbFpobfdIrv63xmf8+X7cZ/PjmPblJWXKm2eX7e2v53tLUxLwSrob6ulTGN5Uvdz52CpEcGLsAy/5SXJh+4OUkh2l0sd0CICoScVaEn4da4fu5KjKgP/gRQRjksctVRRCMcip05hY6SPNgQSjkgdHFJ7iE5sm09fhpDGGKgQGrSjnGIquI+aBwpYYO8VOSJ0mAg9Sfoy9DkNbQuoa/Jfebq2aandHbxfBv2bNVkRhGZOehJ1wF4ZSSlThOnISKTqyNXBcfVpLv5C0Q9NG6e7vTLo0cmWb67PT1/FlibRCIWddzwqCIIGr6M1ZYmcWWOPnnWwbF32uS16cPRx31I1PQoFsrcJ+h4KVXP3KtAEBRqLhwkpvQ+WWMw4L+RhCE5LKo+gHRxoN+mZL+vKZH2T8wv7LK6tp8aV/Z7VRkftnIoylpadCE4iHFE6OJSuG+hsO6Gz5KDJxaZC+bN3KxSfCNsV03qDfi3Ohd6Ntu8XP7N928BtXqMlJMgYy4KKkB2g7ZBWqGhOTVxSObB+V27Wr/I7qYTl3HJsPLPgjQnEMOZUaeCcscwdIT04SK/O0WVolhyofGHZGiv0DbpOa1TUoiIX/Qx3a7TCr9scSKul0YpTqYhkhklQikIkizN6ctwcHB5nly18yakpE0FCZ325tvPe5OLTudiLPrKeq6hBG6qVM7wsUgZCCKVeFsjgeB52gFzdjAhtOUKrFULfIvQ9Ork4P0XFt7YvQwoHQxlnQkZppTe0NHGEcMVDVN5gejy1Pzykfv/7LvJ9k9uCzuc/ABLARfw=",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "71133fcd09de29676f74fe06f416bd16",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. DSLC e m m Anschluß e l K n o v PE PE Pp / NO 1 Pp / COM 2 frei 3 Reset / IN 4 Störanzeige 24 VDC + 5 Prüfanforderung 24 VDC + 6 Reset / OUT 7 frei 8 V4 / 24 VDC + 9 frei 10 Pp / NC 11 frei 12 frei 13 V1 / 24 VDC + 14 Freigabe / 24 VDC + 15 24 VDC - 16 Nur VPM-VC Neu nur VPM Umver- drahtung nach",
+    "metadata": {
+      "text_as_html": "<table><tr><td>DSLC AnschluBB</td><td>von Klemme</td><td>Umver- drahtung nach</td></tr><tr><td>Pp/NO</td><td/><td/></tr><tr><td>Pp/COM</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td>Reset/IN</td><td/><td/></tr><tr><td>Stéranzeige 24 VDC +</td><td/><td/></tr><tr><td>V1/24VDC +</td><td/><td/></tr><tr><td>Freigabe /24 VDC +</td><td/><td/></tr><tr><td>24VDC - Nur VPM-VC</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylU+9r2zAQ/VcOf91SSbaT2KMLtOkGpWsS1jZf2mIU6Zx4+BeSXJaV/O+TbDcJ2xgZwwZL7949n96dHl89zLHA0iSZ9D6AFwsaYTQcplHA5IhFPKJplNJROhKxQBp578Er0HDJDbf8V88tEl01SuDbHhOh0H5aQTYOQ0rHcUDPqEtu40UlszT7C6FWlUCtDwwWh6M4OBv7IfVDR6tRFZnWWVXqpC/m8dWzwq6MIPBpuHu2NIWiUjLJK8FNpdoKa242TpY8aFSaqEwIrqRN1EZxk2my2IoNV8VCVd9QGE1kU651UleCyEo0ziw9qEokfjyK/DBZWiDLa9U8NTSgUaq32mCRXN19mSbLxe1gOU0s66LRhjdabJLL24vk6qyWqbfb2QrTLMeSF65s778Vez2zrVs9Xtd5Zk9uXSJ9OOfluuFr1M4wD8u152yqLZKUTbFC5xGjLaQOY0Fl7AdhMLRzwO0k+Fz4jIXjUKZjEVNfOGWD303CdbIxRe5yzg1f5Tg5Nxvk0n6UW07cIeCitGXnzeXlObGQg1+qEm7sJBa4hx6KF1QDkIpvjO0AlFxsuiBxWuRNd1XJbS8vJ4uazOY2JtvdL4s270Cczm9PYaYKs1N4X1GjIdezU7h3xraWYqx4+QOzNYIfwvJqCu9OSV4y4ocnsz/b8td8hUD+4R8gqlzXvPz45AVP3qT73QBmjYJuAI8ySN8B0vXb2/Wz4Gag7TZCYZ++5+7cMrVYDjdQQgUvsPjUvjUQmM2BdSvbHPDBeQ8BtNZa8HoGIXTepaPfvIMhLFQbEykvU3vvUbnB2cdHe6H5wz2MO/UIlqFF9qS4gxntK5oCYz3U18MCWLLjFBbCweUjePi2HgAbHZkHM2yg7LbwpzFvr1N/h++dq97u+Sfqer5+",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "a0ae9d4c231323ffecc84912cdd6acf9",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. 10 … 16\n\nUmverdrahtung DSLC  VPM-VC \n\nVPM (neu) \n\nVPM Ventilkontrolle mit\n\nHilfsventile (V4/NC)\n\n.\n\n• Entlüftung in den Brennerraum\n\nBrennerraum",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "orig_elements": "eJztl9tq3DAQhl/F+KqBZq2jZfcuh0ILTVhosjdJMLI02nXrE5Icmoa8eyUnoUtJSkMvdw3Gsjzz+/f4Qx5f3afQQge9rxqdfkhSxIligAwwKikIYrAJOxfMgJAlw+n7JO3ASy29DPH3aRxUbpisgudzqJSFcJgFsWAMIVFStEAxeb7eDboxzV8CRjsocO53BC5ZXtKFIAwRFsNGsF3jXDP0rnoyc3WfBuFog1KC2MNNCLOgBqurdlDSD3Z2OEq/ibLZpQPrMtsoJa0Oic5b6RuXLe/URtpuaYdvoLzL9NSvXTUOKtODmmKx3OHQQ0bKvCCsWoWJph3tdD0higrj7pyHrjr9+uWkWi3PDlcnVYg6mpyXk1Ob6vjsqDpdjNqkDw/BoWla6GUXbaf/rfik5+/GWU+OY9uEJw9Vyp4ut7JfT3INLhYshX6dxjKNYabqp66GWCOMojEPP/xcfpRcTwSRPMF5VHgWX4ac88eUEP4nSAUxOSN1eGGFFrRUmsnScFBCBJKI5HuQdgEkvA3SZXcLVlu58aEOSTSRJI8ukm2uPndB4yWkUAEF4cIIwoEgKjkXkimqiOE1KwXbI7VzSIU7Ju96mA7+jSCGi9pQUsrwvhSSHAuMMCopFIIqXMKeoJ0k6NHR96H3dmhbSLrGb+N0Lm0s3S1cxJwXsFK8rAtd5KDD947qcGRQU6QKCZzQXO6x2jmsPjWtcbezJUjerVh2fnLwJqYEL3VucIGFoYqGAZK4EEYRrAgLLfmeqZ1jarEN0GUf5GA92OYn6NcgQjnJtaxBEp2XRCnApmCFVJznqhD1vgnfPYjmXzmSfOx9G/wgo8zcjTd9oqFPji30PYSlaeretFqRWonYWzGt85zUJq85CRuVYQ1TVKo9aDsH2isoXTS+Db35zS/Mq+fL",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "6e43508e599ca53d2c1f1fbc84405c3f",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Brennerraum VPM AnschluBB l = 13 | Pp/NO 24VDC + Ll 12 | Reset/IN24VDC + 17 | Stérung OUT 24 VDC + L E Stérung IN 24 VDC + Prifanforderung 24 VDC + [ [we |",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td/><td/><td>Brennerraum</td></tr><tr><td>VPM AnschluBB l</td></tr><tr><td/><td/><td/><td>=</td></tr><tr><td/><td>13</td><td>|</td><td>Pp/NO</td></tr><tr><td/><td/><td/><td>24VDC +</td></tr><tr><td>Ll</td><td>12</td><td>|</td><td>Reset/IN24VDC +</td></tr><tr><td/><td>17</td><td>|</td><td>Stérung OUT 24 VDC +</td></tr><tr><td>L E</td><td/><td/><td>Stérung IN 24 VDC +</td></tr><tr><td/><td/><td/><td>Prifanforderung 24 VDC +</td></tr><tr><td>[</td><td/><td/><td>[we |</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVG1P2zAQ/itWvm7gxDFJMwESLUzqNko0oF9aZDmO02bKm2xHrILut88OaQtrmomtapvL+XmeO5/vPHuyeMZzXiiSxtYnYNkDl9sMBwGKYh/ZnpNg54RRlzLk+SxyrI/AyrmiMVVU458sYxBZ1oLxzTsnTHD9aAQdH2Pb9gPXPrYNuVnPyzhN0h5AJUrGpdwhnAB7gXvsI2wjbGAVF3kqZVoWkrTJzJ4sLWzScF1k4/WDhgnOShGTrGRUlaLJsKJqaWThveRCQpEyRkWsiVIJqlIJwxVbUpGHovzBmZIwrouFJFXJYFyy2hRLHpUFhyjwBgiTqXakWSXqeW279iCRK6l4Ti5vv43INLw+mo6IRl3UUtFasiUZXl+Qy+MqTqz1WmeYpBkvaG7Stv5bsdVTq6rRo1WVpXrnukqwXc5osajpgktTMIsXC8uUqdIeUtR5xE2NHKdxiV1boIj5ziBKcBx7HooSLzpB+uPS2EuYbg6jrPhPRagkS5VnhnOqaJTx81MVlfFKP4T+xeen0Px1GkMdsOBC0Dp/8cGG0/AAKzNZ0eJsbuG5da6rAC4KvfesHg5BtgfvC3PWg3bcrfm8tcIKTm7eFQLh6eUIfNjnfMt2oVBHqO9ccgXHk4MCO7rfQb9VumNsHgjdseDm/g4gDA5lAq56NvBGaDzp0ekRCUWa0CLR88cbncMisx6V2SMHz/uUcQ/lfehZ+dgd4vkX6ON9qfXF2cH7o1XH76rZ1IF/P/t947Pg6YJGHMB/O6r9mLAdW/gyxda6nXAz2a8GFXBgZjEHxmon0rROnIAMfAUJqAEF8xo5AQLhlfm2L44LwkqnO7nZeDaJbxEINOOgQa86cLvqg5cmTby9bt9ivLeYDhkMQtEgWGerHsptAKb4Va23AXG7qdHG0z48MHW68A7oOLnNqrv1NNdre6ffmfOw1g+/AZJaWlA=",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "14d7dd8ff2d8b654d76b74e5e062e3d2",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. I I [owwe | |~ I Jueme | I V1/24VDC + Freigabe / 24 VDC + 24VDC +",
+    "metadata": {
+      "text_as_html": "<table><tr><td>I</td><td/><td/><td/></tr><tr><td>I</td><td/><td/><td>[owwe |</td></tr><tr><td>|~ I</td><td/><td/><td>Jueme |</td></tr><tr><td>I</td></tr><tr><td/><td/><td/><td>V1/24VDC +</td></tr><tr><td/><td/><td/><td>Freigabe / 24 VDC +</td></tr><tr><td/><td/><td/><td>24VDC +</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVG1P2zAQ/itWvm7gxDFJMwESLUzqNko0oF9aZDmO02bKm2xHrILut88OaQtrmomtapvL+XmeO5/vPHuyeMZzXiiSxtYnYNkDl9sMBwGKYh/ZnpNg54RRlzLk+SxyrI/AyrmiMVVU458sYxBZ1oLxzTsnTHD9aAQdH2Pb9gPXPrYNuVnPyzhN0h5AJUrGpdwhnAB7gXvsI2wjbGAVF3kqZVoWkrTJzJ4sLWzScF1k4/WDhgnOShGTrGRUlaLJsKJqaWThveRCQpEyRkWsiVIJqlIJwxVbUpGHovzBmZIwrouFJFXJYFyy2hRLHpUFhyjwBgiTqXakWSXqeW279iCRK6l4Ti5vv43INLw+mo6IRl3UUtFasiUZXl+Qy+MqTqz1WmeYpBkvaG7Stv5bsdVTq6rRo1WVpXrnukqwXc5osajpgktTMIsXC8uUqdIeUtR5xE2NHKdxiV1boIj5ziBKcBx7HooSLzpB+uPS2EuYbg6jrPhPRagkS5VnhnOqaJTx81MVlfFKP4T+xeen0Px1GkMdsOBC0Dp/8cGG0/AAKzNZ0eJsbuG5da6rAC4KvfesHg5BtgfvC3PWg3bcrfm8tcIKTm7eFQLh6eUIfNjnfMt2oVBHqO9ccgXHk4MCO7rfQb9VumNsHgjdseDm/g4gDA5lAq56NvBGaDzp0ekRCUWa0CLR88cbncMisx6V2SMHz/uUcQ/lfehZ+dgd4vkX6ON9qfXF2cH7o1XH76rZ1IF/P/t947Pg6YJGHMB/O6r9mLAdW/gyxda6nXAz2a8GFXBgZjEHxmon0rROnIAMfAUJqAEF8xo5AQLhlfm2L44LwkqnO7nZeDaJbxEINOOgQa86cLvqg5cmTby9bt9ivLeYDhkMQtEgWGerHsptAKb4Va23AXG7qdHG0z48MHW68A7oOLnNqrv1NNdre6ffmfOw1g+/AZJaWlA=",
+      "is_continuation": true,
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d06b404fb49f7bfce903ee08a96bc73b",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Multifunktionsausgang OUT 20 24 VDC + Multifunktionsausgang IN 19 24 VDC + 18 frei 15 frei 9 frei 8 frei 7 frei 5 frei 2 24 VDC + 1 24 VDC +",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Multifunktionsausgang IN 24VDC +</td></tr><tr><td>frei</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylUstu2zAQ/BWB1zaWRNF6FEaA1L4UqNsATXxJA4IilzZbSRT4AGoY/veSshLn0PZSAdKSu7Ozw6GeTgg66GFwVAn0IUGyxDVrqipvmGwy3gDBHPKC17wuCkGW6H2CenBMMMcC/oTiglrtDYeXPVBuIISJMK8IybKqKbJFFpuneq+FkuofgNFoDtZeEXlDyqZYVJhkmETYCKZX1io9WDqLeTqhQBxlFAXOyPk5wAxwbQTtNGdOm0nhyNwh0qaPFoxNjeKcGREarTPMKZveH/mBmf7e6B/AnU2FH/aWjpqnQnMfzbI3eoAUN2WNCd2FhOpG47/7rMhqaY/WQU833z6v6e5+e7Nb04C689Yxb/mBftze0c1iFBKdz0GhVB0MrI+y0X8zznzuOE58bBw7FU4eXErncseGvWd7sNEwBMMeRZvGkKGD71uIHuX5lDLX3wK3vMrrVhIhyhK3smyXODwFE6XkBeOR2cEvR5mlB9d3sWflWNvB7cq1WhxDMOEVt1vfOSX98DOKskH/PghKPn1JMNlt1sm7VRpA4WNeO6QB9SabznzphR6d59Fx5J/Jvz4+JDgLA5JpQvJXCXlzBeV1Egcn+fISm0uYs9UlzDX8pu11OVky38NDlIrOz78BF2wV6g==",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "95818a533d4ca0a57d6e958de32ab040",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. V4  VPM VC  Pp  V1  V2  GW 1 \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nElektrischer Anschluß VPM-VC \n\nFA     T  I  T  L  L  U  U  A  M  F  n     M  i        O  M     K  1  C  O  O  V     C        T        I  L  T  U  L  A  U  F  M  T  O  C  E  S  N  N  E  R        E  T  O  M  GW1  E  R  Pp  V2  V1  V4  TR  24 VDC +  -  - \n\nDIP-Schalterbelegung \n\n1  X X  X X  X X  X X  X  X  X  X  0  A  B  C \n\n11 … 16\n\nMC « Edition 2023.07 * Nr. 296 824 Rev. -0",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "orig_elements": "eJztV11v2zYU/SsXetxqm6REStpb6qRDsDo1msQb0BUCRV7a2mRJoORuQZD/vks2RoutKALs0aZpiSLvPTy6POLHh8cEW9xjN1WNTX6CxHLHdSlsnTqmClczkdalQ6aUE6XIXfIKkj1O2upJk/1jEgrV2B+8weMzVsYj3SIgz7OMsbxM2ZwF59i+723jmu8YDL43OI5fLHiZqTKd5yJjIgtmA/p9M45N343VM5kPjwkBBxppKlj29JHMPJre26rtjZ56HxkOetoF2MX9iH5c+MYY7S05jpPXUzMu1g9mp/1+7fs/0Ezjwh667VgNvVnY3hxCsMZZ3+FClKoQWbWhiqYd/OH3A0tZ4caHccJ9dXn7dllt1qvZZlmR1cVhnPRhNLvq9eqiupwP1iVPT8TQNS12eh9oJ/8b8Rlvehginh6GtqE3pygtnptb3W0PeotjCFiC3TYJYRqopuoO+xpDjDgPxCb8ewogmwyAeoXNEmA9UJnTXwD8/CtwCJDH3q73hJKQ679FVZQsxZwVRliTybzQpC+hcixqo5FxeRbVyYnqpsG9bke48DU2E3ZgabB3M3DEjjmz89i9gr+w6+B20F1HwQLdtQ1upzkEE6ucoxciIjuETe9nQJx94wJUjdrsqDD/Wpw32oeB+IR3gcE3RKoUOiuFlplWJXKdZrlSMi1TWTBdaH4W6cmJ9KrFPyffUEfo4aKje3uI4nPwmczLpj+jTIHc1oUq6lSgzXNkGtGa2jlT1PasrJNT1psLCOkO4Dpe38Z8HzM1rQDeAHTRhsoNPKd38ZHSL0BrLyxjDeVNrFweze6OhesIexdh30bk+4i8ipXvossVwC3ATcxUfn/0vTrarMJSz4+NcQcgnncBtDO4ozqRweZyCT8CzEJ+2Z4g50abukTkCg0WBZNpxtNScp5mtSrPH8XJfRSX1+vZLUWknZB2BS1uw6r/IjFJnaFgjBunsESlMielq2UtBZMuy+qzmE5OTDQ9/Ua//16+ZBZnxNdhFnzZlGVqLmShkafMSJcyrQ0vZaEU7RhJZmeVnZ7KOJ1GBBMKuPpaQ2vyufns8g0hMUtjwDIsrWWF5CgLSccNKcqs1Fxk4iykkxPSahmPtbqGK9sEKCBVpXOWww9w4+dApIFYw3v8NIcZ+87J9uM/r+Yq6w==",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d8a896422c055073bfe7f20e6850c1e9",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Umverdrahtung DSLC  VPM-VC \n\nDSLC (alt) \n\nDSLC Ventilkontrolle\n\n• Entlüftung in den Brennerraum\n\nPrüfabschnitt \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nMC Edition 2023.07 * Nr. 296 824 Rev. -0\n\nElektrischer Anschluß DSLC \n\nPp  D S L C  -  +  = (DC) 24 V \n\nzum",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "orig_elements": "eJztmEtv3DYUhf8KoVXSZmb4kkgW6MKxvSgQG4M68SYJBD4uPWr0AkW5dQ3/916NHbQJisJGlzMraaTLw6OrD4fUfLwvoIUO+lw3ofiJFDJG0IFrrRkX3HvnvC3LyI3xyltQxRtSdJBtsNli/X2xnNTTMCcPX39D7RPgYS/IlJSUKiPomi6D9/e7ITSx+Y+CMQ0epunvCmZkZcRacUm5XMpGSF0zTc3QT/WTmY/3BQovNoTgVD58xrIEfkihbgdv85D2Dkebd4vs5sMEadqkxnubAg6ccrK5mTbbO7+zqdum4TfwedqEub+Z6nHwmzD4eWnWtBp62HBTaS7ra7zQtGOaP81UUB2nuylDV59dvTutr7cXq+vTGqtO5inbefK7+u3FSX22HkMsHh7QYWxa6G232C7+t+KTXr4b93p2HNsGnxy7tHm63dr+ZrY3MC0NK6C/KZY2jXil7ufOwdIjxhdjGf7Ii8iH7hZSSHaXsQ9kMUHIowuyCH6d65cONQoc+D1SOorKRAlMKWesLkP0nIegpQnKise3eUTqoJDaQ/TKtvn18xASWlYyVtawyHzpFafMRVZy7jStqkocETpMhB4tfRn6nIa2hX+ydGnT0rdbeL8M+BemwPEQpQXHKld66RyXXNuoVWQGBDdHpg6OqU8zp5yT8z636IdGH/dLXtOTAD15m6DvAamauxeBZjT4wDTHDZSyNAZgQvNQelFSHjk9gnZ4oG3TE1/W4WR9k/Pz1kHDteGVliVnVSl5xYOjUUtucTtVcsuOKB0cSpcNdLadyEly0GSMqYAve7ci8ZGwHYbWG/I7Jhe5Gm3fL3lm+7aBm7wmS0mo8IsPA6/xOyDXQ1oR9JyauEg5sH6HJ+sX5R3TTuvocJ+vWIXJV1EPEbxSnJci2PII6cFBenFKzkOzaBBcYcWaKvIDuUxrgm4J2iW/wu2arOiLOKsk6GC0hNJUzkmpBWMYjlyoUgVF/ZGzg+PsvIUvOTU4ESRy0uOxnfchFx//t3jex6agFiGyrJIiUMWoBNyoxdJ5z40Sx0X28LjajoSckSvyjpwSsiLkR0J+Jq/OTl8TzK7r52FFVYUPwm000kRbKltSahgVwXkRMceOWB0cVn9++yX5vsktovP5L6emhDg=",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "877fc70050d1f8f014341c694ec73971",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. DSLC AnschluBB von Klemme Umver- drahtung nach Pp/NO Pp/COM frei Reset/IN Stéranzeige 24 VDC + ] Priifanforderung 24 VDC + Reset/OUT Versorgung V2 /24 VDC + i V2/24VDC + frei",
+    "metadata": {
+      "text_as_html": "<table><tr><td>DSLC AnschluBB</td><td>von Klemme</td><td>Umver- drahtung nach</td></tr><tr><td>Pp/NO</td><td/><td/></tr><tr><td>Pp/COM</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td>Reset/IN</td><td/><td/></tr><tr><td>Stéranzeige 24 VDC +</td><td/><td>]</td></tr><tr><td>Priifanforderung 24 VDC +</td><td/><td/></tr><tr><td>Reset/OUT</td><td/><td/></tr><tr><td>Versorgung V2 /24 VDC + i</td><td/><td/></tr><tr><td>V2/24VDC +</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytVO9P2zAQ/VdO+bqV/GzSTKwSlE1CjLYa0C+AIte+tJmSOLIdtI71f5+dpgQVmII2tVLs53fPz+c73z5amGOBpUoyZn0CazSKSRg4JHKHJAqHNHJD5gQucUNc+iOytD6CVaAijCii+Y+WGSSS14Lifo4JFag/jaAbBYHjRLHvHDkmuFkvOMvS7C+ESnCKUnYMNw7C2D+KvMDxAkOrUBSZlBkvZdKauX20tLCx4fueE2zvNU0g5YIlOadEcdE4rIhaG1n7RqKQtsgoJYLpQKkEUZm05xu6JqKYC/4DqZI2q8uVTCpObcZpbZIlB7xE24vDkRckCw1keSXqu9rxnVEqN1JhkZxdfZski/nlYDFJNOuklorUkq6T08uT5OyoYqm13WqHaZZjSQpj2/pnxVZPbapGj1RVnumT6yzZ7XJOylVNVihNwiwsV5ZJU6WRpKyLJZocuV4Dia4snCjURjySxkGckmFEho4Tu47PltRPWTwyygp/qoTIZK2K3MQcK7LMcXys1kiY/ggzHJtDwEmpbef16emxrSEDP/ASLnQlFvgE3RQPKAbABFkrfQNQErreLdpGy97rLjnbtPJsPK/s6UyvsWZ2MGjiOuJkdtmHmQrM+vC+o0Rln0/7cK+UvloHY0HKX5itELwAFmcT+PAy+P4V7yLLUlKmurJRmNS8Hf2WzdnNdR/yQncIFyuzx8IDe78P9ErIwtMBvX31TbO54cn/FHx+Rrc7Y69Q9z0n/KoNrcgS37fHboMB/O5BBspzWZHy853l31njaS1g9148Y9ptw9i79rS2beualm2aE6HQv7ZFTZmyVGM5XEAJHB5g/qX5V2DDdAbubqR7CTwwKQcfmhLT4PkUAtiVehq+KHUYwlw0a/TVYobwSUhXK0RwUIwdcXQwj3dGXKd1OQHXbSEPDq67i3L9QyCA7sqewcP9eABuCF2S4bUXq3kZ2+f42mTc2t7/AV78TWo=",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "6bb28ad6c3fab50a22d6bb1aa1317ff7",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Pp/NC frei Versorgung V1 /24 VDC + V1/24VDC + Freigabe /24 VDC + 24VDC - | Nur VPM-VC",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Pp/NC</td><td/><td/></tr><tr><td>frei</td><td/><td/></tr><tr><td>Versorgung V1 /24 VDC +</td><td/><td/></tr><tr><td>V1/24VDC +</td><td/><td/></tr><tr><td>Freigabe /24 VDC +</td><td/><td/></tr><tr><td>24VDC - |</td><td/><td/></tr><tr><td>Nur VPM-VC</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytVO9P2zAQ/VdO+bqV/GzSTKwSlE1CjLYa0C+AIte+tJmSOLIdtI71f5+dpgQVmII2tVLs53fPz+c73z5amGOBpUoyZn0CazSKSRg4JHKHJAqHNHJD5gQucUNc+iOytD6CVaAijCii+Y+WGSSS14Lifo4JFag/jaAbBYHjRLHvHDkmuFkvOMvS7C+ESnCKUnYMNw7C2D+KvMDxAkOrUBSZlBkvZdKauX20tLCx4fueE2zvNU0g5YIlOadEcdE4rIhaG1n7RqKQtsgoJYLpQKkEUZm05xu6JqKYC/4DqZI2q8uVTCpObcZpbZIlB7xE24vDkRckCw1keSXqu9rxnVEqN1JhkZxdfZski/nlYDFJNOuklorUkq6T08uT5OyoYqm13WqHaZZjSQpj2/pnxVZPbapGj1RVnumT6yzZ7XJOylVNVihNwiwsV5ZJU6WRpKyLJZocuV4Dia4snCjURjySxkGckmFEho4Tu47PltRPWTwyygp/qoTIZK2K3MQcK7LMcXys1kiY/ggzHJtDwEmpbef16emxrSEDP/ASLnQlFvgE3RQPKAbABFkrfQNQErreLdpGy97rLjnbtPJsPK/s6UyvsWZ2MGjiOuJkdtmHmQrM+vC+o0Rln0/7cK+UvloHY0HKX5itELwAFmcT+PAy+P4V7yLLUlKmurJRmNS8Hf2WzdnNdR/yQncIFyuzx8IDe78P9ErIwtMBvX31TbO54cn/FHx+Rrc7Y69Q9z0n/KoNrcgS37fHboMB/O5BBspzWZHy853l31njaS1g9148Y9ptw9i79rS2beualm2aE6HQv7ZFTZmyVGM5XEAJHB5g/qX5V2DDdAbubqR7CTwwKQcfmhLT4PkUAtiVehq+KHUYwlw0a/TVYobwSUhXK0RwUIwdcXQwj3dGXKd1OQHXbSEPDq67i3L9QyCA7sqewcP9eABuCF2S4bUXq3kZ2+f42mTc2t7/AV78TWo=",
+      "is_continuation": true,
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b988bb2b8aaed43a67f2c1bfdb04652d",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Neu nur VPM\n\n12 … 16\n\nUmverdrahtung DSLC  VPM-VC \n\nVPM (neu) \n\nVPM Ventilkontrolle\n\n• Entlüftung in den Brennerraum",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "orig_elements": "eJztlktr3DAUhf+K8aqFJpZkWba6y6OLQhMGmswmCUaWrmbc2rLRIzSE/PdKTkKHEkKhy5mVbenco+PrD0s3jzkMMILxba/yz1neiLIuCVW1oBpVClCFQPC6IqyiwBuWf8ryEbxQwouof8zTTeumYCW8PkMrLcTLYohrShGqeYmOUSpe5sdJ9bp/RzDbSYJzfxSYU8bL45pQRGiSzWDH3rl+Mq59CXPzmEfjFKMsCaJPd1FmQU5WtcMkhZ/sknAWfptsi2sH1hW2l1JYFQudt8L3rlg9yK2w48pOP0B6V6hgNq6dJ1moSYbULHc0GSgIZw2h7ToO9MNsw21AJWq0e3Aexvb8+7ezdr26OFqftVF1EpwXwclte3px0p4fz0rnT08xoe4HMGJMsfP/dnzx8w/z4ifmeejjm8cuFS/TgzCbIDbgUsNyMJs8tWmOI60JYwepR5ikYB5++WRyCSEzwWZx5WTw6n3V+wHyKPwboQoTJDFrOJWMYMAVUMpwrUssUVNpdEBo7xDCJLsNBBGWYbbL0CrWXD6XvAUSJ5h18dMpyTFUdQOUNUwto0zg5gDSPoBU7oJ0Pd6DVVZsfexDlkJk2XOKbJerr2P0eAsp1XUYdUQiUFxoSiosOQdel0h2QEp5QGrvkIorZh8MhI//RlDDGZRMEF3xKoZXlHAhJdZ1hUgl6+5A0F4S9Jzo52S8nYZ4LtpB6VLY1LZ7uEr6t/Y5qbhiSmnViAbisVsTxuuaVUjEf1KpDkjtHVLLaYlkX4wfYh6kpV42vN5kCkx2asEYiFSF8R3Q7n4DD5ZrhQ==",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f2a62937bd4c3533215c5692f8a1c000",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. RAAN I VPM AnschluBB F= Pp/NO E 24VDC + A 2 | Reset/IN24VDC + 17 | Stérung OUT 24 VDC + Stérung IN 24 VDC + Priifanforderung 24 VDC + ] - Pp/NC Versorgung V1/24VDC + V1/24VDC +",
+    "metadata": {
+      "text_as_html": "<table><tr><td>RAAN I</td><td/><td>VPM AnschluBB</td></tr><tr><td/><td/><td>F=</td></tr><tr><td/><td/><td>Pp/NO</td></tr><tr><td>E</td><td/><td>24VDC +</td></tr><tr><td>A</td><td>2 |</td><td>Reset/IN24VDC +</td></tr><tr><td/><td>17 |</td><td>Stérung OUT 24 VDC +</td></tr><tr><td/><td/><td>Stérung IN 24 VDC +</td></tr><tr><td/><td/><td>Priifanforderung 24 VDC +</td></tr><tr><td/><td/><td>]</td></tr><tr><td>-</td><td/><td>Pp/NC</td></tr><tr><td/><td/><td>Versorgung V1/24VDC + V1/24VDC +</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVGtP2zAU/StX+boV5+GlzQRIpYCENkrEo18oipzkps2Wl2xHomL977PTpBQaGGhNJV/fe87VyfWJ758MzDDHQgZpbHwHY4SUYmgNTdcL0YvtJAxx5Fl26FGbRq5rfAUjR8liJpnCPxk6CERZ8wi7PQYRR7U0Da0hpaY59BzzwNTkpp6XcZqk7wAqXkYoxDPC8qjrOQdDm5o21bAKeZ4KkZaFCFox90+GaqxlOI5t0vWDgnGMSh4HWRkxWfJGYcXkUrcldwK5IDyNIsZjRRSSM5kK4q+iJeO5z8tfGElB4rpYiKAqIxKXUa2HJQZlgcT23JFNg5lKpFnF63ltOuYoESshMQ9Ob35Ogpl/OZhNAoUa10KyWkTL4ORyHJweVHFirNdKYZJmWLBcyzb+u2PbT66qph+rqixVb66mRNpyxopFzRYo9MAMLBaGHlOlMkFR5yHqGVmOSkl8lAETwVLmme51KFmY4fGhXCKL1cJ1eHw9Hk/h4pCoUG+3gZIJ40KJy+qTk02WaArp6GEZr9ousU7HL4Pzo03YkN5E+RWZXu0Dz/aRNp2dTuDLPnb8DIE/2/gaBUpyMX2TtkVawx3ajVQnZqLHlWPg6u4WbAr/atBPvph+iuvzNE1YkSivY8P/DPlhHzTon/XkI+1m6qsq+UKrmFmkneBO+E6P1we3A4KozETFiqO54cyNYxPM5vcRQQnH9CO4fX2ktSnZeN9Yt9+F/h4QtMdz9WDndH1+cQIZ/IAEamAwr23Ls8E/0/92YzngV0BgetVlurPaImxo/KdAOzbYVoewcUri7tkMLPdlsYdPwecNIuo1zFuiPNg519fFEcxspXZPKm1fddJlhvDCHT0ctz9tWXCujnHBQuypOl1mAJd1JtOkLn7rS0+o+3HBuiGZz7x+lJqW5e0McwTaOmB9a1dzs7bbnRlZ21Bfsd3te6tNY6wf/gLUijlC",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "58c5424ff20aa78ad356bed38487b597",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. E 0 000000 frei 24VDC +",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>E</td><td/></tr><tr><td>0 000000</td></tr><tr><td/><td/><td>frei</td></tr><tr><td/><td/><td>24VDC +</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVGtP2zAU/StX+boV5+GlzQRIpYCENkrEo18oipzkps2Wl2xHomL977PTpBQaGGhNJV/fe87VyfWJ758MzDDHQgZpbHwHY4SUYmgNTdcL0YvtJAxx5Fl26FGbRq5rfAUjR8liJpnCPxk6CERZ8wi7PQYRR7U0Da0hpaY59BzzwNTkpp6XcZqk7wAqXkYoxDPC8qjrOQdDm5o21bAKeZ4KkZaFCFox90+GaqxlOI5t0vWDgnGMSh4HWRkxWfJGYcXkUrcldwK5IDyNIsZjRRSSM5kK4q+iJeO5z8tfGElB4rpYiKAqIxKXUa2HJQZlgcT23JFNg5lKpFnF63ltOuYoESshMQ9Ob35Ogpl/OZhNAoUa10KyWkTL4ORyHJweVHFirNdKYZJmWLBcyzb+u2PbT66qph+rqixVb66mRNpyxopFzRYo9MAMLBaGHlOlMkFR5yHqGVmOSkl8lAETwVLmme51KFmY4fGhXCKL1cJ1eHw9Hk/h4pCoUG+3gZIJ40KJy+qTk02WaArp6GEZr9ousU7HL4Pzo03YkN5E+RWZXu0Dz/aRNp2dTuDLPnb8DIE/2/gaBUpyMX2TtkVawx3ajVQnZqLHlWPg6u4WbAr/atBPvph+iuvzNE1YkSivY8P/DPlhHzTon/XkI+1m6qsq+UKrmFmkneBO+E6P1we3A4KozETFiqO54cyNYxPM5vcRQQnH9CO4fX2ktSnZeN9Yt9+F/h4QtMdz9WDndH1+cQIZ/IAEamAwr23Ls8E/0/92YzngV0BgetVlurPaImxo/KdAOzbYVoewcUri7tkMLPdlsYdPwecNIuo1zFuiPNg519fFEcxspXZPKm1fddJlhvDCHT0ctz9tWXCujnHBQuypOl1mAJd1JtOkLn7rS0+o+3HBuiGZz7x+lJqW5e0McwTaOmB9a1dzs7bbnRlZ21Bfsd3te6tNY6wf/gLUijlC",
+      "is_continuation": true,
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "2827915b9e11d17b17854c76edf9e9dc",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. VPM VC  Pp  V1  V2  GW 1 \n\nNiemals Arbeiten durch- führen, wenn Spannung anliegt. Öffentliche Vor- schriften beachten.\n\nElektrischer Anschluß VPM-VC \n\nFA     T  I  T  L  L  U  U  A  M  F  n  n     M  i  i           O  M        K  1  2  C  O  O  V  V     C        T        I  L  T  U  L  A  U  F  M  T  O  C  E  S  N  N  E  R        E  T  O  M  GW1  E  R  Pp  V1  V2  TR  24 VDC +  - \n\nDIP-Schalterbelegung \n\n1  X X  X X  X X  X X  X  X  X  X  0  A  B  C \n\n13 … 16\n\nMC « Edition 2023.07 * Nr. 296 824 Rev. -0",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "orig_elements": "eJztV1tv2zYU/isHetxqm6So295cJx2Cxa7RJN6ArhAo8tDWJksCJbcLgvz3HTLxGmxFEWCPNn0sieS5fDr6ePv4EGGDe2zHsjbRTxBVggtURqkqZzKzSYzIUp5RLc11xVT0BqI9jqQxKtJ/iPxDOXQHp/FYx1I7pFtwyDMpGcuKmE2ZNw79+87Utv6OQu86jcPwVYMXMi3iaSYkE9Kr9ej29TDUXTuUz2A+PkTk2MOIY8Hk4ydSc6g7Z8qm02rsXEDYq3Hn3c7uBnTDzNVaK2fIcBidGuthtr7XO+X2a9f9gXocZubQboey7/TMdPrgkzVMuhZnokhzIcsNNdRN7w6/H1jMcjvcDyPuy4ub60W5WS8nm0VJWvPDMKrDoHfl2+W8vJj2xkaPj4TQ1g22au9hR//b47O/8b4P/lTfNzW9OWVp9tzdqHZ7UFscfMIibLeRT1NPLWV72Ffoc8RjD2zEv0bvhCLCZgGw7gE2nP4C4OdfgYN3d4x0tScPEZn9m1Amj2WepErkMbNcJ5JlubGyknHCkWN6JtTJEWpV4141A8xdhfWILRj62LsJWELHrN45bN/AF2xbuOlV21KyQLVNjdtxCl7FpNbSCxGQHcKmcxMgzK623lWFSu/oYfqSnCvl/If4jLcewTdIKlheJAXHTOa5TJHZimuWmEzGXKbc8jNJT46klw3+ObqaAqGDeUv35hDIZ+EJzOumv1hqleUZS0XGY5ZwzhSagqkcuRCVOjPr9Jj1bg6+3AJchet1kLsg1LUEeAfQBoFQrYP8U96HxqfyC9A6DLQgL0I7ySYIhBY4BnoqVyHQbQh0HWLdhVjL0Pg+mFwC3ACsgtDzh6Pt5VFn6Rd/fux8uSe4pbqQsLlYwI8Ak9eNjyKJ0wIzZg3y2GqlUxlblQvNMGEVsvP4OLnxcXG1ntxQRpoRaYPQ4NZvAF5FplykObeJRkmHGKl0ViVGVAWt6rHOVCbOZDo5MtHc9Bv9/nv5KixMhW/99Pcqlimhi4R4powpTCGTNMvzJFO0wFuTZuZ8ojlBlsV0MBFMpMDTlxxak83qyeRbR+Ms59rEtPTlwlZCWKywKhCFkYYzoc9EOjkiLRfhhKsquDS1dwXEqnjKMvgBVm4KBBoINXzAz1OYsO8ccj/9DcGhK9c=",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "6b9c0d8e927106df5037cbbfe3b32f6c",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. DUNGS Combustion Controls\n\nKonfiguration Kontrolldruck- wächter Pp₁ und Pp₂\n\nAlternativ zur Prüfung der Ven- tildichtheit mit einem Kontroll- druckwächter Pp können auch zwei voneinander unabhängige Druckwächter eingesetzt werden. Dies ermöglicht eine individuelle Einstellung des jeweiligen Prüf- drucks für V1 und V2.\n\nInsbesondere bei hohen Eingangsdrücken und großen Prüfvolumen kann die Gesamt- Prüfzeit durch den Einsatz von zwei getrennt einstellbaren Druckwächtern deutlich reduziert werden.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "orig_elements": "eJztlF1v0zwUx7+KlWvaOonbpNztWR8hxAOaBOwGUOTYJ4mZY0d+6VinfXeO045NgHiEuGQXVZOT4/95ye+fD7cZaBjBhEbJ7DnJWraGmkFOt3XB8iIXeckKsSkFK2payiJ7RrIRApc8cMy/zdJF4210Au7voREO8G8WzCvGKK22JV3SdHh+PlqpOvWLhMlZAd4/ZORbttmWy6pgtGApbQI3Ku+VNb45NfPhNkPh1EZZFpTdfcI0B8I62WgreLBu7nDiYUiyq/cenF85JQR3Eg/64HhQfnVxIwbuxgtnP4MIfiWj6X0zWbGSVsS0LL+wBlbFdoNLai4xoPTk4sdIS1p3/sYHGJvd2//Om8uL14vL8wazzqIPPHoxNP+8Pmt2y0l22d0ddtgpDYaPqe3sjxVPeuFmmvX4NGmFk+OWVqfHmps+8h58WlgGps/SmiaMNCaOLaQd5Sw1FuBLSCK7929evCXndmyxICrhpQnOap/k7iu9HFEhw2PfA1XVXLT1pq0RpbYr225dU9ZCySRna8G7J6D+OqBeWdOpPrpZhrw60qSli+JqQa6xRQpMDAEcuZg+xoLWOYlG3t8Uj7F7p4L+KXZFXYmaV3Vdyrwq83W7roDRmnEqt/WW5k/Y/RXYzSH3G1+jx5yeaWTQYNU9OUSE0SU0O9HhGolEOnG8BcEBpUJaB1CBjPgDZWD8RvWCzFx/RzW5mqU2xoAhPIqBHK5BkT2+DWW4SeLR8HY4njK96oHsftDBXJwfwiGQa3ASzJLsFHiCRB3le506mzsiyki1VzKC1kD+VQbfhNbHSTz5DFheYxXzMOWpc0+6YwDnPfrwslg+tuAb7hJue3iX1vYTK25yCvmaFhRox4u8kKKVbYU3bS5ZWbMnKz5Z8f+s+NL4FrxNzgDSolUGOyCsyHGPxb08QSuuMJgY7Z1NEdk9JnpvdVo1ueLGEKmAvADPx7B4yDgkE0sEb0BbzPKeh0Py5dGgPQScwMyWmg3Upol+tCbKQwzJfcSBjAcF7ptHf+GdT18B2KrE+A==",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "6b5cc4dbdbe6ecb389e07543bb59b5e2",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Im Gegensatz zum Einsatz nur eines Druckwächters Pp bei dem beide Schaltfunktionen des Wechselkontaktes angeschlos- sen werden, ist bei der Verwen- dung von zwei Druckwächtern jeweils nur ein Kontakt (NO oder NC) angeschlossen.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "orig_elements": "eJylUsGO2jAQ/RUrp1ZaSEgMCb1toaqqdinStvSwXVmOPQEviR157KWA+PfaLGgrVeqlJ9szb968eeOHYwItdKAdUzJ5R5Iim5YCijwvykaO5ZRXlZxMuJjQphw3zSi5IUkHjkvueMAfk3hhaLwVcH0DExbCcSYclZRmWTktsmEWi8/5zkjVqH8AemsEIL4iRlM6mRbDMqdZTiOsB9spRGU0souYh2MSiKOMosgzenoMMAvCWMlaI7gz9qyw524TadPvCBZTq4TgVoZCdJY7helyLzbcdktrnkA4TKXXa2S9Eak0wkezcGA0pPl0UuWUrUJAtb31P31WZFWDe3TQsfn9lxlbLe8GqxkLqFuPjnsUG/b+7pbNh71sktMpKGxUC5p3UXby34wXPrfvz3y871sVJg8upZd0y/Xa8zVgNCwBvU6iTX2IMO27GqJHI3oO2ddvUVZc1NWkrkZiVDdF3YyrjNZQUMnpWPAwSqhw8MtF8KeOfIQ1aOTuQA6+Ix/Uy117S0BpQDK3Xmx3YbwMqNi4sAey7EkNikjo4imB3IcttK7xehv1gw4pJD9AbBDardGOb10IhHEgeNAaHBAMoB1YCfqGKHQXPktWYHegByQukjwbTQ67kPlLgyZPEBItXoWSzy9tyJvFV2Ii02L29o+Ood8wenq1e8Ft/EHP8C06cXr8DUS8HKs=",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "49c935de817c4c08a090a0698951605e",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Kontrolldruckwächter für V1 Pp₁ Kontrolldruckwächter für V2 Pp₂ Pp₁ prüft den Druckanstieg Dichtheit V1 Pp₂ prüft den Druckabfall Dichtheit V2 Öffner (NC) Schließer (NO) Einstellung des Druckwächters: Niedriger Druckwert Einstellung des Druckwächters: Hoher Druckwert",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Kontrolldruckwéchter fiir V1</td><td>Pp</td><td>Offner (NC)</td></tr><tr><td>Kontrolldruckwéchter fiir V2</td><td>Pp</td><td>SchlieBer (NO)</td></tr><tr><td>Pp, priift den Druckanstieg</td><td>Dichtheit V1</td><td>Einstellung des Druckwachters: Niedriger Druckwert</td></tr><tr><td>Pp, priift den Druckabfall</td><td>Dichtheit V2</td><td>Einstellung des Druckwéchters: Hoher Druckwert</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylU1tPHCEU/iuTeaqJOte9jDEm6jZp0qqb2O6LGsLAYYeWGQgwsRuz/73AjK5ptmrSJ+DwXQ4fcPcUg4AWOos4jU+iOK3yajKdZgTXkxlJCYNZTQuGs4rVlRvjwyhuwWKKLXb4p9hPkJG9JvC8BkQ0uCEIZrOyTNNZVaTHqSeH/VZSzvgbAKUlAWN2iKwqp1VxPMvLNC89TIFuuTFcdgaNzdw9xU7Yt1EUeVpuHxxMA5GaIiEJtlKHDhW2jZdNfhjQJtGcEKypIxqrseUmWW5Ig3W71PInEGsS2ndrg5QkCZWk92GZI9lBklfTeV6ilStwoXR/36dFOmdmYyy0aHH77RKtlldHq0vkUOe9sbg3pEEXV+docawoi7db1yHjAjrc+rbj/1Yc9exGBT2slODu5C6lZNwWuFv3eA3GBxZDt459TMpVUNe3NfiMsjKU9O5ZzOaY1PNpPc9IVrOiZpN5WtZQlBSXE4KDsoXfFmGDGtsKzzm1uBZwdmobwNQN2k/PvsrOaikE1T359egOmEJFGgs6YpzraJWdJg7lkUv1Mr1hrHOIT9eXB0Mt8WrJs3It6WY0oO8a5I5HAzIYDNNb0ggOF8Hj5mAoB49RdKkOI6U5Zzai0EULr407YzmsXzQW3Nk0wO1wiKH4mTsUCOGekGOagfmIQ0PmJLp2n0DztfMdNkDbD5rXDAuxzzt/x/tVIq6BL7L5h3kyxpoM1xhvxyv2V7sn43LM2C8Y8RcZLdV9n6fzLPoIPH+G5zue0sP2ntSj12nvqHsZIarXhDzyKDrdvapoeAChzMZXEL2RX/nGBX6I91fu4f+Mn/a7zzvePvwBWO/gMQ==",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "527639d59ffd44c0a4a039e620159c8a",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. Anschluss zwei Kontrolldruck- wächter\n\n13  14  Pp2   Pp1   (NO)  (NC)  24 VDC+ \n\nEdition 2023.07 * Nr. 296 824 Rev. -0\n\nMC\n\nÄnderungen, die dem technischen Fortschritt dienen, vorbehalten.\n\nHausadresse\n\nKarl Dungs GmbH & Co. KG\n\nKarl-Dungs-Platz 1\n\nD-73660 Urbach, Germany\n\nTelefon +49 7181-804-0\n\nTelefax +49 7181-804-166\n\nBriefadresse\n\nKarl Dungs GmbH & Co. KG\n\nPostfach 12 29\n\nD-73602 Schorndorf\n\ne-mail info@dungs.com\n\nInternet www.dungs.com\n\n14 … 16\n\nCombustion Controls DUNGS\n\n15 … 16",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "orig_elements": "eJztmt2PEzcQwP8VKw9VW0ji748+FXLtgSjXU4F7ARSN7fFl22Q38m44DsT/Xu9xFQdCzYVKfTnnwUm849nZ8U8zHq9fvp/gGjfYDssmTn4iE0G9j0GhZzIlRX1iArTwTEdMSUQxuU8mGxwgwgBF/v1k/LHsu10O+M9/XIaM5etKITNSUmqcoDM6Dr66vulik5p/EdjmLmDff5JgTmonZoZLyuUotsW8afq+6dp+eW3My/eTong0QwhO5YfXRSxj6HJcrrsAQ5evLNzCsBrVzl/0mPt5bkKAHMvAfsgwNP389DKsIG9Oc/cnhqGfx1173i+3XZjHLuxGZ/XTrsU5d9pyuTwrHc16m3evdlRQm/rLfsDN8ujZb4vl2enT6dliWaQe7PoBdn1YLR8+fbA8mm1jmnz4UCxMzRpb2IxmT/6zxmt9w+X2Sh9st+umPHnx0vz68hra8x2cYz86bILt+WR007b0LNvdxuPoIyavuvInLIyF4K32lgXmk/BJWSo9ChlBqgDlUcqIAd8Oo/CDthi13vU9eXeBDXnStUPu1uuYd+GvKbkoD0VRhtVQ7jWOurb1BPLo/jf4fFRT9H2JpgWZpPFguPcFRmOUA4PWOR+9B0UrmncCzZukMUFKDyGnW07GlpX2+5PffxjbRWm5JGdHi3vkJmePN0Xh1/hi3nKGImgUChy1kiouMaYkGVJkuvJ15/j6JTajAsIpFzNqyI/kJM9IMZUUW8kf+GZGpvSgIBaSDUJz50MSCtF4DFQKEQEgBqS+QnbnIHu6uEnQ82ZYfzU8OQOSRRVLApZCJ2qNRBqVhNIvSnKu5NwJcr5cme0NKDdRG5deQbYRc3EctvdJbJBE3JABw6ptisXYkl+7PJRfuRmG8Xo7yr3psscVrAdsZwfFO8e9ACW001qbpGNw4CLlzBlKkxCqUlup3Ufto2IVxDzO30HsFf0WBTd2nOyi3xuVlJBMCi+NFqmyV9nbx94TyGtyNDqNHG/8I/IdWXQz8uT4IBCZkDY6LayjSgmjfZlT8JoJxscoyCuIFcTbgDi9AnF6uobhHWEHIeglleNuXrSCCiMUs7ZERsOcMElR5SqCFcF9CB5NjdCakhfZQ1jdJ8dlqqC9PIhDzqykhT2FSVrhNHXCopEBfKTgdKwcVg73cfi8IJW6ltyTjhhm2dRSeeA2DLeBqVKGUKAmcFW4TsIKKN2lAVMzcsXwdhjC288xZFof9lKDRa5VpCxGF2RZD/KUwFpADnp8yVJBrCDuA/FhbgqI31AgcwQeuZDeS54Y81ooK0EEzREDM3VLscL3/xTI0fPAeEgYQXkdtC9JGSxHoxM3jtYoWEHcC+Jp1w+p1CWEccLdYXFQW+8cDYJi9EGxchseIUlkXIKhoeJX8btVcUw5eRZWXW5jl9Nh74UVt5EzgQp88pShjVqWIkWWHI3O1VRcEdyLIE430KxJ06bu5yvfzUK3OSwQGmk11cCkl4IrSE4FqqJQBrVlAiqFlcJ9FD5uB8wtDuTi4mL2bRgyCMIGlXgShgGX3DkeokjodESoy8E7guFnJ/0kebXjlGvCPttgOS1jTj4O+QpIhgvUTCjKWCklgipZtnxSdJ4GQ1U9zXwnQFI3QVp0G19uNZ7qW3w8mNyToxcnx89udUbUBUmNCklpI32EQFOKKCJLQANYV/eN7x5QTO2PTK//BkOmtxc=",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "668f96bb6e651fa151a5ae6c11a7982f",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_DSLC_VPM-VC_24_Austausch. Produkt ID: 296824. Der Dokumentyp is Betriebs- und Montageanleitung. MC Edition 2023.07 * Nr. 296 824 Rev. -0\n\nDUNGS Combustion Controls\n\nEdition 2023.07 * Nr. 296 824 Rev. -0\n\nMC\n\nÄnderungen, die dem technischen Fortschritt dienen, vorbehalten.\n\nHausadresse\n\nKarl Dungs GmbH & Co. KG\n\nKarl-Dungs-Platz 1\n\nD-73660 Urbach, Germany\n\nTelefon +49 7181-804-0\n\nTelefax +49 7181-804-166\n\nBriefadresse\n\nKarl Dungs GmbH & Co. KG\n\nPostfach 12 29\n\nD-73602 Schorndorf\n\ne-mail info@dungs.com\n\nInternet www.dungs.com\n\n16 … 16",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.724024",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "296824_Ventilprüfsystem_DSLC_VPM-VC_24_Austausch_BMA_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "orig_elements": "eJzt2ltv2zYUAOC/QvhhD1tt837Z09pkS4suQbCkfWkLg5fDWIMlGZTcNivy33fktVg2FHPdDXsJnyxL1OEx9YHkEfzqwww20EI3rpo0+57MdBBKRcmYDlnTyL3VLjhhmbdOBW9mj8ishdEnP3ps/2E2HayGflcifPoOq1gAP/YBmZGSUuMEXdDp5v31tk9Nbv6hwbb0EYbhzxbMSe3EwnBJuZyabaG0zTA0fTesPibz6sMMA09pCMGpvHuDzQrEvqTVpo9+7Ms+w60f11PY5YsByrAsTYy+JLxxGIsfm2F5eRvXvrSXpf8V4jgs0667GVbbPi5TH3fTYA3zvoMld9pyuXqJJ5rNtuxe76igNg+3wwjt6vTq55PVy8vz+cuTFbZ6vBtGvxvievXk/PHqdLFNeXZ3hxnmZgOdb6e0Z/864sd44+12H89vt5sGfzmO0vLj5Y3vbnb+BoZpwGbQ3cymYdrimVW3awNMY8TUlNgI78cpyPkJ+TE1UwzCKRcLasi35KIsCGZLMF3yC7xdkPn+4X3q+MKXaSzfwvUUBKP93Rm4ZLPhWSiuU6KcKSZS1A4ALI3SVmcPwZm+7+z0xcXZFTnp24AdTtpO+m4s/Wa4D+tZixE+B8qyLH2WNKuUlZARhI7cMM6lyIZKXUE9OFD//ayFs5UR0VAI2oTggIHnoFPguFqC4r4ie3DIzk/uC7puxs1npydQzmfjtXfJS8W0ScJm7xCQiYKZut49DDn7U+WICeU+Ncwat0ZdgoIDB90jkhogCVoyQlx3DWYMHfmpLyMelWYcp+vd1O5tXwKs/WaEbnHUfBcSN1HLpBMYhmtrEuDAR+c1sBicq2qr2kNqn2JWPpXp+R1lLzPnVMay0wmsQG1KxmcK0alInZCUVXvV3iF7z33ZkNNp0MhZG56Sb7CmWJDnZ0dBTNkyHrG0sFhheC+85lJaHQAHyCpWN30V4hdBnO8hzi83fvyNsKMI6sCE1QbwkXOqElgIwjKgXhumhKlv5SrBgwRP50ZoTcmLEnxcPyJn+Kh8d3uUQ4r+JI/AvMJuKfXGOA0AmmkQuCGsDqvDQw6vkVTuO/KddMQwy+aWyiNfw1ijeJRCO+cDM9F6qqMCm6hGKtHUrWFl+GUM/fu/MmRaHwWRYXUiQxCOGRaiDdRy8OB08oxrqmiFWCEegvikNAjxKwpkozROg04rZlWMyQtmk3EAXoGhQUPFV/H9LwWykkjRsf0fByw30gosl4PAstkIXJ9ThVghHoJ42Q9jxrqEME64O4qfTyoZFoPROQtAFdxQxRXHzqQSrC7Cld+XFceUk6u47kuX+pKPez+jEkteZ6MAyaUslDNOJp9Elsz4UAlWgocIwrz1zYY0Xe5/2I/dIvbtkeuwikILJpjKyjk81BSMTsLirpC5+heYqvCgwmfdCKWDkbx7927xdQwddhOjYNI5p4wOgTLGgCrhcnSGysrwQTC8r4pp8nrHKdd4/r6lS7zn4o9b7t78DoktIlI=",
+      "product_id": "296824",
+      "product_name": "Ventilprüfsystem_DSLC_VPM-VC_24_Austausch",
+      "document_type": "Betriebs- und Montageanleitung",
+      "product_category": "Ventilprüfsystem"
+    }
+  }
+]

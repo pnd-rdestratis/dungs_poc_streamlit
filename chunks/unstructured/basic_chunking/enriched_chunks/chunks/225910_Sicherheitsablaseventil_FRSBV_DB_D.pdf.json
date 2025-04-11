@@ -1,0 +1,602 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "887818a01b3f6cb184d2012bb7b36482",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. Sicherheitsabblaseventil FRSBV\n\n4.15\n\nDUNGS® Combustion Controls\n\n—\n\n0 1 9 5 2 2 . r N • 3 1 . 7 0 n o i t i d E • y n a m r e G n i d e t n i r P\n\n&\n\nTechnik\n\nDas DUNGS Sicherheitsabblaseventil Typ FRSBV ist eine federbelastete Si- cherheitsabblaseeinrichtung (SBV) mit einstellbarem Ansprechdruck.\n\nDas Sicherheitsabblaseventil ent- spricht DIN 33821.\n\n- Eingangsdrücke bis 1,0 bar (100 kPa)\n\n- Große Durchflußleistung\n\n- Sicherheitsmembrane\n\n- Serienmäßig interner Impuls für den Ansprechdruck",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmN1v2zYQwP8VQg9DCyw2P0Vxb+vSBXkJgiXdS1sY/DjGWvQFSi4WBPnfd3QSzAnSNn5MIhmWKfHueDr9cHf05+sCGmihm1Z1KH4jhWASOAjpePTGM22oN1GzMkhmgy1D8SspWphwPFmUvy7yYDX2m+Th/hpWPgH+bA0yLSWl2nC+oFl5O9/2oY71DwSG1HsYx/8lmJGlEQvNpVIqiw2Q2noc674bV3fOfL4u0HB2QwhO5c1XFEvg+xRWTe/t1Keth4Od1tns8tMIaVym2nubAiqOU7JTPS5Pr/zapvY09f+An8Zl2HQX42ro/TL0fpODNR70HSw5V4bR1Vnt15DWUE+jdY0d4RtK1M3qz7/OPvy9OvywOlwMIRY3N+hOrBvobJt9LPZTv1Oeroatsh2GpsZnwudf3k03trvY2AsYcygK6C6KHIAB76y6TesgPz3LTkzw75RtPFh5Z2myXTqbvF/tvJ4aKFD3MS4OKi+YtywyH4w0QlnrAjMOdGBW+xmXl43L9k7aIz3s8iUXTO1SdGJTjtg3OM8CT9AUK4fkWABmFFdBQ8lLAREPXcUgZ5peOE27cBx+Ojk6+7Kh1AL5o2/dZszmcNhNqW/GXW6OWzTzFC9c+MiCFJy70oMveQAXJNWVolELOherV8TLlw2nTD4LCwGsYoY6Z6Jl0mpQmKYk48FJUYLjMxavBwtKGDFEEY6fBUnkhGRQOCcCJxZEE0o60pOaTPgN5OP99BXetqRFDSBHOM6TgEJ5lMjpfmXLMcGoqRR4b1Sk0jHNsQ8SlLMYKj3z9np4+2WXjFOUO7kVewILKIWvsBgJCwYqWuYmphSixIQUmfZmxuL1YHEOft3Vl8/aM2Ffq0TEDhcqySuFOUJzL41mNjLG1VyeXjgXj/dMP80DD9piO5Jta0y+uzs/vxpud+ikHicCdQckQoDkAIUmmABVD8hjZZTD17CeMNDkHSq/J2291UaVpnHocEt+78YB3+Y6pI2/XOxVAwMWQOOkCc5bJZXXpY68BOy3lBU2zMnuhUP9mNHv0onnA4IYZdbI4fEJxrTibPGszKikrJQuTShDiXmRsbJkFnsrZYNUpZAzRC8boseZ8adJY5e6A/Kx7i5wmTGk/L9B9P4SiKtHtEsJJjDyjlFKLk/t+70yl8JFtVIeD16JUGIdFlVZetw1am6km6F709AdpT7TFiKQQ3zl69hsbq8bwPKLcdoLNloxVfFKWqt4DI6ZKlLtqdRMKyYrOsP2pmHbcbaF1iXbwV54SSOFkIaGSlWCC8O9kEqA4Vg/XRXtjNfbxgtSDV2b8xfI2yxWX5C6myB1kMhxO2yakcTb6ppIgO7hluAHLH79DwkLrF4=",
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fe5e14d47ccd3543adfef0f1fd955afd",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. - Gewindeanschluß Rp 1\n\nAnwendung\n\nSicherheitsabblaseventil für Gasbren- ner und Gasgeräte.\n\nGeeignet für Gase der Gasfamilien 1,2,3 und sonstige neutrale gasförmige Medien.\n\nBuntmetallfrei, geeignet für Gase bis max. 0,1 Vol. % H2S, trocken.\n\nZulassung\n\nEG-Baumusterprüfbescheinigung nach EG-Gasgeräterichtlinie: FRSBV CE-0085 AS0461 EG-Baumusterprüfbescheinigung nach EG-Druckgeräterichtlinie:\n\nFRSBV\n\nCE0036\n\nZulassungen in weiteren wichtigen Gasverbrauchsländern.\n\nFRSBV",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmE1v3DYQhv8KIaA3e5fflHKLY9e9tAjiNIemwYIfw102WkkgpTiB4f/e0cZp1obRdA89GN7TasmZ0cvhg+FQ728qaGEL3bhKoXpBKg91EJrxRrKaG+acsV5ICNY4Q52T1QmptjDaYEeL9jfV/LAq/ZQ9fPsPK58Bf3YBmZGSUtNwvqCz825+24cU078YDLn3UMp3C9ZI3YiF4VIpNZsNkLeplNR3ZXUn5v1NhYFnGUJwKm8/oFkG3+ewantvxz7vFA523Mxhl78XyGWZk/c2B3QsY7ZjKsvXX/zG5u3r3P8FfizLMHXrshp6vwy9n+ZkldO+gyXnqmF0dZX8BvIG0lisa22BT2iR2tXPb67O3q3Oz1bniyHE6vYW5cTUQme3s8bqMPc75/HLsHO2w9AmXBOuf3k33dpuPdk1lDkVFXTrak7AgCOrbto6mFfPdiP5+34HRpvGySY4b5VU3mgTuQahQVlhQ1PNqkf4PM7Gp+QSrlMXwHbFb9rpz4nSEMmbgbBZwDdtv9k8J/ITvJ39MMBDyCSXmnrmGt0wwVRQoGJgrGGeASpojpA9bcj2mXnZXUM3L26fkLdpbOExMmrjXY2ChWAIiHeScYSi5rLRMngmjmQ8bTIelp8fVoJ9lO5J3dNK4lyIos/k0haH0U9JB5lMXZgH1pDnaZAjLA6qUgFZdNEGExzIWkRjQlRG4WnIWWC1ObL4jFm8BEjrDsZ77AEJsHuIdpvaBB2+hJ+IHYkFd2dMa0A0J0xuC2SNdjtnjduHE79CQJfDGMXeLPBgKZtFA+XCC8MVGGc9h6COjD5nRs+mbpw3v21jhnRC1o8z61IhW/t5QegJI+/6dkF+Ir/wqxMy4q5+PJTI2jJGqcYekVHjBPWR6hiaEKnydW3pkcinTeQ+YH9M+LryX3s7Y5jXocZDNEYjWdSOAd45BI0xCEmPXf8TJ+NhrfphJdhH6eLy9MxO26mMkIf8tT5FB3jNhNSlNaaJdNZvCNrd7+kwx5uxRRt4QXbrIq8uTimtFXl5RaVm5IDI53nyHx+PfVANpFIETa2qAwgqudM8aO0A5TgpRX38iPKcSd9JOggnEZxjIgBTWDqlkI5rJaXzlkqpNLAjTs8Yp1cXlAp9EE/aG88ZY74RFIR11DcN1IJJrRQ38fiR5Tnz9E9Ph7fX1JFr1AwYi1zPZ2GaR/H8/QTZZTv5TWm/npUdXnwPvChECQ6vr8Y4MNBEwwB7QlMrxyNIbo8UPm0K+f96SH74G45rizY=",
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "3b45f5c2639aa837594160816a6cf4ea",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. Federbelastete Sicherheitsabblaseeinrichtung mit einstellbarer Sollwertfeder. Interner Abgriff des Ansprechdruckes.\n\nTechnische Daten",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztksFu3CAQhl/F4tyusdc2dm+JVpF6qaJu2ksUIQzDmhaDBThttNp372AlitpDpJ7bk83wz/DNzH9/JmBhBpe4UeRDQTo5DGMDbNj3YtSMDVqqnsmma3TVNwzIu4LMkIQSSaD+TPIPj34NEl7OwGUA/GwFK9Y0lLKhrnc0J2/3s1dGmzcES/ASYnxVVEPTDfsdq5u2bbNsgTCbGI13kT/D3J8JFs4Y+31Nm8sDygJIHxS3Xorkw0a4iDTlsuWXCCGWwUgpgsLEmIJIJpa3T3ISYb4N/hvIFEu1ulPki5el8nLNw4rvvYOyrtuhovxo5ARhApOiGK2I8IgKY/nN5+P1V3645ofdojS5XBBHGwtOzJmR/F36c3J6WrZksSzWYE/Yf/l8bYU7reIEMY+CgDuRPIAFI9yt8wi5+3qLhNd996KqKO0UiIqycU+lpp1Wg9K0lX0vKMnUCX6mLL4BBWEEhEyQoPiNfEMH43CcU8KBFbNJBZ5Rau2IT4bi6K39ASHpXGZXfHQJgsP41XgKRusCN1BcubjgziYVVvkd4i439tLzJxHygh7hLvMg2J/m7XWvGQi0k2gZZdAMY9dX0NNRsbpS/837L5v3Dl3lTETe4oBbcm846+EXjRum2g==",
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b446bf85076a2eaaa1bafcf18390c8bc",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. Nennweiten Rohrgewinde nach ISO 7/1 DN 25 Rp 1 Max. Betriebsdruck bis 1,0 bar (100 kPa) Sicherheitsabblaseventil Sicherheitsabblaseeinrichtung nach DIN 33821 Eingangsdruckbereich bis 1,0 bar (100 kPa) Einstellbereich, Ansprechdruck 20 mbar (2 kPa) bis 1000 mbar (100 kPa) in Abhngigkeit der einstellbaren Sollwertfeder",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Nennweiten Rohrgewinde nach ISO 7/1</td><td>DN 25</td></tr><tr><td>Rp 1</td></tr><tr><td>Max. Betriebsdruck</td><td>bis 1,0 bar (100 kPa)</td></tr><tr><td>Sicherheitsabblaseventil</td><td>Sicherheitsabblaseeinrichtung nach DIN 33821</td></tr><tr><td>Eingangsdruckbereich</td><td>bis 1,0 bar (100 kPa)</td></tr><tr><td>Einstellbereich, Ansprechdruck</td><td>20 mbar (2 kPa) bis 1000 mbar (100 kPa) in Abhngigkeit der einstellbaren Sollwertfeder</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVttO40gQ/ZWSn3a1gC9xbohFgmVnxQMMInN5GEZWu7ts92K3re72ZBDi37faTkRCYhY0T3bcVadOV506yrdHD0usUNlECu8YvHgyTsVkNglCHk9GMU9Hczaax9MwGk35nKfeAXgVWiaYZRT/6LmXxNSt5rj+jQnXSI8OMJzGcRBM51F0FLjk7ryqhczkKwGNrjka8xwRzuPJfHQ0jeLxeOzCGtSVNEbWyiQrMt8ePQJ2NEajKIifvlOYRl5rkZQ1Z7bWHcOG2cLB+p8NauNryTnTghKN1cxK49888ILp6kbX/yK3xhetyk3S1NwXNW9ds8xhrdCPovE8DJKF5AXqAqU1LC2ZwR8UIcvkw+3i/EtycZ5cHDUi856eiE4mS1Sschy996Wvku1D0yWzpikl3Ynu76+OS6byluVoXCs8VLnnGtDQl0S1VYru9lH3RT/Pe8bCMAgmAlkYTNNRwLNgkom5yIIxn81YNxGLP23CTFLYqnQ5J5aI4umJLZAJemj3CrpemoapP++86M47vUallnQnVHBbFzrHpVQCQTFewOXiI0z98MS3RZfJ63Ij8+IaonF/5nfQek/QbQPhRoy/ppLW4mGVIk6v2M8jOEerJaZG6JbfU6CLEi/QUmkgPAggZRp+o3bA/Q37vY99piBOtya1MaoB1N1wlIrUVljSU9+Ji8tr0uosCneL/S1VTgPtedPwkBJ/jT4hGotluQI7gDNlGtqP4rXWRAFUHW7UoUJXKwjWX9fVQCo4SwuVy/yeLgwCNeC6ntMbLOqyXKK2GdLZLrmvqO+NrbMMu9ycmUzKghIF5X5CUv4AwX+wEKw1eAxnZVtJJdvqABaWFSVcn9/CxarfhNIqAVdYpZopVMe7FD5XOaZu1S1W5C7Mtnqg5mE4vmuDIA3+6vrxxzSA1e+9XU9ZW9IWDoB9cA0RdQVLxnI3DgulRCIsOnBiU7h3g+q+O90tcYXnTBlelCUZ4mCfIPTjkDYvimaQohSG5iRzkBWspbalss0Cl1XTlqav0WajgQpSWdQKftS6YN3Y3gJ9ZivX8pLI0HMAeTsIVKud3hY1VdGZ6zzOS/JVULVdUq9kfgCCwcb+VauxO00eAo2ZtfbI6b+/0DFsdmeDpL8yFL93PO9p5YbOBd/gcLDrQDBkIrBv4eH1nYU9W+PakfGtzYE9yoZnXdJSuCSR9QPuAUhIsDX2PgRejKIza3BuDHtdaM91h01wAOJ9FtTJIX6rEQHZR5+x30IG7aMzF/IBGDACeO9a9xLslPO/GwpvWLWXk9qzNPEvLE0vh+Nt1t2fhdUflE9uY7yn7/8BrsJ9Jw==",
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "3bbbe9d973415926096251ff37a52a9f",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. Werkstoffe der gasfiihrenden Teile Gehdause: Aluminium, Stahl NBR Dichtungen und Membranen: Umgebungstemperatur -15°C bis +70 °C Einbaulage Federdom waagrecht liegend bis stehend senkrecht MeBanschllisse G 1/41SO 228 beidseitig im Eingangsbereich Impulsanschluf3 intern vorhanden im Eingangsbereich",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Werkstoffe der gasfiihrenden Teile</td><td>Gehdause: Aluminium, Stahl NBR Dichtungen und Membranen:</td></tr><tr><td>Umgebungstemperatur</td><td>-15°C bis +70 °C</td></tr><tr><td>Einbaulage</td><td>Federdom waagrecht liegend bis stehend senkrecht</td></tr><tr><td>MeBanschllisse</td><td>G 1/41SO 228 beidseitig im Eingangsbereich</td></tr><tr><td>Impulsanschluf3</td><td>intern vorhanden im Eingangsbereich</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVttO40gQ/ZWSn3a1gC9xbohFgmVnxQMMInN5GEZWu7ts92K3re72ZBDi37faTkRCYhY0T3bcVadOV506yrdHD0usUNlECu8YvHgyTsVkNglCHk9GMU9Hczaax9MwGk35nKfeAXgVWiaYZRT/6LmXxNSt5rj+jQnXSI8OMJzGcRBM51F0FLjk7ryqhczkKwGNrjka8xwRzuPJfHQ0jeLxeOzCGtSVNEbWyiQrMt8ePQJ2NEajKIifvlOYRl5rkZQ1Z7bWHcOG2cLB+p8NauNryTnTghKN1cxK49888ILp6kbX/yK3xhetyk3S1NwXNW9ds8xhrdCPovE8DJKF5AXqAqU1LC2ZwR8UIcvkw+3i/EtycZ5cHDUi856eiE4mS1Sschy996Wvku1D0yWzpikl3Ynu76+OS6byluVoXCs8VLnnGtDQl0S1VYru9lH3RT/Pe8bCMAgmAlkYTNNRwLNgkom5yIIxn81YNxGLP23CTFLYqnQ5J5aI4umJLZAJemj3CrpemoapP++86M47vUallnQnVHBbFzrHpVQCQTFewOXiI0z98MS3RZfJ63Ij8+IaonF/5nfQek/QbQPhRoy/ppLW4mGVIk6v2M8jOEerJaZG6JbfU6CLEi/QUmkgPAggZRp+o3bA/Q37vY99piBOtya1MaoB1N1wlIrUVljSU9+Ji8tr0uosCneL/S1VTgPtedPwkBJ/jT4hGotluQI7gDNlGtqP4rXWRAFUHW7UoUJXKwjWX9fVQCo4SwuVy/yeLgwCNeC6ntMbLOqyXKK2GdLZLrmvqO+NrbMMu9ycmUzKghIF5X5CUv4AwX+wEKw1eAxnZVtJJdvqABaWFSVcn9/CxarfhNIqAVdYpZopVMe7FD5XOaZu1S1W5C7Mtnqg5mE4vmuDIA3+6vrxxzSA1e+9XU9ZW9IWDoB9cA0RdQVLxnI3DgulRCIsOnBiU7h3g+q+O90tcYXnTBlelCUZ4mCfIPTjkDYvimaQohSG5iRzkBWspbalss0Cl1XTlqav0WajgQpSWdQKftS6YN3Y3gJ9ZivX8pLI0HMAeTsIVKud3hY1VdGZ6zzOS/JVULVdUq9kfgCCwcb+VauxO00eAo2ZtfbI6b+/0DFsdmeDpL8yFL93PO9p5YbOBd/gcLDrQDBkIrBv4eH1nYU9W+PakfGtzYE9yoZnXdJSuCSR9QPuAUhIsDX2PgRejKIza3BuDHtdaM91h01wAOJ9FtTJIX6rEQHZR5+x30IG7aMzF/IBGDACeO9a9xLslPO/GwpvWLWXk9qzNPEvLE0vh+Nt1t2fhdUflE9uY7yn7/8BrsJ9Jw==",
+      "is_continuation": true,
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c968fb3f0b70744650430f8fa14115bd",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. Atmungsleitung Atmungsleitung nur in Sonderféllen notwendig, da Sicherheitsmembrane ein- gebaut. Anschluf3: G 1/41SO 228",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Atmungsleitung</td><td>Atmungsleitung nur in Sonderféllen notwendig, da Sicherheitsmembrane ein- gebaut. Anschluf3: G 1/41SO 228</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVttO40gQ/ZWSn3a1gC9xbohFgmVnxQMMInN5GEZWu7ts92K3re72ZBDi37faTkRCYhY0T3bcVadOV506yrdHD0usUNlECu8YvHgyTsVkNglCHk9GMU9Hczaax9MwGk35nKfeAXgVWiaYZRT/6LmXxNSt5rj+jQnXSI8OMJzGcRBM51F0FLjk7ryqhczkKwGNrjka8xwRzuPJfHQ0jeLxeOzCGtSVNEbWyiQrMt8ePQJ2NEajKIifvlOYRl5rkZQ1Z7bWHcOG2cLB+p8NauNryTnTghKN1cxK49888ILp6kbX/yK3xhetyk3S1NwXNW9ds8xhrdCPovE8DJKF5AXqAqU1LC2ZwR8UIcvkw+3i/EtycZ5cHDUi856eiE4mS1Sschy996Wvku1D0yWzpikl3Ynu76+OS6byluVoXCs8VLnnGtDQl0S1VYru9lH3RT/Pe8bCMAgmAlkYTNNRwLNgkom5yIIxn81YNxGLP23CTFLYqnQ5J5aI4umJLZAJemj3CrpemoapP++86M47vUallnQnVHBbFzrHpVQCQTFewOXiI0z98MS3RZfJ63Ij8+IaonF/5nfQek/QbQPhRoy/ppLW4mGVIk6v2M8jOEerJaZG6JbfU6CLEi/QUmkgPAggZRp+o3bA/Q37vY99piBOtya1MaoB1N1wlIrUVljSU9+Ji8tr0uosCneL/S1VTgPtedPwkBJ/jT4hGotluQI7gDNlGtqP4rXWRAFUHW7UoUJXKwjWX9fVQCo4SwuVy/yeLgwCNeC6ntMbLOqyXKK2GdLZLrmvqO+NrbMMu9ycmUzKghIF5X5CUv4AwX+wEKw1eAxnZVtJJdvqABaWFSVcn9/CxarfhNIqAVdYpZopVMe7FD5XOaZu1S1W5C7Mtnqg5mE4vmuDIA3+6vrxxzSA1e+9XU9ZW9IWDoB9cA0RdQVLxnI3DgulRCIsOnBiU7h3g+q+O90tcYXnTBlelCUZ4mCfIPTjkDYvimaQohSG5iRzkBWspbalss0Cl1XTlqav0WajgQpSWdQKftS6YN3Y3gJ9ZivX8pLI0HMAeTsIVKud3hY1VdGZ6zzOS/JVULVdUq9kfgCCwcb+VauxO00eAo2ZtfbI6b+/0DFsdmeDpL8yFL93PO9p5YbOBd/gcLDrQDBkIrBv4eH1nYU9W+PakfGtzYE9yoZnXdJSuCSR9QPuAUhIsDX2PgRejKIza3BuDHtdaM91h01wAOJ9FtTJIX6rEQHZR5+x30IG7aMzF/IBGDACeO9a9xLslPO/GwpvWLWXk9qzNPEvLE0vh+Nt1t2fhdUflE9uY7yn7/8BrsJ9Jw==",
+      "is_continuation": true,
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "33538b749825b6b14b1e8dd881facd92",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. FRSBV-Anwendung, Beispiel\n\nGW FRSBV @l £ ¢ ) @= — |2 / T _ 4 i SIE = = J KH GF SAV v VPS\n\nRegelstrecke\n\nKH\n\nKugelhahn\n\nGF\n\nGasfilter\n\nM\n\nManometer\n\nR\n\nSAV\n\nGW\n\nFRSBV\n\nGasdruck-Regler\n\nSicherheitsabsperrventil\n\nGasdruckwächter\n\nSicherheitsabblaseventil\n\nDMV\n\nVPS\n\nDoppelmagnetventil\n\nVentilprüfsystem\n\nFederauswahl\n\nDer Ansprechdruck resultiert aus der Kraft der eingebauten Einstellfeder und der Gewichtskraft der beweglichen Teile.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztm22P1DYQgP+Ktd8qwZ3fXyohcejgoKgVurseHyhajcfj3ZRsdpVkuSLKf6+zQHuHEJB+g0QrbbLO2J6xH83Y4+yLtwuqaUNNv6zS4me2cIBAMnCuQWofpNaIMWRIBrX2Wi3usMWGekjQQ5F/uxhult123yJ9/E1LbKlcDg0KpzXnLkh5xIfKh+ebbapy9QWBXbtF6rr/JETQNqgjJ7UxZhDbUbupuq7aNt3ygzIv3i5Kw4MaSkmu370sYi3htk3LeovQb9uDhjvo10Ozx7931HbHbYUIbSoVu76FvuqOn73BNbSbZ+32T8K+O077ZtUtd1s8TlvcD4PV3d02dCylCYIvLypcU7umqu8g1tDR6yJR1ctH5xcPrpanD5anR7uUF+/eFXVyVVMDm0HHxbjqHyr3b3aHyrDb1VWxqdh//OFxDc1qDyvqhqFYULNaDAOwKyXLZr+JNFgvByV6+qsf2jj0cPekuaZmMPEOe0BVt6uoHlr72NFl1de0KNU+JcXo6BwG65PKCQmN0lSmR4UkM9jMZ1J+HFLOnrNDJ+x+zf7Ycw7q/UWyn9j9e+VecqHZ35Ids0u2ZJpV7OLJQ3avfH5hTx+zs0fs4uSKvWZXzy5uwvVkU/r8HFxJAuQUg3MJkufofOBaZc0dR0MxznD9OHCd04rqYjThK/omz+OMIxNdFErnSDoJWfxQAutdToKCneH4vuE4lLQjnMFNmp4+vsnQb9AO4/WaLofHn2FJIUfJs9AqcquStdFycBlKcLMIMs8sTZmlffFMa1g3o5DKQipM5AwGyMKrVMwmY7QmrrURbkZqwkidPRrFUkCDipzlzpQtWBaQveYl4lkohdrqmaUpswRd0aEvLY1BKomofILioUwmqW1E5GAwpcwtSggzUhNG6tdRKEVDWqZgc7SlJReiSz5IISkpbq1IM0pTRgmabZn8kd5JekCZIWIIHlIa3JIOVoCzMXtQfkZqwkidj0KJR6+GjEAECFoaQVk6IC4xlCKt563dlFG6OLkaBRNaENzHaJUDH0hHlCXCZQCbcnBSzDBNGKaz56NYEhiRuI3KWG6EkapEOJMMF1YXoCLMLE2YpYNKo3Ai64yVysQoMxfknZbCJVHmxyhLYj6ynTJOZ9Cldo+v7p7Tqh65Fg/eiEzRJMhWSVRGQwjZJmWEiOTmc5Ypg3VL1a7MQPte11GEWRlRReBGOWtM0iUemhyx+K4IlOK8qpoyYR9d1/XwqgFpXI/NJQgyXnvQDqxIkrTkFAwQpMQJ+fwSwaTpuqXqDV3HZau0ABRSCWeil5HLCFoQoi2L+8DFfDwzZcJOfx23jgfJQZAQ2luKiFkLxb02KWqyZR5xhmnCMH3y4tzX81UEChTHGMqXsJorb6XXZZfohjPlOfk5ZZhOt7sd1RtYNdT/n6gXEElmmbwXuXTpSXoHABE5T9bNZzRTZuvqoNmuHRbtGXP3putpMwovDagV+pB9BosBo/BGlOBonC77RDO7ru8cr1vZTkrUwr67hvW3/esgOa/KmqgsiJw3UVkhgHQaUOOUsppzUt85HJ/6nq86g1txjVp20nS7MqjrQ+qAtdTt676itmeFMlZgY09byP3hjqpmRRH2PTXsYdUUR1XXeQCS7Zt0kDij62J93736t06ka1rVw5A07JKKwUdf8G0v/wEYCQ4d",
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "c105afb2c55f116578f1657cab0fcdca",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. Serienmäßig ist das Sicherheits- abblaseventil mit der gelben Feder ausgestattet. Durch den Wechsel der Sollwertfeder ist es möglich, weitere Ansprechdrücke einzustellen.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJyVUstu2zAQ/BVC58R621ZvDYwci6Du45AGwopcSUwoUuBSSVPD/96l4CA5FehFFLkzy5lZ3p8SNDihDa1WySeRdCU0oGDf1Ntcllm2K6p8V5UNFFCrLs+TK5FMGBgSgPGnJP605BYv8W2PrfTIy9qQ2RW3aYpik0XyWp+c0r3+B2D2TiLROyJvqm1TblhOXdcRNqOfNJF2ltqLmPtTwo2jjLIssur8wDCP0nnVGichOL8qnCGMsW36ndBT6rWU4BUTKXgImtK7VzmCn+68e0QZKFWLHaidnUyVk0sMi66dxbQo6ibP2qOWI/oRdSDoDBA+M0Kb9vbr8eZHe7hpD5tZ9cn5zHJ6bdDCFDUm/0e/kMPrvJJhno1mT+w/vZQN2GGBASlGkaAdkhjAzCetXaYOo/tiPfHv865AVqXcN/2+h61sZJfv6xyKrN5VdbmrWTYzAv4OEXxEr9FOv5Yswyp+Va8HoSkIBSQ+GLkW0H3wIibNEPRiQNOhFbcYN7AQiw0QAoaNOPALGhlkxU+UI6FZCUdnzAv60K+MeBOSWAX024EDGK/EC1+IHsVnSzNPe1R+LUv5hAK1/bNQQMOpb2JGb/F9AR9n/YzforXzw1/7zf7d",
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "3ad3af4f291d74f7d77d1d2408af0d3e",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. Sollwertfeder- 20 … 100 bereich [mbar] Federfarbe Feder blau Bestell-Nr. 226 381 70 … 350 300 … 1000 Feder gelb Standard 226 382 Feder grau 226 383",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Sollwertfeder- bereich [mbar]</td><td>20 100</td><td>70 350</td><td>300 ... 1000</td></tr><tr><td>Federfarbe</td><td>Feder blau</td><td>Feder gelb</td><td>Feder grau</td></tr><tr><td>Bestell-Nr.</td><td>226 381</td><td>Standard 226 382</td><td>226 383</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVUsGO2yAU/BXEubExtuO4inKIVnusVk3byzZCGJ5jV9hYgNtGUf694HXiVQ4r9QQ85s2bGXi9YFDQQe9YK/FnhGVRZmXNsyLb1NW6zCoQXMh6Q9eU1FJW+BPCHTguueMef8Fhw6wejYDbGZgw4JeJMCmyjJCipDQioXm677Rs6/YDwGC0AGsXRFJm6zKNCprleR5gA5iutbbVvWWzmNcL9sRBRppSkl2PHmZAaCOZ0oI7bSaFA3dNoI2/WzA2Nq0Q3EjfaJ3hrrXxy1k03HQvRv8C4Wwsx/5k2aBFLLUYQ1h2pXuIKc3LhLBDKxowDbTO8kpxC789olXs+eth/4M97dlTNMgaX69eTt0q6HkXNOL/a5+b3XmYmvkwqNZ78v7j+Vrx/jTyE9gQBYb+hEMAg6+wfuwqCO7pVDHLe2dcZKnYlPWm5mtRiirZ5AmnJC+yPC3yidjBX8e4ZY3rVOjZOi8UdlvXAJd+MWG7O2il/oBxNUgwK+TngXeGXruKm+M29oiAogQlhNyPBUFpvhxTQlAURQEyF+PAHt8mVVqe54Fy9xwG1dxU4AFyKSGf4vhQOoGqHkvmhppmzKR7/wtAqdUXE93xlK5Ruknu54PjvfRfBr1d0Adg+o41niXHb5Hh6xxniPEhMJ/Mz5EST+HdP8SHFq9o8YjeiZ21JKi40/hgUQh0YSVoSQM9ukBLLHMpnR5//nDfggF8Pf4DaURRHg==",
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "28d47874a5899b76ce83bf30be1dae6f",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. Kondensat aus Leitungen darf nicht in das Sicherheits- abblaseventil geleitet werden. Das Sicherheitsabblaseventil ist durch einen geeigneten Schmutz- fänger vor Verunreinigung zu schützen.\n\nDer Einbauraum der Einstellfeder darf nicht mit Brenngas oder Brenngas-Luftgemischen beauf- schlagt werden.\n\n2 … 4\n\n3 … 4",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztVE1P3DAQ/StWzt1dJ3a+ekS0lyKESssFUDSxJ1lXiRPZDi0g/nvHC5SlqlpxROUUj/1m/N74Tc5vExxwRBsao5P3LGlTWfNUSuQKS1FDlgmosKp1C5J3tUresWTEABoCEP42iYvGT4tT+BhjoxzSZ1cwLaXkvKyzbM1j8u58nLTpzF8As5sUev+ESGtZ1GJdZjLP8wib0Y3GezNZ3zyQOb9NqHCkIUTG5d0lwRyqyelmmBSEye0YzhC2sezmq0fnN84oBU5Tog8OgvGbk2u1BTeeuOkbquA3erG9b+ZJbfSkltgsv5osbrIsr1PenBq1RbdFEzy0A3i8IoQZmo+fTw/OmsOD5nA96y65uyM6nRnQwhg5Ji9Lf0gO1/MuGeZ5MKSJ9G8ejgew/QI9+tiKBG2fxAbMtNPYZWwxqs92O+7pvSUoKVRVd1UHhapVm1Z5ChnPS5mLMifalBHwR4jgT5PVaD0EBotnR0SZOoOWaXAds6QjMBMjz/ZErRi0e7pYT4YzAQP7jo6qrdnhc/xztPGBaTLXlqGxdFWPaHqLgZanajsu4WbFuouFc5RExbGrybEzdIt1hDc98WM3C/NqGzGdCjd0Y2zWYx+PwcVHv8IvUSOJ/X0g8kIAQp5SbyooyjLluky11KJtBc+5fhuI/3ggDslxH4xtYXGwjEzfhz7gMHQYo73JGE1gB3SR7cnvUzx8jFZHSxd6pNcj4Za1CEu3ip4doP81Ji8yra7KWne8zHSlsK1bVEoWWlRZSv4t9Ntf/JWbdt+DGbtYMp4VTO5b5IQSju/xf/JHWvFcl7wsZCpKKTIUJUBad4WuaqzzN3+8an+IfX+If/rj8idhrj7Z",
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d44624391c2adc7bbde1a755b5a6d040",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. EinbaumaBe Druckabgriffe T 1 Atmungsstopfen, G 1/41S0 228 2 VerschluBschraube G 1/41S0 228 o im Eingangsbereich beidseitig @ 4 Typ Best.-Nr. P__ Rp/DN max, EinbaumaBe [mm] Gewicht [bar] [kl a b c d e f 9 FRSBV 1010 226 284 1,0 Rp 1 110 145 33 190 G1/4 G1/4 310 1,20\n\nSchnittbild FRSBV 1010 Sicherheitsabblaseventil in Geschlossenstellung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztU0Fu2zAQ/MpCZ8cSKcmye2oNt0EvQRCnuRiGQFFLmY0oCiSVJgj89y6dBHV6KNBr0QslkbPDmdHu7jnBHg0OodZt8gGS5YJXlcj5EpVYctW0xUJV2CjW5KVS7TKZQWIwiFYEQfjnJL7U3k5O4ts31tIhPU6ErCqKLKtWnM+zWHw6N7bVSv8BMDor0ftfCLYqFqt8XvGiLMsIG9EZ7b22g69fxeyeEyKOMvKcZ8VxTzCH0rq27q0UwbqTwlGEQ6RNv3l0PnVaSuFaKvTBiaB9ev0kD8KZa2e/oww+baeh8/VoZdpaOcWw/IUdMOW8XLGs3mp5QHdAHbxoeuHxgRC6r7/cbNd39WZdb+Zjq5LjkeQo3eMgTNSY/F35a3F4Gk/FYhx7TZ7If/p63Iuhm0SHPkaR4NAlMYCRduphMg1G93kUEfAxRI7PemjEZMQaYeMmeS+azmmlEG6Bwadgom0f7KhwmMElsLRg2ww4XwKHO4pOHvppTasTU4PvARa0AeLvSJOnq5FMQoO69eRTd/ARCrh9GmFNoc8vrtwcrusabsZ0cwVGPM7gTNvOmD1c4g+iCLBrhNvD7r4HAQ1IaAFBwQpOaQHLWLx/AXxZAJtlxEhWGG2yoqSuALbK4JJ0vix5PJjxU9u9BfvVUGAJxfT7ZKhC8iJfiVyUKqsU8kosKlaJjGe5xLz8Pxn/zmRs5WHQITS6b887652gM0WgB2rQOA+W/szgA/Y9JXPeVlfCxQgf8DZecdz/BIMTvNI=",
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "58dbae1f60a83681706f2e10c85de5f1",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. Gehause 12 Spindel Dichtring 11 Regelteller = ) ) Zwischenscheibe Arbeitsmembrane 10 13 Sicherheitsmembrane Membranteller O©CONOOWN = Sollwertfeder 10 Deckel 11 Verstelleinrichtung 12 Schutzkappe 13 Atmungsstopfen n o> |\n\nSicherheitsabblaseventil FRSBV\n\nDUNGS Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztVG1v0zAQ/itWviHBEuelSZBA2lYx8YF2WtmQGFPk2JfWzLEj29kLpf+dc+mgoAmJj6ApUnLJ3T333ONHuVxHoKAH7RspopckStMiq3Noy6wsJzSdiKptq7qrgHE6Kbs2ek6iHjwTzDOsX0chaJwZLYeHd2i4BXxsAWmZ50lS1ml6kITmbb43QnbyDwWDNRyc+1lB63xSZwdlmhdFEcoGsL10Thrtmh2Zy3WEwIFGlqVJvrnCMgvcWNEow5k3dstwYH4VYONzB9bFVnLOrMBG5y3z0sWn93zFbH9qzWfg3sVi1EvXDIbHwvAxiOVeGA0xalXTpFlIvgK7AukdaxVzcIMVUjVvzhZHF830qJkeDKKLNhuk00kFmvWwk/ov2nfN/n7YNrNhUBJ3wv3jXVoxvRzZElyQIgK9jIIAA35p9Ni3ELbPAgkPdz5gnMCKjQ4ITclikFqAIlMk463US0IpOYMlKA9KgSWvyDO8Pt5Kh2x1uMkWyKFtA+8e+tYyjUgJoRnZ2+hH5t33YIc2/zQmCauP57P5/MMMwRdGqVuwvgOBaYSZAr9GPsjiAg9p2ya1DezGQA4Z89Xov1yjDhBmHvo+nJLzZuhAE03Ma/I1qPIg2NsehYhw/d8dz3mVdElKRZpDKXLeZUXOJsCBovMrJp4c/087Pt93/C+T90aT7eh9u8yYDdLcwPvQ+ohtoCwSzoNfKs6Tts6A10VRUZ7RsuZ5/WSb/8c20/PZyYIcm74dXQDCUHtrlHvkB3P1DcQJYc8=",
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "089ad8803b01a75eff6e5ec6d34fedd0",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. Durchfluß-Diagramm, mechanisch offen  1     p  R  100  90  80  70  60  50  40  30  20  10  9  8  7  ]  r  6  a  b  m  5  4  [     p  3  ∆  Basis   + 15 °C, 1013 mbar, trocken  2  Based on  + 15 °C, 1013 mbar, dry  Base    + 15 °C, 1013 mbar, sec  Base   + 15 °C, 1013 mbar, secco  1,0  1  2  4  6  8 10  20  40  60 80 100  200  400  600 800 1000  2000  4000  Vn [m3/h] Luft / Air / Aria dv = 1,00  1  2  4  6  8 10  20  40  60 80 100  200  400  600 800 1000  2000  4000  Vn [m3/h] Erdgas/Natural gas/Gaz",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJy1k99v0zAQx/+VU17pFsf50RaJB0YBISE0MbGXroquzqUxxHFkOxNj6v/OOe3grRIPRDrHPn/u/L2Ls31OqCdDQ6h1k7yGpKhUJVpZlkKWakVIqlxVAjO1WotM4TJZQGIoYIMBmX9O4qT2dnKKXtZUK0f8mhNmy6IQYrmW8lrE4Hnf2Ea3+gIwOqvI+79Eti6qdX69lEVZlhEbyRntvbaDr89its8JJ44y8lyK4rhjzJGyrql7qzBYNyscMXQxbfrNk/Op00qhazjQB4dB+/T2SXXozK2z30kFnzbTcPD1aFXaWDXFZvkrO1AqZbnORH2nVUeuIx087nv09MiE7usPX+9u7uvNTb25Hps2OR5ZTqt7GtBEjcm/hZ+Dw9M4B+M49ppr4vrT83aPw2HCA/nYioSGQxIbMLKnHiazp1h9EUUE+hlijg1/tK7tp4dJiKa92mg8ODRmAYa4AYP2qgPbtjQAZBCfEeArz4UAWLOt2JZsFVvJVrDlbFJEiBlGmADYATjGABBgD2AYZxpg+5I1B3iYpBSM3KDXnr2vICshKtuLdwtOl+Vg9ugWEPhq/Iia5AxTA3a4gDfu6cTBpaSe1B/qEqQsl7YQc0PkXEMVi8zOVRenbnBj5iZJMftmZ/TO7pP/tMHj/QBbk6fdDj5PbYAU3moXR6cRmkd4E4/7P+e9d80BffoFw+Swhzj/iL9gXlPPcw/xTx/sSYdYVCXEe/ZyBT8ZvlrJcfcbs/kssg==",
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f226d6e55eb5df174e4c8da4ef070854",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. 000  Vn [m3/h] Luft / Air / Aria dv = 1,00  1  2  4  6  8 10  20  40  60 80 100  200  400  600 800 1000  2000  4000  Vn [m3/h] Erdgas/Natural gas/Gaz Naturel/Gas metano dv = 0,65 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJy1k99v0zAQx/+VU17pFsf50RaJB0YBISE0MbGXroquzqUxxHFkOxNj6v/OOe3grRIPRDrHPn/u/L2Ls31OqCdDQ6h1k7yGpKhUJVpZlkKWakVIqlxVAjO1WotM4TJZQGIoYIMBmX9O4qT2dnKKXtZUK0f8mhNmy6IQYrmW8lrE4Hnf2Ea3+gIwOqvI+79Eti6qdX69lEVZlhEbyRntvbaDr89its8JJ44y8lyK4rhjzJGyrql7qzBYNyscMXQxbfrNk/Op00qhazjQB4dB+/T2SXXozK2z30kFnzbTcPD1aFXaWDXFZvkrO1AqZbnORH2nVUeuIx087nv09MiE7usPX+9u7uvNTb25Hps2OR5ZTqt7GtBEjcm/hZ+Dw9M4B+M49ppr4vrT83aPw2HCA/nYioSGQxIbMLKnHiazp1h9EUUE+hlijg1/tK7tp4dJiKa92mg8ODRmAYa4AYP2qgPbtjQAZBCfEeArz4UAWLOt2JZsFVvJVrDlbFJEiBlGmADYATjGABBgD2AYZxpg+5I1B3iYpBSM3KDXnr2vICshKtuLdwtOl+Vg9ugWEPhq/Iia5AxTA3a4gDfu6cTBpaSe1B/qEqQsl7YQc0PkXEMVi8zOVRenbnBj5iZJMftmZ/TO7pP/tMHj/QBbk6fdDj5PbYAU3moXR6cRmkd4E4/7P+e9d80BffoFw+Swhzj/iL9gXlPPcw/xTx/sSYdYVCXEe/ZyBT8ZvlrJcfcbs/kssg==",
+      "is_continuation": true,
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "906da7c1bf818b5d8ea46d18e155a524",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. o verwendetes Gas/gas used/ gaz utilisé/gas utilizato Lufvairairaria Gasart Type of gas Type de gaz Tipo di gas Dichte Density Densité Densita [kg/m?] dv Dichte Luft Spec. weight air poids spécifique de I'air peso specifico aria Erdgas/nat.Gas/ Gaz naturel/Gas metano 0.81 0.65 1.24",
+    "metadata": {
+      "text_as_html": "<table><tr><td>o verwendetes Gas/gas</td><td>used/ gaz utilisé/gas utilizato Lufvairairaria</td><td>Gasart Type of gas Type de gaz Tipo di gas</td><td>Dichte Density Densité Densita [kg/m?]</td><td>dv</td><td/></tr><tr><td/><td>Dichte Luft Spec. weight air poids spécifique de I'air peso specifico aria</td><td>Erdgas/nat.Gas/ Gaz naturel/Gas metano</td><td>0.81</td><td>0.65</td><td>1.24</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytVd9v2zYQ/lcOeunLZkqyZMdDkqFdmqJAH4Ily0sSCIx4krnJokpSTpPA//vuJNlWWidDgQG2xftB3n3H75NvngOscIW1z7QKfoMgmsWYRJioeJFE84VKZaTSdJ7O0mKhojQNfoFghV4q6SXlPwe8yJxpbY5bG7PcIj36A+dJEobzRRxPQt7cxVdG6UK/kdBYk6Nz+4xokcwW08k8TtK+iQbtSjunTe2yoZmb54AO5jam0zhMNneUZjE3VmWVyaU3tuuwkX7Jx4q/HFonrM5zaRVtdN5Kr524eMyX0q4urPkbc++EauvSZY3JhTJ5y8Nyv5oaRRyniyjMLnW+RLtE7Z28r6TDNWXoKjv/8/LDdXb2ITubNKoINhtqp9AV1nLFPQY/t33Y7B+bbrNsmkoTJsIvhnAl67KVJToeRYB1GfAAGvJkdbu6R0afkMfjN59Jly39quKjjj3VxdNjv0Sp6GF5eWpgjfYBa4UeHXySTpTSHQuKcLSlqxFQyidoqVftbtswxAWn9I4nmjZ8aYu11JY/VsvdXjpLWg9XhARMAbynWyvsDrzSjQGlYVzujGbkEc6wdto/Ds++5mBIuPmnFKvf73Z71Hq37BeCkYktynujHgewit3sU2DNg2tkfXIbxLfBtizh8HDZYD6BB9Tl0gNBgsZo5cA1fRs58flr24H4/K4LozMURQ7kBoYJdFVOP1pF6EQt/YQHS9N9AjJai5UgB7DAarNLDydH0ciYpTsjmsRJb3TgejQjEFMCUZzs0i9Jt54r/8FTLLelqee1rirsaufaezmqlh6NjGQ+Kp3M3io9mh8pa0SmmslEnhcDHXjAtHptsO0PdPt+xgor2DOQKbjr9rxq6V1RMuQvF5962BWdq1WPul/v8+lddDSCOpuPhjCf/4D7lCki3msrgH/ejy97f0edEYYHjIGaPSdFr8dgM2iVNcqA70MYHtcHpAn/KclOkydw3fFZEEf7L/UK36CAQZbDnY3VuZXdWKUvJKjWY9WOY2Evy+kdfM95JjUwmWGsssNK+AnxVZ34DhCdmQzM4EPKPCyDAUFBQ3uTyecVZxb5C4Yxg4CZ8zrRXyHh/ykA2BOTeQhMuR1FCdngTGbAvO7C/Fey/Ze5YiYGm7t/AaFIr4I=",
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f5ba0d06b012dc27399532ab57c98aee",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. f= Stadtgas/City gas/ Gaz de ville/Gas citta 0.58 0.47 1.46 Dichte des verwendeten Gases Spec. weight of gas used poids spécifique du gaz utilisé peso specifico del gas utilizzato Flussiggas/LPG/ Gaz liquide/Gas liquido 2.08 1.67 0.77 Luft/Air/ Air/Aria 1.24 1.00 1.00",
+    "metadata": {
+      "text_as_html": "<table><tr><td>f=</td><td>Stadtgas/City gas/ Gaz de ville/Gas citta</td><td>0.58</td><td>0.47</td><td>1.46</td></tr><tr><td>Dichte des verwendeten Gases Spec. weight of gas used poids spécifique du gaz utilisé peso specifico del gas utilizzato</td><td>Flussiggas/LPG/ Gaz liquide/Gas liquido</td><td>2.08</td><td>1.67</td><td>0.77</td></tr><tr><td>Luft/Air/ Air/Aria</td><td>1.24</td><td>1.00</td><td>1.00</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytVd9v2zYQ/lcOeunLZkqyZMdDkqFdmqJAH4Ily0sSCIx4krnJokpSTpPA//vuJNlWWidDgQG2xftB3n3H75NvngOscIW1z7QKfoMgmsWYRJioeJFE84VKZaTSdJ7O0mKhojQNfoFghV4q6SXlPwe8yJxpbY5bG7PcIj36A+dJEobzRRxPQt7cxVdG6UK/kdBYk6Nz+4xokcwW08k8TtK+iQbtSjunTe2yoZmb54AO5jam0zhMNneUZjE3VmWVyaU3tuuwkX7Jx4q/HFonrM5zaRVtdN5Kr524eMyX0q4urPkbc++EauvSZY3JhTJ5y8Nyv5oaRRyniyjMLnW+RLtE7Z28r6TDNWXoKjv/8/LDdXb2ITubNKoINhtqp9AV1nLFPQY/t33Y7B+bbrNsmkoTJsIvhnAl67KVJToeRYB1GfAAGvJkdbu6R0afkMfjN59Jly39quKjjj3VxdNjv0Sp6GF5eWpgjfYBa4UeHXySTpTSHQuKcLSlqxFQyidoqVftbtswxAWn9I4nmjZ8aYu11JY/VsvdXjpLWg9XhARMAbynWyvsDrzSjQGlYVzujGbkEc6wdto/Ds++5mBIuPmnFKvf73Z71Hq37BeCkYktynujHgewit3sU2DNg2tkfXIbxLfBtizh8HDZYD6BB9Tl0gNBgsZo5cA1fRs58flr24H4/K4LozMURQ7kBoYJdFVOP1pF6EQt/YQHS9N9AjJai5UgB7DAarNLDydH0ciYpTsjmsRJb3TgejQjEFMCUZzs0i9Jt54r/8FTLLelqee1rirsaufaezmqlh6NjGQ+Kp3M3io9mh8pa0SmmslEnhcDHXjAtHptsO0PdPt+xgor2DOQKbjr9rxq6V1RMuQvF5962BWdq1WPul/v8+lddDSCOpuPhjCf/4D7lCki3msrgH/ejy97f0edEYYHjIGaPSdFr8dgM2iVNcqA70MYHtcHpAn/KclOkydw3fFZEEf7L/UK36CAQZbDnY3VuZXdWKUvJKjWY9WOY2Evy+kdfM95JjUwmWGsssNK+AnxVZ34DhCdmQzM4EPKPCyDAUFBQ3uTyecVZxb5C4Yxg4CZ8zrRXyHh/ykA2BOTeQhMuR1FCdngTGbAvO7C/Fey/Ze5YiYGm7t/AaFIr4I=",
+      "is_continuation": true,
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1e24912de94b5763f4ad6329588f19fb",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. Änderungen, die dem technischen Fortschritt dienen, vorbehalten.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJyVUMtOwzAQ/JXIZ2gSx2kJR4Q4IsTrAshy7E1jlNjWrlOBqv47dinihsTJj52ZnZmXPYMJZnBRWsMuC1YDF13NDXSibzfrZhDKrBvetRcXQ90NPTsr2AxRGRVVwu9ZvkjyC2r4eYPUCOn4FtwIUVWbjvNVlcnH+eyNHewfgIBeA9Evou7EumtWGy7ats2wADhbIusdyZOZlz1LwtlG0/BKHN4SDEF7NHLyWkWPR4dBxTHLlk8ESCVarRWaRKSIKloq7z71qHC+Q/8OOlJpFrclGbwujddLLovOvYOS87arK/lg9Qg4go2k+kkR7BLCTvLm/uHqWV5fyetVMAM7HJKdwU7g1Jw9sv/RT+T4GY5kFcJkU6aUvzyNJ+W2i9oC5SoYuC3LBYT0I90y95DTi2wiwkfMGq9LVWnhDGAKCO6sMBYKA3MRQY/OUvLlihuPMd3QxpjnLuN2HnsY1RTBrfLmH1O3CnODO3jMGw5vXzR2xbo=",
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c50f2ea6b8bfecf33f18d4b3ff715239",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. Hausadresse Briefadresse Karl Dungs GmbH & Co. KG Karl Dungs GmbH & Co. KG Siemensstraße 6-10 Postfach 12 29 D-73660 Urbach, Germany D-73602 Schorndorf, Germany Telefon +49 (0)7181-804-0 e-mail info@dungs.com Telefax +49 (0)7181-804-166 Internet www.dungs.com",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Hausadresse</td><td>Briefadresse</td></tr><tr><td>Karl Dungs GmbH &amp; Co. KG</td><td>Karl Dungs GmbH &amp; Co. KG</td></tr><tr><td>SiemensstraBe 6-10</td><td>Postfach 12 29</td></tr><tr><td>D-73660 Urbach, Germany</td><td>D-73602 Schorndorf, Germany</td></tr><tr><td>Telefon +49 (0)7181-804-0</td><td>e-mail info@dungs.com</td></tr><tr><td>Telefax +49 (0)7181-804-166</td><td>Internet www.dungs.com</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVU11P2zAU/SuWH6ZNWxvno2mzITR11WDiBa2wF4Yix75uPCV2ZDuDCvW/zw6llEGZ9hAlvveck+tz7Ks7DA20oFwpOf6IMJsQkQDNq1klgIk0FfGMZ1UqxDSeJGmBPyDcgqOcOurxdzh8lFb3hsHDGkpmwL8GwXiaZYRMiyQZk0Ae+q3mUshXAJ3RDKx9RMRFlhfpeJpkk8kkwDowrbRWamXL7TBXd9gLhzHSNCHZ5trDDDBteNloRp02w4QddXWQjS4tGBsZyRg13BOtM9RJG52vWU1Ne270L2DORrxXK1t2mkVcsz6YZUdaQZQkkyIm5VKyGkwN0llaNdTCb4+QTfn1+3L+o1zMy8W44wJvNn4cIRtQtA0z4v+jb8lu3Q1k2nWN9Hvy+4+27YaqVU9XYIMVGNQKBwM6XylV31YQdp/5ioNbV1Jb1q5tgtSR8/+F4yNXab72L+MffnxKe0u5CSEcRX4danMjQTwpRgP6nnFGTYMWwSt00lan6A1tu0/oix6js5OdxL9B+5JLGc6mDcHMAeWjmOyEzrV1grIaxQlKiufUxWia5jlBl6byqA/oxJ8XqtY7/tAnCVqyWhvFtRF/YfbFLvwlEVqh91mB3pJ303gWj2YkGz2OA6OWygZJJfTn4byMmW4PCNHbZ0Jxnu+kvikHRoFDNzc345e0om1S0X1weLMNNYS5Fxvajws9M35r+uHGnvk/e0K4uE8APXUeHTAavWIwOugnetFH9Ipt6GW7woV4uCsXwSa8uf4Dn0aRng==",
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "36ce341359636851f36c27bd8f46a165",
+    "text": "Dieser Text ist für Produt: Sicherheitsablaseventil_FRSBV. Produkt ID: 225910. Der Dokumentyp is Datenblatt. 4 … 4",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.724555",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "225910_Sicherheitsablaseventil_FRSBV_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJyVkEFPwzAMhf/KlDOsbZq2lOM0cUQTE1zGFGWJ2wa1TRSniGnqfycpm7ghcYpjv/f02YcLgR4GGD3XijyuSF5KyFmWF3WZlw9F1oQGrU7qoWGlyMqC3K3IAF4o4UXQX0gsOJrJSbj9gUsH4VkCs4qxNK1qStdpNC/zwSjd6D8E1hkJiL+KrGZlna8ryopigbDgBo2ozYj8CnO4kBAcMfKcpmw+BpkDaZzivZHCG7cQWuG7GJu8IjhMnJZSOBWM6J3wGpPdWXbCDTtnPkB6TNQ0tsitkYkycorHwnszQkJpUWcp32vZgetAexSnXiB8BoXu+dPLfvPGtxu+XVvVkHkOOI3uYRRDZCT/s1/N/mwXs7C212GnsH9yHfdibCfRAsZTEBhbEg9gQ4eP03CCuD2LEB6+fMxgq/eJprRcsWi/Je+C4flHPx+/AdvOrLk=",
+      "product_id": "225910",
+      "product_name": "Sicherheitsablaseventil_FRSBV",
+      "document_type": "Datenblatt",
+      "product_category": "Sicherheitsablaseventil"
+    }
+  }
+]

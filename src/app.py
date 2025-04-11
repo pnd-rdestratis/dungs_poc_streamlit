@@ -42,11 +42,11 @@ INDEXES = {
     "Basic Chunking 500 Tokens": "dungs-poc-basic-chunking",
     "Basic Chunking 1000 Tokens": "dungs-poc-basic-chunking-1000",
     "Basic Chunking 500 Tokens Enriched": "dungs-poc-basic-chunking-500-enriched",
-    "Basic Chunking All Documents": "dungs-poc-basic-chunking-all-documents"
+    "dungs-all-docs": "dungs-all-docs"
 }
 
 # Set fixed index to use
-SELECTED_INDEX = "Basic Chunking All Documents"
+SELECTED_INDEX = "dungs-all-docs"
 
 
 def load_product_index():

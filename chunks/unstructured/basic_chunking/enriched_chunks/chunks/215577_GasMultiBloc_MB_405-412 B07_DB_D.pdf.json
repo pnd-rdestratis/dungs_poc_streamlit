@@ -1,0 +1,915 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "abb28268813cd0b9bac4875d98c47478",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. GasMultiBloc®\n\nRegel- und Sicherheits- kombination einstufige Betriebsweise integriertes Bypassventil\n\nMB-D(LE) 407 - 412 B07\n\n7.22\n\nDUNGS Combustion Controls\n\n7 7 5 5 1 2 . r N • 6 1 . 4 0 n o i t i d E • y n a m r e G n i d e t n i r P\n\n@\n\ng Z 74 | >\n\nTechnik\n\nDer DUNGS GasMultiBloc® ist die Integra- tion von Filter, Regler, Ventilen und Druck- wächtern in einer Kompaktarmatur.\n\n- Schmutzfangeinrichtung: Feinsieb\n\n- Ein Regler, zwei Hauptventile und ein Bypassventil: B07",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmN1v2zYQwP8Vwk8bUNskJZFSHobBTZoVW4KgSfewthD4cbS56AsUlSzN8r/vpCRYugZr/ZjENgRR5PF4PP1wPN2H6xlUUEMTS29ne2RmXZ6ovMityHIQKZecpjTLC5vic+by2SsyqyEqq6JC+evZ2Cj7dggG7p+hNAHwNilkMk0plQUXCzpOnsbr1nrn/0egC62Bvv9XghWpKJKFFLRIkmKU6yDUvu992/TlnTUfrmeoebQjSdDum08oFsC0wZZVa1Rsw2Rip+Jm1Lt830Pol8Ebo4LFiX0MKvp+eXJlNirUJ6H9E0zsl3Zo1n3ZtWZpWzOM3urnbQNLzrJMyvJQ9UdDFf0KFymPViU6bJ4yTlZUlvurcn/RWTe7uUFjnK+gUfVo4WybyXdT41U3TVVdV3ncD+59eTdcqWY9qDX0oxtm0Kxn4+Y77CmbodYw7pyNJkT4K446Hq77caBUwajmfoVjFUZXXMDZKI7zvuLEcOasgzznqtCGWW4A2aGca6GZFjtOngkn72AN1ZwMjSWn3mwgbMDjtsh5W2vfTLoJ+KaPg/NrICuIwYPuL8H3QHwTYY3PIUJPVled6vsL9IqvHrJ25mMFjzGmuLLMuCRLNLWUcuVEYbhD2nLp0nwXi54yY1NP2CKgPITyaDXf/+G3gx9JSiWZkzsbtwpgOTOC80JzrZTVWcFoJlhmJLeaG6WTHVwvFS654HwrlLgSeH4KmRuBwcpKpxlXTIjUaORLFTuUnjBKD8nYf398eEpe48k39NPB97ptYmir/iEub2tU8BgmkhZ5niY6yXMBSZprgNwqAZQLmlOtd5g8E0wkkSTDPyOcLEggx+TjwDHWEIFdC5ISShrSEk8iXpYc3A9fYbciNc4AcojtcRBQaGwFcrJVTEqcYjLLTCEymXH8pdw6SrVi1Cjm2A62ZwLbzw+xOEG541uxR5gwOil0oYRFNNIkBZcXhYWscAZb0u6YeC5MrMkfRKbkb/LT9x1MwHhqrMswN8qcRvcqY0QuC8yTFGi64+KZcHEGZtP48+/6+KZJYaniaSGp1K7gNOFgnKAp5i4JsHQHxROG4r/fR9+MAF9kwRDIbSb8dQ2R+D4S64G8nSo/ak6mPPkCrze+ihBekXewrsb771MhCJqptLQfBnM+J5ejFkjNBiUx65kqS7jar23dqfOIb0LFISy2SoQkcMOogEIK7gRAKmwmcL/GKpMw5nYcv1SO5+TUbOohfna4FIKGbttEdMweeTMWND3orUAzOSbW1mKSlTuhrZWUCS4T4TBcKmXNDrSXC9oBhrL7uPf5Ejz5RQ1dvC2FwxQAkbgvCuR73yhofvoHqwOg4Q==",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "0113c00bac66d7609508bde030568b9f",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. - Zwei Ventile schnell öffnend und ein Ventil langsam öffnend\n\n- Magnetventile bis 360 mbar (36 kPa) nach DIN EN 161 Klasse A Gruppe 2\n\n- Feinfühlige Einstellung des Ausgangs- druckes durch Proportionalregler nach DIN EN 88 Klasse A Gruppe 2\n\n- Hohe Durchflußwerte bei geringem Druckgefälle\n\n- Gleichspannungs-Magnetantrieb Stör- grad N\n\n- Hauptmengendrossel an Ventil V2\n\n- Hydraulische Öffnungsverzögerung\n\n- Flanschverbindungen mit Rohrgewinden nach ISO 7/1",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztl91v3DYMwP8VwU8bsMtJ/pCsvTVImxZDsmDd+rC2MCiJ8nn1FyQ7WRbkfx91SVe0DwUOe7x7MM5HkxJJ/UCK7x8y7HHAcWk6l/3MsiqvpIS8MLo0qhQceK50Ba52Bbhcmewnlg24gIMFSP8hSy9NnNZg8fN/bGxA+tkvKFRZcq50Ls94Mt5/HybX+e47CnOYLMb4RUPoUuriTEmui0InvRnD0MXYTWNsnr15/5DRysmPosh5+fiR1ALaKbimnywsU9i7OMOyS+tu/4gY4jZ01kJwZBiXAEsXtzf3dgdhuAnTX2iXuHXr2MZmnuzWTXZN2YqbacRtLqpKqeYS4tXaL905bdJcnTclrzalyNk5V83FeXNxNjufPT6SM77rcYQheZgdYvxsutzPe1OY576jeCj27fPnHsZ2hRZjSkOGY5ul4GeSNOM6GEyRi70kfDlshSIvrfMVaFN5QzkDa2WttHA5oOFZ8nnBv5ekvGF/3mHH3pE5ucKi3Y3Y9+zDyrmX3o84OrbSg934rMSSUxGGr3SSs5/juIaQEn6Lv6c9aLNvaXRQaeVzgwqc5M6KOnfeaOO4llVd4InG46XxCtoRl9tnHE0XWSE5GwwE9kMh2acb+JGNYHfs4s01e3nNhBTslx7oGNkLdhnWeUaWH0SjNa7gqtRW5ZKbuipLLMHkZcGlFtLpE43HS+MrKnt+X+fsru9aZC+7MS5UICk9jLLHXqyxTeVww1xY7SeSOOJixyiR8xSSu9AHbHsMX1Fb1/8T2loQF7ysQVeVKHIoqIbW2su8rmvq7fYE7fFC+3raIbtIGPp+TfA6f4dhoWpKjb7F0I0tDuwi8drinm4s+x4PK5pKWCMIPuAIuTVKG8Nz7qRQYJWtT/wdL3+XPXZ2F2cYx5SQzVNLh3EJHRr2dnm6N4YNawM4dn0QdwgVN8oL7+sStStB0kDjvaKrpBC+rk7cHS93r2GdF4q+pXkkTHQ6PYP/hpZ3h/VXaq5KytwJmpxLlEXFC50rqFyNlaqL06XwmDm7dwHWvqNZGfdDsEtDcMrNLYZ/nqobtVkSHIRcgdZZA6YW6DXWhcWqdFLxEgtdmwJOyB0vcq9oE8KN+DLdmHKCIxu6hf027UKLdyQjwX7AePP2V6a24jvkffwXh7ZJZw==",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e09ef07b245129e2c51f270ebfd9a55d",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. - Einfache Montage, geringe Abmes- sungen, geringes Gewicht\n\nDas Baukastensystem ermöglicht individu- elle Lösungen durch internes Bypassventil in Verbindung mit getrennt angesteuerten Ventilen, durch den Anbau von: Ventilprüf- system, Druckwächter mini/maxi, Druckbe- grenzer, Endschalter am Ventil V2.\n\nAnwendung\n\nDas Baukastensystem ermöglicht indivi- duelle Lösungen in der Gassicherheits- und Regeltechnik. Geeignet für Gase der Gasfamilien 1, 2, 3 und sonstige neutrale gasförmige Medien.\n\nZulassungen",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztVk1v3DYQ/SuEzvshkZIo5eaFg1zqIijSHJoGwogcaVlLlEBSdlzD/71D7boxAqOFezPqw3rXwzeffPPAL/cJDjiiDY3RyTuWYFW3ShSyQgUdCi1QZBJEVWeFhjJtkw1LRgygIQDh75P4o/HT4hQ+/o+Nckhfa8BM5nmaypqXuzQ6r+fjpE1n/gEwu0mh998RWZ2XtdjJMq2FqCNuRjca781kfXOu5st9QpFjHULwNH/4SjCHanK6GSYFYXJriTOEY4y7/9Wj83tnlAKnydEHB8H4/cc7dQQ3fnTTH6iC3+vF9r6ZJ7XXk1ritPx2srjnWVFI2XwAf7UMwRwoSXN1aPK02OYZZ4dUNpeH5nI36y55eKBiOjOghTFWmLzE+ewa7ubVFeZ5MNQP9b4/Hw9g+wV69HEMCdo+ic3PZGnsMrYYO89Wi/t+2RIznivdFVC3RdfSzECpspJ1pjlgmyax5oDfQgRv2XtjO1BHZFeTDRR5w3p0xvbILtoR/ZZ5mhPav82efcBbo44hFvhY+8/g4pBv8FOMSwl+ZCAvUJeF7PIKqpZ3meAFr0UlVVtkusyzNwb+Xxl4CZ4dYLkGH9D6O/o7MrqC35c07cp+iExjxmpzY/SyZTgMyH46HZ6IyTRx5EiQgM4SOw93M3h/Q9WYgazsM7qW/AnLRhOIxYEqtYFB5HLABR3lJVTER5qfwmmyXdgWFnYz2Xfn49mtiVVHS7EWumGXblHXt9GMOVWKjpJYsx/hmzkftrhlPaX8E92GvbfaEweGCITxHJZ95rsXLVOJMhOInOcC60rJrBR124FGKGpeo3hbple8TE9348Le4krdp/T4ZMKAz9KiJHVFAVLkMtV1CTldA/C8SguBpcQ3WrxiWvyosf+qAf9NY7ekf89oLOmoJsmihj2B0R3R0BzZYjX7BXskPVNHa6539DZA01sMrDtJ5eqDj84djGYwFI/a4Rsm1gCeWBAMvTcsLnSJlLsn5Ck90YQOrlCT0ws1kmPbpUrnwNOSPoLeH4KeuqoVIDrO35bhFS/DU27/tgzEypWmz6jk178AsOgjyQ==",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "2bbb2b10d2d87d6d19ea7370a57b8c1c",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. EG-Baumusterprüfbescheinigung nach EG-Gasgeräterichtlinie:\n\nMB-…407-412 B07 CE-0085 AP 3156 EG-Baumusterprüfbescheinigung nach EG-Druckgeräterichtlinie:\n\nMB-...407-412 BO7 CE0036\n\nZulassungen in weiteren wichtigen Gasver- brauchsländern.\n\nTechnische Daten\n\nNennweiten Flansche mit Rohrgewinden nach ISO 7/1 (DIN 2999)\n\nMax. Betriebsüberdruck\n\nAusgangsdruckbereiche\n\nMedien\n\nUmgebungstemperatur\n\nSchmutzfangeinrichtung\n\nDruckwächter\n\nDruckregelteil\n\nMagnetventil V1\n\nMagnetventil V2\n\nMagnetventil V3 (Bypass)",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmN2P00YQwP8VK09U6iX7/cEb6VHKwwEqXB8KKNrdmU3cJna0tjngdP97x7mjXFELitQXFEuJ4qxndj788+zsvr6e4RZ32PSrGmYPq1m0ETFym1VmQXjOhRLOcK+AcalkmP1YzXbYBwh9IPnr2Xix6tqhJPz0H1epIP0cJuRWKcasF2bORuXD/V0Lda6/IrAvbcKu+yxBHhgv59YwL6Uf5fZYdnXX1W3Tre68eX09o5lHP6QUTN28JbGCqS2w2rYp9G05uLgP/Wacd3HZYekWpU4pFCDFri+hr7vFiw9pE8ruRWn/wNR3Cxiadbfat2kBbRrGbHVnbYMLwbW2dvUkdBfDtq+XZGR1sVwpps8UF9WS2dX5cnU+30Oe3dyQM7neYhN2o4ezY5TvVPsP+4Nq2O+3NcVDsS/ubm9Dsx7CGrsxDTNs1rMx+D2NrJphF3GMnB9GyueHbQTGzBKoIJihr0Qw0rCYogwyCzEbfe7xfT8KP35ytgzDbuh6LPvyZmAspxyxSxusm3pNKaqakDYVyVFMazyIoCLpOm36Lcngw9HTT0E8C2XM9jt8NRogS1+iaKRSQsrkcyb4TBbBSWeStjFkqZydUDxVFC+WZ28GwYRRzH7ysPrp8RljTlePXlSSa1Mdwet5GdKf/wOxkFmWqJnkThspbDLCBM1sNtoBujgRe8LEzufzv3F9PuLKmDT38bpsyCtct6X+iPBfiDEAASmi0dHqrAyYqJSVAgK9DTxOiJ0sYr8P29B1lAlsqrqprrCmQkbXV2Mxq8dRCuUdlrMqljCkTbe9LXcNYGnmR9U5pn1CcF44lzJEqcgXwGhBBBEynyD8jiEU95l6hWnT1OOSWZ1Txpv7lPyCgcj5NzwyZsicljygx0Hw6giSR8YzF8aqaCY8vmM8vqxR36wF93l6hk1zKExN9TNZO4C1q/vq13ZT1nhVUy1qbruypy+fV3bBqwfnT59Vwnv/w1EVihpABV4oFMwHlZxFqZOntRNlhoBpQvBUEbwI7+fVEvtSY+xudwU0LYw7gOPWQBMceMcJL0eBOohBRkM7D4vOMJcnwk6VsEdDtyYj3YEpmhCpAcOj2NKJBTTRMBybfCpbMkC0TqHKVMSkm9g6VbYuEOp/tmHfhCkKbaW0IYKIXkevvKU6ZSFp4ITYBNPJwnS5W2McE9HjjnIf+qEcRZYFp2TWWYBwlnalQWGOPsnxeJZD1hNZp0rWy7TZDf3HTIawbg7HqZSW4zr4FK2xzCAoZ8FLpiwylbzKzGTwMMF1qnAdTuuvbg+vCCw8smgxmYXOzkSGWgWNACo7TTY1SBqYuDpprgqucdtjvT0KKqmU5UkposrmBNLwoLV2CYQCWh+n44aTheoirBvs35F2va1+40dR5b3XQiUJ2ihFn4yOUf8OiVZCpgAnqiaqRqrEUVQhdwSQChI8JuNAgY8GnDYmYPJ82g9OVB2oktWD5Yd96Lqvnby//Quzr+zX",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "6de7bddd335a54a5d87fffd4e90ee2aa",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. Meß-/Zündgasanschluß\n\nSpannung/ Frequenz\n\nElektrischer Anschluß\n\nLeistung/Stromaufnahme Einschaltdauer Schutzart Funkentstörung\n\nWerkstoffe der gasbenetzten Teile\n\nEinbaulage\n\nMB-…407 B07\n\nRp 1/2, 3/4\n\nund deren Kombinationen\n\nMB-…410/412 B07\n\nRp 3/4, 1, 1 1/4\n\nund deren Kombinationen\n\n360 mbar (36 kPa)\n\nMB-… S22 pa: 4 mbar (0,4 kPa) bis 20 mbar (2 kPa) MB-… S52 pa: 4 mbar (0,4 kPa) bis 50 mbar (5 kPa)\n\nGase der Gasfamilien 1, 2, 3 und sonstige neutrale gasförmige Medien",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztmdtu4zYQhl9F8FULJDHPh71rsLu9aFMEzRYFurswhuTQUWNJrg5FN0HefYeO0xS9COCidxIgwJLIIX9SH+YfyR8fVrjDBttxU6fVm2rluWc+yqgkC0oLr5TNlgeuMYOQXq3OqlWDIyQYgfo/rMrJZuimPuLzNW5ij/RzGJBbpRizXpgLVoIP7U2X6ly/0mHfdxGH4aUH98p4eWEN81L60m+PfVMPQ921w+ao5uPDikYuOqQUTD1+pm49xq5Pm10XYez6g8Q9jLdl3PUvA/bDuq9jhD5R4DD2MNbD+vpLvIW+ue673zGOwzpN7XbY7Lu4Tl2cym4N512La8G1tnbzPQxX026sL2mSzdXlRjF9rrioLpndvL3cvL3Yp7x6fCQxud5hC01RuDol+Bg6ftkfQmG/39W0Hlr7+ti8g3Y7wRaHsg0rbLersvg93dm0UxOwrFwc7vQvD5tpHzE5L5yLOQWpshAJg00CBGQeVkXziH+NpfMVfpoYS/l8/Vs5ybFNWxigHeLtbnpqKkKeNf4EfdnMP/FDiaeB/k0a01Eba4wTwgkumOckIHrhHbicUlpImytpN3toW9qIdfW+xz8mbO9PAiv7YDJlLsha+eSsVCGhyJEnBilEu4A1V7De7fBu7GvKWNhX3/3nzBWcRheJrSxlCNpGIROSVwrPDZNMLoDNFbAfsR7Gkrluxr5rYMot3DZYvasLa7AbE0xE3k28ncZ76Mfq/dTelZ0aD45qego9iUTjMQdnLFdaCkk5j0vFg44yZJ+4xYXEuZL4K/Z3w9jljFUi5KhSC9jieD9iW31AUncaZxi8tz6hF1JHz5IDY7VNJoDxXIeFs7lyRqktwLSjEU+z0GQxIxf0eqkjd1pYrWw0SgNP0eSlRpstUFeX558mwYRRzBZ1J2HlCZ5EzzgAOo6JJZ+10MYbS/W/0H7Baq5Y/byv+JqGkGt1ElHOO4gRFTNGMhV8dkJl7TO3OgsmxULUXIma2lRKK6qnfuiaULeH6bE9ra5KmWkwLDqyvxBFtCozDCEAtwyALXTNla4XG+RsfVR4EloalOdOGIaAwqFx4EGTFaLIiomwvBrOFi2yQnLBs4rTQaZ4mh9KISVHqqqcAyVzUkqz7HSKKIMm5has5orV/+GHInHpmHZcgU7JoPJRoLU0JR1aLnTNli5pWNUE6KtvpKnuruHb08xQJSsZEk8qiJhMAuCe+2B9JENMS501W67+rrOqGyGqPbyp1JEzdqYOoFWhHirxTJ94uvePMP1KmH4O06czi5FTzUa5kLOkcvTMBIhMGYMgtHR5YXauzJLQp6/6dJKhqXc1mS5Vc+XzRlVseKAnMdZbrFqcaCN3WL7/5+N/TE1puMJUv+rNn78Cgx0yAw==",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "0298a70a3bb8f18cfee7ab0a2dcb9a94",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. -15 °C bis + 70 °C (In Flüssiggasanlagen den MB-D… nicht unter 0 °C betreiben. Nur für gasförmiges Flüssiggas geeignet, flüssige Kohlenwasserstoffe zerstören die Dichtwerkstoffe)\n\nFeinsieb Wechsel nur durch Ausbau der Armatur möglich\n\nTypen GW A5, GW A2, NB A2, ÜB A2 nach DIN EN 1854 anbaubar. Weitere Informationen im Datenblatt GW A2 Nr. 213 372 und Datenblatt GW A5 Nr. 225 756",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztVE1v1DAQ/SujnEC0u47zteHWZQFVqKseQBwARf4YZw2JE9kOX1X/O+PdQlEPSJzhENmx3zy/mXn2u5sMBxzRxc7q7ClkyOu80RuNAmnkjAmzKURdlC3jquQiO4NsxCi0iILwN1madGFavMKf/9gpjzQcCfOmLBlrWl6vWAo+7o+Ttsb+ATD7SWEI94i8Leu2WDU1a4uiTbgZ/WhDsJML3Z2adzcZMScdRcFZefuBYB7V5HU3TErEyR8lziIeEu/6TUAf1t4qJbymwBC9iDasr7+pg/DjtZ8+oophrRfXh26e1FpPaknVCueTwzXPq6ppupciXC1DtFs6pLvadiWrzsucw5Y13W7b7VazNtntLYkxdkAnxqQw+5vgu9D4bT6GinkeLOVDua/vtgfh+kX0GFIZMnR9lpKfaaVzyygxZc6PK/6+2axqFepNyzcbZbQsSsO5Rkl9F1yYXGZJc8SvMYHP8wreL4xJ9gykDfAEGvZr4dGlgxdD+jOKetL3Igg30OkONH1X2/Pd+4UzXoOz6hBhcRE93MdLjB6tRLeC/eLBnJg8EM9pXlOzKbuHh0CPaHuH8QzMbzsIr6YDlfqLCKnFcTIG4Xua3ZElXRZhl8R8Qf/pBHmcKvmzyHvhkxs+4+tUAKrEw6uiRKVyaZqirUxeqIpK19aaFUrJ0kip/l+Vf/WqvEDrgkUJb1EdAg7gyNOa+n6AiyVIsdCl8HDhRxFpYzx5siedh78yYCPrDZlPtEVjZMXbkiFvC55vpGxkoZv/BvxXDfiaDnfw8i1cVGfHgej22+OQzKZVmoMTZMjd5R6e7yHfVCUIR96Uwq/IuJYeaIRLZ6ZkU1JPhHaEHXXcyUHEeOKFPaF5XkDRcHrV9UNAdQLwCpqq/oO7P/wArxKsNQ==",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "740c9ddf55322171fe342eef4257400c",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. Druckregler vordruckausgeglichen, dichter Abschluß durch Ventil V1 bei Abschaltung, nach DIN EN 88 Klasse A. Sollwertfeder fest eingebaut (kein Federwechsel möglich). Aus- blaseleitung über Dach muß nicht verlegt werden. Interner Impulsabgriff vorhanden.\n\nVentil nach DIN EN 161 Klasse A Gruppe2, schnell schließend, schnell öffnend\n\nVentil nach DIN EN 161 Klasse A Gruppe 2",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztU01P3DAQ/StWTq0Eu4nz3RurbRGqQEhtuVAUTexx1sVxItuBVoj/3vECpeoBiXM52Z55M/Nm/ObyLkGDI9rQaZl8YElV1iC5wrqReS550UMLeYqi5KrhOYjkgCUjBpAQgPB3Sbx0flqcwKc3dsIhHfuEWV0UaVq3vFqlMXjvHyeplX4BMLtJoPfPiKwtqjZf1VXa5nkbcTO6UXuvJ+u7RzaXdwlljjzynKfF/RXBHIrJyc5MAsLk9hRnCLuYd/3No/Nrp4UAJynQBwdB+/X5L7EDN5676QeK4NdysYPv5kms5SSWOC1/OFlc86ws67o7Bn+6mKA3VKQ73XRFWh4WGWebtO62m267mqVK7u+JjNIGLYyRYfKa4MfQ8Gveh8I8G039UO/rR7cBOywwoI9jSNAOSWx+Jktnl7HH2DnfW9zzZ6dlK1A2LW8aoWSfF4pziX0tOXBQWZ9EzgF/hgjeukVcOxwMOnZDI41PWPxAFi12aA+YpDOQ96j3YmeW70uaSsUkSWPHLqiqNuwiYz3qBwSYQHM9YBbIvz05Yx/PWNOwzwbo49nRin2ZjLlFFxRKyqroexhqO2APS2DvrunOPkXXLYqdR8PGWFFVez7vV+xo8Yesp2ykcB1Lsb1f0DDYNtYcnyjaSJzdoDM4BEYlJdoVO7HUjCXwyTgvxkM/OK1U7H0HNiLi3J++5Axc1M4Nfo3jorn9u1iyr0CWQjZZVqdVDm2eqr5PVV21aaua8m2x/tfFelyNv9cgq7I/e8CO3TLPSDVoZywaE0+j8UG7aOWz40H/SlmyvkqcfSPbPisVtBJLgRk0ipctCMkrkauKv4nzTZwviZPxF+R29RsFZanB",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "13c6021c48509b2429e73e10f349abd6",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. Ausführung Ventil V2 Hauptmengendrossel MB schnell schließend schnell öffnend ohne MB-D schnell schließend schnell öffnend mit MB-DLE schnell schließend langsam öffnend mit MB-LE schnell schließend langsam öffnend ohne",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>Ausflihrung Ventil V2</td><td>Hauptmengendrossel</td></tr><tr><td>MB</td><td>schnell schlieBend</td><td>schnell 6ffnend</td><td>ohne</td></tr><tr><td>MB-D</td><td>schnell schlieBend</td><td>schnell éffnend</td><td>mit</td></tr><tr><td>MB-DLE</td><td>schnell schlieBend</td><td>langsam &amp;ffnend</td><td>mit</td></tr><tr><td>MB-LE</td><td>schnell schlieBend</td><td>langsam &amp;ffnend</td><td>ohne</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylU1Fv0zAQ/iuWH3iiS+qkTQOjElERPFBpD7CXbbIc+9wYOXFkOxLT1P+OnaZsdAOt4iW27+777u77lJsHDBpa6DxVAr9DWNQZzHO+EmkGBZFsVfOas6wWhVjKVQb4LcIteCaYZ6H+AccLdWawHI5voNxCOEbCeZHnaVqUZHmRRvCYb41QUv2joLeGg3OPFfMyX5bZRbFMyywrY10PtlXOKdM5Ok1z84ADc5wjy0ia7+9CmQVurKDacOaNHUfsmW8ib/LdgXWJVZwzKwLQecu8csnVPW+Yba+s+QHcu0QM3c7R3vBEGD5EtdzMdJCQ+WJRFPQzc9tBe1WFJnRb0TxdzPI5QVVa0E1FNxe9kHi/D8NIpaFjbZwQnwOeoP6+H6Gs77UK+4TdkymtWbcb2A5clAFDt8Nx+T5EaDe0NcTNyRixj2ani5KDWJVkteIyOJ9LQgTUhSCMMDmvI7GHn54yRxvf6oi59KzWsL70DTARDhuv68skfnyDuNGuZ92HW0xu8frj4KRWjQ36oevQV2l0TY616y9s6H1QcwedsCa4rQ+pJJImxwa1EfdTH7HeViEhxqvjTQdao3BqBVXgeJZaStk9jZsQPjzGFr85Z5tzWG+HNIXyhLpV/mXmr59ewx3tc6xFb1jbv38l9f8zn+iRTFonB4vxfrI/2h6djItLfuImeu4i2lboz4kiUshQgJ6KKCd/UJwDRbHOgwVh0EHiv+KO27+EOxcWpxz/iOkv/BZVwvu7X2oLvsA=",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "20112c86032fdaee6e38e5ff0ab2922f",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. Ventil nach DIN EN 161 Klasse A Gruppe 2, mit Mengendrossel\n\nG 1/8 DIN ISO 228, siehe \"Druckabgriffe\", Seite 4\n\n~(AC) 50-60 Hz 220-230 V - 15% + 10% Vorzugsspannungen: 240 VAC, 110-120 VAC, 48 VDC, 24-28 VDC\n\nSteckverbindung nach DIN EN 175301-803 für Ventile und Druckwächter\n\nsiehe Seite 4 100 % ED IP 54 nach IEC 529 (EN 60529) Störgrad N\n\nGehause Membranen, Dichtungen\n\nMagnetantrieb\n\nAluminiumdruckguß\n\nNBR-Basis, Silopren (Silikonkautschuk) Stahl, Messing, Aluminium",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztl1tv2zYUx78KISBAitkxbyKpvcVxkAVDvGDp8tIUAi+HNhfdQEnd2iD77KOcdO2GoYNfZ+tFlHgOz5/kD+eQ754yqKCGZiiDy75HmZVWa2mIl0oLMIrlnuKcFIJ7onLvshnKahi004NO9k/Z1Cj7dowWPn9DaSOk125AIjnHWBZUnOHJeddfty748A2DLrYW+v6LBSm4KNiZFLhgrJjsOoh16PvQNn35qubdU5ZGnnQwRjF/fp/MItg2urJqrR7auJPY6WE7jbv4pYfYL2KwVkeXHPsh6iH0i9uPdqtjfRvbX8EO/cKNzaYvu9YuXGvHabX6edvAgpI8l7K80v3NWA1hmYKUN8uS43zOCUVLLMvVslyddc5nz89JjA8VNLqeFGb7OL+6Dh+7navuuiqk+aS5L167K91sRr2BflqGDJpNNk2+S3/KZqwNTDOnuz/xy2bjvLDgVEGVst4Zxj2lDox0VFPtickmzQP8PkzG98kvVKjRdotW12t0uUZEEPRjpdM+oXN0FceugylIHQZ0kyRA42KbOqtJ4Gftax2nRf4Ab6dxU4B/EiiYtxZLhzGXXjhurNEAxorCAbcmPxJ4qAReIbJQO/au735ClKoZ6gNsAT1kqzjaR202MXgPD0nOHYQBEN+LPEsx1prZNHnKcqcpwYWUgI2waamYOJJ3qOT9cXp+8QbleC4w+uFTQg/PKcPoHs0RyU/Qd4jgE3Tfxk/jpu873TTjlP1SVJ6Mzi9miBA8J/T1gyt0v0pvyud019yL0jwRo7gygK1QwESumcRWMcY4pxbYkdJDpfRuAPv4AaIJzbQefy/VMmeYzBVmyD+MGHsb0UtFBzQ2Du0S6G9TTyqy2yGp2YdJRU0C0ipBqBJMSsNVrpJc5oUopJBHJg+VyZcC/VqNU5rE6ARdrtD1Lcr5C6DXlxcopwU6TZQKnFpv0N2wQ1TETdQOrfdC0SmbXBVRRW6NA0swK4hUzhYmnSA5HFE8VBSvYKvHdFW5gdpE3UAzQ6uQct2uVn/N2NswVPCvaU6nBxtCmCW2KIR1jBLnQEkPlh/Z+l+x9Z+J5Gu2bvSmSRvfDDGA2StfEQXKcV54ha23Shrnc8IKlkuVKjFVR6YOlanzaqxDE8baTWezzTjVxJfYe5zLuOEJKu98AUSmuCptqudUWGu4PN5oDxau9fLn+VL3oZ+hu1C1XRoHnaZWeGybRz0Ovd2Oj9NJTG+rWSqZaWuazQz9xeQ3MHz/Jxrc59Q=",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "8f3ad3ef8172b568ff7cabfe5e644c12",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. senkrecht mit nach oben stehendem Magnet oder liegend mit waagrechtem Magnet, sowie deren Zwischenlagen.\n\n2 … 6\n\n3 … 6",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztVMFunDAU/BWLc7LYBgzucRWpp4320F6aRsjYD9Yt2Mg23Uar/ffadNOsqqpVj5FyAp5nnmfeG/FwymCECUxotcreoQxYU3cYup4WtCFNpSpgRU+pLPpKSFFlNyibIAglgoj4U5ZeWm8XJ+H5G1rpID7WhqQuS4xrTtkGJ/J6Plmle/0XwOysBO9fEISXjBebmmFeFDzhZnCT9l5b49uLmodTFjsnHUVBcXl+jDAH0jrVjlaKYN0qcRbhkPrmHz04nzstpXAqEn1wImif75/kQbhp7+wXkMHnajGDb2crc2Xlkqblb62BnJKqquv2vfC7ZQx6Gy9pd9u2xNVtSSja4rq927Z3m1n12fkcxfR6BCOmpDD7H/KFGp7mlSrmedTRT/SeX45HYYZFDODTGDIwQ5bMz7HSmmXqIDmna8W9LFs1EuM+rplXslMgCS44qRslece4KiFLmgN8DwnswXyNwzwENOmAjJAHZDswyAc4gFEwoZ0YDAQUB+nQqGGI1RV7FGJYmb8wN8jbowYUkbHDp6P2MvYYo1qzSW6ejd4LlzbyDT4kEVHN73GlnFcxmILgsiGc8b7hRHABFSas6ZryLa6vOK7X6aPo80IxZYhd52MfCfc/8X8IBytZL6HmUJCOsY41UsbfGpe9wqWkRLyF4/WGo7gOR/HPcDz+AA/xKJc=",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f32b7def44d42dd08cbe2a91b117d6ae",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. Ausstattungsvarianten GasMultiBloc®...B07 einstufige Betriebsweise 407 B0O7 410 B0O7 412 B07 MB MB-D MB-DLE MB-LE Feinfilter (standard) mit Sieb Gasdruckwachter nach Filter nach Ventil V2 auf Adapter Druckregelteil",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ausstattungsvarianten GasMultiBloc®...B07 einstufige Betriebsweise</td><td>407 B0O7</td><td>410 B0O7</td><td>412 B07</td></tr><tr><td>MB</td><td/><td/><td/></tr><tr><td>MB-D</td><td/><td/><td/></tr><tr><td>MB-DLE</td><td/><td/><td/></tr><tr><td>MB-LE</td><td/><td/><td/></tr><tr><td>Feinfilter (standard) mit Sieb</td><td/><td/><td/></tr><tr><td>Gasdruckwachter nach Filter nach Ventil V2 auf</td><td/><td/><td/></tr><tr><td>Adapter Druckregelteil</td><td/><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytVl1v2jAU/StWnjapJZ+EMXVIi2j3MrRqH30pVWScG/CW2JHtrOsq/vuuQyiUBibGnuz43nN8fO17lNtHBwooQZiUZ85b4kRx3B+y2I+Dge9R1ofZjL6Jw76H0zCfRc4ZcUowNKOGYv6jYyeplrVisP6GlCnAoSH0B1HkeYNhEPc8C27ipcx4zg8kVEoy0HqT4Q+jeBj2BrE3DMOhzatAlVxrLoVOWzW3jw4yWx1hGHjR8g7TFDCpsrSQjBqpGokVNQvL637ToLSrOGNUZQjURlHDtXv9wBZUlddKfgdmtJvVYq7TSjI3k6y21dLnUoAb+P3+YJB+oHpSF4YnuEk6SdLI659HfkASb5COk3Tcq7LcWS5RTM4LELS0Cp1jwC3UPFQNlFZVwfE8eHa3DRdUzGs6B23L4ICYO/bwFa6koi5nYE8e4oqBXyalOl2YsrBUF4bOChhdmAXQDAdlp4TJQldUvJs6wdQZva+1NtQYW4WfVHEqDAiyLXxaex6FXq+HqglwoU2d8zmQBIziMNP3wDVcuGZh2UcRJiXep8Fmwfd2F5oCrL5dK8pdC5zJ7KHVme3onCSYZnOy0b5Jw7UHfD4+Ef7x8jSCk/BXWHZ8IwYUeYW3JTJ80q9JyQ35gjdwAjHec6Zq9uOesoVlFziSq9VOzfwG+4EX5CYgtM7/fSOi5P32o8toZbcY270VzAE35MUx9CdLWB/MPyNjWVVQaG5+b457Ri6x5FgBu/y/hY022zwlbUSccJ1r3vCZ/OahjJVEyz2qxp3kQObY9yCEIXGeCxDZUZSbS4jsu0Zn02wBT4DPFXGDFzw7qIPL22VGttCNDtwDJvgHw77fjXdbq3JXDussW/e1rnuko64ME8fGJ+3Y2ONepyWThEzrwAuCncG61P7Ix8u9sX2hw67TjXkyFHtGiF66SifqpdWQtUV05j/3je6c7gY/mPq865uoH27n4tdWbjftBvH3bjwkZ6vRbC3zttv2XFXbSMS+aDfo0IPDqh26CSyu48DriN/idqP272T94/LVtoKzvPsDQ6dG1g==",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "6890fad2d5015eb7947010987bd0c12e",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. Ventil V1, Doppelsitz Ventil V2, Einfachsitz Ventil V2, Doppelsitz Ventil V3, Einfachsitz mit Drossel Ventile getrennt 6ffnend Flansche Rp /2 Rp 3/4 Rp 1 Rp11/4",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td/><td/></tr><tr><td>Ventil V1, Doppelsitz Ventil V2, Einfachsitz</td><td/><td/><td/></tr><tr><td/><td/><td/></tr><tr><td>Ventil V2,</td><td>Doppelsitz</td><td/><td/><td/></tr><tr><td>Ventil V3, Einfachsitz mit Drossel</td><td/><td/><td/></tr><tr><td>Ventile getrennt 6ffnend</td><td/><td/><td/></tr><tr><td>Flansche</td><td>Rp /2</td><td/><td/><td/></tr><tr><td>Rp 3/4</td><td/></tr><tr><td>Rp 1</td><td/></tr><tr><td>Rp11/4</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytVl1v2jAU/StWnjapJZ+EMXVIi2j3MrRqH30pVWScG/CW2JHtrOsq/vuuQyiUBibGnuz43nN8fO17lNtHBwooQZiUZ85b4kRx3B+y2I+Dge9R1ofZjL6Jw76H0zCfRc4ZcUowNKOGYv6jYyeplrVisP6GlCnAoSH0B1HkeYNhEPc8C27ipcx4zg8kVEoy0HqT4Q+jeBj2BrE3DMOhzatAlVxrLoVOWzW3jw4yWx1hGHjR8g7TFDCpsrSQjBqpGokVNQvL637ToLSrOGNUZQjURlHDtXv9wBZUlddKfgdmtJvVYq7TSjI3k6y21dLnUoAb+P3+YJB+oHpSF4YnuEk6SdLI659HfkASb5COk3Tcq7LcWS5RTM4LELS0Cp1jwC3UPFQNlFZVwfE8eHa3DRdUzGs6B23L4ICYO/bwFa6koi5nYE8e4oqBXyalOl2YsrBUF4bOChhdmAXQDAdlp4TJQldUvJs6wdQZva+1NtQYW4WfVHEqDAiyLXxaex6FXq+HqglwoU2d8zmQBIziMNP3wDVcuGZh2UcRJiXep8Fmwfd2F5oCrL5dK8pdC5zJ7KHVme3onCSYZnOy0b5Jw7UHfD4+Ef7x8jSCk/BXWHZ8IwYUeYW3JTJ80q9JyQ35gjdwAjHec6Zq9uOesoVlFziSq9VOzfwG+4EX5CYgtM7/fSOi5P32o8toZbcY270VzAE35MUx9CdLWB/MPyNjWVVQaG5+b457Ri6x5FgBu/y/hY022zwlbUSccJ1r3vCZ/OahjJVEyz2qxp3kQObY9yCEIXGeCxDZUZSbS4jsu0Zn02wBT4DPFXGDFzw7qIPL22VGttCNDtwDJvgHw77fjXdbq3JXDussW/e1rnuko64ME8fGJ+3Y2ONepyWThEzrwAuCncG61P7Ix8u9sX2hw67TjXkyFHtGiF66SifqpdWQtUV05j/3je6c7gY/mPq865uoH27n4tdWbjftBvH3bjwkZ6vRbC3zttv2XFXbSMS+aDfo0IPDqh26CSyu48DriN/idqP272T94/LVtoKzvPsDQ6dG1g==",
+      "is_continuation": true,
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b84b29e9c4c40accbc57386b4d579f08",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. Ausführung S…2\n\ne =mdlich\n\n(•) = auf Anfrage\n\n= nicht méglich\n\nAusführung MB-… B07\n\nV1\n\n=Ventil 1\n\nV2\n\n=Ventil 2\n\n=Ventil 3\n\nV3\n\n3\n\n= Filter\n\n4\n\n= Druckwéchter, optional\n\n5\n\n= Regler\n\n4  1  3  V1  5  V3  V2 \n\nAnbau des Ventilprüfsystem VPS 504 möglich Anbau des Endkontakt K01/1 möglich",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztmtuO1EYQhl+lNVeJBEyfD5H2ghVJFCVEKMDeABpVd1XPOszYI9uThCDePeVZELurDTCXu2vJkk9dfbA//1XV7VfvF7ShLbXjqsHFD2KBQIjeqWIlJowkpXIlO7ChWLI5Lh6IxZZGQBiBy79fTAerodv3hT6d06r0xLtDhSpYK2VI2j+Sk/Hh/rbDpjZfKLDru0LD8LmEStYn8yh4mYxJU7kd9dtmGJquHVYfe/Pq/YJrnvphjJb2wxsu1lPpelxtugJj1x+6uIPxfKp3+XKgflj2TSnQIxsOYw9jMyyfvSvn0G+f9d2fVMZhift2Pax2XVliV/bT0xoedi0ttXIuhNXPMDzdb8bmlBtZPT1dWekeWqXFqQyrJ6erJ492WBcfPnBnarOhFrZTDxfHGH80Hd/tDqaw220aHg+Pffnx9gba9R7WNEyPYUHtejENfsdXVu1+m2kauZm6MNI/41TH4/1QX++lrOW85+GJ56/3Wmqvp8o+tfM79NMD+YteTEZsfZ0WbZJUkjSGalWujiQBYAItybgEaqbljtBC4mSLXMv5UXhIsErxZixFDNarirUGpKqMs77mGY87gsd3B/HQ34sTAfsqHre158JHsVIMZiMJk7bRR40pGLBoogpVRol6ZuWOsHIiWtaRUWwn70NpfbyqxBSKToY8BQQ0NgZk32OddGBYa2ZS7ggpl6n4rRnGX0ba3ghECKpSlIoKWZfBmZJQOzKAkqmgGYg7AsT1mPXp6cOLqHVq+TItL5pxQzehYgirogy5SBaRgjLXaKzTSUULeg5Y7wwqZ+qbeEiGdQJLLsorSuAcFpYR0Bp9ZTLKzMMt5uFwpT/i478SppyxYbMR6qjYREeORFI0mrRThdHyPmVQIHUqpio/83SLebqiL/qb9IXVBcgpTRWqjxB9QBXzlN8YFzXN/uY283BdX7768d+kL8dNuAVtEtVA1RpdDXurAAUIMoRsk3Xz9Oy958kcxZPXPqcUSXMmLsFQijaoFJAMRg+UZp5uMU9X/JX5Jn+V0VZVpdaUkLLjGKlSqhwgZ51jjjMPt5mH6/ry1Y//MkBX+HnZcvO07vrmX8L/0xbFb82gs5HfRrDOKBl9Jl08b2BdnVm6ryydiJ+azcgVHeOqOPApnKFTjggqYaneozMBEkdDycg5Vb+3ONmjpSnYLKXM0vG7KCUXWSE4IFkkxqAIZpbuK0sn4km/L2//vlicKuesUg9Et5s6AZvjFjQ5YqoIiZP/bGmaatLGSBXY90Hl3H9m7L4y5o7XK4RSkw85F877nFYmSfJVqVgTgsGZpfvK0on4g9abI0OprFIK1atsON0rlFEHrVPVOhsLuswr6LcZpyuRkRBKCCPEGe8c76ZDLS7D8st2+lPnJs1RnLgRaqLKSZty4AumYlPRljO4OkNyVyB53GbYCx6zuJhC3PUXa+x1eDeMtBVnz54LJ+3FDzvVH37YEZ+NfmzxbdeO8HYUv0q1VFfKfUGW3vwHu5PH9w==",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "980fc302d4190a9801ff8f676a55e4d6",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. Typenschlüssel-MultiBloc®  0 = gemeinsam  2 = getrennt  2 = 4 - 20 mbar  bis 360 mbar  5 = 4 - 50 mbar  bis 360 mbar  1 = zwei A-Ventile f r Hauptgas+Regler  7 = zwei A-Ventile f r Hauptgas, ein A-Ventil  gemeinsam mit V1 als interner Bypa§ um V2+Regler  403 = DN 10, V2 = Einfachsitz-Ventil  405 = DN 15, V2 = Einfachsitz-Ventil  407 = DN 20, V2 = Doppelsitz-Ventil  410 = DN 25, V2 = Einfachsitz-Ventil  412 = DN 32, V2 = Doppelsitz-Ventil  415 = DN 40, V2 = Doppelsitz-Ventil  420 = DN 50, V2 =",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJyVU+9v0zAQ/VdO+QTaujo/mqxI+0DVCRAUTWPsw8YUuc4lNXLsyHYY29T/nXOaFpBQJfIltt+7d+/OvvuXCBW2qH0pq+gNREXGiqQSeV2wOYuz+lwULGdxnCOrzs/n8+gUohY9r7jnxH+JwqJ0prcC93sshUX6DYJxkWWMFfMkP2MheMBbU8laHiF01gh07jcjnmf5PD0rcjZP08FFh7aVzkmjXTm6uX+JSDn4SNOEZdsHolkUxlalMoJ7YweLHfeboDv96tC6qZVCcFtRoPOWe+mmV09iw217Zc13FN5Nq143ruyMmFZG9KFbbmI0TpN4NiuK8h13q155uaAk5WpRZmw2yeIEFqwol4tyedZVdbTdkplaKtS8DQ6j/wkeQ/1TN4TyrlOS6qHapyOsuG563qALbYhQN1EovqOTUvftGkPlabDg8acPGjekpZ3YqG89Y7WgXqvJwUg44wjA4AIaeh5SO94CJMPWW9Ta73YZTCBh0K65BVhLB2m+381GePZvOCb4+RElvJ3cUkOpOqjBwnved77h7uQaG4XEK47zToHMHTD4w20rPdzGwJUDqT1aTWqLp44PtRXQt3CbHLJkLKU8y88Qs1M6p/Wl1DUXGyf980Gc7mZkzY6yih0r2WstTdeh+psUs5F0VCpOdqw0OSY1usqO5UvGfLMjJLPRdOmEvVotgObBwmoxubt+DTBZwu672HWeZqBBXVkT3g3Bny4PeGi/R6XoltEB1LUO0/MD7YYrjzpoBfYFfDTtWurhFQPvHSzhBAIyuBh1+lo2AHfX4yMYD8LV3qBUOxf7hJQGgAbaI3whHkKYi/3IfGhpFKLtwy+q54PX",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "c224ef9604e651affdf962a1a394c637",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. Doppelsitz-Ventil  410 = DN 25, V2 = Einfachsitz-Ventil  412 = DN 32, V2 = Doppelsitz-Ventil  415 = DN 40, V2 = Doppelsitz-Ventil  420 = DN 50, V2 = Doppelsitz-Ventil  ohne   = (MB oder MB-ZR)  -D       = Hauptmengendrossel  -LE       = einstellbares  ffnungsverhalten  -DLE  = Kombination aus D + LE  ohne = einstufig  ZR = zweistufig mit Teilmengeneinstellung  erste Stufe ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJyVU+9v0zAQ/VdO+QTaujo/mqxI+0DVCRAUTWPsw8YUuc4lNXLsyHYY29T/nXOaFpBQJfIltt+7d+/OvvuXCBW2qH0pq+gNREXGiqQSeV2wOYuz+lwULGdxnCOrzs/n8+gUohY9r7jnxH+JwqJ0prcC93sshUX6DYJxkWWMFfMkP2MheMBbU8laHiF01gh07jcjnmf5PD0rcjZP08FFh7aVzkmjXTm6uX+JSDn4SNOEZdsHolkUxlalMoJ7YweLHfeboDv96tC6qZVCcFtRoPOWe+mmV09iw217Zc13FN5Nq143ruyMmFZG9KFbbmI0TpN4NiuK8h13q155uaAk5WpRZmw2yeIEFqwol4tyedZVdbTdkplaKtS8DQ6j/wkeQ/1TN4TyrlOS6qHapyOsuG563qALbYhQN1EovqOTUvftGkPlabDg8acPGjekpZ3YqG89Y7WgXqvJwUg44wjA4AIaeh5SO94CJMPWW9Ta73YZTCBh0K65BVhLB2m+381GePZvOCb4+RElvJ3cUkOpOqjBwnved77h7uQaG4XEK47zToHMHTD4w20rPdzGwJUDqT1aTWqLp44PtRXQt3CbHLJkLKU8y88Qs1M6p/Wl1DUXGyf980Gc7mZkzY6yih0r2WstTdeh+psUs5F0VCpOdqw0OSY1usqO5UvGfLMjJLPRdOmEvVotgObBwmoxubt+DTBZwu672HWeZqBBXVkT3g3Bny4PeGi/R6XoltEB1LUO0/MD7YYrjzpoBfYFfDTtWurhFQPvHSzhBAIyuBh1+lo2AHfX4yMYD8LV3qBUOxf7hJQGgAbaI3whHkKYi/3IfGhpFKLtwy+q54PX",
+      "is_continuation": true,
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "4a1f5a5dc1d9261fbd93a4984bd70896",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. Einbaumaße [mm]\n\nh  g \n\nc = Platzbedarf für Deckel des Druckwächters\n\nf = Platzbedarf für Magnetwechsel\n\nc  a  b  f  e  d ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztlU1v1DAQhv+KlTNtHMexEyQuq0WIQ1EPcCpVNBmPd0PzJduhlKr/HXu1FQgVpF5Xe0pizzt+Z/JofPOY0UAjTaHtTfaWZRygI1BUIC91rTpRSmlErbgBJeNa9oZlIwUwECDGP2bppfXz6pCev6lFR/FxSFhoKTnXjVCXPIkP++Nsetv/J2BxM5L3vyOKRqqmvNSKN2XZpLiF3Nh738+Tb49ubh6zmDn5KEvB5dNtDHOEszPtMCOE2R0sLhD2KW/+xZPzuesRwZko9MFB6H1+/YB7cOO1m78RBp+bddr5dpkxNzOuqVv+Yp4oF0VVad1+AH+1DqHfxEPaq00reXUhC8E2XLfbTbu9XIzNnp6iGdsPNMGYHGavER+l4WE5SGFZhj7WE2vPj9sDTLsVduRTGzKadlkqfokr7bSOHaXKZbIQ6EdIOd73UwfrCF9Xzo0ldjOOtynR8xmfwKVmfKfPSRCVf5NiGymhqWpZW5Q116XQhei6UhVSFZzXZ1JOhJQ9Yzv2Jxofxxj8EhJNhXF0SI0Asorjo2jKQnaq1hAHCDTyjMSJIIHsHbseIPzsyICzzKYpYtGxLeEdDSx2g23dinf3aYMk7kNs1qvGSyVLqQzagluJqqqLUummriuBKLWI//bM0mmwZP/F0hXsJgr3hHtPw6vYERESo0yjuRGCl5W1hoPQgqua15qLMzsnwg4yBox1jFnGiDHz0jV1+wtocGGG",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "1b479e53d2abeb5e1db9da554c63ea0c",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. Typ Nennleistung [VA] ~(AC) 230 V; +20°C EinbaumaBe [mm] Gewicht [k] S22 52 MB-D 407 B07 46 46 110 151 40 46 100 185 104 115 2,7",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Typ</td><td>Nennleistung [VA] ~(AC) 230 V; +20°C</td><td>EinbaumaBe [mm]</td><td/><td/><td/><td>Gewicht [k]</td></tr><tr><td>S22</td><td>52</td><td/><td/><td/><td/><td/></tr><tr><td>MB-D 407 B07</td><td>46</td><td>46</td><td>110</td><td>151</td><td>40</td><td>46</td><td>100</td><td>185</td><td>104</td><td>115</td><td>2,7</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1VW1P2zAQ/itWPm0aEMexk3RjlSggvowJCcaXUkWO7bbZ8ibbEatQ99tnOykJo0xDGlIe9XJ+7vzcxefOHzxRiFJUOs259xF4IoozFiUxzaIITnDMJxnMkgDRRIRECOwdAK8UmnKqqeE/eNZIVd1KJnbvImVSmB+XMIgxhjCeoOgI2mC3XtY8X+Z/ITSyZkKpgRFMcDQJj2IjKgwnltcIWeZK5XWl0l7N/MEzma2OMEQQbxeGJgWrJU+LmlFdSyexoXpt8/rflJDKlzljVHITqLSkOlf+1YatqSyvZP1dMK183lYrlTY183nNWtstdVhXwkcBIXGcXlB12RY6n5lN0stZiiE5xAECMxinZ7P07KjhS2+7NWKWeSEqWlqF3muC+1C9aVwobZoiN/WY2v1+uaDVqqUroWwbPFGtPFt8Yzxp1ZaZsJVj49Hip06pSte6LGyqY02zQkyP9VpQbn6kNYGs71VDq893Hrrzpjeb5tjXa7fC6mK08lVUVSFypU2DwPz2ZAF+vTs5fQ9QCMHtJ/ABwbsWwgye7oknJv48rzLalnQmwLwsF4+sp/v/F/eFuM/ZWoP5j34b39Xq6p1eI7QLm5LB/HfDJfN3Tcxqvulz8+nl7PAMYBjbL2oo3DlxtM8MAjjYJBgocC8bjtgJGfnxKOPgRwf9/kPlnbov52+jD79SX7JfHsABtOJ8NxbxfjVj+4V9R24yUoNGCvDYP8oSDn4SvtzEN9UZwdfpxCOdfn8k/W7avW1/E9gbwEw3eD7Hu8m088uX3Xi+NNzAjA+4JghQkAEGOBBgCVZgDcZHHzw9aeD5lx1x/nDjyD6mdw5P3x6Be5CgQ0IcjGt4XCQh9jHT0/GRsSP4yDe9dTCntAOCHQLSIeww3CerBTCjZZAAchAauD/J3V19YzvubRe/AULZIhk=",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ac83c4dd5bd4688940ca0de9f725d510",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. MB-DLE 407 B07 46 46 110 151 40 46 140 185 104 115 28 MB-D 410 B07/412 B7 110 110 140 185 40 55 125 245 120 135 53 MB-DLE 410 B07/412 B7 110 110 140 185 40 55 160 245 120 135 54",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MB-DLE 407 B07</td><td>46</td><td>46</td><td>110</td><td>151</td><td>40</td><td>46</td><td>140</td><td>185</td><td>104</td><td>115</td><td>28</td></tr><tr><td>MB-D 410 B07/412 B7</td><td>110</td><td>110</td><td>140</td><td>185</td><td>40</td><td>55</td><td>125</td><td>245</td><td>120</td><td>135</td><td>53</td></tr><tr><td>MB-DLE 410 B07/412 B7</td><td>110</td><td>110</td><td>140</td><td>185</td><td>40</td><td>55</td><td>160</td><td>245</td><td>120</td><td>135</td><td>54</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1VW1P2zAQ/itWPm0aEMexk3RjlSggvowJCcaXUkWO7bbZ8ibbEatQ99tnOykJo0xDGlIe9XJ+7vzcxefOHzxRiFJUOs259xF4IoozFiUxzaIITnDMJxnMkgDRRIRECOwdAK8UmnKqqeE/eNZIVd1KJnbvImVSmB+XMIgxhjCeoOgI2mC3XtY8X+Z/ITSyZkKpgRFMcDQJj2IjKgwnltcIWeZK5XWl0l7N/MEzma2OMEQQbxeGJgWrJU+LmlFdSyexoXpt8/rflJDKlzljVHITqLSkOlf+1YatqSyvZP1dMK183lYrlTY183nNWtstdVhXwkcBIXGcXlB12RY6n5lN0stZiiE5xAECMxinZ7P07KjhS2+7NWKWeSEqWlqF3muC+1C9aVwobZoiN/WY2v1+uaDVqqUroWwbPFGtPFt8Yzxp1ZaZsJVj49Hip06pSte6LGyqY02zQkyP9VpQbn6kNYGs71VDq893Hrrzpjeb5tjXa7fC6mK08lVUVSFypU2DwPz2ZAF+vTs5fQ9QCMHtJ/ABwbsWwgye7oknJv48rzLalnQmwLwsF4+sp/v/F/eFuM/ZWoP5j34b39Xq6p1eI7QLm5LB/HfDJfN3Tcxqvulz8+nl7PAMYBjbL2oo3DlxtM8MAjjYJBgocC8bjtgJGfnxKOPgRwf9/kPlnbov52+jD79SX7JfHsABtOJ8NxbxfjVj+4V9R24yUoNGCvDYP8oSDn4SvtzEN9UZwdfpxCOdfn8k/W7avW1/E9gbwEw3eD7Hu8m088uX3Xi+NNzAjA+4JghQkAEGOBBgCVZgDcZHHzw9aeD5lx1x/nDjyD6mdw5P3x6Be5CgQ0IcjGt4XCQh9jHT0/GRsSP4yDe9dTCntAOCHQLSIeww3CerBTCjZZAAchAauD/J3V19YzvubRe/AULZIhk=",
+      "is_continuation": true,
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fd7a642f8daf84323225c58772585991",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. Elektrischer Anschluß\n\nMP  N  1  P2  L2  3  2  P1  L1 \n\nP1  Mp  P2  L1   N  L2  MB-D(LE) B07  S22 / S52 \n\nDruckabgriffe  5  2  1  5  4  3  4 \n\n3  4  1  2  pe  pa  V3  5  V1  V2  4  pa \n\n14,5\n\nVerschlußschraube G 1/8\n\nMeBstutzen\n\nBypassdrossel\n\nVolumenstrom-Druckgefälle-Kennlinie über Bypassventil V3, Drossel offen",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJzt2Ftv2zYUAOC/QuhpA+KY98veZrgohsVFgLZ56QqBl0NHqywJlFQsDfLfRyoumg7dkDzO8IMtmiKPzqE/6PbhvoIWDtBNdROqX1BliFFAgMhohdI2EOY0Yd5oji1IF6oLVB1gssFONo+/r0qjHvs5efj6G2qfIG+WgERxjrEyVF7iMnnZf+hDE5v/GDCk3sM4fhtBDJeGXSqJDWOmjBsgHZpxbPpurI/ZfLivcuSSB2MU84ePeVgC36dQt723U5+WFAc73Za46/cjpHGdGu9tCnniOCU7NeP6+s7f2nS4Tv2f4KdxHeZuP9ZD79eh93NZrXHVd7CmRAil6td23M3t1GzyQerdpuZYrDihaINVvd3U28shxOrhIScTmxY6eygZVi+ZfJw63Q3LVDsMbZPrybWvj7tb2+1nu4exLEMF3b4qxQ+5p+7mg4NSOS8pTPDXVGK8auHTlJrR30JCv3Z5285/zBg/hvt6pHfN1EKV5/3TiXWScPCaSoapUcJJ4IBV1FIqQXQ8OzkRJ7trhN4gRBC6pghd5Q9DKH9f554rgp5i+e2Qw/wIiwcRuadWa+2l8IGQGKwToILF1JMzllPBUlDshiOV3C5yCpndZrX96erVzyUBhN5SitboraDP08OJz/8lWB+UweVqxKNkUmAVBIlCnvWcip5tmv0n6/apiREQEst5hiwNvpx2+PPACOINtVIr7CTnQVFONWPBSglgXTyDORUwC4kiJDsZspjBInTDFjA3ufeGLvtz77PYYEMIxcZwoxQX3NBIiTLBsyhcZsPObE6EDeEX4qmI910OCPs+NV8gvCuDfqAjEq6Uil7RaDwDRzwFLES+nYmMWWfOOk5Ex00u/dvDUG4mOztArxFZ66dq3thUFuUz/JsYrYW3IAIDrpmEqL12WBOrGXGOAj2LORExO9iM0zx9ge5FPgxx1nouMDM+gJcsGMO4kkR4IgW4s48T8bG5G+w4htTnVW5fRIQKrJ0iCkdvCQRng1IsOKM1Fxq4PRP5/xIR3110+rZUkkvuD6vlOWgPsVyBgLctrH6HrmubrgFU+qLPEdCjqs+5/KbNd70XaPsIDPX56em7M9HxJd7HvwGiFMVN",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f0f3b6ea4535bccb1af06e1f1f71f013",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. 100  80  60  50  40  30  ]  r  a  b  20  m  [     p  ∆  10  8  6  5  4  3  s V  s  a  p  y  7 B  0  E) 4  B-D(L  M  3  s V  s  a  p  y  2 B  1  0 / 4  1  E) 4  B-D(L  M  3  2  Basis         + 15° C, 1013 mbar, trocken  Based on  + 15° C, 1013 mbar, dry  Base          + 15° C, 1013 mbar, sec  Base          + 15° C, 1013 mbar, secco  1  0,1  0,2  0,3 0,4 0,50,6 0,8  1  2  3  4  5 6  7 8 910  °  Vn [m3/h] Luft / Air / Aria dv = 1,00  0,2  0,3 0,4 0,50,6 0,8  1  2  3  4  5 6  7 8910  °  Vn [m3/h] Erdgas/Natural",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJyVk8lu2zAQhl9loFOLOha1WwV6qJsgKJAUuTQXxxBocmyzlUSBpIq6gd89M4qDXtIUFjBcxO+fTdTqMcIWO+xDY3T0EaJML7aVSEVR1TWWuV5gXW3KBDNZCtS5imYQdRiklkES/xjxovF2dApf9tgohzRNDpMqz4Wo6rScCxZP553VZmveAAZnFXr/l0jqvKyzeVWKOstq5gZ0nfHe2N43p2xWjxF55jyyLBX5cU2YQ2WdblqrZLBuSnGQYc9+4+8enY+dUUo6TUIfnAzGx3cHtZeuu3P2B6rgYz32O98MVsXaqpG75S9sj3GaFEVVNdfS345tMEsK0twum1wUF3mSwlJUzeWyuZwPehsdj5TM1rTYy44zjM4Rn6ThMExSOQytoXqo9vh03Mp+N8odem5DhP0u4uIHetP0Y7dBrrzgFAL+DlNThQBYkJVkBVlOlpGtARyABNgApLTvAFbAzwDwMKapKAES1pKUlCQkHYCHex5YSOABoIIlAHFX75lYXly+uwG4fZ1NmU0YjxlOXlWltJfeeHh5PkBSPIxCbAR8mVFOSQbdRroZBLo9P7GfeNRg+zdY7Q7PHPzfr0d1Dqvsc1GzaUh5yMhyskLMSpoWE5BO5eXczJL7toCaG3xyC/c9rLos3q/hZtwG6tBn43h0RoL+BZ8gmfG3PCvCPwJcOb2TPv4mw+hkC7y+ln9g2mNLaw/88/f2OTCFKIBv38vF/NrRhYuO6ycJESUa",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "bd5ea13250f6b5e09a541b34f2ee0f05",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. ,8  1  2  3  4  5 6  7 8 910  °  Vn [m3/h] Luft / Air / Aria dv = 1,00  0,2  0,3 0,4 0,50,6 0,8  1  2  3  4  5 6  7 8910  °  Vn [m3/h] Erdgas/Natural gas/Gaz Naturel/Gas metano dv = 0,65 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJyVk8lu2zAQhl9loFOLOha1WwV6qJsgKJAUuTQXxxBocmyzlUSBpIq6gd89M4qDXtIUFjBcxO+fTdTqMcIWO+xDY3T0EaJML7aVSEVR1TWWuV5gXW3KBDNZCtS5imYQdRiklkES/xjxovF2dApf9tgohzRNDpMqz4Wo6rScCxZP553VZmveAAZnFXr/l0jqvKyzeVWKOstq5gZ0nfHe2N43p2xWjxF55jyyLBX5cU2YQ2WdblqrZLBuSnGQYc9+4+8enY+dUUo6TUIfnAzGx3cHtZeuu3P2B6rgYz32O98MVsXaqpG75S9sj3GaFEVVNdfS345tMEsK0twum1wUF3mSwlJUzeWyuZwPehsdj5TM1rTYy44zjM4Rn6ThMExSOQytoXqo9vh03Mp+N8odem5DhP0u4uIHetP0Y7dBrrzgFAL+DlNThQBYkJVkBVlOlpGtARyABNgApLTvAFbAzwDwMKapKAES1pKUlCQkHYCHex5YSOABoIIlAHFX75lYXly+uwG4fZ1NmU0YjxlOXlWltJfeeHh5PkBSPIxCbAR8mVFOSQbdRroZBLo9P7GfeNRg+zdY7Q7PHPzfr0d1Dqvsc1GzaUh5yMhyskLMSpoWE5BO5eXczJL7toCaG3xyC/c9rLos3q/hZtwG6tBn43h0RoL+BZ8gmfG3PCvCPwJcOb2TPv4mw+hkC7y+ln9g2mNLaw/88/f2OTCFKIBv38vF/NrRhYuO6ycJESUa",
+      "is_continuation": true,
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "22831cbaa53a138fd2f64b1a89abe5c8",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. 5 … 6\n\nVolumenstrom-Druckgefälle-Kennlinien im ausgeregelten Zustand mit Feisieb",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztUk1vEzEQ/Ssrn0nW6/1wt8coKgdUlANwoK0sZzy7NXjtlT8kqij/HTukAnFA4oo42Z557/m90TycCBpc0EahFbmtSAd8oiPydprwpj9OANhJ4Kylw8AYUvKmIgtGqWSUGX8i5SKCSx7w9Y0CPObjItjwrqOUj2zYXsiX/uKUnvQfAKt3gCH8RDRjN4ztlg90bNux4Fb0iw5BOxvE1c3DiWTl4qNtGe3OTxnmEZxXwjiQ0fmLxVXG56JbfwzoQ+01gPQqE0P0MupQH17gWfrl4N0XhBhqlewcxOqgVg5SmVbYOIs1a/qec/FWhvtkot7lT8T9TnS033QNq3aUi/1O7Lermsj5nM1M2qCVS3FI/oZ8pcaX9UKV62p0zpOz19e2kXZOcsZQxkDQzqSEX3NF2LQcsSTvi4WI32LR6KvHxCgbqqHQX5UPmfD+Bz6Df18OLhFpg10LN9ADa5kajsMIMDaUtQ3w/8vxjyzHJ2dKkhzZLZu9T/B1xukxUYqdMbh5h9YabTXaSi+VTGFGjzOamAufU4jSqmrRsbpDHTQef12wDzoaJOen7yFmZ9w=",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "c67f95e675b6265a8f13300cdf9e0359",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. 2  2  S     ,  0  2  S     7  0  4  -  B  M  2  2  S     ,  0  2  S     0  1  4  -  B  M  2  5  S     ,  0  5  S     7  0  4  -  B  M  2  5  S     ,  0  5  S     0  1  4  -  B  M  2  2  S     ,  0  2  S     2  1  4  -  B  M  2  5  S     ,  0  5  S     2  1  4  -  B  M  p   = 3 mbar  Br  360  300  200  150  100  Empfohlener  80  Arbeitsbereich  60  50  40  30  ]  r  a  b  20  m  [     p  ∆  10  8  6  5  4  3  V min. M  7  0  E) 4  B-D(L  V min. M  2  1  0 / 4  1  E) 4  B-D(L  B-D(LE) 407 Rp 3/4 - Rp 3/4",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJyVVNtu2zAM/RXCTxvmxPI9GbCHei2GAQ1QbFhf0sCQZTnRFl8gycOKIv9eUknWdl27xbBu5CF5SMpe3nlyK1vZ2VLV3nvwZBVxnvA4bepZVYsolTOZJ2HO64bn+Tz1fPBaaXnNLUf8nUeb0vSjFvJ4lqXQEhfnMMyThLF8HmVTRsZO3/a1atQrgEH3QhrzgAjnSTaPp3nG5nE8J9wgdauMUX1nygOb5Z2HnolHHEcs2a0QpqXodV1ue8Ftrx3FgdsN+Q2+GalNoJUQXNdoaKzmVpng6lZsuG6vdP9dCmuCeuzWphx6EdS9GKlaZtJ3MojCNM3z8hM3i3FrVYFBykVRJiydJGEEBcvL86I8nw514+12SKZRW9nxlhh6pxgfTO3t4Ez5MGwV5oO5Bwf1lnfrka+loTJ4slt7lPyAkrIb20pS5ilRsPKXdeEB8P0K9PgA7NExd8cEYAJQACyc6iUw7sNn4PQpOH3V80vgv3p+iUZ0Co3n4AGlHyCGtuIaZTjiDC1iRjFoClOaaHfRDk2/wT5KRM1QcKYrqazBGkslNgBkSOjEOQBYASCSA1TkC6AFWDoaGPRmjCKWkWf0haaOJBKLAa6hVd2UyO2rdvGWFMXk/M3lY+U+FwYBacM/YG4hCcvhywBxkGDKh82DEm8bytKjMn2qZCQL96rQFWtxrG/BjTJwfN5hkW5GxioGH33MKNyX0weLH/MP2Tm8rKHvXsHW+naPg3/7NVKcghX9vlS+myKaYhwJjpT5GS4zB4hc+RNqRUbFn8E8ZPvWYTupq9Rh7Hz4+3YcQsJ1B8s2DjYruBwbiz05U5pmrTjUP/GGhT7BT4r+v8HpL3D8QXxu8cP3dqt77KBkOg==",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "5826b392bd8cd6e21e7d2f4dc0c33baf",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. 30  ]  r  a  b  20  m  [     p  ∆  10  8  6  5  4  3  V min. M  7  0  E) 4  B-D(L  V min. M  2  1  0 / 4  1  E) 4  B-D(L  B-D(LE) 407 Rp 3/4 - Rp 3/4 B-D(LE) 412 Rp 5/4 - Rp 5/4  B-D(LE) 410 Rp 1 - Rp 1  M  M  M  2  Basis         + 15° C, 1013 mbar, trocken  Based on  + 15° C, 1013 mbar, dry  Base          + 15° C, 1013 mbar, sec  Base          + 15° C, 1013 mbar, secco  1  0,1  0,2  0,3 0,4 0,50,6 0,8  1  2  3  4  5 6  7 8 910  20  30 40  60  80 100  200  °  Vn [m3/h] Luft / Air / Aria dv = 1,00  0,2  0,3",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJyVVNtu2zAM/RXCTxvmxPI9GbCHei2GAQ1QbFhf0sCQZTnRFl8gycOKIv9eUknWdl27xbBu5CF5SMpe3nlyK1vZ2VLV3nvwZBVxnvA4bepZVYsolTOZJ2HO64bn+Tz1fPBaaXnNLUf8nUeb0vSjFvJ4lqXQEhfnMMyThLF8HmVTRsZO3/a1atQrgEH3QhrzgAjnSTaPp3nG5nE8J9wgdauMUX1nygOb5Z2HnolHHEcs2a0QpqXodV1ue8Ftrx3FgdsN+Q2+GalNoJUQXNdoaKzmVpng6lZsuG6vdP9dCmuCeuzWphx6EdS9GKlaZtJ3MojCNM3z8hM3i3FrVYFBykVRJiydJGEEBcvL86I8nw514+12SKZRW9nxlhh6pxgfTO3t4Ez5MGwV5oO5Bwf1lnfrka+loTJ4slt7lPyAkrIb20pS5ilRsPKXdeEB8P0K9PgA7NExd8cEYAJQACyc6iUw7sNn4PQpOH3V80vgv3p+iUZ0Co3n4AGlHyCGtuIaZTjiDC1iRjFoClOaaHfRDk2/wT5KRM1QcKYrqazBGkslNgBkSOjEOQBYASCSA1TkC6AFWDoaGPRmjCKWkWf0haaOJBKLAa6hVd2UyO2rdvGWFMXk/M3lY+U+FwYBacM/YG4hCcvhywBxkGDKh82DEm8bytKjMn2qZCQL96rQFWtxrG/BjTJwfN5hkW5GxioGH33MKNyX0weLH/MP2Tm8rKHvXsHW+naPg3/7NVKcghX9vlS+myKaYhwJjpT5GS4zB4hc+RNqRUbFn8E8ZPvWYTupq9Rh7Hz4+3YcQsJ1B8s2DjYruBwbiz05U5pmrTjUP/GGhT7BT4r+v8HpL3D8QXxu8cP3dqt77KBkOg==",
+      "is_continuation": true,
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "8a9201d0a942ca97e515f8df2c863dc1",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. bar, secco  1  0,1  0,2  0,3 0,4 0,50,6 0,8  1  2  3  4  5 6  7 8 910  20  30 40  60  80 100  200  °  Vn [m3/h] Luft / Air / Aria dv = 1,00  0,2  0,3 0,4 0,50,6 0,8  1  2  3  4  5 6  7 8910  20  30 40  60  80 100  200  ° ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJyVVNtu2zAM/RXCTxvmxPI9GbCHei2GAQ1QbFhf0sCQZTnRFl8gycOKIv9eUknWdl27xbBu5CF5SMpe3nlyK1vZ2VLV3nvwZBVxnvA4bepZVYsolTOZJ2HO64bn+Tz1fPBaaXnNLUf8nUeb0vSjFvJ4lqXQEhfnMMyThLF8HmVTRsZO3/a1atQrgEH3QhrzgAjnSTaPp3nG5nE8J9wgdauMUX1nygOb5Z2HnolHHEcs2a0QpqXodV1ue8Ftrx3FgdsN+Q2+GalNoJUQXNdoaKzmVpng6lZsuG6vdP9dCmuCeuzWphx6EdS9GKlaZtJ3MojCNM3z8hM3i3FrVYFBykVRJiydJGEEBcvL86I8nw514+12SKZRW9nxlhh6pxgfTO3t4Ez5MGwV5oO5Bwf1lnfrka+loTJ4slt7lPyAkrIb20pS5ilRsPKXdeEB8P0K9PgA7NExd8cEYAJQACyc6iUw7sNn4PQpOH3V80vgv3p+iUZ0Co3n4AGlHyCGtuIaZTjiDC1iRjFoClOaaHfRDk2/wT5KRM1QcKYrqazBGkslNgBkSOjEOQBYASCSA1TkC6AFWDoaGPRmjCKWkWf0haaOJBKLAa6hVd2UyO2rdvGWFMXk/M3lY+U+FwYBacM/YG4hCcvhywBxkGDKh82DEm8bytKjMn2qZCQL96rQFWtxrG/BjTJwfN5hkW5GxioGH33MKNyX0weLH/MP2Tm8rKHvXsHW+naPg3/7NVKcghX9vlS+myKaYhwJjpT5GS4zB4hc+RNqRUbFn8E8ZPvWYTupq9Rh7Hz4+3YcQsJ1B8s2DjYruBwbiz05U5pmrTjUP/GGhT7BT4r+v8HpL3D8QXxu8cP3dqt77KBkOg==",
+      "is_continuation": true,
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "2d8fa6c676a1f1193d0480a16959491f",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. Vn [m3/h] Erdgas/Natural gas/Gaz Naturel/Gas metano dv = 0,65\n\nf=",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztUk1v3CAQ/SuIc7L+AC+mUi6rVDklyiHtZbVCYxh7qWxjAY6arva/F7YbteqhUq9VTwzMe2/eDLM/URxxwjkqa+gHQitkdcv7liEXQiLflqzsW6kRu45hy+kNoRNGMBAh4U80Byq41Wt8v6PSHtPxQ1BwXpZC1ttNmcmX/OSM7e0fAIt3GkP4iagk30q2EdtSMiYzbkE/2RCsm4O6utmfaFLOPhirS34+JJhH7bxRo9MQnb9YXCAes27xKaAPhbdagzeJGKKHaEPx/KaP4Kdn776gjqEw6zwEtThdGKfXPK1w62Ys6qpphFAPEB7XMdpdKqIed4qXzS2varIrhbrfqfvNYnp6PiczvR1xhik7pH9DvlLj23KhwrKMNvWTei+u6RHmYYUBQx4DxXmgufklvah5nTrMnTfZQsSvMWt8nsl+YsXxQD56M0AoniCuHkaS4wf4Ri53HFMcSP7x2RHzSu5IebNtcsV3M0/g89Re8SUrpxK/rxSvW1GDaU0nZdWLCiSwxjSy72vGTVf9X6l/ZKX6u1/34sXGEen58B16El3e",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "314f0606378a8d9f53ecb6ffc4a66548",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. Dichte Luft Spec. weight air poids spécifique de l'air Gasart Dichte [kg/m?] | | dv Dichte des verwendeten Gases Stadtgas Flussiggas 0.58 2.08 0.47 1.67 1.46 0.77 Spec. weight of gas used Luft 1.24 1.00 1.00",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Dichte Luft Spec. weight air poids spécifique de l'air</td><td>Gasart</td><td>Dichte [kg/m?] | |</td><td>dv</td><td/><td/></tr><tr><td>Dichte des verwendeten Gases</td><td>Stadtgas Flussiggas</td><td>0.58 2.08</td><td>0.47 1.67</td><td>1.46 0.77</td><td/></tr><tr><td>Spec. weight of gas used</td><td>Luft</td><td>1.24</td><td>1.00</td><td>1.00</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJydVNtu1DAQ/ZVRHuAFYidxNhsoIFUFXkBC4iKkUkVee7JrSOJgO4W27L9jZ7PpQik3KUrGcz0zc5zTqwgbbLFzlZLRA4iyHFmxzFhCcVks85LmqWCLokTOFrVgLLoHUYuOS+6497+KglBZPRiB+zNWwqD/jAmTgjFKizJdxDQEj/ZWS1Wr3zj0Rgu09tojKdmizOJiQcssK4Nfj6ZV1ird2WpCc3oV+cwBR5allG3PvJtBoY2sGi2402aE2HO3CXnJW4vGEqOE4Eb6QOsMd8qSVxdiw037yuiPKJwlcujWtuq1IFKLIUzL3tcdkjTJ86KonnP7cmicOvZFqpfHFaP5fZakcEyL6uS4Ool7WUfbrQdTqwY73gaE0b8ET6Huoh9Ded83yvfjeyeTueHdeuBrtGEMEXbrKDTfe03VDe0KQ+f5qDHXy2bpski5XMpVWSZ1kfCSZ7nMy7pOMyZXSUjs8KuruK02rm1CzJHjqwYfH7kNcuk/JoiPT5TYOIQXQ+3gdY8ihi+o1hsHXBnotZIWbP9hoBRL4Tf/eUCQCM1dbz4iPj7k8JPgxs3HKeXppzVpn5zBN/g2m+T5LP4kkICH7LGttLyYIMp9Pr9lOEfzBTuJDjvwVdH6EDk6vfbMdmtu4VkzeG6tvTjbaJwvIY3p8kDDCkjiRTFrkpgtgMbFtWYnjLgmID/MR9cQyg2e6nNImOJBxpQdHCj99eFmmVumPvh6lzA41Si7M0GPVntHDD5C+wk1O0zB5/LSX5u5ij4YnQ2jI4cDCk2QG+nJLbnuNO6hPujZOU8G/xBuFJ/176E+aI1MKyU7EkbbiaCBmIcU3FEJJtUNQo6cys7+QMyf5xJwwVMjQz80XiYwk2Vkxu/45ekUatRi4tRII7iNCLsewuJvQ/g/S4TguKLw7hcrhL9aHTwCeQ61b3eR7+BNF8BzPtyCkfgQaLl77QuO/ZBxtdN64SuMf639D+1NWGe0PfsO5pIepA==",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c0c4ecf65f812f62128a4cef6a0104e7",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. poids spécifique du gaz utilisé peso specifico del gas utilizzato o verwendetes Gas/gas used/ gaz utilisé/gas utilizzato <o Luttairair/aria X f",
+    "metadata": {
+      "text_as_html": "<table><tr><td>poids spécifique du gaz utilisé peso specifico del gas utilizzato</td><td>o verwendetes Gas/gas</td><td>used/ gaz utilisé/gas utilizzato</td><td>&lt;o</td><td>Luttairair/aria</td><td>X f</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJydVNtu1DAQ/ZVRHuAFYidxNhsoIFUFXkBC4iKkUkVee7JrSOJgO4W27L9jZ7PpQik3KUrGcz0zc5zTqwgbbLFzlZLRA4iyHFmxzFhCcVks85LmqWCLokTOFrVgLLoHUYuOS+6497+KglBZPRiB+zNWwqD/jAmTgjFKizJdxDQEj/ZWS1Wr3zj0Rgu09tojKdmizOJiQcssK4Nfj6ZV1ird2WpCc3oV+cwBR5allG3PvJtBoY2sGi2402aE2HO3CXnJW4vGEqOE4Eb6QOsMd8qSVxdiw037yuiPKJwlcujWtuq1IFKLIUzL3tcdkjTJ86KonnP7cmicOvZFqpfHFaP5fZakcEyL6uS4Ool7WUfbrQdTqwY73gaE0b8ET6Huoh9Ded83yvfjeyeTueHdeuBrtGEMEXbrKDTfe03VDe0KQ+f5qDHXy2bpski5XMpVWSZ1kfCSZ7nMy7pOMyZXSUjs8KuruK02rm1CzJHjqwYfH7kNcuk/JoiPT5TYOIQXQ+3gdY8ihi+o1hsHXBnotZIWbP9hoBRL4Tf/eUCQCM1dbz4iPj7k8JPgxs3HKeXppzVpn5zBN/g2m+T5LP4kkICH7LGttLyYIMp9Pr9lOEfzBTuJDjvwVdH6EDk6vfbMdmtu4VkzeG6tvTjbaJwvIY3p8kDDCkjiRTFrkpgtgMbFtWYnjLgmID/MR9cQyg2e6nNImOJBxpQdHCj99eFmmVumPvh6lzA41Si7M0GPVntHDD5C+wk1O0zB5/LSX5u5ij4YnQ2jI4cDCk2QG+nJLbnuNO6hPujZOU8G/xBuFJ/176E+aI1MKyU7EkbbiaCBmIcU3FEJJtUNQo6cys7+QMyf5xJwwVMjQz80XiYwk2Vkxu/45ekUatRi4tRII7iNCLsewuJvQ/g/S4TguKLw7hcrhL9aHTwCeQ61b3eR7+BNF8BzPtyCkfgQaLl77QuO/ZBxtdN64SuMf639D+1NWGe0PfsO5pIepA==",
+      "is_continuation": true,
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fd2072756dd805706590c83c54bd2c96",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MB_405-412 B07. Produkt ID: 215577. Der Dokumentyp is Datenblatt. GasMultiBloc®\n\nRegel- und Sicherheitskombination einstufige Betriebsweise integriertes Bypassventil\n\nMB-D(LE) 407 - 412 B07\n\nDUNGS Combustion Controls\n\nÄnderungen, die dem technischen Fortschritt dienen, vorbehalten\n\n5 [=\n\nHausadresse\n\nKarl Dungs GmbH & Co. KG\n\nSiemensstraße 6-10\n\nD-73660 Urbach, Germany\n\nTelefon +49 (0)7181-804-0\n\nTelefax +49 (0)7181-804-166\n\nBriefadresse\n\nKarl Dungs GmbH & Co. KG\n\nPostfach 12 29\n\nD-73602 Schorndorf, Germany e-mail info@dungs.com\n\nInternet www.dungs.com\n\n6 … 6",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.7609339",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "215577_GasMultiBloc_MB_405-412 B07_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztmVmP2zYQgP8K4YciQeM176NAgcLZdhOkCRbd5CkJjCE5tNXakkHKu1kE+99LuZsmPVDUQV+q6EkHZ6gZ8sMc4uv3M9ziDtt+1cTZN2SmgrXCKhURolAuOsNQ2CCZ5woVD7NHZLbDHiL0UOXfz4abVekOOeCHZ1yFjPVynJAZKSk1juszOigfx3ddbFLzDwL73AUs5aMEc1I7cWY0dUK4QW6PedeU0nRtWd1b8/r9rM482CEEp/LubRXLGLocV9suQN/lo4l76DfDvItXBXNZ5CYEyLEqlj5D35TF5W3YQN5d5u5nDH1ZxEO7Lqt9FxaxC4dhtcq8a3HBmVLGrC6gPD9s+2ZZP7J6vlxJquaScbKkZnW+XJ2f7WOa3d1VY1KzxRZ2g4WzU5TvVfvb/VEV9vttU/2pvi/uh7fQrg+wxjIswwzb9Wxwfl/frNrDzuPguT6+yR83W3JrOEQbvXMsGQYOhIrKpcSFjJ7NBpt7fNcPwp8a+uZAKeDw3Q8mvYA8rN01vhzEq96fwUoUrDcmiADBmaAjpc6zpIS3dW+ZncD6UsH6Cde4nZNDG8lVEzaYN9j05Zdu55v2aArBpi39ITVrJEvsc4O+3GBTkDRtj+v6nHssZHm7h1KuqxXN9iQ0haJcC4xKOCqTcspT4IZRGRMLMcYJzS8VzefL+fmDH79/SCQ1ZE7ubTwNLp4wIVPSMyVSTAJTRPReoElcRj3B9T+G61NWzl+9uLgij2vYOpRj1HrctX3utuVTXJ7u6gR/h0nUkkURKHhjpVIyJI7gGTUASSZvJkxGgslQOgXZRszVOWwfkdggibgjPYZN25SaAFvyQ5f7epebvh/G20HuusseN7DtsT0pAGnuUgzBWRBBM+OU9d4xgUg5R+7lRNZIyFLk9bf/KtYI6bRQwBWjNRMpFiirr5IXDAx6ziciRkLEEzgUiHlY5JNCBnCH0oBLvJZItVySwXAUXgHjiWt0EyAjAeQZ5C05HxwjFzv/hHxVi5Yz8uziJFpo5ILFGjoweOlqUqE21mAiNDiXnJ9oGQstV82w7WVweahiYkKi54yeBEtNMSZhrW6NAxoYozxpWZNR7Yi45lPuGQ0s53MjtKbkVfYQNo/IRV1OaG9Py0NOBQbCOpC1gE0GFbWe00BRhWQlTrCMBJaXdd9TbZm/lo48oA8Ns2xuqZyfFlt8tI4qFT16hhSZZkzyJKMWVEuqp7OLUeEC7/6CC9P6JGAUAEb0NikHkIIRx5xU01EAxUBN/+bGAswyNxWYz+iEPArUhru6aF4iFyiMNoobtMaHJKffcmMh5D/phLRFaYco4qQMMnrrEZLnzEqKSfKJlrHQctmVPtWyltRvcXcSIxKirpnGhJppkqJJ1wuIGGuJiyJO5+CjYeTYAFFOrsKmy23scvq9CSI430GzJU2buu+Ovp+FbndaHx2dGc6JmE+61r2eJrDc1o0GzbEWuxNGI8HoadtjbrEnNzc3Z5/HipXB0aASr2GHUZqS1npISsbZoCWHiZWRsKLJmwOnXJM/tEGXVeHFb/J3b38FSd1xnw==",
+      "product_id": "215577",
+      "product_name": "GasMultiBloc_MB_405-412 B07",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  }
+]

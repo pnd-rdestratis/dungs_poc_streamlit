@@ -1,0 +1,1854 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "d799e8dfe5a7ff8687e1e40a6d68ee85",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. DUNGS Combustion Controls\n\nHEIZWARME | PROZESSWARME | GASMOTOREN\n\nAxial-Kompensatoren  ACO 50 II, ACO 50 EE und ACO 100  Technisches Datenblatt \n\nEdition XXXX ∙ Nr. XXXXXX_DE\n\nInhaltsverzeichnis | ACO 50 II, ACO 50 EE und ACO 100\n\nInhaltsverzeichnis",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztll1PHCEUhv/KZK7VHZgPht5Zd6ubxo+4mhqtmRzg4E4zXwHW1Fr/e2Gq6aYx1t5pstwMzLy8HDjPAFf3MTbYYueqWsUfopghlCWDQkGJRBcSZaG5kKVIykSnTMRbUdyiAwUOvP4+DpXK9isj8amNlTToH6MhYVmWJIxTupOEzuP3tle1rl8QDKaXaO0fBeFZwdOdgjOSFjzoBjRtbW3dd7Z6jObqPvbOIY40pUn2cO1lBmVvVNX0ElxvxhAHcMvgOzm3aOzE1FKCUb6jdQZcbScnd3IJpj0x/TeUzk7Uqrux1dDLierlKqyW3e47nPCxVJ/7dsDOBv9q+rGa7gxKxw8PfnBdN9hBGyKKXxI/St3dMEphGJrax+vnNnn83EB3s4IbtGGaMXY3cZjc4N9U3aoVGGZGwpAOv7vgMT0/2l9Ee30rVjYY+WrnTN/Y4PY00Lz1BrHv9jcGGpTUhc4gJZni4BEoBGeC0EQhS1W+weCdYHAwm19+2T09nEU/o5PT48vZYvHU3N9dHB6fHZ/OjtaROKtd8ywSQDXkkMiC+g0CE79HcCJEloJPG+E5bJB4J0jsfq+h2V4bDbso2t07jvIkms+3nqqzWbTq1NgiSRJFZyiXXW3lEm009ZnoRAPORa/aTpSSCWcyL6mkudSCkQxkKhmligpFig0774SdmarHw+TCl+jrilLCoyOzM7YvLqrpbB2HT33vvMUzPHBBgBS61CjyUvOSSE50giwRTCidqw0P74SH110mipypTII/JxTVSmSaaKZzmjOiJf5e502232a26Xq2590SGmdv0fzAejwN/DXiXyfHOiIHCOr5HUEKZIUSkkoiMn/nhIRRoJxphrkWmwvnm2ZkfGP+44d/Gap1Yo7AhLW5xbMgf7j+BbwCpek=",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "e25068bb9735b54ea1bf46e41ce125de",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Funktions- und Sortimentsbeschreibung 1.1 Funktionsbeschreibung 1.2 Anwendungsbeispiel.... 1.3 \" Produktiibersicht \"Axial-Kompensatoren 1.4 Typenschlissel Produktbeschreibung ON Richtlinien, Normen und Zulassungen Technische Daten b~ g EinbaumaBe",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>Funktions- und Sortimentsbeschreibung</td><td/></tr><tr><td>1.1</td><td>Funktionsbeschreibung</td></tr><tr><td>1.2</td><td>Anwendungsbeispiel....</td></tr><tr><td>1.3</td><td>\" Produktiibersicht \"Axial-Kompensatoren</td></tr><tr><td>1.4</td><td>Typenschlissel</td></tr><tr><td>Produktbeschreibung ON</td><td/></tr><tr><td/><td/><td>Richtlinien, Normen und Zulassungen</td><td/></tr><tr><td>Technische Daten b~</td><td/></tr><tr><td>g</td><td>EinbaumaBe</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzlWG1v2zYQ/isEPzfWq6VoyAIkyDYMw7KiS1FgdSFQ1MnmSpECKbVNA++378j4rbFjBNgWAdkBgmzq7uFzbxSp93cUJLSg+lLU9DtCkwwYnIZVnk9ZHrLstGpCiKZpkcfTvGim9BWhLfSsZj1D/TvqfpRWD4bD+j+U3ADePGCUp2kY5kUcT0Jn7J+3uhaNOKLQGc3B2q1GVKRZkUyyIo+SrHB6HZhWWCu0suWKzfs7isiOR5LEYbr8gGoGuDZ1KTVnvTaeYsf6hcMN3lowNjCCc2ZqNLS9Yb2wwetbvmCmfW30n8B7G9SDmtuy0zyoNR9ctOyJVhAUXspfdNuBsg6/vLosryZd3dDlEidvhATFWseIHlNeqfa3nVdlXScF8kXfgtVjydR8YHOwzk0Kak6dcx2OlGpoK3CexX7EbJPZZNO8TjkLw6iOm7pKm6jJmylmMmo43Iexhy99yWy56FvpbM56Vkk4P+srXd/izeBVE6M/246p72d0OqPnZ0Ff+2Gu5Wo4xuEfB/XRcbYnZFA1+V2bXvhgVWD5woCoMI4b20OQgZ/OT3keTaK17hZ5H+lbk3hjcqE+g/KJq0DYToCcoByySTY2M0ow5/WAcwkMqRV80ZMZvfgimDzZSRyoQzjpBufm1mnyhcT6BLmnuxO2BF1fTbnrGvntegO2P9WDR3i9cUylUALUK3KtDUbdp+CPQTJrEXDN+BDeAzo3wBdKIBcgV9iKilR/HeEyf6QWfhCqYkPLLuGIsT5qLLG4N8ZRvG9+/Yj5JTYySIl90YLZOh4l+65vi9AZvnsE8B2IHgyQn1WDsfV9CWpdTA45OxZUh3A6icjb1rjQuvR+0or8irERauGg1eTJYC5DP0ltLTPBRfVRCPPV1fgnMF9B+MTtIOU7SMGqoYP7/qbLVe/7BZY8qXUnL0VIQnB1IQdXlbG5/Zfi/Y7J4aXxJYt3PFkv7rMhDBt+fIGf0bE5/1PxPqdk8y6699q9kMZm9lxCUhKTA2/XsXk9m5ApFsET9gZj8/xXhWSY94ebmLFJPbeQHHO/3oO5zq8bGJvTaEIKrIntnnJsOiMKiWKsjG/3x2Nzen4hUUJOySOb+v+HkCgjB88kq7Vi52DyksS5XZCd89P9pmj/DPUyhUS5/+Sz+sx0406CdPnhb8QuyJ4=",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b8d576f520e0b027a60d348434816f60",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. o Einbaulage 12 N Bestellnummern 13 W Weitere Informationen.. 16 8.1 Umrechnung von MaBeinheiten... 16 Glossar/Abkiirzungsverzeichnis. 17",
+    "metadata": {
+      "text_as_html": "<table><tr><td>o</td><td>Einbaulage</td><td>12</td></tr><tr><td>N</td><td>Bestellnummern</td><td>13</td></tr><tr><td>W</td><td>Weitere Informationen..</td><td>16</td></tr><tr><td>8.1 Umrechnung von MaBeinheiten...</td><td>16</td></tr><tr><td>Glossar/Abkiirzungsverzeichnis.</td><td>17</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzlWG1v2zYQ/isEPzfWq6VoyAIkyDYMw7KiS1FgdSFQ1MnmSpECKbVNA++378j4rbFjBNgWAdkBgmzq7uFzbxSp93cUJLSg+lLU9DtCkwwYnIZVnk9ZHrLstGpCiKZpkcfTvGim9BWhLfSsZj1D/TvqfpRWD4bD+j+U3ADePGCUp2kY5kUcT0Jn7J+3uhaNOKLQGc3B2q1GVKRZkUyyIo+SrHB6HZhWWCu0suWKzfs7isiOR5LEYbr8gGoGuDZ1KTVnvTaeYsf6hcMN3lowNjCCc2ZqNLS9Yb2wwetbvmCmfW30n8B7G9SDmtuy0zyoNR9ctOyJVhAUXspfdNuBsg6/vLosryZd3dDlEidvhATFWseIHlNeqfa3nVdlXScF8kXfgtVjydR8YHOwzk0Kak6dcx2OlGpoK3CexX7EbJPZZNO8TjkLw6iOm7pKm6jJmylmMmo43Iexhy99yWy56FvpbM56Vkk4P+srXd/izeBVE6M/246p72d0OqPnZ0Ff+2Gu5Wo4xuEfB/XRcbYnZFA1+V2bXvhgVWD5woCoMI4b20OQgZ/OT3keTaK17hZ5H+lbk3hjcqE+g/KJq0DYToCcoByySTY2M0ow5/WAcwkMqRV80ZMZvfgimDzZSRyoQzjpBufm1mnyhcT6BLmnuxO2BF1fTbnrGvntegO2P9WDR3i9cUylUALUK3KtDUbdp+CPQTJrEXDN+BDeAzo3wBdKIBcgV9iKilR/HeEyf6QWfhCqYkPLLuGIsT5qLLG4N8ZRvG9+/Yj5JTYySIl90YLZOh4l+65vi9AZvnsE8B2IHgyQn1WDsfV9CWpdTA45OxZUh3A6icjb1rjQuvR+0or8irERauGg1eTJYC5DP0ltLTPBRfVRCPPV1fgnMF9B+MTtIOU7SMGqoYP7/qbLVe/7BZY8qXUnL0VIQnB1IQdXlbG5/Zfi/Y7J4aXxJYt3PFkv7rMhDBt+fIGf0bE5/1PxPqdk8y6699q9kMZm9lxCUhKTA2/XsXk9m5ApFsET9gZj8/xXhWSY94ebmLFJPbeQHHO/3oO5zq8bGJvTaEIKrIntnnJsOiMKiWKsjG/3x2Nzen4hUUJOySOb+v+HkCgjB88kq7Vi52DyksS5XZCd89P9pmj/DPUyhUS5/+Sz+sx0406CdPnhb8QuyJ4=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "c8af747827ccde28b7e89cde13f82c44",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Edition XXXX ∙ Nr. XXXXXX_DE\n\n2 / 18\n\n1 Funktions- und Sortimentsbeschreibung\n\n1.1 Funktionsbeschreibung\n\nDie DUNGS Axial-Kompensatoren ACO bestehen aus einem Balg aus ringförmig umlauf- enden Wellen. Durch die hohe Biegsamkeit der Wellen entsteht eine allseitige Beweglich- keit trotz ausreichender Druckfestigkeit.\n\n!\n\nAbb. 1: Funktionszeichnung Axial-Kompensator\n\n1 Axial-Kompensator\n\n2 Einlagiger Balg\n\n1.2 Anwendungsbeispiel\n\nKompensation relativer Bewegungen bei Brenneranwendungen\n\nCD OED BOY 5] I 1 I Ty",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztmOtv2zYQwP8Vzp8XW3yIFPstqdOhGJAEaIplaAODj6PNRQ+DktamQf73HdVkNbqgW7AvMWABhkXpeA/eT9SdPtzNoIYG2mEV/ewVmUlHPTOuElWhK6ZLJx0TsuLaF4p6HWY/k1kDg/FmMCh/N8snq74bk4PHMaxcAvybFFIlRFEozdi8yJOn+03nY4g/ENimzkHff5OgWkjN51IryqXOcltITez72LX96sGbD3cz1Jz94JwV4v4axRK4LvlV3TkzdGlycWuGTda7eN9D6hcpOmeSx4n9kMwQ+8XFrduY1Fyk7g9wQ7/wY7vuV9vOLXznxrxa/VHXwkJPx+rXrtlC22f9q+XJajnf+jC7v0fjIdbQmiZ7NPuR8IPocLudRM12W0f0F2NbPNyuTbsezRr6HOYM2vUsB7fFK6t2bCzkyFg2OcDnIes49THPJ1d4kI8jY1STszSfxldXq+Vp1vpo8E3XDagC53/PAy8sKG0qG2hpvBRcqsC0Kx21ogpMHXjYEx4YWRBa7Sb9AoXPvso+lfjKloXnlaMmWAbKurKwTFkPojCBVYfEv9zE893EU/JmbG+yiv6IjK0n77o0xMl3C73bJIgWw9ol4zIONTwFhQFVcCYUlRy8N4Y6S12AwCwNVHp3gGJfoJjvYPF8DGQodeA0qEKUyoATthLMGcmNs8HAAYMXjMF0JT3jmd7lZhmBLN+f/fKOHH+Opj7acRRacvz6nCBMA2xwYMaeQGyhISemXk/DFNt1+DgWRZCYljUZm9qM4YhA63HCb1DjQszJEjHZEI+WNt0GyEmEdW+aG4gD8ZAexEheXzQ0TDaIqeseBeIa5eETrHFlNkdkmjOkbviSzSPhbpNNJbJMo7sJ6GlcZ5n5LvVnJuUE/wmXOeYn6A/eh0JoRgtLmalkUWohJJVKgmACzIH+F0z/Lsw/7ab9bYOCT6VbU6DYAWFmucTHwirqNEDJVOkCLvShENqXdB9bOyf01bf33pe8IbQYyT83s2dtCEIb5hirWLAuaFHyMoTKCa9KbLog+AMhe0II/Z8gBK6xUVZQOm/BOKYrbr2S+fUgmWDFAYQ9AYGR09jWZo31RJrKl2dhUDFptaGiCEKwkouARRUoxbjHWkFWhwJhXzCgc0aO209YM2bnLcR+G6H+Ty2SoByLBC44deBKWUpVcqoVKGyWKqb1gYEXzMD3LdK/PtC70PztWP76mqCetor0tS3B+LF1QZDICapvIZlHuqB91hbjKGeBKw1KW6kK5fP3OaVLgYWpAHn4EPOS8dql5fWSnJ8uycn576S8Jm8Jxd/l7RONyfVf/ykulQ==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "3e00c1d602edf4d3939ec081c02fae8d",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Die Axial-Kompensatoren gleichen Druck- und Wärmedehnung in der Gas- und Luftzu- leitung des Brenners aus.\n\nFunktions- und Sortimentsbeschreibung | ACO 50 II, ACO 50 EE und ACO 100\n\n1.3 Produktübersicht \"Axial-Kompensatoren\"\n\nP 500 kPa/72 PSI Innengewinde Gewinde P, =500 kPa/72 PS Axial- Kompensatoren AuBengewinde Flansch ss= P, =1.000 kPa/145 PS ACO 100\n\nAbb. 2: Produktübersicht Axial-Kompensatoren\n\n—\n\nMedium: Brennbares Gas\n\n—\n\nMedium: Nicht-brennbare Gase/Luft\n\nEdition XXXX ∙ Nr. XXXXXX_DE\n\n3 / 18",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztmG1v2zYQx78KodeNTVKkKAboi2RJumBbZqAtFqApBD4cHS2WZIjS+pDlu++oOKi7uQWyVzVgv5Eo3Z2OvJ//4undfQYraKAdqtpnxyRzOkCgOpdGKmMEp5Rz4QslvWKlFmX2gmQNDMabwaD9fZZOqtiNvYOnMVSuBzxMAZkSglKlOZ/R5Dzdbzpfh/o7Buu+cxDjFwumRaHzWaEVywud7NbQN3WMddfGapPNu/sMI6c88pxT8fAezXpwXe+rVefM0PVTimsz3Ka487cR+jjva+dM79ExDr0Z6jhffHK3pm8WffcnuCHO/dguY7Xu3Nx3bkyrFY+6FuZ6+lW/dM0a2pjiV2en1dls7UP28IAPD/UKWtOkjLLvGW9Mh0/rydSs16sa88W5zTe3V6ZdjmYJMU0zg3aZpcmt8UrVjo2FNLM8PXKAj0OKcVYDOflYm9XR1hOhJcsV1O4WT8760d0dkbH15I+bkVIQfQMeblucLKlb4qEnr0x8tPh1DMPn8Yig85Du41qRUwzX4gISM8ZZyvEp/SvTp3X8C96kXDCpf0NmDMvL0kFpNLOSlUWpVR50XrpS0ULrA2R7AtnF2N6lABtKXnf9UE+ZW4jutofaJlj+Jic//U4kJZeXL55Oz88njzRilG7T8zMYRG8XNpQXnuclt8iJtNZLW+AhMEetcYVUB2x+YGymK/0zNGCbMzbLCc7Yj3dDkqrgMGhEGRvITbZD5G6ybaDe1MMKdvHEA4dSSNBahcALZSWXFiCYwAIXuTjw9APztI3HAhWFkruFmStOFq8vySW+mNolfKhbD+TV5rh4QV5+Zbd5P5KvX5An4+kX3wvMBZWMxPhy8mczuonAhJxC/FfALhvMdBdvTActpGaB0bKwpXVcailECKJQCpQ58LYnvJ1YOyP8+BuStEOQnrU7QlHSRhfOW284yKA9Ra2kSE9A+PLigMmeYHIzcsrEdu3fthgSll1ffwb/rfrnSngLTChhy1ByT31eKBCOGl9w7fih/ntS/9/A12Nz/NgoWdz8xNRQPUsLrLT47xegpVQ5gBcKe3BjcSywH88P7fi+sPA/tcCD5trbwitPtQkasPPBXQNQo733nB3qvyf1f9KCq7RFOLJPipAEAebp68qzZIEGpZyxTGHja40RNshgbOGkZLjS+oDFvmBx7uvkT67xR1AjONPkqp9N4+vr6ux8G4uLrht2fxkJWnPpsXtmwbIctwuWWZt7KcoSjJCHTnZfeMjJnLByu+gLNL56tH14/w+EqoSg",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d00b40c750fc77919da8a63673072a9a",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Funktions- und Sortimentsbeschreibung | ACO 50 II, ACO 50 EE und ACO 100\n\n1.4 Typenschlüssel",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztVMFu3CAQ/RWLc7LGNmsvvbVNqkQ5NFLTUxIhDMMurQ0IsNTVdv+9gHaVKIdIvfVQLobhzZs3zJMfDwgmmMFEpiX6UCHZrzcCWiE3fTMOSq1xT1Os5VJSgRVBFxWaIXLJI0/4A8obFuziBZzPwISH9CmEzUAIxgNt2xXOyeV+tlIr/Q7AeSsghBdEQ0lPu1VPh6bracY58LMOQVsT2EnN4wEl5qyj61pMjs8J5kFYL9lkBY/WF4mOx13mrb8H8KH2WgjuZUoM0fOoQ32/Fzvu53tvf4CIoZaL2QbmrKilFUt+rXBpDdS0LHZnZwcmZH529YldrZxU6HhMxZWewPA5K0LvgU/QuHcFyp2bdNKbeqtP1xM324VvIeQ2EZgtys25FGFmmUfInZFcMsKvmDm+LOZnJgiX1WJk9c36qIvyEYLYedBjaqr6XX38/LVa4+r29uK8vb4uGfnU4DKSs64b4DJVSmXe2mYkYwc9iLaFhm8IJRgG1TWdSmNQig7/bfMP26ZE/F/8A177rFmR6mGftYnd9LRgrEQawPTaNg86ToCOz38AnAJlyw==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "a6730320b089834c552ed9b767eb4d59",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Produktvariante ACO50I Die DUNGS Axial-Kompensatoren ACO mit Gewindeanschluss zur Vermeidung von Schwingungstibertragungen in der Gas- und Luftleitung. Die Kompensatoren aus Edelstahl sorgen fiir eine spannungsfreie Rohrinstallation und kompensieren axiale Relativbewegungen. Geeignet fiir Gase der Gasfamilien 1, 2, 3, sonstige neutrale gasférmige Medien und Wasserstoff. ACO50EE",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Produktvariante</td></tr><tr><td>ACO50I</td><td>Die DUNGS Axial-Kompensatoren ACO mit Gewindeanschluss zur Vermeidung von Schwingungstibertragungen in der Gas- und Luftleitung. Die Kompensatoren aus Edelstahl sorgen fiir eine spannungsfreie Rohrinstallation und kompensieren axiale Relativbewegungen. Geeignet fiir Gase der Gasfamilien 1, 2, 3, sonstige neutrale gasférmige Medien und Wasserstoff.</td></tr><tr><td>ACO50EE</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzdVclu2zAQ/RVC50SLJdtVkRpIazcIugVN0x6SQKDJkcSGIgWSytLA/96hLKNOD4G75NAakLXMmzdv5mmg8/sAJDSgXCF48JwEy4wneZnkk2xMc6Cj8YRnKUziZQYxZeM02CNBA45y6iji7wN/UVjdGQabeyiYATz1hMk0y+J4mo9GYeyT+3ijuSjFI4DWaAbW/kAkeTbJ03CST5N0kntcC6YR1gqtbDGoOb8PkNnrSNNRnK0uEWaAacMLqRl12vQSW+pqzxudWTA2MoIxajgmWmeoEzY6uWM1Nc2J0V+BORvxTlW2aDWLuGadn5bd1wqivP8Vb3TTgrKev5i/LOZhy8tgtcLipZCgaOMVBY+BB6i7a3sobVspUC/2Fg1hSVXV0QqsbzMAVQW+uRafFKprluA7y/onZtvMJXoHbDSChD7L8iyGaZkmaYnDKct86okd3LqC2qJ2jfQ5B44uJcwOXA2U48n4S8K0tC1VLy6C0UUww8Hw7spdUyOocnAQuXqGf2YDnx2++jCOj9fPMdvom63suQAyP3t/dEoObwWV+1sTAUUwlTTCkSO4EYoDVZbVsrOWfOsM+Yyeg/B2kGutyCmrEVR5d5zAGaB9/gZZhCIcDDmidp90ipO3XekkCIfRkHgBD4vSzpIFB2kdrSWx2niOUghDQCggXrzyVUoDmPtR10YoxErZe9RXuFoTCuj5fGMIBA+4XsINrHWF2BaISoFbs6M+2AgtaSOkwORkj4z2SLqHOrCIqIAo6LA1JKwQdtHFMeT47mPgHXCf4et/oda/zU6XZbhlSLTxcan53eAPX/uzWGCUbxvXB0gSx+sAHrt59Vr2Nu3q1X9nVc+6q1vh1tSjwZZovXTBalhIv4g/LVk/7HFMjo/JkyyQF1qyv+/Mmvcp3dlUGAa0WPz2WpWTR9eKDNuxowG/uBX/vgF/sCIPJx/2H6bhY/jJr0awuvwOY2cBvQ==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ce06e73797634bc7dc1de9b06e3cfda5",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ACO 100 Die DUNGS Axial-Kompensatoren ACO mit Flanschanschluss zur Vermeidung von Schwingungsibertragungen in der Gas- und Luftleitung. Die Kompensatoren aus Edelstahl sorgen fiir eine spannungsfreie Rohrinstallation und kompensieren axiale Relativbewegungen. Geeignet fiir Gase der Gasfamilien 1, 2, 3 und sonstige neutrale gasférmige Medien.",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ACO 100</td><td>Die DUNGS Axial-Kompensatoren ACO mit Flanschanschluss zur Vermeidung von Schwingungsibertragungen in der Gas- und Luftleitung. Die Kompensatoren aus Edelstahl sorgen fiir eine spannungsfreie Rohrinstallation und kompensieren axiale Relativbewegungen. Geeignet fiir Gase der Gasfamilien 1, 2, 3 und sonstige neutrale gasférmige Medien.</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzdVclu2zAQ/RVC50SLJdtVkRpIazcIugVN0x6SQKDJkcSGIgWSytLA/96hLKNOD4G75NAakLXMmzdv5mmg8/sAJDSgXCF48JwEy4wneZnkk2xMc6Cj8YRnKUziZQYxZeM02CNBA45y6iji7wN/UVjdGQabeyiYATz1hMk0y+J4mo9GYeyT+3ijuSjFI4DWaAbW/kAkeTbJ03CST5N0kntcC6YR1gqtbDGoOb8PkNnrSNNRnK0uEWaAacMLqRl12vQSW+pqzxudWTA2MoIxajgmWmeoEzY6uWM1Nc2J0V+BORvxTlW2aDWLuGadn5bd1wqivP8Vb3TTgrKev5i/LOZhy8tgtcLipZCgaOMVBY+BB6i7a3sobVspUC/2Fg1hSVXV0QqsbzMAVQW+uRafFKprluA7y/onZtvMJXoHbDSChD7L8iyGaZkmaYnDKct86okd3LqC2qJ2jfQ5B44uJcwOXA2U48n4S8K0tC1VLy6C0UUww8Hw7spdUyOocnAQuXqGf2YDnx2++jCOj9fPMdvom63suQAyP3t/dEoObwWV+1sTAUUwlTTCkSO4EYoDVZbVsrOWfOsM+Yyeg/B2kGutyCmrEVR5d5zAGaB9/gZZhCIcDDmidp90ipO3XekkCIfRkHgBD4vSzpIFB2kdrSWx2niOUghDQCggXrzyVUoDmPtR10YoxErZe9RXuFoTCuj5fGMIBA+4XsINrHWF2BaISoFbs6M+2AgtaSOkwORkj4z2SLqHOrCIqIAo6LA1JKwQdtHFMeT47mPgHXCf4et/oda/zU6XZbhlSLTxcan53eAPX/uzWGCUbxvXB0gSx+sAHrt59Vr2Nu3q1X9nVc+6q1vh1tSjwZZovXTBalhIv4g/LVk/7HFMjo/JkyyQF1qyv+/Mmvcp3dlUGAa0WPz2WpWTR9eKDNuxowG/uBX/vgF/sCIPJx/2H6bhY/jJr0awuvwOY2cBvQ==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e88f7d11af9a592a7a6fc1b02ef98934",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Merkmale\n\nACO\n\nAxial-Kompensator\n\nXXX\n\nMaximaler Betriebsdruck:\n\n50 = 500 kPa/72 PSI\n\n100 = 1.000 kPa/145 PSI\n\nYYY\n\nNennweite DN:\n\n025 = DN 25\n\n080 = DN 80\n\n032 = DN 32\n\n100 = DN 100\n\n040 = DN 40\n\n125 = DN 125\n\n050 = DN 50\n\n150 = DN 150\n\n065 = DN 65\n\n200 = DN 200\n\nNennweite Rp:\n\n05 = 1/2\"\n\n12 = 1 1/4\"\n\n07 = 3/4\"\n\n15 = 1 1/2\"\n\n10 = 1\"\n\n20 = 2\"\n\nZZ\n\nGewindeausführung:\n\nII = Innen-/Innengewinde (Internal/Internal)\n\nEE = Außen-/Außengewinde (External/External)",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJzt2t2P20QQAPB/JcoTSLSZ/Z5B4gFohU6IUvEhtXwo2p2ZvYZenMhOaFHV/511LkcRDxV+tXz3EMfZrNfxT7Mza//6bq13utfutN3J+vPVOgeGRD4TavJEIVYLKWSWCjUJ2/Vnq/VeT1nyKbf279bjxnY4nHvWh/e65V7by6VDk7yH1qW1j2H88uXz/UF2dfeRBsf+wDoMH1oY8pHc40jJuEhju6P2+90w7A7dsL2O5td369bzOA7nLPj3v7dmvfKhl+3dgfPp0F+GeMynV2O/m58H7YdNv2POvbQvDqc+n3bD5vlf/Cr3++f94Q/l07CRc3c7bI8H3siBz+OvNTw6dLqhy9/228P+qN0w9r998tX2yeOj1PX79+3gdXenXd6PI1p/rPG16emv46VpPh7vdm287dw214/vcnd7zrc6jKe51u52PZ7cse3Zdud90fHM/GVP/+FiFl+cRmVr1WT05EFTdca1a+prpbQex3jSt6ex8Xfav97nOx2P9jCQZ7kff5E/9aexUWv9Xy4UslHrnRRrQyw+BKMmlRSbG+vLwmW2XL78+vtJUkBiELEo2VSGykzggktNjEWNNS9SZivl7S7fPfrX8Ca5EdIQtYAkpoASbU7OhOhJBUstsLiZq5sXL15MkpLUhWgBXSpQAW0RmyxGGy2Bh4qLlLlK+S6/3Y2pS7/6Sk/9Tssg/Zlffz4t0IAgZmYka7BgDckhki8cyKmzYeEzVz4BVl+sAsDq9fO8SXb1/MebSXKqISxebUmhVPTK1cRCiSomJ7bGRc5c5RgY6ZjHcMVjfJisRwJRCtQmrkjiJCAVbjGnVjHZqsiiZ656Xr58OS3BMdGnsdYu4phjtsVBMKaSgjEJyiJlrlKeade90d1JV0+eTctqAvmEXBVigyLNioxgjEvgNQktc9NszYANbW568mx1n7r+/4UaqKLeskdEo4VyotCOYMggVEfLQs18xSDci0GYNi95h6SmKpZkBQKjsgpxqi3ANEqLmNmKcfZejLOTxJgi4/0BQ5WFqCW+KaXobfARLTi/xJjZirmvmJqYtjGJTI6VLWW05NF6X2oKkMUkrCnVaGkhM1cy4K9k/DQxUGIVl6QluibmEDCXVmsLZ8xQc1impdmKMQ+pr5mY+2IK7IlzKRmEEjU+MXMmIKqu/S9k5koGwjXIhInTUmksBFqdZLxTFAUqLRu2NY81U1zWZGYrxjyIMRPJFDZYIEhotXUrk8T4oC24JGBqO1xayMyVDMTrvBSnTUvFcLHsbDGFUvDqEwZp1yq1K9UumlvEzFWMfSiX7MRyiRO3KSmYVCBGBjQ2oaEY2/FKbKX3QmauZD7cK/jhOPEJiIwUCtSisQKBdRFFkgaffbVOeDEzVzMwzktmY39bTyuXXKutCwDEglpyqJGzeCGTgnPZLUFmtmDMuO5rGhk/kQzHKkq19exzaPV1Dm1PTNYRI5i6pDKzJQOpkXGTwRSMwWqQ2pJfRlc8kmZwNmgxkmS5VTBbMCZcY8zUaSkh+4itOKKKl2ppfGTGRrbK2WW/FNjzJXN5HG8iF/FEzjHbgsxGpWkRKyWIaIs9Zln0nS0XO3KZGl0yIcXkSkVRhxpCcEC55b/R5Fi8LlzmyuWXXyZBsbUGYwugF9WUrSauvhasnkuJbkl1ZwvlG32z60Tzeai/nQEqv+rbaU9bjGlVETvDppFBTmpsLu04VDkKS1xuLM1Xz81Nm5Vuuk67R5vLy+09p9UnN91J+y7fbR42Pp22XDMGImwpcBAFQeOLIBeffNXYhrGs782W1NOnjdSX5zEYSR1dfdj+B9fTt1dcDxsfw/X73+mdueo=",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "fddabc1c9c23e880f4c9d0a13246ea1c",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Beispiel: Typenschlüssel für Axial-Kompensator mit Gewindeanschluss Beispiel: Typenschlüssel für Axial-Kompensator mit Flanschanschluss ACO XXYY ZZ = ACO 5020 EE ACO XXXYYY = ACO 100025 ACO = Axial-Kompensator ACO = Axial-Kompensator 50 = Maximaler Betriebsdruck: 500 kPa/72 PSI 100 = Maximaler Betriebsdruck: 1.000 kPa/145 PSI 20 = Nennweite Rp 2\" 025 = Nennweite DN 25 EE = Außen-/Außengewinde",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Beispiel: Typenschliissel fiir Axial-Kompensator mit Gewindeanschluss</td><td>Beispiel: Typenschliissel fiir Axial-Kompensator mit Flanschanschluss</td></tr><tr><td>ACO XXYY ZZ = ACO 5020 EE ACO = Axial-Kompensator 50 = Maximaler Betriebsdruck: 500 kPa/72 PSI| 20 = Nennweite Rp 2\" EE = AuBen-/AuBengewinde</td><td>ACO XXXYYY = ACO 100025 ACO = Axial-Kompensator 100 = Maximaler Betriebsdruck: 1.000 kPa/145 PSI 025 = Nennweite DN 25</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytVGtv2yAU/SuIz0uMsR3HVVqpWbtpmtZGWyf1KQvDdcLqlwCrjbr894HtqFWVRes2f+ECh8O591x884ShgBIqk0qBDxCmySSLwiTMoylNSATxNJgKnxAKGQ9hyvE7hEswTDDDLP4JuyDVdas4bOeQcgV26Aj9OAwJiRNKx8Qd7vbLWshc7gE0quag9TPCT8JJEownSewHk8ThGlCl1FrWlU4HNTdP2DI7HUFASbi5szAFvFYiLWrOTK06iQ0zK8frfdegtKck50wJe1AbxYzU3mLNV0yVC1X/AG60J9pqqdOm5p6oeeuqpUd1BV7Sfennumyg0o4/PZmnJ+NG5HizsZfnsoCKlU4R3gceoGbddFDWNIW0em1u3rBdsGrZsiVolyaGaoldco1dSau2zMBlFnYr6tnMLMwCmACnFHw2ta4SiPPAD3JbnDxPYkds4NGkTKcrUxbuzMywrICjmVkBE3ZQLjyag9SNhOIAXaydfL4qpC0+FCiXUqHjR8mK0YvUUCkN+ggPshLAOnir9cyzTH/N9qHoiF6xeU6gtxWb1WI9aBZHx+/P0eXl1RW6vkaHyM0iQgk6Pe3iwx3XRMQuf2GPsmQFKDQHoyRkWqiW3x/YXYLuF8yLKVp8+/QTUYc+g6p6AGkAfW0QvcWO3lK3c6hGXjcs+ypYkeKFLKvralBlXxeh0W9F2e19qvwxGXT5YeSEIUf2UtjJGaJRf/1Qrb5MXu803gxd4Nzf4cxtS0jOe3f6+E/9Rv/E9tpvtN/Pt5T0f/j/dl9298tOt7Zd5Cok8r6VtvHQT93bHf4XF85IvLn7BUSM3Rk=",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "8b57dfb8e7be131a4121607a8d7a0c63",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Edition XXXX ∙ Nr. XXXXXX_DE\n\n4 / 18\n\nProduktbeschreibung | ACO 50 II, ACO 50 EE und ACO 100\n\n2 Produktbeschreibung\n\nDie DUNGS Axial-Kompensatoren ACO mit Gewinde- oder Flanschanschluss zur Vermeidung von Schwingungsübertragungen in der Gas- und Luftleitung. Die Kompensatoren aus Edelstahl sorgen für eine spannungsfreie Rohrinstallation und kompensieren axiale Relativbewegungen. Geeignet für Gase der Gasfamilien 1, 2, 3, sonstige neutrale gasförmige Medien und Wasserstoff.\n\nACO 50 II\n\nACO 50 EE\n\n/) ) 70 /",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztV21v2zYQ/iuEvhVIbL5IpLVv3eJmwbY0WNstQFsIFHm0ueoNpJS2y/Lfd1SS1RuMdvmWANYHWxLvnnvu7uGZfnudQQMtdGPlbfYdyayyhcgLU5fCGMlgpUzBRFkAt0wqyLMjkrUwaqtHjfbXWbqpYj8FA/fPUJkA+DUDMpXnlKqS8wVNzvN621vv/FcMhtAbiPGLBStzWYqFLBUTskx2A4TWx+j7LlZ3bN5eZ4iceAjBaX7zHs0CmD7YqumNHvswUxz0uE24yzcRQlwGb4wOFh3jGPTo4/Lis9nq0F6E/g8wY1zaqdvEaujN0vZmStWKx30Hy3K+qp/6doAuJvzq5PvqZDFYl93cYHDnG+h0mxhlXzO+Mx0/D7OpHobGI1/MbXm33OhuM+kNxJRmBt0mS8kN+KbqpraGlFmeQo7waUwYa+uTP7nEi7ybOGclOQ+L+fnysjpZJ9T7gC/6fkQI9P+vHrDcilmrxMrpwhlpmcup0ba2QiolxUEPT0QPOVkSttpt+gUan9/a7mm8U7V1otROKM2hLG0tS5SAEdaxkrri0PjH2/hit/FI3k4fxhqi2QbwNaZA/iLPf3hJCkrOzo7ub9drMnV2fmKU7grlR9B2v0iso5bWzBQOtVKgVEpZc6moo0wXRX74tXjMIpnfhAfs+F1VcbJHV7uiee3HBvZphmu2KrlQAjVS81zw0ikuhMRThlSurg+aeUKa+eYA2NXMiQdy8ub89BV5/snr5niHKHTz4Gn9SE7ho+8sHBMsVyAvkBYKbP5ophjJn1Mgv2FjwKeakSs84rwyW3TZpBK+myh1BslindMLxPUdSUCnOh7PA+7nyaEy/YirC5Io/ZuGniJZW2jiqLcNiX1IGO4WNxDwHZA46K5L0RzqHsiv/Tb4Du2bZi7oHOXDLaiHGTOli4aQDK5q+Ai33BaYLPhNB+OXCMgT7gk73frGIwA7IvyIiCPkg4H8BkgHE6aIoBs0m30lihUXfgGbPBKH33VM8ht75xa7W/Nch6TCK3idGrNniwppJaMcVpYCaEe1FEznihZO5aY08rBFn9AWfdBY/+dY8L9GubUrVktgBVdlLTSvBWCLtFnxfIV/G/hBJ09IJ9/c9Ht0sl4/bK7woq6B1rnUhgmuC5FLqbhTUKvS5Ye58pj1stv+5TPyjChKlrvtP2vRIbt5/zcJqdMQ",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "9e81ee7584e35ed2c7a9629c43b5c296",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. = N\\ ) 7 T\n\nAbb. 3: ACO 50 II mit Innengewinde\n\nAbb. 4: ACO 50 EE mit Außengewinde\n\n1 Balg\n\n1 Balg\n\n2 Montierte Verschraubung mit Innengewinde (flachdichtend)\n\n2 Montierte Verschraubung mit Außengewinde (flachdichtend)\n\nACO 100\n\nProduktmerkmale:\n\n● Kompensation von thermischen Dehnungen\n\n● Kompensation von axialen Relativbewegungen\n\n● Reduktion von Kräften und Momenten an Anschlüssen\n\n● Geeignet für 100 % Wasserstoff (nur Gewinde-Varianten)\n\nAbb. 5: ACO 100 mit Flanschanschluss\n\n1 Balg\n\n2 Losflansch",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztmVuv00YQx7/KKlIlkNqTvV+Q+nAotDqipQhR+sBB0ezsbOKS2JEvXIT47t0NlyKBEKEvTepEudievcz+fx7P2E9eL2hLO2rHVZMWt9jCB6lVyjGJCKglaZ1EFjIbzDwIhYvv2WJHIyQYodi/XtQ/q6GbeqT327TCnsrPoUPhtObcBSkveG18OL7rUpObLxjs+w5pGP6xEEHboC5scELZUO321O+aYWi6dli9m82T14vSc52HUpLrN0+LWU/Y9Wm17RDGrj9McQ/jpva7/GOgflj2DSL0qTQcxh7GZlg+eIUb6HcP+u4vwnFYpqldD6t9h8vU4VRXa/iha2kZDq/VvW63p3ao/a/u3F7dudinvHjzpgyemy21sKszWnzJ+J3p+Gp/MIX9ftuU+Rbflu8Ob6FdT7Cmobq5oHa9qM7ty55VO+0iVc9MHXKkl2Pt40d2//qa3WSOPart33d9tStNFsXwE+FVVBmSd8HlSN5n5M6A8YEoZWVn4U9F+MsYL5i6xS5/+p0Zzq6u2K4Z2VXblrb0omnLMn3Ew33oq+vP6VFt/hkuwHIeKRcdpFIqaCKVHAadSoiwItLMxSlxoT9wcffugYvL6XriPOVvg0PqYLMkdBG1V4hGSKEkamONDsHYGY4TgUOw27BdH6e9IMe5tQoQJJUN4CEZEk6p6GMQs/bnqz0BeJ8seKPBxGRUzFE5SeRS1ob8rP2JaC/Zb107NtSPxB4XN3HTwxSLI58kDexG3gJuUoObkdp08yheuPDe+EpHCk4l5YWJ1mXpOSSbrZp5OQtePkkm/hU0pixglFoGJGPRcIs+pcQ9D9IanuYgcyrQ1IxTcP6x+I+acfvZMjRATSIyoHZJBxMSocgBPTqueQY+i34ion/VTQeOIgUlEuXEM+qsecAcc0krSWiR5vrhVNQuk0/Ts3FH/bMdbOnWV53rHr20NbxLb1FF5FZwHUqGgBGkEPOthf+y+oc9/RGn8se4XE/SYGYf5lcGZ8/LZ9wcFho31LI7tGnLWlB7VNJgiXvUFuoFpIxbtnTIHqwhgy7yman/HVPwsikRqWUPaVvJifSC1t/AVc46eqGt9QoSep1yFlyKEqlk4BJmrs6cq4dUL3DvobrX10qHdC5lDZvaVMqi6n7ZgJZdtiWCbatBxqLVkaBF5UoIM65UPGTBGfA523JdjKBKNhxm0M4ctF+ImnVLI8tvCepr7cS+Y3/CUFdr7HJmN9qpL4aHGvuHx9A3UNk7srwOuZRVhaOogk1cOAxJaiuAEkYZ9AzauYJ2eBJk3j4JqmzVWzc/l2FL1Dp8badhOAol1EUywUvOpVx5i4TaA4UMvlTv0c8x62xR+oZnB0akbCBalVBhsJQJrXbIXbbZmzhnUmcLi2S/dkN+G2i+gMzTvwFsCZ9f",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "db7936912c269d899d4d5aeb3b7d3426",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 3 Angeschweißter Vorschweißbördel\n\nEdition XXXX ∙ Nr. XXXXXX_DE\n\n5 / 18\n\n3 Richtlinien, Normen und Zulassungen\n\nCE-zertifiziert\n\n● 2014/68/EU, Druckgeräterichtlinie\n\no\n\nDIN 30681\n\nRichtlinien, Normen und Zulassungen | ACO 50 II, ACO 50 EE und ACO 100\n\nEdition XXXX ∙ Nr. XXXXXX_DE\n\n6 / 18\n\n4 Technische Daten\n\nACO 50",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztWF1v2zYU/SuEntOY3x9762oPCwZkwZAOwdpCuCIvbW22ZFDytjbNfx/lJKsWGG0C7MEGJECWKB1eX/IckYd8d1vgGjfY9GUdiu9IwVgwylEmjTTWcArMICojuQtSUR6KM1JssIcAPWT8bTHclF27Sx4fy1j6hPlyH9BISalxnJ/TofL+/aYNday/Atim1mPXfUEwJ7UT59oZJrQbcFtMm7rr6rbpyods3t0WOfKQhxCcyrsPGZbQtymU69ZD36Z9ilvoV0Pc2dsOUzdLtfeQQq7Y9Qn6uptdffQrSJur1P6Ovu9mYdcsu3Lb+llo/W7ore5V2+DM7Y/yp3azxaYb4pfz78v5+TbE4u4u/3ms19jAZsio+Br4Adp/3O6hsN2u65xvbtvs4fUamuUOltgNzSywWRZD47b5SdnsNhUOLVP7J+kLmdSz4AQLGAONXkZJnY9VpFQjkyzoYsixx7/7ASzI6ybH96u/sH6/ozTEHhP5tU3jR9VwiToFXA9ZPSZ8CWnouT/xegiWoz6VlY4IgNSoiMZ5kc8oHIs+IFinGUyyOmJZjVWyCPVQn9zkg7zfcc4cuUzn+/LNTTlfjGXxQ9tmDR3SQ8hMB1NpyyzzzFLONRfKi8qj0lRNw8yp6EGRGWF2TPpVBl/eYw8QbzHPMFYGpp3VMWqnaLSV5dEqRGPdRPzxEq//O138UvtVv66bGpszctmmnDfZNYH8tltD1+UmYTPWxXXdr/GQJIxSEFUIEll0CjkXnnsLIniHUhk+SeJEJPFm8eoTpj5386c6X59FPrPCSedt8DRWPvtNwx0Fz0HT7FNgmgiOmfynfvObX/JYLdk8KB8Jz2uNmbazxdszMk87/8cS02AyUWbr8O8I8yKzCaiDElQr6YMHZZngBlnFDFikqsJJU0esqbFE2mcNIUIKaxUHZqGSArjxDKOiwXpn0dk40X3EdD8dQr757Y71Mb+4JBlr2YuGB+elzStZAOq4EkKyyAM1EoTKP45Nw8Mx62VM/zMMKPlMXr/5mShKLi7OHm8Xiz1sKDFKx9r5ESEcXrdIq3TAyEBIxzGICJJmzxIE0LyMkWYSzYmI5n/awADwGNAqiiEabgxyj5RWOi9s8+wT2aSHE9GDfuEGBmD+7p3WlDMFXkSjeHYbgiLLVjc6OxF/vMSbMfGSXKNfNXXnV0jmuU+ft1sRMUhXOQychmw9DFCmZWWFjTQvY/W0W3Eq/N+bgQOcf/gHC9uNrg==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "5b7eb6a6b431812c1d65e18d9a900066",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Technische Daten ACO 501l ACO 50 EE Anschlussart Innengewinde nach DIN EN 10226-1 AuBengewinde nach DIN EN 10226-1 Nennweiten Rp 1/2\" - Rp 2\" R1/2\"-R2\" Max. Betriebsdruck 500 kPa/72 PSI Medium Gasfamilie 1, 2, 3, Wasserstoff H2 (trocken) und sonstige neutrale gasférmige Medien",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Technische Daten</td><td>ACO 501l</td><td>ACO 50 EE</td></tr><tr><td>Anschlussart</td><td>Innengewinde nach DIN EN 10226-1</td><td>AuBengewinde nach DIN EN 10226-1</td></tr><tr><td>Nennweiten</td><td>Rp 1/2\" - Rp 2\"</td><td>R1/2\"-R2\"</td></tr><tr><td>Max. Betriebsdruck</td><td>500 kPa/72 PSI</td></tr><tr><td>Medium</td><td>Gasfamilie 1, 2, 3, Wasserstoff H2 (trocken) und sonstige neutrale gasférmige Medien</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1Vm1P40YQ/isjf2pVEr/EcTCiSORCC+odRZTrfThO1to7trfYa2t33Rwg/ntnHYfkDkIPXRsp8nreZ3aeR/5472CFNUqTCO4cgOPFqZd70ziIo4hl+2Hohx5P+SSPwxlOp5GzB06NhnFmGNnfO/aQ6KZTGa7fMckU0qMP6M/C0PNmcRCMPevc6+uGi1y8YNCqJkOtNxZ+HEbxZBzFM38SxdauRVULrUUjdTJU8/Heoci2jskk8MKHT2SmMGsUT6omY6ZRfYktM6WN677XqLSrRJYxxclRG8WM0O7FbVYyVV+o5i/MjHZ5JwudtE3m8ibr7LT0qJHoxv0v+a2pW5Taxk8W82QxbnnuPDxQ8lxUKFltK3JeMh5MzW3bm7K2rQTVS725g7pisuhYgdq26aAsHNtcS5JEdnWKtrNZL1Gby8yRh3EaIw887kX7M+b5UZjuT/ZzL872o8AGNvjZJEwnpakr63NoWFrh0aEpkXF6KHs8usKslEJnJcKC7kceuiS0iuM3v8PU86uvBHByspK4NoC7DpY2/HaIyY+OJcWrOq2ZMmTCe+GZlNQcLoXkCJJlJSzOzuHkHHwvCKKR/2h43M2/wbBPP+Q7RymXKFbVr4JctuC7wbUDI6AjHTaaXj66fJRtR3rHPo9hjkYJTDVXXXaz9oOsqXTL5M/XDnkeTT0Pbi6YOwvg4o+zZwIhF129w/lXpnNWi0og+HsQ7MFkDz4wbXfWNHkOpwH8YAgnNyh/hE5y0AQFIwoaB3a0yRVCQSGuO8/DmLBCCptv3f6ThlbFaIO0oISDTu2oaxR4YIOm3pvxePyTP318dUfhcPwFrGriBev3HTnf1wWmFl191hH0eUHU6+n+vyWcrmZTokKgFbV8Yjd8TkSw0kguihtamR1lnF7NIRUa7jqYePBOyI6WC1IUEG1V5Acv1fAB1U1/n7gjyZxVxQH443A68+FPuvysVKyzQzuAq/6uCsLQHvyN6k7IG/M0xVumzZIArLHakWOBpbS3sERlkBq4E1hSJ1oQrFiXU3aPNvlJnO0kCwsDqoEAvWtcC1SwbQaC/miWDHjTtlgZ2mAoG8q5FNiPEYUkn6JixuQVYZx2WMJlU6qKLoUKBiFJi1Qmmb0lOtiqyx3Yxl0RmvMwkJ0lua/pDLa5CDZEAU+RPsAEnocMfNNWQ794ebRz8cL14sFmPbbH/+UYB8o9O4NH8oXnefS4s+F5/iJzbh+fECRcbgT9+5cUB/8haeXRNmnBFuavO4JUtAv2g3YL+d/l+3qQw2shC6/GH3wnllZb9m+AGnaxwP5DYfg4ubJwch4+/QM9d0j6",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "6625116335b075feacd0190e2d62c2a5",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Max. Mediumstemperatur -20 °C...+150 °C/-4 °F ...+302 °F Max. Umgebungstempe- ratur im Betrieb -20 °C...+150 °C/-4 °F ...+302 °F Héhere thermische Besténdigkeit HTB bis zu 30 Minuten bei 650 °C/1202 °F Werkstoffe Balg: 1.4571 Verschraubung: Temperguss, verzinkt Lastwechsel Dehnungswerte beziehen sich auf 1.000 Lastwechsel",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Max. Mediumstemperatur</td><td>-20 °C...+150 °C/-4 °F ...+302 °F</td></tr><tr><td>Max. Umgebungstempe- ratur im Betrieb</td><td>-20 °C...+150 °C/-4 °F ...+302 °F</td></tr><tr><td>Héhere thermische Besténdigkeit</td><td>HTB bis zu 30 Minuten bei 650 °C/1202 °F</td></tr><tr><td>Werkstoffe</td><td>Balg: 1.4571 Verschraubung: Temperguss, verzinkt</td></tr><tr><td>Lastwechsel</td><td>Dehnungswerte beziehen sich auf 1.000 Lastwechsel</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1Vm1P40YQ/isjf2pVEr/EcTCiSORCC+odRZTrfThO1to7trfYa2t33Rwg/ntnHYfkDkIPXRsp8nreZ3aeR/5472CFNUqTCO4cgOPFqZd70ziIo4hl+2Hohx5P+SSPwxlOp5GzB06NhnFmGNnfO/aQ6KZTGa7fMckU0qMP6M/C0PNmcRCMPevc6+uGi1y8YNCqJkOtNxZ+HEbxZBzFM38SxdauRVULrUUjdTJU8/Heoci2jskk8MKHT2SmMGsUT6omY6ZRfYktM6WN677XqLSrRJYxxclRG8WM0O7FbVYyVV+o5i/MjHZ5JwudtE3m8ibr7LT0qJHoxv0v+a2pW5Taxk8W82QxbnnuPDxQ8lxUKFltK3JeMh5MzW3bm7K2rQTVS725g7pisuhYgdq26aAsHNtcS5JEdnWKtrNZL1Gby8yRh3EaIw887kX7M+b5UZjuT/ZzL872o8AGNvjZJEwnpakr63NoWFrh0aEpkXF6KHs8usKslEJnJcKC7kceuiS0iuM3v8PU86uvBHByspK4NoC7DpY2/HaIyY+OJcWrOq2ZMmTCe+GZlNQcLoXkCJJlJSzOzuHkHHwvCKKR/2h43M2/wbBPP+Q7RymXKFbVr4JctuC7wbUDI6AjHTaaXj66fJRtR3rHPo9hjkYJTDVXXXaz9oOsqXTL5M/XDnkeTT0Pbi6YOwvg4o+zZwIhF129w/lXpnNWi0og+HsQ7MFkDz4wbXfWNHkOpwH8YAgnNyh/hE5y0AQFIwoaB3a0yRVCQSGuO8/DmLBCCptv3f6ThlbFaIO0oISDTu2oaxR4YIOm3pvxePyTP318dUfhcPwFrGriBev3HTnf1wWmFl191hH0eUHU6+n+vyWcrmZTokKgFbV8Yjd8TkSw0kguihtamR1lnF7NIRUa7jqYePBOyI6WC1IUEG1V5Acv1fAB1U1/n7gjyZxVxQH443A68+FPuvysVKyzQzuAq/6uCsLQHvyN6k7IG/M0xVumzZIArLHakWOBpbS3sERlkBq4E1hSJ1oQrFiXU3aPNvlJnO0kCwsDqoEAvWtcC1SwbQaC/miWDHjTtlgZ2mAoG8q5FNiPEYUkn6JixuQVYZx2WMJlU6qKLoUKBiFJi1Qmmb0lOtiqyx3Yxl0RmvMwkJ0lua/pDLa5CDZEAU+RPsAEnocMfNNWQ794ebRz8cL14sFmPbbH/+UYB8o9O4NH8oXnefS4s+F5/iJzbh+fECRcbgT9+5cUB/8haeXRNmnBFuavO4JUtAv2g3YL+d/l+3qQw2shC6/GH3wnllZb9m+AGnaxwP5DYfg4ubJwch4+/QM9d0j6",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "46eef35a27a2142d20d96946132cd412",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Druckverlust Der Druckverlust ist etwa doppelt so hoch wie bei einer glattflachigen Rohrleitung in gleicher Lnge",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Druckverlust</td><td>Der Druckverlust ist etwa doppelt so hoch wie bei einer glattflachigen Rohrleitung in gleicher Lnge</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1Vm1P40YQ/isjf2pVEr/EcTCiSORCC+odRZTrfThO1to7trfYa2t33Rwg/ntnHYfkDkIPXRsp8nreZ3aeR/5472CFNUqTCO4cgOPFqZd70ziIo4hl+2Hohx5P+SSPwxlOp5GzB06NhnFmGNnfO/aQ6KZTGa7fMckU0qMP6M/C0PNmcRCMPevc6+uGi1y8YNCqJkOtNxZ+HEbxZBzFM38SxdauRVULrUUjdTJU8/Heoci2jskk8MKHT2SmMGsUT6omY6ZRfYktM6WN677XqLSrRJYxxclRG8WM0O7FbVYyVV+o5i/MjHZ5JwudtE3m8ibr7LT0qJHoxv0v+a2pW5Taxk8W82QxbnnuPDxQ8lxUKFltK3JeMh5MzW3bm7K2rQTVS725g7pisuhYgdq26aAsHNtcS5JEdnWKtrNZL1Gby8yRh3EaIw887kX7M+b5UZjuT/ZzL872o8AGNvjZJEwnpakr63NoWFrh0aEpkXF6KHs8usKslEJnJcKC7kceuiS0iuM3v8PU86uvBHByspK4NoC7DpY2/HaIyY+OJcWrOq2ZMmTCe+GZlNQcLoXkCJJlJSzOzuHkHHwvCKKR/2h43M2/wbBPP+Q7RymXKFbVr4JctuC7wbUDI6AjHTaaXj66fJRtR3rHPo9hjkYJTDVXXXaz9oOsqXTL5M/XDnkeTT0Pbi6YOwvg4o+zZwIhF129w/lXpnNWi0og+HsQ7MFkDz4wbXfWNHkOpwH8YAgnNyh/hE5y0AQFIwoaB3a0yRVCQSGuO8/DmLBCCptv3f6ThlbFaIO0oISDTu2oaxR4YIOm3pvxePyTP318dUfhcPwFrGriBev3HTnf1wWmFl191hH0eUHU6+n+vyWcrmZTokKgFbV8Yjd8TkSw0kguihtamR1lnF7NIRUa7jqYePBOyI6WC1IUEG1V5Acv1fAB1U1/n7gjyZxVxQH443A68+FPuvysVKyzQzuAq/6uCsLQHvyN6k7IG/M0xVumzZIArLHakWOBpbS3sERlkBq4E1hSJ1oQrFiXU3aPNvlJnO0kCwsDqoEAvWtcC1SwbQaC/miWDHjTtlgZ2mAoG8q5FNiPEYUkn6JixuQVYZx2WMJlU6qKLoUKBiFJi1Qmmb0lOtiqyx3Yxl0RmvMwkJ0lua/pDLa5CDZEAU+RPsAEnocMfNNWQ794ebRz8cL14sFmPbbH/+UYB8o9O4NH8oXnefS4s+F5/iJzbh+fECRcbgT9+5cUB/8haeXRNmnBFuavO4JUtAv2g3YL+d/l+3qQw2shC6/GH3wnllZb9m+AGnaxwP5DYfg4ubJwch4+/QM9d0j6",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "8b6cc4b1c3978b7271fb1d0b285f4def",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Technische Daten | ACO 50 II, ACO 50 EE und ACO 100\n\nAC 100",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztU8Fu3CAQ/RWLc7rGxmsvvaXZSI16aA7JKYrQLAy7VDYgwFKjzf57wNpVqhwi9dZDuQAzbx5vRo+nI8ERJ7RJGEW+VqRXoPtW97gZdnyj2YYr3nUKNmuaQxTIVUUmTKAgQcYfSTmI6OYg8XJHIQPmbSFshq6jdOBtu6KleMlPThltPgH44CTG+I5oeNdztur50LCeF5zHMJkYjbNRnNU8HUlmLjoYa2l3es6wgNIFJUYnIbmwSPSQDoW3fowYYh2MlBBULowpQDKxvn+RBwjTfXC/UKZYq9nuo/BO1srJuUwrfnEWa74s8cNNHm0s/GL7TWxXXmlyOuXHtRnRwlQUkc/AZ2h68QsUvB9N1pt7q8/pEex+hj3G0iZBuyelOZ8jws7TDktnQ3ky4e9UOB5QHqyJ8oDVNk/UVq/V9c3Pak2ru7ury/H2tpqtWm4NXaZ/kfAdQWXSzPjRIUNDkbUNYx0AG5imsG4lyp3WOTMo9d8h/7BDlkj4i+/+p6Wubz665MGkEcnp+Q1CyFXP",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c6328ab676dbb42a0fa52a0ab1814f86",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Technische Daten ACO 100 Anschlussart Flansche nach DIN EN 1092-1 PN 10 Nennweiten DN 25 - DN 200 Max. Betriebsdruck 1.000 kPa/145 PSI Medium Gasfamilie 1, 2, 3 und sonstige neutrale gasférmige Medien Max. Mediumstemperatur -20 °C...+150 °C/-4 °F...+302 °F",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Technische Daten</td><td>ACO 100</td></tr><tr><td>Anschlussart</td><td>Flansche nach DIN EN 1092-1 PN 10</td></tr><tr><td>Nennweiten</td><td>DN 25 - DN 200</td></tr><tr><td>Max. Betriebsdruck</td><td>1.000 kPa/145 PSI</td></tr><tr><td>Medium</td><td>Gasfamilie 1, 2, 3 und sonstige neutrale gasférmige Medien</td></tr><tr><td>Max. Mediumstemperatur</td><td>-20 °C...+150 °C/-4 °F...+302 °F</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytVW1v2zYQ/isHfV1sUS+25yIIUNfrWizNgi3dPrSFQIkniYtECSQ1Nwny33eU5JfOSZagM2CI4t09d0c+z+nTnYcV1qhsIoX3CrwsSIMgj9KQB7P5Ml/yQOQ4X/D4xyBi0Yx5J+DVaLnglpP/necWiWk6neH2HZNMIz16wGARx4wtlmE47YN7e90ImcsnHFrdZGjM3iNYxvNlNJ0vF0E0Xzq/FnUtjZGNMslYzac7j5BdHVEUsvj+C7lpzBotkqrJuG10X2LLbelw/Y8GtfG1zDKuBQUaq7mVxr+8yUqu60vd/IWZNb7oVGGStsl80WSdOy0zaRT6y/6X/NLULSrj8JP1KllPW5F79/eUPJcVKl67irynnEdXe9P2rrxtK0n1Um/+aK64KjpeoHFteqgKzzXX0k6iujpF19mi39H7y1wEDKMwiKKY82gR5YzPwgyzNM/JshDCAVv8ahNuktLWlYs5tTyt8OzUlsgFPbRbnl1hVippshJhTfejTn3adIbXb36FgLHh3Xfe/jYybcTNCCDOXisKrjpjuLbkIvrNt9RVj6l4VsL6/QX8dEFoy3ASwKVbDZ497IhzgUptUA4lDCjrCwhnMAH3ZA+EfOBfp7BCqyWmRuguu96FBlPGGFxfcj+IZ3D5+/sHolHIrt5F/MxNzmtZSYTgBMITiKBTAgyx0MqCOsGOSFQhFOT4uWMMl0RTMjicbdFH1Q1JjEXiBlGw07t8k5CBg0nZm+l0+kMw2736k3hcvnWWiIXb10eSfKwLTB2T+zQT6BOBrLdn8z/nfDd0X6JGIEo4sbqrXpHKBosSsrimq9zlfXe1glQauO0gYvBBqo6uGVKUMD8oIQifyvon6mtjmzzHHeyKV8UrCKbxbBHAH42mMohBq3S8HYHVznremHzgpNti8ZydwN+ob6W6tse5zrmxGxKGwWpPRiyVO+MNaotU+63EkpowkgjOuxwGxh1FHsKuHUUpK6nFHuBqODSApD/aDQfRtC1WligIZUNZNhL7M0OpKKaouLXUU1YSCRX81pS6ojOnEkEqsiIVRm7n45UUOD0oyB817A8zwbsf54WbE/+eCHCocNjLFI7lN9IdHqY+PIus0NMrnz9Kr3hLL9hT4vDcvz3NcYzBf04k+HbawNEEgRdPiHx+OCHgQH2fO+L6/BEBjsYDDX5P6Mu1Bw/ryllFno6NPVdc8GLdwHcqYiDJs2QRO1n038rx+3zl5ODdf/kHPyz2oA==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "f551c6d53e6b9d8e479d533ff7c35022",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Max. Umgebungstempe- ratur im Betrieb -20 °C...+150 °C/-4 °F...+302 °F Héhere thermische Besténdigkeit HTB bis zu 30 Minuten bei 650 °C/1202 °F Werkstoffe Balg: 1.4571 VorschweiBbérdel: 1.4571 Losflansch: 1.0460, verzinkt Lastwechsel Dehnungswerte beziehen sich auf 1.000 Lastwechsel",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Max. Umgebungstempe- ratur im Betrieb</td><td>-20 °C...+150 °C/-4 °F...+302 °F</td></tr><tr><td>Héhere thermische Besténdigkeit</td><td>HTB bis zu 30 Minuten bei 650 °C/1202 °F</td></tr><tr><td>Werkstoffe</td><td>Balg: 1.4571 VorschweiBbérdel: 1.4571 Losflansch: 1.0460, verzinkt</td></tr><tr><td>Lastwechsel</td><td>Dehnungswerte beziehen sich auf 1.000 Lastwechsel</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytVW1v2zYQ/isHfV1sUS+25yIIUNfrWizNgi3dPrSFQIkniYtECSQ1Nwny33eU5JfOSZagM2CI4t09d0c+z+nTnYcV1qhsIoX3CrwsSIMgj9KQB7P5Ml/yQOQ4X/D4xyBi0Yx5J+DVaLnglpP/necWiWk6neH2HZNMIz16wGARx4wtlmE47YN7e90ImcsnHFrdZGjM3iNYxvNlNJ0vF0E0Xzq/FnUtjZGNMslYzac7j5BdHVEUsvj+C7lpzBotkqrJuG10X2LLbelw/Y8GtfG1zDKuBQUaq7mVxr+8yUqu60vd/IWZNb7oVGGStsl80WSdOy0zaRT6y/6X/NLULSrj8JP1KllPW5F79/eUPJcVKl67irynnEdXe9P2rrxtK0n1Um/+aK64KjpeoHFteqgKzzXX0k6iujpF19mi39H7y1wEDKMwiKKY82gR5YzPwgyzNM/JshDCAVv8ahNuktLWlYs5tTyt8OzUlsgFPbRbnl1hVippshJhTfejTn3adIbXb36FgLHh3Xfe/jYybcTNCCDOXisKrjpjuLbkIvrNt9RVj6l4VsL6/QX8dEFoy3ASwKVbDZ497IhzgUptUA4lDCjrCwhnMAH3ZA+EfOBfp7BCqyWmRuguu96FBlPGGFxfcj+IZ3D5+/sHolHIrt5F/MxNzmtZSYTgBMITiKBTAgyx0MqCOsGOSFQhFOT4uWMMl0RTMjicbdFH1Q1JjEXiBlGw07t8k5CBg0nZm+l0+kMw2736k3hcvnWWiIXb10eSfKwLTB2T+zQT6BOBrLdn8z/nfDd0X6JGIEo4sbqrXpHKBosSsrimq9zlfXe1glQauO0gYvBBqo6uGVKUMD8oIQifyvon6mtjmzzHHeyKV8UrCKbxbBHAH42mMohBq3S8HYHVznremHzgpNti8ZydwN+ob6W6tse5zrmxGxKGwWpPRiyVO+MNaotU+63EkpowkgjOuxwGxh1FHsKuHUUpK6nFHuBqODSApD/aDQfRtC1WligIZUNZNhL7M0OpKKaouLXUU1YSCRX81pS6ojOnEkEqsiIVRm7n45UUOD0oyB817A8zwbsf54WbE/+eCHCocNjLFI7lN9IdHqY+PIus0NMrnz9Kr3hLL9hT4vDcvz3NcYzBf04k+HbawNEEgRdPiHx+OCHgQH2fO+L6/BEBjsYDDX5P6Mu1Bw/ryllFno6NPVdc8GLdwHcqYiDJs2QRO1n038rx+3zl5ODdf/kHPyz2oA==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b4f76c3e6e97b37d5319114e39e41f37",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Druckverlust Der Druckverlust ist etwa doppelt so hoch wie bei einer glattflachigen Rohrleitung in gleicher Lénge.",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Druckverlust</td><td>Der Druckverlust ist etwa doppelt so hoch wie bei einer glattflachigen Rohrleitung in gleicher Lénge.</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJytVW1v2zYQ/isHfV1sUS+25yIIUNfrWizNgi3dPrSFQIkniYtECSQ1Nwny33eU5JfOSZagM2CI4t09d0c+z+nTnYcV1qhsIoX3CrwsSIMgj9KQB7P5Ml/yQOQ4X/D4xyBi0Yx5J+DVaLnglpP/necWiWk6neH2HZNMIz16wGARx4wtlmE47YN7e90ImcsnHFrdZGjM3iNYxvNlNJ0vF0E0Xzq/FnUtjZGNMslYzac7j5BdHVEUsvj+C7lpzBotkqrJuG10X2LLbelw/Y8GtfG1zDKuBQUaq7mVxr+8yUqu60vd/IWZNb7oVGGStsl80WSdOy0zaRT6y/6X/NLULSrj8JP1KllPW5F79/eUPJcVKl67irynnEdXe9P2rrxtK0n1Um/+aK64KjpeoHFteqgKzzXX0k6iujpF19mi39H7y1wEDKMwiKKY82gR5YzPwgyzNM/JshDCAVv8ahNuktLWlYs5tTyt8OzUlsgFPbRbnl1hVippshJhTfejTn3adIbXb36FgLHh3Xfe/jYybcTNCCDOXisKrjpjuLbkIvrNt9RVj6l4VsL6/QX8dEFoy3ASwKVbDZ497IhzgUptUA4lDCjrCwhnMAH3ZA+EfOBfp7BCqyWmRuguu96FBlPGGFxfcj+IZ3D5+/sHolHIrt5F/MxNzmtZSYTgBMITiKBTAgyx0MqCOsGOSFQhFOT4uWMMl0RTMjicbdFH1Q1JjEXiBlGw07t8k5CBg0nZm+l0+kMw2736k3hcvnWWiIXb10eSfKwLTB2T+zQT6BOBrLdn8z/nfDd0X6JGIEo4sbqrXpHKBosSsrimq9zlfXe1glQauO0gYvBBqo6uGVKUMD8oIQifyvon6mtjmzzHHeyKV8UrCKbxbBHAH42mMohBq3S8HYHVznremHzgpNti8ZydwN+ob6W6tse5zrmxGxKGwWpPRiyVO+MNaotU+63EkpowkgjOuxwGxh1FHsKuHUUpK6nFHuBqODSApD/aDQfRtC1WligIZUNZNhL7M0OpKKaouLXUU1YSCRX81pS6ojOnEkEqsiIVRm7n45UUOD0oyB817A8zwbsf54WbE/+eCHCocNjLFI7lN9IdHqY+PIus0NMrnz9Kr3hLL9hT4vDcvz3NcYzBf04k+HbawNEEgRdPiHx+OCHgQH2fO+L6/BEBjsYDDX5P6Mu1Bw/ryllFno6NPVdc8GLdwHcqYiDJs2QRO1n038rx+3zl5ODdf/kHPyz2oA==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "98ba54173343a96ee85c093a2ee436d0",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Edition XXXX ∙ Nr. XXXXXX_DE\n\n7 / 18\n\nTechnische Daten | ACO 50 II, ACO 50 EE und ACO 100\n\nTemperaturabminderungsfaktoren",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztVV1r2zAU/SvCz138IVmy9rYtGSuDLg8dBLpiZOk60RZLRpJhJct/n+Q1LBulsLcOohd9nXt0ru6RfXfIYA8DmNBqlb1GWdMxRTkmWJCuoZz2RddRhrsGupooxrMrlA0QhBJBRPwhS4PW28lJOM2hlQ5iNxOWjJCiYLyqFkUKnvcHq3SvnwGMzkrw/jei5CTKWlDOSkxnFSO4QXuvrfHto5q7QxaZkw6Mq4Ic7yPMgbROtXsrRbBuljiKsEu8+WcPzudOSymcioE+OBG0z9cPcifcsHb2K8jgczWZrW9HK3Nl5ZRuy7+yBnI+t/ajHUYwPvG3y7ftcjGqPjse4+G93oMRQ1KUPQd+hIaHcYaKcdzrqDfmlj9u74XZTmILPqWZgdlmKbkxrrRmGjpImbF0ZIDvIXGslE7xaBMb+jJVVcnRjVvM882mXa4S6+nA99aGSBHj//aDrHpREk5r3pOaEElxybDqa65iSYr64of/xQ8M5ahszou+juCbX9gnCs862RBe931TMaFqSRpWEIkrShlRdXkp/AsufHNe+FuQO6O93AFaxhs16Ad68+4Tqgt0fX11Gq5WaDJqnpVFce6SDyDU0w7BjWJ1/DxgSvqK1zJ2rCy5ir8LqgTFF4e8YIfMK+4fnvuflorCYv6TE92gTfRHyroX36JSMOfuudVhD9nx/iffjaPg",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "10af86ce1d274345ac8b0fda3cfaba58",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Die Druckstufen (PN) der Axial-Kompensatoren werden bei einer definierten, maximalen Temperatur von 20 °C/35,6 °F klassifiziert und zugelassen. Trotzdem ist die Konstruktion der Kompensatoren auf höhere Temperaturen ausgelegt. Das bedeutet, dass sich der maximale Betriebsdruck der Kompensatoren bei höheren Betriebstemperaturen anhand des Temperaturabminderungsfaktors verringert. Gleiches gilt für die zulässige Bewegungsaufnahme - die maximale Bewegungsaufnahme bei 20 °C/35,6 °F ist je Ausführung bei den",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJx9U11P2zAU/StWnjapNGnSpg1vsGp7QEI8MO2BocixrxPTxI78AayI/757szIK2uhLavvcc8851755SqCHAUyotUxOWVLyctNUTVGIvAAuVLPIYaVUvuEbWVRlmcxYMkDgkgeO+KeE/tTeRifgZQ21cICfiXCxXi6zbF3l+Tyj4ul8sFIr/QFgdFaA96+IRbUsq2JeVutFUVaEG8EN2nttja8Pam6eEmQmHUWRZ8vnW4Q5ENbJureCB+smiSMPHfGm3z04nzotBHcSC31wPGifXv0SHXfDlbN3IIJPZTStr0crUmlFpLT8iTWQVtOvvrDDCMYTf709r7fzUark+RmbK92D4QMpSj4CH6Dh1zhB+Tj2GvWit/Rw3HPTRt6CJ5sJmDYhcyPu1CYODZCzzbTjXodZbOR6lStelEuVVyuBn/ViUclyXZSSl0VCGgM8BgJvNbCti2LnQ1Rg2Kery89MgmNnj5r3J0e68fABnMRPA5qBNgiSoLTR4AKYGRv4ox44WmfXgFUYanTs3hqWZ+xnzLIm+5IWq1l5WHxlu57jJJXeEwOLRrJ9bIE2wczZtbNhL2Fg2gcmUeYFzjy4uKOAJolvxfGoWEfUquzAwZGI6dAjM7RhzrbcowMJMUCYMYndmNeimxhfLLBzCE5D4yVF849mFMFRM/O3ILzpajqOrvCKHanhzaANMtLtUnyHfJ7dg3PatBjDnH3rAeVgSav7wNTURLgpgX3saQlLjK0lkQ/QEg1aN7wbgJ1MsCMX7wGk+3/joJzvgJ1Ff2jakcapRE4O0Vzf470bwBnUwhT5wEltMZ6P/CEFjrgLh5w5MdK0iNWL7uGPJ9EhPyX7PsiGrgQOCw9/gMOLapU6pdfx8nAuuaMXfA/XdKmfb38DBQOqdA==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "76125213b64c16b412198c1f7a028927",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ngsfaktors verringert. Gleiches gilt für die zulässige Bewegungsaufnahme - die maximale Bewegungsaufnahme bei 20 °C/35,6 °F ist je Ausführung bei den Bestellnummern zu finden. Der Temperaturabminderungsfaktor bezieht sich dabei auf den schwächsten betriebstemperaturbelasteten Werkstoff:",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJx9U11P2zAU/StWnjapNGnSpg1vsGp7QEI8MO2BocixrxPTxI78AayI/757szIK2uhLavvcc8851755SqCHAUyotUxOWVLyctNUTVGIvAAuVLPIYaVUvuEbWVRlmcxYMkDgkgeO+KeE/tTeRifgZQ21cICfiXCxXi6zbF3l+Tyj4ul8sFIr/QFgdFaA96+IRbUsq2JeVutFUVaEG8EN2nttja8Pam6eEmQmHUWRZ8vnW4Q5ENbJureCB+smiSMPHfGm3z04nzotBHcSC31wPGifXv0SHXfDlbN3IIJPZTStr0crUmlFpLT8iTWQVtOvvrDDCMYTf709r7fzUark+RmbK92D4QMpSj4CH6Dh1zhB+Tj2GvWit/Rw3HPTRt6CJ5sJmDYhcyPu1CYODZCzzbTjXodZbOR6lStelEuVVyuBn/ViUclyXZSSl0VCGgM8BgJvNbCti2LnQ1Rg2Kery89MgmNnj5r3J0e68fABnMRPA5qBNgiSoLTR4AKYGRv4ox44WmfXgFUYanTs3hqWZ+xnzLIm+5IWq1l5WHxlu57jJJXeEwOLRrJ9bIE2wczZtbNhL2Fg2gcmUeYFzjy4uKOAJolvxfGoWEfUquzAwZGI6dAjM7RhzrbcowMJMUCYMYndmNeimxhfLLBzCE5D4yVF849mFMFRM/O3ILzpajqOrvCKHanhzaANMtLtUnyHfJ7dg3PatBjDnH3rAeVgSav7wNTURLgpgX3saQlLjK0lkQ/QEg1aN7wbgJ1MsCMX7wGk+3/joJzvgJ1Ff2jakcapRE4O0Vzf470bwBnUwhT5wEltMZ6P/CEFjrgLh5w5MdK0iNWL7uGPJ9EhPyX7PsiGrgQOCw9/gMOLapU6pdfx8nAuuaMXfA/XdKmfb38DBQOqdA==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "af1e243bf7c76f2ec5374f97a3758468",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Temperatur Abminderungsfaktor Betriebsdruck Abminderungsfaktor Bewegungsaufnahme 20 °C/35,6 °F 1 1 100 °C/212 °F 0,8 0,97 150 °C/302 °F 0,76 0,95 200 °C/392 °F 0,72 0,93",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Temperatur</td><td>Abminderungsfaktor Betriebsdruck</td><td>Abminderungsfaktor Bewegungsaufnahme</td></tr><tr><td>20°C/35,6 °F</td><td>1</td><td>1</td></tr><tr><td>100 °C/212 °F</td><td>0,8</td><td>0,97</td></tr><tr><td>150 °C/302 °F</td><td>0,76</td><td>0,95</td></tr><tr><td>200 °C/392 °F</td><td>0,72</td><td>0,93</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyFU01vnDAQ/SuWz9u1wXyEaLVS06iXXnJIT2mEjD3s0gBGtlG7Wu1/r4clWpRsUjh4xn7z/OYNPB0ptNBB78tG01tC87yOokKlKRQQCZBJFGmhqyoRXMi8SOmK0A681NLLgD9SDEpnRqvgNYdSWQjLRBjlScJ5XsTxmmPxdN4Z3dTNJ4DBGgXOXRBRkWSFWGdFHomsQNwAtmuca0zvylnN05EGZtQhRMyT03OAWVDG6rI1SnpjJ4mD9HvkZT8dWMdso5S0OhQ6b6VvHHs4qL203YM1v0F5x/TY71w5GMW0USO65b6YHlgxPeUP0w3QO+Qv7+/K+/Wga3o6hcvrpoVedqiIfgaeof4wTFA5DG0T9Ibe2Hzcyn43yh04bJNCv6PY3BB2yn7sKsDObqYdexmmuNF5GtdSZEkdF6kKSx6mq7NcZFpmAok9/PWldOXedy3WbLysWthu/B6kDovFcPsIQXUwZ7QbFlLc+lp1Ta/Boje1fAn9kDvwtoHKaTuql8+Bf2CHuRzrXu47OIMZ3sZeb66MPswC9Dbmv0bOK/6NiXSVkXPyPYD1dBy9jSaquTbinLxWx1H8rpivbhZxkV9hSC8Mgl9jyLMlRfqeIl6IEMVVinhJIRYUbPaCnWdDT/PccF6XyZD/TeQ64M0kSLzQubCaRPhed5IEBwk6Rz4wiqBBiEjJBz4gIkbE+aOcf4RH7Jeenv8BuPxv1A==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "5530cd66c4144eaab697fdd3090e882d",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Bei Auswahl des Kompensators muss der Temperaturabminderungsfaktor unter Berücksichtigung des Betriebsdrucks wie folgt beachtet werden:\n\nBetriebsdruck bei erhhter Temperatur = Max. Betriebsdruck (PN) Abminderungsfaktor Betriebsdruck\n\nBeispiel:\n\nIn einer Anlage wird mit einem Betriebsdruck von 700 kPa gearbeitet. Die maximale Betriebstemperatur liegt bei 150 °C/302 °F. Bei 150 °C/302 °F gilt ein Abminderungsfaktor von 0,76 für den Betriebsdruck. Somit ergibt sich folgende Gleichung:\n\n700 kPa =921kPa 0,76",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJztVsFu3DYQ/RVCpxZIdylRIlcBcrBrtCiKBgaanNJAGJFDLWuJEkgqdmr43ztU7NpO2wC+GtaF4vBx9Gb4OKMP1wWOOKFPnTPFa1bUHLBvQJSlPKBqBIeqgVZVrTK1gL4uXrFiwgQGEhD+usgvXZzXoPFujp0OSMPmsFR1zblqq2rH8+ZtfZqNs+4bgCXMGmO8R5RtLVuxk60qhWwzbsEwuRjd7GN3y+bDdUGeMw8hKl7ffCRYQD0H042zhjSHjeIC6Zj97t9HDHEfnNYQDG2MKUBycX/+WR8hTOdh/hN1inuz+iF2y6z3ZtZrzlb8Yfa4b7en+3WeFvQx++/OTruz3WJscXNDH7duRA9TZlR8C3wLTZ+XDQrLMjriS7Htb5dH8MMKA8YcZoF+KHJwC1k6v0495sgOmyXcH6Y4GNVUFoSsbdU2mgZVlq2RSkgDUhSZY8KrlMGn6NjJGi/hODJKBXtANLJpjZGsgb1DslKW1gD95DyZcm4sXBCMrT4R5BTDHyvnVuuL6PQxuYEgm8tTTMFhH01YaY1dOmR2HofEegQCYmKXGAz61zniu2S8hZBP5RO+y0SJ8deStRLahs5bGGk1kGwrMA0qEjJK3lh4kezzlewDPZGIHMNwPKZHMmVv2G9wtXusPfbd+dvv2cm/FfwI9SQVHgyWpamUErqpK13xgwYrbV0KVQml9IsKn68KXVwcjk+rWkKCbPqyqRthq1qqtqmBzks2UJcGuHzRy3PVyy+eofNUpE78SG6pDQbDJpc26/RVofo0e6Y4ZxfnwAaEQEWO+uSOnVHvnODKTTDiP1vSfdUbHW591bGy4Sz3457/uBe8un3/KVfE/11kgxs3Pv9VIzMl/kpJZr+0+UC93T+mvWO/z1tEYXB9Yvk3YOv0SK7YzyPSnBw+sc0f0FqEui0VFdZKiKa2Ja9LqEopD8q8XJjnemHu9P+mrco8ZvE9lM57T4xwmIP7C80X+Xz8G/0lGJI=",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "8b96a431351fc4b61ab21309aa88981b",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Es kann ein geflanschter Axial-Kompensator (max. Betriebsdruck = 1.000 kPa) verwendet werden, da 921 kPa (errechneter max. Betriebsdruck) <= 1.000 kPa (max. Betriebsdruck für ACO 100).\n\nEdition XXXX ∙ Nr. XXXXXX_DE\n\n8 / 18\n\nEinbaumaße | ACO 50 II, ACO 50 EE und ACO 100\n\n5 Einbaumaße\n\nAxial-Kompensator mit Innengewindeanschluss\n\n2 1 1 | g aD2 UUUUUUUUUUUU L",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJztll1v1TgQhv+KlSsqlXP8kTgx2r1YaBEVqPQCpEqAook9Pg09cSI7oUWl/x0722pDOYK97K6Oc5EPvx7PeB7H8+Emwy126Ma6NdkzkgkDUCDNqbSiqag0NNeSl7nhlWbCFtkhyTocwcAIUX+TpYc69JPXeP+OtfYYb7NBVuY5paXifEXT4Lm/601r218IBt9rDOEfBVO5VGIlVcmEVEk3oO/aENrehfrOmw83WbSc/BCC0/z2U5R51L039bbXMPZ+dnGA8SLZXb8P6MPat1qDN3FgGD2MbViffdUX4Lsz339GPYa1mdwm1EOv16bXU1qt8LR3uFZzq1/33YAuJPv10fP6aDUYm93exsltu0UHXfIo+5X4Tjp+HWYpDMO2jf7G2NZ33Vtwmwk2GFKYGbpNloIb4pfaTV2DKbJq/uIXyaxMWXALQuaWq0LHW8mYMrIU0oAUWfJxxOsxiY8DuQTnCLaObNDGCYO+GNGTv65b2D5d+E2edHC9Is9x9C02wfhJX5I/CVtRSsnlGRyQL+iv0BkcyRV6g+6QGCCKs9RLnqCPSblwmIz/bOmA/LGwtXMu+3Gi1Oro2ou3hFF6sEpLdL96p+BTGr/guxRZDPEh41pqYauyspZXXDR5gY3WQnFtKJMsz/eMP2LGf0DWtGk8OY+NfJw4Z4qc+tX8fn5eHx0vsXjZ9xG4XTxYzYxlaWcUqqmUNhoaq3jkFSvUJd3z8B/hoSJrwqpl0s+i+PRv7Y7Eg+WFobTgsjTcMiVLNI3QuRAVl43a/wgeceLVDz+C1jUwdZDOBWORfJtPhoKSk5PD+8fjYzI5c39kLCF5hWB2A1I2NLesimBwAQJUpTAHIwwrpC4KAXtAHjEgD6uh3+72JVEFecDUEph37bjFXbyoVDTLAm0uZaGEgsgI1UowHafjbF89/295+blI7tqRnDgXJ8OrNtbCcz29nUL4VyTFSj0HURrBOORAldLAAVijCskUB70n6RGTtASDExavb2RD4IiT94tG3ixJOOmijez203fr6+U6",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "e81085ce062df38d3ff3de88746f9765",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Bezeichnung Nennweite (*2 mm) Balg Verschraubung Wirksamer Querschnitt D1 D2 S1 S2 ACO 50051l Rp 1/2\" 125 mm (4.92\" 15,7 mm (0.62\") 27 mm (1.06\") 38 mm (1.50\") 26 mm (1.02\") 3,9 cm? (0.60in?)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Bezeichnung</td><td>Nennweite</td><td>(*2 mm)</td><td>Balg</td><td>Verschraubung</td><td>Wirksamer Querschnitt</td></tr><tr><td>D1</td><td>D2</td><td>S1</td><td>S2</td></tr><tr><td>ACO 50051l</td><td>Rp 1/2\"</td><td>125 mm (4.92\"</td><td>15,7 mm (0.62\")</td><td>27 mm (1.06\")</td><td>38 mm (1.50\")</td><td>26 mm (1.02\")</td><td>3,9 cm? (0.60in?)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVtuO2zYQ/ZWBntaFK4mkbiy2Dpr6JWiRpt1eHrKBQEtcW61ukGSk24X/vbzJIoWsEb9YHh6OzhzOHPrji8dr3vB2yqvS+w68GB0oRjjFmCWHIo0JY0VGwifxeMgOGfe24DV8YiWbmMC/ePIhH7vzUPD5N8+LgYsvlRClURSGKcXYD+Vmtd50ZfVU3QD0Q1fwcVwQiEYJJX5CU0QSKnE9H5pqHKuuHXPD5uOLJzJLHoTgMLp8ErCBF91Q5nVXsKkbFMWeTSeZN/hj5MMYDFVRsKEUG8dpYFM1Bh+eixMbmg9D9zcvpjEoz+1xzPuuCMquOEu1xm+7lgdUffKfuqbn7Sjz5/u3+d7vyyfvchEvf6pq3rJGMvJugQ10eu4VlPV9XQm+orbALNesPZ7ZkY+yTI+3R08W14tI3p6bA5eVURGZ+L9Tzsb8NDW1THU/sUPNd/fTibNSfA3yEYbu89iz9vtHDz96u7f8P14Vp1ZUeR9Mpy8g3vO2/cyrib+yfvcNhqbZXFeLrrbzs/r4ytKf4gCK08DOh9df/lc1/DMKEQf49azgbTVNGhuoelRNuz2a9+/2+Pr4sEQfsLUpmAU5dOWzyVHufvjxF4jDMEa1AJQq9FsPKBA0rgGEY1Er3EU+dcLxNlXx0E9EfHNdwDqM/DCxwyQz4Th00MmMdpKQLYWieaOyh1X7xqws9V+5p+CSJ0FksySafOwTZOdHdBsb9mlq4Qk2dLBDPprJZ9RhiWRYgB3usUhtuGfxLe4oXOnuyBsa4tQhjiOhjCZOM4cL3aJZ4cihQ1RYuA39ivPItpEmj3xyU3iEkcNddI0jfKL0TVbpSWjoS9EsfRNzHEJhYmVJMsM9yb7iOBDakpl8elv5dcevWp5q8VM/ct8bCnWMas6b48wsYKGalSidtc9SBz6DEXHONlTkiS8a4xZ7vOobmzpGmnrmY7uvI7qdB43G9jsTemWe2spnWmLiR84gJMl8IO4Um2mNxHGvmAfGcQJtzN7FmLY0a8uI4Wq5MJsSvHsHsxvBddp1UE05zGM0I5cQnkO6LedwbIWXrHhOIEM/wx08nsPwgJTFg2t/4rfrKLAaVHAbH1atBO75bGAvqKycFFbmJDathh7cMYJ1X8L6uEFeSbDH4JozuHYHaw+B1VxuYNXoG1j1zwYeELjWAu60gutH4I44uBMDbhuCc33CFy9KeBBVquL1HaLOEl9vGH2jQNXquKhZVaw922CNoWsDt6GKjHbIJa0uUvmlhdVFG0dawFoC5U8WWPuBaMMFarxBu4EF1QOIqQNNNAU5fQtU/oua/2D9LmfPu3z6H4hYATo=",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "1eac53a186a1d77f9543953c342e179e",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ACO 5007 1l Rp 3/4\" 135 mm (5.31\") 19,5 mm (0.77\" 32 mm (1.26\") 48 mm (1.89\") 31 mm 1.22\") 5,5 cm? (0.85in?) ACO 50101l Rp 1\" 150 mm (5.91\") 24,9 mm (0.98\") 39,1 mm (1.54\") 53 mm (2.09\") 38 mm (1.50\") 8,4 cm? (1.30in?)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ACO 5007 1l</td><td>Rp 3/4\"</td><td>135 mm (5.31\")</td><td>19,5 mm (0.77\"</td><td>32 mm (1.26\")</td><td>48 mm (1.89\")</td><td>31 mm 1.22\")</td><td>5,5 cm? (0.85in?)</td></tr><tr><td>ACO 50101l</td><td>Rp 1\"</td><td>150 mm (5.91\")</td><td>24,9 mm (0.98\")</td><td>39,1 mm (1.54\")</td><td>53 mm (2.09\")</td><td>38 mm (1.50\")</td><td>8,4 cm? (1.30in?)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVtuO2zYQ/ZWBntaFK4mkbiy2Dpr6JWiRpt1eHrKBQEtcW61ukGSk24X/vbzJIoWsEb9YHh6OzhzOHPrji8dr3vB2yqvS+w68GB0oRjjFmCWHIo0JY0VGwifxeMgOGfe24DV8YiWbmMC/ePIhH7vzUPD5N8+LgYsvlRClURSGKcXYD+Vmtd50ZfVU3QD0Q1fwcVwQiEYJJX5CU0QSKnE9H5pqHKuuHXPD5uOLJzJLHoTgMLp8ErCBF91Q5nVXsKkbFMWeTSeZN/hj5MMYDFVRsKEUG8dpYFM1Bh+eixMbmg9D9zcvpjEoz+1xzPuuCMquOEu1xm+7lgdUffKfuqbn7Sjz5/u3+d7vyyfvchEvf6pq3rJGMvJugQ10eu4VlPV9XQm+orbALNesPZ7ZkY+yTI+3R08W14tI3p6bA5eVURGZ+L9Tzsb8NDW1THU/sUPNd/fTibNSfA3yEYbu89iz9vtHDz96u7f8P14Vp1ZUeR9Mpy8g3vO2/cyrib+yfvcNhqbZXFeLrrbzs/r4ytKf4gCK08DOh9df/lc1/DMKEQf49azgbTVNGhuoelRNuz2a9+/2+Pr4sEQfsLUpmAU5dOWzyVHufvjxF4jDMEa1AJQq9FsPKBA0rgGEY1Er3EU+dcLxNlXx0E9EfHNdwDqM/DCxwyQz4Th00MmMdpKQLYWieaOyh1X7xqws9V+5p+CSJ0FksySafOwTZOdHdBsb9mlq4Qk2dLBDPprJZ9RhiWRYgB3usUhtuGfxLe4oXOnuyBsa4tQhjiOhjCZOM4cL3aJZ4cihQ1RYuA39ivPItpEmj3xyU3iEkcNddI0jfKL0TVbpSWjoS9EsfRNzHEJhYmVJMsM9yb7iOBDakpl8elv5dcevWp5q8VM/ct8bCnWMas6b48wsYKGalSidtc9SBz6DEXHONlTkiS8a4xZ7vOobmzpGmnrmY7uvI7qdB43G9jsTemWe2spnWmLiR84gJMl8IO4Um2mNxHGvmAfGcQJtzN7FmLY0a8uI4Wq5MJsSvHsHsxvBddp1UE05zGM0I5cQnkO6LedwbIWXrHhOIEM/wx08nsPwgJTFg2t/4rfrKLAaVHAbH1atBO75bGAvqKycFFbmJDathh7cMYJ1X8L6uEFeSbDH4JozuHYHaw+B1VxuYNXoG1j1zwYeELjWAu60gutH4I44uBMDbhuCc33CFy9KeBBVquL1HaLOEl9vGH2jQNXquKhZVaw922CNoWsDt6GKjHbIJa0uUvmlhdVFG0dawFoC5U8WWPuBaMMFarxBu4EF1QOIqQNNNAU5fQtU/oua/2D9LmfPu3z6H4hYATo=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "a2f7f61e2161c12292b4188dcfddd44d",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ACO 50121 Rp 1 1/4\" 165 mm 6.50\") 30,9 mm (1.22) 46,5 mm (1.83\" 68 mm (2.68\") 48 mm (1.89\") 11,3 cm? (1.75in?) ACO 50151l Rp 11/2\" 190 mm (7.48\") 40,4 mm (1.59\") 58,4 mm (2.30\" 73 mm (2.87\") 54 mm (2.13\") 20cm? (3.101in?)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ACO 50121</td><td>Rp 1 1/4\"</td><td>165 mm 6.50\")</td><td>30,9 mm (1.22)</td><td>46,5 mm (1.83\"</td><td>68 mm (2.68\")</td><td>48 mm (1.89\")</td><td>11,3 cm? (1.75in?)</td></tr><tr><td>ACO 50151l</td><td>Rp 11/2\"</td><td>190 mm (7.48\")</td><td>40,4 mm (1.59\")</td><td>58,4 mm (2.30\"</td><td>73 mm (2.87\")</td><td>54 mm (2.13\")</td><td>20cm? (3.101in?)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVtuO2zYQ/ZWBntaFK4mkbiy2Dpr6JWiRpt1eHrKBQEtcW61ukGSk24X/vbzJIoWsEb9YHh6OzhzOHPrji8dr3vB2yqvS+w68GB0oRjjFmCWHIo0JY0VGwifxeMgOGfe24DV8YiWbmMC/ePIhH7vzUPD5N8+LgYsvlRClURSGKcXYD+Vmtd50ZfVU3QD0Q1fwcVwQiEYJJX5CU0QSKnE9H5pqHKuuHXPD5uOLJzJLHoTgMLp8ErCBF91Q5nVXsKkbFMWeTSeZN/hj5MMYDFVRsKEUG8dpYFM1Bh+eixMbmg9D9zcvpjEoz+1xzPuuCMquOEu1xm+7lgdUffKfuqbn7Sjz5/u3+d7vyyfvchEvf6pq3rJGMvJugQ10eu4VlPV9XQm+orbALNesPZ7ZkY+yTI+3R08W14tI3p6bA5eVURGZ+L9Tzsb8NDW1THU/sUPNd/fTibNSfA3yEYbu89iz9vtHDz96u7f8P14Vp1ZUeR9Mpy8g3vO2/cyrib+yfvcNhqbZXFeLrrbzs/r4ytKf4gCK08DOh9df/lc1/DMKEQf49azgbTVNGhuoelRNuz2a9+/2+Pr4sEQfsLUpmAU5dOWzyVHufvjxF4jDMEa1AJQq9FsPKBA0rgGEY1Er3EU+dcLxNlXx0E9EfHNdwDqM/DCxwyQz4Th00MmMdpKQLYWieaOyh1X7xqws9V+5p+CSJ0FksySafOwTZOdHdBsb9mlq4Qk2dLBDPprJZ9RhiWRYgB3usUhtuGfxLe4oXOnuyBsa4tQhjiOhjCZOM4cL3aJZ4cihQ1RYuA39ivPItpEmj3xyU3iEkcNddI0jfKL0TVbpSWjoS9EsfRNzHEJhYmVJMsM9yb7iOBDakpl8elv5dcevWp5q8VM/ct8bCnWMas6b48wsYKGalSidtc9SBz6DEXHONlTkiS8a4xZ7vOobmzpGmnrmY7uvI7qdB43G9jsTemWe2spnWmLiR84gJMl8IO4Um2mNxHGvmAfGcQJtzN7FmLY0a8uI4Wq5MJsSvHsHsxvBddp1UE05zGM0I5cQnkO6LedwbIWXrHhOIEM/wx08nsPwgJTFg2t/4rfrKLAaVHAbH1atBO75bGAvqKycFFbmJDathh7cMYJ1X8L6uEFeSbDH4JozuHYHaw+B1VxuYNXoG1j1zwYeELjWAu60gutH4I44uBMDbhuCc33CFy9KeBBVquL1HaLOEl9vGH2jQNXquKhZVaw922CNoWsDt6GKjHbIJa0uUvmlhdVFG0dawFoC5U8WWPuBaMMFarxBu4EF1QOIqQNNNAU5fQtU/oua/2D9LmfPu3z6H4hYATo=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "899e04953aec863cdfb7a7d25e842e7f",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ACO 50201l Rp 2\" 210 mm (8.27\" 49,6 mm (1.95\") 69,4 mm (2.73\" 88 mm (3.46\") 66 mm (2.60\") 29 cm? (4.50in?)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ACO 50201l</td><td>Rp 2\"</td><td>210 mm (8.27\"</td><td>49,6 mm (1.95\")</td><td>69,4 mm (2.73\"</td><td>88 mm (3.46\")</td><td>66 mm (2.60\")</td><td>29 cm? (4.50in?)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVtuO2zYQ/ZWBntaFK4mkbiy2Dpr6JWiRpt1eHrKBQEtcW61ukGSk24X/vbzJIoWsEb9YHh6OzhzOHPrji8dr3vB2yqvS+w68GB0oRjjFmCWHIo0JY0VGwifxeMgOGfe24DV8YiWbmMC/ePIhH7vzUPD5N8+LgYsvlRClURSGKcXYD+Vmtd50ZfVU3QD0Q1fwcVwQiEYJJX5CU0QSKnE9H5pqHKuuHXPD5uOLJzJLHoTgMLp8ErCBF91Q5nVXsKkbFMWeTSeZN/hj5MMYDFVRsKEUG8dpYFM1Bh+eixMbmg9D9zcvpjEoz+1xzPuuCMquOEu1xm+7lgdUffKfuqbn7Sjz5/u3+d7vyyfvchEvf6pq3rJGMvJugQ10eu4VlPV9XQm+orbALNesPZ7ZkY+yTI+3R08W14tI3p6bA5eVURGZ+L9Tzsb8NDW1THU/sUPNd/fTibNSfA3yEYbu89iz9vtHDz96u7f8P14Vp1ZUeR9Mpy8g3vO2/cyrib+yfvcNhqbZXFeLrrbzs/r4ytKf4gCK08DOh9df/lc1/DMKEQf49azgbTVNGhuoelRNuz2a9+/2+Pr4sEQfsLUpmAU5dOWzyVHufvjxF4jDMEa1AJQq9FsPKBA0rgGEY1Er3EU+dcLxNlXx0E9EfHNdwDqM/DCxwyQz4Th00MmMdpKQLYWieaOyh1X7xqws9V+5p+CSJ0FksySafOwTZOdHdBsb9mlq4Qk2dLBDPprJZ9RhiWRYgB3usUhtuGfxLe4oXOnuyBsa4tQhjiOhjCZOM4cL3aJZ4cihQ1RYuA39ivPItpEmj3xyU3iEkcNddI0jfKL0TVbpSWjoS9EsfRNzHEJhYmVJMsM9yb7iOBDakpl8elv5dcevWp5q8VM/ct8bCnWMas6b48wsYKGalSidtc9SBz6DEXHONlTkiS8a4xZ7vOobmzpGmnrmY7uvI7qdB43G9jsTemWe2spnWmLiR84gJMl8IO4Um2mNxHGvmAfGcQJtzN7FmLY0a8uI4Wq5MJsSvHsHsxvBddp1UE05zGM0I5cQnkO6LedwbIWXrHhOIEM/wx08nsPwgJTFg2t/4rfrKLAaVHAbH1atBO75bGAvqKycFFbmJDathh7cMYJ1X8L6uEFeSbDH4JozuHYHaw+B1VxuYNXoG1j1zwYeELjWAu60gutH4I44uBMDbhuCc33CFy9KeBBVquL1HaLOEl9vGH2jQNXquKhZVaw922CNoWsDt6GKjHbIJa0uUvmlhdVFG0dawFoC5U8WWPuBaMMFarxBu4EF1QOIqQNNNAU5fQtU/oua/2D9LmfPu3z6H4hYATo=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f414f18cff1b6ec6f4eb4d9fa816ef1c",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Edition XXXX ∙ Nr. XXXXXX_DE\n\n9 / 18\n\nEinbaumaße | ACO 50 II, ACO 50 EE und ACO 100\n\nAxial-Kompensator mit Außengewindeanschluss\n\n2 L ANNNN ANN V DA D2 UUUUUU UUUUU",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "orig_elements": "eJztVdtq3DAQ/RXh52Yt2VrL6tu2u6WhJc1DUwJJMGNptFHxDcmmCen+eyVnQ7clBPqWwo7Bup05mtEc2VcPCTbYYjdWVidvSSKh0HxJZXiENNSA5LU0Ii+pWpbLnCdvSNLiCBpGCPiHJHYq309O4dMYK+UwNDMhE5zTwJVlCxqd5/W219bYFwCD6xV6/xvBJC9kviikYHkhI25A11rvbd/5ah/N1UMSmGMceZ5RvrsJMIeqd7pqegVj7+YQBxhvI2964dH51FmlwOng6EcHo/Xp+b26Bdeeu/47qtGneuq2vhp6lepeTfG0/EnfYSpnqz717YCdj/zV+l21XgzaJLtd2NzYBjtocT7ZF8B76Hg/zFAYhsaGeENu6X65gW47wRZ9TDPBbpvE5IYwU3VTW2PMTMYtR7wbI8dG2+hPLoOR6ynLmCRnbjGPLy+r9SayPm34oe/HQBH8/9ZDyUsmURiRcS6gVjlilpWhIDUCUyo/6uE/0YMkKWHlYdHPA/jsEftM4bVQjCGFosyzzKCqgUmojaCZ0LmQ5bHwr7fwjP7xJbBdDVML1xOl2iD5SVbvv5AlJaenb566mw2ZOj2PGKWHKvmIoJ9XCFAu8oKZYkmB6lpKzkPtkPFMLwtgx1/Fq1bIPOX+4b4fSmp1Z6E5OYiPtHYkq2kvsW6LP2ynETqvbpvJ+0NBfbVjg8/pydS1MNwIzUMQAtSS16CMMdJAzpiqj3p6zXo6lEdGPpPVWbD4Jt/IekXWGbmY7bE5FMRpG6iS3c0vladQ0Q==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "5bc0392d5041ff1fb32f1d7577f330ea",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Bezeichnung Nennweite L (*2 mm) Balg Verschraubung Wirksamer Querschnitt D1 D2 S1 S2 ACO 5005 EE R1/2\" 157 mm (6.18\" 15,7 mm (0.62\") 27 mm (1.06\") 38 mm (1.50\") 26 mm (1.02\") 3,9 cm? (0.60 in?)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Bezeichnung</td><td>Nennweite</td><td>L (*2 mm)</td><td>Balg</td><td>Verschraubung</td><td>Wirksamer Querschnitt</td></tr><tr><td>D1</td><td>D2</td><td>S1</td><td>S2</td></tr><tr><td>ACO 5005 EE</td><td>R1/2\"</td><td>157 mm (6.18\"</td><td>15,7 mm (0.62\")</td><td>27 mm (1.06\")</td><td>38 mm (1.50\")</td><td>26 mm (1.02\")</td><td>3,9 cm? (0.60 in?)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVtmO2zYU/ZULPcWFK3HRxmLqoKnz1CJNM10eMoFASxxbrbVAkpFOB/73cpNNCjNG/WLp8vDy3O1Qn58DcRSNaKeiroLvIKB5nhJKGYvThKFsh5OK04THlCZVRkQWrCFoxMQrPnGJfw7UQzF2p6EU87soykHIP+0QZ3GMUMYICZHarNebrqof6xuAfuhKMY5XBJaEGA1TlmGaMoXrxdDU41h37VhYNp+fA+lZ8aCUoPj8RcIGUXZDVRy7kk/doCn2fDoov9HvoxjGaKjLkg+V3DhOA5/qMfr4VB740Hwcur9EOY1RdWr3Y9F3ZVR15Ulla/y2a0XE9K/4qWt60Y7Kf7F9V2zDvnoMzmd5+GN9FC1vFKPgFthCp6deQ3nfH2vJV8YW2eUjb/cnvhejCjMQ7T5QwfXSUrSnZidUZBhJ0yT+mQo+FoepOSpfdxPfHcXmbjoIXsm/QT3C0H0de95+/xCQh2DzTvwr6vLQyjDvounwAuKDaNuvop7EK+s/w5tvCDTN6rJedkf3BH7cv7L0h6xBeRj4aff68X/Ww9+jzOMAv540vK2nyWAjHZGOarPF8/7Nllwe76/We+JsiuaU7LrqyfqoNj/8+AskCCXw/r1EVNr2CUeSxeUVJ5kMFd6kIc4989rYUZhK+OqyQIwZhyh1zTS35gR56HRGe07omkHZvNXeEdTtW7t0jf/CPfO40yh2SWbUcs+x6x6zdWLJZ5mDp8SyIR73eOaeM48kVmYJ9qgn0rWlnievMk8QRl7OXdYs1udlYeoGQ2KZFEOa5R4PtsZzct0NiQleKg1zY3y5EPk6NrRxSNEt2sSjjb18E2zSmoexX3xkqatkOXlNbRlkZqnjJs0t8TT/H2XAeE1n6tnNjCcL6sTLLtLeWRgnjjlG63jOl3dqktsFIvPlbMjmpOeZB5/BmHrtjzRxGmKEb3U5QV6Xe8QzQxzLUfF8x2w9DxdL3IWUXahnbtpzk1+6KF6aztXwJ9dOaCwbaUE9siITGTUOzlaplUI76gsXnQVHh+AT6MqAM9/Spgfb2jCyuKuFWAtgF5dcrVePxO5WFqnk8HBCaIe1noMvdvLdFxDwR3MFi4YHv4vk+6I4sJVcFsoJCzVSXvxJB39+YNmUsCw1qBsItgR8MQZf32AhHNKPP5ArWHT5Cha9s4J7DL6igD+m4KmQdODNNvjjAn4Lgndbwov3ItzLKHXw5s7Q1SSXG+Vygxi7jFlHbETaYq2CG8V2oZqMEcarWxOklkkHa4K2UnQFmxRoYXLARgxkH16hVhiMFDhQM3yEedDUUFCTd4Wq76b5k+o3NXfB+ct/72T6vA==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "8a3c852c3c4d6652dc866730ddccd3f8",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ACO 5007 EE R3/4\" 173 mm (6.81\") 19,5 mm (0.77\" 32 mm (1.26\") 48 mm (1.89\") 31 mm 1.22\") 5,5 cm? (0.85in?) ACO5010EE R1\" 194 mm (7.64\" 24,9 mm (0.98\") 39,1 mm (1.54\" 53 mm (2.09\" 38 mm (1.50\") 8,4 cm? (1.30in?)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ACO 5007 EE</td><td>R3/4\"</td><td>173 mm (6.81\")</td><td>19,5 mm (0.77\"</td><td>32 mm (1.26\")</td><td>48 mm (1.89\")</td><td>31 mm 1.22\")</td><td>5,5 cm? (0.85in?)</td></tr><tr><td>ACO5010EE</td><td>R1\"</td><td>194 mm (7.64\"</td><td>24,9 mm (0.98\")</td><td>39,1 mm (1.54\"</td><td>53 mm (2.09\"</td><td>38 mm (1.50\")</td><td>8,4 cm? (1.30in?)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVtmO2zYU/ZULPcWFK3HRxmLqoKnz1CJNM10eMoFASxxbrbVAkpFOB/73cpNNCjNG/WLp8vDy3O1Qn58DcRSNaKeiroLvIKB5nhJKGYvThKFsh5OK04THlCZVRkQWrCFoxMQrPnGJfw7UQzF2p6EU87soykHIP+0QZ3GMUMYICZHarNebrqof6xuAfuhKMY5XBJaEGA1TlmGaMoXrxdDU41h37VhYNp+fA+lZ8aCUoPj8RcIGUXZDVRy7kk/doCn2fDoov9HvoxjGaKjLkg+V3DhOA5/qMfr4VB740Hwcur9EOY1RdWr3Y9F3ZVR15Ulla/y2a0XE9K/4qWt60Y7Kf7F9V2zDvnoMzmd5+GN9FC1vFKPgFthCp6deQ3nfH2vJV8YW2eUjb/cnvhejCjMQ7T5QwfXSUrSnZidUZBhJ0yT+mQo+FoepOSpfdxPfHcXmbjoIXsm/QT3C0H0de95+/xCQh2DzTvwr6vLQyjDvounwAuKDaNuvop7EK+s/w5tvCDTN6rJedkf3BH7cv7L0h6xBeRj4aff68X/Ww9+jzOMAv540vK2nyWAjHZGOarPF8/7Nllwe76/We+JsiuaU7LrqyfqoNj/8+AskCCXw/r1EVNr2CUeSxeUVJ5kMFd6kIc4989rYUZhK+OqyQIwZhyh1zTS35gR56HRGe07omkHZvNXeEdTtW7t0jf/CPfO40yh2SWbUcs+x6x6zdWLJZ5mDp8SyIR73eOaeM48kVmYJ9qgn0rWlnievMk8QRl7OXdYs1udlYeoGQ2KZFEOa5R4PtsZzct0NiQleKg1zY3y5EPk6NrRxSNEt2sSjjb18E2zSmoexX3xkqatkOXlNbRlkZqnjJs0t8TT/H2XAeE1n6tnNjCcL6sTLLtLeWRgnjjlG63jOl3dqktsFIvPlbMjmpOeZB5/BmHrtjzRxGmKEb3U5QV6Xe8QzQxzLUfF8x2w9DxdL3IWUXahnbtpzk1+6KF6aztXwJ9dOaCwbaUE9siITGTUOzlaplUI76gsXnQVHh+AT6MqAM9/Spgfb2jCyuKuFWAtgF5dcrVePxO5WFqnk8HBCaIe1noMvdvLdFxDwR3MFi4YHv4vk+6I4sJVcFsoJCzVSXvxJB39+YNmUsCw1qBsItgR8MQZf32AhHNKPP5ArWHT5Cha9s4J7DL6igD+m4KmQdODNNvjjAn4Lgndbwov3ItzLKHXw5s7Q1SSXG+Vygxi7jFlHbETaYq2CG8V2oZqMEcarWxOklkkHa4K2UnQFmxRoYXLARgxkH16hVhiMFDhQM3yEedDUUFCTd4Wq76b5k+o3NXfB+ct/72T6vA==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "1bbe1995dc691eae57b0e28f25a1a932",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ACO5012EE R11/4\" 215 mm (8.46\") 30,9 mm (1.22) 46,5 mm (1.83\" 68 mm (2.68\") 48 mm (1.89\") 11,3 cm? (1.75in?) ACO5015EE R11/2\" 240 mm (9.45\" 40,4 mm (1.59\") 58,4 mm (2.30\" 73 mm (2.87\") 54 mm (2.13\") 20cm? (3.101in?)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ACO5012EE</td><td>R11/4\"</td><td>215 mm (8.46\")</td><td>30,9 mm (1.22)</td><td>46,5 mm (1.83\"</td><td>68 mm (2.68\")</td><td>48 mm (1.89\")</td><td>11,3 cm? (1.75in?)</td></tr><tr><td>ACO5015EE</td><td>R11/2\"</td><td>240 mm (9.45\"</td><td>40,4 mm (1.59\")</td><td>58,4 mm (2.30\"</td><td>73 mm (2.87\")</td><td>54 mm (2.13\")</td><td>20cm? (3.101in?)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVtmO2zYU/ZULPcWFK3HRxmLqoKnz1CJNM10eMoFASxxbrbVAkpFOB/73cpNNCjNG/WLp8vDy3O1Qn58DcRSNaKeiroLvIKB5nhJKGYvThKFsh5OK04THlCZVRkQWrCFoxMQrPnGJfw7UQzF2p6EU87soykHIP+0QZ3GMUMYICZHarNebrqof6xuAfuhKMY5XBJaEGA1TlmGaMoXrxdDU41h37VhYNp+fA+lZ8aCUoPj8RcIGUXZDVRy7kk/doCn2fDoov9HvoxjGaKjLkg+V3DhOA5/qMfr4VB740Hwcur9EOY1RdWr3Y9F3ZVR15Ulla/y2a0XE9K/4qWt60Y7Kf7F9V2zDvnoMzmd5+GN9FC1vFKPgFthCp6deQ3nfH2vJV8YW2eUjb/cnvhejCjMQ7T5QwfXSUrSnZidUZBhJ0yT+mQo+FoepOSpfdxPfHcXmbjoIXsm/QT3C0H0de95+/xCQh2DzTvwr6vLQyjDvounwAuKDaNuvop7EK+s/w5tvCDTN6rJedkf3BH7cv7L0h6xBeRj4aff68X/Ww9+jzOMAv540vK2nyWAjHZGOarPF8/7Nllwe76/We+JsiuaU7LrqyfqoNj/8+AskCCXw/r1EVNr2CUeSxeUVJ5kMFd6kIc4989rYUZhK+OqyQIwZhyh1zTS35gR56HRGe07omkHZvNXeEdTtW7t0jf/CPfO40yh2SWbUcs+x6x6zdWLJZ5mDp8SyIR73eOaeM48kVmYJ9qgn0rWlnievMk8QRl7OXdYs1udlYeoGQ2KZFEOa5R4PtsZzct0NiQleKg1zY3y5EPk6NrRxSNEt2sSjjb18E2zSmoexX3xkqatkOXlNbRlkZqnjJs0t8TT/H2XAeE1n6tnNjCcL6sTLLtLeWRgnjjlG63jOl3dqktsFIvPlbMjmpOeZB5/BmHrtjzRxGmKEb3U5QV6Xe8QzQxzLUfF8x2w9DxdL3IWUXahnbtpzk1+6KF6aztXwJ9dOaCwbaUE9siITGTUOzlaplUI76gsXnQVHh+AT6MqAM9/Spgfb2jCyuKuFWAtgF5dcrVePxO5WFqnk8HBCaIe1noMvdvLdFxDwR3MFi4YHv4vk+6I4sJVcFsoJCzVSXvxJB39+YNmUsCw1qBsItgR8MQZf32AhHNKPP5ArWHT5Cha9s4J7DL6igD+m4KmQdODNNvjjAn4Lgndbwov3ItzLKHXw5s7Q1SSXG+Vygxi7jFlHbETaYq2CG8V2oZqMEcarWxOklkkHa4K2UnQFmxRoYXLARgxkH16hVhiMFDhQM3yEedDUUFCTd4Wq76b5k+o3NXfB+ct/72T6vA==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ba8f238ff653c6b51479db4eb60c7307",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ACO 5020 EE R2\" 270 mm (10.63\") 49,6 mm (1.95\") 69,4 mm (2.73\" 88 mm (3.46\") 66 mm (2.60\") 29 cm? (4.50in?)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ACO 5020 EE</td><td>R2\"</td><td>270 mm (10.63\")</td><td>49,6 mm (1.95\")</td><td>69,4 mm (2.73\"</td><td>88 mm (3.46\")</td><td>66 mm (2.60\")</td><td>29 cm? (4.50in?)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVtmO2zYU/ZULPcWFK3HRxmLqoKnz1CJNM10eMoFASxxbrbVAkpFOB/73cpNNCjNG/WLp8vDy3O1Qn58DcRSNaKeiroLvIKB5nhJKGYvThKFsh5OK04THlCZVRkQWrCFoxMQrPnGJfw7UQzF2p6EU87soykHIP+0QZ3GMUMYICZHarNebrqof6xuAfuhKMY5XBJaEGA1TlmGaMoXrxdDU41h37VhYNp+fA+lZ8aCUoPj8RcIGUXZDVRy7kk/doCn2fDoov9HvoxjGaKjLkg+V3DhOA5/qMfr4VB740Hwcur9EOY1RdWr3Y9F3ZVR15Ulla/y2a0XE9K/4qWt60Y7Kf7F9V2zDvnoMzmd5+GN9FC1vFKPgFthCp6deQ3nfH2vJV8YW2eUjb/cnvhejCjMQ7T5QwfXSUrSnZidUZBhJ0yT+mQo+FoepOSpfdxPfHcXmbjoIXsm/QT3C0H0de95+/xCQh2DzTvwr6vLQyjDvounwAuKDaNuvop7EK+s/w5tvCDTN6rJedkf3BH7cv7L0h6xBeRj4aff68X/Ww9+jzOMAv540vK2nyWAjHZGOarPF8/7Nllwe76/We+JsiuaU7LrqyfqoNj/8+AskCCXw/r1EVNr2CUeSxeUVJ5kMFd6kIc4989rYUZhK+OqyQIwZhyh1zTS35gR56HRGe07omkHZvNXeEdTtW7t0jf/CPfO40yh2SWbUcs+x6x6zdWLJZ5mDp8SyIR73eOaeM48kVmYJ9qgn0rWlnievMk8QRl7OXdYs1udlYeoGQ2KZFEOa5R4PtsZzct0NiQleKg1zY3y5EPk6NrRxSNEt2sSjjb18E2zSmoexX3xkqatkOXlNbRlkZqnjJs0t8TT/H2XAeE1n6tnNjCcL6sTLLtLeWRgnjjlG63jOl3dqktsFIvPlbMjmpOeZB5/BmHrtjzRxGmKEb3U5QV6Xe8QzQxzLUfF8x2w9DxdL3IWUXahnbtpzk1+6KF6aztXwJ9dOaCwbaUE9siITGTUOzlaplUI76gsXnQVHh+AT6MqAM9/Spgfb2jCyuKuFWAtgF5dcrVePxO5WFqnk8HBCaIe1noMvdvLdFxDwR3MFi4YHv4vk+6I4sJVcFsoJCzVSXvxJB39+YNmUsCw1qBsItgR8MQZf32AhHNKPP5ArWHT5Cha9s4J7DL6igD+m4KmQdODNNvjjAn4Lgndbwov3ItzLKHXw5s7Q1SSXG+Vygxi7jFlHbETaYq2CG8V2oZqMEcarWxOklkkHa4K2UnQFmxRoYXLARgxkH16hVhiMFDhQM3yEedDUUFCTd4Wq76b5k+o3NXfB+ct/72T6vA==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "94db8ff7a753e217723de303a3a75fe1",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Edition XXXX ∙ Nr. XXXXXX_DE\n\n10 / 18\n\nEinbaumaße | ACO 50 II, ACO 50 EE und ACO 100\n\nAxial-Kompensator mit Flanschanschluss\n\n2 D3",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "orig_elements": "eJztVsFq3DAQ/RXhc7KWLMmyeku7G7oU0lwKgSQY2TPeuNiWkWxISPffK7kJ3ZYQeuzC6mBrrDdvZjQPybfPCXbY4zCVLSQfSFJQpYtcAlCGUjRUcm1QNpxWaDIJeXJGkh4nA2YyAf+cxEnp7exqfLWxrB2G10LIlBA0kGbZikbnZb230DbtO4DR2Rq9/41gWuSar3KtGM91xI3o+tb71g6+fMnm9jkJzDEPzjMq9vcB5rC2DsrO1maybklxNNND5E2/eXQ+dW1dGwfB0U/OTK1Pr5/qB+P6a2e/Yz35FOZh58vR1inYeo675c/tgKleRvnF9iMOPvKX64/lejVCk+z3IXjTdjiYPmaUvAd+gU5P4wI149i1Id9QW/qy3JlhN5sd+lhmgsMuicWN4Us5zH2FsTJGY8wJH6dIsoE2EpCbMMjdnGVMkyu3Wuybm3K9ibSvES+tnQJH8P9bEEILxrEAASrjqqk5KzSVjGGW06KgcBLEsQiCUZISVhy2/TrAr36h32g9CtSK50qoApSgAOFcUBpkQQspJKpT6//j1rM/zoJ2qMzcm7uZUmiQ/CAXn74SScl2e/Y63WzIPMBiMUoPVfIZDbytkNgJaESladjiXFbKAAt3RQOqUFJKflLIsSjk4rE13flBONK3E7kMRD5UFx/d7P2/qSL8O4gmk5zlCIWuOPIKiroxquJZpjN5UsWxqCIja37Y820fwMn+/ifaDjXL",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "84f539e3367c72353499adbaf8346bbb",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Bezeichnung Nennweite L (£3 %) Balg Losflansch D3 Wirksamer Querschnitt D1 D2 ACO 100025 DN 25 60 mm (2.36\") 25 mm (0.98\") 39 mm (1.54\") 68 mm (2.68\") 8m? (1.24in?) ACO 100032 DN 32 65 mm (2.56\") 32 mm (1.26\") 46 mm (1.81\") 78 mm (3.07\") 12 cm? (1.86in?)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Bezeichnung</td><td>Nennweite</td><td>L (£3 %)</td><td>Balg</td><td>Losflansch D3</td><td>Wirksamer Querschnitt</td></tr><tr><td>D1</td><td>D2</td></tr><tr><td>ACO 100025</td><td>DN 25</td><td>60 mm (2.36\")</td><td>25 mm (0.98\")</td><td>39 mm (1.54\")</td><td>68 mm (2.68\")</td><td>8m? (1.24in?)</td></tr><tr><td>ACO 100032</td><td>DN 32</td><td>65 mm (2.56\")</td><td>32 mm (1.26\")</td><td>46 mm (1.81\")</td><td>78 mm (3.07\")</td><td>12 cm? (1.86in?)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyFV9tu4zYQ/ZWBgAK7QCvxIupSpF5067cutlugRR82C0GW6FitdYEkY5sG+feSFGVxiMSbBHA4Oh4fDmfOoT8/BfIsW9nNRVMHP0JwPNCMZrU4CMlYVsusTg45Px7psWRc/QbfQ9DKuazLuVT4p0D/U0z9ZazkupZFNUr1YhLSNI4JSXPGQqLfbJ63fd0cmxuAYewrOU0bguZxkvMwyVPKk1zjBjm2zTQ1fTcVls3np0Bl1jw4ZyR+/qJgo6z6sS7OfVXO/WgoDuV80nmjPyc5TtHYVFU51uqN0zyWczNFnx6rUzm2n8b+b1nNU1RfuoepGPoqqvvqoqs1/dB3MsrNT/Fr3w6ym3T+Yv++2IdDfQyen9WHH5uz7MpWMwpugS10fhwMtByGc6P4qr1F9vG57B4u5YOc9DYD2T0EenODihTdpT1IvTNKVWiW/85FORWnuT3rXHdzeTjL3d18kmWtXkb9L4z912kou5/uA3Yf7N7L/2RTnTq1zbtoPr2A+Ci77qtsZvnK8w/w5v5CSMk5fPf2iqn6s/sp5fm19B/66ah2OFUn2PNXMH814z+TquUIv1/UsSm6zTwv2Mjsyuxst6fr+3d75jyO1gIc+vrRouvdz7/8BpQQwoQC1Ca0/wjOKiHQtvCGhTy5D95ew0yYMAnzzA3z3IRpKGI3nGQ2SYLQWftOY1ncdO9sdNvJxo0zl5uzSoRNKxA3ziwJhsJxYsMZdcPpwo2HJHXDlEG10MuS2/Ri4tJzVulKLxeIB1lrhD5QrDViuEYrvRhthuYLPZ38Nj2B6DmrXNjMKTorsdLLEb0kt/RShniQpdhxSFCcZQu/OOQx3CaYoNZzVpQSm5tzROXlY8/StVIcH+TKMCNeOxiGaUj5bYIZqqCzonYK4jBHm8+IZUIFrlW81gqfJV/OWHjME8uQkpDx20VUfy5Hd0ntgYowp5jNyjKPcb1SiyeoXtQ2aBIy5udZaIpQfdRtmlhm3CW105KEWY7pvFxjKlY8xTTtwKRh7NHndmJUw7Nv0MQz4y6ZrVoaZlguXqtyFls8Q1VmdOnKLOQCx+3gcEUzv8mS4TN3l8xqTB7GOPsr7BkXFs8w3gq36kCBHvCULjRFGgrqVzOyHhMt1hs8W1vWduxYLVxNFTYbAmM/sGk/GM2HTW3BqCxs+gZG12DTEzA6Atv8gplb2IYFliGBrS9h6UfYWgCWo4et3LCUGZTZg3b7A9VuD9giAcsTYBcArLrgaRx47Q5eX4E3JuCdKHgnD3sK2KoBuyNgNwKs/v5esLCBJyHfJO+T1Rci2DPAtwbARg3YGAEbEWDVB09jwVMz8GQDvPkEbxLAuZi9eP9S1zXAtxvQA2y6gy2XGzUdy1L1ArprgLljbNAscaDY98H4/QrVveRAPQ8G5jKwBnzFYjcE44IrVluhi8W+BImLXU3pCsb2AIstXNHWG65orNKwqPN1f1aiV7QnlrCI5Io2SumiPdGCRaxW+KpYFq6/W6xfO/7QchU8f/kfIn7A7A==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "304602580a09cd731f8c581bbc3bfa27",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ACO 100040 DN 40 75 mm (2.95\") 40 mm (1.57\") 58 mm (2.28\") 88 mm (3.46\") 19 cm? (2.95in?) ACO 100050 DN 50 95 mm (3.74\") 50 mm (1.97\") 69 mm (2.72\") 102 mm (4.02\") 28 cm? (4.34 in?) ACO 100065 DN 65 110 mm (4.33\") 65 mm (2.56\") 87 mm (3.43\") 122 mm (4.80\") 46 cm? (7.13in?)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ACO 100040</td><td>DN 40</td><td>75 mm (2.95\")</td><td>40 mm (1.57\")</td><td>58 mm (2.28\")</td><td>88 mm (3.46\")</td><td>19 cm? (2.95in?)</td></tr><tr><td>ACO 100050</td><td>DN 50</td><td>95 mm (3.74\")</td><td>50 mm (1.97\")</td><td>69 mm (2.72\")</td><td>102 mm (4.02\")</td><td>28 cm? (4.34 in?)</td></tr><tr><td>ACO 100065</td><td>DN 65</td><td>110 mm (4.33\")</td><td>65 mm (2.56\")</td><td>87 mm (3.43\")</td><td>122 mm (4.80\")</td><td>46 cm? (7.13in?)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyFV9tu4zYQ/ZWBgAK7QCvxIupSpF5067cutlugRR82C0GW6FitdYEkY5sG+feSFGVxiMSbBHA4Oh4fDmfOoT8/BfIsW9nNRVMHP0JwPNCMZrU4CMlYVsusTg45Px7psWRc/QbfQ9DKuazLuVT4p0D/U0z9ZazkupZFNUr1YhLSNI4JSXPGQqLfbJ63fd0cmxuAYewrOU0bguZxkvMwyVPKk1zjBjm2zTQ1fTcVls3np0Bl1jw4ZyR+/qJgo6z6sS7OfVXO/WgoDuV80nmjPyc5TtHYVFU51uqN0zyWczNFnx6rUzm2n8b+b1nNU1RfuoepGPoqqvvqoqs1/dB3MsrNT/Fr3w6ym3T+Yv++2IdDfQyen9WHH5uz7MpWMwpugS10fhwMtByGc6P4qr1F9vG57B4u5YOc9DYD2T0EenODihTdpT1IvTNKVWiW/85FORWnuT3rXHdzeTjL3d18kmWtXkb9L4z912kou5/uA3Yf7N7L/2RTnTq1zbtoPr2A+Ci77qtsZvnK8w/w5v5CSMk5fPf2iqn6s/sp5fm19B/66ah2OFUn2PNXMH814z+TquUIv1/UsSm6zTwv2Mjsyuxst6fr+3d75jyO1gIc+vrRouvdz7/8BpQQwoQC1Ca0/wjOKiHQtvCGhTy5D95ew0yYMAnzzA3z3IRpKGI3nGQ2SYLQWftOY1ncdO9sdNvJxo0zl5uzSoRNKxA3ziwJhsJxYsMZdcPpwo2HJHXDlEG10MuS2/Ri4tJzVulKLxeIB1lrhD5QrDViuEYrvRhthuYLPZ38Nj2B6DmrXNjMKTorsdLLEb0kt/RShniQpdhxSFCcZQu/OOQx3CaYoNZzVpQSm5tzROXlY8/StVIcH+TKMCNeOxiGaUj5bYIZqqCzonYK4jBHm8+IZUIFrlW81gqfJV/OWHjME8uQkpDx20VUfy5Hd0ntgYowp5jNyjKPcb1SiyeoXtQ2aBIy5udZaIpQfdRtmlhm3CW105KEWY7pvFxjKlY8xTTtwKRh7NHndmJUw7Nv0MQz4y6ZrVoaZlguXqtyFls8Q1VmdOnKLOQCx+3gcEUzv8mS4TN3l8xqTB7GOPsr7BkXFs8w3gq36kCBHvCULjRFGgrqVzOyHhMt1hs8W1vWduxYLVxNFTYbAmM/sGk/GM2HTW3BqCxs+gZG12DTEzA6Atv8gplb2IYFliGBrS9h6UfYWgCWo4et3LCUGZTZg3b7A9VuD9giAcsTYBcArLrgaRx47Q5eX4E3JuCdKHgnD3sK2KoBuyNgNwKs/v5esLCBJyHfJO+T1Rci2DPAtwbARg3YGAEbEWDVB09jwVMz8GQDvPkEbxLAuZi9eP9S1zXAtxvQA2y6gy2XGzUdy1L1ArprgLljbNAscaDY98H4/QrVveRAPQ8G5jKwBnzFYjcE44IrVluhi8W+BImLXU3pCsb2AIstXNHWG65orNKwqPN1f1aiV7QnlrCI5Io2SumiPdGCRaxW+KpYFq6/W6xfO/7QchU8f/kfIn7A7A==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "82a0842c3e4498756661d7beced270b8",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ACO 100080 DN 80 125 mm (4.92\") 80 mm (3.15\") 104 mm (4.06\") 138 mm (5.43\") 66 cm? (10.23 in?) ACO 100100 DN 100 150 mm (5.91\") 100 mm (3.94\") 127 mm (5.00\") 158 mm (6.22\") 100 cm? (15.50 in?) ACO 100125 DN 125 175 mm (6.89\") 125 mm (4.92\") 155 mm (6.10\") 188 mm (7.40\") 153 cm? (23.72 in?)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ACO 100080</td><td>DN 80</td><td>125 mm (4.92\")</td><td>80 mm (3.15\")</td><td>104 mm (4.06\")</td><td>138 mm (5.43\")</td><td>66 cm? (10.23 in?)</td></tr><tr><td>ACO 100100</td><td>DN 100</td><td>150 mm (5.91\")</td><td>100 mm (3.94\")</td><td>127 mm (5.00\")</td><td>158 mm (6.22\")</td><td>100 cm? (15.50 in?)</td></tr><tr><td>ACO 100125</td><td>DN 125</td><td>175 mm (6.89\")</td><td>125 mm (4.92\")</td><td>155 mm (6.10\")</td><td>188 mm (7.40\")</td><td>153 cm? (23.72 in?)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyFV9tu4zYQ/ZWBgAK7QCvxIupSpF5067cutlugRR82C0GW6FitdYEkY5sG+feSFGVxiMSbBHA4Oh4fDmfOoT8/BfIsW9nNRVMHP0JwPNCMZrU4CMlYVsusTg45Px7psWRc/QbfQ9DKuazLuVT4p0D/U0z9ZazkupZFNUr1YhLSNI4JSXPGQqLfbJ63fd0cmxuAYewrOU0bguZxkvMwyVPKk1zjBjm2zTQ1fTcVls3np0Bl1jw4ZyR+/qJgo6z6sS7OfVXO/WgoDuV80nmjPyc5TtHYVFU51uqN0zyWczNFnx6rUzm2n8b+b1nNU1RfuoepGPoqqvvqoqs1/dB3MsrNT/Fr3w6ym3T+Yv++2IdDfQyen9WHH5uz7MpWMwpugS10fhwMtByGc6P4qr1F9vG57B4u5YOc9DYD2T0EenODihTdpT1IvTNKVWiW/85FORWnuT3rXHdzeTjL3d18kmWtXkb9L4z912kou5/uA3Yf7N7L/2RTnTq1zbtoPr2A+Ci77qtsZvnK8w/w5v5CSMk5fPf2iqn6s/sp5fm19B/66ah2OFUn2PNXMH814z+TquUIv1/UsSm6zTwv2Mjsyuxst6fr+3d75jyO1gIc+vrRouvdz7/8BpQQwoQC1Ca0/wjOKiHQtvCGhTy5D95ew0yYMAnzzA3z3IRpKGI3nGQ2SYLQWftOY1ncdO9sdNvJxo0zl5uzSoRNKxA3ziwJhsJxYsMZdcPpwo2HJHXDlEG10MuS2/Ri4tJzVulKLxeIB1lrhD5QrDViuEYrvRhthuYLPZ38Nj2B6DmrXNjMKTorsdLLEb0kt/RShniQpdhxSFCcZQu/OOQx3CaYoNZzVpQSm5tzROXlY8/StVIcH+TKMCNeOxiGaUj5bYIZqqCzonYK4jBHm8+IZUIFrlW81gqfJV/OWHjME8uQkpDx20VUfy5Hd0ntgYowp5jNyjKPcb1SiyeoXtQ2aBIy5udZaIpQfdRtmlhm3CW105KEWY7pvFxjKlY8xTTtwKRh7NHndmJUw7Nv0MQz4y6ZrVoaZlguXqtyFls8Q1VmdOnKLOQCx+3gcEUzv8mS4TN3l8xqTB7GOPsr7BkXFs8w3gq36kCBHvCULjRFGgrqVzOyHhMt1hs8W1vWduxYLVxNFTYbAmM/sGk/GM2HTW3BqCxs+gZG12DTEzA6Atv8gplb2IYFliGBrS9h6UfYWgCWo4et3LCUGZTZg3b7A9VuD9giAcsTYBcArLrgaRx47Q5eX4E3JuCdKHgnD3sK2KoBuyNgNwKs/v5esLCBJyHfJO+T1Rci2DPAtwbARg3YGAEbEWDVB09jwVMz8GQDvPkEbxLAuZi9eP9S1zXAtxvQA2y6gy2XGzUdy1L1ArprgLljbNAscaDY98H4/QrVveRAPQ8G5jKwBnzFYjcE44IrVluhi8W+BImLXU3pCsb2AIstXNHWG65orNKwqPN1f1aiV7QnlrCI5Io2SumiPdGCRaxW+KpYFq6/W6xfO/7QchU8f/kfIn7A7A==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "6bbd6b032d839fa31b8c7344e96163b7",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ACO 100150 DN 150 200 mm (7.87\") 150 mm (5.91\") 184 mm (7.24\") 212 mm (8.35\") 218 cm? (33.79in?) ACO 100200 DN 200 240 mm (9.45\") 200 mm (7.87\") 235 mm (9.25\") 268 mm (10.55\") 371 cm? (57.51 in?)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ACO 100150</td><td>DN 150</td><td>200 mm (7.87\")</td><td>150 mm (5.91\")</td><td>184 mm (7.24\")</td><td>212 mm (8.35\")</td><td>218 cm? (33.79in?)</td></tr><tr><td>ACO 100200</td><td>DN 200</td><td>240 mm (9.45\")</td><td>200 mm (7.87\")</td><td>235 mm (9.25\")</td><td>268 mm (10.55\")</td><td>371 cm? (57.51 in?)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyFV9tu4zYQ/ZWBgAK7QCvxIupSpF5067cutlugRR82C0GW6FitdYEkY5sG+feSFGVxiMSbBHA4Oh4fDmfOoT8/BfIsW9nNRVMHP0JwPNCMZrU4CMlYVsusTg45Px7psWRc/QbfQ9DKuazLuVT4p0D/U0z9ZazkupZFNUr1YhLSNI4JSXPGQqLfbJ63fd0cmxuAYewrOU0bguZxkvMwyVPKk1zjBjm2zTQ1fTcVls3np0Bl1jw4ZyR+/qJgo6z6sS7OfVXO/WgoDuV80nmjPyc5TtHYVFU51uqN0zyWczNFnx6rUzm2n8b+b1nNU1RfuoepGPoqqvvqoqs1/dB3MsrNT/Fr3w6ym3T+Yv++2IdDfQyen9WHH5uz7MpWMwpugS10fhwMtByGc6P4qr1F9vG57B4u5YOc9DYD2T0EenODihTdpT1IvTNKVWiW/85FORWnuT3rXHdzeTjL3d18kmWtXkb9L4z912kou5/uA3Yf7N7L/2RTnTq1zbtoPr2A+Ci77qtsZvnK8w/w5v5CSMk5fPf2iqn6s/sp5fm19B/66ah2OFUn2PNXMH814z+TquUIv1/UsSm6zTwv2Mjsyuxst6fr+3d75jyO1gIc+vrRouvdz7/8BpQQwoQC1Ca0/wjOKiHQtvCGhTy5D95ew0yYMAnzzA3z3IRpKGI3nGQ2SYLQWftOY1ncdO9sdNvJxo0zl5uzSoRNKxA3ziwJhsJxYsMZdcPpwo2HJHXDlEG10MuS2/Ri4tJzVulKLxeIB1lrhD5QrDViuEYrvRhthuYLPZ38Nj2B6DmrXNjMKTorsdLLEb0kt/RShniQpdhxSFCcZQu/OOQx3CaYoNZzVpQSm5tzROXlY8/StVIcH+TKMCNeOxiGaUj5bYIZqqCzonYK4jBHm8+IZUIFrlW81gqfJV/OWHjME8uQkpDx20VUfy5Hd0ntgYowp5jNyjKPcb1SiyeoXtQ2aBIy5udZaIpQfdRtmlhm3CW105KEWY7pvFxjKlY8xTTtwKRh7NHndmJUw7Nv0MQz4y6ZrVoaZlguXqtyFls8Q1VmdOnKLOQCx+3gcEUzv8mS4TN3l8xqTB7GOPsr7BkXFs8w3gq36kCBHvCULjRFGgrqVzOyHhMt1hs8W1vWduxYLVxNFTYbAmM/sGk/GM2HTW3BqCxs+gZG12DTEzA6Atv8gplb2IYFliGBrS9h6UfYWgCWo4et3LCUGZTZg3b7A9VuD9giAcsTYBcArLrgaRx47Q5eX4E3JuCdKHgnD3sK2KoBuyNgNwKs/v5esLCBJyHfJO+T1Rci2DPAtwbARg3YGAEbEWDVB09jwVMz8GQDvPkEbxLAuZi9eP9S1zXAtxvQA2y6gy2XGzUdy1L1ArprgLljbNAscaDY98H4/QrVveRAPQ8G5jKwBnzFYjcE44IrVluhi8W+BImLXU3pCsb2AIstXNHWG65orNKwqPN1f1aiV7QnlrCI5Io2SumiPdGCRaxW+KpYFq6/W6xfO/7QchU8f/kfIn7A7A==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "bc49bec775339d7cdcda29e837a3e34c",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Edition XXXX ∙ Nr. XXXXXX_DE\n\n11 / 18\n\n6 Einbaulage\n\nDas Produkt kann in beliebiger Richtung in Gas- und Luftleitungen installiert werden. Eine Strömungsrichtung ist nicht definiert, da die Axial-Kompensatoren kein inneres Leitrohr besitzen.\n\nVICHT\n\nVORSICHT\n\nVORSICHT\n\nDie Axial-Kompensatoren dürfen durch den Einbau nicht in ihrer natürlichen Lage und Bewegung behindert werden.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "orig_elements": "eJztV11v2zYU/SuEnhtbJCWK3Nu6ZFuxIAvarAjQFgI/Lm0uEiWQ1NouyH8f6bqbt2VZ95YM1otJ6tzLe3mOpOM3txUMMIJPvTPVV6jSrDVti3lLKQAF3BmicN22iivSAajqGapGSNLIJDP+tiqDPk5L0PB5Dr0OkH92CXHXNHXdCUJWdQne3R8n46x7ADCHSUOMfyCwaJigKyY6TJkouBnC6GJ0k4/9vpo3t1XOXOqglNTN3bsMC6CnYPph0jJNYVfiLNO25F3/FCHEdXBay2ByYExBJhfXlx/1VobxMkw/g05xbRa/if086bWZ9FJOK55MHtZid/U/TOMMPpb8/enz/nQ1G1vd3eXNrRvAy7FUVD0E3kPTx3kHlfM8uFxv7m29vz1Iv1nkBmJpswK/qUpzc17p/TIqKJ1hXPZM8CGVJGfGlQToOl/o7UIIFugirHbz6+v+9Kyk/bzjt9OUco4c/zdBEN5yoRmj1tbArGmtxK3EhjKreWOOgngqgsAYrRHmh7RfZvjFJ/Q91DNoas2JJrTjQnV5xI3MaoAa1x23R+ofM/XkkHqGzpxXchky5pD/K5cGuI96y7hkRJuOdPm93zKhoGFZBrYFYWzXHql/zNTvlsJ/eJAPtXIqI8otm+UmoRvpPXIeKRgcKLeBgF46vU35IMrydzKeoMUbdL7YLCRX1qEExCSHHBESeg/BgF8V/QF6lcLbpa4tG8tJht8zxYR8mSAD1vkS9wwZiYwD9PUHJ4eTg9PK+W/AlU08BIjoPG8bpm3INUaXfs17HQr8QobC5S9wVbq7R+gt50JQRSSrBeessfmg6oZy26ga53M7Cv0xC/1Qt4e0vxjLi+4eunkjobUNIbarFVAjJOOZcqY6qwQVR3v7ZOh+/eKb76++6FvWNFIAASVaK4jsjBUd5U1NDQYqhNJHzp8M5z++fPXFtHPDsLVNa4nqFDeGZkPTMQNKU86JIUfa/5e0U0lk2xoupeg45501ogasoebYEquPtD9q2v/qXP/1If6Tc/0Hv2h2plMHW8aZ5232mX7/j2hvPIuh3IZsb71Me3RuYJth57nCncd9Du9hU+yqgq3z5sDcPmA43/0G2IgqMg==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "373359c3a23fced9fab2319bad6ff88b",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Eine Behinderung der Bewegung oder eine Torsionsbelastung kann zu Schäden am Kompensator, Undichtigkeiten oder einem vorzeitigen Ausfall führen.\n\nSicherstellen, dass während Montage und Betrieb keine Torsion auf den Balg wirkt.\n\nBeispiel: Einbaulage waagerecht \n\nBeispiel: Einbaulage senkrecht \n\nBeispiel: Zwischeneinbaulage \n\nEdition XXXX ∙ Nr. XXXXXX_DE\n\nEinbaulage | ACO 50 II, ACO 50 EE und ACO 100\n\n12 / 18\n\nBestellnummern | ACO 50 II, ACO 50 EE und ACO 100\n\n7 Bestellnummern\n\nACO 50 II",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "orig_elements": "eJztmFlv3DYQgP8KoWfXy0Pikbc4dlGjqGsgDmA0CQQew13WOhakFDdx/N9Lbux4EyzSBOiDHaweViI5Gs0Mvx3N6PVNBR30MExtcNUzVNFaMK8a5oW03AMHTi1nlnFDwXFBqgNU9TBppyed5W+qctGmcY4W7sfQ2gj5tFFIRF1jLBSlh7jcvFnvRxd8+IbAOo4WUnqQIKrmih1yJQjjqsitIfYhpTAOqb2z5vVNlTUXOxijuL59m8Ui2DG6thutnsa4MXGtp1XRu3iVIKZFDNbq6PKNaYp6Cmlx/t6udOzP4/g32Ckt3DwsU7se7cKNdi7RSr+MAyzU5mh/H/s1DKnob4+P2uPDtfPV7W1+uA8dDLovFlXfEr4Tnd6vN6J6ve5Ctjf7trhb7vSwnPUSUnGzgmFZFefWeaYd5t5A8YzQzVR82E3pOPG+bjw1wkjnmOZUcAfGMimpo1UxcoJ/piJ8EgZAR7AKg4OYPUb5lMfXsCyDsYygiFyMcRN1A51OU1m70sOAPszopV29mTGG2sGAdI+2fD1ArwYX7GoKyysIU17/rLBH78b4IU+GZZ5+Pievuw75osnbVfbmsATgPjZnOpZNegcXxexs/9cEM4Zrj5VjQnsPzDALXlkviJNAQeA9wT8twS8zYDkeE3TZ6APkdEro+hORhSOH/hiHKT8Qzfn6CKYYwKCrbaiRnj0q9B7pbomuQ7yafoy+RlghhFTaeOYa621NvCHO5PQpnCF+T99jpm8bpiMIaR2ge4ZyYjR67go41zr/5pCsJrSNxWmfp3fhgL3ytMnBlMCxyzkIBCVGW9kQYq1lexyeNA4JhqsfoIErqTIEtVeEYk4daOcAEyaNbgT2fE/D06Phr+uQ8ltngAcqvosFSQTjTcO9oU43WtK6tjVztpHeMM3cnoWnwsKJC0UBuswHejNTShQ6i4eb8eVle3yyzcOv4zhlHbsqh7w7uVRtNDBWN5wS2lBWO+eMljr3YHsgngwQD6ngI3r+4k/UYHR6enB/eXKyqT/LiGC8Dcdv+YWwGw4gQHyuHw03QkLtPfG6sQRbTRiW3OzheCpwEIoWiMjtbT/P4mefpHflBWsbY7xRHjPKtSIgDJFNhsAWGvZ54TFvPfuyaNi0pnm1hzj8b7khtxZKCkIdbmrFTV1LXHunctesjOf7HuNxA/L1B4///LtvEyXQl0xtA3MRpm5n5ekakTtPwo1qXA0StCDGEwMea8wM33/i/Xl5+ZxwdoDy9l8kDaDl",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "43a9712fd3557fb0d4db1b7db14bc30c",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Die DUNGS Axial-Kompensatoren ACO mit Gewindeanschluss zur Vermeidung von Schwingungsübertragungen in der Gas- und Luftleitung. Die Kompensatoren aus Edelstahl sorgen für eine spannungsfreie Rohrinstallation und kompensieren axiale Relativbewegungen. Geeignet für Gase der Gasfamilien 1, 2, 3, sonstige neutrale gasförmige Medien und Wasserstoff.\n\nAusführung: Innen-/Innengewinde, max. Betriebsdruck Pmax: 500 kPa/72 PSI",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "orig_elements": "eJztU9tO3DAQ/ZVRnnc3100Ib9CtEGpLV6W0DxRFjj3OuiR2ZDsUivj3jrOLaPvAB1TNi+PxmTNnbtePEfY4oPaNEtExRJKleHRUp0WVZRWTOWKbphkWMstFW7MiWkA0oGeCeUb4xyj8NM5MluPzHRtukY6ZMK2KIkmqOstWSXCe3wcjlFSvAEZrODr3gkjroqzzVVlXaV7WATeiHZRzymjXHNRcP0bEHHTkeZYUTzcEs8iNFU1vOPPGzhJH5neBN75yaF1sFefMCnJ03jKvXLx94Dtmh60135F7F4tJd64ZDY+F4VOollsajXE9f807M4yoXeBvNqfNZjUKGT09UXCpetRsCIqi18AHqH8YZygbx16RXsotPjz3THcT69CFNCPUXRSSG8nS6GloMWSW5rPJvnRTrCvO87Rs67Uo8AhZlbYybVEmLMnbMo2CSI/3PoA3CmFzdXF2CSf3ivXL35SihpM3H2FQHs7wh9ICmXZ810/Owc/JwhfqBapQJrgzGi75jkBdqNq3KUkkJ31U2mAgJqVBoIUz5pYwaQHvJ+l7VJ5eVxBE/BmYTQ7eCuydZ7senLGBQ+55LaDSCG5kWodo0iL5fzI7qzTh+36u4Rzldk+qcOYMCRIQA+CuxR+417ai9FB1Gv1LBNKJz4IlG1SviCBdQLYAqrej8fOqQ9A4UYpE2hFs9i1pPunhA4rgETR8ZS5MnDdSrkJTn/t9wWwYvDv8HFpBPfl7K7N1RauYpBUvpcCSbkktszLNiqN1si7W/7fyn93Kk+kwTnxnKeFjONca9TKej26/jAsY2P0KTtFbha0TduK3sCXbMayTBG63LK4y2F6evzJ0N78AwcT6Ng==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "18b2a481e8bcfcd626078adbe737b009",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Ausfithrung Bestellnummer Nennweite Bewegungsaufnahme + axial [mm] Federrate 130 % [N/mm] Gewicht ACO 50051l 306948 Rp 1/2\" 12 11 0,4 kg 0.88 Ibs ACO 5007 1l 306949 Rp 3/4\" 14 20 0,5kg 1.1 1bs ACO 50101l 306950 Rp1\" 17 28 0,6 kg 1.321bs",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ausfithrung</td><td>Bestellnummer</td><td>Nennweite</td><td>Bewegungsaufnahme + axial [mm]</td><td>Federrate 130 % [N/mm]</td><td>Gewicht</td></tr><tr><td>ACO 50051l</td><td>306948</td><td>Rp 1/2\"</td><td>12</td><td>11</td><td>0,4 kg 0.88 Ibs</td></tr><tr><td>ACO 5007 1l</td><td>306949</td><td>Rp 3/4\"</td><td>14</td><td>20</td><td>0,5kg 1.1 1bs</td></tr><tr><td>ACO 50101l</td><td>306950</td><td>Rp1\"</td><td>17</td><td>28</td><td>0,6 kg 1.321bs</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9lFtv0zAUx7/KUSSeGI3tODc0TeIi0IQECMHTmCInOWkDucl2Naap3x3bTROviPalzsn/+HeuuXsKsMMeB120dfAaAiEiIvIkKbOciIZmWRVXlahSSjhJBWPBFQQ9alELLYz+KbCHQo17WeHpGYtKovlzF9KUc0LSnLENsc7ufT/WbdNeEExyrFCpVUFznuTRJslTGiW51U0o+1apdhxUMUdz9xSYm20cUcQIP9wbmcRqlHXRjZXQo3QhTkLv7L3hD4VShbI1GcraOCothW5V+PWx2gnZf5XjL6y0Cuv9sFXFNFZhPVZ7Wy31ahwwzN2v+DT2Ew7K3l+8f1u830x1ExwOBt60HQ6itxEFl8SzVD9OTiqmqWtNvCa3cH7diWG7F1tUNs0Ah21gk5uMpRj2fYk2Mxo5k1y7WcdpVUU0KfO45pihSGnZ0BIbIkhUJtTerPGPLoQqdrrvrM+1FmWHN9d6h6I2f9Ieb97sVdPqnTSVuA7Ns7W9NQXDrjP8HuVi/YzD8ICtRk/3gFtbQrFvBrHrEV6C+NOKDu76/n6RfcAapWkAmkQIvIC7z6H/+iM+tNVOH59DG1Z4CrEc68c50vrmzbsvEBMS084IameKSJLzbHn8NgEN2c9gMVC2HulyJFccfm+BbLIMbkt1tDvwc1IK56jcR0Uh91F8OTLioWJDohsK9P8gSs44MfE41IekKyTzIAk4SsQuURh9DmHP6mYqx/9DilfrFTEgtrnIOW9QHPnZnDVozYJHHsY1KNqQ/FKD2D914x7Jx3ip87W2zGXDN5yeUcJ58MLjxgSHeZvsFtl9+bknpKnczsCzXYFlR+Df3VjXYJ54sPeU1FuZ2eJtCZymHm5v4TjucBpzoAwoBX+cu1LBMr0njxxO0wqUAyPGI4Z5LFcHSk4OMXEIK0+BZeDNl69ni57BOkHOJwYzKXAcFd9lySKOTi4ujwx4BH7XVx+2hsWtj9UzCpwAOyJc/4zeffLm7+x327fgcP8XqU8QBQ==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "e1c63034067063c1ba58651f80621661",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ACO 50121 306952 Rp 1 1/4\" 17 25 1,0kg 2.21bs ACO 50151l 306953 Rp11/2\" 18 43 1,4 kg 3.09 Ibs ACO 50201l 306954 Rp2\" 21 40 2,0kg 4.41 Ibs",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ACO 50121</td><td>306952</td><td>Rp 1 1/4\"</td><td>17</td><td>25</td><td>1,0kg 2.21bs</td></tr><tr><td>ACO 50151l</td><td>306953</td><td>Rp11/2\"</td><td>18</td><td>43</td><td>1,4 kg 3.09 Ibs</td></tr><tr><td>ACO 50201l</td><td>306954</td><td>Rp2\"</td><td>21</td><td>40</td><td>2,0kg 4.41 Ibs</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9lFtv0zAUx7/KUSSeGI3tODc0TeIi0IQECMHTmCInOWkDucl2Naap3x3bTROviPalzsn/+HeuuXsKsMMeB120dfAaAiEiIvIkKbOciIZmWRVXlahSSjhJBWPBFQQ9alELLYz+KbCHQo17WeHpGYtKovlzF9KUc0LSnLENsc7ufT/WbdNeEExyrFCpVUFznuTRJslTGiW51U0o+1apdhxUMUdz9xSYm20cUcQIP9wbmcRqlHXRjZXQo3QhTkLv7L3hD4VShbI1GcraOCothW5V+PWx2gnZf5XjL6y0Cuv9sFXFNFZhPVZ7Wy31ahwwzN2v+DT2Ew7K3l+8f1u830x1ExwOBt60HQ6itxEFl8SzVD9OTiqmqWtNvCa3cH7diWG7F1tUNs0Ah21gk5uMpRj2fYk2Mxo5k1y7WcdpVUU0KfO45pihSGnZ0BIbIkhUJtTerPGPLoQqdrrvrM+1FmWHN9d6h6I2f9Ieb97sVdPqnTSVuA7Ns7W9NQXDrjP8HuVi/YzD8ICtRk/3gFtbQrFvBrHrEV6C+NOKDu76/n6RfcAapWkAmkQIvIC7z6H/+iM+tNVOH59DG1Z4CrEc68c50vrmzbsvEBMS084IameKSJLzbHn8NgEN2c9gMVC2HulyJFccfm+BbLIMbkt1tDvwc1IK56jcR0Uh91F8OTLioWJDohsK9P8gSs44MfE41IekKyTzIAk4SsQuURh9DmHP6mYqx/9DilfrFTEgtrnIOW9QHPnZnDVozYJHHsY1KNqQ/FKD2D914x7Jx3ip87W2zGXDN5yeUcJ58MLjxgSHeZvsFtl9+bknpKnczsCzXYFlR+Df3VjXYJ54sPeU1FuZ2eJtCZymHm5v4TjucBpzoAwoBX+cu1LBMr0njxxO0wqUAyPGI4Z5LFcHSk4OMXEIK0+BZeDNl69ni57BOkHOJwYzKXAcFd9lySKOTi4ujwx4BH7XVx+2hsWtj9UzCpwAOyJc/4zeffLm7+x327fgcP8XqU8QBQ==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "2035a7824008e85d504d19527370b524",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Edition XXXX ∙ Nr. XXXXXX_DE\n\n13 / 18\n\nBestellnummern | ACO 50 II, ACO 50 EE und ACO 100\n\nACO 50 EE\n\nDie DUNGS Axial-Kompensatoren ACO mit Gewindeanschluss zur Vermeidung von Schwingungsübertragungen in der Gas- und Luftleitung. Die Kompensatoren aus Edelstahl sorgen für eine spannungsfreie Rohrinstallation und kompensieren axiale Relativbewegungen. Geeignet für Gase der Gasfamilien 1, 2, 3, sonstige neutrale gasförmige Medien und Wasserstoff.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "orig_elements": "eJztVttu3DYQ/RVCz+tdUhdKylvS3ThBW9fIpTWQBAJFDnfZSqRAUk5S1/+eoWwnG9RI0bcEsF4kkmfOnOEcEnpzlcEAI9jYGZU9Ihmtec+Lhpeyb3mpmprpSinJRQN9WUqZrUg2QhRKRIH4qyx9dMHNXsLdGDrpAV8LIavLktK6zfM1TcHL+uiU0eYbgMk7CSF8QbC25G2x5m3NCt4m3AR+NCEYZ0N3q+bNVYbMSUdR5LS8focwD9J51Q1Oiuj8InES8ZB4N68D+LDxRkrhFQaG6EU0YXP+UR6EH8+9+xNkDBs1233oJic3ysk57VY4cRY27fJ0P7txAhsSf7d90m3Xk9LZ9TUm12YAK8akKPsW+BYaP04LVEzTYFAv1ra5XR6E3c9iDyGVmYHdZ6m4CWc6O489pMpYkXJG+BATyU6ZREAu8CFv5zxnLTnz62V8cdFtd4n2LuNT5yJyYPy/DCF53/bQ6ob1Tc0rhiPdctor7FpR8QdD/CiGYAXZENYct/0c4Wc36HtazyHXVd1y3bR1Xhd5zWhRiqqvRSMp6/VD67/j1pfHrX+C5cAw4OoI3pJ/yOOffiMVJc+fr+4+dzsyW7WMGKXHJnkGQt1vEMa4bgVVDKqaStHkWvS9lJo2ZUU5VQ8G+Z4Nskz5/3Hcjx312TXHTnll4gD3GQUqmgtF81JADm3OW6WpgLotKIdK9OzBKD+SUf7z2B8bZWuAbF+fnb4kjz8YMZwcKQW7XDejieQU3hurQNggD8McAvl79uR37AWYtE3kEn9kXsoDgvZp197OlGqJ+nBr0wQyGUvwliKnIpwsF9kvs0Yzmoira5JEfJ1YzIHsFAwhisNAgvOJQ9/wegLGAgmTsDZl0x4w/oU7eGMRPwzLHi5Z/rohNbBwpgIRCAlw2cN7uNG2xvLA7C3ELxlQJ9wJ1mI0g0ECtiL5ihQr1IOJzB6IhRlLRNI9wpZYjv7EhV9BpYik4Q8RkuOi03p9fBrPhE/Gu4RXqRXX7z4B7GHObQ==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "9b2af615c0fb2cfb06040a86cab303ff",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Ausführung: Außen-/Außengewinde, max. Betriebsdruck Pmax: 500 kPa/72 PSI",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "orig_elements": "eJx9kcFu3CAQhl/F4pyssc3a670lyqWqVFlqe0ojNIbBS2IDAtwmWu27F6yN9hYuDDPfDP8Pz2eCMy5oIteSHAtyYFSxfUPHrmP7EQXgCCCxbWt1wI415K4gC0aQECHxZ5IDHuzqBX6ekQuPadsGVh1jlHZ9Xe9obt7qi5Va6S8A563AEG5E1bO2b3Zt31VN22fOoV90CNqawK9qns8kTc46mqam7PKSMI/CeslnKyBav0l0EE95bvk7oA+l10KAl6kxRA9Rh3L4ECfwy+DtK4oYSrmaKXBnRSmtWPNrhXtrsOy3xb/bxaEJeT5/euRPOycVuVzS5UrPaGDJishX8BWNH25DwblZJ73JW3ktz2CmFSYM2SZBM5FszqUMN+syYnZWsS3lb79ZVa3qgcoK9x0VcKgVjKMQih7YnrZUkiwy4nvM8MMa1J+VUiVOPhk+Fg9rPkqF5r68xRP+00biXbHA+654xOg1jkH6VbwVQ8odiz2lxdsAZVcXw89vWf2nsR/g8wv/xV/5zsvLf1TGyxE=",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "db13c150e70a541ed7fb53e9092af70d",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Ausfithrung Bestellnummer Nennweite Bewegungsaufnahme + axial [mm] Federrate 130 % [N/mm] Gewicht ACO 5005 EE 306955 R1/2\" 12 11 0,4 kg 0.88 Ibs ACO 5007 EE 306956 R 3/4\" 14 20 0,6 kg 1.321bs ACO5010EE 306957 R1\" 17 28 0,8kg 1.76 Ibs",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ausfithrung</td><td>Bestellnummer</td><td>Nennweite</td><td>Bewegungsaufnahme + axial [mm]</td><td>Federrate 130 % [N/mm]</td><td>Gewicht</td></tr><tr><td>ACO 5005 EE</td><td>306955</td><td>R1/2\"</td><td>12</td><td>11</td><td>0,4 kg 0.88 Ibs</td></tr><tr><td>ACO 5007 EE</td><td>306956</td><td>R 3/4\"</td><td>14</td><td>20</td><td>0,6 kg 1.321bs</td></tr><tr><td>ACO5010EE</td><td>306957</td><td>R1\"</td><td>17</td><td>28</td><td>0,8kg 1.76 Ibs</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9lFtv2zYUx7/KgYA9LbNIiroNQYB27YZhQFsE21MaCBR5ZGvTDSSNNAj83UfKikS7aPxi8eh/+DtXPbxE2GGPg61aFf0KEcciS5jitMjKTKUNUQnLOMtlSlLFSR3dQNSjFUpY4fQvkX+ozHjUEl/PWEmN7m++kOacE5KXjO2Id57f96Nqm/YNwaRHicZsClryrEx2WZnTJCu9bkLdt8a042CqJZqHl8jd7ONIEkb46dHJNMpRq6obpbCjnkOchD34e+N/DGoT61ZKoZVzNFYL25r4y7M8CN1/0eO/KK2J1XHYm2oaZaxGefTVMr+MA8bl/Kv+GvsJB+Pvrz68rz7sJtVEp5ODN22Hg+h9RNFb4kVqn6dZKqapa128Lrd4ed2JYX8UezQ+zQiHfeSTm5ylGo59jT4zymeT3rpJadaUgiiKaU6kKFgj6lrKhhQ8JRlR/maL32wlTHWwfed9bq2oO7y7tQcUyv1p/3j37mia1h60q8Rt7M7e9t4VDLvO8XvUq/UTDsMTthYD3RPufQnFsRnEoUf4GcS3VnTw0PePq+x3VKhdAxBoQuAnePgUh6//wKdWHuz5HPuw4tcQ61E9L5Gqu3e/fYaUkBQ+fnQKNdsSkpVpuh7vacy+RuuRsu2Rro/khsN/eyC7ooA/a3O2z9xLUP4dKNtAkMQ8JPH1kZGAlHkS3SWM/gCUEkquMXmQT8jY7KwIGMWMyLMfJuMY7JpRBAx6mUqA2SpLE0dhuyJ/i5JeU8oLykVrtgB4slnPBUt2afJGZxi57ky21fw+pLCt63yTsBufTLoj18nEy8DF502JTssW+e3xe/L1SEgj512Bix2BdTfg+53Yxn+ZdPD31DRYlcUSbAcE0w7nKYd7mGsIlAGlEI5xVxsIpvbskMEype77Aa5mwTQGDpSsDrkneHkOrHDyAl4nK5CzVV54OdAzwbmkQG8SeB2TwGXLoVxc5iwK4AkEHQ9c2BpURpyLlzMKnAA7E+beOfn8mVu+rX/7nkWnx/8B4U0KVA==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "bb1496319ceb8ad19ca0df7a713d4969",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ACO5012EE 306958 R11/4\" 17 25 13kg 2.87 Ibs ACO5015EE 306959 R11/2\" 18 43 1,6 kg 3.53Ibs ACO 5020 EE 306960 R2\" 21 40 2,3kg 5.07 Ibs",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ACO5012EE</td><td>306958</td><td>R11/4\"</td><td>17</td><td>25</td><td>13kg 2.87 Ibs</td></tr><tr><td>ACO5015EE</td><td>306959</td><td>R11/2\"</td><td>18</td><td>43</td><td>1,6 kg 3.53Ibs</td></tr><tr><td>ACO 5020 EE</td><td>306960</td><td>R2\"</td><td>21</td><td>40</td><td>2,3kg 5.07 Ibs</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9lFtv2zYUx7/KgYA9LbNIiroNQYB27YZhQFsE21MaCBR5ZGvTDSSNNAj83UfKikS7aPxi8eh/+DtXPbxE2GGPg61aFf0KEcciS5jitMjKTKUNUQnLOMtlSlLFSR3dQNSjFUpY4fQvkX+ozHjUEl/PWEmN7m++kOacE5KXjO2Id57f96Nqm/YNwaRHicZsClryrEx2WZnTJCu9bkLdt8a042CqJZqHl8jd7ONIEkb46dHJNMpRq6obpbCjnkOchD34e+N/DGoT61ZKoZVzNFYL25r4y7M8CN1/0eO/KK2J1XHYm2oaZaxGefTVMr+MA8bl/Kv+GvsJB+Pvrz68rz7sJtVEp5ODN22Hg+h9RNFb4kVqn6dZKqapa128Lrd4ed2JYX8UezQ+zQiHfeSTm5ylGo59jT4zymeT3rpJadaUgiiKaU6kKFgj6lrKhhQ8JRlR/maL32wlTHWwfed9bq2oO7y7tQcUyv1p/3j37mia1h60q8Rt7M7e9t4VDLvO8XvUq/UTDsMTthYD3RPufQnFsRnEoUf4GcS3VnTw0PePq+x3VKhdAxBoQuAnePgUh6//wKdWHuz5HPuw4tcQ61E9L5Gqu3e/fYaUkBQ+fnQKNdsSkpVpuh7vacy+RuuRsu2Rro/khsN/eyC7ooA/a3O2z9xLUP4dKNtAkMQ8JPH1kZGAlHkS3SWM/gCUEkquMXmQT8jY7KwIGMWMyLMfJuMY7JpRBAx6mUqA2SpLE0dhuyJ/i5JeU8oLykVrtgB4slnPBUt2afJGZxi57ky21fw+pLCt63yTsBufTLoj18nEy8DF502JTssW+e3xe/L1SEgj512Bix2BdTfg+53Yxn+ZdPD31DRYlcUSbAcE0w7nKYd7mGsIlAGlEI5xVxsIpvbskMEype77Aa5mwTQGDpSsDrkneHkOrHDyAl4nK5CzVV54OdAzwbmkQG8SeB2TwGXLoVxc5iwK4AkEHQ9c2BpURpyLlzMKnAA7E+beOfn8mVu+rX/7nkWnx/8B4U0KVA==",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "5b139e29bce182d62732dea305b8794d",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Edition XXXX ∙ Nr. XXXXXX_DE\n\n14 / 18\n\nBestellnummern | ACO 50 II, ACO 50 EE und ACO 100\n\nAC 100\n\nDie DUNGS Axial-Kompensatoren ACO mit Flanschanschluss zur Vermeidung von Schwingungsübertragungen in der Gas- und Luftleitung. Die Kompensatoren aus Edelstahl sorgen für eine spannungsfreie Rohrinstallation und kompensieren axiale Relativbewegungen. Geeignet für Gase der Gasfamilien 1, 2, 3 und sonstige neutrale gasförmige Medien.\n\nAusführung: Flanschanschluss, max. Betriebsdruck Pmax: 1.000 kPa/145 PSI",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "orig_elements": "eJztVtFu2zYU/RVCz4lNShQl9S2p3SzYlhlLOwRoC4Eir2wuEiWQVJouy7/vUklQrwsy7K0drAdbIg/PPffyXErv7xLooAcbaqOTVyTROWO0VLxiKahUCAaFAglQpEI3ShfJEUl6CFLLIBF/l8Sb2g+TU/D0DLVygH8zISs4p7So0nRB4+J5vh+0ac0LgNENCrz/gmAVF1W2EFXBMlFF3AiuN96bwfr6Uc37uwSZo44sSym//4gwB2pwuu4GJcPgZomjDLvIu3znwfmlM0pJp3GhD04G45ebz2onXb9xw++ggl/qyW59PQ5qqQc1xWr548HCspqv+sehH8H6yF+vTuvVYtRtcn+PwVvTgZV9VJS8BH6Ehs/jDJXj2BnUi7ktH6c7abeT3IKPaSZgt0lMbsSR2k59AzEzxmPMALchkqy1iQTkCi/yYUpTVpELt5ifr67q1TrSPkV8MwwBOXD914YoCk6bUgtRUKF4yUvQjAlaNCLPKK3owRDfiyEYJ0vCyv1t3yD84gH9zNbrnAJvm6YRTZ5lZZNRJUSWt2UFNCtLftj6b3jr8/2tP8V0oOtwtgdnyZ/k5PUvJKfk/Pzo6Xa9JpPV8xOjdN8kP4DUzxukLXTDcplBwWgjU3xPFBXkVaWyhrV5lh8M8i0bZB5y/6Hd9x118vprm7w1oYPnXKLKQqQtrSpR6FRWomQZ41SU+B7hlKMTDi75jlzyrz2/75KVAbJ6d3F2SU5ujeyO95SCnc+a3gTyBpV4LE/86SbvyR+TI7/hXoCJZSI3+BVzqXafDOrFqn2YKG0V6sPSxgFkMpbgEUXOpD+eT7GfphbNaALOLkgU8ffAcvJkraHzQe464gcXOdoHXkfAWCB+lNbGaK0DXP/rsHPGIr7r5hrOUa4fSA3MnDFBBEIE3DTwCR60LcgZgNlaCF8ioE54EtzK3nQGCdgRSY9INjN7dGAwWyAWJswSebeInJcLtChO/AwaFy32G/BCuui1G3gbq/9MI3LIsPMksLZlaZq1HCDTJX7uyxx7lKtDI/5vG/FkerSP2jlM+NU/eu6I9PJ2QU4hOAON125S12SDYxh6QSkl1xu5ZDwnm8vzF0z38S/hI47y",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "627b306255eed045d59c385f20c7f7d5",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Ausfithrung Bestellnummer Nennweite Bewegungsaufnahme + axial [mm] Federrate 130 % [N/mm] Gewicht ACO 100025 306961 DN 25 6 49 2,3kg 5.07 Ibs ACO 100032 306962 DN 32 47 3,4kg 7.50 Ibs ACO 100040 306963 DN 40 81 4,0kg 8.82bs",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ausfithrung</td><td>Bestellnummer</td><td>Nennweite</td><td>Bewegungsaufnahme + axial [mm]</td><td>Federrate 130 % [N/mm]</td><td>Gewicht</td></tr><tr><td>ACO 100025</td><td>306961</td><td>DN 25</td><td>6</td><td>49</td><td>2,3kg 5.07 Ibs</td></tr><tr><td>ACO 100032</td><td>306962</td><td>DN 32</td><td/><td>47</td><td>3,4kg 7.50 Ibs</td></tr><tr><td>ACO 100040</td><td>306963</td><td>DN 40</td><td/><td>81</td><td>4,0kg 8.82bs</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9VVuL4zYY/Ssfhj6t19bNlrUMA7sdupTCdB/ap+lgZFtJ3PqG5TA7DPnvlWRPLGcXh0AkfUc63/Xk6S1QjWpVN+V1FXyCIC1IwgqRMXpIOCZSJAVhKmWcI5RQhIIQglZNspKTNPi3wC5y3Z/HUr3vVV6Oyvy4BzFnDCEuCIncZWdv+6o+1DuAYexLpfWKwIKlgkap4JimwuIGNba11nXf6Xzx5uktMC9bPygliF2eDWxUZT9WedOXcupH5+Igp5N9N/5bq1HHY12WcqzMRT2Ncqp1/O21PMmx/Tb2/6py0nF17o46H/oyrvrybLOlP/adioX75H/07aA6bd/PH77kD9FQHYLLxZAf6kZ1srUeBXvgBTq9Dg4qh6Gpjb8mtngxN7I7nuVRaRtmoLpjYIMbzEnendtC2chw4o7GtZoHXhU4kVRxjApJlFRcqESIkhb4kNDEvjyp71MudX6a2sbeuZtk0aj7u+mkZGV+Rru8/3zWh3o6jSYTd7HZ27MvJmGqaQx/q8br6aPquhdVT8rDvaijTaE8Hzp5ahV8APm9lg08te3zFfabqtRoCqAAUwS/wNNj7Ju/qpe6PE3zPrZuxe8uFn31unha3X/+9U/ACCGSGEDljihKRYqv24dH8IzpdcXEdUlC+t8Rkghx+L3Q87HjvCGhZEtCfBLPuHLw9ULIDAePErTPwdCWg/ocnvG6yNZQWYgMRxZlZI8huWFgPoNnxOsy9dIWcjAkGEU03Y8kvSlJ6vN4Rkx+VpMkFI6HRgjv82Q38WQ+j2fEa6DZmtX0ykPoLo/5bnmEz+Nb8Vp1D8TDzPLwiOx3AL5pZY42PJ6VrJUX1CtbSGxERmGZ2Ge66QS+GRrf6pF6qcM0RI4pi9L9XiA3ueObydlYV0smvIyG1DLRLMLshileBCGelSy4LCpn1c3q2D9nhA6l0zLYaBhctQt+1KxVnhYlAvtOgT0pW0489YJVjWBWIXDqAymYUpA5BiczTaFhVZUZTMCpCHBgHIxcwLte+GCGZjAFJweQQYaBzXWwg78BJwuYgZtscwamUJsJ9uHp4nUKbkBNr1m3N4Pow7Pl9QzcnIGpTEZhM08e3HxnuIB5XMwogNmYsYDrXPj4JYccwdz2QDAICtv29i8s0XKXdLszd4xD2y71LpDFI+4S73YEMgHbZjMX3P/m8mf9l22y4PL8PyyAoeU=",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "0afe18c17d19a52a971cda28a525958a",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ACO 100050 306964 DN 50 10 66 4,7 kg 10.36 Ibs ACO 100065 306966 DN 65 12 49 5,9 kg 13.01 Ibs ACO 100080 306968 DN 80 14 83 6,9 kg 13.23 Ibs ACO 100100 306969 DN 100 17 69 7,8kg 17.20 Ibs",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ACO 100050</td><td>306964</td><td>DN 50</td><td>10</td><td>66</td><td>4,7 kg 10.36 Ibs</td></tr><tr><td>ACO 100065</td><td>306966</td><td>DN 65</td><td>12</td><td>49</td><td>5,9 kg 13.01 Ibs</td></tr><tr><td>ACO 100080</td><td>306968</td><td>DN 80</td><td>14</td><td>83</td><td>6,9 kg 13.23 Ibs</td></tr><tr><td>ACO 100100</td><td>306969</td><td>DN 100</td><td>17</td><td>69</td><td>7,8kg 17.20 Ibs</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9VVuL4zYY/Ssfhj6t19bNlrUMA7sdupTCdB/ap+lgZFtJ3PqG5TA7DPnvlWRPLGcXh0AkfUc63/Xk6S1QjWpVN+V1FXyCIC1IwgqRMXpIOCZSJAVhKmWcI5RQhIIQglZNspKTNPi3wC5y3Z/HUr3vVV6Oyvy4BzFnDCEuCIncZWdv+6o+1DuAYexLpfWKwIKlgkap4JimwuIGNba11nXf6Xzx5uktMC9bPygliF2eDWxUZT9WedOXcupH5+Igp5N9N/5bq1HHY12WcqzMRT2Ncqp1/O21PMmx/Tb2/6py0nF17o46H/oyrvrybLOlP/adioX75H/07aA6bd/PH77kD9FQHYLLxZAf6kZ1srUeBXvgBTq9Dg4qh6Gpjb8mtngxN7I7nuVRaRtmoLpjYIMbzEnendtC2chw4o7GtZoHXhU4kVRxjApJlFRcqESIkhb4kNDEvjyp71MudX6a2sbeuZtk0aj7u+mkZGV+Rru8/3zWh3o6jSYTd7HZ27MvJmGqaQx/q8br6aPquhdVT8rDvaijTaE8Hzp5ahV8APm9lg08te3zFfabqtRoCqAAUwS/wNNj7Ju/qpe6PE3zPrZuxe8uFn31unha3X/+9U/ACCGSGEDljihKRYqv24dH8IzpdcXEdUlC+t8Rkghx+L3Q87HjvCGhZEtCfBLPuHLw9ULIDAePErTPwdCWg/ocnvG6yNZQWYgMRxZlZI8huWFgPoNnxOsy9dIWcjAkGEU03Y8kvSlJ6vN4Rkx+VpMkFI6HRgjv82Q38WQ+j2fEa6DZmtX0ykPoLo/5bnmEz+Nb8Vp1D8TDzPLwiOx3AL5pZY42PJ6VrJUX1CtbSGxERmGZ2Ge66QS+GRrf6pF6qcM0RI4pi9L9XiA3ueObydlYV0smvIyG1DLRLMLshileBCGelSy4LCpn1c3q2D9nhA6l0zLYaBhctQt+1KxVnhYlAvtOgT0pW0489YJVjWBWIXDqAymYUpA5BiczTaFhVZUZTMCpCHBgHIxcwLte+GCGZjAFJweQQYaBzXWwg78BJwuYgZtscwamUJsJ9uHp4nUKbkBNr1m3N4Pow7Pl9QzcnIGpTEZhM08e3HxnuIB5XMwogNmYsYDrXPj4JYccwdz2QDAICtv29i8s0XKXdLszd4xD2y71LpDFI+4S73YEMgHbZjMX3P/m8mf9l22y4PL8PyyAoeU=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "77f2da7581a4862ca649ee9153bd8eb4",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. ACO 100125 306970 DN 125 21 93 10,2 kg 22.49 Ibs ACO 100150 306971 DN 150 25 83 13,0 kg 28.66 Ibs ACO 100200 306972 DN 200 32 89 17,3 kg 38.14 Ibs",
+    "metadata": {
+      "text_as_html": "<table><tr><td>ACO 100125</td><td>306970</td><td>DN 125</td><td>21</td><td>93</td><td>10,2 kg 22.49 Ibs</td></tr><tr><td>ACO 100150</td><td>306971</td><td>DN 150</td><td>25</td><td>83</td><td>13,0 kg 28.66 Ibs</td></tr><tr><td>ACO 100200</td><td>306972</td><td>DN 200</td><td>32</td><td>89</td><td>17,3 kg 38.14 Ibs</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9VVuL4zYY/Ssfhj6t19bNlrUMA7sdupTCdB/ap+lgZFtJ3PqG5TA7DPnvlWRPLGcXh0AkfUc63/Xk6S1QjWpVN+V1FXyCIC1IwgqRMXpIOCZSJAVhKmWcI5RQhIIQglZNspKTNPi3wC5y3Z/HUr3vVV6Oyvy4BzFnDCEuCIncZWdv+6o+1DuAYexLpfWKwIKlgkap4JimwuIGNba11nXf6Xzx5uktMC9bPygliF2eDWxUZT9WedOXcupH5+Igp5N9N/5bq1HHY12WcqzMRT2Ncqp1/O21PMmx/Tb2/6py0nF17o46H/oyrvrybLOlP/adioX75H/07aA6bd/PH77kD9FQHYLLxZAf6kZ1srUeBXvgBTq9Dg4qh6Gpjb8mtngxN7I7nuVRaRtmoLpjYIMbzEnendtC2chw4o7GtZoHXhU4kVRxjApJlFRcqESIkhb4kNDEvjyp71MudX6a2sbeuZtk0aj7u+mkZGV+Rru8/3zWh3o6jSYTd7HZ27MvJmGqaQx/q8br6aPquhdVT8rDvaijTaE8Hzp5ahV8APm9lg08te3zFfabqtRoCqAAUwS/wNNj7Ju/qpe6PE3zPrZuxe8uFn31unha3X/+9U/ACCGSGEDljihKRYqv24dH8IzpdcXEdUlC+t8Rkghx+L3Q87HjvCGhZEtCfBLPuHLw9ULIDAePErTPwdCWg/ocnvG6yNZQWYgMRxZlZI8huWFgPoNnxOsy9dIWcjAkGEU03Y8kvSlJ6vN4Rkx+VpMkFI6HRgjv82Q38WQ+j2fEa6DZmtX0ykPoLo/5bnmEz+Nb8Vp1D8TDzPLwiOx3AL5pZY42PJ6VrJUX1CtbSGxERmGZ2Ge66QS+GRrf6pF6qcM0RI4pi9L9XiA3ueObydlYV0smvIyG1DLRLMLshileBCGelSy4LCpn1c3q2D9nhA6l0zLYaBhctQt+1KxVnhYlAvtOgT0pW0489YJVjWBWIXDqAymYUpA5BiczTaFhVZUZTMCpCHBgHIxcwLte+GCGZjAFJweQQYaBzXWwg78BJwuYgZtscwamUJsJ9uHp4nUKbkBNr1m3N4Pow7Pl9QzcnIGpTEZhM08e3HxnuIB5XMwogNmYsYDrXPj4JYccwdz2QDAICtv29i8s0XKXdLszd4xD2y71LpDFI+4S73YEMgHbZjMX3P/m8mf9l22y4PL8PyyAoeU=",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "6d322ca008b7c003711c39287c36a930",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Edition XXXX ∙ Nr. XXXXXX_DE\n\n15 / 18\n\n8 Weitere Informationen\n\nWeitere Informationen ⮫ www.dungs.com\n\nTechnische Änderungen vorbehalten.\n\n8.1 Umrechnung von Maßeinheiten",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "orig_elements": "eJztlctq3DAUhl/FeN3aulmyuiyTQikNWSQ0kAajy/GMy1gykidpCHn3Su6UTssQyC4tYy980a9f5+h8km4eS9jCCG7uBlu+K8pWay6J1BZRJoBR21LKjBLYAufcQPmmKEeYlVWzSvrHMr900e9Catt/Q2cCpMdiiAVjCAlJSIVy56V99Hboh2cEU/AGYvytwJJxSSsuBaZcZt0EYRxiHLyL3T6am8cyOec4KCWIPd0mWQDjg+223qjZhyXESc2b7FtfRQixDoMxKtjUMc5BzUOsLx7MRoXxIvhvYOZY251bx27yprbe7PJsxbfeQS2Xq/vkxwlczP7d6n23qibbl09PafB+2IJTY46ofE68l84P0yJV07QdUrwpt3rfvFVuvVNriDnNEty6zMlN6U/ndqOGnBlu8pgzfJ+zyZkdskFxna7i644QLIvzUC3f19fd6izb/hrxg/dz8kj9/waCWsUpMGEoYsYgwk3LmMVC4h4EYHoC4l8BAjdFXeD2sOwXSX7+U32k9IIihC1SSmNuVWM0J33DLQgq07ZA7Kn0r7j0/LD0bfEFhrTAofjoeh/GxQ7cIQqXw7yFYxQYlBa8YA0mmhLKJG51Wvo9SIsbISQ7UfCaKVh+hRes6UNsjkKTzxKtdHF/f18t01AZPx6SdK5CnrQ7uMw2R4jiRluCiSWS8L7ppUC9bdMteyxTQPhE1H9L1CWYjRui2UDCCCHDnIWQMk9Y3fmgYaO2M7jqRTgZBUrTRlnSWNkg3mDT9rQ1mmnRtKo54fSacfrjmKpwcTWGzEgKPxHhis8qc2J7GNwm70bHzqzbH9ReDHo=",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c47562aa96f439078db65908e8ab1204",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Ausgangseinheit Zieleinheit 1 bar 1 mbar 1000 mbar 0,001 bar 1 mbar 1Pa n 100 Pa 0,01 mbar 1 mbar 1in.W.C 0.40in.W.C. 2,49 mbar 1Pa 1in.W.C n 0.0040 in.W.C. 249 Pa 1PSI 1in.W.C n 27.7in.W.C. 0,036 PSI 1PSI 1 bar n 0,069 bar 14,5 PSI",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ausgangseinheit</td><td/><td>Zieleinheit</td></tr><tr><td>1 bar 1 mbar</td><td/><td>1000 mbar 0,001 bar</td></tr><tr><td>1 mbar 1Pa</td><td>n</td><td>100 Pa 0,01 mbar</td></tr><tr><td>1 mbar 1in.W.C</td><td/><td>0.40in.W.C. 2,49 mbar</td></tr><tr><td>1Pa 1in.W.C</td><td>n</td><td>0.0040 in.W.C. 249 Pa</td></tr><tr><td>1PSI 1in.W.C</td><td>n</td><td>27.7in.W.C. 0,036 PSI</td></tr><tr><td>1PSI 1 bar</td><td>n</td><td>0,069 bar 14,5 PSI</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9VG1r2zAQ/iuHP6e25Ne4tIVt/VIGJbCNwdpiZEmJvVq2kRRYKfnvk2QndRKn/qLT3XOP7tVP7x5vuOCtLmrmXYOX5lkYZjjhYRmmOUlKFpl7GqWY0nXGmbcAT3BNGNHE4N89KxSq20rK93deUMnN4QhxFscIZXkY+sg6O7voWL2uPwH0sqNcqQ8EzuM0j3wTHo7S3OJ6LkWtVN21qhijeXr3DLONI4pCFO9eDExy2klWNB0lupMuxJ7oyvIGvxSXKpA1pUQy46i0JLpWweqNVkSKlez+cqpVwLbtRhV9RwPW0a2tlrrqWh7k7iu+d6LnrbL8xf3X4t7v2drb7czj67rhLRE2Iu8z8AjVb72Dkr5vahOvyS0YzQ1pN1uy4cqm6fF249nkeqMp2q0ouc0Mp04lP7pJCSdllBAWJixPUJpgulxHS1rGZZYsSWKZNf+nC6KKSovG+txoUjb87kZXnDBzSCvefdmqjQlB8bqteK1vAqOz+oPwpzaDNDUG1jPYs5QdexvJ2B2GkkjAIMxhIMwpDwJGCDkToAVCDjvYHOOBwiHwihz82ikDrIh1n74x5163/m//23kMyI/RYPMhXMT5JRrzyilHOyFBKEZw4DE0+3CPSX48fMISZn62pzAZRSkY/CUWmFZ0EskCpflQ9HiRXCAQAvCzN+8dP3sQJosYhJgrZnlVt4AfxawzxvAoYOkvE3iwwNluRJUJfq2DaoYiSvzIGqOgshUIlyCetwiRpDqnuoZ1N9dOFCWWAcLlIsJ4JoTXDWDclGquA36IHkpl3o4TeN1MnINxroNhZ7zduE92j042ZugN3I5jfyyYMTq67/s9sR2pTKsv6Q7cwh6mbfbSuAZZ6VEMVlvLW9hX1WH2d3eacgyOypyT3YaZ7YTTfQO7PnC2PzC7EGAHHM4mHM5nFo4HEY5Ga0hxZlSceNx/k6vtqctubKr7E46/35+2md7u5T9zLBGP",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ce48f8d0de19d4dcc3e32447f472f46c",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. 1mm 1\" n 0,04\" 25,4 mm 1 b-in 1Nm n 0,11 Nm 8.85 Ib-in 1 m3h 1 ft/h n 35.31 ft3/h 0,028 m¥h : fo 0.035 ft3 28,311 1kg 11lbs n 2.20Ibs 0,45 kg",
+    "metadata": {
+      "text_as_html": "<table><tr><td>1mm 1\"</td><td>n</td><td>0,04\" 25,4 mm</td></tr><tr><td>1 b-in 1Nm</td><td>n</td><td>0,11 Nm 8.85 Ib-in</td></tr><tr><td>1 m3h 1 ft/h</td><td>n</td><td>35.31 ft3/h 0,028 m¥h</td></tr><tr><td>: fo</td><td/><td>0.035 ft3 28,311</td></tr><tr><td>1kg 11lbs</td><td>n</td><td>2.20Ibs 0,45 kg</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJx9VG1r2zAQ/iuHP6e25Ne4tIVt/VIGJbCNwdpiZEmJvVq2kRRYKfnvk2QndRKn/qLT3XOP7tVP7x5vuOCtLmrmXYOX5lkYZjjhYRmmOUlKFpl7GqWY0nXGmbcAT3BNGNHE4N89KxSq20rK93deUMnN4QhxFscIZXkY+sg6O7voWL2uPwH0sqNcqQ8EzuM0j3wTHo7S3OJ6LkWtVN21qhijeXr3DLONI4pCFO9eDExy2klWNB0lupMuxJ7oyvIGvxSXKpA1pUQy46i0JLpWweqNVkSKlez+cqpVwLbtRhV9RwPW0a2tlrrqWh7k7iu+d6LnrbL8xf3X4t7v2drb7czj67rhLRE2Iu8z8AjVb72Dkr5vahOvyS0YzQ1pN1uy4cqm6fF249nkeqMp2q0ouc0Mp04lP7pJCSdllBAWJixPUJpgulxHS1rGZZYsSWKZNf+nC6KKSovG+txoUjb87kZXnDBzSCvefdmqjQlB8bqteK1vAqOz+oPwpzaDNDUG1jPYs5QdexvJ2B2GkkjAIMxhIMwpDwJGCDkToAVCDjvYHOOBwiHwihz82ikDrIh1n74x5163/m//23kMyI/RYPMhXMT5JRrzyilHOyFBKEZw4DE0+3CPSX48fMISZn62pzAZRSkY/CUWmFZ0EskCpflQ9HiRXCAQAvCzN+8dP3sQJosYhJgrZnlVt4AfxawzxvAoYOkvE3iwwNluRJUJfq2DaoYiSvzIGqOgshUIlyCetwiRpDqnuoZ1N9dOFCWWAcLlIsJ4JoTXDWDclGquA36IHkpl3o4TeN1MnINxroNhZ7zduE92j042ZugN3I5jfyyYMTq67/s9sR2pTKsv6Q7cwh6mbfbSuAZZ6VEMVlvLW9hX1WH2d3eacgyOypyT3YaZ7YTTfQO7PnC2PzC7EGAHHM4mHM5nFo4HEY5Ga0hxZlSceNx/k6vtqctubKr7E46/35+2md7u5T9zLBGP",
+      "is_continuation": true,
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fd15a077874c6b2dc11fb97c0594ee72",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Weitere Informationen | ACO 50 II, ACO 50 EE und ACO 100\n\nEdition XXXX ∙ Nr. XXXXXX_DE\n\n16 / 18\n\n9 Glossar/Abkürzungsverzeichnis\n\nGase der Gasfamilien 1, 2, 3\n\nHTB\n\nPDZ\n\nPI\n\nPZH\n\nPZL\n\nGasfamilie 1: Wasserstoffreiche Gase z.B. Stadt- und Ferngas\n\nGasfamilie 2: Methanreiche Gase, z.B. Erdgas\n\nGasfamilie 3: Flüssiggase, z.B. Propan und Butan\n\nHöhere thermische Belastbarkeit\n\nDruckwächter (sicherheitsrelevant) zur Messung von Differenzdruck.\n\nDruckanzeige (Pressure Indicator)",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 16,
+      "orig_elements": "eJztmllvGzcQgP8KoacEcCRey8NvcW3HRlvXQF3EyAGBx1DaRtoVyJXTyPV/L7m2YaEwDOgtUXZftNwdDocznzgcSh9vR7CAJTTdtPajQzQyYDR33nGiLZWgGVbSUUmoZtRwxkYHaLSEznjTmSx/Oyo309Suo4PHNkxdhPzRKySSc4ylpnSMS+f+/bL1dahfEFjF1kFKTxJEc6HZWGhJmNBFbgVxWadUt02aPljz8XaUNRc7GKOY333OYhFcG/100TrTtbE3cWW6edE7+StBTJNYO2eizx1TF01Xp8nlNzc3cXkZ27/BdWni180sTVetm/jWrYu30pu2gYnur+mv7XIFTSr6p8dH0+PxyofR3V0ePNQLaMyyWDR6SfhBtPu26kXNarWos715bpOH1wvTzNZmBqlMcwTNbFQmt8pPps16aaHMjIgyZgf/dEXJe6g7iIDOm9DGZa8MGvQvevvLH6jC6Pz84PH25AStG9+3CO5j8GjIGRifVWe1/+dEWImFznh46yyHwPPcQiWY9qxSJoiBkx+FkxNfFwXoOl/o05pSotFFHPft6+vp8ck2EKdt2z0PBMbGEyEAGK+opQIC9pIp51xVCRPwAMSPAgQRaIKI2g77ZRa/uJd+JvSUuIowGbiXgniQkjsetJI+eO8lH0L/PYdebodeo3eLNiUTJ2/tl09rjIOLmzKRG4gbqN28qdM2F1d1t4DnkGBVENxhw6gw2FlPqFOeMOK4wdhaOyDxPSPRP4o7fMG3GXpnEqC8a0D5JphlvajztoMcIHqA2DY7FyYWN93AVen4DEPA87AQoLI5rNL7wIBW3hrqwDE7LCt7zNDZ1dFOqGilheSqwk4GK30ei3DLmZF5L4Ir5wZU9haVy+MPO6EiK6+I0FRaEhTJuoVUnICwXEqnFQyo7C8q5zuRkhcOzJkC4oA7ASUFcSywIrnGzaGiAyn7S8qHs51Q8aEK2GkITiqWU49mBDy1OSXJQIDKAZU9RuW3nVAheXtCpVSKKmq4xFYThbFykKPJfcUHVPYWlaeCCJFD9N6k4p2uDSGW0hpQXzltxkdj9GeOf/emP5U9hdjMTNqJMSuYNAEHZizzSinGFM5rE6FGYUblUDn9FIzRQ/Q7dHPTbOF1cM/XSfS7MpUzWxBG5DFNxb2hwRpZOau1d4IPJdZPwhQ7RKeL+4PB7OHZ7Amp7JOVafol62jdmWYnuLgLmoVSrweLnRN5lcI5SWJwAVjwZoBrb+E662kS8/JTZTfvvVsWqyNYmNRZE79A3e3EUsUlCOp53lwZoFhi7h0DkMYJGij3A0t7y9JxXLsvXwtQuWKfdxDRq1RSX5xniFLMnNyYpnuNNuuYU2NK2Snopm3QcR1C5q/Z+KJgvBNuqlKSWeU0FtZqz62oMAfJOHbZ1mo4Jdhz3EyzgXoG6NVlLET1f7jwde+71y+A9Pk/FnIwzw==",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "299eb57970036559b2f12fa613fed8dd",
+    "text": "Dieser Text ist für Produt: Kompensator. Produkt ID: 999999. Der Dokumentyp is Datenblatt. Druckwächter für oberen Grenzwert (sicherheitsrelevant)\n\nDruckwächter für unteren Grenzwert (sicherheitsrelevant)\n\nGlossar/Abkürzungsverzeichnis | ACO 50 II, ACO 50 EE und ACO 100\n\nEdition XXXX ∙ Nr. XXXXXX_DE\n\n17 / 18\n\nDUNGS® Combustion Controls\n\nKarl Dungs GmbH & Co. KG\n\nKarl-Dungs-Platz 1 73660 Urbach\n\nGermany\n\nTelefon: +49 7181-804-0\n\nTelefax: +49 7181-804-166\n\nE-Mail: info@dungs.com\n\n© 2025\n\n[=] i\n\nwww.dungs.com\n\nEdition XXXX ∙ Nr. XXXXXX_DE",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/999999_Kompensator_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.6971369",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "999999_Kompensator_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 17,
+      "orig_elements": "eJztmW1v2zYQx78K4RfDhtU2nx8CDFjXZGlRNAuwFCjQBsaRPCZabcmg5KZNlu8+yklQNwi6tNiLOJNe2KJ0Ot7pfiL5l95ejHCOC6y7WRVHO2SkLDgJkLRmXHpDkYJLyotItZFGptETMlpgBxE6KPYXo35n1jarHPCmjbOQsfytHTIjJaXGcT6h/cXr84smVqn6isEyNwHb9rMFc1I7MdHOMKFdb7fEvKjatmrqdnYdzduLUfHcxyEEp/LyuJhlDE2Os3kToGvyOsQldKe93+nrFnM7zVUIkGO5sO0ydFU7PfwUTiEvDnPzF4auncZVfdLOlk2Yxias+rvVjpsap269zV42iyXWbe9/tvvbbHeyjGl0eVk6T9Uca1j0EY2+Znxt2n1ark1huZxXJd6S2/T69BzqkxWcYNunOcL6ZNQntyxHZvVq4bHPjJn1ofy5mpwFxYRJMhrNIhojg0zOmphijEbSUR9khx+73ng3r8L7s3crSlGG0w4zSX0jhUya0gHWZL/8nJ9h7siPbRVOMZ9i1bW5EPQB6u6nPs6bFA4g9/fyAx713ks3t0GzHqXHoJUPIakkgilRJS8tVVJorQfQ/o+greruPydNGRQA0XgTnUHrpJKGGqGVTp4HHEh70KRtgrM/b9oW8vSpf38NzHmfxgfM51goqauW/E2ePvuDKEpevHhys7u3V7iK6xajdJOd5wix9HMHNIH54FTi2gWmJYikqVLCJyup1AWcAZptgWYvVr0D8qZs5N2Kc+bIQZ6s22/ezHb3NoH4vWm6u4HQzFPU3ErPmWAmCY3GAVpQGExUbABiW4BghkwJs5tlPyzmB1fWd5SeSkVBM2Wtip6xyDU3DqEMBsF6F+VQ+gdcevvFyuP1wf6f/dQBSJ41C79q10PDs6bucjNvN5F4sSh+7qQhWBqjFUhVRCuKKhIqqLLq4eBpZGGgYVtoeAl5Tnb7yMn+wj8nPxQQJuTl/iYGR1U3vxODIIQJRpXFrfEemFVelRohFWh5sGAHDLYJg/Eag/HhHLpzwkhRB5qS19lDOL0XDdYLEbBoHSmBonPBGc4jOOaUp8ENr00eNA231ey/PttfiJJyQ6H+9E2SFIMu2hcxaU6ZMgoQUllbSGlk9InzAZdHi8tRISE19Q75WTpimGVjS+WYfhM+ygqbiv4V3PPkFE8spiBRhLJC9RzcgM/jxgc+3sKHXb0vvTdAXDlnvU1WlUFIsBhS4ElR6aSL3HI1APRoAdobv4JqvkOqOjW/rlOehGbxTfQAWix6mDFqEuUulGEohtKhCVwHr4bZ6/HSs9bOjnB6NUbcGxkGjHGjpUMOUVJNeSxzlfERpUQDcUDmISOzScDbX45Jda8XJaZMKtwJxlmIUlHOizRiXCbnFRjlBoW8NTU/OzubfN9UUR7zQkHUECwqCxi88VIJygwDHWH4jLI1DHzXZ5TjfwDOf9Xx",
+      "product_id": "999999",
+      "product_name": "Kompensator",
+      "document_type": "Datenblatt",
+      "product_category": "Kompensator"
+    }
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "016a4ed98b0b30f2a32f399920af6f72",
+    "text": "Dieser Text ist für Produt: Prüfbrenner_PB2. Produkt ID: 162510. Der Dokumentyp is Datenblatt. Prüfbrenner\n\n12.02\n\nDUNGS Combustion Controls\n\n1  4  3 \n\n0 1 5 2 6 1 . r N • 3 1 . 2 1 n o i t i d E • y n a m r e G n i d e t n i r P\n\nN\n\nTechnik\n\nDer DUNGS-Prüfbrenner PB2 mit Druckknopfhahn ist flammrückschlag- sicher.\n\nNach Betätigen des Druckknopfes 1 wird die Gaszufuhr freigegeben. Durch die Bohrung des Brenner-Rohres 3 saugt der Gasstrom die benötigte Luft an.\n\nDas Gas-Luftgemisch wird dem Bren- nerkopf 4 zugeführt und an der Austritt- söffnung manuell gezündet.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162510_Prüfbrenner_PB2_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.7288551",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "162510_Prüfbrenner_PB2_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztl0tv4zYQgP8K4XNtk5QoSr01dbEoUARGmz3tLoQROZTU6GGQVNsk2P/eoZKg6WKxSI7G+mCJj5nhzOjzkPzwsMEBR5xi3dvNj2xjpXYyV43jzmrBS8UdWMlLC84AKLn5gW1GjGAhAsk/bFKjDvPiDT73sTYe6bUaFDrPOdeVlDuelNf5cba9678hcPKzwRD+kxBVXlTZTsuyVEokuRP6sQ+hn6dQP3nz4WFDlpMfWSZ5/vkTiXk0s7f1MBuIs19dPEHskt39+4A+7H1vDHhLiiF6iH3YH+9MB348+vlPNDHs7TK1oT7NZm9ns6Rshe084V4UUgleH/3yceEZL13jcZrQ18crWR+u6sPuZN3m82dyw/UDTjDiGs+r1J6U4t1pVYLTaegpBop3/zQ9wNQu0GJIoW9wajcp4BON1NMyNpiiFWnxiP/EZOPoaUHuzPOCyciz/WvwKfi/8CYJk9aXZOTOZTLTVVU4bZxyvGkqVCLXZem4QXEh44zJEJRi+SYcGlEqIwALo4zlvFBVJcFI0aAWpeTqgsMZ43B4f/3uD/bzPDZLSIaoOUU/D+ElIr+OZOBraAhRYga5zpQAEKoxhQSgBzeltC7LLmicMRqCsZyxjL2KBF4WWGWuEVmeZ1nuuDVUMbCogHYNay5F4pxJ4EwwxSQr6L1jnl2zj4vkUhIcaUDSc2Iz61mkn2W/PE/f0TCwkTSQvaN2mkQSSi3Pjm/ahaQVDVfYyEY3Nq8sCl6gVvRVXV5Kcyk15wzY9UsUbvo4fLXGqNzqvKycrDRH6lRVVvHSZLLQGeEBFwTOGIEbNN3U374KhEZWGdI5FOmGoyvXQO6wUo1wBeVfi8tmc24grCP+Df/0/x1h0bP1GLv98tbLyFc29pEd/GJub6f55DroaPcJkbkBxvFJ3twG0w3QblnoTYd+96adCSDP0EAhBDbOgRG8tJabSptG0y26uND4PdF4DaZjVxgTWZjHvsWJUZpeIEgdwf7uvWW2p3MRhPvFLZ1nziNJt9jgtGMHoqNbBa7mzlMyVyNXj1Fvf6cx6mYswNJGmvLJDn2LeVx1yMRKdkHrR2S/LS4ymN6GtaiELlDR0Uo3OWpUmoNxOXBDjdK4C9bfE9YHCAmxbUKpRUo30fnIMI4rlltGft8S3nRpvF9adI+ltfORLZMl+lZKf1oos32MVGkfAXVuSnCPMC04DKzF+0e9yWL8Fq+f/gWQ7Ssl",
+      "product_id": "162510",
+      "product_name": "Prüfbrenner_PB2",
+      "document_type": "Datenblatt",
+      "product_category": "Prüfbrenner"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "a0cdd3315618964784ce0913db1a04a3",
+    "text": "Dieser Text ist für Produt: Prüfbrenner_PB2. Produkt ID: 162510. Der Dokumentyp is Datenblatt. Die Gaszufuhr bleibt während der Betätigung des Druckknopfes offen und wird nach dem Loslassen sofort unterbrochen.\n\nAnwendung\n\nEinsatz in Feuerungsanlagen für Dampfkessel und zur Entlüftung von Gasregelstrecken.\n\nPrüfbrenner sind entsprechend den Anforderungen der TRD 412 (5.95) erforderlich.\n\nDer PB2 ist geeignet für Gase der Gasfamilien 1, 2 und 3.\n\nZulassungen\n\nDVGW-Registrierungsbescheid\n\nDG-4514CO0300\n\nPrüfbrenner PB2\n\nDUNGS® Combustion Controls\n\nTechnische Daten",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162510_Prüfbrenner_PB2_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.7288551",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "162510_Prüfbrenner_PB2_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztl9tu3DYQhl+F2KsWaLw86cDexdnULVCkRuq0QNNgwcNwl7VELUgpbmz43TuUHdg1jCS+XHhvdkVqOJohP/0zen+1gA56iOM6uMWPZOFrBZYDFbVpRa2t8Lri0jgma28lpYsfyKKHUTs9arS/WpSLdR6mZOHzGNY2Af7NDlkjcVmjOD+aF8/3+8EFH75gsEuDhZzvLJiStRJHDW/bqmLFbgepDzmHIeb1bTTvrxboucQhBKfy+gOaJbBDcutusHoc0hziTo/b4nf5LkPKyxSs1cnhwjwmPYa8PP1ktzr1p2n4B+yYl26Km7zeDXbpBjuV3covhghLVvOK0fVpmv6eqKCtNwlihLQ+Pebr1fF6dbRzfnF9jWH40EHUPcz5fNOy20Xjp928SO92XcAcMN/l7e1Ox82kN5BL6guIm0VJeIcz6zj1Bkq2bJ5JdwdcSdfIVnmuGgo4UEoo2lrB60Zwx/SiRDvCv2MxXgUgJzpfTn7aJmI6CGYkFxg1BblFp444SOQYxpupMWxwp3Auk1Wa7Pl5HHYeB4P3EMmE5hchORK13aJRT34dcqfxlCPJgx/SiCYjJINnv4V4VFL8nP0bncrRfISzEhmG+JBbaZracO6dE876yitlq8Z4q4UUlhp24HbPuL2P4ct4gaxhMveROAtjB4+h4CvBW6FrJVnDlEPYrRS1dN61jdKqOaCwZyg8lLCvvuv32XkdYtbjJQmR/AQTpLIPOnb4hEh8kS1vE1npfufPy2l1s0xdTom8jmN3c9+PRdU+DrFoYYINdLjLYM+fqlFK+JZzrpgG5upGOe2o1KxxsmmMsAcwnxWYp+mWrtsISQ5IXsl/h/u6vSmukbyMWBndzC2OSrk9e7siknHyXXWkqu8JpBsDzGD7RB4rUVUGasVq1ExgFpSoWyoApdI5qg48PiceV4gWBkVCHskGIGwijHcKicoHM3144XUfuoA04gP5rJfiaeA521ZKVsqi79Y32mCJts6rVhrsS2t3AG/PwLvP0V9T6elnufqmdg2kNyg/WAEVsKqudWuB2srg14nTDa0OMOwZDA9V6Ktv+/9U6I+TP1+8hQ2qUAo33ZqBjOUwuCdJDPb7VFHZtAw8tKzyutWSSnCGqsZRfqDqWVF18kJWTL76DcOkT+KIAjWaaS2AS9uKutIWPy0bJqTRXlh/4Gi/OOJfbMHxgffp+Bk0tjyPFi0DCpTmmgkw1ANtJa+QkNowq/BIDljsMRard29Ofi9kaCCvht5MubjDyzimocv3CfmlRzePAaI5VNx6ynQrlXJ167wBUXoc/GnEQTf2GZAz/D6PoXQlZIW7/Fif++E/MMYE+g==",
+      "product_id": "162510",
+      "product_name": "Prüfbrenner_PB2",
+      "document_type": "Datenblatt",
+      "product_category": "Prüfbrenner"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "33d62a3487ac0cba86e89f03098b4aab",
+    "text": "Dieser Text ist für Produt: Prüfbrenner_PB2. Produkt ID: 162510. Der Dokumentyp is Datenblatt. Anschluß Standard R ½ Option Rp ½ Max. Betriebsdruck Prüfbrenner: 500 mbar (50 kPa) Druckknopfhahn: 5 bar (500 kPa) Mindestdruck funktionssicher ab einem Mindestdruck von 0,5 mbar (50 Pa) Umgebungstemperatur -15 °C … +70 °C Einbaulage stehend senkrecht",
+    "metadata": {
+      "text_as_html": "<table><tr><td>AnschluB</td><td>Standard R 12 Option Rp 72</td></tr><tr><td>Max. Betriebsdruck</td><td>Prifbrenner:</td><td>500 mbar (50 kPa) 5 bar</td></tr><tr><td>Mindestdruck</td><td>Druckknopfhahn: funktionssicher ab</td><td>(500 kPa) einem Mindestdruck von 0,5 mbar (50 Pa)</td></tr><tr><td>Umgebungstemperatur</td><td>-15°C ... +70°C</td></tr><tr><td>Einbaulage</td><td>stehend senkrecht</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "162510_Prüfbrenner_PB2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162510_Prüfbrenner_PB2_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.7288551",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNU11vmzAU/SsWT53WgjEQkqqLtKx7nBZ161NToYt9CSxgkG2mVlX++2xCPtpsU18w9+vce8+xH148rLFBabJKeNfEw5TGOVKYiILROOIUYVJQwUIIU1qksXdJvAYNCDBg818895Pptlcc9zZmXKE9BsAwjWNK0xljPnXFQ7xpRVVU/0noVMtR62NGOIsns8hP2XSaJKHL61A1ldZVK3U2TvPw4llkN0cU2em3jzZNIW+VyOqWg2nVMGIHpnS4wb1GpQNVcQ5K2EJtFJhKB8tnXoJqlqr9hdzoQPRyrbOu5YFoee/Y0letxCCcsCSk2VL1q55GdFrkCqVElS0XLLtdZLd+Jwpvu7VjFFWNEhoc9nlX2VhknruhCLquruwOdt9gDNcg1z2sUbvVPZRrzy3cWU8m+yZHty0bPOooMDBMGC9oCNN4NhOTqShyjPJo5j5pNAAbfDIZ6Kw0Te1qbgzkNc5vTIkg7KHc7/yz1Lys+8VNYA3rILytdQfy08pjK2/+w4AUlldyR0JGvnducnLXkZTtCgIHE+wh81Y8j8hi/g2efLJAoyrMtVA939hEMYSWqtrTdX1wJpSSJgdFLhJKNkv4QBJizV186LMHrqRT+TXkrbM2su2KEkp5TYpebtyw9m7xEhWB/JB64ToNDbCS2JBTPPLb7kcvk+MkNu98hPtmjbm7TwYbe4XB9GoP/4bAqzCx94Pm9AvxfZ98TOlonoN+rWQOfW2V/weW7VaiFESj3NgXUZoTjGAkP9ip7G3HG+CUHzV2jUVBTiQdRhEnso6Oc+nIUrlYwQ+6kXO93mow6EeOdL8i+lyg98pB/sI+sTyTPdGrnlE2cVwfXEduyRmLw2MZH+hPx563ffwDlja50g==",
+      "product_id": "162510",
+      "product_name": "Prüfbrenner_PB2",
+      "document_type": "Datenblatt",
+      "product_category": "Prüfbrenner"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ebb8e0072f61921bc6cdc806735d327b",
+    "text": "Dieser Text ist für Produt: Prüfbrenner_PB2. Produkt ID: 162510. Der Dokumentyp is Datenblatt. Bestelldaten Typ Bestell-Nummer Prifbrenner (komplett mit Diise) PB2 fir Erdgas; R 72 087 478 PB2 fiir Flussiggas; R 72 196 640 PB2 flrr Stadtgas; R 12 nicht fir Osterreich zugelassen 178 970 Diisen (Ersatz/Austausch) Erdgas Dise 2, 21,8 mm 033 217 Flissiggas Duse 2b, 0,8 mm 084 947",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Bestelldaten</td><td>Typ</td><td>Bestell-Nummer</td></tr><tr><td>Prifbrenner (komplett mit Diise)</td><td>PB2 fir Erdgas; R 72</td><td>087 478</td></tr><tr><td>PB2 fiir Flussiggas; R 72</td><td>196 640</td></tr><tr><td>PB2 flrr Stadtgas; R 12 nicht fir Osterreich zugelassen</td><td>178 970</td></tr><tr><td>Diisen (Ersatz/Austausch)</td><td>Erdgas Dise 2, 21,8 mm</td><td>033 217</td></tr><tr><td>Flissiggas Duse 2b, 0,8 mm</td><td>084 947</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "162510_Prüfbrenner_PB2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162510_Prüfbrenner_PB2_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.7288551",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVF1vmzAU/StXPG1SWsxHAmxdtFVpH7do657aChnbEG9gkG20tVX++2xwQj66aS9gX59zfc+9B+5fPFazhgmdc+q9A68gQYayMojTiBEczufRPEIlImGakrJAkTcDr2EaU6yxwb94dpGrtpeE7fYsJ5KZ15AwSOIYoSQLw0tkycN501Je8n8AOtkSptSECLJ4kUWXialjPg8srmOy4UrxVqjcVXP/4pnMto4oClG8fTQwyUgraV63BOtWDiV2WG9sXv+7YlL5khOCJTVEpSXWXPnrJ7LBslnL9gcjWvm0F5XKu5b4tCW97Za6aAXzg0U4D1C+lv1DjyKUloVkQjCZr6/DfHWdry47WnrbrSmj5DUTuGGDnv+iOZJ+6gYS7rqaGw1Gr++OayyqHldMWekeE5VnBXcmkou+KZhVGw4ROQ0Yh2wekhIFOI2zjC5SWhYsKqLMPpJoSKzZb51jlW90U1vOlcZFzZZXesMwNS9pl8tr0y9W13Ze4so3ARu8e+r2awe4+Nw3DZNj2Ldkf5eoaOmTy0dBtr9Uh8WHBy968JZryXd9gTc/26YzrdDQcA0rzhV7a5LYDHRpmgYll3AjaYXVe/gKSbg/RGkCcZKO++Hu8TLHMrTbujcmqs6pQbaARYz+Qq2lhG/mM9COGIQgONnooZQvRreUzOzhua9YjY2TxZQ4SSFLzhOfNGCQKeDNjVRYP/ufeqVxr8hmUj4qNv1QzM45DGYpNM2kPYpMLDkXcFtzJxlWveUWM0An3DSGLH6Fu9PsbsUz+AjBLDrmJmD+GufclW2Q5KLaQ/eLMExMC+cHHN+Zwx+9522dL60fD50HxnFw7DRYS/NhoZLsDTSMbIwdGsVGCgrOJKc2G/HGasf029odTK5xeZxjjuGHJtnhRgPsDLND2jddvGadqRbhqn/FFhPImmFYpzBaApwVTms/pBR7DnKc0QIwTXwC44MLohE8zBz2IwY30eF34n5hd3aS3vbxDzk6B1U=",
+      "product_id": "162510",
+      "product_name": "Prüfbrenner_PB2",
+      "document_type": "Datenblatt",
+      "product_category": "Prüfbrenner"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "590946e046cf2c1333f5b3424a98a9a4",
+    "text": "Dieser Text ist für Produt: Prüfbrenner_PB2. Produkt ID: 162510. Der Dokumentyp is Datenblatt. Stadtgas Dise 2a, @ 1,3 mm 087 353 Dichtring 227 125",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Stadtgas Dise 2a, @ 1,3 mm</td><td>087 353</td></tr><tr><td>Dichtring</td><td/><td>227 125</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "162510_Prüfbrenner_PB2_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162510_Prüfbrenner_PB2_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.7288551",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVF1vmzAU/StXPG1SWsxHAmxdtFVpH7do657aChnbEG9gkG20tVX++2xwQj66aS9gX59zfc+9B+5fPFazhgmdc+q9A68gQYayMojTiBEczufRPEIlImGakrJAkTcDr2EaU6yxwb94dpGrtpeE7fYsJ5KZ15AwSOIYoSQLw0tkycN501Je8n8AOtkSptSECLJ4kUWXialjPg8srmOy4UrxVqjcVXP/4pnMto4oClG8fTQwyUgraV63BOtWDiV2WG9sXv+7YlL5khOCJTVEpSXWXPnrJ7LBslnL9gcjWvm0F5XKu5b4tCW97Za6aAXzg0U4D1C+lv1DjyKUloVkQjCZr6/DfHWdry47WnrbrSmj5DUTuGGDnv+iOZJ+6gYS7rqaGw1Gr++OayyqHldMWekeE5VnBXcmkou+KZhVGw4ROQ0Yh2wekhIFOI2zjC5SWhYsKqLMPpJoSKzZb51jlW90U1vOlcZFzZZXesMwNS9pl8tr0y9W13Ze4so3ARu8e+r2awe4+Nw3DZNj2Ldkf5eoaOmTy0dBtr9Uh8WHBy968JZryXd9gTc/26YzrdDQcA0rzhV7a5LYDHRpmgYll3AjaYXVe/gKSbg/RGkCcZKO++Hu8TLHMrTbujcmqs6pQbaARYz+Qq2lhG/mM9COGIQgONnooZQvRreUzOzhua9YjY2TxZQ4SSFLzhOfNGCQKeDNjVRYP/ufeqVxr8hmUj4qNv1QzM45DGYpNM2kPYpMLDkXcFtzJxlWveUWM0An3DSGLH6Fu9PsbsUz+AjBLDrmJmD+GufclW2Q5KLaQ/eLMExMC+cHHN+Zwx+9522dL60fD50HxnFw7DRYS/NhoZLsDTSMbIwdGsVGCgrOJKc2G/HGasf029odTK5xeZxjjuGHJtnhRgPsDLND2jddvGadqRbhqn/FFhPImmFYpzBaApwVTms/pBR7DnKc0QIwTXwC44MLohE8zBz2IwY30eF34n5hd3aS3vbxDzk6B1U=",
+      "is_continuation": true,
+      "product_id": "162510",
+      "product_name": "Prüfbrenner_PB2",
+      "document_type": "Datenblatt",
+      "product_category": "Prüfbrenner"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "12c4320e1a2c4e10800abdb95c3fd0b5",
+    "text": "Dieser Text ist für Produt: Prüfbrenner_PB2. Produkt ID: 162510. Der Dokumentyp is Datenblatt. Einbaumaße [mm]  ø 31  2 (2b)  0  4  1  5  3  SW 27  R 1/2  70  42  2a \n\nÄnderungen, die dem technischen Fortschritt dienen, vorbehalten.\n\nHausadresse\n\nKarl Dungs GmbH & Co. KG\n\nSiemensstraBe 6-10\n\nD-73660 Urbach, Germany\n\nTelefon +49 (0)7181-804-0\n\nTelefax +49 (0)7181-804-166\n\nBriefadresse\n\nKarl Dungs GmbH & Co. KG\n\nPostfach 12 29\n\nD-73602 Schorndorf, Germany e-mail info@dungs.com Internet www.dungs.com\n\n2 … 2",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/162510_Prüfbrenner_PB2_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.7288551",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "162510_Prüfbrenner_PB2_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztmEtv20YQgP/KQIciQWNp34+eCtetEwQIjNpBD44hzO4OLRYiKSypOIbh/55d1UmNNiiqohfDOpHcnTc/LWd0eTejNXXUT8s2zX6AWdJB6sYbpchZZMoqVEJ6Q4I004SzVzDraMKEExb5u1m9WY7DNkf68kzLmKlcdga5VYox64WYs6q82++G1DbtPwhs8hBpHP+U4F4ZL+dWOKc1r3Ibyl07ju3Qj8uHaC7vZsVyjUNKwdT9VRHLFIeclush4jTkXYgbnFbV7uL9SHlc5DZGzKkojlPGqR0XZ7dxhbk7y8PvFKdxkbb99bjcDHGRhrit1RqPhp4W3AjN2fIsbz9smWSuCZn6nvLy7FgsT46XJ/NNamb39yWMpl1Tjx3t8vlXag9K0+1mp4SbzbotOZR8Fw/ba+yvt3hNY019Rv31rCa8KSvLftsFqtmK6nyiT1O18XPbB9x2WNyy1BBcdt0VQH1qHEgOIOCFCC8BGIACKAsaQAKc/wbCAvwKfCEAbN0tV4FQo/gS4JuuOJ4Vd39FygblvA3GkhJklOBJG4nSCSbRhBAOSD1hpCo8UfWJckmI+leQWoJEHUwUV307xhX18MuQp3KX22mq+32V+zjkQCtcT9TPH2P0DnOt2Ee6qB6+gVPgTSDujRW2QUfBce0aK7jmlpUTyx1wesI4vcbtiCnXwu4FhYjeKfJRBBOiUp6sR5fQiaSMS8weoHjCULzFvIaTmgycduE1fAc/DXN4e7oXIZ5IaVKhQS1i5IkY44IcYajcJHUg5AkTct7WVz3WNI8JzBFnj9m4aKf1NzsTF6OSSgqBStlkNDOlH0nl68KYVwIPnclTY2K3kvf40T+G6OTISmMYvM8B4+oVnJaaY3+71ykjYyM1ch+s0kaXl5iYKn1J6X9d4iYcmpNnRdRFgaMZevheeXjBXlru+JFj6ojtyZS16LmLTFqvUbNGExmLzslg/GEkf4ZM4ae/McWN2Yuq6LVVlEx0AY1syJnEGRbUlGbFKx2oek5UHee2UPUfBq8GpfPFejmWLFdJOOm9QFN98aiEPmD0nDD6Xya15KQRVgVCnjQ51STBUAanjXNCkj8g9ZyQOhvGqSn9OHABwu8FEkdk0SrWxOiFYmXMi1o3MaBK1jJlDiA9J5B24x0TcB5XQ+7TkJuvIx7QUYftGtq+GX7cFWgehw7e9BPlnia4ubmZf13e789qVoGTWDo0ZpM3ySskXVqu2msJfvg8PjUEHxMl4MNWMGFAPGbirCi8+0P+/uozOkUxCg==",
+      "product_id": "162510",
+      "product_name": "Prüfbrenner_PB2",
+      "document_type": "Datenblatt",
+      "product_category": "Prüfbrenner"
+    }
+  }
+]

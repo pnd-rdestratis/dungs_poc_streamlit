@@ -1,0 +1,772 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "a932143805cd463529923c190204a362",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. Druckregelgerät FRU Umlaufregler\n\n4.12\n\nDUNGS Combustion Controls\n\ne . — = — g (2 | [ ™ 0\n\n5 6 3 3 1 2 . r N • 6 1 . 6 0 n o i t i d E • y n a m r e G n i d e t n i r P\n\n1 … 4\n\nTechnik\n\nDas DUNGS Druckregelgerät Typ FRU ist ein Umlaufregelgerät mit einstell- barer Sollwertfeder. Das Druckregelgerät entspricht EN 88-1 und DIN 3380.\n\n- Eingangsdrücke bis 150 mbar (15 kPa)\n\n- Große Durchflußleistung\n\n- Stabile, exakte und feinfühlige Re- gelung des Reglereingangsdrucks (Ansprechdruck)",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmEtv20YQgP/KgCcXiKV9kssCPbS1a+QiGLF9cgJhH7MSaz6EJdnGSP3fO6Ttxg6MJD6qEQSJ+5idmd39OLOr608Z1thgO6yrkP0MWaECK4zzXGrGS4NY+uBlWXhpLRrPsjeQNTjYYAdL8p+yqbDuuzF5fKzj2iekx6yQF0oxVpRCLObBc3/ThSpWXxHYpc5j33+W4KXKS7kodGlkPontMDVV31dd268fnLn+lJHiyQ0pBVN3H0gsoe9SWNedt0OXZg93dthOapdXPaZ+mSrvbQo0sB+SHap+eX7rtzY156n7E/3QL8PYbvr1rvPL0PlxWqz+uGtxKbiUuV5fNbYeY8JNjWn9x7ur9clv65PFLsTs7o48iFWNrW0mt7JvjniQH253s7zd7eqKPKdZLh+6a9tuRrvBfppwhu0mm6a5o5Z1OzYOpznyye6AH4dJx0ka/Q3ZwnqD6f3IGKoByChcNbV99GLS/Gj0shpqzEjFl2ygKYR1hVaiMFrJ0nITSuF0wVju0IkDG/vAxtySXvHGP4VJLbh4ysrKpmld/sLLSeAlZpw0KGPgsZC+jGgkSuaUkkRSMOIQT/aCmWfx5Gp1dgG/d40b+0kRFdshdXX/lIu3DSl4iQdukFkeQ/DaMxu0UrbkwjimRcG1Cgce9o0HhAW8HwXjCn55LGzgSMA/cD3VuRDAvosNGbxlQnPrKVw4E6y2qoxGihyVt3hgY+/Y0JCDpA8HQZQkWM2AEBA5NS3ol0ELHVQw0DfA6WP3LTVbaGgEwhmVp04koamU4PxVGcj5YJ1QKjiRl9YjxRruYolSssCcPFC1d1Txe0xyUE9BOKcBq3v5Fyjwgg4czOZeaW3o9Iq6iNIqx5nXFHPKAwX7RsEl+m1b3XzXzaVwPEqf61KWvkQWjaDzKFc8MlojH/Vh9/dh97+8uXzznX52bLU93B9dX7wQX97u5ktx1Q+AVfv5cvxMqqnm3n7Auj4GR84kuOjq+m9MQ8SAaQGznZcsTAu8o23ZDnC6AmOOOYxtgJO3K9pYwxavSmo+55IymnOFpdtbUeS2EFLlzFuRc6EP16r/P9DHcFq1GzLTh5mx6P0Ngqt64JpBQ3DCEddwc25/ehVaSuQ5KxxZ5cYorqzhdGzizjiLRVR4QOsHQOssdRNTISKc0MZuYz3e12ukCEmr8SqkRNQihELJ0uTee6OYNhp5waPnpRaHPw5/BKQuBuvIizeAH+3NgHPyi5RM433w2tbVBuEdHgOlTVoboKWj6jQb/C/OUVrt4ejXlhIpnf7m+teC24d/AU3k1W4=",
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1c422d6826adff08f1a27fa7d77ad261",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. - Vordruckausgleichsmembrane\n\nSicherheitsmembrane\n\n'\n\n- Serienmäßig externer Impuls\n\n- Gewindeanschluß Rp 1/2 - Rp 2\n\n- Flanschanschluß DN 40 - DN 100\n\nAnwendung\n\nDas DUNGS Druckregelgerät Typ FRU begrenzt den Ausgangsdruck einer Druckerhöhungseinrichtung auf den eingestellten Wert (Ansprechdruck) bei schwankender Abnahme.\n\nBuntmetallfrei, geeignet für Gase bis max. 0,1 vol. % H2S, trocken.\n\nGeeignet für Gase der Gasfamilien 1, 2, 3 und sonstige neutrale gasförmige Medien.\n\nZulassung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmNtu3DYQhl+FEFC0BexdiqROvXOwiNuLGkFst0DTQOBhqGUjUQIpxXEMv3uHawdxA7fB9s7O3qwocUj+5Hwazeybmwx6GMDPrTPZTyQDamTd1FTl0lpdAdQ5y0srJKvANopnRyQbYJZGzhLtb7LUaOO4BA2f7qHVAfCymzCvhKC0ahhb0TR41z+Mxln3HwZTGDXE+Nkib0TZ8FVVNDUvk9kEYXAxutHH9l7Mm5sMJ04yOGdU3L5FswB6DKbtRy3nMewUTnLepmnXlxFCXAentQwGB8Y5yNnF9atrvZVheBXGv0DPcW0W38V2GvXajHpJhxWPRw9rlnNeFu3lIPvFBuh6CO3L15ft5kW7WU3GZre3qMC6HrwckqzsqyPu7efraWcvp6l3qBx3ub7v7qXvFtlBTBvOwHdZ2uaET1q/DArSHvPdk/DZq5oxqagstSiKui4EFJXlUqic6oKyosmS0Bk+zMn4mPyGRxYW/U4uESU6vY0DDCpID0nBJ3FnMqTzeg8XaSDO8CVLVYWeq5VgtBAFWJXzqrYlpQo0L2taHlh69iydIzwQtuDm/4dQba0o0EtS1blBkkCxqoRGCSMrZlR1QOjZI/T9Q2AuPS4P3RjcRzD/Cg1GG1PwRjIoK0Bs8kJWpaLoMcbyujlA8+yhOSbnEBz44c+FUhDp11jXEeyG4CGQX4Zp6eNesQg/WVoJKsBIW2BepArTUIbL29oYweGA1TeA1SlcOW9A+qi3/XLHFXk9kXzNyHFqsL2YYk3FmeIVYICyeSkZL5XOlVIlVVaX8sDUN8DUy36H0z+Z2pwRQREpvOaU7pd3100lBdcMY1TJeFFxSzEHlyK3mvL6UMM9CageMnLir8CnLTzk4MLNPTzmf4msFbRpeC0rTlnNtNKNqrD4ggLLroP/n4T/vwwqX32rHwKzkZFsLs9Oz8kmFfIoE/oOwl02NJOL64mgZqKgwxU+zsSAJydY7aOwuCv9CbiUJu1GYwGXBtpymw4RO/C4tzO2iVzsbig+w93M0Pcz3v0OYSY/nPg4oee2u+l+xKUcwfh2Jf07RBmnPlFebgdY7RXapMQQChzzrUoXTUOtwngKpdQV5EJUh9T++aP9YvFzcnHfo0R3RDoA13mYid1BqgM5lRGIcpEM8sOK0KOcvB/7FfmO/MzOj8iMvkME9+OuwQ93LkpuFS/Sv6NcGmF0Ti1rFOPmwN3z5+70cc5SKMOGlYPrseBMi7AjwsniDYnohdl1QDwseIg9kA4t72Ipugk7fgXj9mVRQPq8l6xuMBCWgAWDMbrIJbeNUKCLA4tPgcWHaP2x9DLGx9O7t38DPGkaDw==",
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "001d083a1e073224b57561c2918a3dd4",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. EG-Baumusterprüfbescheinigung nach EG-Gasgeräterichtlinie: FRU … CE-0085 AQ7126 Zulassungen in weiteren wichtigen Gasverbrauchsländern.\n\nFRU\n\nFeder belastet Druckregelgerät mit einstellbarer Sollwertfeder. Vorbereitet für externen Impuls des Reglerein- gangsdruckes (Gebläseausgangsdruck).\n\nGeeignet zur Begrenzung des Reglereingangsdruckes für gebläsegestützte Gasgeräte im Bereich oberhalb des Atmosphärendruckes.\n\nTechnische Daten\n\nNennweiten\n\nDN\n\n50\n\n40\n\n80\n\n65\n\n100",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmFtv2zYUx78KoacNWGKSIimxb83SBXsJujbZw9rC4OXQ1qYbSKpdU/S779BJl6QYWhh7iuEHwxJ1eG78+U/Kbz5V0MMAY153vnpGqtr5hvPagPBgdAPc1kHLoK1om1rytvqJVANk4002aP+pKhfrNC3RwZd7WLsI+LVzyBohKG0056e0TN49Hybfhe4bBnOcHKR0b8G0ULo+baRua1XMZohDl1I3jWl9l8ybTxU6LmnUNafi8zs0i+Cm6Nf95Eye4i7D2eRtcbu6ThDTKnbOmehxYsrR5C6tXn50WxOHl3H6E1xOK7+Mm7SeJ7fyk1tKs9LJNMKKs7pWcn09mH4JETY9xPUvr67X52fr89PZh+rzZ8wgdD2MZihpVd+dcWefP847ezPPfYeZY5Wru8e9GTeL2UAqBVcwbqpS5owj63EZLJQa2W4k3q+qACMkVbzVUHsFyjrvnWQG11ZYcLIqiWb4OxfjFxcnZ2YZlpQhzvHtQmlwwUJyW+jGboPNIKNxW4J2FyZtYGcCAq07t8092sAzglWRtwunXJGfX5xQ2kry/LeG4e0fS29SQi8wkm4kH6DDmXj9oczuyih6fQ/RRrO4bepvvY8e4nhaGvClN5cmluV6D1clbyzga5SxWs6dkUAdxb5TjuVK7lmQUkIQ9IjyE0CZ/y+UMaG9kGkbYahR6Eaplras0MMxmOGNYI7qIzKHjwyg0hALKFIZMjmPi/sLc4X+XujI0GWCWogGfW8xUiSvp77/ADGHMvuU/D5FzKUoWybhVkEjwQCoYahvvw7z0ieCLSevdl1AXydkg6UlX8Lh+A8XYO+UL4FZ0v3DH/cUQdkwQ7Wx2AGqai+sVY2UTLWcUwNHog+f6AuAbjMiiTdLJGewQT83ZRN/xN8j+v5FdvOAQkwx347nmwzk8dZPugFdoyM8F0yY9Nb0dhfgeR6mNG9v7TDyXYj9IJYUgBtha4XHUjyMuFqgTnveKsNCqO0R4qcA8UMmr8Btx64cKck5tnZ8iMNVl3v4z93Z4nGyrTkST7mQyH0DjdcoZrgKjYYjBk8Bg6+17Ls/7ofcXMI47t4Yxr0ExLQSVKsVrpSRXAppOR7nWmi5bXFf5EdyDp6c88u9iAlM1SAAXCMkfmquPGOCWW1MoEHLIzEHT4ykexGjVBCSN9owSbmj3HLagLGWMakEo0diDp8YsR8x3litmdFBseA1gNaiFloGLxrrcYM6EnPwxLR7EgNKMsrK67uuqdS2NdIyUbculPc/dSTm4IlRci9irAqta4KlrbG05oJKSwX1mivqG2mO//8cPjGMfktk3v0DjO/kbg==",
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "1a8fb80a8de13eb3b7adf7f9cd6df03e",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. INTHWEIL JiIN Uo ou Rohrgewinde nach ISO 7/1 Flansche Rp 12 3/4 1 AnschluBflansche (PN 16) nach 11/2 2 DIN EN 1092-1 Max. Betriebsdruck bis 500 mbar (50 kPa) Druckregelgerat Druckregelgeréat nach EN 88-1, Klasse A, Gruppe 2 Eingangsdruckbereich bis 150 mbar (15 kPa)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>INTHWEIL</td><td>JiIN</td><td/><td/><td>Uo</td><td>ou</td><td/></tr><tr><td>Rohrgewinde nach ISO 7/1 Flansche</td><td>Rp 12 3/4 1 AnschluBflansche (PN 16)</td><td>nach</td><td>11/2 2 DIN EN 1092-1</td><td/><td/><td/></tr><tr><td>Max. Betriebsdruck</td><td>bis 500 mbar (50 kPa)</td></tr><tr><td>Druckregelgerat</td><td>Druckregelgeréat nach EN 88-1, Klasse A, Gruppe 2</td></tr><tr><td>Eingangsdruckbereich</td><td>bis 150 mbar (15 kPa)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFV9tu20YQ/ZUBH9oElc2rbmlqwIqT1E3jGr4gQJNAWHKH5NbLC3aXcdLA/95ZkpIli0rSAEWfRC5nzszOnDljv/3soMQCS7MU3HkCTozjMZvzGY+mvjfzkiCOeeR7k2jKfS8Ox84InAIN48wwsv/s2IelrhqV4Oodl4lC+mkB/WkUed50HgSHnnVuvxcVF6n4gkGtqgS1vrfw59FkHh5Ox/NZOLFmNapCaC2qUi/7ZN5+dgjYphGGgRfdvSczhUml+FJWCTOVajOsmcktrHutUWlXiSRhipOjNooZod3zT0nOVHGuqr8wMdrlTZnpZV0lLq+SxhZLH1QluoEfhpPx8rpgskkVZhLV8sXF9fJksTw5rHnq3N1RBqmQWLLCpuV81aO3N5/q1p7VtRSUOd3S7T9LVmYNy1DbCztYZo69Zk0ny7IpYrR3DNoTdd/VsYcYsCgOJxjxNEmTMIqYx4PZhPlpGsYW2OBHs2R6mZtCWp+nhsUSj56aHBmnH2Ufj07Prn598/z096cuvdiD38Tp2fpl9+G6Wj9WzYPPbovZ4V5UucrwVpQcoWRJDqeXf8DU9eEFXVgnOa59L2rwAwjdCHw4tp9ks0h7I3h0fgb+5PHa2EKtX3zfDSCAk9MzeE5m3jw48L+Q+kaS7qoIccU/9Tnzo9fs4yEs0CiBseaqSW7I0FpxSCqpa1b+8s6ZvHOOYqFh7HlQxEzBo7EHN+fscWd7XwN+dGIhiBUoMyQm7gHbsnrXeB7OmelqRreazQ78EbySjIYHjkfwUjV1jRDsRnsuyoy41CVOvEHRlmpf/v54lb8/3pM/daOmecu/ATEYjXs0bxR0eDAYBUQJx3He3bPMRHaDwgBHBShKbVDK2BIdLispb1GZFOnbbmpvUN1oU6Uptr4Z06kUOTly8r1CGrlVokcvMees0fgETih/Q7NPJk3J4TUWsWIllk/WtuuHY9kUohRNMYKzxcX6+NKwXO5a7+Z3XWQYW5kxWNS2+Y3aU7kDf2yLEXvP2oL9NPXgx2eD3Y1ZI0kW9uBctOrDqwIoZk6FAI3ljW2faYFvGfl2r1IQ20q+G+Q1Lg7cPwUNLRW0nUDRpOGegC/BdyOfpjoIZhCj4Jo6KTLb4BUVtzizGei0qBvZRZDNvgCkX6jKEXyoVAtk0AB1WYHtca8UIb1o2CIq6gEmxzFNEG1GYfu/J962ERTNAkrLGPiASmJmgPhIoUdwSaeocrLTRc8hy17qOGvMbvAXlsLEwNsN7jzUAMthvJXC3srg9oVAoW6kETQNQDAt4V8plq7HpguMbd0PoB2idmwO4RJJy8qim7YfWFH/vLAd0uTKNAwrT0HzSKAETeVoCLXNHx6dEV702GZAy8owQ+2gAMQVYDR1Cju4vuUILP674UjtoILdsLIELqhKKqXtTeVsTTrgDItFK3c9b+noisV0B7QloZqtCn+4UVq3V263W2rOXb/w7KLbu3rspnFXq6ZfHqt1tCKULQNPH+6fDmdr0cDutoDBvTBQ5sgMH35N9GFI4/fo7JB4w3fJdPStMg0ktZ1HK7cbGtrqJgyItjVPky3h3i/TVophQFmBNBQeiujq/V444d9LJAXvCEGy2KV6L40rrkArhC3JvqqEsCV8vf+gznXRtrSuNx8QPHggXTtK1rt+h5zBpnpBr1N9Kf47rYq6hL+oVdH/IlWb6e1Xrc5qQ7raP8j7fwKurGQ5d+//AT00nTY=",
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "78f4f7ec425aa0f9a2191fe000e44179",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. Ansprechdruckbereich 2,5 mbar (0,25 kPa) bis 150 mbar (15 kPa) in Abhéngigkeit der einstellbaren Sollwertfeder Werkstoffe der gasflihrenden Teile Gehdause: Dichtungen und Membranen: Aluminium, NBR Stahl Umgebungstemperatur -15°C bis +70 'C Einbaulage Reglerdom stehend senkrecht bis waagerecht liegend",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ansprechdruckbereich</td><td>2,5 mbar (0,25 kPa) bis 150 mbar (15 kPa) in Abhéngigkeit der einstellbaren Sollwertfeder</td></tr><tr><td>Werkstoffe der gasflihrenden Teile</td><td>Gehdause: Dichtungen und Membranen:</td><td/><td>Aluminium, NBR</td><td>Stahl</td><td/><td/></tr><tr><td>Umgebungstemperatur</td><td>-15°C bis +70 'C</td></tr><tr><td>Einbaulage</td><td>Reglerdom stehend senkrecht bis waagerecht liegend</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFV9tu20YQ/ZUBH9oElc2rbmlqwIqT1E3jGr4gQJNAWHKH5NbLC3aXcdLA/95ZkpIli0rSAEWfRC5nzszOnDljv/3soMQCS7MU3HkCTozjMZvzGY+mvjfzkiCOeeR7k2jKfS8Ox84InAIN48wwsv/s2IelrhqV4Oodl4lC+mkB/WkUed50HgSHnnVuvxcVF6n4gkGtqgS1vrfw59FkHh5Ox/NZOLFmNapCaC2qUi/7ZN5+dgjYphGGgRfdvSczhUml+FJWCTOVajOsmcktrHutUWlXiSRhipOjNooZod3zT0nOVHGuqr8wMdrlTZnpZV0lLq+SxhZLH1QluoEfhpPx8rpgskkVZhLV8sXF9fJksTw5rHnq3N1RBqmQWLLCpuV81aO3N5/q1p7VtRSUOd3S7T9LVmYNy1DbCztYZo69Zk0ny7IpYrR3DNoTdd/VsYcYsCgOJxjxNEmTMIqYx4PZhPlpGsYW2OBHs2R6mZtCWp+nhsUSj56aHBmnH2Ufj07Prn598/z096cuvdiD38Tp2fpl9+G6Wj9WzYPPbovZ4V5UucrwVpQcoWRJDqeXf8DU9eEFXVgnOa59L2rwAwjdCHw4tp9ks0h7I3h0fgb+5PHa2EKtX3zfDSCAk9MzeE5m3jw48L+Q+kaS7qoIccU/9Tnzo9fs4yEs0CiBseaqSW7I0FpxSCqpa1b+8s6ZvHOOYqFh7HlQxEzBo7EHN+fscWd7XwN+dGIhiBUoMyQm7gHbsnrXeB7OmelqRreazQ78EbySjIYHjkfwUjV1jRDsRnsuyoy41CVOvEHRlmpf/v54lb8/3pM/daOmecu/ATEYjXs0bxR0eDAYBUQJx3He3bPMRHaDwgBHBShKbVDK2BIdLispb1GZFOnbbmpvUN1oU6Uptr4Z06kUOTly8r1CGrlVokcvMees0fgETih/Q7NPJk3J4TUWsWIllk/WtuuHY9kUohRNMYKzxcX6+NKwXO5a7+Z3XWQYW5kxWNS2+Y3aU7kDf2yLEXvP2oL9NPXgx2eD3Y1ZI0kW9uBctOrDqwIoZk6FAI3ljW2faYFvGfl2r1IQ20q+G+Q1Lg7cPwUNLRW0nUDRpOGegC/BdyOfpjoIZhCj4Jo6KTLb4BUVtzizGei0qBvZRZDNvgCkX6jKEXyoVAtk0AB1WYHtca8UIb1o2CIq6gEmxzFNEG1GYfu/J962ERTNAkrLGPiASmJmgPhIoUdwSaeocrLTRc8hy17qOGvMbvAXlsLEwNsN7jzUAMthvJXC3srg9oVAoW6kETQNQDAt4V8plq7HpguMbd0PoB2idmwO4RJJy8qim7YfWFH/vLAd0uTKNAwrT0HzSKAETeVoCLXNHx6dEV702GZAy8owQ+2gAMQVYDR1Cju4vuUILP674UjtoILdsLIELqhKKqXtTeVsTTrgDItFK3c9b+noisV0B7QloZqtCn+4UVq3V263W2rOXb/w7KLbu3rspnFXq6ZfHqt1tCKULQNPH+6fDmdr0cDutoDBvTBQ5sgMH35N9GFI4/fo7JB4w3fJdPStMg0ktZ1HK7cbGtrqJgyItjVPky3h3i/TVophQFmBNBQeiujq/V444d9LJAXvCEGy2KV6L40rrkArhC3JvqqEsCV8vf+gznXRtrSuNx8QPHggXTtK1rt+h5zBpnpBr1N9Kf47rYq6hL+oVdH/IlWb6e1Xrc5qQ7raP8j7fwKurGQ5d+//AT00nTY=",
+      "is_continuation": true,
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "e4c3b2484c970dc588ef06a7e9a69803",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. MeB-/Ziindgasanschiuf3 G 1/41SO 228 beidseitig in Eingangsbereich Impulsanschlu3 extern, vorbereitet flir den Anschlu3 des Ansprechdruckes Abblaseleitung Abblaseleitung muB nicht verlegt werden, Sicherheitsmembrane eingebaut",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MeB-/Ziindgasanschiuf3</td><td>G 1/41SO 228 beidseitig in Eingangsbereich</td></tr><tr><td>Impulsanschlu3</td><td>extern, vorbereitet flir den Anschlu3 des Ansprechdruckes</td></tr><tr><td>Abblaseleitung</td><td>Abblaseleitung muB nicht verlegt werden, Sicherheitsmembrane eingebaut</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFV9tu20YQ/ZUBH9oElc2rbmlqwIqT1E3jGr4gQJNAWHKH5NbLC3aXcdLA/95ZkpIli0rSAEWfRC5nzszOnDljv/3soMQCS7MU3HkCTozjMZvzGY+mvjfzkiCOeeR7k2jKfS8Ox84InAIN48wwsv/s2IelrhqV4Oodl4lC+mkB/WkUed50HgSHnnVuvxcVF6n4gkGtqgS1vrfw59FkHh5Ox/NZOLFmNapCaC2qUi/7ZN5+dgjYphGGgRfdvSczhUml+FJWCTOVajOsmcktrHutUWlXiSRhipOjNooZod3zT0nOVHGuqr8wMdrlTZnpZV0lLq+SxhZLH1QluoEfhpPx8rpgskkVZhLV8sXF9fJksTw5rHnq3N1RBqmQWLLCpuV81aO3N5/q1p7VtRSUOd3S7T9LVmYNy1DbCztYZo69Zk0ny7IpYrR3DNoTdd/VsYcYsCgOJxjxNEmTMIqYx4PZhPlpGsYW2OBHs2R6mZtCWp+nhsUSj56aHBmnH2Ufj07Prn598/z096cuvdiD38Tp2fpl9+G6Wj9WzYPPbovZ4V5UucrwVpQcoWRJDqeXf8DU9eEFXVgnOa59L2rwAwjdCHw4tp9ks0h7I3h0fgb+5PHa2EKtX3zfDSCAk9MzeE5m3jw48L+Q+kaS7qoIccU/9Tnzo9fs4yEs0CiBseaqSW7I0FpxSCqpa1b+8s6ZvHOOYqFh7HlQxEzBo7EHN+fscWd7XwN+dGIhiBUoMyQm7gHbsnrXeB7OmelqRreazQ78EbySjIYHjkfwUjV1jRDsRnsuyoy41CVOvEHRlmpf/v54lb8/3pM/daOmecu/ATEYjXs0bxR0eDAYBUQJx3He3bPMRHaDwgBHBShKbVDK2BIdLispb1GZFOnbbmpvUN1oU6Uptr4Z06kUOTly8r1CGrlVokcvMees0fgETih/Q7NPJk3J4TUWsWIllk/WtuuHY9kUohRNMYKzxcX6+NKwXO5a7+Z3XWQYW5kxWNS2+Y3aU7kDf2yLEXvP2oL9NPXgx2eD3Y1ZI0kW9uBctOrDqwIoZk6FAI3ljW2faYFvGfl2r1IQ20q+G+Q1Lg7cPwUNLRW0nUDRpOGegC/BdyOfpjoIZhCj4Jo6KTLb4BUVtzizGei0qBvZRZDNvgCkX6jKEXyoVAtk0AB1WYHtca8UIb1o2CIq6gEmxzFNEG1GYfu/J962ERTNAkrLGPiASmJmgPhIoUdwSaeocrLTRc8hy17qOGvMbvAXlsLEwNsN7jzUAMthvJXC3srg9oVAoW6kETQNQDAt4V8plq7HpguMbd0PoB2idmwO4RJJy8qim7YfWFH/vLAd0uTKNAwrT0HzSKAETeVoCLXNHx6dEV702GZAy8owQ+2gAMQVYDR1Cju4vuUILP674UjtoILdsLIELqhKKqXtTeVsTTrgDItFK3c9b+noisV0B7QloZqtCn+4UVq3V263W2rOXb/w7KLbu3rspnFXq6ZfHqt1tCKULQNPH+6fDmdr0cDutoDBvTBQ5sgMH35N9GFI4/fo7JB4w3fJdPStMg0ktZ1HK7cbGtrqJgyItjVPky3h3i/TVophQFmBNBQeiujq/V444d9LJAXvCEGy2KV6L40rrkArhC3JvqqEsCV8vf+gznXRtrSuNx8QPHggXTtK1rt+h5zBpnpBr1N9Kf47rYq6hL+oVdH/IlWb6e1Xrc5qQ7raP8j7fwKurGQ5d+//AT00nTY=",
+      "is_continuation": true,
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "76ff733183d36227fa6fa3930cc9d5f1",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. Federauswahl Der gewlinschte Ansprechdruck resultiert aus der Kraft der eingebauten Ein- stellfeder. Serienmé&Big ist das Druckregelgeréat mit einer blauen Feder (Nr. 4) ausgestattet. Sind andere Druckbereiche abzudecken, kann die erforderliche Feder gemB nachstehender Tabelle gewahlt werden.",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Federauswahl</td><td>Der gewlinschte Ansprechdruck resultiert aus der Kraft der eingebauten Ein- stellfeder. Serienmé&amp;Big ist das Druckregelgeréat mit einer blauen Feder (Nr. 4) ausgestattet. Sind andere Druckbereiche abzudecken, kann die erforderliche Feder gemB nachstehender Tabelle gewahlt werden.</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzFV9tu20YQ/ZUBH9oElc2rbmlqwIqT1E3jGr4gQJNAWHKH5NbLC3aXcdLA/95ZkpIli0rSAEWfRC5nzszOnDljv/3soMQCS7MU3HkCTozjMZvzGY+mvjfzkiCOeeR7k2jKfS8Ox84InAIN48wwsv/s2IelrhqV4Oodl4lC+mkB/WkUed50HgSHnnVuvxcVF6n4gkGtqgS1vrfw59FkHh5Ox/NZOLFmNapCaC2qUi/7ZN5+dgjYphGGgRfdvSczhUml+FJWCTOVajOsmcktrHutUWlXiSRhipOjNooZod3zT0nOVHGuqr8wMdrlTZnpZV0lLq+SxhZLH1QluoEfhpPx8rpgskkVZhLV8sXF9fJksTw5rHnq3N1RBqmQWLLCpuV81aO3N5/q1p7VtRSUOd3S7T9LVmYNy1DbCztYZo69Zk0ny7IpYrR3DNoTdd/VsYcYsCgOJxjxNEmTMIqYx4PZhPlpGsYW2OBHs2R6mZtCWp+nhsUSj56aHBmnH2Ufj07Prn598/z096cuvdiD38Tp2fpl9+G6Wj9WzYPPbovZ4V5UucrwVpQcoWRJDqeXf8DU9eEFXVgnOa59L2rwAwjdCHw4tp9ks0h7I3h0fgb+5PHa2EKtX3zfDSCAk9MzeE5m3jw48L+Q+kaS7qoIccU/9Tnzo9fs4yEs0CiBseaqSW7I0FpxSCqpa1b+8s6ZvHOOYqFh7HlQxEzBo7EHN+fscWd7XwN+dGIhiBUoMyQm7gHbsnrXeB7OmelqRreazQ78EbySjIYHjkfwUjV1jRDsRnsuyoy41CVOvEHRlmpf/v54lb8/3pM/daOmecu/ATEYjXs0bxR0eDAYBUQJx3He3bPMRHaDwgBHBShKbVDK2BIdLispb1GZFOnbbmpvUN1oU6Uptr4Z06kUOTly8r1CGrlVokcvMees0fgETih/Q7NPJk3J4TUWsWIllk/WtuuHY9kUohRNMYKzxcX6+NKwXO5a7+Z3XWQYW5kxWNS2+Y3aU7kDf2yLEXvP2oL9NPXgx2eD3Y1ZI0kW9uBctOrDqwIoZk6FAI3ljW2faYFvGfl2r1IQ20q+G+Q1Lg7cPwUNLRW0nUDRpOGegC/BdyOfpjoIZhCj4Jo6KTLb4BUVtzizGei0qBvZRZDNvgCkX6jKEXyoVAtk0AB1WYHtca8UIb1o2CIq6gEmxzFNEG1GYfu/J962ERTNAkrLGPiASmJmgPhIoUdwSaeocrLTRc8hy17qOGvMbvAXlsLEwNsN7jzUAMthvJXC3srg9oVAoW6kETQNQDAt4V8plq7HpguMbd0PoB2idmwO4RJJy8qim7YfWFH/vLAd0uTKNAwrT0HzSKAETeVoCLXNHx6dEV702GZAy8owQ+2gAMQVYDR1Cju4vuUILP674UjtoILdsLIELqhKKqXtTeVsTTrgDItFK3c9b+noisV0B7QloZqtCn+4UVq3V263W2rOXb/w7KLbu3rspnFXq6ZfHqt1tCKULQNPH+6fDmdr0cDutoDBvTBQ5sgMH35N9GFI4/fo7JB4w3fJdPStMg0ktZ1HK7cbGtrqJgyItjVPky3h3i/TVophQFmBNBQeiujq/V444d9LJAXvCEGy2KV6L40rrkArhC3JvqqEsCV8vf+gznXRtrSuNx8QPHggXTtK1rt+h5zBpnpBr1N9Kf47rYq6hL+oVdH/IlWb6e1Xrc5qQ7raP8j7fwKurGQ5d+//AT00nTY=",
+      "is_continuation": true,
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "eb650f0f64ef2763c51a363ed8fa15cf",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. Sollwertfeder- 2,5...49 5...13 5...20 10...30 25...55 30...70 60...110 100...150 bereich [mbar] Feder 1 Feder 2 Feder 3 Feder 4 Feder 5 Feder 6 Feder 7 Feder 8 Federfarbe braun weil3 orange blau rot gelb schwarz rosa",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Sollwertfeder-</td><td>2,5...49</td><td>5...13</td><td>5...20</td><td/><td>10...30</td><td>25...55</td><td>30...70</td><td>60...110</td><td>100...150</td></tr><tr><td>bereich [mbar]</td><td>Feder 1</td><td>Feder 2</td><td>Feder 3</td><td/><td>Feder 4</td><td>Feder 5</td><td>Feder 6</td><td>Feder 7</td><td>Feder 8</td></tr><tr><td>Federfarbe</td><td>braun</td><td>weil3</td><td>orange</td><td>blau</td><td/><td>rot</td><td>gelb</td><td>schwarz</td><td>rosa</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVk1v4zYQ/SuErs1aEj9EsghyKII9Botsc8oGAiVRtgpZEigZaRr4v5eUx7I99m57Gr7h8PFxSM3o9TOyrd3absqbKvqdRDStCslFzbjkrKgTKwuaVDRjZZWV3NbRHYm2djKVmYyP/4zCIB/7nSvtEdu8dNabmTCVnCeJ1JSukrB4nt/2VVM3vwgYXF/acTxFpJpnmq2k0IplIWywbtuMY9N3Yw5iXj8jTxxkMEYTvn/zYc6Wvavyti/N1LtZ4WCmTaCNX0brxtg1ZWlc5ReOkzNTM8bfPsqNcdtvrv/LltMYV7tuPeZDX8ZVX+5CssYvfWdjmjKWifxla9pd7ey6tS7/+vySP/6RP66Gqo72e6+gblrbma09ZPc/VkD89DHM8WYY2sYr96eMYbo13Xpn1nYMB45st47CMQfvybvdtrDhjHT2uNOtisRaanjBMsuruqxLxrnx16oyk9Y1KwLxZP+ecjPmm2nbhjX3kyla+3A/baypvHFh+PC9b9t366baVtZ9uY+9K7jpnVitVlwvjgBTdgFpssBlkCZ+gp0maAgUYsEszMvTfBZwmiZnBLNHgCcOMuOj5KKvPkB59eBTY5tyQ163hXFvPqia3V/DQUiKMEWYLRhNcIQFwhnCEmF1wLNuEDpP1MYVdoktnNl1C3q3TXsS1Dv/Is5CW7O7Fuv6aRmvbVssYCw378b9cxY4mmtJT7br/K6TJc9D/Ph0zf+LwffJdJX/wP7/ovOdnweSxqfboFQTlUqE1SWeH9qCl7GiKYpDvJQhzBEWN/WxGMUxxMPwvLitj2UoDp2ToXMyfYl5cjt/KAqdmiO1nN9WxwWKQ2o5UsuRWq5vqwv3e0cenwhPLhcIJFwg4YLdFipQujOUJon2kRf7KElv6jxoFHgt2kuiJMnstkaJkiVRsiTSrNC+Kr0W6eVl4o5chaL7VUiy+slrVOh+FZKskGSFJOsbr9FL9AUbxaFr1Uiv/sl71CjVGunVSK9GevX5e4yhV8SHphftoSGGRnjZ8vxDED92NKHZb5rAKGXHEU38AQ9DlhAKXiEIA69MSAZD38ZCNgCIhFx2KAKdCSwFy8BysAJsBlaCVeTUR8jcP4iv4D92SVLV5NAzSOgVxLcGEloCgVZAQgsgqOKTYxUnh4JMoBCDVQQKL9gULMRRBpaDFeRQNwnUS7BHLMBmYGEbBtswTaDezWoAwF4cyDiQcSDjQMaBjAMZ1wRVIQLVByzwCuAVwJuBCAnxEuIlJWfVAnywRoIWCVokaJGgRQKngnUqJctHDR5QoYBRAaMCRgWMChgVMOqEHL49gHAoDXQa6DTQaaDTQKeBTuv5TxH+Tv8M30q0f/sXpDhp4A==",
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "6b6024fb1c34a6f393e2e52d57cb8c65",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. Nennweite Rp/DN Standard Rp 1/2 229 817 229 818 229 820 229 821 229 822 229 823 229 824 229 825 Rp 3/4 229 833 229 834 229 835 229 836 229 837 229 838 229 839 229 840",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Nennweite Rp/DN</td><td/><td/><td/><td/><td>Standard</td><td/><td/><td/><td/></tr><tr><td>Rp 1/2</td><td>229 817</td><td>229 818</td><td>229 820</td><td>229</td><td>821</td><td>229 822</td><td>229 823</td><td>229 824</td><td>229 825</td></tr><tr><td>Rp 3/4</td><td>229 833</td><td>229 834</td><td>229 835</td><td>229</td><td>836</td><td>229 837</td><td>229 838</td><td>229 839</td><td>229 840</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVk1v4zYQ/SuErs1aEj9EsghyKII9Botsc8oGAiVRtgpZEigZaRr4v5eUx7I99m57Gr7h8PFxSM3o9TOyrd3absqbKvqdRDStCslFzbjkrKgTKwuaVDRjZZWV3NbRHYm2djKVmYyP/4zCIB/7nSvtEdu8dNabmTCVnCeJ1JSukrB4nt/2VVM3vwgYXF/acTxFpJpnmq2k0IplIWywbtuMY9N3Yw5iXj8jTxxkMEYTvn/zYc6Wvavyti/N1LtZ4WCmTaCNX0brxtg1ZWlc5ReOkzNTM8bfPsqNcdtvrv/LltMYV7tuPeZDX8ZVX+5CssYvfWdjmjKWifxla9pd7ey6tS7/+vySP/6RP66Gqo72e6+gblrbma09ZPc/VkD89DHM8WYY2sYr96eMYbo13Xpn1nYMB45st47CMQfvybvdtrDhjHT2uNOtisRaanjBMsuruqxLxrnx16oyk9Y1KwLxZP+ecjPmm2nbhjX3kyla+3A/baypvHFh+PC9b9t366baVtZ9uY+9K7jpnVitVlwvjgBTdgFpssBlkCZ+gp0maAgUYsEszMvTfBZwmiZnBLNHgCcOMuOj5KKvPkB59eBTY5tyQ163hXFvPqia3V/DQUiKMEWYLRhNcIQFwhnCEmF1wLNuEDpP1MYVdoktnNl1C3q3TXsS1Dv/Is5CW7O7Fuv6aRmvbVssYCw378b9cxY4mmtJT7br/K6TJc9D/Ph0zf+LwffJdJX/wP7/ovOdnweSxqfboFQTlUqE1SWeH9qCl7GiKYpDvJQhzBEWN/WxGMUxxMPwvLitj2UoDp2ToXMyfYl5cjt/KAqdmiO1nN9WxwWKQ2o5UsuRWq5vqwv3e0cenwhPLhcIJFwg4YLdFipQujOUJon2kRf7KElv6jxoFHgt2kuiJMnstkaJkiVRsiTSrNC+Kr0W6eVl4o5chaL7VUiy+slrVOh+FZKskGSFJOsbr9FL9AUbxaFr1Uiv/sl71CjVGunVSK9GevX5e4yhV8SHphftoSGGRnjZ8vxDED92NKHZb5rAKGXHEU38AQ9DlhAKXiEIA69MSAZD38ZCNgCIhFx2KAKdCSwFy8BysAJsBlaCVeTUR8jcP4iv4D92SVLV5NAzSOgVxLcGEloCgVZAQgsgqOKTYxUnh4JMoBCDVQQKL9gULMRRBpaDFeRQNwnUS7BHLMBmYGEbBtswTaDezWoAwF4cyDiQcSDjQMaBjAMZ1wRVIQLVByzwCuAVwJuBCAnxEuIlJWfVAnywRoIWCVokaJGgRQKngnUqJctHDR5QoYBRAaMCRgWMChgVMOqEHL49gHAoDXQa6DTQaaDTQKeBTuv5TxH+Tv8M30q0f/sXpDhp4A==",
+      "is_continuation": true,
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "a528084f868aba5f3e2a56aeb13eaf3c",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. Rp 1 229 842 229 843 229 844 229 845 229 846 229 847 229 848 229 849 Rp 1 1/2, DN 40 229 851 229 852 229 853 229 854 229 869 229 870 229 871 229872 Rp 2, DN 50 229 874 229 875 229 876 229 877 229 878 229 879 229 880 229 881",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Rp 1</td><td>229 842</td><td>229 843</td><td>229 844</td><td>229</td><td>845</td><td>229 846</td><td>229 847</td><td>229 848</td><td>229 849</td></tr><tr><td>Rp 1 1/2, DN 40</td><td>229 851</td><td>229 852</td><td>229 853</td><td>229</td><td>854</td><td>229 869</td><td>229 870</td><td>229 871</td><td>229872</td></tr><tr><td>Rp 2, DN 50</td><td>229 874</td><td>229 875</td><td>229 876</td><td>229</td><td>877</td><td>229 878</td><td>229 879</td><td>229 880</td><td>229 881</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVk1v4zYQ/SuErs1aEj9EsghyKII9Botsc8oGAiVRtgpZEigZaRr4v5eUx7I99m57Gr7h8PFxSM3o9TOyrd3absqbKvqdRDStCslFzbjkrKgTKwuaVDRjZZWV3NbRHYm2djKVmYyP/4zCIB/7nSvtEdu8dNabmTCVnCeJ1JSukrB4nt/2VVM3vwgYXF/acTxFpJpnmq2k0IplIWywbtuMY9N3Yw5iXj8jTxxkMEYTvn/zYc6Wvavyti/N1LtZ4WCmTaCNX0brxtg1ZWlc5ReOkzNTM8bfPsqNcdtvrv/LltMYV7tuPeZDX8ZVX+5CssYvfWdjmjKWifxla9pd7ey6tS7/+vySP/6RP66Gqo72e6+gblrbma09ZPc/VkD89DHM8WYY2sYr96eMYbo13Xpn1nYMB45st47CMQfvybvdtrDhjHT2uNOtisRaanjBMsuruqxLxrnx16oyk9Y1KwLxZP+ecjPmm2nbhjX3kyla+3A/baypvHFh+PC9b9t366baVtZ9uY+9K7jpnVitVlwvjgBTdgFpssBlkCZ+gp0maAgUYsEszMvTfBZwmiZnBLNHgCcOMuOj5KKvPkB59eBTY5tyQ163hXFvPqia3V/DQUiKMEWYLRhNcIQFwhnCEmF1wLNuEDpP1MYVdoktnNl1C3q3TXsS1Dv/Is5CW7O7Fuv6aRmvbVssYCw378b9cxY4mmtJT7br/K6TJc9D/Ph0zf+LwffJdJX/wP7/ovOdnweSxqfboFQTlUqE1SWeH9qCl7GiKYpDvJQhzBEWN/WxGMUxxMPwvLitj2UoDp2ToXMyfYl5cjt/KAqdmiO1nN9WxwWKQ2o5UsuRWq5vqwv3e0cenwhPLhcIJFwg4YLdFipQujOUJon2kRf7KElv6jxoFHgt2kuiJMnstkaJkiVRsiTSrNC+Kr0W6eVl4o5chaL7VUiy+slrVOh+FZKskGSFJOsbr9FL9AUbxaFr1Uiv/sl71CjVGunVSK9GevX5e4yhV8SHphftoSGGRnjZ8vxDED92NKHZb5rAKGXHEU38AQ9DlhAKXiEIA69MSAZD38ZCNgCIhFx2KAKdCSwFy8BysAJsBlaCVeTUR8jcP4iv4D92SVLV5NAzSOgVxLcGEloCgVZAQgsgqOKTYxUnh4JMoBCDVQQKL9gULMRRBpaDFeRQNwnUS7BHLMBmYGEbBtswTaDezWoAwF4cyDiQcSDjQMaBjAMZ1wRVIQLVByzwCuAVwJuBCAnxEuIlJWfVAnywRoIWCVokaJGgRQKngnUqJctHDR5QoYBRAaMCRgWMChgVMOqEHL49gHAoDXQa6DTQaaDTQKeBTuv5TxH+Tv8M30q0f/sXpDhp4A==",
+      "is_continuation": true,
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "3f28a32f4f7951b40b823941b2d5cdb1",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. DN 65, 80 229 883 229 884 229 885 229 886 229 887 229 888 229 889 229 890 DN 100 229 892 229 893 229 894 229 895 229 896 229 897 229 898 229 899",
+    "metadata": {
+      "text_as_html": "<table><tr><td>DN 65, 80</td><td>229 883</td><td>229 884</td><td>229 885</td><td>229</td><td>886</td><td>229 887</td><td>229 888</td><td>229 889</td><td>229 890</td></tr><tr><td>DN 100</td><td>229 892</td><td>229 893</td><td>229 894</td><td>229</td><td>895</td><td>229 896</td><td>229 897</td><td>229 898</td><td>229 899</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNVk1v4zYQ/SuErs1aEj9EsghyKII9Botsc8oGAiVRtgpZEigZaRr4v5eUx7I99m57Gr7h8PFxSM3o9TOyrd3absqbKvqdRDStCslFzbjkrKgTKwuaVDRjZZWV3NbRHYm2djKVmYyP/4zCIB/7nSvtEdu8dNabmTCVnCeJ1JSukrB4nt/2VVM3vwgYXF/acTxFpJpnmq2k0IplIWywbtuMY9N3Yw5iXj8jTxxkMEYTvn/zYc6Wvavyti/N1LtZ4WCmTaCNX0brxtg1ZWlc5ReOkzNTM8bfPsqNcdtvrv/LltMYV7tuPeZDX8ZVX+5CssYvfWdjmjKWifxla9pd7ey6tS7/+vySP/6RP66Gqo72e6+gblrbma09ZPc/VkD89DHM8WYY2sYr96eMYbo13Xpn1nYMB45st47CMQfvybvdtrDhjHT2uNOtisRaanjBMsuruqxLxrnx16oyk9Y1KwLxZP+ecjPmm2nbhjX3kyla+3A/baypvHFh+PC9b9t366baVtZ9uY+9K7jpnVitVlwvjgBTdgFpssBlkCZ+gp0maAgUYsEszMvTfBZwmiZnBLNHgCcOMuOj5KKvPkB59eBTY5tyQ163hXFvPqia3V/DQUiKMEWYLRhNcIQFwhnCEmF1wLNuEDpP1MYVdoktnNl1C3q3TXsS1Dv/Is5CW7O7Fuv6aRmvbVssYCw378b9cxY4mmtJT7br/K6TJc9D/Ph0zf+LwffJdJX/wP7/ovOdnweSxqfboFQTlUqE1SWeH9qCl7GiKYpDvJQhzBEWN/WxGMUxxMPwvLitj2UoDp2ToXMyfYl5cjt/KAqdmiO1nN9WxwWKQ2o5UsuRWq5vqwv3e0cenwhPLhcIJFwg4YLdFipQujOUJon2kRf7KElv6jxoFHgt2kuiJMnstkaJkiVRsiTSrNC+Kr0W6eVl4o5chaL7VUiy+slrVOh+FZKskGSFJOsbr9FL9AUbxaFr1Uiv/sl71CjVGunVSK9GevX5e4yhV8SHphftoSGGRnjZ8vxDED92NKHZb5rAKGXHEU38AQ9DlhAKXiEIA69MSAZD38ZCNgCIhFx2KAKdCSwFy8BysAJsBlaCVeTUR8jcP4iv4D92SVLV5NAzSOgVxLcGEloCgVZAQgsgqOKTYxUnh4JMoBCDVQQKL9gULMRRBpaDFeRQNwnUS7BHLMBmYGEbBtswTaDezWoAwF4cyDiQcSDjQMaBjAMZ1wRVIQLVByzwCuAVwJuBCAnxEuIlJWfVAnywRoIWCVokaJGgRQKngnUqJctHDR5QoYBRAaMCRgWMChgVMOqEHL49gHAoDXQa6DTQaaDTQKeBTuv5TxH+Tv8M30q0f/sXpDhp4A==",
+      "is_continuation": true,
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d4c4fa5083a14b068f88d42deece36af",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. Druckabgriffe\n\n1 Atmungsstopfen\n\n2 Anschluß für externen Impuls Verschlußschraube G 1/4 ISO 228, beidseitig\n\n3 Verschlußschraube G 1/8 bzw. G 1/4 ISO 228 im Eingangsbereich, beidseitig (siehe Typenübersicht)\n\nEinbaumaße [mm]\n\n| J -\n\n| i",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztlk1v1DAQhv+KlRNIbRPbiWNzKyqgcoAKWi6livwx3jXkS7YDlNL/jrNt1UVUhT1utac48evxjN8nI59fZdBCB31snMleoMwobEsAYVTNCOWmItjSGkpmjDScQ7aHsg6iNDLKpL/K5kEThslruHuHRntIj1VAXJdlUdSCkINiXrya7wbjrHtEMPpBQwj3CixKJuhBXQlO2SwbwXcuBDf0oblN5vwqS4HnNCglRXl9kWQe9OBN0w5axsGvMhxlXM5h87MAPuTeaS29SQtD9DK6kJ9c6qX03YkfvoCOITdTvwjNOOjcDHqaDyvsDz3kBFPKquask+1kPSxa8M3rD2fN0cvm6GA0Nru+ThlY10Ivuzmt7J8rbvXxclzp5Ti2LmWeqsxvp1vZLya5gDAXnEG/yOYyx/Sl6adOwVwjmfeN8CPOMY78pL9KtfDO2pV9d8FPXWwhS9K/GBC6YAxji2VJlODWcoFFgSvKCWDCdgxsAwOrL36DP3sdGowOYzeXHOIwWujXuXkn/XxG3+B0Fj/AT8EqYxixUilGpag0ESUthZJpS11zs+PnyfND0GEf9LKdPk9FYSyy89Nqj9I8+B56dNyNUxvQp3R897o09HJSgN4gnJfo+ON7RAjfQwqcCeCiW2wEYvKb1JWxUtZMiYLUUJUiJV0woyttqx2ITx5E+hhhHKmf3w/+hA25Dr1y/SJlFlIC4PRynT/0LDhYAjpNRfU3UCdVSKr4fCM2IXVHjWtSSMJxQRXhoBMZxnIlqJW7i9ZWsLmO2rr9x13SPWi7xpXUqSWlgaiNZRqISQgYQwzmQu1s3wLb6brtqVkoOXXypr8AOu+6i406ATe4kILyklFtTLpti5qJyiijWFFbtusEW4fEL/QW7f9XO9DpiiywJkxBWRFb61pwUghKa83SsfOd99vnvXvA+Yvf0oGF4A==",
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "90381b397ae43e218d3176050c906340",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. Typ Bestell-Nummer Prx. [mbar] EinbaumaBe [mm] Gewicht [kgl Rp/DN a b c d FRU 505 221928 500 Rp 1/2 77 115 24 143 G1/4 G1/8 G1/8 225 0,60",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Typ</td><td>Bestell-Nummer</td><td>Prx. [mbar]</td><td>EinbaumaBe [mm]</td><td>Gewicht [kgl</td></tr><tr><td>Rp/DN</td><td>a</td><td>b</td><td>c</td><td>d</td><td/><td/><td/><td/></tr><tr><td>FRU 505</td><td>221928</td><td>500</td><td>Rp 1/2</td><td>77</td><td>115</td><td>24</td><td>143</td><td>G1/4</td><td>G1/8</td><td>G1/8</td><td>225</td><td>0,60</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVt9vozgQ/ldGPGeLbWwcVr08VL3rW1VV26e2Qg44CXcQEBDtVlX/9xs7DjgVdC+6h6bjmc/jz4Pnx/N7oEtd6X2fFnnwHQKexHSdEyIzLjY6i5M1zTTljDC1kZtIBgsIKt2rXPUK8e+BEdKuPrSZPq11mrUa/1mHVHKO7hLGrojZbO1VnReb4gtA09aZ7roRQRMeJ9GVFMkyig2s0W1VdF1R77vUkXl+D9CxoRFFjPCPV4S1OqvbPC3rTPV1axk2qt8Zt+FTp9subIssU22OG7u+VX3RhQ9v2U611UNb/62zvgvzw37bpU2dhXmdHUywum/1XoeMRlEs0qdKlYdNq7elbtO/Hp/S25v09qrJN8HHBzLYFKXeq8rQCn67w+H7t8biVdOUBTLHW4bOXKr99qC2ujMXDvR+G5hrNqhJ94dqrc0dI9T0+lefqi7d9VVpXF33al3q1XW/0yrHf60Roa1/do3a//ESsJdg9eOtuQ773YTlBoOjy/Lb/aGqdDsDemh/XcFztVbt64DI6tIhEkT8WezX6lCpG4246nXGz53+WWS7Hp7/2ZZHSGjpWsqrxya8vT/tXKlBWg9SNkj5IP1WsEeEp+is6/zNnZiv8AuBIAKtuV0zRhO2HJaCkEF+bICGbFhKOYiUeg74qObRIN/RkPuL5fSCsdETWcTu8DFEJ8LynHAyRzjyTqWeiUaj7F2XxuJixnzcQhdkjjH1zo4T8M//HGMvrN4m75hoDCtNyKWEI9/rgs0S9q4ll5CQOcLUfxRUeM6T0QX3wi3OKLNZ/uMi8j4LW4g5yoycU6ZzlD2+cpoYl5Px+o98uecpmudL+CfCM4/i9h78+JHpEEsvRsvLQ+x5+oqy+ESZz1L2kCyajvISP+Z4Kr88zt49xXzukfjTWxazpP2H5qUWW476xCfNibiUtPD8yi8i7d2NxmTuMSNnD+i/VZ+zX/r+J2VKvipyn15HPEvah0ZiWvbrH08uZi1jP4LnrEPXBcPj5BB8uKnCTBM4KcD5TABNpYb2Dy4RADsPYK9EmTiddLpk1FECrt57OgGupI46RsDVLM8fd0p/M2YguMzzlLFzKXzl0pxNzn1i3MF9Gqs8TS0vB0LyzXF0AexCIeBHUrCGDHI4dn6QErDTA+OAnR2O3RWsQySIgcDuaaGIQh0XOKoCNiinQwfUcE8EVjPAMmD0qJPHBZeArxdsrQNGjkCJpy2tEhEsOiJN1QCsFmDzFTBPESTA5CXuFWBTwjozasPPaY2I78v+GYr4puA0j2nYwBZ2Zi57hTtky+3v0v3iXAJmHpky4UVN458wGQ6mxdol8wAcIsMcs3/CxA3FaRNW6TkT1kIQJxrnJkxfkNO7jMlm9IQN8wds3pjR/DS1/zD5Eny8/gsnq64W",
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d645e5e6dda1deb4ed5c53887afe55b0",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. FRU 507 221929 500 Rp 3/4 100 130 28 165 G1/4 G1/8 G1/8 245 1,00 FRU 510 169 130 500 Rp 1 110 145 33 190 G1/4 G1/8 G1/8 310 1,20",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FRU 507</td><td>221929</td><td>500</td><td>Rp 3/4</td><td>100</td><td>130</td><td>28</td><td>165</td><td>G1/4</td><td>G1/8</td><td>G1/8</td><td>245</td><td>1,00</td></tr><tr><td>FRU 510</td><td>169 130</td><td>500</td><td>Rp 1</td><td>110</td><td>145</td><td>33</td><td>190</td><td>G1/4</td><td>G1/8</td><td>G1/8</td><td>310</td><td>1,20</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVt9vozgQ/ldGPGeLbWwcVr08VL3rW1VV26e2Qg44CXcQEBDtVlX/9xs7DjgVdC+6h6bjmc/jz4Pnx/N7oEtd6X2fFnnwHQKexHSdEyIzLjY6i5M1zTTljDC1kZtIBgsIKt2rXPUK8e+BEdKuPrSZPq11mrUa/1mHVHKO7hLGrojZbO1VnReb4gtA09aZ7roRQRMeJ9GVFMkyig2s0W1VdF1R77vUkXl+D9CxoRFFjPCPV4S1OqvbPC3rTPV1axk2qt8Zt+FTp9subIssU22OG7u+VX3RhQ9v2U611UNb/62zvgvzw37bpU2dhXmdHUywum/1XoeMRlEs0qdKlYdNq7elbtO/Hp/S25v09qrJN8HHBzLYFKXeq8rQCn67w+H7t8biVdOUBTLHW4bOXKr99qC2ujMXDvR+G5hrNqhJ94dqrc0dI9T0+lefqi7d9VVpXF33al3q1XW/0yrHf60Roa1/do3a//ESsJdg9eOtuQ773YTlBoOjy/Lb/aGqdDsDemh/XcFztVbt64DI6tIhEkT8WezX6lCpG4246nXGz53+WWS7Hp7/2ZZHSGjpWsqrxya8vT/tXKlBWg9SNkj5IP1WsEeEp+is6/zNnZiv8AuBIAKtuV0zRhO2HJaCkEF+bICGbFhKOYiUeg74qObRIN/RkPuL5fSCsdETWcTu8DFEJ8LynHAyRzjyTqWeiUaj7F2XxuJixnzcQhdkjjH1zo4T8M//HGMvrN4m75hoDCtNyKWEI9/rgs0S9q4ll5CQOcLUfxRUeM6T0QX3wi3OKLNZ/uMi8j4LW4g5yoycU6ZzlD2+cpoYl5Px+o98uecpmudL+CfCM4/i9h78+JHpEEsvRsvLQ+x5+oqy+ESZz1L2kCyajvISP+Z4Kr88zt49xXzukfjTWxazpP2H5qUWW476xCfNibiUtPD8yi8i7d2NxmTuMSNnD+i/VZ+zX/r+J2VKvipyn15HPEvah0ZiWvbrH08uZi1jP4LnrEPXBcPj5BB8uKnCTBM4KcD5TABNpYb2Dy4RADsPYK9EmTiddLpk1FECrt57OgGupI46RsDVLM8fd0p/M2YguMzzlLFzKXzl0pxNzn1i3MF9Gqs8TS0vB0LyzXF0AexCIeBHUrCGDHI4dn6QErDTA+OAnR2O3RWsQySIgcDuaaGIQh0XOKoCNiinQwfUcE8EVjPAMmD0qJPHBZeArxdsrQNGjkCJpy2tEhEsOiJN1QCsFmDzFTBPESTA5CXuFWBTwjozasPPaY2I78v+GYr4puA0j2nYwBZ2Zi57hTtky+3v0v3iXAJmHpky4UVN458wGQ6mxdol8wAcIsMcs3/CxA3FaRNW6TkT1kIQJxrnJkxfkNO7jMlm9IQN8wds3pjR/DS1/zD5Eny8/gsnq64W",
+      "is_continuation": true,
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "05d346617866994d32bb9523f99ac5bd",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. FRU 515 178 900 500 Rp11/2 150 195 40 250 G1/2 G1/4 G1/4 365 2,50 FRU 520 178 910 500 Rp2 170 250 47 310 G1/2 G1/4 G1/4 450 3,50",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FRU 515</td><td>178 900</td><td>500</td><td>Rp11/2</td><td>150</td><td>195</td><td>40</td><td>250</td><td>G1/2</td><td>G1/4</td><td>G1/4</td><td>365</td><td>2,50</td></tr><tr><td>FRU 520</td><td>178 910</td><td>500</td><td>Rp2</td><td>170</td><td>250</td><td>47</td><td>310</td><td>G1/2</td><td>G1/4</td><td>G1/4</td><td>450</td><td>3,50</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVt9vozgQ/ldGPGeLbWwcVr08VL3rW1VV26e2Qg44CXcQEBDtVlX/9xs7DjgVdC+6h6bjmc/jz4Pnx/N7oEtd6X2fFnnwHQKexHSdEyIzLjY6i5M1zTTljDC1kZtIBgsIKt2rXPUK8e+BEdKuPrSZPq11mrUa/1mHVHKO7hLGrojZbO1VnReb4gtA09aZ7roRQRMeJ9GVFMkyig2s0W1VdF1R77vUkXl+D9CxoRFFjPCPV4S1OqvbPC3rTPV1axk2qt8Zt+FTp9subIssU22OG7u+VX3RhQ9v2U611UNb/62zvgvzw37bpU2dhXmdHUywum/1XoeMRlEs0qdKlYdNq7elbtO/Hp/S25v09qrJN8HHBzLYFKXeq8rQCn67w+H7t8biVdOUBTLHW4bOXKr99qC2ujMXDvR+G5hrNqhJ94dqrc0dI9T0+lefqi7d9VVpXF33al3q1XW/0yrHf60Roa1/do3a//ESsJdg9eOtuQ773YTlBoOjy/Lb/aGqdDsDemh/XcFztVbt64DI6tIhEkT8WezX6lCpG4246nXGz53+WWS7Hp7/2ZZHSGjpWsqrxya8vT/tXKlBWg9SNkj5IP1WsEeEp+is6/zNnZiv8AuBIAKtuV0zRhO2HJaCkEF+bICGbFhKOYiUeg74qObRIN/RkPuL5fSCsdETWcTu8DFEJ8LynHAyRzjyTqWeiUaj7F2XxuJixnzcQhdkjjH1zo4T8M//HGMvrN4m75hoDCtNyKWEI9/rgs0S9q4ll5CQOcLUfxRUeM6T0QX3wi3OKLNZ/uMi8j4LW4g5yoycU6ZzlD2+cpoYl5Px+o98uecpmudL+CfCM4/i9h78+JHpEEsvRsvLQ+x5+oqy+ESZz1L2kCyajvISP+Z4Kr88zt49xXzukfjTWxazpP2H5qUWW476xCfNibiUtPD8yi8i7d2NxmTuMSNnD+i/VZ+zX/r+J2VKvipyn15HPEvah0ZiWvbrH08uZi1jP4LnrEPXBcPj5BB8uKnCTBM4KcD5TABNpYb2Dy4RADsPYK9EmTiddLpk1FECrt57OgGupI46RsDVLM8fd0p/M2YguMzzlLFzKXzl0pxNzn1i3MF9Gqs8TS0vB0LyzXF0AexCIeBHUrCGDHI4dn6QErDTA+OAnR2O3RWsQySIgcDuaaGIQh0XOKoCNiinQwfUcE8EVjPAMmD0qJPHBZeArxdsrQNGjkCJpy2tEhEsOiJN1QCsFmDzFTBPESTA5CXuFWBTwjozasPPaY2I78v+GYr4puA0j2nYwBZ2Zi57hTtky+3v0v3iXAJmHpky4UVN458wGQ6mxdol8wAcIsMcs3/CxA3FaRNW6TkT1kIQJxrnJkxfkNO7jMlm9IQN8wds3pjR/DS1/zD5Eny8/gsnq64W",
+      "is_continuation": true,
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "9fa957a33e98dcc823e191ff87a10ab1",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. FRU 5040 178 930 500 DN 40 200 195 75 280 G1/2 G1/4 G1/4 395 3,50 FRU 5050 178 940 500 DN 50 230 250 82,5 340 G1/2 G1/4 G1/4 480 5,00",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FRU 5040</td><td>178 930</td><td>500</td><td>DN 40</td><td>200</td><td>195</td><td>75</td><td>280</td><td>G1/2</td><td>G1/4</td><td>G1/4</td><td>395</td><td>3,50</td></tr><tr><td>FRU 5050</td><td>178 940</td><td>500</td><td>DN 50</td><td>230</td><td>250</td><td>82,5</td><td>340</td><td>G1/2</td><td>G1/4</td><td>G1/4</td><td>480</td><td>5,00</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVt9vozgQ/ldGPGeLbWwcVr08VL3rW1VV26e2Qg44CXcQEBDtVlX/9xs7DjgVdC+6h6bjmc/jz4Pnx/N7oEtd6X2fFnnwHQKexHSdEyIzLjY6i5M1zTTljDC1kZtIBgsIKt2rXPUK8e+BEdKuPrSZPq11mrUa/1mHVHKO7hLGrojZbO1VnReb4gtA09aZ7roRQRMeJ9GVFMkyig2s0W1VdF1R77vUkXl+D9CxoRFFjPCPV4S1OqvbPC3rTPV1axk2qt8Zt+FTp9subIssU22OG7u+VX3RhQ9v2U611UNb/62zvgvzw37bpU2dhXmdHUywum/1XoeMRlEs0qdKlYdNq7elbtO/Hp/S25v09qrJN8HHBzLYFKXeq8rQCn67w+H7t8biVdOUBTLHW4bOXKr99qC2ujMXDvR+G5hrNqhJ94dqrc0dI9T0+lefqi7d9VVpXF33al3q1XW/0yrHf60Roa1/do3a//ESsJdg9eOtuQ773YTlBoOjy/Lb/aGqdDsDemh/XcFztVbt64DI6tIhEkT8WezX6lCpG4246nXGz53+WWS7Hp7/2ZZHSGjpWsqrxya8vT/tXKlBWg9SNkj5IP1WsEeEp+is6/zNnZiv8AuBIAKtuV0zRhO2HJaCkEF+bICGbFhKOYiUeg74qObRIN/RkPuL5fSCsdETWcTu8DFEJ8LynHAyRzjyTqWeiUaj7F2XxuJixnzcQhdkjjH1zo4T8M//HGMvrN4m75hoDCtNyKWEI9/rgs0S9q4ll5CQOcLUfxRUeM6T0QX3wi3OKLNZ/uMi8j4LW4g5yoycU6ZzlD2+cpoYl5Px+o98uecpmudL+CfCM4/i9h78+JHpEEsvRsvLQ+x5+oqy+ESZz1L2kCyajvISP+Z4Kr88zt49xXzukfjTWxazpP2H5qUWW476xCfNibiUtPD8yi8i7d2NxmTuMSNnD+i/VZ+zX/r+J2VKvipyn15HPEvah0ZiWvbrH08uZi1jP4LnrEPXBcPj5BB8uKnCTBM4KcD5TABNpYb2Dy4RADsPYK9EmTiddLpk1FECrt57OgGupI46RsDVLM8fd0p/M2YguMzzlLFzKXzl0pxNzn1i3MF9Gqs8TS0vB0LyzXF0AexCIeBHUrCGDHI4dn6QErDTA+OAnR2O3RWsQySIgcDuaaGIQh0XOKoCNiinQwfUcE8EVjPAMmD0qJPHBZeArxdsrQNGjkCJpy2tEhEsOiJN1QCsFmDzFTBPESTA5CXuFWBTwjozasPPaY2I78v+GYr4puA0j2nYwBZ2Zi57hTtky+3v0v3iXAJmHpky4UVN458wGQ6mxdol8wAcIsMcs3/CxA3FaRNW6TkT1kIQJxrnJkxfkNO7jMlm9IQN8wds3pjR/DS1/zD5Eny8/gsnq64W",
+      "is_continuation": true,
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "a1b05f1f7b92c8f5eb36f50054764160",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. FRU 5065 178 950 500 DN 65 290 285 92,5 405 G1/2 G1/4 G1/4 590 7,50 FRU 5080 160910 500 DN 80 310 285 100 405 G1/2 G1/4 G1/4 590 10,00",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FRU 5065</td><td>178 950</td><td>500</td><td>DN 65</td><td>290</td><td>285</td><td>92,5</td><td>405</td><td>G1/2</td><td>G1/4</td><td>G1/4</td><td>590</td><td>7,50</td></tr><tr><td>FRU 5080</td><td>160910</td><td>500</td><td>DN 80</td><td>310</td><td>285</td><td>100</td><td>405</td><td>G1/2</td><td>G1/4</td><td>G1/4</td><td>590</td><td>10,00</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVt9vozgQ/ldGPGeLbWwcVr08VL3rW1VV26e2Qg44CXcQEBDtVlX/9xs7DjgVdC+6h6bjmc/jz4Pnx/N7oEtd6X2fFnnwHQKexHSdEyIzLjY6i5M1zTTljDC1kZtIBgsIKt2rXPUK8e+BEdKuPrSZPq11mrUa/1mHVHKO7hLGrojZbO1VnReb4gtA09aZ7roRQRMeJ9GVFMkyig2s0W1VdF1R77vUkXl+D9CxoRFFjPCPV4S1OqvbPC3rTPV1axk2qt8Zt+FTp9subIssU22OG7u+VX3RhQ9v2U611UNb/62zvgvzw37bpU2dhXmdHUywum/1XoeMRlEs0qdKlYdNq7elbtO/Hp/S25v09qrJN8HHBzLYFKXeq8rQCn67w+H7t8biVdOUBTLHW4bOXKr99qC2ujMXDvR+G5hrNqhJ94dqrc0dI9T0+lefqi7d9VVpXF33al3q1XW/0yrHf60Roa1/do3a//ESsJdg9eOtuQ773YTlBoOjy/Lb/aGqdDsDemh/XcFztVbt64DI6tIhEkT8WezX6lCpG4246nXGz53+WWS7Hp7/2ZZHSGjpWsqrxya8vT/tXKlBWg9SNkj5IP1WsEeEp+is6/zNnZiv8AuBIAKtuV0zRhO2HJaCkEF+bICGbFhKOYiUeg74qObRIN/RkPuL5fSCsdETWcTu8DFEJ8LynHAyRzjyTqWeiUaj7F2XxuJixnzcQhdkjjH1zo4T8M//HGMvrN4m75hoDCtNyKWEI9/rgs0S9q4ll5CQOcLUfxRUeM6T0QX3wi3OKLNZ/uMi8j4LW4g5yoycU6ZzlD2+cpoYl5Px+o98uecpmudL+CfCM4/i9h78+JHpEEsvRsvLQ+x5+oqy+ESZz1L2kCyajvISP+Z4Kr88zt49xXzukfjTWxazpP2H5qUWW476xCfNibiUtPD8yi8i7d2NxmTuMSNnD+i/VZ+zX/r+J2VKvipyn15HPEvah0ZiWvbrH08uZi1jP4LnrEPXBcPj5BB8uKnCTBM4KcD5TABNpYb2Dy4RADsPYK9EmTiddLpk1FECrt57OgGupI46RsDVLM8fd0p/M2YguMzzlLFzKXzl0pxNzn1i3MF9Gqs8TS0vB0LyzXF0AexCIeBHUrCGDHI4dn6QErDTA+OAnR2O3RWsQySIgcDuaaGIQh0XOKoCNiinQwfUcE8EVjPAMmD0qJPHBZeArxdsrQNGjkCJpy2tEhEsOiJN1QCsFmDzFTBPESTA5CXuFWBTwjozasPPaY2I78v+GYr4puA0j2nYwBZ2Zi57hTtky+3v0v3iXAJmHpky4UVN458wGQ6mxdol8wAcIsMcs3/CxA3FaRNW6TkT1kIQJxrnJkxfkNO7jMlm9IQN8wds3pjR/DS1/zD5Eny8/gsnq64W",
+      "is_continuation": true,
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "639d20e730b393b30d8d3613732b5f85",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. FRU 5100 178 960 500 DN 100 350 350 110 495 G1/2 G1/4 G1/4 760 16,00",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FRU 5100</td><td>178 960</td><td>500</td><td>DN 100</td><td>350</td><td>350</td><td>110</td><td>495</td><td>G1/2</td><td>G1/4</td><td>G1/4</td><td>760</td><td>16,00</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJylVt9vozgQ/ldGPGeLbWwcVr08VL3rW1VV26e2Qg44CXcQEBDtVlX/9xs7DjgVdC+6h6bjmc/jz4Pnx/N7oEtd6X2fFnnwHQKexHSdEyIzLjY6i5M1zTTljDC1kZtIBgsIKt2rXPUK8e+BEdKuPrSZPq11mrUa/1mHVHKO7hLGrojZbO1VnReb4gtA09aZ7roRQRMeJ9GVFMkyig2s0W1VdF1R77vUkXl+D9CxoRFFjPCPV4S1OqvbPC3rTPV1axk2qt8Zt+FTp9subIssU22OG7u+VX3RhQ9v2U611UNb/62zvgvzw37bpU2dhXmdHUywum/1XoeMRlEs0qdKlYdNq7elbtO/Hp/S25v09qrJN8HHBzLYFKXeq8rQCn67w+H7t8biVdOUBTLHW4bOXKr99qC2ujMXDvR+G5hrNqhJ94dqrc0dI9T0+lefqi7d9VVpXF33al3q1XW/0yrHf60Roa1/do3a//ESsJdg9eOtuQ773YTlBoOjy/Lb/aGqdDsDemh/XcFztVbt64DI6tIhEkT8WezX6lCpG4246nXGz53+WWS7Hp7/2ZZHSGjpWsqrxya8vT/tXKlBWg9SNkj5IP1WsEeEp+is6/zNnZiv8AuBIAKtuV0zRhO2HJaCkEF+bICGbFhKOYiUeg74qObRIN/RkPuL5fSCsdETWcTu8DFEJ8LynHAyRzjyTqWeiUaj7F2XxuJixnzcQhdkjjH1zo4T8M//HGMvrN4m75hoDCtNyKWEI9/rgs0S9q4ll5CQOcLUfxRUeM6T0QX3wi3OKLNZ/uMi8j4LW4g5yoycU6ZzlD2+cpoYl5Px+o98uecpmudL+CfCM4/i9h78+JHpEEsvRsvLQ+x5+oqy+ESZz1L2kCyajvISP+Z4Kr88zt49xXzukfjTWxazpP2H5qUWW476xCfNibiUtPD8yi8i7d2NxmTuMSNnD+i/VZ+zX/r+J2VKvipyn15HPEvah0ZiWvbrH08uZi1jP4LnrEPXBcPj5BB8uKnCTBM4KcD5TABNpYb2Dy4RADsPYK9EmTiddLpk1FECrt57OgGupI46RsDVLM8fd0p/M2YguMzzlLFzKXzl0pxNzn1i3MF9Gqs8TS0vB0LyzXF0AexCIeBHUrCGDHI4dn6QErDTA+OAnR2O3RWsQySIgcDuaaGIQh0XOKoCNiinQwfUcE8EVjPAMmD0qJPHBZeArxdsrQNGjkCJpy2tEhEsOiJN1QCsFmDzFTBPESTA5CXuFWBTwjozasPPaY2I78v+GYr4puA0j2nYwBZ2Zi57hTtky+3v0v3iXAJmHpky4UVN458wGQ6mxdol8wAcIsMcs3/CxA3FaRNW6TkT1kIQJxrnJkxfkNO7jMlm9IQN8wds3pjR/DS1/zD5Eny8/gsnq64W",
+      "is_continuation": true,
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b5a25d6a6fdb2f7fafedeff0653322c9",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. Anwendungsbeispiel Umlaufregler FRU in einer Gasdru- ckerhöhungsanlage\n\nAtmungsstopfen — externer Impuls < Ruckstromleitung FRU Der externe Impuls darf nicht durch eine Absperrung unterbrochen werden ——\n\nDruckerhoher\n\nDas Gasdruckregelgerät FRU be- grenzt den Druck in einer Gasver- brauchsanlage konstant.\n\nIn der Anlage wird durch ein Gas- gebläse (Druckerhöher) der Gas-\n\nversorgungsdruck auf ein höheres Druckniveau gebracht.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztlk1v3DYQhv8KoVMLxF5SJPUR9OLASOFLEQTxKQmEETlaKZYogaTipob/e4fybpwWQYIcF9iLJIrvcGbIBzN8/5DhiBO62Aw2e8kya0o0IkeTc8GFqpSSstZa6dqAFNpkL1g2YQQLEUj/kKWPJsyrN3gcY2M80mtbUJRKcV7WeX7Jk/E2P8126IYfCBY/GwzhWSFqVdTystR1JYskW9BPQwjD7EJzCOb9Q0YLpzCkzLl6/Egyj2b2thlnA3H2W4QLxD4tu7sN6MPOD8aAt2QYooc4hN2bL6YHP73x8yc0Mezs6vahWWazs7NZ02aFi9nhLhdSFrq5nWBcO4/7EX3z+u1tc/2qub5cbJc9PlIE3TCigymFlf3U4qCPX5ZND8syDhQ5Zbk7TI/g9ivsMaSEM3T7LKW50J/GrVOLKUeZ/Eb8O6Y1rtw9ui2FFoewDDiy22mEo39G/tngGA6OBn9CsH69YOYOff9h5bwr+mQKbiQPyf8xtHdDHDEjR/8nqOKy4pUSVUKo0GgFqoo+206irER1JujkCIpTij/EeenQsQ8rnaZiNIk+MXMzLesY2B/s7WruaAfmacQhksWG1jUpDtKj0oLvmBtMH5mlU+839thVG+hEfLJbHelbOsCe3N2jt1+9Pj2/5fBmSmB+h8O8K5QGpIMvcyvpxVF3pUTMuTZa12cOT43Da79udWnuae4bBP4Cn9L9jO+S8DsogABZC62srrrOQtmVQpaGngq5tPzc1E4PBQiHXmXuyCWOe/SpXaGKW9Vp8YLtPbp/qMRQ8djI+U+X+4z+grUeVtMfmhu7o12P4OLlr7EFpSq4VFUBhkuupZCoa1F0hWlt0ZZntk6NrRtHzHh29UTF/eDtc5tK6BBZ2I5PtAVkvx3L0uG6hP73zT4pf4mkFnhlawWguNBtyaHrylxaYTVqVRt7JunUSKIiE2a/TzlslYrRrXuj6JkVDE/FyREYsCayPNDF6Ec16OO/OaZpPA==",
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "771554c84f7aa069bf962a0a5e97e62e",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. Übersteigt der erzeugte Druck den eingestellten Ansprechdruck öffnet das Druckregelgerät FRU.\n\nDer Ausgangsdruck des Druckerhö- hers wird über die Rückstromleitung abgebaut.\n\n3 … 4\n\nImpulsleitung zwischen Druckregelgerät und Geblä- seaustritt darf nicht absperrbar sein!\n\nImpulsleitung muß aus Stahl PN 1 min. DN 6 sein. Impulsleitung kurz halten und sicher gegen Verfor- mung und Abriss führen!\n\nImpulsleitung im Eingangbe- reich des vor Druckanstieg zu schützenden Gasgerätes an- schließen!",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztlktv3DYQgP8Kq3N3lxIlatWbi22DXgwjrXtJA4EihxJriRL4SBob/u8dSmukCYIUPi6wJ4mah2aGH2bm3VMGI0xgQ2tU9hPJJD02QupCSMYAH7XWNb5zmheclzVkP5JsgiCUCAL1n7L00vo5OgkvZ2ilA3ysDvO6LCmtm6LY02S8yqdZGW2+o7C4WYL3nzXypuQN29dVc2Q8qS3gJuO9ma1vz8G8e8rQcQqDsYKWz+9RzYGcnWrHWYowuzXCRYQhuT3ce3D+4IyUwik09MGJYPzh7pMchJvu3Pw3yOAPKtret8ssD2qWMRXL72YLhyJnjFft/STGqB30I7j217f37enn9rRflM6enzECbUawYkphZf9rcdYPn5ZVXyzLaDByzPJwFo/C9lH04FPCGdg+S2ku+KW1ceog5cjSfwP8E5KPvyKlSqLABzB9IAocAfcIsQ9ATi7KB/xkCRiLTgOMY8DTjfULlm5Qqzy50FxrC2gu/GaF4cPYg0tCKAPBPPYpwJfYb4VL5fwAf6RAMKKvUetUd2x0xVnVUMryI9dNA3XFKs6pBCivqF0aaidE6yb6Hu28OpN1pgXcsFG0IwOWgnw0Tm1cJTSJMkDebkf5gMWZpxFMwGIQ0fXQiRhex1ZRCpUzKJTuBJSyYZoL6EDljdI5o/WVrUtjiyEtBS04Kf8Lwh0a3G7636BAVjiy8oKxrjgqxeHIq0IVOeS047Iu5JWCS6Pgt2mJo3/pDY8fjZcDjqtvDqRoFXkD3bidd8SDiFgVE9IQc5pYI4eA/cVj9V0nHCoY+8Or2gxuSzVXOLAKBjKvSrx4oBLvX+mm1lRfAbtswKa4bk+aIDnk9yCGkdzdkpxMxu7J6ZbwlZk9+dLqIbpHMoh1kUoQegQNZ1yPfFryJzg9ux26Rs0kvekc3gzR2/QbHLySwZpRrkV9rLigON4Yz49C1qWSlPOKcXFl8LIZNBP5BXdzdNLBjjhAmNa16sPstr4nrA8GsBtGgt1wwyg8gk1b/RvhP3dENBJ2l5RGAxvY34ft/b89MpAz",
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "00e4e17ef62ab86de486c837ef21daa5",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. Atmungsstopfen darf nicht verschlossen werden. Verbindung zum Umgebungsdruck muß bestehen!\n\nDruckregelgerat FRU Umlaufregler\n\nDUNGS Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztlEGP0zAQhf+K8Rkax3GShhtQgbisVrDlsqwixx6nhtiObGdhqfrf165aUSEE55X2FCd+M/O90VNu9xgmMGBjryV+jbDirKHNABQIFTWtVckbYIKodt2JtqL4JcIGIpc88qTf43zog1u8gPM79MJDehwbli1jhLQdpSuSi4/3xkmt9D8Es3cCQvitKDvWdNWqrbt11WTZDN7oELSzoT/B3O5xapwxqooSdrhLMg/CedlPTvDo/JFw5nGX2xbbAD4UXgvBvUyFIXoedSiuH8SOe3Pt3TcQMRRysWPoZycK6cSSlxVeOQsFLauqqfut4dOiPIwT+P79p22/edtvVrNU+HBIBEpPYLnJWPi/FSd9fJiPej7Pk07kyWVxup64HRc+QsiGMdgRZ5tz+tLbxQyQPVZ5boSfMfd4E03mD9HNCiyS3CtktdhFdJ/si93k0p4t+gFegl2hL+AHbbNl9GsxaGtGGHK99Iv4jszydSFEKjSkbcEO7IvMdMa94j5v8B5u8uwE8We66FoqqcqhaStZK7pmbTnUAyOKkpowUT2n6wmki12ma5NjkWbBNELyh9K8lJmJnwEu43Gj4wR/i0VDyLqBFrpBlWXJlKRrqLlq0p+oZG09PMfiycVie/XhM3rnzLCE3CgdbfRuCpd5+GhSA3y4ewRR2BiI",
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b92a8855c63a0ebf6ca1ec0f67a946a8",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. Durchfluß Diagramm  2  /  1     p  4  /  3     p  1     p  0  4     N  0  5     N  5  6     N  0  8     N  0  0  1     N  R  R  R  D  D  D  D  D  100  90  80  70  60  empfohlener Arbeitsbereich  50  40  30  20  10  9  8  7  ]  r  6  a  b  m  5  4  [     p  3  ∆  2  Basis   + 15 °C, 1013 mbar, trocken  Based on  + 15 °C, 1013 mbar, dry  Base    + 15 °C, 1013 mbar, sec  Base   + 15 °C, 1013 mbar, secco  1,0  1  2  4  6  8 10  20  40  60 80 100  200  400  600 800 1000  2000  4000  Vn [m3/h] Luft / Air / Aria",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJy1VE1v2zAM/SuEr8vqb6cesEO7bMOAoSgKdJc0MGSJdrRZliHJw7oi/72UEnfdJTvNsGySeiTfowVvnyIcUOHoGimidxBxTLu8q/NS8KJlbcXrvMU2y9maCVZesmgFkUJHjmOEf4q80Vg9G46Ljw03SK9QMF0XRZKs6yy7SHxy2FdayE6eAUxGc7T2DyKti6rOL9ZlfZlXHjahUdJaqUfbnMhsnyIq7GnkeZYUhx3BDHJtRDNozpw2geHE3N6Xje8tGhsbyTkzghKtM8xJG98+8j0z6tbo78idjcU89raZNI+F5rMfln2rR4yzNM+rsrlXbJg7g/2Apvl0d99srpvNxSS66HAgBp0ccGTK04r+mXHCu8cp4Nk0DZKYk8r4tD2wsZ9Zj9YLjnDsIy9zokgzzqpFr7HwfR3+cr7Ghj7NvhvmhzlJRAcbyXrDlALIAGKAFPw1ARTBzRf3JZ6ELbpugl0uNhnVq/jlKztZ0sm9W+7N33eaEKr2ibTWtCpaqKZO72leaODKtCidJUUo+Z76eSK0clqZ7+DzQ981wA7ABD4MoAVQgR7R3i4qSNfDnGVJFXRfMystbbyBtAQ/mDb5sKKKaQ6qZWYFjs7fDxwDEgXo8QxWmMcjDs5VtMhfUOdAXJO01XGCWdBQeZHpSXVxnBQNLQwwS0IsBH00hI/x4wY9v42wVXm838HXuXP0ka+k8U8jGYif8N63+z/9PhrRMxvfMDcbNoC3P7PfEHwcyLbg/yWjPvJIVlUJ/owvx/+LomMdHXbPxDE51g==",
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "38096f39c95311ad331d05a0f0bddba4",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. bar, sec  Base   + 15 °C, 1013 mbar, secco  1,0  1  2  4  6  8 10  20  40  60 80 100  200  400  600 800 1000  2000  4000  Vn [m3/h] Luft / Air / Aria dv = 1,00  1  2  4  6  8 10  20  40  60 80 100  200  400  600 800 1000  2000  4000  Vn [m3/h] Erdgas/Natural gas/Gaz Naturel/Gas metano dv = 0,65 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJy1VE1v2zAM/SuEr8vqb6cesEO7bMOAoSgKdJc0MGSJdrRZliHJw7oi/72UEnfdJTvNsGySeiTfowVvnyIcUOHoGimidxBxTLu8q/NS8KJlbcXrvMU2y9maCVZesmgFkUJHjmOEf4q80Vg9G46Ljw03SK9QMF0XRZKs6yy7SHxy2FdayE6eAUxGc7T2DyKti6rOL9ZlfZlXHjahUdJaqUfbnMhsnyIq7GnkeZYUhx3BDHJtRDNozpw2geHE3N6Xje8tGhsbyTkzghKtM8xJG98+8j0z6tbo78idjcU89raZNI+F5rMfln2rR4yzNM+rsrlXbJg7g/2Apvl0d99srpvNxSS66HAgBp0ccGTK04r+mXHCu8cp4Nk0DZKYk8r4tD2wsZ9Zj9YLjnDsIy9zokgzzqpFr7HwfR3+cr7Ghj7NvhvmhzlJRAcbyXrDlALIAGKAFPw1ARTBzRf3JZ6ELbpugl0uNhnVq/jlKztZ0sm9W+7N33eaEKr2ibTWtCpaqKZO72leaODKtCidJUUo+Z76eSK0clqZ7+DzQ981wA7ABD4MoAVQgR7R3i4qSNfDnGVJFXRfMystbbyBtAQ/mDb5sKKKaQ6qZWYFjs7fDxwDEgXo8QxWmMcjDs5VtMhfUOdAXJO01XGCWdBQeZHpSXVxnBQNLQwwS0IsBH00hI/x4wY9v42wVXm838HXuXP0ka+k8U8jGYif8N63+z/9PhrRMxvfMDcbNoC3P7PfEHwcyLbg/yWjPvJIVlUJ/owvx/+LomMdHXbPxDE51g==",
+      "is_continuation": true,
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "65bfa785cb5597fbba196854941b30cf",
+    "text": "Dieser Text ist für Produt: Umalufregler_FRU. Produkt ID: 213365. Der Dokumentyp is Datenblatt. Änderungen, die dem technischen Fortschritt dienen, vorbehalten.\n\n2] Ly o\n\nHausadresse\n\nKarl Dungs GmbH & Co. KG\n\nSiemensstraße 6-10\n\nD-73660 Urbach, Germany\n\nTelefon +49 (0)7181-804-0\n\nTelefax +49 (0)7181-804-166\n\nBriefadresse\n\nKarl Dungs GmbH & Co. KG\n\nPostfach 12 29\n\nD-73602 Schorndorf, Germany\n\ne-mail info@dungs.com\n\nInternet www.dungs.com",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/213365_Umalufregler_FRU_DB_D.pdf"
+        },
+        "date_created": "1744007922.0",
+        "date_modified": "1744007922.0",
+        "date_processed": "1744194693.759836",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "213365_Umalufregler_FRU_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztmVuL3DYUgP+K8ENp6c6M7pc+lXTJJqSUpck+pYvR5WjHxbYG2ZPNsux/rzRsaEhL2wl9MRg/yLaOpHP5OD4Hv39soIcBxrntQvMDaoL03FrqI2gGyhgAph2TghMSCfayuUDNALMNdrZF/rGpN+2UjtnDp2dofYYynDYkinOMlaF0i+vi0/yQQhe7fxA45ORhmv6UIIZLw7ZKGM1OShwgD900dWmc2mdl3j82ZeOqBmMU86fbIpbBpxzaPnk7p3zS8GDnfd12dzNBnna5897mUBZOc7ZzN+2uH/ze5uE6p9/Bz9MuHMe7qT0kvwvJH6uzpk0aYUcJK55pbwbbH2OGux5y+/LXm/byRXu5PYTYPD0VDWLXw2iHqlbzryue5eeHw0neHg59VzQvVu6ep3s73h3tHUzV4AbGu6aaeShv2vE4OKg28nruDB/nusdvR4w9HwPkYgaMFyh0gAIMaAa/H7vJ72FEL1Oey13u5rnOj1XuQ8oO9rafYdzWkz8p9YvN1U8f4F09oRz1JUM8aK0IA0lZVOBAeKUFK1G0WCit+crQ0hiit+jnB5Q+p+D1UMT/LvrUMUI4cBcILooSowoAhAgdKHeakzX6S4v+K3ucbMjVm2flAaXAMCMxV1RgzY1kMjClg8QCs0D8SsLSSHhjc48uqwnoanCv0Dfop7RFb67Ow8JHwaKI2hDthXMiQIglTwRnLGMqrlgsDYu3XY3vVI2r1UaIgOSG4LOosIIB9UoZTEBjE6nVSnrJQTniIsYrFUuj4nKjmJQY3WRn/f4CXRXH2fHhLCqMo6zUE1i7kifAyFJYAOeU66A9jtGtVCyNinclwDGN6Htu0Lf4O0U02WjMN+dlCwOER4apFNQp70QZpcHl0iV3UKlWLhbJhf34Fy6IlOd9R6zyyhsIGBTlmLtorSygWI6Fx0SsZCyNjBe5K2R8Rf8RmRJBiNJxCBWgYCCMMUHFMmIvFFtRWBoK/0v/QSONQdggeQmDJzIaggm3igkTy9RaUywOi+s0zbHUmIhQRM2ZOSJi0FxoI3HwjijBtfA0SCqCLJXFCsPSYDi1HZiit36f8hhSjl/XegjhjOCOehJ40LEERGGllPeAvdQRVjKWRgZsBtv1qBtj+vFkydan4bxPR6BOK0ctd4QzqkqWsFSFwBwHKdc/G8tj4vU4Qx5hRvf399v/AsXtH3eeQR8=",
+      "product_id": "213365",
+      "product_name": "Umalufregler_FRU",
+      "document_type": "Datenblatt",
+      "product_category": "Umalufregler"
+    }
+  }
+]

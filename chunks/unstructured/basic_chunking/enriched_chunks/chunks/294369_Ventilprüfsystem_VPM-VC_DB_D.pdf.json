@@ -1,0 +1,376 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "2837a7a0647d8830aa9ba7f5f077d25d",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_VPM-VC. Produkt ID: 294369. Der Dokumentyp is Datenblatt. Steuergerät für System- Dichtheitsprüfungen\n\nTyp VPM-VC 24 VDC (Valve Check)\n\n8.23\n\nDUNGS® Combustion Controls\n\n—— oS\n\n9 6 3 4 9 2 . r N • 9 0 . 3 2 0 2 n o i t i d E • y n a m r e G n i d e t n i r P\n\n&\n\nBeschreibung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/294369_Ventilprüfsystem_VPM-VC_DB_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.727371",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "294369_Ventilprüfsystem_VPM-VC_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztl0tv2zgQgP8KocNiF9jYfImi9ti4KPawQYAkvrSFQJFDW1vrAZIq1hvkv3foJKhRpEVzrOGDpNFwZjgz+kBS7+8L2EEPQ2o6V/xFCgplVbGWV2AEtLqsJJOUliUDTl2refEnKXpIxplk0P6+yEITxzlYeH6HxgbAxyEgqyQGqGpBFzQ7H8b70XW++4HBFEYLMX61YLVUtVhUvBIVy2YThL6LsRuH2Dwl8/6+wMA5DSE4lQ8f0SyAHYNrdqM1aQyHDCeTtjns8i5CiMvQWWuCQ8eYgkldXF7v7daE/jqM/4JNcenmYRObabRLN9o5NytejAMseS2Fqps1KrrdFOYPMxVU+7iPCfpmff3PxfqyWb1pVovJ+eLhAdPx3Q4G0+cci9e5Pzmn/XRwNtO067AmrH/5NLwzw2Y2G4i5FQUMmyI3YEJNM8x9C7l6lpNI8F/KMW4SzBA2EHBmCjIRnwVvA7k55HBBVp3dpi10KU7hccxjL2DI0z1nctulHRQY91uUjGe+rR2VTgglS1F634LXjiplwTzmfEbpNFC63U/kcRrCJVmvLsnva7P7DORyC/bTHz/FiyvBQ82MBq0qRbkRtbIVvnmthSvPS88vzstBE16xPhwDphdcHFN0ZULu2Ge4zQYv0IQwaWqYaIVSlVACqrbysm1pWymt8eueafqlaTqGY3V39e4m708GF5yxb+eYw6E4pDDu4jE3f/cY5iVeuNXMVqXOn6fSRlFFGZVaAfUC7+LMy+nw8mHmlMnHOxlvfooPz+pacSFAas5qbhQTNZWmMrXkQgs483E6fNREEUEkqQknCxLIFcmscI4KigqBaorXQEbSkYSXI2+fTfaoNqRHLyDvUM6DgEZZCuT6VXuYdoz6lkrFVWnBe1tqzUvcNR3njLL2zNzpMPfbMRl3A0aDzRi6/8F9jw4P3PJSglXct3iSssZbkFbi4VliOfJMx+nQ8Qai3QboWqzvhZ+pj18AmSqcPg==",
+      "product_id": "294369",
+      "product_name": "Ventilprüfsystem_VPM-VC",
+      "document_type": "Datenblatt",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f934c74360e85a2e636ade253bcca76d",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_VPM-VC. Produkt ID: 294369. Der Dokumentyp is Datenblatt. Das Ventilprüfmodul VPM-VC 24 VDC nach EN 1643 für System-Dichtheits- prüfungen prüft in Verbindung mit ei- nem oder zwei Gasdruckwächtern die Dichtheit der Gasabsperrventile. Der Programmablauf, Füll- / Entlüf- tungsvarianten, und die Programmzei- ten können durch den Anwender anla- genspezifisch angepasst werden.\n\nAnwendung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/294369_Ventilprüfsystem_VPM-VC_DB_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.727371",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "294369_Ventilprüfsystem_VPM-VC_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztU01v2zAM/SuEz038pdr1blvT7bSiwLZcusKgJTrRasuGJDdri/z3UU7SFjsM2HHATpKoR/KRj7x9jqijnoyvtYreQZRIKkVWnaMU6XmWqaaVF4XKkgRLkSeYRGcQ9eRRoUfGP0fhUrthspJOb6qlJT7mgGkpRJKUVZ4sZ+f5vx+UbvUfAKMdJDn3ikgrUVT5sszKvEwDbCTba+f0YFx9JHP7HHHgQCPPs0Ts7xhmSQ5W1d0g0Q92Zjii34aw8TdH1sVWS4lWsaPzFr128c2j3KLtb+zwg6R3sZrMxtXjIGM1yCk0yy0GQ3FWibyo6jUbdDfa6fuU5MlF6x6dp75e33xerC/r1Yd6tRxVG+33TKfVHRnsA8fo79yPzv5xnJ1xHDvNNXH98fG7Q7OZcEMutCIis4lCA0a21GbqGwrVp7PFvurdUiazc0GyyNqmbSqJrSQhRVEWPAZCRIG1p58+gFfo4ESX2SatbLnhUwcHspAJWK8uwaDcwtU1pIXIoT0ALXyZ61qstNz6LWnuIbxE4QaTeX160IYT2Uab0HvotQfSCzDUA+tk4WlHGj6hU3aS97vgxZy3nqwBpQleckAAMw4bx/NiH2butIQVm1nejcW+x6bDqT2Dj4fkXbeAGK6M745kFuCD/g9oNRpP5gwmo+Y0pwhPgRv/wP3sUhjDd8UbseX8Bt6bHZlABE2HC+BKmcwTz79jAGtGIzrnYUeW0cug5Enka7RhIh/oaxCAlfh9W5s8F6lIVd5mSZUKkTdZJquqzCSp5gLF/239t7f17fIdxoiLezshX7XvKNrf/QJYVeC7",
+      "product_id": "294369",
+      "product_name": "Ventilprüfsystem_VPM-VC",
+      "document_type": "Datenblatt",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e478ad2d1af5dc7b6e4820f5d8656837",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_VPM-VC. Produkt ID: 294369. Der Dokumentyp is Datenblatt. Das VPM-VC 24 VDC ist geeignet für die automatische Dichtheitsprüfung zwischen zwei Magnetventilen in Gas- verbrauchseinrichtungen, wahlweise vor Inbetriebnahme oder nach Ab- schaltung der Anlage. Das Prüfsystem kann als Dichtheitskontrolle alleine oder in Verbindung mit geeigneten Steuerungssystemen z.B. SPS-Steue-\n\nrungen oder Feuerungsautomaten verwendet werden. Es findet Einsatz in Gasfeuerungsanlagen und Gasmotoren.\n\nZulassungen\n\nEU-Baumusterprüfbescheinigung nach:\n\n• EU-Gasgeräteverordnung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/294369_Ventilprüfsystem_VPM-VC_DB_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.727371",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "294369_Ventilprüfsystem_VPM-VC_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztVk1v3DYQ/SuEztldSeRKy9zirFv0kGIBJ3toEggjcrjLRqIEkrLrGP7vHWrXsdEWKXwM4os+hjOjN2/ekPp4l2GHPbrYWJ29Zplu1y3muTISJM8RKlnXvASta6NVIavsFct6jKAhAvnfZemhCcPkFT68Y6M80m1OWNRC5HlNyZZ5Cp7X+0FbY7/jMPpBYQiPHoUUleTLuqx5XSS3EX1vQ7CDC80ZzMe7jBInGJyXubj/TG4e1eB10w0K4uBnhCPEY0q7+hDQh5W3SoHXFBiih2jDanerjuD7nR/+RBXDSk/uEJpxUCs9qCmRFRaDw1UpBa9ksyeD7UY/fZpynm9MuA0R+2a/e7fYv222F812OWqT3d8THGM7dNAnjNnzws/B8Xacg2EcO0s1Uf2r83IH7jDBAUOiIkN3yBIBI1kaN/UtpuqL2eIf+91yLgpRaG7KXBZC8LYslZR1qVC3GxBZQh3xr5ictxDYCRcrBdtv3zIbIjsg2oPDyAxVkBvlmbbIYIpDn+hUR2Rbq47xiDaG0Z+cDHHKvt7My44e0LJ3kLJcz3SQzTr2K4QFu0bfepjUMaB1PiWiUHSv2A0cO4oLyK4Hz35zLUZvsXVw7JFROz1zoI7sTbtg9BXoUhxL5jeuI1KWLJWze8Bzop19AecYdOEJ5C+Di37oOqqJLtadkxO+PUGzLsmD9faRCAJ/FXFCn3RzyptqXF4s2dXuajGvLVLHHpr5O/ikvGt8n4gmxv85labkharQqKIuZF0B8Eqsjc7LNa8KoeTLVP7EU+nneTiJ8pcH2Z3Hj+w0PzfoNM3nDXqNbskuAzN2tlxaFyB+Pc+a+RY8D4hjk9PJ3g/UJAp8lmTbQpTrvJCGm3pTGQGq5qLiIl+rNUClXiT7Y0v2qQL/mDoIYZbhU428t7HD/9KGLI1QG1iXyKWRrcmlKQQYDkrW6wLhRRs/tjb+tZ39317wVEyXHxYXMPUTAfTf/hZaTD8K1tlDOmzTuf76WbtR2Qqoq1xwJWlbLeVa6Q3fFIaaXm7MpnhR3E+suE9TmZclI+HRYXfAWXMoItLJSSQ7ouk7Wvv8N8TmRxk=",
+      "product_id": "294369",
+      "product_name": "Ventilprüfsystem_VPM-VC",
+      "document_type": "Datenblatt",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1114895d55b68e5b0264faa07889be13",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_VPM-VC. Produkt ID: 294369. Der Dokumentyp is Datenblatt. • EU-Druckgeräterichtlinie\n\nDas VPM entspricht den Anforderungen:\n\n- Maschinenverordnung (EU) 2023/1230\n\n- Niederspannungsrichtlinie 2014/35/EU\n\nEMV 2014/30/EU\n\nZulassungen in weiteren wichtigen Gasverbrauchsländern: EAC, EURO-Tysk, UL\n\nVPM-VC\n\nSteuergerät für System-Dichtheitsprüfungen nach EN 1643.\n\nÜberprüft die Dichtheit der Gasabsperrventile wahlweise vor dem Start oder nach der Abschaltung.\n\nAusrüstung: Ein oder zwei Gasdruckwächter.\n\nAnlagenspezifisch sind zusätzliche Hilfsventile notwendig.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/294369_Ventilprüfsystem_VPM-VC_DB_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.727371",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "294369_Ventilprüfsystem_VPM-VC_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmU1v4zYQhv8K4VMLxDG/JIq5pRujLbBJg2aTQ3cXBkUOY3VlSiClpEmQ/96h4mwWRbGA0VNhn0xTQ/rl8MHLofzxaQYtbCAMq8bNTsisVqbQoKgqCqF0rWrKmPeCMm2VBVHOjshsA4NxZjAY/zTLjVXqxmjh9TusbAT8mCZkSkpKlRb0mObB0/NN5xrffCegj52FlN4imJalFseKK6FYDushbpqUmi6k1VbMx6cZTpxlCMGpfP6MYRFsF92q7awZujgp7M2wztMurhPEtIiNtSY6HJiGaIYmLS4f7NrEzWXs/gQ7pIUbw21a9Z1duM6OOVlp3gVYcC1FqVc32NG0fRw/jVTQyqeHNMBmdXN5Pr95tzr7aXV23Ds/e35GOb5pIZhN1jjbbfh28PDQT4NN37cNrgnXv9g+bk24Hc0tpJyKGYTbWU5Ajz2rMG5qyKtnU0/8Zr+Z5AXurhdeVaWXxiohSyFpYQtjSjvLqgf4a8jBn0ZOOSfL6/lZHO2XW4iomYIcAJO4HtomNJCVvIq8MDFn9A4+5Alwpn/SJkzFCseslFyD9ZkDo6lUBSukrRUcaNtj2s5MIqiL5Az0E2DEQSCnwWOOIWKaIJzshJu1zBsljRQSObOOe19wXrCSKV6A1Qfc9hi3OTk3ya6bAOEOIuY1YGbID8vrHwm6nlgwLuhOtBWMe0dtWXBZOV5UlBorPJW69qC84gfa9pq2C9w0TFpvQgYtvZ2giBuTC1Esltc78VYb6Sz+kK4kVBwEeLCcM4+1XCXYoXTba96W5zdbruiuXPG6KKliti6NcMyVSlNTW850hVtl4eBj+8zVtyS9b9LwKwr9N4gU1veFdob7uq5xUbpEs8JfEgUABV0cINpjiP4YW5PSVNCTJpB7aPBGie37fCY2ufdnk7Aoq6MZ7Tq1L7fOgMdnOCHL03dHeCX9/bf5h4f05Yhcv9/N3aQEqZlgtSiqUkqvBOrVvARGJa/qA5j/azD5fwLzRdNOPOHNsoLaFMpKLP89A+l9ZaaarBJgDka3zzxdDTBCfHtvRnxueBvJ1SR6fpYdb43+l/r48si/2GIwdk2WF4SVUhzv9o4NnKLM1bRiXntTeOpMpWpHneTGWnsAco+BzIxhHQbxK24DcXgF/cohwUM2n76mTrg/8W5aGpB7s27xmE5A7rqIMRtyNZg4kC6HT6zmxmmdMO/tgNnejVlT1to5joUh5bzirORCV04zpktWGnow0X1m9nRMW1hTJgsrQKwZJ/AeEckMq8v/Tty/eCxyDHE3+qjXrKpVbY0qneAWkDwrKlMaLRkFcaBvn+kLLc4W0A0fcfvQ30hqgiOPY9qe6Y+oaQ3kl6b16dUuQzfcQ3DNd23w898AbFoB",
+      "product_id": "294369",
+      "product_name": "Ventilprüfsystem_VPM-VC",
+      "document_type": "Datenblatt",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fa688546af125c9fbb81f59cd008831b",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_VPM-VC. Produkt ID: 294369. Der Dokumentyp is Datenblatt. Druckwächter/Ventile/Hilfsventile sind nicht Bestandteil des Lieferumfanges!\n\nTechnische Daten / Technical data / Caractérisitiques techniques / Dati Technici\n\nvi\n\nSpannungsversorgung (siehe Typenschild) (DC) 24 V +/- 30 %\n\nEingangsdruck abhängig vom Ventil und Druckwächter\n\n[P] \n\nLeistungsaufnahme max. 10 W\n\n+60 -20\n\nBetrieb, Umgebung -30 °C / +60 °C\n\nLagerung -30 °C / +60 °C\n\nTransport -20 °C / +60 °C\n\nL1\n\nIntegriert, tauschbar 6,3 A T (10 A F)\n\nm3\n\nPrüfvolumen unbegrenzt\n\nIEC 60529 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/294369_Ventilprüfsystem_VPM-VC_DB_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.727371",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "294369_Ventilprüfsystem_VPM-VC_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztmN9v3DYMx/8V7YABLZrkJOv33tqkwwqkQ4Cl2UNXHCSKuvN2tm+yL2tX9H8ffUnRbiuGHNCXGX6yLZM2SX/wFenX7xe4xQbbYVWnxXdsgcEnI10VQ3KQQUprLWYvjETMPOjFCVs0OIQUhkD27xfjyarv9gXw4zWuoCAdDg8UVinOrZf8jI/Oh/tNl+pc/4fBrnSAff/JQnhlvDyzlZVWjGY7LE3d93XX9qv7YF6/X9CDxzCkrLj68IbMCkJX0mrbQRi6cohwF4bN+Njlqx5Lvyw1QCiJHPuhhKHul1fvYBNKc1W6XxGGfpn27bpf7TpYpg72Y7H6067FZeWVNH51Qwv1dlf2v+y55C737/oBm9XN1cvTm/PVxbPVxdku5cWHDxROrrfYhmaMcXGc+73z8G53cA673bamnCj/5f3tbWjX+7DGfizFAtv1YizAjlZW7b6JOGZfHVbKp+8dhao0Fz7LbJ3JKoCVykjFNegQDCzGqAd8O4zGF2UPv/1BcXJUsBmwLO+Cx+UP9Tb3t3cXrK/bxNqaLNgzKmpo04D1llGB2WWNGcu+yRQr9t+MYX/M6MdQxvLf4vX4NnrtP9H0FTeBC5NzBOVl4sl7UyEoMAII1hnN/zean5N2jbBp6x42yC6o6C1bsrslCAQS1ZQWzkMJMBxo9KXu66H+fU+IDQe7w+lydK4/etaf03ZdD1v8EmUqcGlQ6oiQUhbRJONsjkYYUVmMZqZsOpTd/g2JFw1ZfgkJYaL0QlkXOXCnAJQGq1ziFW2VMsCMxHSQ+GkX2nbM7Zbq0JU1nbJHfY0kRNf0mpYkqd6mx+zRxfljVil2w54sT5nk7Nvj9rIkgvYgUYDNUBnrtVE4fnQduBVyRmo6SD1IY9DJ7HSkXkaC98JTQ4bGKaJBcWNgBmJCQDyv2zX59Glsp1mIm7uOul3Xa3bbNewuMranLvpfHfdRKoOESwCnIaBVAqusJSaDyXLleEScoZoOVK+v3rCHKY33ymbvfUzZCRt4zpWlnjdnWYkQwgzFdKC4xLofxtzCPrdh0yBrwtszJjj7+SghiV46jRycA17l5CoudXKIVcjGZz/vThNi5onh7LTiR/HhjOcoUgSkfcqBUgY1UCuTVIiGDjMf0+HjGQ6lxnjCXjVrjON8dErjz9iiRH7Olmzk5/7qOIaUFVEarbTLOvnKeYtSxZCDs7GS1czQdBi6pFvl66GjudM5pjDuTir4ADkDeBQ0TxmJeZafCaFzXULb77oyjJvUV2AnSpAcfJJSeY9GeucwaZek157UR8zsTIedS/GgCcmaHAXXmmersyZdkUKp4LRVldc0NM1ITAeJF+2Aa+pnynDChrDvYRNDYeZEsqfsmj2iSekp+/7xUYpiqRMWNB5ZQ0O1o2/laWSqaE7iWedqHrCnhE8jH6QoQMUHkMILFw0piJYReYikMRaUyfOPuAkhcVXGNiRDvu22Y1ps30aSGGz/HI6SEQhWai5z4txJmYNWxoZcUUvLpcB5HpoSMy+enzPDdeW/9Av3zV8sf/Y8",
+      "product_id": "294369",
+      "product_name": "Ventilprüfsystem_VPM-VC",
+      "document_type": "Datenblatt",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "8c345556fded1d437ea67c8afdd32959",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_VPM-VC. Produkt ID: 294369. Der Dokumentyp is Datenblatt. Schutzart nach IEC 60529 IP 54\n\n°C  +70  0  -15 \n\nLuftfeuchte DIN 60730-1 Betauung nicht zulässig\n\nGeeignet zum Einsatz bis 4000 m\n\nüber Normalhöhennull\n\n2 … 4\n\nLED Display für die Anzeige\n\n• des Systemstatus\n\n• eventueller Undichtigkeiten\n\n• von Systemfehlern\n\nRESET Taster\n\nDie Einstellung des Programmab- laufsund der Prüfzeiten erfolgt durch ein- fache Konfiguration über DIP-Schalter.\n\n• Prüfung beim Systemstart oder Systemstop\n\n• Einstellung der Prüfzeit\n\n• Einstellung der Füll- und Entleerversuche",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/294369_Ventilprüfsystem_VPM-VC_DB_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.727371",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "294369_Ventilprüfsystem_VPM-VC_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztmVlvGzcQx78KoddWFu+jb03kFkZbw4idvCSBwGMobbuHwN01agf57p2VncY5kEaPdhcQsBLJIYfkD/+ZWb1+t4AaGmiHTZUWP5GF9CKz5LgSxjgOoHM2llIrOWjqrFz8SBYNDD75weP4d4vpy6bvxhLhw2/YxAL4OEzIjJSUGifoCZ2MD/1Nl6pcfWPAvnQR+v7jCOakduLEcCMMm4btoTRV31dd22/unXn9boETT24Iwal8/xaHFYhdSZu6i37oysHDvR9207Srlz2UflWqGH1JaNgPxQ9Vv7q4iTtfmovS/Qlx6FdpbLf9Zt/FVeriOB1Wv+xaWHEnhXabV9hQ1fsyvhmpoDb3N/0AzebVxR/LV88362eb9ck+5cX79+hOrmpofTP5uDjO/N54uNkfjP1+X1e4J9z/6r679u129Fvop6NYQLtdTAewx5ZNOzYBpt3zyYkB/h6mOS7jbhxufRlI6+OOnJ0+J5oq7sjZBVGHm/6w2rkv09Fcw9VkinN8gQ1nJjlHXaRZsBwkV1pryN6BBirMjM3TwQYXpIE+J+QHQwnBz5Ip8pCWswaNv0ZJgoiywpWknEkVqOTaSMZEjjyBlXmm5OlQ8vuYhwxj3A1A1mfnqCxG0CUjz/B+R9wzaSvsI7djPfEEEk97e5TkBODcSwdAJVXMCQ0hgg8B79tJ7uwM09OB6bvURRjHqEtMRpWTyy4ym4w1XqYQMj5mIJ4OEL8CVNsWJv1oyGnV9n64JaHqCd4HJc1RQkKTzdabxKIDCQaCV8nHQHN2RgeXZm6eDjdTrMkRO8h5Vxpf7w4NegdtO9b1UdgwQG7wkixeo/IJ9xU8TRmcTyZFNsvNE8KGkzcjp1yTT6qiCzQ4vxv/FT5yzMpC5J5ZaVSOIBSVmABHCV6qOdl95HyIT5Ld0zVZV/2+9jck32lMIakC8nN7i4EKHlJzVQ31V/MXBdpjcRQci5QLzF2kzDkmq4MGwJJpBuZxA3NoKUcIxKeBC/WHEzwpcnnwsh/8MPbHJTrZJMmCy57l6JzzGQNWkgpAYHpswgzYDBhco/0IdY0p0ss2TTV6tf0LqgHao1iLMnrFvfUOS7GomDIyZmetS5E6mtjM2szaddfei1mGHQJ3HGFZBhs1Ju+JC+ECSIZqBp5SDt5omAl75IQ9BObF6eXpFbnyuF75rlwKlFOSGYxxFlCFKI/WaaUDaGs1FXNN/8jh+EJ+/ksMHtK0xsR8emc0YJib3kRPSRWe0rb4pvFhSWo/5n5sE3YU7LjL5/PtIQgSKLmrtwNJiMqOQNUuSfZxB+S3rs3VdiyHzZCPLxrWZxfLS7yJGtk9OUrhDPgUg0qQmQrGWWeScEZJYy3ngc9/qv2fIb6Pof/iOYEcoGo+lgdlIN1E8IeGbn/c/yvKRY8ueK54ZgHLhKyc9IGaRJnJczk60/eZin4mlsdlc8FyUBiokw9JJKatBh6soIJxXMrPtM20fU7bL3ew1fWSTNH6tMVkEMo1Hu6IAfkb+L39B9m+wWQ=",
+      "product_id": "294369",
+      "product_name": "Ventilprüfsystem_VPM-VC",
+      "document_type": "Datenblatt",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "fd3b04d596bfea6e5850aaa8115488dd",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_VPM-VC. Produkt ID: 294369. Der Dokumentyp is Datenblatt. Applikationsbeispiele\n\nDirekte Ventilkontrolle mit LGV,   Entlüftung über Dach  VPM VC  LGV  (NO)  Pp  GW 1  V1  V2 \n\nVentilkontrolle mit Hilfsventilen   V3, LGV  Entlüftung über Dach  VPM VC  V3  LGV  (NO)  Pp  GW 1  V1  V2 \n\nVentilkontrolle mit Hilfsventilen V3, V4 Entlüftung in den Verbrennungsraum\n\nVPM VC  V3  V4  V2  Pp  GW 1  V1 \n\n® — @ @\n\nDirekte Ventilkontrolle mit Hilfs-  ventil  V4,  Entlüftung  in  den   Verbrennungsraum  VPM VC  V4  Pp  GW 1  V1  V2 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/294369_Ventilprüfsystem_VPM-VC_DB_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.727371",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "294369_Ventilprüfsystem_VPM-VC_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztlktv1DAQx7+KlRNIbdeJHTvmVGhRQeLRAyyHUkV+jFvTvGR7EVXV746dtqLQqlokTsseojieR8ajn/7jk6sCOuhhiK0zxQtUVFxTWxIDjHHg0lKhqgYa1lSqUqQWxQ4qeojSyCiT/1WRF20YV17D3Te02kN6zQlLTinGXBC8h3PwbO9H46x7wmHyo4YQfnmUgjJB9njFCS+z2wS+dyG4cQjtbTEnV0VKnMsgpML0+jS5edCjN203ahlHP1c4yXie0y4+B/Bh4Z3W0psUGKKX0YXF8aU+l74/9uM30DEszGo4C+006oUZ9So3K+yOAywqQQkT7TJtuG7yq68rTHBjw2WI0LfL4/e7y4P28FV7uDcZW1xfp3Ks62CQPcyt/qvw2+B4Oc3Bcpo6l86Uzr+4NXdyOFvJMwi5FQUMZ0VuwJR22mHVK8inJ7mICD9izvEy57iYcwQFLkwusZAz3f3kk4tpI4X8SYnlmMjaNKAZkWVtuLYEg1RCWVkJTLaUbA4lh87DRQR0U8HFOEQ/dh2g3kX07mi5gxB6PcQu1YWttjF1Ad2sUy50KPU5QqlKtDxA2R2hZx8+PkfoeELo6AsqkzE/FbrP3ds+lfMYdxqno+vSEG6UYUIDYMUJqRvCKVcMttxtDneP8fbGdTZ8nw0wJPCWZOcGqnUJXJJ/QGGlQTLBlbBSKtUoW5dc1jUzWtRcl3xL4f9EYWZwSR8Q6AZkshW88jAMuT1ervq1xqvBtpRQWW5Zo5SgJU9SZ7jUDLAU9VbmNgmwe8qUMMoi9LssrSVJNkkPE0KUVBFmFeCmajQzNbNAGyB0S8zmEJNVRkIacRUuKdpH+2sRgrVUTDRUSKETIMAo0zUvla5YKaSqtoRsDiFPXdnn4bWL0M38ypqz8/D6lKfXPL7QgwF27y5F17tAnf4EgdEwVg==",
+      "product_id": "294369",
+      "product_name": "Ventilprüfsystem_VPM-VC",
+      "document_type": "Datenblatt",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b7979cabe9d7b5fa3d572694c8899ac0",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_VPM-VC. Produkt ID: 294369. Der Dokumentyp is Datenblatt. Direkte Ventilkontrolle  VPM VC  Pp  GW 1  V1  V2 \n\nWeitere Konfigurationsmöglichkeiten und Anschlusspläne siehe EU Konformitätser- klärung-Gebrauchsanleitung # 293 538.\n\nSteuergerät für System-Dichtheits- prüfungen\n\nTyp VPM-VC 24 VDC (Valve Check)\n\nDUNGS” Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/294369_Ventilprüfsystem_VPM-VC_DB_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.727371",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "294369_Ventilprüfsystem_VPM-VC_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztltFq2zAUhl9FeDcbLIktyZa9uy0Z3RgrgbbpRVuMLB0lXmzLSHJZKH33SU7KslEGvezIhZF9dM6vX8cfQjcPETTQQufKWkYfUMTSjOA0riBhoiCMZjyTMi9UyjHOII2j9yhqwXHJHff5D1F4Ka0ejICnbyiFAT+MggmjNI5ZQeLpWDzOt1rWqv5HQm+0AGt/ZyQFzQoyZZgRloS0HkxbW1vrzpYHMzcPkRcONgjBMX2882kGhDaybLTgTpvRYc/dJsjOriwYOzO1ENxIX2id4a62s+VObLhpl0b/AOHsTA7d2pa9FjOpxRCaZSe6gxkuKMmKcuUDddOb4XaISZwru7MO2nK1/D5ZzcvFp3Ix7aWKHh+9HVU30PE2eIxeVn4odrt+LOZ939R+T37/s8N0w7v1wNdgQysi6NZRaEDvI2U3tBWE3ZNgwsFPFzQWtYGtA7R3sNWdM7ppACG/NlrNEVr2CJ1do8RHwoNRWObJwdfWK0de72+EVC4qldIKaEIVgKxympM8TUjGcaGq5ITQ/4PQNdQODKBvulP1ejCjmm29j1hlay+/2YaMDg2dRB87KzbNYG3fhASgHSBbwwbQ56tRQfv/4fZTzjd2graHROPbNzmDyvBBbCzvGi/qQ+gNwgVBKcmnx2SecxOM3MNlcPkMoVLGSmUUJzRPFBGAFauSivOc0SJXcXEi9FUTSo8JvXAwgFmDOXCF1AinMOhi9DBZeEjdxgNlJ6g3+0nlmwHdMVNfgEsv/gxMDGNcZJXgRPjTrcKJKgoZcw8lsFji03H3ymEaI+YFh8cxfZe7Hu19IUzRajFHb1e8uQc034DYvnvRqaUKYEowkQHBmNI0B5WnsUiYHwRj5ATa6wbtj6vZ1fnZxe2A40SiuW6rwQY5/zre0ewz97C7X25Wwt0=",
+      "product_id": "294369",
+      "product_name": "Ventilprüfsystem_VPM-VC",
+      "document_type": "Datenblatt",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "604c1687d5a0b5a4680285b30c69a55e",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_VPM-VC. Produkt ID: 294369. Der Dokumentyp is Datenblatt. Ausführung Komplettgerät Beschreibung Bestell-Nr. VPM-VC 24 VDC 292 110 Sockel 1 Stück 259 694",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Ausfithrung</td><td>Beschreibung</td><td>Bestell-Nr.</td></tr><tr><td>Komplettgerat</td><td>VPM-VC 24 VDC</td><td>292 110</td></tr><tr><td>Sockel</td><td>1 Stiick &lt;</td><td>259 694</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "294369_Ventilprüfsystem_VPM-VC_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/294369_Ventilprüfsystem_VPM-VC_DB_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.727371",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVUcGO2yAU/BXEoacmYOPG6zaK1N3cqlaRtpvLdoUIPMd0sbEAS41W+feC7eymPVTqCd4wbzQzPL5gMNBCF7hW+CPCgtUV1HRVMMEEFTfVYcVEVWd1mUGZU4bfI9xCEEoEEfkvOF24t4OTcJmBSwfxGAWzsigoLStGlzQtj++tVbrW/yD0zkrw/o2RVcWqYssyL1mZJVoPrtXea9t5Ppt5fMFRONlgLKfF+SnSHEjrFDdWimDd6LAXoUmy5MGD88RpKYVTcdEHJ4L2ZHeSjXDtztmfIIMnauiOnvdWEmXlkMryC9sByauCrSq+j4A2vRt+DJTRm9qffICW73dfF/s7vr3l22Wvanw+Rzu1NtCJNnnE/7c+L4dTPy6Lvjc6Zor5yfxsRHccxBF8qgJDd8SpgD4ivBvaA6T0RUQC/ApceN6E1iSpdRAHA5t1aECoeLh03XwefK1D42L2NYlzwm7By8aBPvwFBjBm8c0tJ4wkBXJRO1h1mkXV5ott+5ghHCE2HTlqRKeoKC/Qfnv3iuZVjrKMTvOoOYvcW/kM5pWXofugtXxG70z49Lb9oUKrqrjaJrMVMsXF57mKVEEKG+untRwDoyufCYYioOvs6Coz+sM9ml2jySRK5ibhaHD2lP7q8o3fkxd8fvoN3U0hdg==",
+      "product_id": "294369",
+      "product_name": "Ventilprüfsystem_VPM-VC",
+      "document_type": "Datenblatt",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1ebe23b5cba77bc3ab6d275bbb8251c3",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_VPM-VC. Produkt ID: 294369. Der Dokumentyp is Datenblatt. Abmessungen\n\n5  ,  1  5  1  ø für M16  ø für PG 9  77  ø für M16  152,5 \n\nMontage\n\n5  ,  8  3  5  ,  4     ø  Hutschienenmontage  Tragschiene 35 mm  100  Befestigungsbohrungen ø 4,5 \n\nSchraube ø 4",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/294369_Ventilprüfsystem_VPM-VC_DB_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.727371",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "294369_Ventilprüfsystem_VPM-VC_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztlU1v3CAQhv8K8jlZg8EGemsaqe1hq5Wa5pJGFoZh15W/BLhqFO1/Lzi7baS0VXpdrQ8YD++MZ8aPxnePGXTQwxDq1mRvUMZLjKlhopAWV6JRFdVckoJJogWTlc0uUNZDUEYFFfWPWdrUfpydhuMz1NpBvC0BCWcMYy4pXuHkvJz3o2lt+w/B5EYN3v9WEMkqSVe84JSTJJvA9a337Tj4+pDM3WMWA6c0KC0w299HmQM9OlN3o1ZhdEuGkwq7FDb/4sH53LVaK2eiow9Ohdbnmwe9U67fuPEb6OBzMw9bX0+jzs2o59QsfzkOkBeS0UrWt9HQdpObv86YYmH9gw/Q17eb9eXtu/r6qr5eTcZm+31Mx7YdDKpPOWb/535wDg/T4qymqWtjTbH+/HDcqWE7qy341IoMhm2WGjBFSz3MfQOpepaSCPAjpBhvmz72OBYHQ/I/hr5pQwdZFL5gw2pOGSuwVJzEz6EragkTshIgbWPxmY3TYaNE6AIhglC5rPH92Apkl7t2aE2ql8bNeyQR4vwvclIWFyV6TtrHPibwJ9IaXVYNUVJoTBsguJAYG8sMJoIYXsGZtNMhbT0OIWHwmglENKiqMYXUChhWRCgwlAvMIiY6rmcuToeLpwkkEKLLEIp7htJ1mC3owxy83rUwwNA/IYTQjVPbgxHREvV9nDoYI3QFNvav3aZWNePOLf+8YyT22qkEHHgjq6bkIFipiKoEiWOqLBkBzqQ603c69H3WO6fmBn5B8pyQT8qlbnyHm6Te3/8EZJiI9A==",
+      "product_id": "294369",
+      "product_name": "Ventilprüfsystem_VPM-VC",
+      "document_type": "Datenblatt",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "46508bb1e9c8c12c97f541fe82b29b27",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_VPM-VC. Produkt ID: 294369. Der Dokumentyp is Datenblatt. Zubehör Beispiel Gasdruckwächter von Betriebsdruck abhängig, siehe Datenblätter LGW...A4 (5.08) GW...A6 (5.01) / GW...A5 (5.02) Flanschmontage GW...A4 HP (5.04) Hilfs-Magnetventile siehe Datenblätter DMV... (7.30, 7.37, 7.38), MV 502 (6.21) MVD... (6.20) MPA VisionBox Als Ergänzung MPA - Parametrier- und Servicekoffer zur Einstellung der VPM-Para- meter über PC-/Laptop.",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Zubehor Beispiel</td></tr><tr><td/><td>Gasdruckwéchter von Betriebsdruck abhéngig, siehe Datenblatter LGW...A4 (5.08) GW...A6 (5.01) / GW...A5 (5.02) Flanschmontage GW...A4 HP (5.04)</td></tr><tr><td>e</td><td>Hilfs-Magnetventile siehe Datenblétter DMV... (7.30, 7.37, 7.38), MV 502 (6.21) MVD... (6.20)</td></tr><tr><td>=</td><td>MPA VisionBox Als Ergédnzung MPA - Parametrier- und Servicekoffer zur Einstellung der VPM-Para- meter ber PC-/Laptop.</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "294369_Ventilprüfsystem_VPM-VC_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/294369_Ventilprüfsystem_VPM-VC_DB_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.727371",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1VO9v2jAQ/VesfCoSJCEJAaYWqS1d+2FISNuYtLaKjH0hXhM7sp2utOJ/3zlAu27dL237EIc73zs/33vh8sGDEiqQNhPce0W8NOdRzjmL6SjlKcRxf9BncZyOGeQR8L7XJV4FlnJqKdY/eO5HZlSjGexjyJgGfLUN+8MkCcPhOA790IHb/UpxkYufFNRaMTDmqaI/TtJx7A+jYTxsSdSgK2GMUNJkOzKXDx42djTiOAqTzTWWaWBK86xUjFqlW4Y1tYVrG7w3oE2gBWNUcwQaq6kVJpivWUF1NdfqEzBrAt7IlclqxQKuWOOGZXpKQhCNExxMtsCEKGvdXDVhHI5yszYWqmwxn/UWp9n0JJv6Nc+9zQbp5KIESSvH0fsz+A5s13ULpnVdCrwT3j/YbZdUrhq6AuNG4YFceW4ANWYy2VRLcLdPMGPhzmbUZIWtStfq0NJlCZNDu1R8jS+NDydMlaam8ujKi668ycdmCYXS5ASEqQWUh4HlE1z0vn6yzeBzTg3XDbv5jPcJYcwKC5rcKolYqwUst7uELottgVyJVZcYAQWQKWovlyW1DvPm/IPv+8cJORj44ahDtmHahv0OCXaJQZuIOuQ1DsCwolLS4p3JHn0xbwuSzvec4ZH0hShz05vRlQR72woCzyltuba8prMFdiYHQz8OuwTXYbuOOl0yW5BBGJGD1I+Q4WwxbQsxCl84/ejx9Nn8mCyE8/KJuiPHpSFnerU9kct7dB9xFT0ypxq946aoe6SRnLwFfSsY3Kg8R2L3jSZnQqJ9ytKBOOacjRysRxCIMdqAzE97wRtaW1X7X7EKdvoHWzt4m51VnEVa+R2hPH3yAHmudPIrpZMXlN5u/Be5ye9pmvyFpuTHwiX/WLd2+Owb9dxXv/9DeOdU8zbXXwCaLNNP",
+      "product_id": "294369",
+      "product_name": "Ventilprüfsystem_VPM-VC",
+      "document_type": "Datenblatt",
+      "product_category": "Ventilprüfsystem"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1a6bf2722abfc82d5906c421d126d12c",
+    "text": "Dieser Text ist für Produt: Ventilprüfsystem_VPM-VC. Produkt ID: 294369. Der Dokumentyp is Datenblatt. Änderungen, die dem technischen Fortschritt dienen, vorbehalten.\n\nHausadresse\n\nKarl Dungs GmbH & Co. KG\n\nKarl-Dungs-Platz 1\n\nD-73660 Urbach, Germany\n\nTelefon +49 7181-804-0\n\nTelefax +49 7181-804-166\n\nBriefadresse\n\nKarl Dungs GmbH & Co. KG\n\nPostfach 12 29\n\nD-73602 Schorndorf, Germany\n\ne-mail info@dungs.com\n\nInternet www.dungs.com\n\n4 … 4",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/294369_Ventilprüfsystem_VPM-VC_DB_D.pdf"
+        },
+        "date_created": "1744007930.0",
+        "date_modified": "1744007930.0",
+        "date_processed": "1744194693.727371",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "294369_Ventilprüfsystem_VPM-VC_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztmUuP2zYQgP8K4UMvXdt8iY+eimTRTRE0MNBkL0kgDIfDtQpLMig5m+1i/3spd4M+DgW86EnQSXzMkDPDDySH+vi4ogO11I11E1c/sBUnIq01WiGddRxACxFAJQ/ouTBpdcVWLY0QYYQi/7iaCvXQnzLStzrVmKl8zgMKqzXn1iu+4ZPyub/tY5Oa/xA45h5pGP6SEF4brzZWWmXFJHak3DbD0PTdUD8b8/FxVQaezFBKcv30uYhlwj7H+tAjjH0+W3iEcT8Nu/0wUB62uUGEHIviMGYYm2G7e8A95HaX+98Ix2EbT93dUB973MYeT1OwhnXf0VZ6rYyvb0tDczjm06cTV9yl4WEYqa1vd7+sb1/X16/q680xptXTUzEnNQfqoJ1sXF2m/qw8PhzPynA8HpriU/F/+9x9gO7uBHc0TKFYUXe3mgJwLC11d2oDTd7ryYiRvo7TGGVCjrqLlIuD1F2x2BCL1LKRcN81A+6pYz/1eSyl3Izj1N9Ncl/6HGgPh5G6zTTzN6PeQZ4i+IXeTzOUqf5NF0qtgvBGVpUWaBLJmEz0Ltpkkkqw0DUfut7AaYCYpzhfxAgXZcFiRKtcshAkJ6cqzSUGx7HUF0bmw8hbyAd2PTnHbtrwhn3HXvcb9vbmImA0WU8qObA8EoSQymFlKhcjgAehcAFmXsCsz8CsdwcYf2fiMlS81ASWpAft0EuAQBQdl6VRhKgXVOaDyvXaKmM4+5AD4P6K3ZSQQvdwES/ROYM8BoPJCgqV9hU33BgXiCut7MLLfHh5X5Y+9R37XntmhRNrx/WaX3a9NUlaAV4QusTBucpjaSFtkWQQZsFlZrjA13/iIoy5bH8JHjhoWwGmcg65mBJUQhqTdMQU+ALMfIB5lZsCzAsSIgiGe2MgWS/RKAnSBO4hhpISWVvFBZL5QPK/JETkXOARJA+mnEU2hiAjGIuV4kJ4txxDMwJm1w9jKvdbJiST/rKHlrKHVEpra0qunBTXsSCCYEhXPFZcLZjMB5NzMsQl+xX3fe5in9PLEiKRvFMaY6DK+ORcQtRSVcqpGLSUy++BGTFD6xaaA2u61P949nGDfXsRLV5E6VIVOAklK0QPCoEbCdFLT3Z5mZsRLT93I+WORnZ/f795GS5BWV+5KMiVa24QhZqAKCkYK0yKXiy4zAcXzT6dJJeG6b8jsisK7/6Uf/r8ByRBwTs=",
+      "product_id": "294369",
+      "product_name": "Ventilprüfsystem_VPM-VC",
+      "document_type": "Datenblatt",
+      "product_category": "Ventilprüfsystem"
+    }
+  }
+]

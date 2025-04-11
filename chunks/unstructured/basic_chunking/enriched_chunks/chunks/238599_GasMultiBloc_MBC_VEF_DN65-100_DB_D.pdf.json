@@ -1,0 +1,1461 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "52c1a001a41a7203f1f24b80a56ca59f",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Doppelmagnetventil Regel- und Sicherheits- kombination Stufenlos gleitende Betriebsweise\n\nMBC-...-VEF DN 65 - DN 100\n\n7.36\n\nDUNGS Combustion Controls\n\nL1 | {\n\n9 9 5 8 3 2 . r N • 5 1 . 5 0 n o i t i d E • y n a m r e G n i d e t n i r P\n\n@\n\nTechnik\n\nDas DUNGS Mehrfachstellgerät MBC-...-VEF ist die Integration von 2 Ventilen und 1 Gas-Luft- Verbundregler in einer Kompaktarmatur:\n\n- Magnetventile bis 500 mbar (50 kPa) nach DIN EN 161 Klasse A Gruppe 2",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmEtv3DYQgP/KQKcW6O5SfEnKqfWjhpF4YdR2Lkkg8DHaZa2VBEpy67r+7x1tbHQTpGl8tLMHQdQMhxwOP3A0fHeXYI0bbIYy+OQVJHnqM/S5FcIYz3KbC44pM4ZL7rVRNvkJkg0OxpvBUP+7ZGqUfTtGh4/fWLqI9NoOmGZSMpYVXM/ZZLzVb1ofqvCVDl1sHfb9vz3SQupCzDPFuEinbh3GTej70DZ9+eDMu7uEBp7cEIIzef+BukV0bfRl3ToztHHrYWeG9TTs4qrH2C9icM5ET4b9EM0Q+sX5rVubuDmP7e/ohn7hx2bVl13rFr514xSsftY2uOAiV0VRnpj+bKyHcECTlGcHh+Xb41/Lo6VWs5Sx8uigPJp3vkru78mdKtTYmM3kY/I08wfj4bbbGpuuqwOtida/eFDXplmNZoX9FIoEm1UyBaAjSdmMG4vT6tPJiQH/HKYxjtquw3pjVg0ON7SqUMNvuMJ6BmPj4SK4NcY1BlotXLcbG5rtdHAxjBU2ddvDqiYtNh7hAIcY0PZ/YOhxcubRz8sw1JjQrJ+DlsqKFb4QaJjSyHPOJUt1JbkRXBV5tQfteYO2lcQnHCy7ZJJ3s/l8PiMP4WgJWsFsepOfu2wtTZzieIOXk9kXGPPMGymcExNQMncFbT/XIrNcWGOY3zP2HTOWzYV+Ek3MKMfROF8pk/HcOu0KRVx5pwqKerqn6XnT9ElqvFqeXMAhZb2x3ya9w7YZYlv3u8ScUur8Ym4rMNWpzqRV1htbGSKGCcuZoO1yld+fOy+IlDcp/E3x+BYsBBfc2xytLGyaaaPRMZkVrrA2t1rKPRYvB4sCClCQgwAOc4iwhPcjZ5yTMCWBAgYNtBBgoMfD8aP6lsQGNmSBcELtSYnUaWpFOH9SwipkxXWmvGNoK5Xr1AjMVGqUVlZbzve8vRzeft4l46qh0XDVxvAX+v+ig1tXZSpPmbbIUiFzIbmrJBVg3hi5L8BeEh2X6NZNuP6mwjw3qZZMVdxmAqlQ4lmlPRVLzmdOab3n4plz8XnR9L/nwCf/xaaHj//GZ7iOlXHrfsC6XmF8PzKGcoDd0j30A/iAcNrQaRQ/3h7d0MPh7fa6CZvtTVMKFIHZm7EaZqSIlmQRVzVGCA1gaKjxut105nqgPTHDGF89KQ0arpWWmfa0rEJ6aXJGFVtRCWGRFGwP9HcM9AzOdu4/EWzoQTEGG2si/KAYXJ+bH6Eh0OHodAnHS6DSDl7XhnYSfoGTOHYdAv8KkB/+AR4OSsw=",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "282f755465d91f9a50dd64b2596484cd",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. - Feinfühlige Einstellung des Verhältnisses von Gas- und Luftdruck\n\n- Servo-Druckregelteil nach DIN EN 88 Klasse A Gruppe 2; EN 12067-1\n\n- Interne Impulsleitungen für optimale Aus- gangsdruckstabilität, optional extern\n\n- Flanschverbindung nach ISO 7005\n\nEinfache Montage\n\nDas Baukastensystem ermöglicht indi- viduelle Lösungen mit Ventilprüfsystem, Druckwächter mini/maxi, Druckbegrenzer. Trotz der kompakten Bauweise werden hohe Durchflußwerte bei geringem Druckgefälle erreicht.\n\nAnwendung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztV0tv2zgQ/iuEznFMUg9Ku6emTopgm2yBZnvpFgIfI5mNRAkklTQN8t93aLtosYcFfFzEF1vSPPjNzMcZ8vNzBgOM4GJrTfYbyTrdMKVKoyooKFeUFUI2SgOvasUYr7Mzko0QpZFRov5zlh7aMC1ew493aLUH/Ns5ZKIoKBUNr85pMt7Jx8nYzv6HwuwnDSH81GBNUTX5uSgpz1lSm8GPNgQ7udAewHx+ztBxgpHnnBYvX1DNg568aYdJyzj5HcJZxm1yu/4rgA9rb7WW3qBhiF5GG9YfnvRW+vGDn76CjmFtFteHdp702kx6SckKq8nBmud12TTtOxluliHaC1ykvbl42366vGo3t1W5YpS2m4t2cz6bLnt5QTidHcDJMWHMjjM/GMeneWcs53mwGBPGvz6IB+n6RfYQUioycH2WEjDjl9Yto4IUPdt98T/rzZXuRFkzWimgLC/qvOC6KwqOFZZFjbDRIsK3mJRX5Aqs6/5eKO30drA9kEvrQoRhwBQRzCD5BH6b5FAM0WF98NPD5AgGuSKLM+T90kXjF32fEP8I5lb6lPkHuEsL4Yr/ZqXpugppKWpllDaFypuaa5lDx01ZlIydWPmqWfkR/MO02iRaeehhiGAH4qTeks31Lbm8JXVN/hgkVo68Ie/8Ms9A+O9JwDitxIodRUYqKYNaS8M4Y4oV3ACVhdFCaKp1Lk9kfNVkvHYRvANyPc7LEAawEXMDjhzapifTHO0oB+Tigk2xR0hh1xFDlMoONu7bZzzbKU5ODgR9o8ujSCqxO2qBUBXkFAyObl2WXGE6FRJVwomkr5qkV7hI0NsH8Mq6lJd9u7z++CcRlJZHUa3TikoQRiKtGkE7AVhlxTthjEhITlR7xVTD82GHzAJyM7mIfo9iluqoLg0XqqpKIZqS17zUVOaKV5qZ0pyY9YqZtZGBXMjlXuL9w4Un/B0JlmE3Zase8Wwjwd5mV+TBmgWvKEDe74VhP5BHG/G64qIdZr+fzd3ezRnZHSUf94MY/YBHZWfXo/xmD0IFPQL/Dv6c3PkpfsfLjyf30zjLe4STgD2CxfPmI3iD79sJt8AGebnthiX5NR1KIhAFlvTgLSIa95576A4XKEQM3kOK5PyofcOFrismBNLT4CPDIChrZFlClacEn/bN/3vf/LoN3rhH2E3wXxlyZ+MA2cuXfwANOqVL",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "da6f12ce4e8a16a6300c0e3cef5f964d",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Der Gas-Luft-Verbundregler ermöglicht die optimale Gemischbildung bei Gebläsebren- nern und Vormischbrennern; dies gilt für die modulierende und die zweistufig gleitende Betriebsweise.\n\nGeeignet für Gase der Gasfamilien 1,2,3 und sonstige neutrale gasförmige Medien.\n\nZulassungen\n\nEG-Baumusterprüfbescheinigung nach EG-Gasgeräterichtlinie.\n\nMBC-...-VEF\n\nCE-0085 BO 0236\n\nEG-Baumusterprüfbescheinigung nach EG-Druckgeräterichtlinie:\n\nMBC-...-VEF\n\nCE0036\n\nZulassungen in weiteren wichtigen Gasver- brauchsländern.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmEuP2zYQgP+KoHNs8yWKSm/e3e6lm+aQ7qFpIPAxlNnKkkBK2aaL/e8d2htkEQQp3FtgHwzbw5nRPD5yBL5/LKGHPQxzG1z5uigpka62TjhBOANTeUsrS11TOU6Z4qx8VZR7mLXTs0b9xzL/aNO4RAuf/0NrI+DX0WEtBCF1w+SaZOPD+n50wYfvKExxtJDSFw3aCNnwdV0RxmlWmyDuQ0phHFL7HMz7xxId5zA4Z0Q8fUC1CHaMru1Hq+cxHiKc9LzLbje/JYhpE4O1Ojo0THPUc0ibt5/sTsf92zj+CXZOG7cMXWqn0W7caJdcrLQaB9gwrqqmaW91ulv6OWzxIe3d9qq9v/m5vX4jqxUlpL3ettfryfny6QnD8aGHQe9zjOVp5s/G86fpYKynqQ+YE+a/eV7u9dAtuoOUS1HC0JW5ABNK2mHZG8jZ04Mkfuk3q62StK6xrNh3RUFYQhtdVSC5rytV5qhn+HvOytcQCwx39cvi59U9RLMMLkLXoxi78cdCiJcdhrWbCxegGKc57HUPxS1gq+zOhD6XsjAQUGT6bAAigcF4VsUAcSjQYXE/xqM6irPwp+wsFV3o58IfHmLjwT82e+kDoJqDg2UW/vMAIc2LD12BgYX5sLiFOQYwKa/BOhfrcx3f6Jib/hHe5Rwx2a83hGDegKiZ1FLUDWWyaVRNRYM8ek31ZUOc84a4BQjdAC+4xOChcMd94vU+IJ8DPoS94gdCE3ZnDh0g7QsWF/dGh3rHnYPtw4U7QIqH0xj1UFPVSEtAVk47TxVTRFJwpqmbWlUXRn9sRl8i9/vS65QwORheMvIuzD18iw3OateYCrg2VjBe+do7EIoJMAp5Fhc2fmw2vj6//vMseAnTze1qq5f9kmaIUzyeYTjucPhCGEKXh/Wg7a5APcyqg3gc2aidh3yPOidOU2XqWiB70nNOiVPWEGvBMi+VlBW/0HjONGJ0q/V6vcIIT3tFA4c9BgKNkURxZbU2BqpKOK5AanKB6oyhurpZEaKqYvtrgW2QJ4Gl8YQStdcC3wiRHnwX1LVTkmgj8JxEeC5gnS9YJ8zO67jYv745PV+fxGPlMBSvgFbKC2elgtqyyhIJnhoizYXHM+bx/05P1SjNVOWpZk2jnOCUG/x4XvuGcaYuUJ0xVFc3hJw4NJ11DaGUOqMF94K4iuPhxEljwFvH9IWnM+bpxe1FEYbiIV/Qoq/iIU/EkKWYzEeIq8JEvdhder4kHhzE716KffgXNj3HSg==",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "7b29d93ea10914fb4747766aa58fe2c9",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Funktion Gasfluß\n\n1. Sind die Ventile V1 und V2 ge- schlossen, steht der Raum a bis zum Doppelsitz des Ventils V1 unter Eingangsdruck.\n\n2. Durch eine Bohrung ist der Min.- Druckwächter (Option) mit Raum a verbunden. Überschreitet der Eingangsdruck den am Druckwächter eingestellten Sollwert, so schaltet dieser zum Gasfeuerungsautomaten durch.\n\n3. Nach Freigabe durch den Gas- feuerungsautomaten öffnen die Ventile V1 und V2.\n\nDer Gasfluß durch die Räume a, b und c ist freigegeben.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztlk1v3DgMhv+K4NMukPFY8neP2Un2lGzRj1zawqAlekYbWzIkud02yH8v5UnQtAgK5LhITmPL5OuX0kN6PtwkOOKEJnRaJa9YkjecD1LWrep506tSSqhLCVwWDZZ1ppITlkwYQEEAir9J4kXn7eIk3t9jJx3SzyrI66LIsroVVZrF5PX5ZJUe9G8CZmclev8jgrdF1eZpXWYi5zFsRjdp77U1vrsz8+EmIeFoI89FVtx+ojCH0jrVjVZCsG51OEM4RNnte4/Ob52mGp2iRB8cBO23r7/KA7jptbP/ogx+qxaz991s5VZZucTN8htrcCvypmzb7m/wF8sY9Cm9pLs4/au7OjvvdpdVueFZ1u1Ou106qyG5vSU7gx7RwBQ9Jk9Lv0sOX+c1GeZ51FQT1b+9ezyC2S+wRx+3IkGzT+IGzLTSmWXqMVYvoomA/4Wocb6Y6yjAyMIwLh+XLDsq3b/knQ4jJpTyKyUiVy0MogfAnFcNb2CoWq6qLC+qYoDhhZL/NyXrinvCVHiIFU/ZW20UUxrZFWmQH3bF2UJLV4LtccO8PIyWzs2cMB/wEJhCx97AMjFgvfbsG13t7Dzj6HX4Rk/9nZA/CgUKP9NmT6V45RZ5nT6k9hJcPKHP+C4aeoTeulSiruu+LWQuWgEIvWpUIeuey6wC+ULvM6ZXpGxHB31gqA2yU3twtDNM+yOkF9qkG7aLzH2J8xILeYg0/vHPHG3+ySYd7kn+jK4n6NGkbB2tkuwR+Q51wKPaTwzTimEwPSJOTqjigOMYKOStHccv6AL1jo2dBOMqp5FOeu2cOM1xwejbwxLsBDFNxaKe1ieyURVUQpXQc4Vtw0Ve11xlZaWELHjx0ifPuE/ylF0Ctck58byHHo+ArRBTFRv2CIKR6aEaBhNxfOzj8DQ8SasENfSFanORZzWBk8usEUh3XLQveD5nPHc0DB/+rb3Hk7B7c5yttDsMTli/sifXCT9ElnGPPc3s36D46TtkfjFW",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "5713348b75cc23f77a26028cba908c0d",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Arbeitsweise der Ventil-Reglerkom- bination am Ventil V1\n\nIm Ventil V1 ist ein vordruckausgegli- chener Regler integriert (Druckregel- teil). Der Anker V1 ist nicht mit der Ven- tiltellereinheit verbunden. Beim Öffnen spannt der Anker die Druckfeder vor und gibt die Reglereinheit frei. Schließt der Anker, wirkt die Schließkraft direkt auf die Ventilteller der Reglereinheit. Ventil V1 und V2 werden elektrisch gemeinsam angesteuert.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztVE1v1DAQ/StWTiB1851Nw63LAuLQqoKyl4IixxknwyZOZDstVbX/nXGyKxYOSD0icYrjefPmzeRN7p896KAHZUusvTfMW/M4T+NIRFVVQJHwTOZpnfEqS0Qu18C9C+b1YHnNLSf8s+cOpRkmLeD0DqXQQI+ZMMrTNAzzIl77oUue4/1Qo8S/AEY9CDDmFyIq0nWR+HkWxknkYCPoHo3BQZnyKOb+2SNiJyNJ4jA9fCOYBjHouuwGwe2gZ4Ujt62jDb4Y0CbQKATXNSUaq7lFE9w+iZbr/lYP30FYE9STakw5DiKoBzG5YZnVoCCIk8usKMoP3FxPncUNFSmvN2/L3bv35fZmna2iMCy3m3Lrj7X0DgeSI7EDxXun0XtZ+jHZPo1zMh/HDqkn6j84hjuumok3YNwoPFCN5wYw0k2ppr4C133sRFj4YR3Hla4ArXkENMBq0GxHrWG3+gRNB3o/9CtWoZprMN4fo2w3j/+k4w5tBx6x/mmkqJACMnkZrZM0jNJKJJnMEhlDnuZJldb/jfRvG2m+0S/4cZw77+OZmxgaywAVe6D56kns+WQaciCumGhBkS0XPzJUFhqNoC17tXVADQ10K2YBu9c+2xLkSu2djRdOhaK1rEd78jZBsbPQERnVa8n77AF0NakalM82gD37OoVhvZZSgWJm5EotyQtvjcDmwhLcJelllMsarOwcW3SeqCWdfPZZtB3CTCvPuC7YI+r9knYO2WvuYKiBgnySM2AZ1SJ8pvitkH82SidnF7NH0NQSo4XcW41GtKyh1URlaIvp25I/YaIx+ueLfMO1M+0D3LlvdPj2E52F++4=",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "40602e974c6be8450cf3c11b1237a75b",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Das Ventil V3 sperrt in Geschlossen- stellung den Druckraum unter der Arbeitsmembrane M gegenüber dem Eingangsdruck p1 in Raum a ab. Der Anker von Ventil V1 steuert Ventil V3. Der Druck unter der Arbeitsmembrane M wird durch einen veränderlichen Abströmquerschnitt D bestimmt.\n\nDie Vergleichsmembranen für Bren- nerdruck pBr und Gebläsedruck pL sind über einen Balken miteinander verbunden. Durch Verschieben des Lagerpunktes kann das Verhältnis V eingestellt werden.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztVE1v2zAM/SuCz2vib9e7NUvXS1sUw5ZLVxiURCdabNmj5HZD0f8+yknbYYcCO29AEFsUPx7J93z7GGGHPVrfGB29F1GpVV4WSranaQZlXUhZ6LzKEjytNLQqi96JqEcPGjyw/2MUXho3TKTw+YyNIuTHnDCp8jyOqzotF3EInu/7QZvWvOEw0qDQuVePpM7LOltURZxmSXAbkXrjnBmsa45gbh8jThxgZFka50937EaoBtJNNyjwA80IR/C7kHb5xSG5JRmlgDQHOk/gjVve/FQ7oP6Ghm+ovFvqyW5dMw5qqQc1hWG5k8HiMs1Oi7puLsBdTZ03Ky7SXK0+NJvzj836uixOkjhu1qtmvRh1Gz09MZzWdGihDxijvws/Bvuf4xwM49gZ7on7Xx6vO7DbCbbowigitNsoDGBkS2OnXmLoPp0t9Nu+Ia3yNFGJlDXWGRRtlesCZJGpqi0RooDa4w8fnNfgxIZjTSc2mXC8AvLCWHGBTu26gfdlT4Tz2HU8MaHRijVNak8w9WKyHoltJM5IovGux14SWBRXYotbtF+nOG6VnJ16cW7slvtxOiQQYxLKfAp5QIBciHXIY/f8fz/YF0xJKD4hg3pBeXCdYbwJ4cGQFppZvBNoLCO/RwqIMLccwKPese1MMkVmnGX/netw19Z4L9ZCMnlM3/tFWMTzjq6BAqHu8XOYHw/yT7HVKmtVUqUpnsoyq1VZQRJnUEn+Kaj0f7H9y2IzyDSmbYdMvheqWtEehEJiRUFuFumokRUxwzWLUXYH5vJGDzeXwhm+eVXYgeIr6Pb86I3nMwSeB9ZLToKWdTOLYTOz3KBkR16auOQOaZzs3vNhD5at80eBdoeanbeGz6ECDyd8Crx4YIic8Q1p3P0CxmggiQ==",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "7ba91447b96048a4de5a606424441411",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Die Nullpunktkorrektur N wirkt auf diesen Balken. Die Gegenseite der Vergleichsmembranen muß mit dem Umgebungsdruck pamb oder dem Feu- erraumdruck pF beaufschlagt werden. Der Feuerraumüberdruck wirkt auf den Brennerdruck reduzierend bei Verhältnis V > 1.\n\nÄnderungen aus dem Kräftegleich- gewicht führen zur Veränderung des Abströmquerschnittes D nach dem Ventil V4. Der Druck unter der Ar- beitsmembrane stellt sich neu ein, die Ventiltellereinheit V1 verändert den freien Querschnitt.\n\nArbeitsweise Ventil V2",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztU01v00AQ/Ssjn0my/o45ILWEckCtikRzgcpa746dJfba7EdLqfrfmXVSWnFA6hHBycnOezNv3877fB9hjwNqVysZvYZonTWiSKq2SkSFVVYyXHNWZSKPi/W6xSx6BdGAjkvuOOHvo/CjtqM3Ah//Yy0M0mduGJdZxlhZJcWSBfJcH0apWvUHwGRGgdY+IeIqK6p0WeYsSeMAm9AMylo1alsfxXy+j6hxkJGmCcserglmUIxG1v0ouBvNrHDibhfarq4sGrsySghuJBGtM9wpu7q8EztuhkszfkXh7Ep63dl6GsVKjsIHs+xi1LhK0nVeVfV7bs9979QpDanPT9/W23dn9eaiyBcxY/XmtN4sJ9lGDw8kp1U9aj4EjdHL6Eeyu5tmMp+mXtGd6P6rY7nnuvO8QxusiFB3UTBgopNa+6HBcPtkPjFP713wpMySWMRNQ++d8rwtM5nzJk9F2RbIo6Da4XcXwBuFcOH7fvJ67/ajMbh33sAF3Cqzd8B9C1KhRQ2nvN+jXkJgvMcOtUXlECQa2KLpelRiZwccGsM1wQf/xTMmWxiUI9AAV0OHTbBdGi/2MPGhgTGwQ/EM/QLQGO6HY/kMGqTpVux63jm4RSPn6UQg8AEaJrSCbDhwnkkOeskS/VgyKP0PhXQkqa8KineBjVnvtLKwhTcQL4Plj69xwU1YnRv8FJwiy36PFWd5mTYxb2S1ZhyLspDrmGUNVrJqS9H+j9U/HKuwWyLTtN7kCC0j93be8w/msHWtw0NiFtDhLX0dtIdt3tFI+OHnUB2wxy7Et3DSkPUzsBi+UQooHlo5R5UNaC5285AtiVY9bLNDXDZzArx2c9YMnJhFyID7FVawDvvegSUdoNEDKv0qxP7YKVQpOkrviAXbGG6eS3Nz2lqq0+fjk6aXpYlVBWsEJsjbSshG5oVsGCvSMs1kkrH4f5r+7jQ9D8eJmdfvFpXFX8uaPF+XT8r1GD1c/wTFNtft",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "0c5c0a89b148e702d4c98776a6ffbb6d",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Der Anker des Ventiles V2 ist mit der Ventiltellereinheit verbunden. Beim Öffnen spannt der Anker die Druckfeder vor. Das Ventil V2 öffnet vollständig und\n\nPrinzipschema MBC-...-VEF\n\nV1  V2  a  b  c  p1  pBr  M  V3  V4  D  7  V  N  8  pF  pamb  Gas-Luft-Verbundregelteil  9  pL ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztVMFu2zAM/RXC58WRZceOd1vmdRjQFj1suXSFIUtUotWWDUku1hX591FpihbDMGDHDT3YlqlH8pF64vVDgj0OaENrVPIWknqtyoIXyIXINOeZqEUtK6GyNdO8E1XyBpIBg1AiCMI/JHHR+nF2Ep/+sZUO6XMMmFVFwVhV8zJl0fm4P4zKaPMHwORGid4/I7K6KOs8rVaM51mETegG470ZrW9PZK4fEgocaeQ5Z8XhhmAO5ehU249ShNEdGU4i7GPY5RePzi+dkVI4RY4+OBGMX17dy71ww5Ubv6EMfqlmu/PtNMqlGuUcm+UXo8Ulz9erum4/Cn8x98FsKEl7sXnfbj+ctc1luVpkjLXNpm3SSenkcCA62vRoxRA5Jn/nfnIO99PRWUxTb6gmqn952u6F3c1ihz62IkG7S2IDJrK0dh46jNXzo8U9nzerS9ZJ5Ch0LVWnVqXqGCvzKi8UL1iWRNYBv4cIbtDBO3tLb2oWbCkKMaIFB+MDDCaQ3Z3sAfseHRq7R7Lfoetmq9CmsEEzwNeZMVVqbdGCn4S1j66n4AahcbO81RiNd6NLoRFPCWO66K6P7hR67HsfogULq8wOKE9sx1OnLoWLx3qHn2MVVM6vkuelrrQqq44zkauOa8nyotNFJzBTeYavkv+3Jf9SwVfO2B9m8nKPgwBKvUjTdEHpXyrmswk9/k4pdDdEvaahKHkns1qTYiQXeac6qSXdmVel/D9K2WYQJw0IgA5AAkxkmDYO4II2cnoKgAagohXAJcCats/oEQPhiffifNZhsX0cfA53SCORphfUhDmHl3r7NBCN5HDzEwyFXX0=",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "fd09a7bc76dd448a0e73b24407384215",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Vi Hauptventil 1 a,b,c Druckrdume in V2 Hauptventil 2 DurchfluBrichtung V3 Steuerventil 3 P Eingangsdruck V4 Steuerventil 4 P Brennerdruck, Ausgangsdruck Pam Umgebungsdruck Arbeitsmembrane Drosselstelle 2,8,4,5 VerschluBschraube G 1/8",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Vi</td><td>Hauptventil 1</td><td>a,b,c</td><td>Druckrdume in</td></tr><tr><td>V2</td><td>Hauptventil 2</td><td/><td>DurchfluBrichtung</td></tr><tr><td>V3</td><td>Steuerventil 3</td><td>P</td><td>Eingangsdruck</td></tr><tr><td>V4</td><td>Steuerventil 4</td><td>P</td><td>Brennerdruck, Ausgangsdruck</td></tr><tr><td/><td>Pam</td><td>Umgebungsdruck</td></tr><tr><td/><td>Arbeitsmembrane</td><td/><td/></tr><tr><td/><td>Drosselstelle</td><td>2,8,4,5</td><td>VerschluBschraube G 1/8</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVNlu2zoQ/ZWBntlooxcVaYC67gY0gYG2emkKgZLGNhuKIrjc2yDwv5f0ItdJ4LYPFMnhzJntjL49RCiwQ2kr3kYvIaLTUY5pnbRjxpAWSZojzbHJpuNlgX5FBKIOLWuZZV7/IQqHyvRON3i4Y9Vo9NsWMJ1QmiSTIhtfJMF4+971LV/yMwpK9w0ac9RICzou8ovJKMnyNKgp1B03hvfSVPtgvj1EHjiEkedZQjffvZrGptdtJfqG2V5vI1TMrgNs/NWgNrHmTcN06w2N1cxyEy/umzXT3UL3P7CxJm6dXJlK9U3c9o0LxTIveolxlk9HRVG9Z+baCctn3kl1PXtTlW/fVfOb8ehFmiTVfFbNL1S7jDYbH86SC5SsCzFG/2a+N7b3amvMlBLc5+Tzj/fPgsmVYys0oRQRylUUCqC8pJKuqzFkn3mJxZ+2YqZa204EqEvLaoFXl7bu23u/ab/aq5Jfxn4Lxw/MKfufT5sLSAcpIzVphttcu+ZOt746wOVOGm+R9mjZs2hH6RHIM2m9FG7m+7K2vvLPgOWD9meLDvUe7SheDKe3XK58XUwb4nsCBbr/3ygmX91G2W10VdLngekzwDONUqLe4hJ47cwZN8fsFqwbzl+7FdbuL4xe6xq5NR12tWYSn9bsjO1c936MhLEoxNEyI1NCyWi4l34QmrUvuv9q5mqE95DG0zO43mJ965IEC2ElN8jl1sXQL79SMv6DA3rGwY0TQjl5Z+96rfHOOj08TXz0xXD72CknjPAV8s5BEViQ32DjPavjHcmjzX4AAvHLFE6oDYxATaCBHZm36dEdo6HMTnQzOPA0aLXLA1mhzOGUk6BSOCEhlPRUhYKaaTjDJ1Csq+GULnANj2gBczhpdpj1nAAlMIJD+XfBnjYZShiaSR83E1IC43PmFG7gaatgQmBKoIBHzZlpAuqdX5/CD+vwL/sSWhNtvv8CWL4s9A==",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c765b6f4b0a1644c7e96a06a8a3a0db2",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Verhéltniseinstellung 1,6 VerschluBschraube G 1/4 Nullpunktkorrektur 7,8,9 Impulsleitung p, P,",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>Verhéltniseinstellung</td><td>1,6</td><td>VerschluBschraube G 1/4</td></tr><tr><td/><td>Nullpunktkorrektur</td><td>7,8,9</td><td>Impulsleitung p, P,</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVNlu2zoQ/ZWBntlooxcVaYC67gY0gYG2emkKgZLGNhuKIrjc2yDwv5f0ItdJ4LYPFMnhzJntjL49RCiwQ2kr3kYvIaLTUY5pnbRjxpAWSZojzbHJpuNlgX5FBKIOLWuZZV7/IQqHyvRON3i4Y9Vo9NsWMJ1QmiSTIhtfJMF4+971LV/yMwpK9w0ac9RICzou8ovJKMnyNKgp1B03hvfSVPtgvj1EHjiEkedZQjffvZrGptdtJfqG2V5vI1TMrgNs/NWgNrHmTcN06w2N1cxyEy/umzXT3UL3P7CxJm6dXJlK9U3c9o0LxTIveolxlk9HRVG9Z+baCctn3kl1PXtTlW/fVfOb8ehFmiTVfFbNL1S7jDYbH86SC5SsCzFG/2a+N7b3amvMlBLc5+Tzj/fPgsmVYys0oRQRylUUCqC8pJKuqzFkn3mJxZ+2YqZa204EqEvLaoFXl7bu23u/ab/aq5Jfxn4Lxw/MKfufT5sLSAcpIzVphttcu+ZOt746wOVOGm+R9mjZs2hH6RHIM2m9FG7m+7K2vvLPgOWD9meLDvUe7SheDKe3XK58XUwb4nsCBbr/3ygmX91G2W10VdLngekzwDONUqLe4hJ47cwZN8fsFqwbzl+7FdbuL4xe6xq5NR12tWYSn9bsjO1c936MhLEoxNEyI1NCyWi4l34QmrUvuv9q5mqE95DG0zO43mJ965IEC2ElN8jl1sXQL79SMv6DA3rGwY0TQjl5Z+96rfHOOj08TXz0xXD72CknjPAV8s5BEViQ32DjPavjHcmjzX4AAvHLFE6oDYxATaCBHZm36dEdo6HMTnQzOPA0aLXLA1mhzOGUk6BSOCEhlPRUhYKaaTjDJ1Csq+GULnANj2gBczhpdpj1nAAlMIJD+XfBnjYZShiaSR83E1IC43PmFG7gaatgQmBKoIBHzZlpAuqdX5/CD+vwL/sSWhNtvv8CWL4s9A==",
+      "is_continuation": true,
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "0662eabcf310941ab70a016b74e41cef",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. \" R a = i ] | | i i = k == J [ l\n\nDruckabgriffe, Gasstraßenschema\n\nMBC-...-VEF\n\n8  1  2  3  4  5  9  6  7  10  8  1  2  3  4  11  12  5  9 \n\nunverzögert. Das Ventil V4 wird durch das Ventil V2 betätigt. In Geschlos- senstellung sperrt das Ventil V4 den Raum unter der Arbeitsmembrane M gegenüber dem Brennerdruck ab.\n\nSchließfunktion\n\nBei Unterbrechung der Versorgungs- spannung der Magnetspulen der Hauptventile V1 und V2 werden diese durch die Druckfedern innerhalb <1s geschlossen.\n\n2 … 8\n\n3 … 8",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztl99P5DYQx/+VUZ6PXcfOD6cqD6W016sEQtc7XgBF/jHOpuSX7ITrlfK/d7yAuj2hFh5Bqzzs2p4Zj8cffSe5uE2wwx6HuW5t8h0kUhpWiJQhlyavhGUVk5JXFS9Sx8rKJe8g6XFWVs2K7G+T+KcO4+INPo6xNh7pZxswLbOMkScvViw6b9f70bau/Q+DyY8GQ/jHIq2yohKrMmdcpNFsQt+3IbTjEOqHZC5uEwoc0xCCs+zuisw8mtHbuhuNmke/zXBS8yaGXX8O6MPat8Yob8kxzF7NbViffTUb5fszP/6OZg5ruwxNqKfRrO1olliscDAOuOZC5lVVv1fhZOnm9og2qU+OfqzPf/q5Pj4t8oOUsfr4qD5eTdYld3eUjms7HFQfc0xe5v7gPH+dts5qmrqWzkTnXz8sd2poFtVgiKVIcGiSWICJZuph6TXG0/OYxIx/zDHGZQIfQcEhtHAFf9HT0nMI13B4CL/CBXQx6uOGH3oKlJD7t8SkliGhUmmlnJFGCpcyxyvJVaWkw2xPzNsh5tgv5lrpxrfO4TugRGIFLhfGrMMhmA32aheaT+3cPQlNnldKcau1yXXJWZmnGpl2phCZE2Uh99C8HWhos4PVanVAGz6LDZMLakFY5VgJoapMlUKwXNqitNZJbfZsvB02JEAKwAEEQAaQA1QABUBJ8wzgm+WUBil/MHtWc5IkLTKXJZZCcp1rYaqM2VRbnVcudXzP0tthaRlu0P8Zm5ErGvTzCo5VgHM6X9vBeQZfWm/B0s1uwO4scNA4Ry/M5rYhrw8DvEfqZd0YDiBQW5ux66hmEOiS/Pwv5wwsDvBRLT0sw4yehh5+8BrbOfTYa68GhBNosMFhm5nRW6MejjwOA3obOyoovdrF+VT5eHU3+Cke7QmslVaSU8a8THlmSSKZ0MoWolJopU5xj/Xbwfo3IrHF+3cstwzXMdiz+ihzWZkbk+XSiDQvcpHbQilBqBhkRbp/x3rlkGxn/AtEYZeqI2zhc1QsTWXdRHWLynVOVRx9E4tE0jepYXhcOVHNgHOYFjr0duIXtUzzzVYGEc5Tkj8btfQLSVq0aDHgo9i2CNsPB4fkOEAbdW+jOg3fp4Gk8V5qSWhfpoFC5wo1oaRVJrI0E5qY5pK+Jwojskzs8X7deO/SyuFy4YwXIHcROSOH03v7p3pk5pxlRnK6sCwzKeZOC8ZtZbUqpWB7Pl41H2KXD/G/fFz9DZcNiOM=",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "cefbf58f7febd7ac6b923a6760b4ef71",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Technische Daten\n\nDN\n\n100\n\n80\n\n65\n\nNennweiten",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztlkuL2zAQx79K8Lkb6y2rxzR9XDbsYdvLsgg9RolL/EBy2i4h371SyNIllEKOJTnZ1sz8/Z/xj8FP+wq20EE/6dZX72eVQA43KEijKDTMYhA2AOOsCYpyBLR6N6s6mIw3k8n5+6rc6DTsooPXZ9AuQr4cBbFkDCGpiJijUnyMd4NvQ/uPhDEODlL6k4EVE4rOJUeE4pI2QuzalNqhT/pk5mlfZeFig1KC2OE5p0VwQ/R6OzgzDfHocDTTpsjWXxPEVMfWORN9LkxTNFOb6ocXtzGxe4jDd3BTqv2uXyc9Dq72g9uVYaW7oYea0IYrpT+bdL/bTu0iv0TfLz7obx8/6eVK8DuMkF4u9HI++lAdDtlOaLfQm654rC4rPxVPL+Ox2Izjts095f7rU3hr+vXOrCGVUVTQr6sygDGf6H7XWSjd02Jigl9T0XgEt+nb5DYwW+ah90XkVf8LGJ8rcvo5IZYAtyDzR3FIstCozAsWwiKJnA0G3wj5vwk5nsQLNsJbpJartxCtTCzz+gGPJfwXlgIgaLxtnAmiyWINbTwCj4QgXvlw2zbXzFI2dBFMnPLcIyjnLMeeKBaCoJJxGTj1WKIbTFcMU3MZS8opg6VkJC+hwAAIIUCZJcQzFggSN5aumCXBL2LJGbDOURYUcNNg5m1QUigwFDFsg7yxdMUsraDvf0J79vd9xtTzb+krPXQ=",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "4665da59f7f7f550f6b63fd5d8408827",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. INTHWILC Max. Betriebsiiberdruck JiIN AnschluBflansche o nach EN 1092-1 passend zu VorschweiBflansche nach DIN 2633 (PN16) DN 65 - DN 100 Baulédnge nach DIN 3202 Teil 1, Reihe F1. 500 mbar (50 kPa) Eingangsdruckbereich Brennerdruckbereich Flihrungsbereich p :15 mbar (1,5 kPa) bis 360 mbar (36 kPa) P : 0,5 mbar (0,05 kPa) bis 100 mbar (10 kPa) P : 0,4 mbar (0,04 kPa) bis 100 mbar (10 kPa)",
+    "metadata": {
+      "text_as_html": "<table><tr><td>INTHWILC Max. Betriebsiiberdruck</td><td>JiIN AnschluBflansche</td><td>o nach EN 1092-1</td><td>passend zu</td><td>VorschweiBflansche</td><td>nach</td></tr><tr><td>DIN 2633 (PN16) DN 65 - DN 100 Baulédnge nach DIN 3202 Teil 1, Reihe F1. 500 mbar (50 kPa)</td></tr><tr><td>Eingangsdruckbereich Brennerdruckbereich Flihrungsbereich</td><td>p :15 mbar (1,5 kPa) bis 360 mbar (36 kPa) P : 0,5 mbar (0,05 kPa) bis 100 mbar (10 kPa) P : 0,4 mbar (0,04 kPa) bis 100 mbar (10 kPa)</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d04b66301af769415ec3b73bb384fd21",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Medien Gase der Gasfamilien 1, 2, 3 und sonstige neutrale gasférmige Medien Umgebungstemperatur -15 °C bis +60 °C Schmutzfangeinrichtung Sieb, ein geeigneter Gasfilter muB vorgeschaltet werden. Weitere Informationen im Datenblatt 11.02 \"Gas- und Luftfilter\".",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Medien</td><td>Gase der Gasfamilien 1, 2, 3 und sonstige neutrale gasférmige Medien</td></tr><tr><td>Umgebungstemperatur</td><td>-15 °C bis +60 °C</td></tr><tr><td>Schmutzfangeinrichtung</td><td>Sieb, ein geeigneter Gasfilter muB vorgeschaltet werden. Weitere Informationen im Datenblatt 11.02 \"Gas- und Luftfilter\".</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "1954ab3dfb69e69ded392360532c9d02",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Druckwachter Typen GW A5, UB A2, NB A2 nach DIN EN 1854 anbaubar. Bei DN 65 GW...A5 nicht auf Pos. 2 anbaubar. Weitere Informationen im Datenblatt \"Druckwéchter fir DUNGS Mehrfachstellgerate\" 5.07 und 5.02",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Druckwachter</td><td>Typen GW A5, UB A2, NB A2 nach DIN EN 1854 anbaubar. Bei DN 65 GW...A5 nicht auf Pos. 2 anbaubar. Weitere Informationen im Datenblatt \"Druckwéchter fir DUNGS Mehrfachstellgerate\" 5.07 und 5.02</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ff567da8537a6528ed7dcfae4b5e1755",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Servo-Druckregelteil Druckregler vordruckausgeglichen, dichter AbschluB durch Ventil V1 bei Ab- schaltung, nach DIN EN 88 Klasse A Gas-Luft-Verbundregler mit einstellbarem Verhéltnis V sowie Korrektur des Nullpunktes N und Feuerraumdruckanschluf3 Verhltniseinstellbereich V VerhéltnisV =p, /p _0,75:1 ... 3:1, andere Verhltnisse auf Anfrage Nullpunktkorrektur N maoglich",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Servo-Druckregelteil</td><td>Druckregler vordruckausgeglichen, dichter AbschluB durch Ventil V1 bei Ab- schaltung, nach DIN EN 88 Klasse A Gas-Luft-Verbundregler mit einstellbarem Verhéltnis V sowie Korrektur des Nullpunktes N und Feuerraumdruckanschluf3</td></tr><tr><td>Verhltniseinstellbereich V</td><td>VerhéltnisV =p, /p _0,75:1 ... 3:1, andere Verhltnisse auf Anfrage</td></tr><tr><td>Nullpunktkorrektur N</td><td>maoglich</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "8e23337014eeb2977df49910470e1bc4",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Magnetventil V1, V2 Ventil nach DIN EN 161 Klasse A Gruppe 2,schnell schlieBend, schnell 6ffnend G 1/4 DIN ISO 228; am Ein- und Ausgangsflansch, G 1/8 beidseitig nach dem Sieb, beidseitig zwischen V1 und V2, nach V2 (Druckwéchteranbau kann MeB3- gasanschluf teilweise ausschlieen) Messgasanschluf3 Brennerdruckiberwachung pg, nach Ventil V2",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Magnetventil V1, V2</td><td>Ventil nach DIN EN 161 Klasse A Gruppe 2,schnell schlieBend, schnell 6ffnend G 1/4 DIN ISO 228; am Ein- und Ausgangsflansch, G 1/8 beidseitig nach dem Sieb, beidseitig zwischen V1 und V2, nach V2 (Druckwéchteranbau kann MeB3- gasanschluf teilweise ausschlieen)</td></tr><tr><td>Messgasanschluf3</td></tr><tr><td>Brennerdruckiberwachung pg,</td><td>nach Ventil V2</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b5c088c5f812c9f0f5a3acc219d16391",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Impulsleitung AnschluB G 1/8 nach DIN ISO 228 fir Brennerdruck (pg, Impuls- und Verbindungsleitungen miissen aus Stahl Kondensat aus Impuls- und Verbindungsleitungen darf gelangen. Betriebs- und Montageanleitung unbedingt ; Gas und > PN1, DN4 sein. nicht in die Armatur beachten! Spannung / Frequenz ~ (AC) 50-60 Hz 230V -15 % +10 % Vorzugsspannungen: 110 - 120 VAC, 24 -28 VDC",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Impulsleitung</td><td>AnschluB G 1/8 nach DIN ISO 228 fir Brennerdruck (pg, Impuls- und Verbindungsleitungen miissen aus Stahl Kondensat aus Impuls- und Verbindungsleitungen darf gelangen. Betriebs- und Montageanleitung unbedingt</td><td>; Gas und &gt; PN1, DN4 sein. nicht in die Armatur beachten!</td></tr><tr><td>Spannung / Frequenz</td><td>~ (AC) 50-60 Hz 230V -15 % +10 % Vorzugsspannungen: 110 - 120 VAC, 24 -28 VDC</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "7f7086a74ab48f46708afb5374b6a9ce",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Elektrischer Anschiu3 Steckverbindung nach DIN EN 175301-803 Leistung / Stromaufnahme Einschaltdauer bei~ (AC) 230 V; +20 °C: siehe Typenbersicht 100 % ED IP 54 nach IEC 529 (EN 60529) Schutzart Werkstoffe der gasbenetzten Teile Gehause AluminiumguB Membranen, Dichtungen NBR-Basis, Silopren (Silikonkautschuk) Magnetantrieb Aluminium, Stahl, Messing",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Elektrischer Anschiu3</td><td>Steckverbindung nach DIN EN 175301-803</td><td/></tr><tr><td>Leistung / Stromaufnahme Einschaltdauer</td><td>bei~ (AC) 230 V; +20 °C: siehe Typenbersicht 100 % ED IP 54 nach IEC 529 (EN 60529)</td></tr><tr><td>Schutzart</td></tr><tr><td>Werkstoffe der gasbenetzten Teile</td><td>Gehause AluminiumguB Membranen, Dichtungen NBR-Basis, Silopren (Silikonkautschuk) Magnetantrieb Aluminium, Stahl, Messing</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b04b8128efb8716f4b98bc933de1cbeb",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Einbaulage senkrecht mit nach oben stehendem Magnet Leistung / Stromaufnahme bei ~(AC) 230 V, + 20 °C alle Angaben sind Effektivwerte Ausflihrung Anzugs- leistung ca. [W] Halte- leistung ca. [W] Anzugs- strom [A] Halte- strom [A] MBC-1900...- 65 2x95 2x20 2x0,54 2x0,20 MBC-3100...- 80 2x125 2x25 2x0,54 2x0,20",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Einbaulage</td><td>senkrecht mit nach oben stehendem Magnet</td></tr><tr><td>Leistung / Stromaufnahme bei ~(AC) 230 V, + 20 °C alle Angaben sind Effektivwerte</td><td>Ausflihrung</td><td>Anzugs- leistung ca. [W]</td><td>Halte- leistung ca. [W]</td><td>Anzugs- strom [A]</td><td>Halte- strom [A]</td></tr><tr><td>MBC-1900...- 65</td><td>2x95</td><td>2x20</td><td>2x0,54</td><td>2x0,20</td></tr><tr><td>MBC-3100...- 80 2x125 2x25 2x0,54 2x0,20</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJzNWW1v2zgS/itzBnpIUL/o1bHTbgE7SdPcNr5g0zofmsKgJcrmRaK8lNS0Kbq//WZIya9ym3T3FvchkUSRw+G8PDOP/OFrg8c84TKfiLBxDA3LdoI+m/r9fuR5ftjvO0e27TlOGPB+rxtOG01oJDxnIcsZzv/aoJtJlhYq4NUznwSK40ULtI88z7KO+k63bdFi/T5JQxGJ70xYqDTgWbaaYfe9bt9tH/mW49o0bcFVIrJMpDKblMp8+NpAwaSG6zqW9+0jTlM8SFU4idOA5anSGi5YPiexnfcZV1lHiSBgKsSFWa5YLrLO1ZdgzlRypdL/8CDPOmEhZ9lkkQadMA0KMlbWSiXvOG4P7TQ5Z9llEediiJtMLocnk/HZ68npqOu3bMuanA4np+1FGDW+fUN1IhFzyRLSsfG05eXi/MtCL2aLRSzwTHj+Tvk6ZnJWsBnPyBQNLmcNMsACRyaySKacTu/qEbXyd9cK7J4VHbG+y3ve1ObdacQ93+tFfde3uEuCc/45n7BsMs+TmNa8zNk05q9e5tM0/IIXhX8hqPQ+WzD5y23DuW28uhi9e3Nz8fYELtnnNgx5rgSfZkKgGqEqgruXnTykZa/+JS5GMJBZMI+LYYRnwDu+fJuCZMEczkZgW32nZS9fLBhGhwzhoVgOjVOFa++52BVDQsxDR2trNA7SuNTYR41PUQ+n67pwcDWyu4dwOoKuDy26oiNgyIr4trAs3g/ljBu1aAlGmgPvuIjBbsJvXMw5vLbb4OOSZMoUHPgW3F2xw53tX50JOUOXZdoeaBcuUOQQfSNLG1Vjr2MxVxSD5UB1rK0DLODY9stN7aavd4WpyMDtVrq4XTN6BcdgNavJVtNam20vNbet9dnearb3ndm757zkoeByj9IY/RxCrgBvIpaIGKeSJZ0muFCggzNM8FyQxXmB+RlzmOFM4wlEAHyxLn993/fJjE/JbDlPEC1YXqg9SrTQbiRxap3oQz1Hg5XPu2Kvg3lS5A8Ruo4Liegxz3GTPZKvMeqbgPNgxrmYSZ6XRxUx3SXFED6lCnMWEQdHcrhH33PZhhsucAKHCxmlKtF5joYRCZwiPMppzPIcbLuNsXfbQHktbau3RZQbybeN9q7mpxRU9xi4OGGPvu8QXiSc38DAb8L7IQzQDyO6rAKecrHne8DklBXoecpuUWbL+U273R74IMkqwIoIrtKsDc7a5Mcc7LZhVDVe1vpCJBScvh+dX6O/5ypCbdCvcTwjx/LbBvht60gbAW+cGq9x9SltabGKzzjaSMR7bFBNinFXdI5ORVZkMxzBY3HZhFAYnQZTA1sQYvmbwxhhFXFgbMMULTKYtsC4FcOjuWG/Xg9+jQnAYEDB0CK/tcZcYbSG5caJyCls9BnRbjxB6WpuDBLnEoN0jKlxLzj8mirF7zC4MY0yGBVxvCjkXU732h6vecGVYkViDmKQNnJ3TUQbaNHLfUv8Ge8x1JZGY/hl0YTOAiZW88g/tgFjAdxjTGYmQ3L5cgM8OMXGQEYKq9OuJstD3C3PNtqjQ8JS7ZYa2GGUbp8qnzRh7NTL2KpcpRc34r1rrzlMFYsFR4BCQ0q0EjkZUWuI1agJ1Vg3iiSVp3OwO54Wc3H9b3Cc3gtgCSDym4QdYFhRCSgLVlPP71H4hOgFhD2jRojuN0iy9ubhXlCNkxRvJGvslEE2duBgJ390AgK6X2L+DN0WoWgVC0DJgHVTuyUzx+GyFsmzbG1dTQytly+q9YQ2GP6wmDX3ONCoXHqpJnEvkkURZzGeuR5lXZRRtQ+l+ZauK22usWNdMzhAfcBINo6g5BNSN3rlVmjYRFCoSjIKXOdsHmOuYSTLjOV67IcCQqYiBH5qzAjTqy7IrLhMZY7Rz2Q5HwenWMnkLK85JQXmC8IKvfSfs/wFYJfSRNj1gPK1XUIuFhoshjAgZMWsmXKN9vIfNYCIgiVt24HXiv9ecPmwx0N/wMHg5BA7mhaWxTcP4LjWGKhkPoPnWPSfATZeD8Usy0qJXB5jabKwdbIdC8aDE6zmHrTQD+PTmnp6FmOGKx3LyjSConD3OPo658Hdp6WpN5P0yHctu9Wz6haT/Xa3fosxnxsbXOcqTRCUJJsnnBLUQHfIin21cgs2MDNLQ6F9YPwCnjvLJuIYMsGxMdTVFbMi076i1ukZnJ3CxRVgPdVnuTg7Ad/pwwEeqGvhXU0WYgOC/QdT+e6rG67usjyNItNTYa5OOYLgA4aA7lH5Hhef8zkGNMZNXCRCiiKZYTJd8mSKuEEF77TsclDMaPhba8gykTURkuJ0gWkFB3gn7lKJZTJHuxV3h2DQl0kd8Su5TZNITSAoEVVCb3XFiFTxsi7s6IoZidWZDEg1UlstxVMClixEQ4JKs/duv79ymIdy9jqfivcfK0824TmsXAksxhZ0gJ273hPjEM7Q3He5+IStW76iHAjtUdm3r8Yk5UkL4mrrgLXhw83H5YQ31AR+530lICOF4cNgZ+XWiw3wHp607L5lYVVuYa+2XOl87q8/ONbaA3IEb+OxerufRtE2rl1u07PA+Ww7Pv7X/0ge7JGjVyJtMitRwtrGiCQbOvqP1rFTktSO4ayNbyWfJR67QU3Jv1FQ0VN4PDkzCzcIWklJoIaBQD19gLWC7Znmsq5jXTWBXn2nBnWtE9S0QrBZy0lmGG0ccGmQZQ0fKtioxlBTQ2AXzpfSHwm3sAQ4+CGewQou9ov/Uwm9eYbqy8LWZwlYfY6A5WeIuhWP/cjg/dQ3BsC+FGvvIz8CkD+f8hlg8fYp3wHgTzD7qLvO7OE79Bx+SLDL2PtfsWzYYMx6s+AnaPNtgS7u/sXMuQQSY9JgH302U3c5NDyZB5em/lvJsPcXkOFS712Zv+gc6VDkE6Wl3ALjKQzhY9hktmtLN/ktJCamtdngJ+ml0XGDYxqp/z9E09slmkbrdbJZ2rqGcVYnPIRNSrhVRPZRvCrIt3ge+k/zpsNH0D0jYovy0fRX22TrZ3hgLUF7OjlccTqoIWbwE8yMItp2wfAzeBzFMjX1UXxn2Uc8hfUAMhITVFu0pIyCv4ObwGOZBmVXtNYGQtWml0351uN2d787sOzi1+6q9t3gD3XwWBw+Q99c0PZ0Mf21vsGRqhWvlvTMJN2P0xp/d43+uaf8iekddcyNbx//C50oLnk=",
+      "is_continuation": true,
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "8bcfd2d06653932014e9fcd20586df97",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. MBC-5000...- 100 2x 125 2x25 2x0,54 2x0,20",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MBC-5000...- 100</td><td>2x 125</td><td>2x25</td><td>2x0,54</td><td>2x0,20</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "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",
+      "is_continuation": true,
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "ff8f91fe59d418d8ec1fc5f30ae9c3d7",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. MBC-5000...- 100|2x 125\n\n2x25\n\n2x0,54 2x0,20\n\nEinbaumaße MBC-...-VEF\n\nf  e \n\na  l  e  s  h  c  e  w  t  e  n  g  a  M     r  ü  f     c  f  r  a  d  e  b  z  t  a  l  P           d  b ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztlUtP3DAUhf+KlTXM+BU77pJCHwsqFqUbiqIb+3pINXnITlQe5b/XDiBQhSrRXWGysWOfc33sfIrPbgrcYof9VLeueEcKbYQHUEog05Y7LYVDwz0KRVF6icUeKTqcwMEESX9T5E4dhzlYfHjH2gZMzVKQaSkp1YarFc3mZb4bXOvbvwjGMFiM8VHBjFRGrHRJuWBZNmLo2hjboY/1fZizmyIVzjGE4FTenidZQDsEV28HC9MQloQjTBe57Po0Yojr0FoLwSVjnAJMbVyfXNkLCN1JGH6gneLazf0m1uNg126wcz6suD/0uOaiKo2pP0I8nrdTe5AWqY8P3tffjj7Uh19Uuc8orQ8P6sPV6Hxxe5vi+HaLPXQ5Y/Ey+715uhoXM4zjtk17Svtf309vod/MsMGYj6LAflPkAxjTSN3PXYN592IZCY/fW1HLKuo1GIGVbBiqxqMsZeWNKCmKIqee8HLK4pRuv6SUrlarfZLS/eKXhPEyL/6Q67RPoXAzhPYa3dfsSwX+hIx5S6mowBjlmkqDsNoCMjDaOKBO7SB7w5Dxy38gSuuKMqYbI6yUjRNGC1dK57ljtpGO7oh600TRvVKS3HD6YrQaqnVDDTPUgVCyAcOoMd5Dw0sordyh9V+jJZ+SctT2DcwdfJ8pdR5JvvDyZZcCPOXmE4JL5mdgoSWHkiOISnNnUbNEJSquvCyZSJfcDpbXA4snBMlTLD53SfwcFY6yquFWlL5JUEipRLqXhNKc63TQZkfFK6ICCNlmMEgk5IIQu/R/EjItnZ6QDSFJc0zyEwjJvxqfVH4ZuOuEReIWR0PI9eK+K3xCHh+XZ58B8Pw3FLc+Hg==",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "40283667216c107093afdada6173a856",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Typ Best.Nr. 230VAC DN P max. w] ~(AC) ax. ~[A] 230V Offnungszeit a EinbaumaBe [mm] Magnet Nr./No. Schaltungen/h Gewicht [kg] b d e f MBC-1900-VEF-65 243 083 DN 65 190 1,8 <1s 290 168 246 365 196 414 1511/2P 60 18,4",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Typ</td><td>Best.Nr. 230VAC</td><td>DN</td><td>P max. w] ~(AC)</td><td>ax. ~[A] 230V</td><td>Offnungszeit</td><td>a</td><td>EinbaumaBe [mm]</td><td>Magnet Nr./No.</td><td>Schaltungen/h</td><td>Gewicht [kg]</td></tr><tr><td>b</td><td>d</td><td>e</td><td>f</td></tr><tr><td>MBC-1900-VEF-65</td><td>243 083</td><td>DN 65</td><td>190</td><td>1,8</td><td>&lt;1s</td><td>290</td><td>168</td><td>246 365</td><td>196</td><td>414</td><td>1511/2P</td><td>60</td><td>18,4</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVW2P4jYQ/iujfKhaCYgTJyFpt0jLcj31w1KkXq8fWBSZ2IG0eVNstLddcb+942DArDbVVULJxH5mPM/M+GH96ohSVKJWacGdH8HJqZ8niZdP44h4PPCSSEwJF4QIESciCJwROJVQjDPFEP/qaCOVzaHLxPlbpFkn8NUH9KZBQMg08aMJ0c79ftXwIi/+A9B2TSakvCK8JIgSOpmGxKeehrWiqwopi6aWqUlm/epgYJ0GpT4JjhuEdSJrOp6WTcZU0/UZtkztdVj3Dyk66XZFlrGOo6NUHVOFdFcv2Z511apr/hKZki4/1DuZtk3m8iY76GLJcVML16dxmCTpRyYfD6Uq5nhI+jh/SD9/+CVdLKNw7BGSLubpYtLy3DkeMZ28KEXNKp2j8//cjbN6aXtn1rZlgZyQv2u2S1bvDmwnpC6FI+qdowvQ4kpaH6qt0OwDXFHii0qZTPeqKnWoO8W2pZjdqb1gHF+dNqFrnmXL6p+fHP/JmX16ae9ctX9nZ45lmyy7CfiUfL5/GEAtlgMbK6jYlwk8b+Dr9/cPPwygNOTr+n7THzKA+S3Pa92of0ShhsJc1rOmNOsBrn8o6i07VGwuYF1VmwHvR7arhQLk6i6byQDodxydUmEeonb3A5iP4rnI9grWf+/MWW5f9L7ws+3Za8YvlrhYueXgnju2bfiL8eczHKGxlxAyxjkaRyGieL/uBxRITC/fiyVYu+hxtUfxxf6uVD958hrEhkWxFTwCehMuutiBF1zXQ89z/dXlO7LCxSODu1bjxIZ6hk1MrAMDCPzYYmNvht9EBuO+y99PfAisEL5nkYl9qwCDZPxoRN4nExJDBkndsKHEs3tzs/2NfOyc6bUZ1E8gHAgXRlZzpoN8KB1Ri49rRs49SYdzNLKi5QSlAmxRAFQFeDOUYIYR3rQXTFvhbaXAVAiwMv3g6ifiT4WCVS8iv/bP9Z+bk1b0gnLKAPBswMoBUr95Px0I4ZGlHHAHHsibJwOcesAsAQsMZ63oPfOTYMAWMuAgAK8EmKuAR0b9sWaaAKcIkwnBdKNPIQe8HIAzBdgHuBUYMHcFzJiBaQ/cSAxExPxsVQF9mUAPIejO6X+H8x/HJ90x57j5F9M9VBI=",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "fec743eaa2ecc533df462ad43fb206b8",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. MBC-3100-VEF-80 244 428 DN80 250 1,8 <1s 310 190 292 450 216 482 1611/2P 60 26,0 MBC-5000-VEF-100 244 301 DN 100 250 1,8 <1s 350 235 329 500 250 564 1711/2P 60 33,3",
+    "metadata": {
+      "text_as_html": "<table><tr><td>MBC-3100-VEF-80</td><td>244 428</td><td>DN80</td><td>250</td><td>1,8</td><td>&lt;1s</td><td>310</td><td>190</td><td>292 450</td><td>216</td><td>482</td><td>1611/2P</td><td>60</td><td>26,0</td></tr><tr><td>MBC-5000-VEF-100</td><td>244 301</td><td>DN 100</td><td>250</td><td>1,8</td><td>&lt;1s</td><td>350</td><td>235</td><td>329 500</td><td>250</td><td>564</td><td>1711/2P</td><td>60</td><td>33,3</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVW2P4jYQ/iujfKhaCYgTJyFpt0jLcj31w1KkXq8fWBSZ2IG0eVNstLddcb+942DArDbVVULJxH5mPM/M+GH96ohSVKJWacGdH8HJqZ8niZdP44h4PPCSSEwJF4QIESciCJwROJVQjDPFEP/qaCOVzaHLxPlbpFkn8NUH9KZBQMg08aMJ0c79ftXwIi/+A9B2TSakvCK8JIgSOpmGxKeehrWiqwopi6aWqUlm/epgYJ0GpT4JjhuEdSJrOp6WTcZU0/UZtkztdVj3Dyk66XZFlrGOo6NUHVOFdFcv2Z511apr/hKZki4/1DuZtk3m8iY76GLJcVML16dxmCTpRyYfD6Uq5nhI+jh/SD9/+CVdLKNw7BGSLubpYtLy3DkeMZ28KEXNKp2j8//cjbN6aXtn1rZlgZyQv2u2S1bvDmwnpC6FI+qdowvQ4kpaH6qt0OwDXFHii0qZTPeqKnWoO8W2pZjdqb1gHF+dNqFrnmXL6p+fHP/JmX16ae9ctX9nZ45lmyy7CfiUfL5/GEAtlgMbK6jYlwk8b+Dr9/cPPwygNOTr+n7THzKA+S3Pa92of0ShhsJc1rOmNOsBrn8o6i07VGwuYF1VmwHvR7arhQLk6i6byQDodxydUmEeonb3A5iP4rnI9grWf+/MWW5f9L7ws+3Za8YvlrhYueXgnju2bfiL8eczHKGxlxAyxjkaRyGieL/uBxRITC/fiyVYu+hxtUfxxf6uVD958hrEhkWxFTwCehMuutiBF1zXQ89z/dXlO7LCxSODu1bjxIZ6hk1MrAMDCPzYYmNvht9EBuO+y99PfAisEL5nkYl9qwCDZPxoRN4nExJDBkndsKHEs3tzs/2NfOyc6bUZ1E8gHAgXRlZzpoN8KB1Ri49rRs49SYdzNLKi5QSlAmxRAFQFeDOUYIYR3rQXTFvhbaXAVAiwMv3g6ifiT4WCVS8iv/bP9Z+bk1b0gnLKAPBswMoBUr95Px0I4ZGlHHAHHsibJwOcesAsAQsMZ63oPfOTYMAWMuAgAK8EmKuAR0b9sWaaAKcIkwnBdKNPIQe8HIAzBdgHuBUYMHcFzJiBaQ/cSAxExPxsVQF9mUAPIejO6X+H8x/HJ90x57j5F9M9VBI=",
+      "is_continuation": true,
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "604a24b1379aaba3159dbdb11c8beaf8",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. 4 … 8\n\nVolumenstrom-Druckgefälle-Kennlinien im ausgeregelten Zustand mit Sieb, ein geeigneter Gasfilter muß verwendet werden.\n\nmuss in der Anwendung geprüft und freigegeben werden",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztlEtP3TAQhf+KlTX3xnk4ibsrvW0XFQipLYsCihx7EtwmduQHFCH+O+MLqKiqkLpsxSp+nBmfM/qUs9sMZljAhF6r7A3JoAFRVnzkijNRqXGgBXDeNhVrC9UIlh2QbIEglAgC9bdZWvTeRifhaQ+9dICffcOirWtKW142W5qK9/eLVXrULwhWZyV4/0tR8Lrh1bZltKyKJFvBLdp7bY3vH82c3WbYONmoqpLWdxcocyCtU/1spQjW7R2uIlymtvlXD87nTkspnMJCH5wI2ucnN/JSuOXE2e8gg89VNJPvVytzZWVMw/IbayAvq45x3n8U/ijOQR/iI/3R4bv+9P2HfnfcsE1Bab877HfbVY3Z3R3aGfUMRizJY/Z35Y/F4WbdF4t1nTVmwvz54/UszBTFBD6NIgMzZWkAK570Ji4DpPR1MhHgZ0g9anIeS1o2pEvlT51PsOD4QY/i3/no+DAU3cDLTvGuowXupKjrDhhnisv2lY9/mg/2nI9TO6c0GNsum52L8scE43mkFOp5hs0nMGbWRoMheiEi+gkcTDAHPPgWfRBGkUUH8lnDcEBAGzIB6MlAAEcwFdpNqyWmlmokV+CuwSgI5BqcArN9TuWxcGn4V/AlmfsTmCNiwJgSbSHHZixY0eH/SwrOalZRUb2C+f+AuUTvCfKkEJ+3JkGDQZGu1SWURjkGEhG+0SFuSOSAQD4g9QJRF/clkD3e",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "d88fd23671cfc32e4fa2d93247255ce1",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. und freigegeben werden  500  400  300  200  150  5  6  -  .  .  .  -  0  0  9  1  -  C  B  M  Empfohlener  Arbeitsbereich  100  80  60  50  40  30  ]  r  a  b  20  m  [     p  ∆  10  8  6  5  4  3  Basis   + 15 °C, 1013 mbar, trocken  2  Based on  + 15 °C, 1013 mbar, dry  Base    + 15 °C, 1013 mbar, sec  Base   + 15 °C, 1013 mbar, secco  1  1  2  3  4  5 6  8  10  20  30 40 50 60  80 100  100  200  300 400  400  600  600 800 1000  1000  2000  °  Vn [m3/h] Luft / Air / Aria dv = 1,00  2  3  4  5 6  8  10  20",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJyVkk1v2zAMhv8K4evSWP5MPGCHpu2GAevQy3rJAkGW6ERbbBmSvK0o8t9HKUm3XjLMsOmvh+TLV1o/J7jHHgfPtUreQrJoFKtzXGKLrWK5qLpaCZW3i6wpFkWHyQySHr1Qwgvin5PwwJ2ZrMTzO3JpkW6xYLYoS8YWTV7PWUiO/3ujdKcvAKM1Ep37Q2RNWTfFfFGxvMgCNqLttXPaDI6fxKyfEyocZBRFzsrDhjCL0ljF90YKb2xUOAq/C2XTLw6tS62WUlhFic5b4bVLH57kTtj+wZpvKL1L1TRsHR+NTJWRUzDLXZkB07xYVk3DPwh3P+29XlETfr+64Y937/nt57q6yhjjtyt+Ox9VlxwOJKfTexxEHzQm/5d+SvZPY0wW47jXNBPNn55+78WwncQWXbAiwWGbBANG+sKHqW8xTF8FER5/+VBjGhR0FvUWt7TcA/xEq+gGFWMAZQhFCHkIWUWhAqgBrgDm55OeWTwbQuLrDcAK4B7grh87s6Nx0QJc2xa1dyQCtdwRG2ou6apD2dgudAPYABAuANrQGKAHWEM4RoCvU56zOiRTbpRCgkrKo5bCaUfUGxJKHGMtu5kRmBXQt8LOwNOG+h6GyyOMCsxwAVf26cjBpaIO5Qt1CZImupPF7kXUXAX5y+Ms+XF2soCcqI/GRIOyF/vDQpQvy1Kfw5JF8ogeWQYnFQCPA6z7It1t4NPUeUjhWtsQrRagfsA7yGYx6V+a/pb0Ws1rDbF7EULYjued+rGnHZgcNr8BDPMoSA==",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "a2f7090a636165c6a6e050f04b70be8f",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. 10  20  30 40 50 60  80 100  100  200  300 400  400  600  600 800 1000  1000  2000  °  Vn [m3/h] Luft / Air / Aria dv = 1,00  2  3  4  5 6  8  10  20 30 40 5060  80 100  200  300 400  600 800 1000  2000 3000 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJyVkk1v2zAMhv8K4evSWP5MPGCHpu2GAevQy3rJAkGW6ERbbBmSvK0o8t9HKUm3XjLMsOmvh+TLV1o/J7jHHgfPtUreQrJoFKtzXGKLrWK5qLpaCZW3i6wpFkWHyQySHr1Qwgvin5PwwJ2ZrMTzO3JpkW6xYLYoS8YWTV7PWUiO/3ujdKcvAKM1Ep37Q2RNWTfFfFGxvMgCNqLttXPaDI6fxKyfEyocZBRFzsrDhjCL0ljF90YKb2xUOAq/C2XTLw6tS62WUlhFic5b4bVLH57kTtj+wZpvKL1L1TRsHR+NTJWRUzDLXZkB07xYVk3DPwh3P+29XlETfr+64Y937/nt57q6yhjjtyt+Ox9VlxwOJKfTexxEHzQm/5d+SvZPY0wW47jXNBPNn55+78WwncQWXbAiwWGbBANG+sKHqW8xTF8FER5/+VBjGhR0FvUWt7TcA/xEq+gGFWMAZQhFCHkIWUWhAqgBrgDm55OeWTwbQuLrDcAK4B7grh87s6Nx0QJc2xa1dyQCtdwRG2ou6apD2dgudAPYABAuANrQGKAHWEM4RoCvU56zOiRTbpRCgkrKo5bCaUfUGxJKHGMtu5kRmBXQt8LOwNOG+h6GyyOMCsxwAVf26cjBpaIO5Qt1CZImupPF7kXUXAX5y+Ms+XF2soCcqI/GRIOyF/vDQpQvy1Kfw5JF8ogeWQYnFQCPA6z7It1t4NPUeUjhWtsQrRagfsA7yGYx6V+a/pb0Ws1rDbF7EULYjued+rGnHZgcNr8BDPMoSA==",
+      "is_continuation": true,
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "4c163775dee327407d288d61a7caa845",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. und freigegeben werden\n\n° Vn [m3/h] Erdgas/Natural gas/Gaz Naturel/Gas metano dv = 0,65\n\nmuss in der Anwendung geprüft und freigegeben werden",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztlE1P3DAQhv+KlTNsnO+kUg/dLuXEigPlsqysiT3OukrsyHagdMV/bxwtKkJVK45VOflr3pl3Ro+8O0bY44DaMyWiDyTCKk3zNEmqsmpKyWue8ZLXiLQuwiqiMxIN6EGAhzn+GIUNc2ayHJ/PyLjFeVkSJlWeU1o1abmiQby8D0Yoqf4QMFrD0blfEUmTl022qgqaZkkIG9EOyjlltGMnM7tjNCcONrIspfnTfg6zyI0VrDccvLGLwxH8IaSNvzq0LraKc7BiFjpvwSsXXz/yA9jh2ppvyL2LxaQ7x0bDY2H4FIblzo3GOM3qomnYJbirqfdqPRdhV+vP7PbiC9tsy+I8oZRt1myzGoWMnp5mO1L1qGEIHqO3yU9i/zguYhjHXs09zf3Hp+cedDdBhy6MIkLdRWEA43zD9DS0GLovggmP333IMWlBpEXVYYctavKAVqAOqZ6r3CjfYzRrXmOStlVaUomilllLaZ3UtEyhyRtRZiKV+I7Jv43JcmPf8C285OpuorSl5FaT3ZDFhz25sKIDF2/BTxZ6EvaX8IMsZ+znvSMBFm2IuCcfCT0ri5cUbsGGid/jTSjwGxpBZqmAClsQBVSQAaUUaSEk5w1tC3in8T+mcZicI0oTgZZ80g+ow2RIh6MNnEouPfn7R/gKwf1PQm1Epw==",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e27e6699a1b7dbcec5c10d3b5d65de0e",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. 500  400  300  200  150  100  80  0  8  -  .  .  .  -  0  0  1  3  -  C  B  M  Empfohlener  Arbeitsbereich  60  50  40  30  ]  r  a  b  20  m  [     p  ∆  10  8  6  5  4  3  Basis   + 15 °C, 1013 mbar, trocken  2  Based on  + 15 °C, 1013 mbar, dry  Base    + 15 °C, 1013 mbar, sec  Base   + 15 °C, 1013 mbar, secco  1  1  2  3  4  5 6  8  10  20  30 40 50 60  80 100  100  200  300 400  400  600 800 1000  600  1000  2000  °  Vn [m3/h] Luft / Air / Aria dv = 1,00  2  3  4  5 6  8  10  20  30 40 5060  80 100",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJyVUtFu2jAU/ZWrvA6I45BAJu2htN00aZ360r4wZDm2AW8kjmxnWlXx77vX0G59YRoKN3Zyzj3nnnj9nJmD6UwfhdXZe8i00brRi4rzVlXNUi8XbavLVvNGNczwMptA1pkotYwS8c8ZLURwo1fmZW+E8gZvqWGxmM8ZWzS8njEip/ed03ZrLwAG75QJ4Q+iaOZ1U84WFeNlQbDB+M6GYF0fxNnM+jnDxmSjLDmbHzcI80Y5r8XBKRmdTw4HGffUNn8IxofcW6Wk10gM0ctoQ37/pPbSd/fefTcqhlyP/S6IwalcOzVSWGHqepPzclk1jfgkw914iHaFIuJudS0ebz+Km691NS0YEzcrcTMb9DY7HtHO1h5MLzvymP0f/UyOT0Miy2E4WJwJ58/Prw+y341yZwJFkZl+l1EAAz4R/di1hqavyEQ0vyL1qBgDmFMpqXAqRUWFVkv80w1gCjB7uabpIWGQlbbXACuAO4Dbbti6Pc5nPMCVb42NAVWNVXuAGilVkiM1gA0AoiRAS8IAHcAa6DcAfBs5ZzXZSPK4qpCY9FYy2ICod2gUcYy17HqCwKKErpV+AhEPzg/TY9MENhpcfwGu/dMJB5eaBqNeUZdAyqVciqReJs8V2V+eZuGn2TECTKI+RZyiLl7jpw8xf/0sNZYlS6Dz7rzkqZ5cADz2sO7KfL+BL+M2Qg5X1lP1VoL+CR+gmCTSvzz9bemtm7dGknpJhY7dy4n83OFJy46b3xl6H4k=",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "10875554e937473497f336dcbdf01c61",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. 80 100  100  200  300 400  400  600 800 1000  600  1000  2000  °  Vn [m3/h] Luft / Air / Aria dv = 1,00  2  3  4  5 6  8  10  20  30 40 5060  80 100 200  300 400  600 800 1000  2000 3000 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJyVUtFu2jAU/ZWrvA6I45BAJu2htN00aZ360r4wZDm2AW8kjmxnWlXx77vX0G59YRoKN3Zyzj3nnnj9nJmD6UwfhdXZe8i00brRi4rzVlXNUi8XbavLVvNGNczwMptA1pkotYwS8c8ZLURwo1fmZW+E8gZvqWGxmM8ZWzS8njEip/ed03ZrLwAG75QJ4Q+iaOZ1U84WFeNlQbDB+M6GYF0fxNnM+jnDxmSjLDmbHzcI80Y5r8XBKRmdTw4HGffUNn8IxofcW6Wk10gM0ctoQ37/pPbSd/fefTcqhlyP/S6IwalcOzVSWGHqepPzclk1jfgkw914iHaFIuJudS0ebz+Km691NS0YEzcrcTMb9DY7HtHO1h5MLzvymP0f/UyOT0Miy2E4WJwJ58/Prw+y341yZwJFkZl+l1EAAz4R/di1hqavyEQ0vyL1qBgDmFMpqXAqRUWFVkv80w1gCjB7uabpIWGQlbbXACuAO4Dbbti6Pc5nPMCVb42NAVWNVXuAGilVkiM1gA0AoiRAS8IAHcAa6DcAfBs5ZzXZSPK4qpCY9FYy2ICod2gUcYy17HqCwKKErpV+AhEPzg/TY9MENhpcfwGu/dMJB5eaBqNeUZdAyqVciqReJs8V2V+eZuGn2TECTKI+RZyiLl7jpw8xf/0sNZYlS6Dz7rzkqZ5cADz2sO7KfL+BL+M2Qg5X1lP1VoL+CR+gmCTSvzz9bemtm7dGknpJhY7dy4n83OFJy46b3xl6H4k=",
+      "is_continuation": true,
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1540b60f8fd7fffea4325a161c4fd100",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. ° Vn [m3/h] Erdgas/Natural gas/Gaz Naturel/Gas metano dv = 0,65\n\nMBC-1900-VEF-65\n\nMBC-3100-VEF-80\n\n5 … 8\n\n(o]\n\nDichte Luft Dichte des verwendeten Gases\n\nverwendetes Gas Lu X",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "orig_elements": "eJztls9v2yAUx/8V5NMOTQ0Gg5m0S5eulzXqoa0mtZGF4ZF4cmwLcLe26v8+yFK1mrZJuUY58TDvx5fHR+C75ww62EAf6tZkH1EGGCTmHGMMJcWcVpJyKbkxAhdCEpadoGwDQRkVVPR/zpJR+2FyGl7nUGsHcdgmJIIxjIUs+ClOwdv1zWBa2/7HYXSDBu/fPIhkXNJTUeKCkuQ2gtu03rdD7+udmLvnLCZOMigtMHtZRjcHenCm7gatwuC2CkcV1iltfuPB+dy1WitnYqAPToXW51ePeq3c5soN30EHn5upX/l6HHRuBj2lZvnZ0ENe0KqUsr5Q/nLqQnsWi9SXZ5/r2/Mv9XzByxnBuJ6f1fPT0djs5SXKsW0Hvdokjdl+4bvg8Dhug9U4dm3cU9x/vlvuVL+a1Ap8akUG/SpLDRjjl7qfNg2k3ZdJRICfIeW4nzBuMLrt0d2G5uslOndmpXy+UGFyqkPJvlBPaDuHLtoepbPvB2Qe0CeET3iZCr9qWiiXGvgA16lArPQnXE1ZYQa8xIzpoihtHKwyQinCtQR9hOuA4IrFZkRiPIsVZ3tyIrEQvDGcmrKytLBVIWilaGl4ZYEQceTksDihZMdJhfe7Twxwoq0U2FLJpCiYpbHrrFKMcqjokZPD4aRE91OBC46q94hcxYDFb/+/8GF1PAHGFTNgcClFRQ2zylpGMGkKUh75OBw+PgzL92Dc9DEfrAbXPoH51/1hLBVNwaStqkaD4hD5aAxVLD4zwKk68nE4fMxbvQ6Avk42oJ0dm4AewP2A3kCAHkVxMd8+D1C8YAoQBEyBMQdipLANJUxZYcEyOP7QHhBAb6T4REokCX17D8t1GzrIXpa/AJIByv4=",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "540112727d1ad463e4d71dc999b56348",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Gasart Dichte f Erdgas [kg/m3] 0,81 1,24 Stadtgas 0,58 1,46 Flüssiggas Luft 2,08 1,24 0,77 1,00",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Gasart</td><td>Dichte kg/m?]</td><td>f</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVUk2PmzAQ/SuWz2xswECooq2UZreXbrVSPy5pZDn2mNACRraRGkX577UJ6d4qlct8vjdvBu8vGDroYfC8VfgdwmVeackqVTIBeUlLVay1zqAW4dM5O+IE4R68UMKL0H/B0eHOTFbCPQYuLQQzE6YVY5RWdVauaATP9d6oVrf/aBitkeDcW0das7LOV1VBszyNbSPYvnWuNYPji5j9BQfiKCPPM8quh9BmQRqreGek8MbOCkfhT5GWfHNgHbGtlMKqAHTeCt868nqWJ2H7V2t+gvSOqGloHB+NJMrIKR7LPZgBSJavi7rmH4V7mTrfbsMQ/rL9wL8/PfPd57J4SCnluy3frUal8fUa5Oi2g0H0USP+P/gC9udxBotx7NqwU9ifLOVODM0kGnDxFBiGBscDjCHDh6k/Qty+mDP27X9rWWRQpaAySktIVV3pY54yoSsNmgGLxB5+ey4cP/m+i5iNF8cOHjf+BEIFY6P7GPYQ1m9IcGO4a+XJA/rVkP794W9W3zwSMeSOPxp1juHdzuz4ukyOE2/caOHU6MmqRji0j+z5AdFknaI0yRj6El6mjyWaFOuQYiV67n5MlGoZ3koTK58m7VGW0PUNQZOqCh6d3979ul+jBHw9/AGoPfjY",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "927d6a984cf6d52bd588792199bf15bc",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Volumenstrom-Druckgefälle-Kennlinien im ausgeregelten Zustand mit Sieb, ein geeigneter Gasfilter muß verwendet werden.\n\nMBC-5000-VEF-100\n\nmechanisch offen",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztUk1v3CAU/CuWz/EaA/7qcbttD1WiSG1zSBohDA8vrQ0W4KTRKv+9sN0oUg+Rck5Oxo95j5l5c3PIYYIZTGBa5h+yvMI1BopEj5oG1x2qqFQt78hAMMeDaPOzLJ8hcMkDj/hDng7M29UJePoHJhzEz7+BLaUItT1uNig1H+9nK7XSLwAWZwV4/4yoetr0ZNPWCJMqwRZws/ZeW+PZiczNIY+DEw1CMKKPtxHmQFgn2WQFD9YdGS487NPY8ocH50unheBOxkYfHA/al5cPYs/dfOnsLxDBl3I1o2eLFaW0Yk1m+cIaKDHp6r5nX7g/X6egt/ERdr79yK4+fWa7i6YuKoTYbst2m0Wq/PEx0lF6AsPnxDF/XfupOTwsx2a+LJOOmqL+8nQ9cTOufASfrMjBjHkyYIkVZtZ5gKS+OVbc876ViPtuK5AYoQYq2bdqIBXlqlWgKNA8sQ7wJyTwlZ2S/OiTnYudW8XvEdTPFSGg0wTFVzBm0kaDyfSc8dWP4GCEKcTC9eoDNzKbdci+aRjOMtAmGwH0aCCAy6INUV86zWsaKVV2B+4ejISQ3YOTYDZJ5ZMBF9ylbd3B90Qusvw/ybWqJVJRWMclhr7lpK07XFdCSUSByPckv+EkR3ZFjRAqIsXE7lXJIljEFDWob5phoI1sO9QRFU2gba26hrwn6w0na4ZojNFe7DOrFJgXknX7FzktW6s=",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "13384f1795f5dfa8dfbd78c9628e90e0",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. muss in der Anwendung geprüft   und freigegeben werden  500  400  300  200  Empfohlener  Arbeitsbereich  150  100  80  60  50  40  30  0  0  1  -  F  E  -V  0  0  0  5  -  C  B  M  ]  r  a  b  20  m  [     p  ∆  10  8  6  5  4  3  2  Basis   + 15 °C, 1013 mbar, trocken  Based on  + 15 °C, 1013 mbar, dry  Base    + 15 °C, 1013 mbar, sec  Base   + 15 °C, 1013 mbar, secco  1  10  20  30 40 50 60  80  100  200  300 400  600  8001000  2000 3000 4000  °  Vn [m3/h] Luft / Luft / Aria dv = 1,00  20  30 40 50 60 80",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJyVUk1v2zAM/SuEr0tr+TPJgB2afgwD1qGX9ZIGhizRjrZYNiR5XVHkv5d0ku4yBKhhU7b4+B75rPVrhDvs0IbK6OgzRCor00ImDdZNWs4XKBbFPGnqfJ7KclmKJJpB1GGQWgZJ+NeIXyrfj07h6Rsr5ZCWiTCZ57kQ82VaXgounvJdr01jzgAG1yv0/h8iWeblMrucFyLNpiYGdJ3x3vTWV8dm1q8REXMbWZaKfL8hmEPVO13teiVD76YOBxm2TBv/9Oh87IxS0mkq9MHJYHz88KK20nUPrv+FKvhYj7b11dCrWPdqZLP8RW8xTrNFsVxWX6W/H3fBrEikul9dV4+3d9XNj7K4SISoblbVzeWgm2i/p3Yas0MrO+4x+lj5sTi8DFOxHIadoZlo/viY3knbjrJFz1ZEaNuIDRhop7JjVyNPX3ITAf8G5uhG78FY0Ojgyj6j5UGhxcE9jUI0qgkAMFoNjUPTYos1WnhGp2mBQgiAnEPGIeVw2w1Nv6UJiRCuXI0meNJFo7YASUGIhGELekrBFMzABACHOwG4ALgjJnp5PO0ydEpcA6wA7gE2AKQgAWpWBugA1sDXAPA0pqkoWYqUSGgqzkmFoFQvvfEE/ET9AI9Zi+sZYZMMulq6GQQ6eb95QEKiht6ewWr3csDBOUaP6h11DqT6yYBEHGYiV8gc8qg8Wpa8+8yOT9aXBzsFpQ45wbkpKeCoA/BoYd1l8XYD30f6p/FpuXJGgv4DXyCZif+ofkx00iw58GE8ndNvHZ2/aL95A/XmLx4=",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "5c4211a3f984415ba75e480f232ad4af",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. ar, secco  1  10  20  30 40 50 60  80  100  200  300 400  600  8001000  2000 3000 4000  °  Vn [m3/h] Luft / Luft / Aria dv = 1,00  20  30 40 50 60 80 100  200  300 400  600  8001000  2000 30004000 6000 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJyVUk1v2zAM/SuEr0tr+TPJgB2afgwD1qGX9ZIGhizRjrZYNiR5XVHkv5d0ku4yBKhhU7b4+B75rPVrhDvs0IbK6OgzRCor00ImDdZNWs4XKBbFPGnqfJ7KclmKJJpB1GGQWgZJ+NeIXyrfj07h6Rsr5ZCWiTCZ57kQ82VaXgounvJdr01jzgAG1yv0/h8iWeblMrucFyLNpiYGdJ3x3vTWV8dm1q8REXMbWZaKfL8hmEPVO13teiVD76YOBxm2TBv/9Oh87IxS0mkq9MHJYHz88KK20nUPrv+FKvhYj7b11dCrWPdqZLP8RW8xTrNFsVxWX6W/H3fBrEikul9dV4+3d9XNj7K4SISoblbVzeWgm2i/p3Yas0MrO+4x+lj5sTi8DFOxHIadoZlo/viY3knbjrJFz1ZEaNuIDRhop7JjVyNPX3ITAf8G5uhG78FY0Ojgyj6j5UGhxcE9jUI0qgkAMFoNjUPTYos1WnhGp2mBQgiAnEPGIeVw2w1Nv6UJiRCuXI0meNJFo7YASUGIhGELekrBFMzABACHOwG4ALgjJnp5PO0ydEpcA6wA7gE2AKQgAWpWBugA1sDXAPA0pqkoWYqUSGgqzkmFoFQvvfEE/ET9AI9Zi+sZYZMMulq6GQQ6eb95QEKiht6ewWr3csDBOUaP6h11DqT6yYBEHGYiV8gc8qg8Wpa8+8yOT9aXBzsFpQ45wbkpKeCoA/BoYd1l8XYD30f6p/FpuXJGgv4DXyCZif+ofkx00iw58GE8ndNvHZ2/aL95A/XmLx4=",
+      "is_continuation": true,
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b8f6f28a6cbb6f5283209cf7778a70d0",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. ° Vn [m3/h] Erdgas/Naturgas/Gaz Naturel/Gas metano dv = 0,65",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJyVUU1vGyEQ/SuIc2LYT3sr9eI4zSlWDm0uroXGMKyJdmEFbNTU8n8vrBz1VqknBua9N28ehwvFAUe0URhFvxBarxXWsOHrTpeom7bQetOUusFWFrU+tfSO0BEjKIiQ8BeaCxHc7CV+3lFIj+lYBIt1XfMkV7YrnslLf3TKaPMPwOSdxBD+IoqubrtqtW54WRUZNqEfTQjG2SBuZg4XmoSzjaoqeX09JphH6bwSg5MQnV8cThDPWZb9COgD80ZK8CoRQ/QQTWAvH/IMfnzx7g1lDEzNtg9icpIpJ+ccVrh3FllZbZquE08Qnuchmm0aIp63D+L18ZvY7dvmvuBc7LZit5qUptdrsqPNgBbG7JH+H/1Gjh/TQoZpGkzaKe3Pbu0BbD9DjyFHQdH2NAcwpRdh5/GEefs2m4j4K2aNnzPnJ05eLTmMFTsfyaNXPQS2hzj7XDzBb7JccEh1IPnjrSPqnXwl/K5t8tRPQ3vwOb13/J7Vr8c/F0i9yQ==",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b200cf8dc1a239a0849b09186ae1adc4",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. 500  400  300  200  150  100  80  60  50  40  30  0  0  0  5  F-8  F-1  F-6  E  E  E  0-V  0-V  0-V  0  0  0  0  1  9  C-5  C-3  C-1  B  B  B  M  M  M  20  10  8  6  5  4  3  2  Basis   + 15 °C, 1013 mbar, trocken  Based on  + 15 °C, 1013 mbar, dry  Base    + 15 °C, 1013 mbar, sec  Base   + 15 °C, 1013 mbar, secco  1  10  20  30 40 50 60  80 100  200  300 400  600 800 1000  2000 30004000  600 800010000  °  Vn [m3/h] Luft / Air / Aria dv = 1,00  20  30 40 5060  80 100  200  300 400  600 800 1000  2000",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJydUk1v2zAM/SuEr0tq+TP2gB2WpB0GLEMvzaULBEWSE22xZUjysKDIfx/pNF27Q4ANoJ5l8ZF6euDjU6QPutVd4EZF7yGSlZIqq8tZJRPFcl2ns6ap0mrLqqyptnk0gajVQSgRBPKfItpwbwcn9eVfc+k0fsaGySzPGZvVaXnDqHjMt1aZxlwh9M5K7f0fRlLnZZ3dzAqWZgnReu1a472xnefPYh6fImxMMrIsZflpgzSnpXWKH6wUwbpRYS/CntrGD147HzsjpXAKC31wIhgf3x/lXrj23tnvWgYfq6Hbed5bGSsrBzLLT22n4zSrirrmn4RfDYdg5ngJX80XfH17x5dfy2KaMMaXc7686VUTnU4opzEH3YmWNEb/Vv5cHI79WCz6/mDwTfj++Dl9EN1uEDvtyYpId7uIDOjxhHdDu9X0+pJEBP0rUI+CMYCcICNICZKCgHYVrhJXMZKIA/ASBcDdtCJICEqA20uw6foNvArk1gCLaUGQEeDJ/BKrS6SjBFSAAsarcrwdj5ElvPEA8A51wreBsS1bTJCbZNBuhZtAwLn5obuRqRXY7gpXueOZB9c6ei1fWNdI0o7vS9hZP7qFpqF35dnK5MVh8no0vUSo2Jg65xjlWM5eJRkl8fd8KcC6g8c2i/cb+DI0AWL4aByhMwLUT/gAyYT9peD/BJTsjQCar8vofW5xpKLT5jePexZY",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "1638b03c0038cccc40d7fe0b286513c9",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. 0 400  600 800 1000  2000 30004000  600 800010000  °  Vn [m3/h] Luft / Air / Aria dv = 1,00  20  30 40 5060  80 100  200  300 400  600 800 1000  2000 30004000 6000 800010000 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJydUk1v2zAM/SuEr0tq+TP2gB2WpB0GLEMvzaULBEWSE22xZUjysKDIfx/pNF27Q4ANoJ5l8ZF6euDjU6QPutVd4EZF7yGSlZIqq8tZJRPFcl2ns6ap0mrLqqyptnk0gajVQSgRBPKfItpwbwcn9eVfc+k0fsaGySzPGZvVaXnDqHjMt1aZxlwh9M5K7f0fRlLnZZ3dzAqWZgnReu1a472xnefPYh6fImxMMrIsZflpgzSnpXWKH6wUwbpRYS/CntrGD147HzsjpXAKC31wIhgf3x/lXrj23tnvWgYfq6Hbed5bGSsrBzLLT22n4zSrirrmn4RfDYdg5ngJX80XfH17x5dfy2KaMMaXc7686VUTnU4opzEH3YmWNEb/Vv5cHI79WCz6/mDwTfj++Dl9EN1uEDvtyYpId7uIDOjxhHdDu9X0+pJEBP0rUI+CMYCcICNICZKCgHYVrhJXMZKIA/ASBcDdtCJICEqA20uw6foNvArk1gCLaUGQEeDJ/BKrS6SjBFSAAsarcrwdj5ElvPEA8A51wreBsS1bTJCbZNBuhZtAwLn5obuRqRXY7gpXueOZB9c6ei1fWNdI0o7vS9hZP7qFpqF35dnK5MVh8no0vUSo2Jg65xjlWM5eJRkl8fd8KcC6g8c2i/cb+DI0AWL4aByhMwLUT/gAyYT9peD/BJTsjQCar8vofW5xpKLT5jePexZY",
+      "is_continuation": true,
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "850d646f6ac6bc643ce95ab18971a084",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. °\n\nVn [m3/h] Erdgas/Natural gas/Gaz Naturel/Gas metano dv = 0,65\n\n6 … 8\n\n7 … 8",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztlU1v2zAMhv+K4XMby7IlxwN2ydL11CCHrZc0ECiJSjz4C5JcrAvy3yelKVYMw4YeV+RkynpfmqQeWJtDii122HvR6PRDkvJCynJumAKZ1wRLzIExXakKOFAmWXqVpB160OAh6A9pDIQbJqvwZY1CWQyPU8K8KktCqpryGYnm03436MY0fxGMdlDo3C9FXpe8LmYVI7TIo2xE2zXONUPvxLmYzSENiWMZRUFJedwGmUU1WC3aQYEf7KnCEfw+ps2+OrQus41SYHUwOm/BNy5bP6k92G5th2+ovMv01O+cGAeV6UFNcVjueugxo8Wc1bW4BXc3tb5ZhI+Iu8UncX/zWSxXnF3nhIjlQixnozbp8RjKMU2LPXSxxvRt9rPZP40nM4xj24SeQv/ZebuFfjfBDl0cRYr9Lo0DGMMb0U+dxNg9j0V4/O5jjoeJEHma+UvWFdg4gkf8EiVB+zsekigNuWKSV1JRrClBpKouOAFpSiMveLwfPO77ZNMV2X6b3Fi9A5etwE8W2iTGt/AjOa2xDbFL4qH3Q6Ifk48JueLsTVSB1EiMrks1J4zmqjSm4syQ8MsBEo70QtX7oYonDxMllCfz14isg2H1rP8DH6gNrSghXFEKteHElJpXUIeLiRtG8gsf/zUf1Ws+qn/ysf0JVnm5UA==",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d2a79ac4dac0cb52890b0b0a9206ae7a",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Systemzubehör Druckwächter ÜB…A2, NB…A4 GW…A5 Gasfilter GF/3 DN… Ventilprüfsystem VPS 504 S04 Motorklappe DMK DN… weitere Informationen Datenblatt 5.07 Datenblatt 5.02 Datenblatt 11.02 Datenblatt 8.10 Datenblatt 11.11",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Systemzubehér</td><td>weitere Informationen</td></tr><tr><td>Druckwaéchter UB...A2, NB...A4 GW...A5</td><td>Datenblatt 5.07 Datenblatt 5.02</td></tr><tr><td>Gasfilter GF/3DN...</td><td>Datenblatt 11.02</td></tr><tr><td>Ventilprifsystem VPS 504 S04</td><td>Datenblatt 8.10</td></tr><tr><td>Motorklappe DMK DN...</td><td>Datenblatt 11.11</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVU+9P2zAQ/Vcsf4bY+dW0E0Ja14GmqQiJwT4Aslz70nokcWQ7Yh3q/z47SbVRKqZ98sV37927d879C4YKamgcUxJ/QDjlBS9WopzQTJaCCpmnNImnUyG5lHSa4ROEa3Bccsd9/QsOAbO6MwL238CEAX/0hHGRZZQWs2QS0QDu87WWqlTvFLRGC7D2T0U8yyazNCpymqRxKGvB1MpapRvLRjH3L9gTBxlpmtBs9+jLDAhtJKu04E6bXmHL3SbQklsLxhKjhOBGeqB1hjtlyfVWbLipr43+AcJZIrtmbVmrBZFadMEse6obIEk6zWczdsntsqucmvsmbDn/xO4+X7DF1SQ/jSllizlbRK0s8W7n5ZSqgobXQSP+P/gIdtu2B/O2rZSfyc9PxnTFm3XH12CDFRiaNQ4GtP6GNV29gjB94W8c/HSMW7ZxdRWozhxfVXB+5jbApT9MCM9vttZB/atbweahoxRm5oz465B6BuXAAPrSlNrUvQZohiwJaLJnWmm5HQnl+cJ04umZD2Ri4xnQ7TyKoo/JCbrqgwxdfg9n7hnkgPFvoVlV3DmUR7RAr7+Toa7vOTbxZnqXAvflBUkXV57uGFkcH0Xf+dWqqjWqtP306O76BuU0Qzc0O0YzjWL6lmWp/Ut7qvyGAC2WX9F7KuL4LzwZDSPDQvBuXFZY0sE6yolBg6G9n9ngZ4ilmD90CU0mg69jHKwdwxy9NsnrGzJoP37fQBzxAL0dbYQefRLoH+tDhxtBB96iQ7PCM9//Ad+CSXj3+BuQHYSz",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "7153df8a4f28e0c9477930f37ebbecdc",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Bestell-Nr.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJyVUMtOwzAQ/JXKZ5r3o+EYCpxa9QBcqsra2pvUKLEt20FUVf8dO2rFDYmTHzszOzP7C8EBR5SOCk4eF6Riq7Qrk7pGXvLymGZpXuVQZ1iVOVTQkIcFGdEBBwcefyHhQq2aDMP7Gykz6I9ZMK2LIknqJquiJJDn+ai46MQfAG0UQ2t/EWlTVE0e1WWS5WmAaTSjsFYoaenNzP5CvHCwkedZUlwPHmaQKcPpoBg4ZWaHGtwpyMbvFo2NjWAMDPdE6ww4YePdmZ3AjDujPpE5G/NJ9pZqxWKu2BTKskslMc7yVdk09BXsZhqcaP0Summf6MfzC11vq3KZJgldt3Qdad6R69Xb6cSAEsbgkfyPfiO7s57JoPUgfCafP76NB5D9BD3aUAVB2ZNQgPY/VE7jEUP6Ophw+O2CRusT4zAstyYK/Lv0Fkzo4QvfAu56+AGhi6vz",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "310cd8a2efb4004eb8b8786423400f6a",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Leitungsdose 3 pol + PE Adapter, Set Manometer- flansch G1/2 Zündgasflansch G 3/4 Deckel, seitlich 210 319 216 675 219 006 219 005",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Leitungsdose 3 pol + PE</td><td>210 319</td></tr><tr><td>Adapter, Set Manometer-</td></tr><tr><td>flansch G1/2</td><td>216 675</td></tr><tr><td>Ziindgasflansch G 3/4</td><td>219 006</td></tr><tr><td>Deckel, seitlich</td><td>219 005</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVUl2PGiEU/SuE16ow353GmtS63ZfamPTjYdcNYeCqtDPDBJikxvjfF3RszZpt0gdygXvP4ZwTHg8YamigdUxJ/A7hMksLGmUllFEiKWRFGmdlHiVxFVWyrBI8QrgBxyV33M8fcNgwq3sj4HIGJgz4ciKMijSltCjjfEID+NRvtFQb9Y+BzmgB1v6diMo0L5NJkdE4icJYB6ZR1irdWjaIeTxgTxxkJElM0+OTHzMgtJGs1oI7bU4KO+52gZZ8t2AsMUoIbqQHWme4U5as9mLHTbMy+icIZ4ns261lnRZEatGHsOxYt0Di5G1Wluye22VfOzX3j7Dl/CP7cfeJLb7k2TiilC3mbDHp5AYfj17ORtXQ8iZoxP8HH8Bu353AvOtq5T15/2Ro17zd9nwLNkSBod3iEEDnb1jbNxUE94W/cfDbMW7ZzjV1oJo6XtUwm7odcOmLCdvZZ1Au+JbaAkpQp2v0Bq3upsT3Qj+OKEqi8nwmAUQuBJWW+4FHIqFr2/H2/RrHazz7IHnnwIzQV3BoyVvt/xKYscfKgeUMm228Gyt26D4i8bnrVxzlKC+y2+kHpVq55fYPCiUkvYKViNL8FrYA8QvqEbLeq09z9wJx/RAZXJFzWPg4BBkCfCUq9IpZdO0NPax7SjfiVj56qQ4NkaMhBjT4GmoW/sDle3wLKvHx6RmHBzU/",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "82aa426a206985a8dd4a0b959d1bf1be",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Das DMV-VEF ist vorbereitet für den direkten Anbau von DUNGS Systemzubehör und Zu- satzgeräten.\n\nFlansche, Steckverbindung und Systemzubehör müssen separat bestellt werden!\n\nDoppelmagnetventil Regel- und Sicherheitskombination Stufenlos gleitende Betriebsweise\n\nMBC-...-VEF DN 65 - DN 100\n\nEckdaten zur Auslegung\n\nDUNGS Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztl01v3DYQhv8Kq3N2l5IoSsot9iZBDzaCOsmhaSDwY6hlLVECSTm1Df/3DhUHdYKgwB7d7okSNUO+M3wwI366z2CAEVzsrM5ekkyYsm1Yy7kugCqtGQXRlKxqjSqlZE32gmQjRKFFFGh/n6WHLkyLV/DtHTrlAYd1wbxmjNK6LfiWJuf1+zhpa+y/GMx+UhDCPxZ5y3hbbuuKFmWezGbwow3BTi50j2I+3We4cJJRlgVlD5/RzIOavO6GSYk4+VXhLOIhLbv7EMCHnbdKCa/RMUQvog27d7fqIPz4zk9/gophpxfXh26e1E5PaknJCpvJwa4om6ptu7ciXCxDtGe4SXdxdt59fP2m21/yapNT2u3Puv121iZ7eEA5xg7gxJg0Zse5PzrH23l1FvM8WIwJ4989fh6E6xfRQ0ipyMD1WUrAjDOdW0YJKfo6iYjwV0xr7EUg+4uPG9yQ2BDJzeTRCmyESMwfC6VGeaLBEW09XEd8eOWkWNDOkf2Hy7dX5Oo2RBjvFgmH1Z57sjhNfl82JIh414NP08DQd5skflN/KXxK9Q28T1JQ048YFlQ21EguFaNVpcC0ugZtal4VleTUnDD872D4Bj2COsALchVBXd+Al9alYFeWfoLY+JVNPBdHAswC00Ukpg2GIZIv4BHZX46irS4MA1nqpoWC5dDmLTeibWRjhCop5yfanjVtzXdFb5pnGEbRO4g3GJUdyG/Qw7D5SptFEP0Ba2C4nkbkcN0MwVwMuGEKpB9SfXQayBlEb0GGL2ADPMXtvY0D/AyzptZUtcAbXqoqp7oqcqE4hVblqq4lO2H2vDFbZ/wRZeUpl6hus91u12a8vyS8Ips0os6jShk3bd5AXTKe84q1VS50ap1U1qJiojk1zv8zY6/VdTodR+4WT14tYYAeU3MUXw2VssjxXqAUMF6VuEsj8XYgKm4qreiJr+fN13etcv3HP8c+uIS1DZ5PLvppCE+J+RVbKXa7z38DUAmEfA==",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "0b8b6475ff82080f0ef0fe5993e3274c",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Eckdaten zur Auslegung MBC-...-VEF Anwendung 1 Anwendung 2 Gas Gasart / spezifische Dichte [kg/m?] Volumenstrom V [m/h] vV min, max Eingangsdruck p,[mbar] Pemin. Pomax. Brennerdruck p, [mbar] beiV, beiV, X, Regelbereich, Leistungsbereich Stellzeit der Mengendrossel von Kleinlast auf GroBlast [s]",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Eckdaten zur Auslegung MBC-...-VEF</td><td>Anwendung 1</td><td>Anwendung 2</td></tr><tr><td>Gas</td></tr><tr><td>Gasart / spezifische Dichte [kg/m?]</td></tr><tr><td>Volumenstrom V [m/h] vV min, max</td><td/><td/></tr><tr><td>Eingangsdruck p,[mbar] Pemin. Pomax.</td></tr><tr><td>Brennerdruck p, [mbar] beiV, beiV, X,</td><td/><td/></tr><tr><td>Regelbereich, Leistungsbereich</td></tr><tr><td>Stellzeit der Mengendrossel von Kleinlast auf GroBlast [s]</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVF1v2jAU/StXeaYkEEpg6jqVtdvD1gptLZpEUWScG+LVsSPb6foh/vuuQ9DYWIv6En/knOvre871/DlAiSUql4oseAdBnLAkx8HxKGLDZZLgGHkyiKJRP0p643HMgg4EJTqWMccI/xz4SWp1bThu15hygzQ0AXvJgPjJuD/sRp7c/C91JnLxCqAymqO1fxC98WA4jrvJcdSPex5WoSmFtUIrm7bJzJ8DCuzTiON+NFgvCGaQa5OlUnPmtGkyrJgrfNjwxqKxoRGcM5MR0TrDnLDh9JEXzJRTo38idzbMarWyaaV5mGle+2LZI60w7Mej4/E4/czsZS2dmNAh6eXkYzq7+JSeXw2Pj3pRlJ5P0vNuleXBek3p5EKiYqXPMXgbvSW7x6ohs6qSgu5E9w/b35KpVc1WaH0pAlSrwBegop1U1eUS/e1HtOPwwaXMpoUrpQ914thS4umJK5BlNBg/Pb3gd14JBU+1gbPaSlxRGYASPOp2u0eU5ElIMA89U79Q+SJB7z97/c1e6OOG2zOWOntsj8qAa2krpt7fBvFtcEr1IFzWMl6CMOMgBFvhExnJ8gLhXPDCIczvVmH5YbEX4nSmpdeORNYlzGBehsUC7mdQCtWBkj1sGBvW7uTlNC6EWlHNbWZqfgdVZ14umVnAFClkF6aagnb385gYVArNlgQta4li1mm/PzpvT+YbrlCSyEhl6MBXFNZ527Y7h9jfHUr5hMJBhgYuyTykntHUgRLutYIvEoWSzDpgdQ6fjZ40i7ndL/ReZJJqAy6Lg+gb5dAoLEgokvdMkbJG5O4Q7YpaivATZIYqSCEOEa7p1cu12oGFrSfDTTcE67ZTfIcc7gXY6QEge8JBi8YL2HNk7C05a9wz8+aBfxyGW7NU2GlQfvS4vz01MTumauM1M2jArzsF3myF2zqKsnzrB9gVvLnQC5rCnmjQqrJTzL5/2LZv3rVXJlgvfgM6PTst",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "873fa2851210ce906f5946f00f1856f7",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Startlast [mh] Unternehmen / Anschrift Name / Bearbeiter Telefon",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Startlast [mh]</td></tr><tr><td>Unternehmen / Anschrift</td></tr><tr><td>Name / Bearbeiter</td></tr><tr><td>Telefon</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVF1v2jAU/StXeaYkEEpg6jqVtdvD1gptLZpEUWScG+LVsSPb6foh/vuuQ9DYWIv6En/knOvre871/DlAiSUql4oseAdBnLAkx8HxKGLDZZLgGHkyiKJRP0p643HMgg4EJTqWMccI/xz4SWp1bThu15hygzQ0AXvJgPjJuD/sRp7c/C91JnLxCqAymqO1fxC98WA4jrvJcdSPex5WoSmFtUIrm7bJzJ8DCuzTiON+NFgvCGaQa5OlUnPmtGkyrJgrfNjwxqKxoRGcM5MR0TrDnLDh9JEXzJRTo38idzbMarWyaaV5mGle+2LZI60w7Mej4/E4/czsZS2dmNAh6eXkYzq7+JSeXw2Pj3pRlJ5P0vNuleXBek3p5EKiYqXPMXgbvSW7x6ohs6qSgu5E9w/b35KpVc1WaH0pAlSrwBegop1U1eUS/e1HtOPwwaXMpoUrpQ914thS4umJK5BlNBg/Pb3gd14JBU+1gbPaSlxRGYASPOp2u0eU5ElIMA89U79Q+SJB7z97/c1e6OOG2zOWOntsj8qAa2krpt7fBvFtcEr1IFzWMl6CMOMgBFvhExnJ8gLhXPDCIczvVmH5YbEX4nSmpdeORNYlzGBehsUC7mdQCtWBkj1sGBvW7uTlNC6EWlHNbWZqfgdVZ14umVnAFClkF6aagnb385gYVArNlgQta4li1mm/PzpvT+YbrlCSyEhl6MBXFNZ527Y7h9jfHUr5hMJBhgYuyTykntHUgRLutYIvEoWSzDpgdQ6fjZ40i7ndL/ReZJJqAy6Lg+gb5dAoLEgokvdMkbJG5O4Q7YpaivATZIYqSCEOEa7p1cu12oGFrSfDTTcE67ZTfIcc7gXY6QEge8JBi8YL2HNk7C05a9wz8+aBfxyGW7NU2GlQfvS4vz01MTumauM1M2jArzsF3myF2zqKsnzrB9gVvLnQC5rCnmjQqrJTzL5/2LZv3rVXJlgvfgM6PTst",
+      "is_continuation": true,
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f8e6e52c17ef7caafb39e7f0980ab377",
+    "text": "Dieser Text ist für Produt: GasMultiBloc_MBC_VEF_DN65-100. Produkt ID: 238599. Der Dokumentyp is Datenblatt. Änderungen, die dem technischen Fortschritt dienen, vorbehalten.\n\nHausadresse\n\nKarl Dungs GmbH & Co. KG SiemensstraBe 6-10 D-73660 Urbach, Germany\n\nTelefon +49 (0)7181-804-0\n\nTelefax +49 (0)7181-804-166\n\nBriefadresse\n\nKarl Dungs GmbH & Co. KG\n\nPostfach 12 29\n\nD-73602 Schorndorf, Germany e-mail info@dungs.com Internet www.dungs.com\n\n8 … 8",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf"
+        },
+        "date_created": "1744007926.0",
+        "date_modified": "1744007926.0",
+        "date_processed": "1744194693.750231",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "238599_GasMultiBloc_MBC_VEF_DN65-100_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJztmE1vGzcQhv8KsYeiRS2J5HL50VOhqHGKIIaBOL0kwYJLDq0tdkmBpOIYhv97SNVJjX4B6i2xTlqRM8N3Xj3gknp718AEM/jcj7b5CTUdCEkEoRaIA6GswN0ATFiLZUcFiOYMNTNkbXXWJf6uqQ99Cvto4PN36E2E8nEoSARjGAtF+RLX5MP8HOzoxv8I2MVgIKU/I4hiXLVL0WHakhq2gziPKY3Bp/5BzNu7phSuMtqWYnb/voRFMCHafgpG5xAPCnc6b2vZ1ZsEMa3iaIyOtiSmHHUe0+ry1mx1nC9j+B1MTiu799ep3wWzssHsq1lpETysaCs7pfpznV7tpzyuyyL9q/Wz/rdfnvebC94tCMb9Zt1vljvrmvv7IseNE3g9V43NcekPyfl2d0jWu900lp5K/6uH6Un7672+hlStaMBfN9WAXRnp/X4eoHYvq4gMH3Ot8W6PsWHeQiwNgj9DdgRkYUYZzNaPyWzBo+ch5vIUx5zrvK9xH0IcYKunDH5ZV/4s6kLH6uAHuKorlKX+ShcWTkqpbQGLFp4GbUAL0qnSKZOAyYmub4euF3qftI3V56MY0YRSoplsleSMcKcotNAOzA6tFsDsiZFvh5GXOk5oU5tD5/PwAn2HnoUlenmOXo8ViVT9WAPiRQjaLETLOUZvYtk2tmfovNiv/e1jtq7GPME/McUMCGytFIOVlHXMEsM1FhpahQ2lJ6a+cqYOI/GIPeQxhFeFFRc8+pEp9D3+QRBJFhKzBT5q2wJBAauBSmkwJkJoS21XyhBTcNMdnBB76ojpj39DjHB+HGRG044YrAyXrXOOll+r7ImO0WJIQe0E2ROGbB3HAtn/OHEZDBWjVspWYEWUGdoBY4VBQ3lPQnui6glT9W9HtKMIU7ZljFGj6DAQho10gzCt065l3GErT4Q9YcIuQ8quHOkRoYiqo7jifKDEaTB0ILYcs7ShwAdpCAAeFDn9n/CUuTpcGDFFr802RG9DdF8ujQgWsx4nNHoXfj4YtjRhRr/6DNFDRjc3N8svw0cR6QoalIPGXZFmOwWGO6YFEbq8UjmcrgFfOZGPAZPo3Z5iypF8jMhlSbj4I/7+/SeUG0dz",
+      "product_id": "238599",
+      "product_name": "GasMultiBloc_MBC_VEF_DN65-100",
+      "document_type": "Datenblatt",
+      "product_category": "GasMultiBloc"
+    }
+  }
+]

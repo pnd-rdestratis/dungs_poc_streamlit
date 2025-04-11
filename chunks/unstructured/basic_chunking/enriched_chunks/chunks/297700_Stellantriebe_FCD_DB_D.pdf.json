@@ -1,0 +1,1873 @@
+[
+  {
+    "type": "CompositeElement",
+    "element_id": "3fc1e43ef9cfb637538afd42dd7e862a",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Stellantriebe FCD A 00-10 xx FCD A 00-15 xx FCD A 01-15 xx\n\nDUNGS Combustion Controls\n\nSTELL-  ANTRIEBE \n\n0 0 7 7 9 2 . r N • 2 1 . 4 2 0 2 n o i t i d E • y n a m r e G n i d e t n i r P\n\n1 … 16\n\ng - — 4\n\nTechnische Beschreibung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztlltrIzcUgP+KmOcm1v3St80mXRYWExrv03YZdDnjTPFckMYlIeS/98hJqFuWNn00mEFIRzrX0Yekb08N7GCAcWn71PxMmqSMVIpLIaT2QjqeoOM+RM1Z7DjVzU+kGWDxyS8e9Z+aOmjLtM8R3mRoYwbsDg6ZkZJS4zi9pNX4sD5Mqe/6f1GY8xShlL80mJPaiUsjLJeuqs2Qh76UfhpL+5rMt6cGHdc0hOBUPn9HtQxxyqndTdEvUz5kOPvlvrpdfS2Qyyr3Mfqc0LAs2S99Wd0+xnufh9s8/Q5xKau0H7elnae4SlPc159VLqYRVtwZQ2l7t8Bu58cl9xCg/eXjdXt91V5fzqlrnp8xha7fweiHmlfz3yavBsvjfDDw87zrMXesc/W6jIbbvd9CqSU3MG6bWuiMM+24HwLUKlkNvMDDUn38LRrBaOQDofSCUfLwcCSqI5G9iDXcWyZrn+vv+QM21S36/yc6yjluo1BcAQerBAjNpIxRB8udjvGMzumhc/11/emOfJyGsC/VEQ4x9LQrx2R8HtDBj4hg2kinREpeCSeTE8kZR63stKBROHcm4vSIuNvcfPlyQciH9ebXzzdXN+RdJICU1rKYgjGRucAEx2NBm9AZamNg9EzC6ZHwro0XzuM+WNYpCPiEsMyZwGVHLbdMBCrPG396G08JJQY/Rzi5JJmsyW97TjlHkeGExJ5iG8lEerJgS+TmTeURpz0Z0ArIJxzXRUClOsrk9n89OCjeJV0M0lnVdVaxEFDSwmlGhQnhfKicIFvsBRRNmD5m4RYt1i8GPwDBK52YDVx7LrmxHozm3gBlwANVKpxBOD0QtuTigAKTRL7vsYkXi/VOOrBG4JVDk4k8cA9MKNuJ7gzB6UGwgXg/9iXeA7kC7DL0AUs65mHTLzvk4fufXCU/Pw==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "472883e07295b33373d50e841de22f23",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Die DUNGS Flow Control Drive Stell- antriebe sind programmierbare, elek- tronische Stellantriebe mit 2-Punkt-/ 3-Punkt-Schritt als auch Analog-An- steuerung. Die drei Baugrößen de- cken einen Drehmomentbereich bis 35 Nm ab. Durch das robuste Druck- gussgehäuse mit optischer Stellungs- anzeige im Deckel erreichen die Stellantriebe eine hohe Schutzart. Zu- sammen mit der integrierten Heizung sind die Stellantriebe auch für extre- me Umgebungsbedingungen geeig- net.\n\nAnwendung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztVE1P3DAQ/SujnMkmm2Q3m96AiPaEkIBLKYoce5K4JHbkDyig/e8dh6UgKrXnSr0ktjNv5s2bF988RzjihMo1UkSfINoUqeiQFVvMihZpw7YZbouMtwXm3W4THUE0oWOCOUbxz1FYNFZ7w/F1jw03SK8l4bosijQtqyxdpQG8fJ+0kJ38Q8BsNEdr3yLWVbGt8lWZ77KiCmEzmklaK7WyzYHMzXNEiQONPM/SYn9LYQa5NqIZNWdOm4XhzNwQ0ibXFo1NjOScGUFA6wxz0iYXj3xgZrow+jtyZxPhVW+bWfNEaO6DWDbWCpOsKss0bS4djiNTzkhssTk7rZv6pKlXs+ii/Z4odHJExabAK/o75ABwj/MCYPM8SuJOfSaHzwTsPevRhpYjVH0UGp3ppFF+ajF0uV5OzNtc12Wb7VhVVLgr8yLdpaLkWZsxXOebXZcTVUI4/OFCcC0R6uvzz5dwNuoHONXEVI9QG3mPsHCP4ZU9WKkE0Lx6w6ZJommp7BGQq+5iIJiSlg8H1C/MJB1k8YVXdy5OID+sLvlgpHPARgvM8wGOFRt1Hx+rGKxDj4YGsYLAThiUcMJ8b775NO224Um+VSAwBn5HC5SKnrXBYdJhZKQLSsrZSgv5Bs4nYC3lIt8OIJgFo1tPRQjhOTHvvbU9DiEvFt6+UNazW7oxL+0EWwQhnlD2CHKCGqn0CGiWUoGN/Nh5oAWDDorwwbsnZtwKvnpqkNQjRCgjqIBUDnuCGEeHX1A+UbEXqX/PuWjVLUJwAzRDQyJMCNdTj20g2aKQ5BnVU64eiW0MCt0qmOnVZ+fMBPPf41XwAJnh48WQiW1R7bIuXefbTZqnPKvSbl3yPOddti6r/xfDv3ExvP/Pj9UDqtDEeydcSTditL/9CSmWADQ=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "c13a7678fdb2434fbb7f442ea9489f25",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Mit den Flow Control Drive Stellantrie- ben werden motorbetriebene Regel-/ und Drosselklappen angesteuert.\n\nIn Kombination mit den Regelklappen FCV... und den Linearstellgliedern FCVL bilden die Stellantriebe FCD eine ideale Kombination. Durchfluss- mengen von Luft oder Gas lassen sich somit genau regeln.\n\nZulassung\n\nCE, UKCA\n\nDrehrichtung Stellantriebe FCD A 00-10 xx FCD A 00-15 xx FCD A 01-15 xx\n\nDUNGS Combustion Controls\n\nS i\n\nProduktbeschreibung",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "orig_elements": "eJztmF1v2zYUhv8KoevGJilKFHfXxUtXNCuKpdlFi0Lgx6HNVR8GKaUpgvz3HaoJ6hbBtlwG8YVhkzzn6H15HoiSP94U0EEPw9QGV/xCCl3bRujSq0ZIURovtJOCWSuqEiqQtHhBih4m7fSkMf6myD/aNM7Rwv0YWhsBv5aCTApBqVScrpbkZb0fXfDhXwL2cbSQ0vcIpkStypUsGy5UDttD7ENKYRxSeyfm402BhbOMsuRU3H7CsAh2jK7tRqunMS4K93ra5bLrywQxrWOwVkeHiWmKegpp/e6r3enYv4vj32CntHbzsE3tfrRrN9o5b1Y6GQdYcyUlpe3FBF2nhykGMNCenW7aza/tZrV3vri9RQk+dDDoPusq/jvlLmH6ul8S9H7fBdSOPtd3y5i4nfUWUrZcwLAtstE9zrTD3BvILtkyE7/3lbtaqIZ7ysq6oiW1XFHPpC1L6zmTqshKJ7iecvAfYSIOBnLWjV/I6Yg6x45sYrgCcqD8hBiM+QIxh/Yjbq+Bb44GIH/CFrqTNZkHh5kjtrL73KEZDEX5uNUwQ5xW2c+91bc65v2/gvdZBur5mc0KhIHG1xK8VaWypa+9tqoSAMrqWhzZfAZsvh7Im7E3YViuS/o7VBfe7gk7O/1rtVot7OW18zCAjin72nbYWYhLyDkxocvrLvzAtQFc3RDALBIc6A4Or7giG+Rp57s5pROCG77FCleo5Hz2E8FORfJKJ9JpJGQgKdgdSWNWiXF6JjHrHB7HvTS8Zk6UsgZVCmReGS1siROV4cbWR+6fAfcf5owUun4UOs4IiR/rqVMaRKkkl0bWXjKh6wrYEZ1ngM7pby/I5ZvTl48ih3EKzjtRAwVjJDWWS29LSR0DDe5403ka5PBDEDYRduhyN6GPB068l4TSE0bJ9fXBsDoYsm/DQ45+B41H3kMA1UpYKQWvGqY4Hl1a1FwZBBSRUdroI0BPEKDLt68u8I2gN3NaHr/uXg7SIRKveyzwEBGaUSUkd56B4tw2zBrFq0o3lXYNyOpIxNMj4oKE/9n7qnIUPHO1pSC4YEZrRQE8NFY1x/8VnmDv0YibP08Gkt1FCOanh9P3YeqQhU//AKTd1l4=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "ee33b393cd1d76fe959dbc606bc534fc",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Die DUNGS Flow Control Drive Stell- antriebe FCD A xx-xx xx eignen sich zur präzisen Ansteuerung und Ver- stellung motorisch angetriebener Regel- und Drosselklappen. In Ver- bindung mit einer Luft- bzw. Gasre- gelklappe (FCV G/FCV A) oder einem vergleichbaren Stellglied lassen sich Durchflussmengen präzise steuern:\n\n• Drei Baugrößen decken Drehmo- mente von 3 Nm bis 35 Nm ab.\n\n• Der integrierte Schrittmotor in Kom- bination mit der Mikrocontroller- Steuerung ermöglicht eine hoch- präzise Steuerung.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztVU1v1DAQ/SujnEBidxMn2Wy4la5aIaBCFLgAirz2ODFN7Mh2yrZV/zvjbJevA4gzXOxkPG/yZuZ58uEuwR4HNKHRMnkKSVFVjFWFrKuaMZ6LIiuzmgmVySxXrJTJE0gGDFzywMn/LokPjbeTE3h8x0Y4pG0OmFVFkaYULV2mETyfD1ZqpX/jMDor0PvvHlldrOt8WeUbVtTRbUQ3aO+1Nb55IPPhLqHAkUaes7S4/0RuDoV1sumt4MG6meHIQxfDrt55dH7ltBDcSQL64HjQfvX6RnTcDa+d/Ywi+JWcTOub0YqVtGKKxfILa3DF6qpK0+YyYN9zE5zGHTZnp9tm+6zZLkepkvt7oqB0j4YPkVfyZ8gDINyMM4CPY6+JO+W5ejgmYDvxFn1MOUHTJjHRkSyNmYYdxizZbHHf+8qzspQpUh/XIsWCFdmO8zpFVLgR9SZNItOA+xCdtxph++7i/BLOevsFTi0xtT1snb5GmLkv4MgeiD2cwH6/2O9pBdStQQNeiw5uJwej+zil9MVb7cl8YnzACR1VFCYj4T26BfgYMVoGSz3SnpCUIh7iG3TwBlukT0bA1lmSRX/VU2HQLOG5OcTYaSPnEDoQhQh6OalA9tsvSzjn3uEC2iMOHp2dvofzVVxPHgO13s2gAa7RtT0S910s3iHXtielQs+9P+a1JbV3qp+8JzG0ZP0xSThkaJ7GXh3beMFd1NY1vo0lplr/eu+4yKRYy0Lxqs6yAmWZKq6yolIVK2u1/n/v/oF793FiKWOkcdTwjE/trCq1jqtUJDOJ4oo2Ou8Gu4BYEYRrayCHi4GugIe8jE98t/wr8RVFlbFUiTyrMlVjqkpWVeuy3uyIbb2p/4vvHxIfzUJNumqJpiN5XYrO6RDm0UwH8MIO87Sd2c3jNk7PV/qKmnf4T/RxHl9+G/PUsoOMaY6K7jCdobOiW/w8Nr8hfqfdT18B6BrOvw==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "116d431c00f9daa04deb05f378f8aeab",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. • Geräteeigenschaften und Parame- ter werden direkt am Gerät einge- stellt.\n\n• Zwei-Punkt-Betriebsart (Auf/Zu) sowie Zwei-Punkt-Betriebsart mit zusätzlicher Zwischenstellung\n\n• Im laufenden Betrieb umschaltbar zwischen 3-Punkt-Schritt sowie Analog-Ansteuerung\n\n• Analoge Stellungsrückmeldung\n\n• Optische Stellungsanzeige im Ge- häusedeckel und elektronische Stellungsrückmeldung (0/4 - 20 mA oder 0/2 - 10 V).",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztlk1v1ToQhv+KlRVInMZ2nC92hQrEBiqVexcFFE3s8TnmJE5kOxRa9b9fOwT1qhKgrttVEvsd+53Jo7E/3WQ44Ig2dEZlL0km2rqGtgbGkQkldN+3WKuqVJVilZYie0GyEQMoCBD1N1l66fy0OIm/vrGTDuNjXZDVQlBat5ye0BS8zo+TMtr8QTC7SaL3dwrWiqotTuqi4aJNshndaLw3k/XdZubTTRYXTjaKglNx+yXKHMrJqW6YJITJrQ5nCIe0bP6PR+dzZ6QEp2KgDw6C8fn5D3kAN5676SvK4HO12L3v5knmapJLKpbfTRZzHmtFaXcRcBjABmewx+7N67Pu7FV3djIrnd3eRgvaDGhhTL6yv4dsAeHHvAbAPA8meo955tt0DNwvsEefUs7Q7rOU6BxHOruMPaYs+Tri7v4rsLJUFDVTlaQouGA9QEsRNTaybWiWnAb8HpL488Ip5+Qtus8LjeqAaPZofSyLDmjJYhU5Bxdz2pGAjlyhU3FYGYfHQGD8XyRBY/dR5lPG4ST5/5Xae3Cp3t/wY9o27n+fRQotVKzqRdn0SmrVyrIEKnRLFeqG8ScWHw+Ll1dodueLPYbdK1y9enCBPDtddH65PCd+ujL4O9VoArle/IbkdUziEKm9vDKR6Ih1KkAs64PYLGTTQMxCxiWroikRpOKslyUrVKHhqU8+IjbfjWSARaNNTXDjjixjapdD6MGR6400UmxwXsiDMyFs1J5aGKb97jSRuKB7KIrAWibrinOhC85UtKxKURW8UVJqxOIJxceD4k+UkFxsPc2v57CW8jjioB5KFnKOdS9FRXmlmzaeuoqXsmINFFhw/UTWIyLrwxzWJnaHFtjrdC0kJt33duTw83hd4n9CecRhvSVGno7BTfZe6H0qyTOaC7IjnJLxlMTqO0JzHgcYJf8+/9Ot8ct/Kk4UvA==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "256b05379670ffb9c939062f076c5c8f",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. • Endlagen für min.- und max.-Posi- tion frei programmierbar. Signali- sierung der Endlagen erfolgt über potentialfreie Relais-Wechselkon- takte.\n\n• Potentialfreier Relais-Wechselkon- takt zur Auswertung der Betriebs- bereitschaft.\n\n• Baugrößenabhängig sind zwei (nur FCD A 00-10 xx) bzw. drei zusätz- liche Positions-Nockenschalter vor- handen.\n\n• Die Kontakte sind potentialfrei auf Anschlussklemmen verdrahtet.\n\n• Die Stellantriebe verfügen über weitere, vielfältige Einstellmöglich- keiten und Features.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztlk1v2zgQhv8KodMWqGxKovXRW7JpLwWKoN3FHtpC4MdQ5loiBZJKUgf57zuUEwRZoC1yTi6WRM2M3xk9eMmvtxmMMIGNvVHZO5LtukIKXXRS1LVmOwV1uWN11fJdURd1V2RvSTZB5IpHjvG3Wbrpg1u8hIdn6KUHvKwFi4YxSpuupBuaktf3k1NGm18EzN5JCOExouhY3VWbpmpL1qWwGfxkQjDOhv5ezNfbDAsnGVVVUnb3HcM8SOdVPzrJo/OrwpnHfSq7/TuAD1tvpOReYWKInkcTtpc/5J776dK7f0HGsFWLHUI/O7lVTi5pWCF3FrZl1zSU9l8ijCO30RsQ0H/486K/OO8vNrPS2d0dStBmBMunpCv7fcp9Qvwxrwl8nkeD2rHP7f1rTBwWPkBILWdghyw1OuNKb5dJQOqyXFf843flxW6nKOhC1ZICK1khOO8ogIZWdi3NktIINzEFf1tKWpbkvVUjVrVEf1so1dKTydhNTharyMRvNvmlCyYnSRvRHgzBrzZ4Pk0GvOB+Q76YwfIRQwKu4BCJAv9YFbx24xDJqTjqJrOLqNjwMVUD8hlGbkL+D8h9gPHgLP4XP0TYpCk8DOgT9+mrXcFfSTx28X+ii7bVnZDtrqGloEwVuwqb1wCIOaWCvxL9coi+fAKY/xlh5Lh4craEa/DxAdtzWHsLOUE9YGLAier4PBQV41rUQjblTjOtNG/TRWqqK64qzl5RfDkonvNl8Kv11elXaWxD7NMtMDuYAT0TbfZ4jbb6h0UcsQ9yRijNC0pubt4QcbzeEJVc97iEU1o85gT72QNJxpy6CvknJw9gE6xjRIqvnM/JnlsF9nnoila1XIkWRKE7CYyrRsiyrlhXyrpt6Cu6LwfdC9ybPzq77sUnTJ9s3IQvmpwl5sYlhANihKMhV+CV5/sIz/RMEBVtGt0xwWhX1xJK3MC5UrUoyqaA5hW8lwXeE6WJqvvDaTpRPp4k0TbR7uAtuTIw6pM9jtEMQN4bG1KJ6eS9QzLMnBxSvF1Pth+QlMVD+BWm3/8DfzZAAQ==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "089fd8701a95468cd79018dc4ddd7416",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. • Einfache Parametrierung/Einstel- lung durch Drehschalter/Taster di- rekt am Gerät: Laufzeit, Rampen- zeiten und Hysterese.\n\n• Robustes Aluminiumgehäuse, Schutz- art IP65 und integrierte Heizung ge- währleisten einen reibungslosen und dauerhaften Betrieb auch unter schwierigen Bedingungen.\n\n2 … 16\n\n3 … 16\n\nStellantriebe FCD A 00-10 xx FCD A 00-15 xx FCD A 01-15 xx\n\nDUNGS Combustion Controls\n\nZertifizierung / Zulassungen \n\nUK CA\n\nEAL",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "orig_elements": "eJztl1lvGzcQgP8Ksc+WxWOXu8ybY6dx0MAw4vglBxY8hhLbPQRyt/EB//cMZQdRCyNp+iZULxKHnBnODL9ZkB/vC+igh2FqgytekEJJ2mhuTFlpzhRlVnlbM1oD98IKI4ojUvQwaacnjfr3RR60aZyjhW8ytDYC/m0dsrosKa0Vp8c0G2/X+9EFH36gsImjhZS+azBVSiWOa9HwUmW1DcQ+pBTGIbVPwXy8L9BxDkMITsuHz6gWwY7Rtd1o9TTGbYQbPa2z2+V1gpiWMViro0PDNEU9hbS8vLVrHfvLOP4BdkpLNw+r1G5Gu3SjnXOx0mIcYMlVXVPaXk3QdXqYYgAD7W+nZ+3Zy/bseON88fCAIfjQwaD7HFfxc5Mng+l2szXQm00XMHbMc/m0jIarWa8g5ZQLGFZFTnSDM+0w9wZylnw7E7+fq2ZV5Sh45qSlUPKSGa0VBfDQWNXQIkc6wc2UlT/NnHJOXoXBa7sGcqkjxp+jjViKJc4nTGBBOpSIw6Nfk7MI64Rl6yaIy/ca1yNxYUEi/DkR3ZPXED/NFHeeXpC3evZ3EKYj8k73GxgWJEswkHlw5Pw220KC45zrtzJc6JjP5i94n0PEWP/JLdTOCONN3YCVtpKVBpBWOK5KoYWtD9z+f7h9N5oZIUrkpJv7MIS5X8H6kb45wRG5sut5ulsQHSfy5lJWW+7CMMEqEz4BOYdwl9FewYJ8eTRcxw5CypBCGPA3QjC5vN2YnsB1eoa41j7rvNw2iyF6xtaYh9wM2Bxf0HtYbZddwFoMOP41yg2egrVSSstZo4Q1RmHC2gsBtXW0PFC+H5TvQsvJFltJmNxl4RItLh4NngHBWeq1tKzmpuGMe84AFDYK99Ro3+gDCHsBgtgFQfwXEBrqvAbhaM0d42VZM7DaKAdGSGhAHUDYPxD+thvB3cgJoXTBKLm52RGrHZE9irvcnIN2zzMjhS8FNUyALDkXjaw9lrRmkjlXgqUHZvaPmbPri9dX5HTs89UHHeEQtx67tIvEmx4dPEcEE42htKk05cCVMULRWhrmKasaX2G5D0TsHREf8CqL5b57fLSRJfkwdzql7a2T/CsqKmmdbzhWVUgJtQSuq9JI29jaO1Udbpt7SMX17+T05Nde1hbwzUUVOM6ZU9AYX1thG9kwfGVzf6Bg/yh4dfL2mS/A56/LumBN",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b32dd71fc06ade93359345b6854dd658",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. 2014/35/EU Niederspannungsrichtlinie 2014/30/EU EMV-Richtlinie 2011/65/EU RoHS\n\nKonformität mit den Anforderungen für Großbritannien (UK).\n\nKonformität mit den Anforderungen der Eurasischen Wirtschaftsunion.\n\nDIN EN 16340: 2014-10\n\nDIN EN 60730-1: 2021-06",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "orig_elements": "eJztlU1v1DAQhv9KlBNIbOPYWTvpDdjlQxWrqmXhUKrIsce7RrtxZDuIUvW/M05b8XEAeizaiz32zHjecR7FF9c57GAPfWytzo+znGlKSsOFJroGUfJSUC7mkmlRagq6yZ9l+R6i1DJKjL/Ok9EGN3oF92tolQecpgNLUVWEiIaSI5KSJ//eaWvsHwIG7xSE8COibCresCPBalpNIgbwexuCdX1o78RcXOd4cJLBGCXVzSWGeVDO63bnlIzOTwoHGbfp2GIdwIfCW6Wk15gYopfRhuL0Sm2l35969xlUDIUe+01oB6cK7dSYLivMXA8FbYQgpD2PsNvJPnoLHbSvXi7axYt2cTRok9/coARjd9DLfdKV/z3lLiFeDVOCHIadRe3YZ3HnxsTNKDcQUss59Js8NTrgTtuP+w5SlywVjvA1TkVJWRVsXizX2QovHZseZN+nprD3bdzZ3kJ2G0RS0PLdh9nZL56y4FP6mXtzniTcq1tJn67sC7xPpbDm7zjV1ZxIqAXQSjCqatORiuBAiBS6o+qA0+PD6cT1xuFtxU8jIVDFDM1MQ589T/uIF/aHK5PcRvnstXfJ1KbzNiJ4Fp1P1idPjx5EkiEav6nmrMKBN1rwEipRUZy6mnJ5IOm/JQmNbDl6GWxQW1x/tD6iJU0MY4/1HwZSoxg00lB84Sg1quOy5J2qaSerms5LcgDp8YG0eLvKlqusTH+H4+kpm91+yH+mojKyJNzUulaN4nrOmaIG5rVmjBk55wcqHi0VnAhGZmXigpYzwn/mYt1jDdg4b7+BvmXj8jtU+IQk",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d2c55c4d8d9dacb4108d938261378380",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Technische Daten FCD A 00-10 FCD A 00-15 FCD A 01-15 Max. Drehmoment (einstellbar) - 4 Nm 12 Nm 35 Nm S2 o= 6 Nm 18 Nm sS4 - 3Nm 9Nm Laufzeit (einstellbar) - 15-60s/90° 25-90s/90° 25-90s/90°",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Technische Daten</td></tr><tr><td/><td/><td>FCD A 00-10</td><td>FCD A 00-15</td><td>FCD A 01-15</td></tr><tr><td>Max. Drehmoment (einstellbar)</td><td>-</td><td>4 Nm</td><td>12 Nm</td><td>35 Nm</td></tr><tr><td>S2</td><td>o=</td><td>6 Nm</td><td>18 Nm</td></tr><tr><td>sS4</td><td>-</td><td>3Nm</td><td>9Nm</td></tr><tr><td>Laufzeit (einstellbar)</td><td>-</td><td>15-60s/90°</td><td>25-90s/90°</td><td>25-90s/90°</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVm1v2zgM/iuEP21AHEt+99AV1yW422HrUCBd78M6GIqtJL7FdiApaNqi//0ox3GVxMl6H6JQfBNFkQ/949niS17ySqVFbn0AK57RIMySmEQ+z904nuaMU869PKK5F1FmDcAquWI5Uwz1ny1NpLJei4zv9jzNBMe/xiGNfJ+QKHHJkGjjRl7WeTErziisRJ1xKV81aOKHiTeMvNj1E6224qIspCzqSqZtMD+eLXSsw/A8l/gvP1FN8KwWebqsM6Zq0US4Ymqh3TrfJRfSEUWWMZGjoVSCqUI6N4/ZgonyRtT/8kxJJ19Xc5mu6szJ62ytkyXtuuKOm0QRIelE8eWSVUoUfMrTP0fjdPwpHQ9X+cx6ecEQZsWSV6zUcVm/N2kN1OOqMWCr1bLA2PGeTitGw/mazbnUV7Z4Nbf0RVfISat1OeX6lh5yFN+olMl0ocqldnWh2HTJLy/UtM4f8U/gL4esXsoVqz7eW8G9dXnLs0VVyGzBYYzvUF04Kr/ERez0L7cck8Dw4QoIsSnp4QWHPNrxDLcg6oc2DA/DuGabIYwFX5S1Tje840Uldc6mTLzvHNod5cO3sttQ19x5QbczrzFxO436Y0eGe37iXks58Xsi8AzDpMfs4IJf2Xr2xIvf34wGdkikk5D7NSHT1wS7gZ28mX/i4sYpru0HPd4wlT2CU9kwEhkNAtvt84iCsEdiurxaz5ZaxhOJjXdcbzvCKF0XU0oJITDJFqJQSnFw4PQJXXk9FNUvvjznWT8WpadjHcE3rp60cnU22MuEgA1uSODuajSAgDhIfn460DNdj9/smsa2R+7Go9POjOrTqfrKC6k0qGEVVmxR8mOfeLrrwwcodar8QQz/GKIhyu4aUXiCD5TuJL3gcTXaug4wHUfMqI8J9FV3r56zxVo9MaHOJOjvmzA4k+nv5ZxPdToUL3GsMLUWb646221rY4R92lLHJ/zFH4ps0RNixoYEk/trbnLoIDzguAO34+yV37TEKYmhw7tPm8+b2/e9J+Bj+LCB2MUl8aAs9w7zgg1QEqOMuu6BEGgUagG+Jq7+q9isrf2EfGFT/KIoqllRLIRZt95EDa9p424QoCNApDJOcwHlcO2SV4U/Ept6/0OlCcppx5uznXbWSzsJ9QQ8nG5gjC6DDsAYVWDboMcLNGMFmnECZ+cTTFxtFDZGeobAxNcMT5OJXnCjHQNCgDSAClzNTN7C7J8f7ckatcEP9i16mdvAEJM1Nh3I+rk7cJ6FTdmdBF04wFjoQBQOMBP6kREO8E+nEnOIWig4AjDURri6M/EKOuTQwLGvEJri6EiswQv2gQc6nAGNJtCDGYBYAC0EbB93t2nbH3RHbdu9Ibd93pDbBoejfoa+9t0ysRL3Gxf6Gxa6jmzeLWu6Eoux6SWzH7U4j6EpN73vabdWJUEV6r1RR3+y7r5mb3VPWi8//wPu4K/z",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "6153215605888a551c6ad3703cce9bfa",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. S2 - 12-45s/90° 12 -45s/90° sS4 o= 7,5-25s/90° 7,56-25s/90° Auflésung 1000 Schrittte / 90° Max. Drehwinkel 110° AC Netzspannung 90 - 260 VAC, 50/60 Hz DC Netzspannung 18-30VDC",
+    "metadata": {
+      "text_as_html": "<table><tr><td>S2</td><td>-</td><td>12-45s/90°</td><td>12 -45s/90°</td></tr><tr><td>sS4</td><td>o=</td><td>7,5-25s/90°</td><td>7,56-25s/90°</td></tr><tr><td>Auflésung</td><td/><td/><td>1000 Schrittte / 90°</td></tr><tr><td>Max. Drehwinkel</td><td/><td>110°</td></tr><tr><td>AC Netzspannung</td><td/><td/><td>90 - 260 VAC, 50/60 Hz</td><td/></tr><tr><td>DC Netzspannung</td><td/><td/><td>18-30VDC</td><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVm1v2zgM/iuEP21AHEt+99AV1yW422HrUCBd78M6GIqtJL7FdiApaNqi//0ox3GVxMl6H6JQfBNFkQ/949niS17ySqVFbn0AK57RIMySmEQ+z904nuaMU869PKK5F1FmDcAquWI5Uwz1ny1NpLJei4zv9jzNBMe/xiGNfJ+QKHHJkGjjRl7WeTErziisRJ1xKV81aOKHiTeMvNj1E6224qIspCzqSqZtMD+eLXSsw/A8l/gvP1FN8KwWebqsM6Zq0US4Ymqh3TrfJRfSEUWWMZGjoVSCqUI6N4/ZgonyRtT/8kxJJ19Xc5mu6szJ62ytkyXtuuKOm0QRIelE8eWSVUoUfMrTP0fjdPwpHQ9X+cx6ecEQZsWSV6zUcVm/N2kN1OOqMWCr1bLA2PGeTitGw/mazbnUV7Z4Nbf0RVfISat1OeX6lh5yFN+olMl0ocqldnWh2HTJLy/UtM4f8U/gL4esXsoVqz7eW8G9dXnLs0VVyGzBYYzvUF04Kr/ERez0L7cck8Dw4QoIsSnp4QWHPNrxDLcg6oc2DA/DuGabIYwFX5S1Tje840Uldc6mTLzvHNod5cO3sttQ19x5QbczrzFxO436Y0eGe37iXks58Xsi8AzDpMfs4IJf2Xr2xIvf34wGdkikk5D7NSHT1wS7gZ28mX/i4sYpru0HPd4wlT2CU9kwEhkNAtvt84iCsEdiurxaz5ZaxhOJjXdcbzvCKF0XU0oJITDJFqJQSnFw4PQJXXk9FNUvvjznWT8WpadjHcE3rp60cnU22MuEgA1uSODuajSAgDhIfn460DNdj9/smsa2R+7Go9POjOrTqfrKC6k0qGEVVmxR8mOfeLrrwwcodar8QQz/GKIhyu4aUXiCD5TuJL3gcTXaug4wHUfMqI8J9FV3r56zxVo9MaHOJOjvmzA4k+nv5ZxPdToUL3GsMLUWb646221rY4R92lLHJ/zFH4ps0RNixoYEk/trbnLoIDzguAO34+yV37TEKYmhw7tPm8+b2/e9J+Bj+LCB2MUl8aAs9w7zgg1QEqOMuu6BEGgUagG+Jq7+q9isrf2EfGFT/KIoqllRLIRZt95EDa9p424QoCNApDJOcwHlcO2SV4U/Ept6/0OlCcppx5uznXbWSzsJ9QQ8nG5gjC6DDsAYVWDboMcLNGMFmnECZ+cTTFxtFDZGeobAxNcMT5OJXnCjHQNCgDSAClzNTN7C7J8f7ckatcEP9i16mdvAEJM1Nh3I+rk7cJ6FTdmdBF04wFjoQBQOMBP6kREO8E+nEnOIWig4AjDURri6M/EKOuTQwLGvEJri6EiswQv2gQc6nAGNJtCDGYBYAC0EbB93t2nbH3RHbdu9Ibd93pDbBoejfoa+9t0ysRL3Gxf6Gxa6jmzeLWu6Eoux6SWzH7U4j6EpN73vabdWJUEV6r1RR3+y7r5mb3VPWi8//wPu4K/z",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "83eca9f2bcbb35a2e88c542fc517ef1c",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Leistungsaufnahme DC 24 : max. 4,8 W DC. 24V max.6 W DC. 24V max. 11 W AC: max.5 VA AC: max.7 VA AC: max. 15 VA Schutzart IP65 Umgebungstemperatur -20°C-60°C Gewicht ca.0,8 kg ca.1,6 kg ca.2,2 kg",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Leistungsaufnahme</td><td/><td>DC 24 : max. 4,8 W</td><td>DC. 24V max.6 W</td><td>DC. 24V max. 11 W</td></tr><tr><td/><td>AC: max.5 VA</td><td>AC: max.7 VA</td><td>AC: max. 15 VA</td></tr><tr><td>Schutzart</td><td/><td/><td>IP65</td><td/></tr><tr><td>Umgebungstemperatur</td><td/><td/><td>-20°C-60°C</td></tr><tr><td>Gewicht</td><td/><td>ca.0,8 kg</td><td>ca.1,6 kg</td><td>ca.2,2 kg</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVm1v2zgM/iuEP21AHEt+99AV1yW422HrUCBd78M6GIqtJL7FdiApaNqi//0ox3GVxMl6H6JQfBNFkQ/949niS17ySqVFbn0AK57RIMySmEQ+z904nuaMU869PKK5F1FmDcAquWI5Uwz1ny1NpLJei4zv9jzNBMe/xiGNfJ+QKHHJkGjjRl7WeTErziisRJ1xKV81aOKHiTeMvNj1E6224qIspCzqSqZtMD+eLXSsw/A8l/gvP1FN8KwWebqsM6Zq0US4Ymqh3TrfJRfSEUWWMZGjoVSCqUI6N4/ZgonyRtT/8kxJJ19Xc5mu6szJ62ytkyXtuuKOm0QRIelE8eWSVUoUfMrTP0fjdPwpHQ9X+cx6ecEQZsWSV6zUcVm/N2kN1OOqMWCr1bLA2PGeTitGw/mazbnUV7Z4Nbf0RVfISat1OeX6lh5yFN+olMl0ocqldnWh2HTJLy/UtM4f8U/gL4esXsoVqz7eW8G9dXnLs0VVyGzBYYzvUF04Kr/ERez0L7cck8Dw4QoIsSnp4QWHPNrxDLcg6oc2DA/DuGabIYwFX5S1Tje840Uldc6mTLzvHNod5cO3sttQ19x5QbczrzFxO436Y0eGe37iXks58Xsi8AzDpMfs4IJf2Xr2xIvf34wGdkikk5D7NSHT1wS7gZ28mX/i4sYpru0HPd4wlT2CU9kwEhkNAtvt84iCsEdiurxaz5ZaxhOJjXdcbzvCKF0XU0oJITDJFqJQSnFw4PQJXXk9FNUvvjznWT8WpadjHcE3rp60cnU22MuEgA1uSODuajSAgDhIfn460DNdj9/smsa2R+7Go9POjOrTqfrKC6k0qGEVVmxR8mOfeLrrwwcodar8QQz/GKIhyu4aUXiCD5TuJL3gcTXaug4wHUfMqI8J9FV3r56zxVo9MaHOJOjvmzA4k+nv5ZxPdToUL3GsMLUWb646221rY4R92lLHJ/zFH4ps0RNixoYEk/trbnLoIDzguAO34+yV37TEKYmhw7tPm8+b2/e9J+Bj+LCB2MUl8aAs9w7zgg1QEqOMuu6BEGgUagG+Jq7+q9isrf2EfGFT/KIoqllRLIRZt95EDa9p424QoCNApDJOcwHlcO2SV4U/Ept6/0OlCcppx5uznXbWSzsJ9QQ8nG5gjC6DDsAYVWDboMcLNGMFmnECZ+cTTFxtFDZGeobAxNcMT5OJXnCjHQNCgDSAClzNTN7C7J8f7ckatcEP9i16mdvAEJM1Nh3I+rk7cJ6FTdmdBF04wFjoQBQOMBP6kREO8E+nEnOIWig4AjDURri6M/EKOuTQwLGvEJri6EiswQv2gQc6nAGNJtCDGYBYAC0EbB93t2nbH3RHbdu9Ibd93pDbBoejfoa+9t0ysRL3Gxf6Gxa6jmzeLWu6Eoux6SWzH7U4j6EpN73vabdWJUEV6r1RR3+y7r5mb3VPWi8//wPu4K/z",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c6f80113b8b22ca5073a68b5c4ebec38",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Abmessung (BxHxT) ca. 114 x 82 x 93 mm ca.135x 108 x 122 mm ca. 176 x 111 x 142 mm Kabeleinfiihrung 3St.M16 x 1,5 mm 5-9mm 2 St. M20 x 1,5 mm @9-13mm 2 St. M20 x 1,5 mm @9-13mm",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Abmessung (BxHxT)</td><td/><td>ca. 114 x 82 x 93 mm</td><td>ca.135x 108 x 122 mm</td><td>ca. 176 x 111 x 142 mm</td></tr><tr><td>Kabeleinfiihrung</td><td>3St.M16 x 1,5 mm 5-9mm</td><td>2 St. M20 x 1,5 mm @9-13mm</td><td>2 St. M20 x 1,5 mm @9-13mm</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVm1v2zgM/iuEP21AHEt+99AV1yW422HrUCBd78M6GIqtJL7FdiApaNqi//0ox3GVxMl6H6JQfBNFkQ/949niS17ySqVFbn0AK57RIMySmEQ+z904nuaMU869PKK5F1FmDcAquWI5Uwz1ny1NpLJei4zv9jzNBMe/xiGNfJ+QKHHJkGjjRl7WeTErziisRJ1xKV81aOKHiTeMvNj1E6224qIspCzqSqZtMD+eLXSsw/A8l/gvP1FN8KwWebqsM6Zq0US4Ymqh3TrfJRfSEUWWMZGjoVSCqUI6N4/ZgonyRtT/8kxJJ19Xc5mu6szJ62ytkyXtuuKOm0QRIelE8eWSVUoUfMrTP0fjdPwpHQ9X+cx6ecEQZsWSV6zUcVm/N2kN1OOqMWCr1bLA2PGeTitGw/mazbnUV7Z4Nbf0RVfISat1OeX6lh5yFN+olMl0ocqldnWh2HTJLy/UtM4f8U/gL4esXsoVqz7eW8G9dXnLs0VVyGzBYYzvUF04Kr/ERez0L7cck8Dw4QoIsSnp4QWHPNrxDLcg6oc2DA/DuGabIYwFX5S1Tje840Uldc6mTLzvHNod5cO3sttQ19x5QbczrzFxO436Y0eGe37iXks58Xsi8AzDpMfs4IJf2Xr2xIvf34wGdkikk5D7NSHT1wS7gZ28mX/i4sYpru0HPd4wlT2CU9kwEhkNAtvt84iCsEdiurxaz5ZaxhOJjXdcbzvCKF0XU0oJITDJFqJQSnFw4PQJXXk9FNUvvjznWT8WpadjHcE3rp60cnU22MuEgA1uSODuajSAgDhIfn460DNdj9/smsa2R+7Go9POjOrTqfrKC6k0qGEVVmxR8mOfeLrrwwcodar8QQz/GKIhyu4aUXiCD5TuJL3gcTXaug4wHUfMqI8J9FV3r56zxVo9MaHOJOjvmzA4k+nv5ZxPdToUL3GsMLUWb646221rY4R92lLHJ/zFH4ps0RNixoYEk/trbnLoIDzguAO34+yV37TEKYmhw7tPm8+b2/e9J+Bj+LCB2MUl8aAs9w7zgg1QEqOMuu6BEGgUagG+Jq7+q9isrf2EfGFT/KIoqllRLIRZt95EDa9p424QoCNApDJOcwHlcO2SV4U/Ept6/0OlCcppx5uznXbWSzsJ9QQ8nG5gjC6DDsAYVWDboMcLNGMFmnECZ+cTTFxtFDZGeobAxNcMT5OJXnCjHQNCgDSAClzNTN7C7J8f7ckatcEP9i16mdvAEJM1Nh3I+rk7cJ6FTdmdBF04wFjoQBQOMBP6kREO8E+nEnOIWig4AjDURri6M/EKOuTQwLGvEJri6EiswQv2gQc6nAGNJtCDGYBYAC0EbB93t2nbH3RHbdu9Ibd93pDbBoejfoa+9t0ysRL3Gxf6Gxa6jmzeLWu6Eoux6SWzH7U4j6EpN73vabdWJUEV6r1RR3+y7r5mb3VPWi8//wPu4K/z",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "e8f0c769b928f6fc6ac786a26db527e2",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Stellantriebe FCD A 00-10 xx FCD A 00-15 xx FCD A 01-15 xx\n\nDUNGS Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztUk9PwyAU/yoNZ7dC25XhTV00XoyJejKGUHidmFII0GRm2XcX5ozTg55NPPEe/P498h63CAYwMEauFTotEFGY1T1rG9rJpqeqxdVyQYERUlVtTzt0UiADUSgRRcJvUS54sJOX8NEDlx7S8S5ImwZjyio8x5m8fzdW6V7/AHDeSgjhE0FY07J6Tutl1bAMc+CNDkHbMfBDmMctSsI5Rl1XuNk9JZgHab3ig5UiWr9P6ER8zrLlQwAfSq+lFF4lYoheRB3K21f5LLy59fYFZAylmsZ14M7KUlk55c8KMztCWTFKMeZ3EYZBjNFr6IBfXqz46pyv5k71aLdLEXo9wChMzoV+pxwI8dXtCcK5Qafsac7y8JyI60msIeSREYxrlAd16YaPk+kgT9lk4wibmDW+uBXJrTgrMJ4RXGw2R+3iqCXvbbb7SHKv4wAo6X5fmQVusQDCVJ0+UrIeC0paSoDUsoZlz/5X5u+tzOrh5uquuLCmm0IWSmWytkM43ohrkwTQ7ukNtFZXNQ==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "4887c05f0d9d106d8caeec85f54224fb",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. FCD A 00-10 FCD A 00-15 FCD A 01-15 Gehuse Aluminiumguss Wellenanschluss 7X7x7,5mm Innenvierkant 9x9x9,5mm Innenvierkant 9x9x9,5mm Innenvierkant Flanschverbindung FO03, LK @ 30, 4 x M5, LK @50, 2 x M6 FO03, F05, LK@ 4 x M6 F07,LK @50, 4 x M5, LK@ 50, 4 x M6",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>FCD A 00-10</td><td>FCD A 00-15</td><td>FCD A 01-15</td></tr><tr><td>Gehuse</td><td>Aluminiumguss</td></tr><tr><td>Wellenanschluss</td><td>7X7x7,5mm Innenvierkant</td><td>9x9x9,5mm Innenvierkant</td><td>9x9x9,5mm Innenvierkant</td></tr><tr><td>Flanschverbindung</td><td>FO03, LK @ 30, 4 x M5, LK @50, 2 x M6</td><td>FO03, F05, LK@ 4 x M6</td><td>F07,LK @50, 4 x M5, LK@ 50, 4 x M6</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1WAtv2zYQ/isHARu2Io5oW7bjrguaNk0xrI+g6WNIWxi0dJK5SJRAUk3SIv99R70s27KTZi0CJ+bx7nj8eI8P+fjNwRgTlGYmAuchOON+/yCcByxgbDAd4WjKxx7D+QEifR+PQ2cPnAQND7jhpP/NsV9mOs2Vj/UaZ75C+lM47E88j7HJdMD2mTUu9pM0EKHYoZCp1Eetlxr9qTeeDvcnw4OBN7VqGapEaC1SqWdVMB+/OeTYhjEcDph385nUFPqpCmZx6nOTqiLCjJuFdeu+06i0q4TvcxWQoTaKG6Hd02t/wVVyqtJ/0TfaDXIZ6VmW+m6Q+rkFS/dSie5gOpkwNjszGMdcGiVwjrOTp8ez4yez4/0sCJ2bGwohFDFKnti4nNtNKgNznRUGPMtiQbHTPd1qmwyjnEeo7ZUdlJFjL5qRZCbzZI72lh5JDF6ZGdezhUli6+qR4fMYDx+ZBfKA/ij79fCRa3/Rh6KAI2Cs12cdstG6rN/IXOvJrb3O0+C6ch4cPsdFrpE27U4AfhrrjMs/PznDT87hUZwnQoo8iXKtS53CVWX7gSAi3KT2F3GjQJ/JP5Oryd4oSeAvKVF+EaguCMpmf3pFP/fdbwdwEheHf0E1F9LmQOPi5DUb7sGLv+ExDNkeeHAFL0elYETrgV2P17RPWKHxuNRu7bLJXm24dPQYmvV4M7IXlDVSBzxHtQXbEaNqYgzOry8IRMilQQXv05iyThuK0G62FeYoYMzgF3hB+5sHUilEiicJYUU4uPAEA4GyDUkjobMCWNUn9RAXsY6Q6gtBE5r2wI7QBxS6oQyGM6rA2MZsvb2lmLjJFYgEnqP6lDOGUwMRBmEo0aCVLkopZRt8zaNyISMqncXmbQa901xeGDiS2mBehLgFxvPcPcpDeG5DQkHZAoGIhOEWsmdCRry2vMU9JMLA+aWgdEKZpVrYet59pthx5oYreLfUvkRBwN0t1GEZao/gVsLcBRGL7HwOry3yEn7lSfaHfaxY4BNaiyLqLDXUIwWPQ4UCi9NlhPAA3mCEhTDic8qD8o0N5Al8rS4E6xHZ9z+SPE7pAks4yaW2LXTOFcKZ4Yo6d5Lh5gVLU6QMLHqtJs0tF/thsT2AudCUhNC39VXpojtlBXTsoX2mVvDlflRl9RNc3X5pbeNLVGYuYtuDIBRCVadSA8tys+aPh9hkhfXJB6sKb3YDdXsGMNeDHgwYJEfwgS8oOEFF15bSKFUkGJCgz95vnlVMPztTlRD+RYJx8DNPeyaDmGajpBqU+27Cr/a3HNUohoSwVe4VL2wteqc1pDZDIFu2N8IU+EpbOhMRYSl01ftsdI1nWx1vMOZC945y3bQphN8+oL/QGF+k0vALg793jKOimF6l/gXKKj2b7n94TrisvvOq4h6l5avXJVavnkIsqiZr+UetA5dlPAvr4Ds8n66W+9pNGkdVMh6rH+FvNZ1oOOjdafSggp0T6raBfqVp8rK0KF6o7g8EC7VPG0to6vK5czxuRX7ckmg5NxUJs+TrLVnJoo/AMQ1B2Ywsz46sNa4DG9QDWiMftk5j6Bo9dx1HG+2tbdDRR6GjZcCytO3lQr8pb9gsQ+jKaFh5TWiR0tb3EbRIKKzwSJgQZyo+eyMgjjelr8Wnc7nCAHeuTirGZ68VHKzQvpMWvav3S+YGlty1pKscry0tKWOX6hj+F5cjfwM2GMBOfla+1Z14l9fyWJO6amPJ7IiaFS7H6/zMa/Mzr+Rntb+K9yxj2UZ+7qu/nu/rltuJU+2ieJtxRX0q2lPIQmy76+A/9YWxdvXD6Eblbwsj+lnH3UJxKq3tTCccV7h1qnawnhLdNebTecwqAdpUKAgQfCevgPf3sKifpuEV9SXuSS6WtbeLYyzzcJ1peJ1MY1kf64P5to3bR/lt68pRi5kso6/21qZvt7SbyXgFk1kf2BvrpkTuQRC6glnzb/9lU/83560lBs7N5/8AVc6M9g==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "1b1b1d259e55cbcec311bc2d4aa89090",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Lebensdauer 500.000 Zyklen unter Volllast, 2.000.000 Zyklen bei 60 % Last Programmierung/ Bedienung Bedienung und Programmierung Befehlsgerate sind bei tber Schalter und Tastatur im Gerét gedffnetem Gehéuse zugénglich 2-Punkt Ansteuerung Zu/Auf Gber einen digitalen Eingang",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Lebensdauer</td><td>500.000 Zyklen unter Volllast, 2.000.000 Zyklen bei 60 % Last</td></tr><tr><td>Programmierung/ Bedienung</td><td>Bedienung und Programmierung Befehlsgerate sind bei</td><td>tber Schalter und Tastatur im Gerét gedffnetem Gehéuse zugénglich</td></tr><tr><td>2-Punkt Ansteuerung</td><td>Zu/Auf Gber einen digitalen Eingang</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1WAtv2zYQ/isHARu2Io5oW7bjrguaNk0xrI+g6WNIWxi0dJK5SJRAUk3SIv99R70s27KTZi0CJ+bx7nj8eI8P+fjNwRgTlGYmAuchOON+/yCcByxgbDAd4WjKxx7D+QEifR+PQ2cPnAQND7jhpP/NsV9mOs2Vj/UaZ75C+lM47E88j7HJdMD2mTUu9pM0EKHYoZCp1Eetlxr9qTeeDvcnw4OBN7VqGapEaC1SqWdVMB+/OeTYhjEcDph385nUFPqpCmZx6nOTqiLCjJuFdeu+06i0q4TvcxWQoTaKG6Hd02t/wVVyqtJ/0TfaDXIZ6VmW+m6Q+rkFS/dSie5gOpkwNjszGMdcGiVwjrOTp8ez4yez4/0sCJ2bGwohFDFKnti4nNtNKgNznRUGPMtiQbHTPd1qmwyjnEeo7ZUdlJFjL5qRZCbzZI72lh5JDF6ZGdezhUli6+qR4fMYDx+ZBfKA/ij79fCRa3/Rh6KAI2Cs12cdstG6rN/IXOvJrb3O0+C6ch4cPsdFrpE27U4AfhrrjMs/PznDT87hUZwnQoo8iXKtS53CVWX7gSAi3KT2F3GjQJ/JP5Oryd4oSeAvKVF+EaguCMpmf3pFP/fdbwdwEheHf0E1F9LmQOPi5DUb7sGLv+ExDNkeeHAFL0elYETrgV2P17RPWKHxuNRu7bLJXm24dPQYmvV4M7IXlDVSBzxHtQXbEaNqYgzOry8IRMilQQXv05iyThuK0G62FeYoYMzgF3hB+5sHUilEiicJYUU4uPAEA4GyDUkjobMCWNUn9RAXsY6Q6gtBE5r2wI7QBxS6oQyGM6rA2MZsvb2lmLjJFYgEnqP6lDOGUwMRBmEo0aCVLkopZRt8zaNyISMqncXmbQa901xeGDiS2mBehLgFxvPcPcpDeG5DQkHZAoGIhOEWsmdCRry2vMU9JMLA+aWgdEKZpVrYet59pthx5oYreLfUvkRBwN0t1GEZao/gVsLcBRGL7HwOry3yEn7lSfaHfaxY4BNaiyLqLDXUIwWPQ4UCi9NlhPAA3mCEhTDic8qD8o0N5Al8rS4E6xHZ9z+SPE7pAks4yaW2LXTOFcKZ4Yo6d5Lh5gVLU6QMLHqtJs0tF/thsT2AudCUhNC39VXpojtlBXTsoX2mVvDlflRl9RNc3X5pbeNLVGYuYtuDIBRCVadSA8tys+aPh9hkhfXJB6sKb3YDdXsGMNeDHgwYJEfwgS8oOEFF15bSKFUkGJCgz95vnlVMPztTlRD+RYJx8DNPeyaDmGajpBqU+27Cr/a3HNUohoSwVe4VL2wteqc1pDZDIFu2N8IU+EpbOhMRYSl01ftsdI1nWx1vMOZC945y3bQphN8+oL/QGF+k0vALg793jKOimF6l/gXKKj2b7n94TrisvvOq4h6l5avXJVavnkIsqiZr+UetA5dlPAvr4Ds8n66W+9pNGkdVMh6rH+FvNZ1oOOjdafSggp0T6raBfqVp8rK0KF6o7g8EC7VPG0to6vK5czxuRX7ckmg5NxUJs+TrLVnJoo/AMQ1B2Ywsz46sNa4DG9QDWiMftk5j6Bo9dx1HG+2tbdDRR6GjZcCytO3lQr8pb9gsQ+jKaFh5TWiR0tb3EbRIKKzwSJgQZyo+eyMgjjelr8Wnc7nCAHeuTirGZ68VHKzQvpMWvav3S+YGlty1pKscry0tKWOX6hj+F5cjfwM2GMBOfla+1Z14l9fyWJO6amPJ7IiaFS7H6/zMa/Mzr+Rntb+K9yxj2UZ+7qu/nu/rltuJU+2ieJtxRX0q2lPIQmy76+A/9YWxdvXD6Eblbwsj+lnH3UJxKq3tTCccV7h1qnawnhLdNebTecwqAdpUKAgQfCevgPf3sKifpuEV9SXuSS6WtbeLYyzzcJ1peJ1MY1kf64P5to3bR/lt68pRi5kso6/21qZvt7SbyXgFk1kf2BvrpkTuQRC6glnzb/9lU/83560lBs7N5/8AVc6M9g==",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "6757707e3110eddd2724c45b2eaf447d",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. 2-Punkt Ansteuerung mit Zwischenposition Zu/Auf iber einen digitalen Eingang Zwischenposition Uber einen weiteren digitalen Eingang 3-Punkt-Schritt Ansteuerung » Offnen & SchlieBen iiber potentialfreie Eingnge * Regelfreigabe schaltet um zwischen 3-Punkt-Schritt und Analogansteuerung Einstellbare Startrampe",
+    "metadata": {
+      "text_as_html": "<table><tr><td>2-Punkt Ansteuerung mit Zwischenposition</td><td>Zu/Auf iber einen digitalen Eingang Zwischenposition Uber einen weiteren digitalen Eingang</td></tr><tr><td>3-Punkt-Schritt Ansteuerung</td><td>» Offnen &amp; SchlieBen iiber potentialfreie Eingnge * Regelfreigabe schaltet um zwischen 3-Punkt-Schritt und Analogansteuerung Einstellbare Startrampe</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1WAtv2zYQ/isHARu2Io5oW7bjrguaNk0xrI+g6WNIWxi0dJK5SJRAUk3SIv99R70s27KTZi0CJ+bx7nj8eI8P+fjNwRgTlGYmAuchOON+/yCcByxgbDAd4WjKxx7D+QEifR+PQ2cPnAQND7jhpP/NsV9mOs2Vj/UaZ75C+lM47E88j7HJdMD2mTUu9pM0EKHYoZCp1Eetlxr9qTeeDvcnw4OBN7VqGapEaC1SqWdVMB+/OeTYhjEcDph385nUFPqpCmZx6nOTqiLCjJuFdeu+06i0q4TvcxWQoTaKG6Hd02t/wVVyqtJ/0TfaDXIZ6VmW+m6Q+rkFS/dSie5gOpkwNjszGMdcGiVwjrOTp8ez4yez4/0sCJ2bGwohFDFKnti4nNtNKgNznRUGPMtiQbHTPd1qmwyjnEeo7ZUdlJFjL5qRZCbzZI72lh5JDF6ZGdezhUli6+qR4fMYDx+ZBfKA/ij79fCRa3/Rh6KAI2Cs12cdstG6rN/IXOvJrb3O0+C6ch4cPsdFrpE27U4AfhrrjMs/PznDT87hUZwnQoo8iXKtS53CVWX7gSAi3KT2F3GjQJ/JP5Oryd4oSeAvKVF+EaguCMpmf3pFP/fdbwdwEheHf0E1F9LmQOPi5DUb7sGLv+ExDNkeeHAFL0elYETrgV2P17RPWKHxuNRu7bLJXm24dPQYmvV4M7IXlDVSBzxHtQXbEaNqYgzOry8IRMilQQXv05iyThuK0G62FeYoYMzgF3hB+5sHUilEiicJYUU4uPAEA4GyDUkjobMCWNUn9RAXsY6Q6gtBE5r2wI7QBxS6oQyGM6rA2MZsvb2lmLjJFYgEnqP6lDOGUwMRBmEo0aCVLkopZRt8zaNyISMqncXmbQa901xeGDiS2mBehLgFxvPcPcpDeG5DQkHZAoGIhOEWsmdCRry2vMU9JMLA+aWgdEKZpVrYet59pthx5oYreLfUvkRBwN0t1GEZao/gVsLcBRGL7HwOry3yEn7lSfaHfaxY4BNaiyLqLDXUIwWPQ4UCi9NlhPAA3mCEhTDic8qD8o0N5Al8rS4E6xHZ9z+SPE7pAks4yaW2LXTOFcKZ4Yo6d5Lh5gVLU6QMLHqtJs0tF/thsT2AudCUhNC39VXpojtlBXTsoX2mVvDlflRl9RNc3X5pbeNLVGYuYtuDIBRCVadSA8tys+aPh9hkhfXJB6sKb3YDdXsGMNeDHgwYJEfwgS8oOEFF15bSKFUkGJCgz95vnlVMPztTlRD+RYJx8DNPeyaDmGajpBqU+27Cr/a3HNUohoSwVe4VL2wteqc1pDZDIFu2N8IU+EpbOhMRYSl01ftsdI1nWx1vMOZC945y3bQphN8+oL/QGF+k0vALg793jKOimF6l/gXKKj2b7n94TrisvvOq4h6l5avXJVavnkIsqiZr+UetA5dlPAvr4Ds8n66W+9pNGkdVMh6rH+FvNZ1oOOjdafSggp0T6raBfqVp8rK0KF6o7g8EC7VPG0to6vK5czxuRX7ckmg5NxUJs+TrLVnJoo/AMQ1B2Ywsz46sNa4DG9QDWiMftk5j6Bo9dx1HG+2tbdDRR6GjZcCytO3lQr8pb9gsQ+jKaFh5TWiR0tb3EbRIKKzwSJgQZyo+eyMgjjelr8Wnc7nCAHeuTirGZ68VHKzQvpMWvav3S+YGlty1pKscry0tKWOX6hj+F5cjfwM2GMBOfla+1Z14l9fyWJO6amPJ7IiaFS7H6/zMa/Mzr+Rntb+K9yxj2UZ+7qu/nu/rltuJU+2ieJtxRX0q2lPIQmy76+A/9YWxdvXD6Eblbwsj+lnH3UJxKq3tTCccV7h1qnawnhLdNebTecwqAdpUKAgQfCevgPf3sKifpuEV9SXuSS6WtbeLYyzzcJ1peJ1MY1kf64P5to3bR/lt68pRi5kso6/21qZvt7SbyXgFk1kf2BvrpkTuQRC6glnzb/9lU/83560lBs7N5/8AVc6M9g==",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "19c4a916d3f1e91b58d2f60d1294b9c8",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Analoge Betriebsart Regelfreigabe schaltet um zwischen 3-Punkt-Schritt und Analogansteuerung * bis zu 1000 Schritte/90°: einstellbare SchrittgréBe einstellbare Mittelwertbildung fiir Analog Input einstellbare Safeposition ¢ einstellbare Rampe Analoge Ansteuerung 0/4 - 20 mA Wahlweise 0/4 - 20 mA oder 0/2 - 10V Stellungsriickmeldung 0/4 - 20 mA Wahlweise 0/4 - 20 mA oder 0/2 - 10V",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Analoge Betriebsart</td><td>Regelfreigabe schaltet um zwischen 3-Punkt-Schritt und Analogansteuerung * bis zu 1000 Schritte/90°: einstellbare SchrittgréBe einstellbare Mittelwertbildung fiir Analog Input einstellbare Safeposition ¢ einstellbare Rampe</td></tr><tr><td>Analoge Ansteuerung</td><td>0/4 - 20 mA Wahlweise 0/4 - 20 mA oder 0/2 - 10V</td></tr><tr><td>Stellungsriickmeldung</td><td>0/4 - 20 mA Wahlweise 0/4 - 20 mA oder 0/2 - 10V</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1WAtv2zYQ/isHARu2Io5oW7bjrguaNk0xrI+g6WNIWxi0dJK5SJRAUk3SIv99R70s27KTZi0CJ+bx7nj8eI8P+fjNwRgTlGYmAuchOON+/yCcByxgbDAd4WjKxx7D+QEifR+PQ2cPnAQND7jhpP/NsV9mOs2Vj/UaZ75C+lM47E88j7HJdMD2mTUu9pM0EKHYoZCp1Eetlxr9qTeeDvcnw4OBN7VqGapEaC1SqWdVMB+/OeTYhjEcDph385nUFPqpCmZx6nOTqiLCjJuFdeu+06i0q4TvcxWQoTaKG6Hd02t/wVVyqtJ/0TfaDXIZ6VmW+m6Q+rkFS/dSie5gOpkwNjszGMdcGiVwjrOTp8ez4yez4/0sCJ2bGwohFDFKnti4nNtNKgNznRUGPMtiQbHTPd1qmwyjnEeo7ZUdlJFjL5qRZCbzZI72lh5JDF6ZGdezhUli6+qR4fMYDx+ZBfKA/ij79fCRa3/Rh6KAI2Cs12cdstG6rN/IXOvJrb3O0+C6ch4cPsdFrpE27U4AfhrrjMs/PznDT87hUZwnQoo8iXKtS53CVWX7gSAi3KT2F3GjQJ/JP5Oryd4oSeAvKVF+EaguCMpmf3pFP/fdbwdwEheHf0E1F9LmQOPi5DUb7sGLv+ExDNkeeHAFL0elYETrgV2P17RPWKHxuNRu7bLJXm24dPQYmvV4M7IXlDVSBzxHtQXbEaNqYgzOry8IRMilQQXv05iyThuK0G62FeYoYMzgF3hB+5sHUilEiicJYUU4uPAEA4GyDUkjobMCWNUn9RAXsY6Q6gtBE5r2wI7QBxS6oQyGM6rA2MZsvb2lmLjJFYgEnqP6lDOGUwMRBmEo0aCVLkopZRt8zaNyISMqncXmbQa901xeGDiS2mBehLgFxvPcPcpDeG5DQkHZAoGIhOEWsmdCRry2vMU9JMLA+aWgdEKZpVrYet59pthx5oYreLfUvkRBwN0t1GEZao/gVsLcBRGL7HwOry3yEn7lSfaHfaxY4BNaiyLqLDXUIwWPQ4UCi9NlhPAA3mCEhTDic8qD8o0N5Al8rS4E6xHZ9z+SPE7pAks4yaW2LXTOFcKZ4Yo6d5Lh5gVLU6QMLHqtJs0tF/thsT2AudCUhNC39VXpojtlBXTsoX2mVvDlflRl9RNc3X5pbeNLVGYuYtuDIBRCVadSA8tys+aPh9hkhfXJB6sKb3YDdXsGMNeDHgwYJEfwgS8oOEFF15bSKFUkGJCgz95vnlVMPztTlRD+RYJx8DNPeyaDmGajpBqU+27Cr/a3HNUohoSwVe4VL2wteqc1pDZDIFu2N8IU+EpbOhMRYSl01ftsdI1nWx1vMOZC945y3bQphN8+oL/QGF+k0vALg793jKOimF6l/gXKKj2b7n94TrisvvOq4h6l5avXJVavnkIsqiZr+UetA5dlPAvr4Ds8n66W+9pNGkdVMh6rH+FvNZ1oOOjdafSggp0T6raBfqVp8rK0KF6o7g8EC7VPG0to6vK5czxuRX7ckmg5NxUJs+TrLVnJoo/AMQ1B2Ywsz46sNa4DG9QDWiMftk5j6Bo9dx1HG+2tbdDRR6GjZcCytO3lQr8pb9gsQ+jKaFh5TWiR0tb3EbRIKKzwSJgQZyo+eyMgjjelr8Wnc7nCAHeuTirGZ68VHKzQvpMWvav3S+YGlty1pKscry0tKWOX6hj+F5cjfwM2GMBOfla+1Z14l9fyWJO6amPJ7IiaFS7H6/zMa/Mzr+Rntb+K9yxj2UZ+7qu/nu/rltuJU+2ieJtxRX0q2lPIQmy76+A/9YWxdvXD6Eblbwsj+lnH3UJxKq3tTCccV7h1qnawnhLdNebTecwqAdpUKAgQfCevgPf3sKifpuEV9SXuSS6WtbeLYyzzcJ1peJ1MY1kf64P5to3bR/lt68pRi5kso6/21qZvt7SbyXgFk1kf2BvrpkTuQRC6glnzb/9lU/83560lBs7N5/8AVc6M9g==",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "8b21e51dcd5baee9e174bd50ead2587d",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Endlagen min./max. Endlagen fir min.- und max.-Position frei programmierbar am Gerét Signalisierung der Endlagen ber Relais-Ausgénge (Wechselkontakte) Freie Nockenschalter Zwei einstellbare Nockenschalter, * NO oder NC liber Schiebeschalter wéhlbar Zwei einstellbare Nockenschalter, Potentialfreie Wechselkontakte ¢ Drei einstellbare Nockenschalter, Potentialfreie Wechselkontakte",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Endlagen min./max.</td><td>Endlagen fir min.- und max.-Position frei programmierbar am Gerét Signalisierung der Endlagen ber Relais-Ausgénge (Wechselkontakte)</td></tr><tr><td>Freie Nockenschalter</td><td>Zwei einstellbare Nockenschalter, * NO oder NC liber Schiebeschalter wéhlbar</td><td>Zwei einstellbare Nockenschalter, Potentialfreie Wechselkontakte</td><td>¢ Drei einstellbare Nockenschalter, Potentialfreie Wechselkontakte</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1WAtv2zYQ/isHARu2Io5oW7bjrguaNk0xrI+g6WNIWxi0dJK5SJRAUk3SIv99R70s27KTZi0CJ+bx7nj8eI8P+fjNwRgTlGYmAuchOON+/yCcByxgbDAd4WjKxx7D+QEifR+PQ2cPnAQND7jhpP/NsV9mOs2Vj/UaZ75C+lM47E88j7HJdMD2mTUu9pM0EKHYoZCp1Eetlxr9qTeeDvcnw4OBN7VqGapEaC1SqWdVMB+/OeTYhjEcDph385nUFPqpCmZx6nOTqiLCjJuFdeu+06i0q4TvcxWQoTaKG6Hd02t/wVVyqtJ/0TfaDXIZ6VmW+m6Q+rkFS/dSie5gOpkwNjszGMdcGiVwjrOTp8ez4yez4/0sCJ2bGwohFDFKnti4nNtNKgNznRUGPMtiQbHTPd1qmwyjnEeo7ZUdlJFjL5qRZCbzZI72lh5JDF6ZGdezhUli6+qR4fMYDx+ZBfKA/ij79fCRa3/Rh6KAI2Cs12cdstG6rN/IXOvJrb3O0+C6ch4cPsdFrpE27U4AfhrrjMs/PznDT87hUZwnQoo8iXKtS53CVWX7gSAi3KT2F3GjQJ/JP5Oryd4oSeAvKVF+EaguCMpmf3pFP/fdbwdwEheHf0E1F9LmQOPi5DUb7sGLv+ExDNkeeHAFL0elYETrgV2P17RPWKHxuNRu7bLJXm24dPQYmvV4M7IXlDVSBzxHtQXbEaNqYgzOry8IRMilQQXv05iyThuK0G62FeYoYMzgF3hB+5sHUilEiicJYUU4uPAEA4GyDUkjobMCWNUn9RAXsY6Q6gtBE5r2wI7QBxS6oQyGM6rA2MZsvb2lmLjJFYgEnqP6lDOGUwMRBmEo0aCVLkopZRt8zaNyISMqncXmbQa901xeGDiS2mBehLgFxvPcPcpDeG5DQkHZAoGIhOEWsmdCRry2vMU9JMLA+aWgdEKZpVrYet59pthx5oYreLfUvkRBwN0t1GEZao/gVsLcBRGL7HwOry3yEn7lSfaHfaxY4BNaiyLqLDXUIwWPQ4UCi9NlhPAA3mCEhTDic8qD8o0N5Al8rS4E6xHZ9z+SPE7pAks4yaW2LXTOFcKZ4Yo6d5Lh5gVLU6QMLHqtJs0tF/thsT2AudCUhNC39VXpojtlBXTsoX2mVvDlflRl9RNc3X5pbeNLVGYuYtuDIBRCVadSA8tys+aPh9hkhfXJB6sKb3YDdXsGMNeDHgwYJEfwgS8oOEFF15bSKFUkGJCgz95vnlVMPztTlRD+RYJx8DNPeyaDmGajpBqU+27Cr/a3HNUohoSwVe4VL2wteqc1pDZDIFu2N8IU+EpbOhMRYSl01ftsdI1nWx1vMOZC945y3bQphN8+oL/QGF+k0vALg793jKOimF6l/gXKKj2b7n94TrisvvOq4h6l5avXJVavnkIsqiZr+UetA5dlPAvr4Ds8n66W+9pNGkdVMh6rH+FvNZ1oOOjdafSggp0T6raBfqVp8rK0KF6o7g8EC7VPG0to6vK5czxuRX7ckmg5NxUJs+TrLVnJoo/AMQ1B2Ywsz46sNa4DG9QDWiMftk5j6Bo9dx1HG+2tbdDRR6GjZcCytO3lQr8pb9gsQ+jKaFh5TWiR0tb3EbRIKKzwSJgQZyo+eyMgjjelr8Wnc7nCAHeuTirGZ68VHKzQvpMWvav3S+YGlty1pKscry0tKWOX6hj+F5cjfwM2GMBOfla+1Z14l9fyWJO6amPJ7IiaFS7H6/zMa/Mzr+Rntb+K9yxj2UZ+7qu/nu/rltuJU+2ieJtxRX0q2lPIQmy76+A/9YWxdvXD6Eblbwsj+lnH3UJxKq3tTCccV7h1qnawnhLdNebTecwqAdpUKAgQfCevgPf3sKifpuEV9SXuSS6WtbeLYyzzcJ1peJ1MY1kf64P5to3bR/lt68pRi5kso6/21qZvt7SbyXgFk1kf2BvrpkTuQRC6glnzb/9lU/83560lBs7N5/8AVc6M9g==",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "7938833942d1dad4d63a34e6efcd8160",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Statusmeldung * Relaisausgang zur Meldung der Betriebsbereitschaft ¢ Potentialfreie Wechselkontakte",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Statusmeldung</td><td>* Relaisausgang zur Meldung der Betriebsbereitschaft ¢ Potentialfreie Wechselkontakte</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1WAtv2zYQ/isHARu2Io5oW7bjrguaNk0xrI+g6WNIWxi0dJK5SJRAUk3SIv99R70s27KTZi0CJ+bx7nj8eI8P+fjNwRgTlGYmAuchOON+/yCcByxgbDAd4WjKxx7D+QEifR+PQ2cPnAQND7jhpP/NsV9mOs2Vj/UaZ75C+lM47E88j7HJdMD2mTUu9pM0EKHYoZCp1Eetlxr9qTeeDvcnw4OBN7VqGapEaC1SqWdVMB+/OeTYhjEcDph385nUFPqpCmZx6nOTqiLCjJuFdeu+06i0q4TvcxWQoTaKG6Hd02t/wVVyqtJ/0TfaDXIZ6VmW+m6Q+rkFS/dSie5gOpkwNjszGMdcGiVwjrOTp8ez4yez4/0sCJ2bGwohFDFKnti4nNtNKgNznRUGPMtiQbHTPd1qmwyjnEeo7ZUdlJFjL5qRZCbzZI72lh5JDF6ZGdezhUli6+qR4fMYDx+ZBfKA/ij79fCRa3/Rh6KAI2Cs12cdstG6rN/IXOvJrb3O0+C6ch4cPsdFrpE27U4AfhrrjMs/PznDT87hUZwnQoo8iXKtS53CVWX7gSAi3KT2F3GjQJ/JP5Oryd4oSeAvKVF+EaguCMpmf3pFP/fdbwdwEheHf0E1F9LmQOPi5DUb7sGLv+ExDNkeeHAFL0elYETrgV2P17RPWKHxuNRu7bLJXm24dPQYmvV4M7IXlDVSBzxHtQXbEaNqYgzOry8IRMilQQXv05iyThuK0G62FeYoYMzgF3hB+5sHUilEiicJYUU4uPAEA4GyDUkjobMCWNUn9RAXsY6Q6gtBE5r2wI7QBxS6oQyGM6rA2MZsvb2lmLjJFYgEnqP6lDOGUwMRBmEo0aCVLkopZRt8zaNyISMqncXmbQa901xeGDiS2mBehLgFxvPcPcpDeG5DQkHZAoGIhOEWsmdCRry2vMU9JMLA+aWgdEKZpVrYet59pthx5oYreLfUvkRBwN0t1GEZao/gVsLcBRGL7HwOry3yEn7lSfaHfaxY4BNaiyLqLDXUIwWPQ4UCi9NlhPAA3mCEhTDic8qD8o0N5Al8rS4E6xHZ9z+SPE7pAks4yaW2LXTOFcKZ4Yo6d5Lh5gVLU6QMLHqtJs0tF/thsT2AudCUhNC39VXpojtlBXTsoX2mVvDlflRl9RNc3X5pbeNLVGYuYtuDIBRCVadSA8tys+aPh9hkhfXJB6sKb3YDdXsGMNeDHgwYJEfwgS8oOEFF15bSKFUkGJCgz95vnlVMPztTlRD+RYJx8DNPeyaDmGajpBqU+27Cr/a3HNUohoSwVe4VL2wteqc1pDZDIFu2N8IU+EpbOhMRYSl01ftsdI1nWx1vMOZC945y3bQphN8+oL/QGF+k0vALg793jKOimF6l/gXKKj2b7n94TrisvvOq4h6l5avXJVavnkIsqiZr+UetA5dlPAvr4Ds8n66W+9pNGkdVMh6rH+FvNZ1oOOjdafSggp0T6raBfqVp8rK0KF6o7g8EC7VPG0to6vK5czxuRX7ckmg5NxUJs+TrLVnJoo/AMQ1B2Ywsz46sNa4DG9QDWiMftk5j6Bo9dx1HG+2tbdDRR6GjZcCytO3lQr8pb9gsQ+jKaFh5TWiR0tb3EbRIKKzwSJgQZyo+eyMgjjelr8Wnc7nCAHeuTirGZ68VHKzQvpMWvav3S+YGlty1pKscry0tKWOX6hj+F5cjfwM2GMBOfla+1Z14l9fyWJO6amPJ7IiaFS7H6/zMa/Mzr+Rntb+K9yxj2UZ+7qu/nu/rltuJU+2ieJtxRX0q2lPIQmy76+A/9YWxdvXD6Eblbwsj+lnH3UJxKq3tTCccV7h1qnawnhLdNebTecwqAdpUKAgQfCevgPf3sKifpuEV9SXuSS6WtbeLYyzzcJ1peJ1MY1kf64P5to3bR/lt68pRi5kso6/21qZvt7SbyXgFk1kf2BvrpkTuQRC6glnzb/9lU/83560lBs7N5/8AVc6M9g==",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "2d20460b71301e43e76c1dc3dc1a870a",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. 4 … 16\n\n5 … 16\n\nStellantriebe FCD A 00-10 xx FCD A 00-15 xx FCD A 01-15 xx\n\nDUNGS Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "orig_elements": "eJztkkuL2zAUhf+K0boT62U77q6d0NLNEJjOajoIPa4zKrZlJBkyhPz3SpkMdUtpobtAVta17jn3XPt7PCDoYYAxCmvQ+wIpvdaE6xprtQbGWc0MlS2tOaeGyM6gdwUaIEojo0z9B5QPIrjZa3irQWgP6XEyJA3nGDctxSucxaf7wRnb2b80TN5pCOFnB2l53bJVw9aUt7ltAj/YEKwbgziHeTygZJxjMEYxPz6lNg/aeSN6p2V0/pRwkvE525YPAXwovdVaepOEIXoZbSi3L/pZ+mHr3XfQMZRmHndBTE6Xxuk5f6xw40Yoads0GIv7CH0vx+gtKBCfbjdi81FsVpPp0PGYInS2h1EOORf6t+QsiC/TSSCnqbcpe9qzPF8n4W6WOwh5ZQTjDuVFp/RGjPOgIG/J8+AI+5g9ePFtppjWBamz/s16mxR3r4LU/TsInNQYCJeKqTU2puOVYYQqpSqjtNLVFYSLAKFaglD9Dwg1VpwYpnGN2xaYbKgk0DHN6ko3XaWuIFweCL9MK9K04kOB8Q3BxX6/KKtFSV7LJTdfbezhT8hAVbE1V6qmVEH6kUQZhg3hDGgH6d9dkbk8ZDYPd5/vi1s3qDlko3RMo10flkR8GZIBOj79AO4Jny4=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b2f0bec97bc4cfc79b3a71ffc38ef1f4",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. FCD A 00-10 FCD A 00-15 FCD A 01-15 Elektrische Spezifikationen der Ein- und Ausgénge Stellungsriickmeldung Stromquelle: * Spannungsquelle: analog max. 12 V Ausgangsspannung, max. 12V Ausgangsspannung, Biirde max. 500 Q max. 30 mA Strom Sollwertvorgabe analog * max. Eingangsspannung: 12 V, Stromeingang, Biirde 500 Q",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>FCD A 00-10</td><td>FCD A 00-15</td><td>FCD A 01-15</td></tr><tr><td>Elektrische Spezifikationen der Ein- und Ausgénge</td><td>Stellungsriickmeldung Stromquelle: * Spannungsquelle:</td><td>analog max. 12 V Ausgangsspannung, max. 12V Ausgangsspannung,</td><td>Biirde max. 500 Q max. 30 mA Strom</td></tr><tr><td/><td>Sollwertvorgabe analog * max. Eingangsspannung: 12 V, Stromeingang, Biirde 500 Q</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyllt9z4jYQx/8VjR8zEMs2DjGTMkPCXfvQ3qRNmj5cbjxCXkDFlqkkXy/J5H/vyhZgiMmP6QPYrHZX312tP+brkwc5FCBNKjJvRLzoLOJhMh+eDfngPIJ5zOMgOqdZwgfBLBhmXo94BRiWMcPQ/8mzN6kuK8Vh8xtSrgAvdcJgOBhQOkxCekptcL1elJmYi1cc1qrkoPXOI0gGZ0l0OozOw0Fi3dagCqG1KKVOnZivTx4mtjKiKKSD52/opoCXKkvzkjNTqlrhmpmlTev/qUFpXwnOmcowUBvFjND+9QNfMlVcq/Jv4Eb7WSUXOl2X3M9KXtlm6X4pwQ+T4ZDS9MZAnjNplIAZpJ+vpun0Mp2errO59/yMEuYiB8kKq8t7O8QFmId1HcDW61ygdqzTd8sYuKjYArQt2QO58Gyha7SksipmYKuM0WLgh0mZTpemyG2qC8NmOYwvzBJYhhdlb8cXvv3CD6ogE0JpP6AdtvjQFmxtvs3kb7LOyuzBJc/Gn3JYYZGaL4HcrOERD31V1wKSZKDIJyH7pJIZmVR6cV9RColcACbL6vC6Tbb5Sgi+KiC3J0FujCqLfypcghE5wbxMSuvkTNtoJlleLkjBfpySICR39SbYO61dRG+z1rG0zXIphMqg8YwpJb83txElxaSR0rjWXXBlb4IJL3Ob8ad7L7r3xjdlnv8Lynwv1YLNgDiBJ01G7MWehFEtutfsAc1ijzg5tZLjG4//gJwJzZqqwHYJRzo3OQhtbA8nVy9t06tteC0ojKnd325VTFyvwrBt2/qXy6I+41+ZNqT94xWJX0q+AqlrDTgKHRLfIaex2ctROUJm1cqI728Keq0hEcVtAur23uR34xM3a/VS7Rgf94v2lb5o2EdaeDBeUf+6kivTxyqUMKZHPisQdtC0WOCk1QPWPGOZnQkcgTumBFIIH6OEkj4Jz7CbkyvX23ruSGzH/ARb0XIOztEZC7mb7vsGtraXcv8CgQcMBHlqT6IAtSpYDkeqOCG/AR6DdNDYEIDJRywGiCjIz7Cs8M0AOD45+QXEoz2rQhhyu8R3QqkNa/fMd0TyG/p5z46Mloi3uJPbaIpvHUk+zquBbeWRCkkLqa37mLQQuqtQ2XxzvuOcw8N9FdIw3Kfea0y7bPLsQQtNEUu2qQ6I+TYiW7QjRyjmcn8EZTuhLY07cu36u9F9CIgR6SLD3uPUHYrj3IGz/cgDPv0PDR2oOqDSUZmj+jnrQM8uMXKFtAC05xC9IcrFRl2h76VJ+4Q+wBQX8X6wbCLegYdG1w4SLrKbFfYv1ebf1q1lhPf87T/oY410",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "914a545327639ac6cd160d90d913bddd",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Relaisausgange * Schaltleistung AC * Schaltleistung DC max. 250 V, 500 mA, max. 220 V, 500 mA, ohmsche Last ohmsche Last Nockenschalter * Schaltleistung AC max. 250 V, 500 mA, max. 250 V, 250 mA, ohmsche Last induktive Last * Schaltleistung DC 30V, 1000 mA, ohmsche max. 125V, 100 mA, 30V, 500 mA, ohmsche max. 125V, 30 mA, Last ohmsche Last Last ohmsche Last",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>Relaisausgange * Schaltleistung AC * Schaltleistung DC</td><td>max. 250 V, 500 mA, max. 220 V, 500 mA,</td><td>ohmsche Last ohmsche Last</td></tr><tr><td/><td>Nockenschalter * Schaltleistung AC</td><td>max. 250 V, 500 mA, max. 250 V, 250 mA,</td><td>ohmsche Last induktive Last</td></tr><tr><td/><td>* Schaltleistung DC</td><td>30V, 1000 mA, ohmsche max. 125V, 100 mA, 30V, 500 mA, ohmsche max. 125V, 30 mA,</td><td>Last ohmsche Last Last ohmsche Last</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyllt9z4jYQx/8VjR8zEMs2DjGTMkPCXfvQ3qRNmj5cbjxCXkDFlqkkXy/J5H/vyhZgiMmP6QPYrHZX312tP+brkwc5FCBNKjJvRLzoLOJhMh+eDfngPIJ5zOMgOqdZwgfBLBhmXo94BRiWMcPQ/8mzN6kuK8Vh8xtSrgAvdcJgOBhQOkxCekptcL1elJmYi1cc1qrkoPXOI0gGZ0l0OozOw0Fi3dagCqG1KKVOnZivTx4mtjKiKKSD52/opoCXKkvzkjNTqlrhmpmlTev/qUFpXwnOmcowUBvFjND+9QNfMlVcq/Jv4Eb7WSUXOl2X3M9KXtlm6X4pwQ+T4ZDS9MZAnjNplIAZpJ+vpun0Mp2errO59/yMEuYiB8kKq8t7O8QFmId1HcDW61ygdqzTd8sYuKjYArQt2QO58Gyha7SksipmYKuM0WLgh0mZTpemyG2qC8NmOYwvzBJYhhdlb8cXvv3CD6ogE0JpP6AdtvjQFmxtvs3kb7LOyuzBJc/Gn3JYYZGaL4HcrOERD31V1wKSZKDIJyH7pJIZmVR6cV9RColcACbL6vC6Tbb5Sgi+KiC3J0FujCqLfypcghE5wbxMSuvkTNtoJlleLkjBfpySICR39SbYO61dRG+z1rG0zXIphMqg8YwpJb83txElxaSR0rjWXXBlb4IJL3Ob8ad7L7r3xjdlnv8Lynwv1YLNgDiBJ01G7MWehFEtutfsAc1ijzg5tZLjG4//gJwJzZqqwHYJRzo3OQhtbA8nVy9t06tteC0ojKnd325VTFyvwrBt2/qXy6I+41+ZNqT94xWJX0q+AqlrDTgKHRLfIaex2ctROUJm1cqI728Keq0hEcVtAur23uR34xM3a/VS7Rgf94v2lb5o2EdaeDBeUf+6kivTxyqUMKZHPisQdtC0WOCk1QPWPGOZnQkcgTumBFIIH6OEkj4Jz7CbkyvX23ruSGzH/ARb0XIOztEZC7mb7vsGtraXcv8CgQcMBHlqT6IAtSpYDkeqOCG/AR6DdNDYEIDJRywGiCjIz7Cs8M0AOD45+QXEoz2rQhhyu8R3QqkNa/fMd0TyG/p5z46Mloi3uJPbaIpvHUk+zquBbeWRCkkLqa37mLQQuqtQ2XxzvuOcw8N9FdIw3Kfea0y7bPLsQQtNEUu2qQ6I+TYiW7QjRyjmcn8EZTuhLY07cu36u9F9CIgR6SLD3uPUHYrj3IGz/cgDPv0PDR2oOqDSUZmj+jnrQM8uMXKFtAC05xC9IcrFRl2h76VJ+4Q+wBQX8X6wbCLegYdG1w4SLrKbFfYv1ebf1q1lhPf87T/oY410",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "2096e8303a8bc835bb4c623a67224e9f",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. 3-Punkt-Schritt, Freigabesignal Eingédnge AC Variante: 90 - 260 VAC, max. Strom 5 mA * DC Variante: 18 - 30 VDC, max. Strom 10 mA Weitere Produktmerkmale * Mechanische Stellungsanzeige im Gehusedeckel Heizung mit Thermostat",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>3-Punkt-Schritt, Freigabesignal Eingédnge AC Variante: 90 - 260 VAC, max. Strom 5 mA * DC Variante: 18 - 30 VDC, max. Strom 10 mA</td></tr><tr><td>Weitere Produktmerkmale</td><td>* Mechanische Stellungsanzeige im Gehusedeckel Heizung mit Thermostat</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyllt9z4jYQx/8VjR8zEMs2DjGTMkPCXfvQ3qRNmj5cbjxCXkDFlqkkXy/J5H/vyhZgiMmP6QPYrHZX312tP+brkwc5FCBNKjJvRLzoLOJhMh+eDfngPIJ5zOMgOqdZwgfBLBhmXo94BRiWMcPQ/8mzN6kuK8Vh8xtSrgAvdcJgOBhQOkxCekptcL1elJmYi1cc1qrkoPXOI0gGZ0l0OozOw0Fi3dagCqG1KKVOnZivTx4mtjKiKKSD52/opoCXKkvzkjNTqlrhmpmlTev/qUFpXwnOmcowUBvFjND+9QNfMlVcq/Jv4Eb7WSUXOl2X3M9KXtlm6X4pwQ+T4ZDS9MZAnjNplIAZpJ+vpun0Mp2errO59/yMEuYiB8kKq8t7O8QFmId1HcDW61ygdqzTd8sYuKjYArQt2QO58Gyha7SksipmYKuM0WLgh0mZTpemyG2qC8NmOYwvzBJYhhdlb8cXvv3CD6ogE0JpP6AdtvjQFmxtvs3kb7LOyuzBJc/Gn3JYYZGaL4HcrOERD31V1wKSZKDIJyH7pJIZmVR6cV9RColcACbL6vC6Tbb5Sgi+KiC3J0FujCqLfypcghE5wbxMSuvkTNtoJlleLkjBfpySICR39SbYO61dRG+z1rG0zXIphMqg8YwpJb83txElxaSR0rjWXXBlb4IJL3Ob8ad7L7r3xjdlnv8Lynwv1YLNgDiBJ01G7MWehFEtutfsAc1ijzg5tZLjG4//gJwJzZqqwHYJRzo3OQhtbA8nVy9t06tteC0ojKnd325VTFyvwrBt2/qXy6I+41+ZNqT94xWJX0q+AqlrDTgKHRLfIaex2ctROUJm1cqI728Keq0hEcVtAur23uR34xM3a/VS7Rgf94v2lb5o2EdaeDBeUf+6kivTxyqUMKZHPisQdtC0WOCk1QPWPGOZnQkcgTumBFIIH6OEkj4Jz7CbkyvX23ruSGzH/ARb0XIOztEZC7mb7vsGtraXcv8CgQcMBHlqT6IAtSpYDkeqOCG/AR6DdNDYEIDJRywGiCjIz7Cs8M0AOD45+QXEoz2rQhhyu8R3QqkNa/fMd0TyG/p5z46Mloi3uJPbaIpvHUk+zquBbeWRCkkLqa37mLQQuqtQ2XxzvuOcw8N9FdIw3Kfea0y7bPLsQQtNEUu2qQ6I+TYiW7QjRyjmcn8EZTuhLY07cu36u9F9CIgR6SLD3uPUHYrj3IGz/cgDPv0PDR2oOqDSUZmj+jnrQM8uMXKFtAC05xC9IcrFRl2h76VJ+4Q+wBQX8X6wbCLegYdG1w4SLrKbFfYv1ebf1q1lhPf87T/oY410",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "cc1bdfae337851c6e238284e0f965b85",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Stellantriebe FCD A 00-10 xx FCD A 00-15 xx FCD A 01-15 xx\n\nDUNGS Combustion Controls\n\nElektrischer Anschluss",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztUk1v3CAQ/SsW52YNNjamtzTbVr1EkZKcoghhGHZpbWMBrjZa7X8vbDfKpqrac6ScYIZ5H4Pewx7BACNMUViNPhaoV3VPmGko76jRRnJKaa0px6ytSYsN+lCgEaLUMso0v0f5IoJbvILnGoTykI4jIWGUYsx4hVc4g4/vo9PW2H8MzN4pCOFlgnDa8nrF6q6iPI/N4EcbgnVTECczD3uUiLONuq4wPTymMQ/KeS0Gp2R0/uhwlnGbacv7AD6U3iolvU7AEL2MNpQ3T2or/Xjj3XdQMZR6mTZBzE6V2qklf1a4cBOUFWcMY3EbYRjkFL2FHsSXq7VYfxLr1awNOhySBWMHmOSYfaH/Q06A+DQfAXKeB5u8pz3L03MCbha5gZBXRjBtUF50Th0xLWMPecs2C0fYxczxSq1IasVlgfEFwcVud1Y2ZyX5XWa5Zyd3Ng6AEu+fkanAGAK4bzsgHWv7RuqGEdyRNndJ9R6ZtxeZ9f3119viyo39EjJRuiZpN4TzRHwbE8HfEoEZaWidjLcNZ0YZ2VIluZS9MZzKDr8n4u0l4vMAP5JUUFvwxeWUzmEJr+JwLX1e/SfcZcjh8RcJlQJS",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "41937d31a4974b80076faed394e49e14",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. P1 10 S1 S$12 LED1 S13 LED2 814 LED3 LED4 LEDS5 LED6 3 @ @ by - - LYAN LYAN LYAN motor poti mode parameter prog auto/ power error enable analogue — S1 S2 §15 1 ! % only: V/ImA R2 R3 ' FCD A 00-15 ! FCD A 01-15 ————— _ ] S16 [ FCD A 00-1 o[e[o] = EER [e]e]e] elee] o 10111213 456 141516 171819 _202122 —uw == =0 =0 S2 NC ~ | COM @ |® NO © [® 8 51 T AC Mairs 90.. 200 MAX 3PT MIN REEREE Analog oy Control Opera- FCD A 00-15: | T T 202122232425 Position tion Position S1 S3 1 T 1 3V 1 EEER | FCD A 01-15;",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJyFU21v2jAQ/ivXaNO+DOKXQJJOSGPApEqFIuiqTRmKTGJopiSObEcdatlv3zmlG/uwTUbHnX0vz/Pokjx6spSVrG1a5N4leLso2+6CPOJUxkHM4zjeBSHnZBdEWc6jyHsLXiWtyIUVmP/oOSc1qtWZfIllmmmJf11DGgYBIWHMSJ+44u69UnmxK/6R0GiVSWN+Z9A4GMa8H/KIBbFLa6SuCmMKVZv0BCZ59LCxg8E5I8Fxg2laZkrnaakyYZXuEDbC3ru2/icjtfF1kWVC51horBa2MP7ykN0LXS21+iYza/y8rfcmbVTm5yprnVimp2rpszgMCUnXVpalqK0u5FamHyfTdPohnfabfOcdjwhhV5SyFpXD5f2/5FRgD01XIJqmLBA78vRPz1i4b8VeGkfZk/Xec0QbvEnrttpKx3LoBlv53boeSwqUwJrC+hVlcD2boke5cxhENHBOF3XeeuDsEDi8x7M9QA/P9Zfx4sxUCrWERtkCnODQCI38rMQ7rfYgWqt8fH7AC6k1piL/bSlB1KJU+1bC15YRHOwgMQwIESEdAIULeA2qLg+XcOdfVWNYMVhxeAOoEIyBkB5mXbxE1EXPnf5mIYUNThlCctYCVCITtYERzGYrSOTGHcDPAK1CpSilDOUJBkOgAR1gNQ1pRGNIGWGUsdPM9gFGIxgR90MWiwn8gCeY3MxRtqeOk4TFzTO7GJLTTQQDCrcwnsBcFNpATPp9YITAfPwZ+PIW5lcLWCGw2QzGnVygDjBRuCuqhBvcetE7l+MSZ97ieYbGOAvYAJbKFG5joDO/Iic3BzeeAr9DM3MCPJ3r+e6PRmzIQtZ98i/reFXhmnnHzU8VCDTI",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "8312902429ae5d80c04b1c32050765e4",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. airs 90.. 200 MAX 3PT MIN REEREE Analog oy Control Opera- FCD A 00-15: | T T 202122232425 Position tion Position S1 S3 1 T 1 3V 1 EEER | FCD A 01-15; 202122232425262728",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJyFU21v2jAQ/ivXaNO+DOKXQJJOSGPApEqFIuiqTRmKTGJopiSObEcdatlv3zmlG/uwTUbHnX0vz/Pokjx6spSVrG1a5N4leLso2+6CPOJUxkHM4zjeBSHnZBdEWc6jyHsLXiWtyIUVmP/oOSc1qtWZfIllmmmJf11DGgYBIWHMSJ+44u69UnmxK/6R0GiVSWN+Z9A4GMa8H/KIBbFLa6SuCmMKVZv0BCZ59LCxg8E5I8Fxg2laZkrnaakyYZXuEDbC3ru2/icjtfF1kWVC51horBa2MP7ykN0LXS21+iYza/y8rfcmbVTm5yprnVimp2rpszgMCUnXVpalqK0u5FamHyfTdPohnfabfOcdjwhhV5SyFpXD5f2/5FRgD01XIJqmLBA78vRPz1i4b8VeGkfZk/Xec0QbvEnrttpKx3LoBlv53boeSwqUwJrC+hVlcD2boke5cxhENHBOF3XeeuDsEDi8x7M9QA/P9Zfx4sxUCrWERtkCnODQCI38rMQ7rfYgWqt8fH7AC6k1piL/bSlB1KJU+1bC15YRHOwgMQwIESEdAIULeA2qLg+XcOdfVWNYMVhxeAOoEIyBkB5mXbxE1EXPnf5mIYUNThlCctYCVCITtYERzGYrSOTGHcDPAK1CpSilDOUJBkOgAR1gNQ1pRGNIGWGUsdPM9gFGIxgR90MWiwn8gCeY3MxRtqeOk4TFzTO7GJLTTQQDCrcwnsBcFNpATPp9YITAfPwZ+PIW5lcLWCGw2QzGnVygDjBRuCuqhBvcetE7l+MSZ97ieYbGOAvYAJbKFG5joDO/Iic3BzeeAr9DM3MCPJ3r+e6PRmzIQtZ98i/reFXhmnnHzU8VCDTI",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f82ba5ad65f0ef3da0325891714b477b",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Typenschlüssel FCD\n\nFCD X XX-XX XX XX",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztUk1rGzEU/CuLzo1X+9GVtsfE9BgCccGQBvFWemuraCUhaUuD8X+vZBxaekjOgYLQ58y8GfGeTgQNLmiT0Ip8qcg8KyYnNYNqgDNsOO0456363I2dVENDPlVkwQQKEmT8iZSNiG4NEl/PKGTAvFwEG9b3lLKxpRtayJf3xSk96zcAPjiJMf5BNGM/jN2GdbztxwLzGBYdo3Y2iquZpxPJwsVG17W0Pz9nWEDpghLGSUguXBx6SMciW3+LGGIdtJQQVCbGFCDpWD+8yCOE5SG4HyhTrNVqD1F4J2vl5Fo+K944i3U7MkapeExoDNgUNE4ovt5txfZWbDdezeR8zhZmbdDCUnyR9ylXQnrxFwJ4b3T2nnPW1+dMPKxwwFgiE7QHUoL6fCPsukxYUg6lcMJfqWjsspaN8mi+r5TOMn+rqXLNovVa5h5Cyf4Td4WTyf/2BQMOFNpJjkq1A5fDIClnLQc1DdPc4f+++Hh9kfWrfbXf3+zLnMffHbHTySA5P/8GfU5QDg==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "0f075c09f7ff07297da42d8e7b497b24",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Netzspannung  AC 90 - 260 VAC, 50/60 Hz   DC 18 - 30 VDC  Reduzierte Laufzeit und reduziertes Drehmoment  --   Standard-Laufzeit und Standard-Drehmoment  S2 1/2 Standard-Laufzeit und Standard-Drehmoment  S4 1/4 Standard-Laufzeit und Standard-Drehmoment  Baugröße (Standard-Laufzeit und Standard-Drehmoment)  A 00-10 Drehmoment max.   4 Nm, Laufzeit 15 -  60 s / 90°  A 00-15 Drehmoment max. 12 Nm, Laufzeit 25 -  90 s / 90°  A 01-15 Drehmoment max. 35 Nm, Laufzeit 25 -  90 s / 90°  FCD  Flow-Control Drive /",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJyVkm9v0zAQxr/KKa9AWhrn/8K7rQWBhKaJCt6MKXKcS2tI7Mh2YGvV7865ardOTLC9cZy753e+e3Q32wB7HFC5WrbBOwgwLXmXlDxvmqLI0k6wsmNx2TSYl6ITSXAGwYCOt9xx0m8Df6mtnozA4z/WwiB99gXjMssYK6uEzZiH9/lBt7KT/xCMRgu09lERV1lRpbMyPU+yystGNIO0Vmpl60MzN9uACvs20jRh2e6WZAaFNm3da8GdNvsOR+7Wvmz01aKxkZFCcNMSaJ3hTtro+l6suRmujf6BwtmondTK1qMWUavF5M2yoVYYJVVZMlYvHfY9V85IbLD+MF/Ui8t6MRvbLtjtqIVO9qj44PsK/o8cAHc/7gE+jr2k3mnO6JAmcDXxFVo/coBqFfhBR4rUahoa9FMW/mGHd87XuEK3sSNXiuYAuJhDxSCEpGDw7WJ+BjmL6PpxAwCLOcTnlEspRXf4gu20kWgcwmc+dRuUDibVgnmIW1gYXA/auwIQhlRk6bhqydHwCfIQPdUvE4ij5FVERkT2GuKSTyvzfWKsK/zZdghvXoy/Jb+AsTBmp3MO/G5Gg2ZwNZw9GhPn5ByQlRYistg/1rAjn//Fx8lTPNnj1TN4/Bye5i/Cabfo6PXvcK5p33RPheQvJM37Hn9SQEkr1mjgdCXBr9lxAz8NtFnB7vYPyiJPvg==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "3de7af83ab955c6f1375c6afec06f5ea",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. / 90°  A 00-15 Drehmoment max. 12 Nm, Laufzeit 25 -  90 s / 90°  A 01-15 Drehmoment max. 35 Nm, Laufzeit 25 -  90 s / 90°  FCD  Flow-Control Drive / Elektronischer Stellantrieb ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJyVkm9v0zAQxr/KKa9AWhrn/8K7rQWBhKaJCt6MKXKcS2tI7Mh2YGvV7865ardOTLC9cZy753e+e3Q32wB7HFC5WrbBOwgwLXmXlDxvmqLI0k6wsmNx2TSYl6ITSXAGwYCOt9xx0m8Df6mtnozA4z/WwiB99gXjMssYK6uEzZiH9/lBt7KT/xCMRgu09lERV1lRpbMyPU+yystGNIO0Vmpl60MzN9uACvs20jRh2e6WZAaFNm3da8GdNvsOR+7Wvmz01aKxkZFCcNMSaJ3hTtro+l6suRmujf6BwtmondTK1qMWUavF5M2yoVYYJVVZMlYvHfY9V85IbLD+MF/Ui8t6MRvbLtjtqIVO9qj44PsK/o8cAHc/7gE+jr2k3mnO6JAmcDXxFVo/coBqFfhBR4rUahoa9FMW/mGHd87XuEK3sSNXiuYAuJhDxSCEpGDw7WJ+BjmL6PpxAwCLOcTnlEspRXf4gu20kWgcwmc+dRuUDibVgnmIW1gYXA/auwIQhlRk6bhqydHwCfIQPdUvE4ij5FVERkT2GuKSTyvzfWKsK/zZdghvXoy/Jb+AsTBmp3MO/G5Gg2ZwNZw9GhPn5ByQlRYistg/1rAjn//Fx8lTPNnj1TN4/Bye5i/Cabfo6PXvcK5p33RPheQvJM37Hn9SQEkr1mjgdCXBr9lxAz8NtFnB7vYPyiJPvg==",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "a0db53491df605ebb746914e35323eac",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Zum Beispiel: „FCD A 00-15 S2 AC“\n\n6 … 16\n\n7 … 16\n\nStellantriebe FCD A 00-10 xx FCD A 00-15 xx FCD A 01-15 xx\n\nDUNGS Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "orig_elements": "eJztlV1r2zAUhv+K8PUaS5ZsRb1rEzZ2Ewptb9YVI0vHqYZtGUkeKSH/fVKakmyUDXYXyI2tj/O+5xzpAT1tM+ighyHURmfXKGNAS90qDpIAjh/KSiY0EMloWeqGZ59Q1kOQWgYZ47dZGtTeTk7B+xxq5SD+9oaEM4YxFwWe4STe7/dWm9b8JWB0VoH3xwgiWCXojNN5wUQKG8H1xntjB18finnaZtE4lUFpgdnuOYY5UNbpurNKBuv2FY4yvCTb/NGD87kzSkmno9AHJ4Px+d2repGuv3P2B6jgcz0Na1+PVuXaqikdlr+yA+SF4Bzj+j5A18khOAMN1J8Xy3p5Wy9no26z3S6W0JoOBtmnurJ/Sw6C8DruBXIcOxNrj33mh+0oXE9yDT61nMGwzlKjY1yph6lvIHVZpcQBNiF5fJt6dAvGjwa6a/R9KjCBmBPdIIyvSInuC3Sz2C+r5P+eeiVdOo+f8JB8ouGfrABILQAroSoFdN7optAF0aWmHOYNIxdWzo+Vas9HUSFSnbJwFxWrN8EHIGjFW0aLqsHQatWWVLP5nHAdgWiVjhdzAeEcQOCnIPD/AUFgqTAhSkhQxbwhjeCNpJQoKVir3+7gAsJ5gfBbNnR8NzDabNDpM3KckrfpKTcPJnTwITIt5ekFaUQlgFdEEEVkvDPJMSelhAsy54fM8nH15R4tbN9MPhnFYUxtO39KxNc+GmS7519DnE+x",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "5e13b28012c81a469c849d7b10826dc3",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Variante / Kurzbezeichnung Bestell-Nr. FCD A 00-10 AC 293905 FCD A 00-10 DC 293907 FCD A 00-15 AC 293334 FCD A 00-15 S2 AC 301619 FCD A 00-15 S4 AC 301620 FCD A 00-15 DC 293911 FCD A 01-15 S2 DC 301621 FCD A 00-15 S4 DC 301622",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FCD A 00-10 AC</td><td>293905</td></tr><tr><td>FCD A 00-10 DC</td><td>293907</td></tr><tr><td>FCD A 00-15 AC</td><td>203334</td></tr><tr><td>FCD A 00-15S2 AC</td><td>301619</td></tr><tr><td>FCD A 00-15S4 AC</td><td>301620</td></tr><tr><td>FCD A 00-15DC</td><td>293911</td></tr><tr><td>FCD A01-15S2 DC</td><td>301621</td></tr><tr><td>FCD A 00-15S4 DC</td><td>301622</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyFUtFumzAU/RXLz0uwDSljiiq1RXuZNFXqtpeqsox9k3gCjGwjLY3y77OBbIWp2QMC33vO4fie+3zCUEMDreda4U8IbzJWiZwRWsiKEiZzUmxUKopU5UQSRfEHhBvwQgkvAv6E4wd3prcSLmfg0kJ4DYI0zzJC8oKRNYnkod8YpXf6CqCzRoJzfxG0yG6KdJ2nH1lWRFgHttHOadM6Ppl5PuEgHG2kKSPZ+SXALEhjFa+NFN7YwWEn/CHKJt8dWJdYLaWwKhCdt8Jrlzwe5UHY5tGanyC9S1Tf7h3vjEyUkX0clluZFhJW5Dkh/MlDXYvWWw0V8M8PJS/vebnu1A6fz8HCTtfQiib6wv+nTAR/7AaC6LpaB+/hnsnUDsR9L/bg4pUxtHscL9qFCm/7poJ4yzxUPPzyXDh+8E0dpbZeVDXcbn1l1DG8bHjUbfg5ukOErChBdw/bJJRimRVpQTbjMRmg/8LLBTy/Bt/M1EmaptlV+BN7S0gJvaHFdUK2JDBylbCwT+k7aEJHO+VC/T38HztLAntDSKYUkjEUfJ4Ci0H9EFaH5QCUoC+9fa3gFbQ8tGEL0X1Y0rA6q692jebJoTExNA9orOZonkOshvnPqsO80TjneSO7NBiZNSZ1Si9VOumUE5wudS4NFtf4suHf4gDw+eU3uq1Kig==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "5ebd083c8385c6e6109432e3984bef83",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Einbaumaße [mm]\n\na  a  d  d  b  b ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJztUk1r3DAQ/StG52YtW7K1zrHdFnILtD1tFyFLo42C9YEkQ8Ky/72S2dDSQ3suBA3oY95780bM8YJgAQsuc6PQfYPIPJBZlqUmgvXcSQ0ED4zpseuGiY7oQ4MsZKFEFgV/QfXAk1+jhLc7cBmhbJtgxyjFmE093uFK3vLWK6PNXwAhegkp/UJ0pfZEdozsezpVWIBoTUrGu8RvZo4XVISrDUJ6TK+nAosgfVR88VJkHzeHQeSnKtt+TxBTG42UIqpCTDmKbFL7+CqfRLSP0T+DzKlVqzsnHrxslZdr/ax05x20/cQYxvxrhmURLkcDM/Avnw788JEfdkFpdL0WC9os4IStvtC/KTdCfg0bQYSwmOK99Nne0oV4XsUZUm0ZgTuj2mgoL9ytdobaJauFM7zkqvHZuFmsVvxYMVYamqO1pyr0VuObyQugwvhzGCgeteg17vbDuB+B4mGg3cgU6ei4p4y+D8P/NwyiaUqoLeYav0/Cgy1EdD39BHbVSIA=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "230aa973b058bb33788079657bacc0dd",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Variante / Kurzbezeichnung Bestell-Nr. FCD A 01-15 AC 293916 FCD A 01-15 S2 AC 301623 FCD A 01-15 S4 AC 301624 FCD A 01-15 DC 293917 FCD A 01-15 S2 DC 301625 FCD A 01-15 S4 DC 301626",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FCD A01-15AC</td><td>293916</td></tr><tr><td>FCD A01-15S2 AC</td><td>301623</td></tr><tr><td>FCD A01-15S4 AC</td><td>301624</td></tr><tr><td>FCD A01-15DC</td><td>293917</td></tr><tr><td>FCD A01-15S2 DC</td><td>301625</td></tr><tr><td>FCD A01-15S4 DC</td><td>301626</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyFUl2L2zAQ/CtCz00kf8SKSzi4O9OXQjm4ti/HIWRpk6jYlpFkaO7If6/kOO3FheTByNqdnZ0d7cs7hgZa6DzXCn9GmBaSMUHLdSpLSWG13rJizUpVZymrt/UKf0K4BS+U8CLg33H84c4MVsL5DlxaCMdImLA8p5SVKV3SWDzmW6P0Vl8B9NZIcO4fIinzosyWLFuneRlhPdhWO6dN5/gk5uUdB+IoI8tSmh9fA8yCNFbxxkjhjR0V9sLvIy354cA6YrWUwqpQ6LwVXjvydJB7Ydsna36B9I6oods53htJlJFDNMstTAckLRmjlD97aBrReauhBv7lseLVA6+Wvdri4zFI2OoGOtFGXfh2yVTgD/1YIPq+0UF7mJNM6VC4G8QOXBwZQ7fDcdA+RHg3tDXEKVmIePjtuXB879smUm28qBu42/jaqEM4bPjUXWiO7mmySFb3jxsSAjGYllmZFKcrGYFz8HOKPuAzmhRpdhWf/4fPr+GrmRh2Q0w1I1/dEDPHfxyWTA6Rk2H4OJkZTfwprA4PB4igr4N9q+ENtNx3YUPQQ1ig8KyLb3aJxl5obBbmRic/L6Kjgehk3GUi/5vILxLVxMPmPNUEX815zokirs15o77HofDx9Q+dPig/",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "09b20154c2e9a1bb6be9beab1b3fc67b",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. c  c ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "orig_elements": "eJyFkEtrAyEUhf/K4LqNZsbE2GUbCt0FSlchiNE7E8v4QB1oCPPfq0NKd+3Kxz3f8RyPNwQjWHBZGI2eGgQbysh5yzRtd5Rw0nV8vWOc9Zu231DQ6KFBFrLUMsuiv6G6EclPUcHPGYSKUJbFcM0oJYTxlqxIhZe59dr05g9BiF5BSr+KNadb3q1Yt2spr7IA0ZqUjHdJ3MMcb6gY1xhd1xI6n4osgvJRi9ErmX1cEgaZL9UWfySICUejlIy6gClHmU3Ch6u6yGgP0X+CygnryQ1JBK+w9mqqn5UevQPccsYIEe8ZxlG6HA2cQby+7MX+WexXQfdonkuE3ozgpK250P/IHcjXsAAyhNGU7KUnvo8LOExygFQrI3ADqkVDuRFusmeoLVl9OMNXrh6qaVRTyR/TN1vEaD59AyxOn8k=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "dcd209e4f21fbe764b066cd809f7e974",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Typ Einbaumaße [mm] a b c FCD A 00-10 xx 82,6 92,5 101,4 FCD A 00-15 xx 107,0 122,0 131,0 FCD A 01-15 xx 112,0 143,0 168,0 d 52,5 70,0 85,0",
+    "metadata": {
+      "text_as_html": "<table><tr><td>Typ</td><td/></tr><tr><td>a</td><td>b</td><td>c</td><td>d</td></tr><tr><td>FCD A 00-10 xx</td><td>82,6</td><td>92,5</td><td>101,4</td><td>52,5</td></tr><tr><td>FCD A 00-15 xx</td><td>107,0</td><td>122,0</td><td>131,0</td><td>70,0</td></tr><tr><td>FCD A 01-15 xx</td><td>112,0</td><td>143,0</td><td>168,0</td><td>85,0</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyFUk2v2jAQ/Csrn3nE+YCQiiK1pT0/qa8nQJZjL5AqiSPbUUGI/17bL0CoqvZkz+7OZGadzYVgjQ22llWSfADCaRLP57TIZJnSEnmeL2YZ7vMMZ5ILkZMJkAYtl9xyN38h/sKM6rXAG0YmNLojCMZ5llGaFwmdUk8O/UbJal/9Y6DTSqAxj4m4yOZFOs3TRZIVfqxD3VTGVKo1bDCzuRAn7G2kaUKz686NaRRKS1Yrwa3SwWHH7dHLRj8MahPpSgiupSMaq7mtTPR6Fkeum1etfqKwJpJ9ezCsUyKSSvR+WeZFtRglRZ5Tyr5brGveWl1hiezblzVbf2braSf35Hp1FvZVjS1vvC/yf8pAsOcuEHjX1ZXz7nJGQ9sRDz0/oPGRCbYH4oN2rsLavinRp8xdxeLJMm7Y0Ta1l1paXta4WtojcukO7a+g1S/T8fbjliRbsno7d8vIHkNHqHroZK7zXo4CKzBX/Da5Ku83cb/JESG6fbJU8jzw5crFhk9A6UtM4XRyQzKUF8lkfgdFMpndQUzjSXZHs3vrYWosOhuLxjSf0AdKkjFK4xHK6Q38RTb+UzZ+EsrSMZovRmgxe5KNhlVE729CrsN7+XdybwBfq7bkfcO3PaVyj7Bpmh1wKEHA89rArwv8miCsB54XACE4hMAQgsJzFAgRIFiHYBkk+NWCXwR42/6fu/2Ob94uue5+A7jYQUQ=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "cf1a6a57a6d6e48b7aad4f64dc61a61f",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Stellantriebe FCD A 00-10 xx FCD A 00-15 xx FCD A 01-15 xx\n\nDUNGS Combustion Controls\n\nAbmessung der mechanischen Befestigung \n\n□7+0,02  F03*  F03*  PCD Ø 50   PCD Ø 50   2xM6  2xM6  PCD Ø 36   PCD Ø 36   4xM5  4xM5 \n\n□9+0,03  F05*  F03*  F05*  F03*  PCD Ø 50   PCD Ø 50   4xM6  4xM6 \n\nFCD A 00-10\n\nFCD A 00-15\n\n*Angaben in Anlehnung an ISO 5211\n\n□9+0,02  □9+0,02  F07*  F05*  F07*  F05*  PCD Ø 50  PCD Ø 50  4xM6  4xM6  FCD A 01-15 \n\n8 … 16\n\n9 … 16\n\nStellantriebe FCD A 00-10 xx FCD A 00-15 xx",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "orig_elements": "eJztmE1v2zgQhv+KoGPaxsNvcm9pgyx6aDZAtqe2EPgxdFRYkiHJCxdB/vuSboIoadB19iZAF4pjcoYz1APzpb7clrjBBtuxqkP5R1GyEL3GQEEpT4LzFoKnwSAFK6zwpnxblA2ONtjRpvm3Ze5UQ7frPT7YWPke0+MQkCjOAZShcArZ+TDedKGO9W8mbPvO4zA8ziCGS8NOFdOUH5LYYt/Uw1B37VDdJ/PltkyBcxqMUeB339K0Hn3Xh2rTeTt2/SHDrR1vctjV5wH7YdXX3ts+JMdh7O1YD6urH/7G9s1V331HPw6rsGvXQ7Xt/Cp0fpc3a3jXtbiiRimA6nrEzca2Y1+jw+riw3l1/r46P92GWN7dpRRivcHWNjmv8r9d7h3GH9uDg91uN3XKPdW5uh9OjuudXeOQSy6xXZe50G36pWp3jcNcpc4Lj7gfc4wnqxVpteKsAHhHoNjvJ6aYmOSnmZd7yOTS9nl7/sG/c9gU/zk6RhOnRDQhSutBehXAGQzMWwxRCbmgMz90zj9f/nldfOgatxtyoNRNS3ebYUrGxyYFeIkIwkXkEaQgkUstVATmwVlEJoXycSFihkScuSbtZSqiCNgXDabq2nrwN9gW7zGmsut1HjyOD6CeBQVSWStkooOEKASjJgpkVJOFj/nx8XVHhSXqDbwFWhQXwE4e2qt0tHzdAQRdCCh+ten+k3xoJ2NMFr/afP9J3LfHkUat5D4SDoQjeKM0ageEEatIOpvcQtpcSTOZNJYZEyePvImjqeMH3g7tUSRpyjjRImhuIWpLWTRCWowGDafEiIWk+ZE0kcSvUryCO6aJlwQkOoXaECDCCK5QBBbSRi8szJgF8ToWkKLUVmrFAgPpolbBJOnLwKGWcbk4z5CFk7N2bV1StnVbnLUbvGmztLVt8fH6r0JQQqaEXHTdmEK8gIYkEqmniqA33mEEQb1h6c2pGJREvaAxPzQm4iPJ3KfWBaiJCHnsP5Mez8yJEHnyFeYoVSJZokubwDjXRjkTiTcog08CxWvmYEFsfojpjBVQWRA5ZeAqeVz+dHgBBDAxBu4JIohgPRLqVbpde0QinabLMTQPEMwUBPN/QFAGIzdWcZbOKRItCSomccKN5DH9Iyz3lBmC8IoP+b/Rrt/+BX12EZA=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "8e8a252f70e1c786eee47b8722039924",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. DUNGS Combustion Controls\n\nDrehmoment-Auslegung \n\nBetrieb mit FCV A/G Regelklappen Für Regelklappen in geflanschter Ausführung (DUNGS DMK und FCV A/G) kann der Stellantrieb FCD mit der Baugröße A 00 15 für eine Nenn- weite bis einschließlich NW 80 ver- wendet werden. Bei einer Nennweiter größer NW 80 bis einschließlich NW 200 eignet sich der FCD-Stellan- trieb mit der Baugröße A 01 15. Diese Angaben gelten bei einem Dif- ferenzdruck von 500 mbar.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "orig_elements": "eJztVF1vnDAQ/CsrnlqpdweYwNG3XE6JqqqnqmnahzRC/lg4N2CQbdKm0f33rslFSSM17WukvGDw7szOmIHzmwhb7ND4SqvoLURsKTKV1ipJykIwFCxLBTJZC1kwEQuM3kDUoeeKe079N1G4qVw/Wol3z1hJi7RMhEmRZXFclGk8jwN4qne90rV+omGwvUTn7juSMstLNi/YMs3K0Dag7bRzujeu2os5v4mIOMhgLI2z3QW1WZS9VVXbS+57OykcuN8G2sWZQ+sWVkvJrSKg85Z77RYfr+WW2+6j7b+j9G6hRtO4aujlQvVyDIflZr3BRVoWRRxXpx7blhtvNQqsjo/W1XpVreeDqqPdjiTUukXDu6Ar+jdkD/DXwwTgw9Bq0k4+F/syAZuRN+iC5QhNEwWjA+1UZuwEBpdlGOzxpw8c67PNySkc9Z0YXSCiWxrdty6w3Q161xFBRLDHiViKZcpLJsVSZrmo86JMeIEM8yRnUqr8JRHPMBEWt10fdM8OR9diQ37gv9LAMp6iYkWtOE+VyJUscp6wso6XLC1e0vAc07DCaRB02sPx0Rc4XJzAJ2ywvWyJHg0cfxvjuJb2z11toMGapjm59WiBklTfNm5tyNOr2//O+sN7GI26Y34Nl9wYUAR46JLK60lAKKz42NiJKg9XVSMcQhxDcgD1nRTUBmGDxszgB2qPILQLmySm1XgLo5PZwuYrLGO4QhsajUJPi1Vo5rBCPdHYiWdisfBosN3jn2BPSRnqxhCzC1vBAbmZ7e3N4P50/24uIXNzWGt09GgaLjCcbutpEXuZHZXrGZAmNL+UHeUlXNHP/IDGd4Lb+cPvd8NtyOoVfg7veHfxGyhKiqQ=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "6303625d169c31727130f484fc8a164b",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Bei geringeren Differenzdrücken kann von den zuvor gemachten An- gaben abgewichen werden. Die nachfolgend dargestellte Grafik enthält Angaben über die von den FCV-Regelklappen benötigten Dreh- momenten bei unterschiedlichen Differenzdrücken. Die in der Grafik angegebene Nennweite entspricht immer der Durchfluss-Nennweite der Regelklappe.\n\nUm die Linear-Stellglieder FCVL zu betreiben wird üblicherweise der Stellantrieb FCD 00-10 verwendet. Dieser kann ohne weiteren Aufwand, direkt montiert werden.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "orig_elements": "eJztU01v2zAM/SuCz00sfySud2sbdJeiKLZ1l7YwZIm2tdiSQcnJ2qL/fZTToMUwdOcBO8ShpEfykXy8e46ghwGMr7SKPrGoTkWT1EoWXCQ8XWd8rVZcQpGqIi9P1yo6YdEAXijhBeGfo2BUzk4o4XiGSiLQ3xwwKfKc86JM+ZIH5/l9sEo3+gPAiFaCc2+IpMzXZbYsstM0LwNsBBy0c9oaV72SuXuOKHCgkWUpz18eCIYgLaqqt1J4izPDUfguhI1vHaCLUUspUJGj8yi8dvHNo+wEDjdof4D0LlaTaV01WhkrK6fQLLewBuK0LArOq68e+l4YjxpqqC4vNtXmvNosR9VELy9EodE9GDEEXtHfXV4d/OM4O4hx7DVxpzrj12dybCfRggslR2DaKBQ60k1lpqGGUGUZEnv46UOMc9CsBdSGPmDYRjdNMJ4U3k+cN1Ju6XYrjGE7a5iiw9O0s0g+g5Cdp/OZWbBW1GSJuoW9lh2Ze0DCLikeMEPAxvYtGMWUQCIXKvTAPqNo9JZRz7qQDPLeU7RDrEN2IswUhTjmvrz4vvgCLfTbnoqnC4LOyLXXbSCzQegWbLBhEPOzZhNZ6GRHkuoP5P5Y5IGrDnnwyIyaSckoB7BrMGYPmliHEY8kjM4zPQyBIP02pPGu6SfnFm/I8PCO7TIM6Di7a4FBUDv4FgZBE/l92aTMYJ1BuVIrWCenKmmgEKVMsnxVS5WV/5ft31u222FW85U2IHAx52576j7phJR9RatFivUIOmzAXqM6rsEsXCRVuYOq3tMm1w3jfJFwtgsYo8DPYqamHjbXdiTgWZJhxc+mZi+MOiEqCFtPy2K8BvTHnf1ApQ+/AOqzBSk=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "92987efa5be38030076859e682fe8875",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. FCV A/G - Drehmomentbedarf 100 90 80 70 60 50 40 30 Drehmoment [Nm] 20 10 <40 50 65 80 100 125 150 200 Durchfluss-Nennweite —— AP bis 500mBar AP bis 250mBar\n\nZubehör \n\nBetrieb mit DMK-Motorklappen Die DUNGS Flow Control Drive Stell- antriebe der Serie FCD A xx xx x eig- nen sich selbstverständlich auch zur Ansteuerung der DUNGS DMK Mo- torklappen und anderer Regelklap-",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "orig_elements": "eJztVMtO3DAU/ZWrrBvGeSdVN0AEqipGqJQuCihy7JsZt0kc2Q6Povn3XgdGRV203SIhRYkf59x7jnPkq8cAexxwdI2SwXsIkpSzEjPMJYoyyWWZyrbKsxKjnEVtFwfvIBjQcckdJ/xj4AeN1bMRuJ9jIwzSZykYFWnKWFHF7IB58rI/aKk69RfAZLRAa38joirNq+SgSMo4rTxsQjMoa5UebfMs5uoxoMJeRpLELN3dEMyg0EY2vRbcabMonLjb+rKrS4vGrowSghtJROsMd8quzh/Elpvh3OjvKJxdyXnc2GbSYiW1mP1h2VCPuIqromCsuXDY93x0RmGLzclx3dRHTX0wyS7Y7UhCp3oc+eB1Bf+mPBPcw7QQ+DT1irSTz9XzNhE3M9+g9ZYDHDeBNzrRSjPOQ4veZeUbO7x3vsbJ8Vc4XJ1CCLXB7aC9gxYlNx1EjEHFoGRQMMgZZAxSBgl7gYSr9XADMSMsfEgXSJ55hudGcQYRrcQ0rikD266frQ3XOI53qBzC9RyzKH16w+E5tMpSBTYccbOfxtky9db2rj8O5CYgD3/Gs0PGy6zlhSjKiLKZoUwjHpUybbMq6/hbPF9fPL/NLW6vZ8a63MB/pQBFnnUiwrJicZskUctZVbSCRRUryq7L3lLw+lJwhEsjGJSD+uxTeKbpKH70VBpHqBVCfbk+vYCTXt/BsSZVuqdLSt0iLDpD2CsFiQYukMZAmuEQ7u+XB1BtQhipmlViCxb71rpbOlzns4fpKHu/zmd6/ZzpdhqtwxkNnetS8qk/SYMzHcILcfMoqTlBCPQZN9j7jfBlkNfc+J92i1+82d3NLw3sW2o=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "ad794d6a2bbc388cece9c0524e1aae88",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. pen. Um die FCD-Stellantriebe an die DMK-Motorklappen zu adaptieren, muss die standardmäßig verbaute Flanschplatte ersetzt werden. Um die Antriebswelle zu adaptieren, werden außerdem spezielle Wellenflansche\n\nbenötigt. Um die DMK-Motorklappen mit Rp-Gewinde zu betreiben, eignet sich der Stellantrieb FCD A 00-10 xx bis zu einer Nennweite von 2“.\n\nStellantriebe FCD A 00-10 xx FCD A 00-15 xx FCD A 01-15 xx\n\nDUNGS Combustion Controls\n\nEinbauhinweise",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "orig_elements": "eJztlltP2zAUx7+KlWfa2s7Ve2N0Q9MEQgO0B0CRLyett8SJbIer+O6zUxiFoU17ROLFzan/5+pf3J7dJdBCB8bXWiUfUIKLsiqAUMBKkbIqlRRhlVlTMd4UgJMdlHTgueKeB/1dEh9q149WwqMNtbQQPqaApMwyjEtG8Xxynva7XulG/0Uw2F6Cc08KwrKCpfMyrWjGomwA22nndG9c/VDM2V0SAscy0pTi7P4iyCzI3qq67SX3vZ0qHLhfx7CLUwfWLayWklsVHJ233Gu3OLqRa267I9v/AOndQo1m5eqhlwvVyzEOy816AwvKyhLj+thD23LjrQYB9ee9Zb38WC/ng2qS+/tQQqNbMLyLdSX/dnlw8DfD5MCHodWh9tDn4mE7OK5GvgIXW07ArJLY6BC+qc3YCYhdspjYw7WPMQYwc3TaIaUBhVyzZ9kRN9PG8uDr7KAPM/rZhpxg0O2IwikPXoMFs4O60blJ6Dw3KgysOx8xhiyuqtErdAlW8NGHFCG2k+uh5T5YYcTgbz26Aqu26tjdpHdXoRR4mWujRXzcBI9Wh9wAt3pSf4+raTZpII7kcVqH3MYjvIST2HqYwUu8ZUkpB8IkxZQ1uFIkb1KZFjTNuCDFO95vEG8BJnLSFF6v/G/A/uC50x59G2b7cKWNmpAT4C1oEYkDvTLgkdNyjRRYtN1BfGfQLsJ4RjC6vkZCu+gN2gThIRhzBTqAftkbRM9Hiomc/xeTBOdQpJIJRkveUGCl4FmeFyUjLKcZeWfyTTBJ8DaUz+/YFwQ9mfmWSTbmNjsn2rfwGjM8JxmEi6skrGA4E7zJclFlRZamssK8emfmDTKzPD3cP0Z7fSdGFyOFx5C7b902El+6EOE1JFJMhMCFpCVTpOC0JEArTGVFaDi4/B2Jt4jEJ23Cn6q1jr8xDl65Gi5+AUxAwkA=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "f34561d42b213b1b695508229cf52f0e",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Der Stellantrieb FCD A 00-10 eignet sich zum Betrieb von Rp-Gewinde- klappen (DMK-Regelklappen) bis zu einer Nennweite von 2\". Für Regel- klappen in geflanschter Ausführung kann der Stellantrieb FCD A 00-15 xx bis zu einer Durchflussnennweite von ≤ 80 mm verwendet werden. Bei einer Durchflussnennweite ≥ 100 mm bis einschließlich Durchflussnennweite 200 mm eignet sich der Stellantrieb FCD A 01-15 xx. Dieser Zuordnung liegt ein maximaler Differenzdruck [∆pmax] von 500 mbar zugrunde.\n\nZubehör",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "orig_elements": "eJztVMtu2zAQ/BVCpxaoLYqS9egtqZEeigZBml7ygECRK5mNRAkkFTsJ/O9Zyg7iFE16LtCTJHJmd2Y54tVjAC10oF2pZPCZBFESS5ZXLMo5xFkuC77IZUXrRZSJmKVZ8IkEHTguueOIfwz8S2n70Qh4/oZSGMDHrmCWJJRmBaNz6snTftdLVat3AIPpBVj7goiKJC3ieRbnLCk8bADTKWtVr225F3P1GGBhLyOOGU22NwgzIHojy7YX3PVmUjhwt/Jlw58WjA2NEoIbiUTrDHfKhmf3YsVNd2b6XyCcDeWoG1sOvQhlL0Y/LDvrNYSsyDJKyx8O2pZrZxRUUJ58WZbL43I5H2QdbLcooVYtaN55XcHfKXuCux8mAh+GVqF29Bnut5HYjLwB6y0HoJvAGx1wpdRjV4F3GdFpybwcbEyjqqKpYFkho5SzLAKWUybyiOH4F3ngpTrYOA9egiGHGglKJEeE0llECahGgyNWiRV5GDtyDDvMXa/J+TD7CmulJczIbYviQZMPy+/fZufQQLtf+UgqZZGKlTQ2OgWt16AcTBXYdTAnJ9cjpbUwZKK9lFKaNFCjKitWDqlHo6130JXBQyK3XGsi3xa/IJvN6+ZLDO6qbkdr9SsZ1yNjaUJySrqO3IFZA3pyZA1Ggp6jZ/VOgYm8wEOY2L4fYlFyq8CrlXXrZ/cnJttRDkf8lp1oZ2dOlgowyORyxKBrPwVs0zjfknR8ozreepmqrgHj8CDNKG7JlZdI0wEBN5PfhW9ccYOTaXCUEuY+as8pPOXG/xp3cOEDgkn5/doQRYJupUwgTRe1iHgu0yiDhNYFZKxK/18b/8i1cXgLXI4VrKbfKzWHabhQroVge/MEzNsFBg==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "aa513bf73acaca7d5657a721b8a2f156",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Die DUNGS Flow Control Drive Stell- antriebe der Serie FCD A xx-xx xx eignen sich selbstverständlich auch zur Ansteuerung der DUNGS DMK Motorklappen und anderer Regel- klappen. Um die FCD Stellantriebe an die DMK-Motorklappen zu adaptieren muss die standardmäßig verbaute Flanschplatte ersetzt werden. Um die Antriebwelle zu adaptieren werden außerdem spezielle Wellenflansche benötigt.\n\nFlanschplatten zum Anbau an DMK Motorklappen",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "orig_elements": "eJztU8FO3DAQ/RUr5+7G2SQO6Y0S0UMFQgXUA0WRY0+ybhM7sh1YFu2/M84uYuHQniv14sT2mzdvxm/uniPoYQDtayWjzyQCkbKWlTnnOXAJLClYwlZFnvCk4IJD9IlEA3guueeIf47CT+3MZAW87qEWFvAzEyZFllFalCu6pCF4vh+MVK36A2C0RoBzb4ikzFiZLov0ZJWVATaCHZRzymhXH8TcPUdIHGSk6Ypmu3uEWRDGyro3gntjZ4Uj9+tAG986sC62SghuJQY6b7lXLr56EmtuhytrfoHwLpaT7lw9GhFLI6bQLLcwGuJVWRSU1tce+p5rbxU0UJ+fVXX1pa6Wo2yj3Q4ltKoHzYegK/p7yCHAP41zAB/HXqF2rDM+XGNgN/EOXCg5At1FodART2o9DQ2EKhM6H9m3hxVlllAqZQaM5a1I+InEx4WMtiUUq4ZFQaqHjQ/gSgGpbi+/XpPz3jySM4NSTU8qqx6AzOIX5FU+kWDJNeA/wULIKdlsFpsNrgRUp0ETp8SaOOgb5x+w4f7nRClkWvbhnE+4bCdLTrXzMIHFXs+M+/TVxTdyYfDlfvfYCSSbtMTMCEDId+gAhRyuluR2IPKg4l2DMWC+QLLFO7LtRNDIo1dIp8kwOTfjnMcMaIlhrzSsslUdQfUNnzxmQGon1mPPPe6wJvBbTx7ByiMZp/vsjygEPmTaI7H2PXXYDcSNsFUz+EdYdbtPAqQBHXAt86rzy+CAV3Ncchsc+wA34d3wAT9Os0TyNKNJziQkAso0L3ne4myzpi0YsP/T/I9M8/FwvnNfMPGAXkNjBpt/nJdjt9wo30O0u38B1o70tg==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "13796339b84d14b05c5f7e34b354443f",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Nachfolgenden ist ersichtlich, wel- che Flanschplatte benötigt wird, um einen FCD-Stellantrieb an eine ent- sprechende DMK-Regelklappen zu adaptieren.\n\nFCD Flanschplatte mit 28 x 28 mm Lochbild Bestell-Nr. 297477\n\n4 x Ø 6,5  Ø 5,5  3  5 \n\n70  28  Ø 22  A  Ø 50  A  28  70 ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "orig_elements": "eJztldlq3TAQhl9F+Possi0v6l3TQ6C0DaHLVRrMWBodq/WGJDdpQ969o0MOCSG09DI0N7aWmfH/jz7ki5sEexxwDI3VySuWtK2Rda2FzlIhUQgQJq25TjmHuuDYJiuWDBhAQwCKv0nioPHT4hQe59goh/Q6FEwrITivZMY3PCYf9odJW2P/EDC7SaH39xGpFKXMN1VeZ0LGsBndYL230+ibOzEXNwkVjjLyPOPi9pLCHKrJ6aafFITJHRTOELpYdvvFo/NbZ5UCpynRBwfB+u35T9WBG87d9A1V8Fu9jHvfzJPa6kktsVl+PY24zWRVcd58Ctj3MAZnscXm9M2u2Z00u82sTXJ7SxKM7XGEIepK/p5ylxB+zocEmOfeknbyub3bpsT9Anv00XKC4z6JRmdaacZlaDG6TPlhyd0frNYGc8HTotSYKpR5IaEwAEXZmqrEMolSA16HGHwGqjNTv8dR48isD4w6ZVUXSEu3YlfYr5nqkJ2SFq+6uYcQkLU4fl04N2Ww+8CurNMrtgwM7UhFyOT6oW0G42GHkcQ18zMdVBc/x3Yf3q0/4h777z2Zp8xfCyPc5mCR7GxiB47NOQMXT+wHfo66ycBjmk1LmaatM14ILACqKuN12pbGlNBWkr/Q/D/QTIoekTrYwLKaXcfHMLD3k+pa22t2Ql0jL+szt2FkTlTVP+EmMC1EltcKatIAsixNAVzKVstUi1y+4PZMcHtIjyBM4rWma1auCnYcF3GcM1awh4i8HajSk2hIo6u2Avq5cpVjDZjzios8hVrKslYvaDxDNCrO4g1yRCLLGHt9Dwg/zOI+xT0ByeVvTe37aA==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "c95bfd025e8fea3685d7a861a91156bd",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. 221041 252403 222619 252404 222620 254011 222621 254015 225975 254016 225978 254018 225981 254019 225982 254020 225983 254719 225984 254733 225985 255724 225986 257088",
+    "metadata": {
+      "text_as_html": "<table><tr><td>221041</td><td>252403</td></tr><tr><td>222619</td><td>252404</td></tr><tr><td>222620</td><td>254011</td></tr><tr><td>222621</td><td>254015</td></tr><tr><td>225975</td><td>254016</td></tr><tr><td>225978</td><td>254018</td></tr><tr><td>225981</td><td>254019</td></tr><tr><td>225982</td><td>254020</td></tr><tr><td>225983</td><td>254719</td></tr><tr><td>225984</td><td>254733</td></tr><tr><td>225985</td><td>255724</td></tr><tr><td>225986</td><td>257088</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNlE2P2yAQhv8K8rkbY4wNVKs9bKNeqlYrtT2tVohgkrjyl4BIXa3y3wseZ2tv47bK4QXzvGNmMuPHl8Q0pjWdl3WVvEfJnua61AYLkpWU7xQ1inFRlnvBSPjp5B1KWuNVpbwK/EsSF9L1J6vNZW+ktibIGDBjlGLMBMEbHM3jedtX9b7+CzDYXhvnfhOZoKXINyznhIqIDca2tXN13zk5XebxJQmB4zXynGB6fgqYNbq3lWx6rXxvxxsOyh9j2PS7M9alttZa2SoYnbfK1y59eNZHZdsH2/8w2ru0OnUHJ4dep1WvT7FY7qbvTEoEYxjLr940jeq8rc3OyI8ftnJ7L7ebodon53O4wr5uTKfaeK/k35bJ4J+H0aCGoanD3UOe6XQcjIeTOhgXU05Md0hiokN4IrtTuzMxywyHR9789FI5efRtE2PderVrzN2tPxpVBbFxeUdIhml2m4bluC0IxTls04ikF3zXV8+TqwouUmYiHFawjS4K29E1wwieYRRn2QqWLbHiGlYIViyxcgXjS4xfx/ibl4oVjCywS0Z/YPkcY6vR6ALL8xVsnmnByNXyBqycYQzztUzZDOOYrmHzuvEwlSvY7K8vac5XMIGX2Eqmgiyxa5nGBnsT7VqHRCxbYtc6JGLk/wrC1guSTjORwmAl52no4rDdh89JGPKbL3aDtp8/IRgzBHODYC5A4sPY1yAcQV+CEJAchIIAyUsQBjL5BIK6gwT7WDeQDIS8+sZRBwmhx9kEKUBKEA4iEPQ+gt5G0LsIehNB7yEoJYJSIegNkByEghQg5dIQP2+XL9+3WNPk/PQLOpPabg==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b7083bb96dea1a33cc57c10e7c65865d",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. 225987 258048 225988 258792 225989 264382 225990 264383 225992 264384 252400 264385 252401 264386 252402 258048 225987 258792",
+    "metadata": {
+      "text_as_html": "<table><tr><td>225987</td><td>258048</td></tr><tr><td>225988</td><td>258792</td></tr><tr><td>225989</td><td>264382</td></tr><tr><td>225990</td><td>264383</td></tr><tr><td>225992</td><td>264384</td></tr><tr><td>252400</td><td>264385</td></tr><tr><td>252401</td><td>264386</td></tr><tr><td>252402</td><td>258048</td></tr><tr><td>225987</td><td>258792</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyNlE2P2yAQhv8K8rkbY4wNVKs9bKNeqlYrtT2tVohgkrjyl4BIXa3y3wseZ2tv47bK4QXzvGNmMuPHl8Q0pjWdl3WVvEfJnua61AYLkpWU7xQ1inFRlnvBSPjp5B1KWuNVpbwK/EsSF9L1J6vNZW+ktibIGDBjlGLMBMEbHM3jedtX9b7+CzDYXhvnfhOZoKXINyznhIqIDca2tXN13zk5XebxJQmB4zXynGB6fgqYNbq3lWx6rXxvxxsOyh9j2PS7M9alttZa2SoYnbfK1y59eNZHZdsH2/8w2ru0OnUHJ4dep1WvT7FY7qbvTEoEYxjLr940jeq8rc3OyI8ftnJ7L7ebodon53O4wr5uTKfaeK/k35bJ4J+H0aCGoanD3UOe6XQcjIeTOhgXU05Md0hiokN4IrtTuzMxywyHR9789FI5efRtE2PderVrzN2tPxpVBbFxeUdIhml2m4bluC0IxTls04ikF3zXV8+TqwouUmYiHFawjS4K29E1wwieYRRn2QqWLbHiGlYIViyxcgXjS4xfx/ibl4oVjCywS0Z/YPkcY6vR6ALL8xVsnmnByNXyBqycYQzztUzZDOOYrmHzuvEwlSvY7K8vac5XMIGX2Eqmgiyxa5nGBnsT7VqHRCxbYtc6JGLk/wrC1guSTjORwmAl52no4rDdh89JGPKbL3aDtp8/IRgzBHODYC5A4sPY1yAcQV+CEJAchIIAyUsQBjL5BIK6gwT7WDeQDIS8+sZRBwmhx9kEKUBKEA4iEPQ+gt5G0LsIehNB7yEoJYJSIegNkByEghQg5dIQP2+XL9+3WNPk/PQLOpPabg==",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "85346d0fde0c848d6852bdf026dfbde2",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. 10 … 16\n\n11 … 16\n\nStellantriebe FCD A 00-10 xx FCD A 00-15 xx FCD A 01-15 xx\n\nDUNGS Combustion Controls\n\nFCD Flanschplatte mit 38 x 28 mm Lochbild   Bestell-Nr.  297478  Bestell-Nr. DMK ",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "orig_elements": "eJztlttq3DAQhl9F+LpZ62BbVu+aLCmlbQikuUqD0WG8q2JbRpJhQ8i7V9okdFNCC71qYK90mn/mH/Eh++a+gAFGmGJnTfEeFaB7aVgDStO64kIBoUTVsjE1EbWqoXiHihGiNDLKFH9f5EkX3OI1PK+h0x7SsE9IeFVhzAXFK5zF+/PRGdvbPwTM3mkI4VcEEVUj2IqzllYih83gRxuCdVPonszc3BcpcbbBGMXVw20K86CdN93gtIzO7x3OMm5z2vI6gA+lt1pLb5IwRC+jDeXlnd5KP1569wN0DKVZpk3oZqdL4/SSLyucuAlKKjjHuLuKMAxyit6Cgu78bN2tT7v1ajZ98fCQLPR2gEmO2Vfxd8mTIN7Ne4Gc58Em76nP8uk4CTeL3EDILRcwbYrc6Jx2umkZFeQuCc6VI+zi/gIx+r5QTBtEmpzhOfll0lw8SlL47ygwQoACThhopRmWpmaMK96ohivFHr0cUfj/USAvUCD/hAJmTPSMysoYkXxrjkUPmhjJSIXp8VV4iyi8KIdSOfQBYXySHovd7mBZHyzJ4/IQnG82DvAaM03PCW4aLFraSt1S3hohqTItF+m7QsWRmTfIzPr64uMVOnOjWkLOlKapthvCIRKfxpThNSRE+rWgWLfYgCDU6L5PHxMs+zSyHit5ROINIpGfhvMkC3o7DzJGQKONiLVoh2iLxhF9cXqr7GAQQqfpGpK5kwu/QijZrXj7cnP99TN6BaXbnyEiWF0=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "5a96a0eca6bed3f37d2cd4f7fe6ef543",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. 221047 221052 221057 221352 222608 222609 222610 222611 222612 222613 222614 222615 222616 222617 222618 237611 237612 237613 270303 270304 270305 270306",
+    "metadata": {
+      "text_as_html": "<table><tr><td>221047</td><td>222615</td></tr><tr><td>221052</td><td>222616</td></tr><tr><td>221057</td><td>222617</td></tr><tr><td>221352</td><td>222618</td></tr><tr><td>222608</td><td>237611</td></tr><tr><td>222609</td><td>237612</td></tr><tr><td>222610</td><td>237613</td></tr><tr><td>222611</td><td>270303</td></tr><tr><td>222612</td><td>270304</td></tr><tr><td>222613</td><td>270305</td></tr><tr><td>222614</td><td>270306</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyFksuK2zAUhl8laN1GF18UlzCLNnQ90HY1DEKWThIX2zKSAg0h715dHGY8JO3q15G+/3Auerkg6GGA0YtOoy8rpPim5fu2gj1ASZRq2qZlXFdAOGm13qBPKzSAl1p6GfgLigfhzMkquMUglIUgKSHlZUkIbxhZk2hO74PR3b77BzBZo8C5N4I2Zd0Ua15sWNlEbAI7dM51ZnRiLublgkLiWEZRMFJeXwNmQRmrRW+U9MamCifpjzEt/uXAOmw7paTVwei8lb5z+PmsjtIOz9b8BuUd1qfx4MRkFNZGneKw3GczAmYN54SIHx76Xo7edtCC+P5tJ3ZfxW496T26XkMJ+66HUQ6xLvR/y2zw5ykZ5DT1Xag99Inn52A8nOQBXGwZwXhAsdEp3IjxNLQQu6Q0XHn444V04uiHPubaetn28LT1R5A6iI3HJ8YoKfkWh2MOWU2rHOKI4BveGn2eXTq5KhYe9RwGV53D5HqP8SXG72LFx2ybexiryeYNK3hN6QOsWWLsPkbJEiseYPQN46QgjzC2xMoHWLHEqgdYucTejxfP28B5peg6rzv9sbTQVd5QlhQVKYoTzNKs8gSy0CwZoUWWMkuVpc7Cs4Qsaf5ZWJbgS/PJUmapstTx897+9c9YN7q+/gXph0xQ",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "018fbb899d5ccf5df8940f7e579a02bc",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. 4 x Ø 6,5\n\n70  Ø 5,5  38  Ø 22  A  3  Ø 50  A  70  5  28 \n\nStellantriebe FCD A 00-10 xx FCD A 00-15 xx FCD A 01-15 xx\n\nDUNGS Combustion Controls\n\nWellenflansche zum Anbau an DMK Motorklappen\n\nNachfolgenden ist ersichtlich, wel- cher Wellenflansch benötigt wird, um\n\neinen FCD-Stellantrieb an eine ent- sprechende DMK-Regelklappen zu adaptieren.",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 11,
+      "orig_elements": "eJztlluP0zgUx7+Kled26jhOHPMGVLtCiBFaGPHAosiX49a7ucl2loHRfHeOuzNQENfHij41xz6Xv09+PfHrmwJ6GGBMnbfFA1I0QuuyrlhTOlZZ6qjlgreVEbUD2ZSyWJFigKSsSgr9b4r80MVpCQbubehMAPw5JCwF55QKyegFzcGH/WGy3vnvOMxhMhDjJ49S8kZWF6JqGT+ImCEMPkY/jbG7E/P6psDEWUZVMcpv36BbADMF2/WTUWkKB4WzSvucdnMVIcRN8MaoYDEwpqCSj5vn78xeheF5mP4Bk+LGLuMudvNkNnYyS25WXE8jbJgUgtLuRYK+V2MKHjR0fzzedttH3fZitq64vUUJzvcwqiHrKn4ccheQ3s2HADXPvUfteM7N3TYG7ha1g5iPXMC4K/JBZ1zpxmXQkE9ZlrlyguuUk3ByTf5eKLUtaVZ1znGf/mrE3LCbgn8P9mV2x7gvmeCMA6uaRmrBZV1BxWTd6rpWzmrNHT8zcYJMCErumahXNSFV+9FmjJCHuPLJgR4Wcgh6spYcI/RkwCpfw0ZxpWzZlpxJxniphatsyalljaKt4+0Zm9PAhh1j81k5guUQDErXJSXX10dmfWSW/5vHzLz0qf8qMwLHiq1pxaxTspbC0tI64VrgzrRKwJmZE2Rme3X55wvyeBr0EnMmfMTaUx9/aoxILpiprdVlaY2VhpqmbZltNGWtkNyekThBJF5hNRgdBkazB/J+GcjDUauFqJFsnz0lzybszb891oLxpwZHY1vpRINEgJGVdEwZS/O3p4ZGWF6eKTkRSg5L4Rf+/sdYXSqzd1O/g9HCSHxMBDvlzT6hlv2KvIV+TZC3QD7jj2gY803HNcnvEnnrg12RZTjm7lKF3OP/4Ft35EaZSkrQVGsBTDZ4yeH5lVupWyng/OH6LfgDPyJ3qGt9rDQPtbxDMOuaxBl7u8+E5km3/gt20N9NOpyDBAmZkwdUcPEdAN98ADNY8ts=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b5e89fe032dbd90cfdb0751c8f3a645c",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. FCD Wellenflansch 0 7 x 7 mm, @ 8 mm Bestell-Nr. 297479 DMK BaugroBe FCD Stellantrieb 295 FCD A 00-10 xx 21 Rp % -Rp 2 30,5 37,5",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FCD Wellenflansch 0 7 x 7 mm, @ 8 mm Bestell-Nr. 297479</td><td>DMK BaugroBe</td><td>FCD Stellantrieb</td></tr><tr><td/><td/></tr><tr><td/><td/><td/></tr><tr><td/><td/><td/></tr><tr><td/><td/><td/></tr><tr><td>295</td><td/><td/></tr><tr><td/><td/><td>FCD A 00-10 xx</td></tr><tr><td/><td/></tr><tr><td/><td/></tr><tr><td/><td/></tr><tr><td/><td/></tr><tr><td>21</td><td>Rp % -Rp 2</td></tr><tr><td>30,5</td></tr><tr><td/></tr><tr><td>37,5</td></tr><tr><td/></tr><tr><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1VFtv0zAY/StWJN7axnYuTtCooFS8INDERTysU+TYbhuUxJHtiE2j/x1fsq2jwBATD+lJ7POdnu/zSS5uItGKTvSmanj0HEQJSpOsFgUqBatxQrOUckGzrcAEEcZwNANRJwzl1FDLv4ncTaXlqJi4fRYVU8KCF0QkTSEkJYYL6Ir9fid5s23+QBiUZELrewYq07xMFiQpcFo62iBU12jdyF5Xk5mLm8gKOxtJgmF6uLQ0JZhUvGolo0Yq73CgZu9k489aKB2rhjGquC3URlHT6Pj8mu2p6s6V/CqY0TEf+52uBsliLtnohqXnshcxLgmBsPpoRNvS3qhG1KJ683pdrVfVejHwbXQ4WAvbphU97Zyv6PGSqcBcD76ADkPbWO+2z3jatoW7ke6Edi1Hot9FrtHBrlT92NXCdYmwX1L3B1umBLOM8xohznjJIMuLAvO8hrggZcqdshFXpqK62puudTVnhtatWJ6ZvaB8eRZPaGrJry0oe3Gg5Dc90P7FJsKbaGl7AV9sc6LfWp+a7QEEBFzZq+tm4CUoLIKVHbXlzN+rBbATSUlptZ0wX67fvQUrOu6UXIm7RSd6PLKwEXsD3sTyjvro1n/l4DL7J6njIaJpiq8AhHMEwdXVU9p9+hZGv3CJcuvywwCegbn9xadVCZxlv/ubBzzyd7yTlWMz0JqRBbj8fsSKp5TGIcPRYcq3y/VpSDcjzig6SupmhJAXp3H1+TyJL8AYwRQFIJMauRUpZxkg94oYATcdu+Sa9zUZDkAcJP4J57AIUHqwSfCAAgQKSgKkAbIAeQASIKigoIKDirWAE+LFHOAAVozABE6QBsgC5ODuzXSNbHPfzlYAe/xJnIK5u8Hg5zcVPEyy/8hMX7ZP7lyiw+UPuPLtJg==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "3ec4680f6d4434813a71be2dbe43f643",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. o8 ]|",
+    "metadata": {
+      "text_as_html": "<table><tr><td>o8 ]|</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJy1VFtv0zAY/StWJN7axnYuTtCooFS8INDERTysU+TYbhuUxJHtiE2j/x1fsq2jwBATD+lJ7POdnu/zSS5uItGKTvSmanj0HEQJSpOsFgUqBatxQrOUckGzrcAEEcZwNANRJwzl1FDLv4ncTaXlqJi4fRYVU8KCF0QkTSEkJYYL6Ir9fid5s23+QBiUZELrewYq07xMFiQpcFo62iBU12jdyF5Xk5mLm8gKOxtJgmF6uLQ0JZhUvGolo0Yq73CgZu9k489aKB2rhjGquC3URlHT6Pj8mu2p6s6V/CqY0TEf+52uBsliLtnohqXnshcxLgmBsPpoRNvS3qhG1KJ683pdrVfVejHwbXQ4WAvbphU97Zyv6PGSqcBcD76ADkPbWO+2z3jatoW7ke6Edi1Hot9FrtHBrlT92NXCdYmwX1L3B1umBLOM8xohznjJIMuLAvO8hrggZcqdshFXpqK62puudTVnhtatWJ6ZvaB8eRZPaGrJry0oe3Gg5Dc90P7FJsKbaGl7AV9sc6LfWp+a7QEEBFzZq+tm4CUoLIKVHbXlzN+rBbATSUlptZ0wX67fvQUrOu6UXIm7RSd6PLKwEXsD3sTyjvro1n/l4DL7J6njIaJpiq8AhHMEwdXVU9p9+hZGv3CJcuvywwCegbn9xadVCZxlv/ubBzzyd7yTlWMz0JqRBbj8fsSKp5TGIcPRYcq3y/VpSDcjzig6SupmhJAXp3H1+TyJL8AYwRQFIJMauRUpZxkg94oYATcdu+Sa9zUZDkAcJP4J57AIUHqwSfCAAgQKSgKkAbIAeQASIKigoIKDirWAE+LFHOAAVozABE6QBsgC5ODuzXSNbHPfzlYAe/xJnIK5u8Hg5zcVPEyy/8hMX7ZP7lyiw+UPuPLtJg==",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "3bdc10280425256c155d05ea8813ed28",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. 12 … 16\n\n13 … 16\n\nStellantriebe FCD A 00-10 xx FCD A 00-15 xx FCD A 01-15 xx\n\nDUNGS Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 12,
+      "orig_elements": "eJztVU1r3DAU/CtG52YtS/KHemuztPQSFtKc0iD08bxRsS0jybBh2f9eaZOQTSkt9LawB2E9a2bePDGg+z2CAUaYorAGfSxQh8FoTmnVGw5NW6tGUWJ01ympiCYV+lCgEaI0MsqE36O8EcEtXsNrDUJ7SJ+jYNUyhnHLCV7hTD6ej87Y3v4FMHunIYQ3RMVZw+mqpR1hPMNm8KMNwbopiBcz93uUhLMNSglmh4cE86CdN2JwWkbnjw5nGR+zbHkXwIfSW62lN4kYopfRhnLzpB+lHzfe/QQdQ2mWaRvE7HRpnF7yZYUrN0FJeNtiLG4jDIOcoregQHy5Xov1Z7FezaZHh0Oy0NsBJjlmX+jflBdCfJqPBDnPg03e05zly3Eibhe5hZBHRjBtUR50Tn/EtIwK8pQVyZ0j7OLxAknxYyGYNEXVZIVX8U3i3DxTEvz3KGhDKO0p62jd1wQYYFwzRWXbatK0HC5ROI8o0HdRoP8ThcZUwDvaaUhLEtIYrCTwFhiRhBF6icIZRuFduyK1Kz4VGF9VuNjtTsr6pKyey9PgfLdxgD9lhlOmmkpKzWvFoe1M3UhNtSJ1lZ4W2lwyc4aZWd/dfL0trt2olpCV0jb1dkM4jcS3MSmgw8MvS8Sf/Q==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "846c8596747c78862638a2d933274814",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. FCD Wellenflansch □ 7 x 7 mm, Ø 10 mm Bestell-Nr. 298012 0 7 -0.02 9.5 1 2 Ø 1 0 h 9 9 0 -0.1 1 . 0 0 - 9 5 . 0 3 5 . 7 3 Bestell-Nr. DMK 254011 254015 254016 DMK Baugröße Rp 3/4 - Rp 2 FCD Stellantrieb FCD A 00-10 xx",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FCD Wellenflansch 07 x 7 mm, @ 10 mm Bestell-Nr. 298012</td><td>Bestell-Nr. MK</td><td>DMK BaugroBe</td><td>FCD Stellantrieb</td></tr><tr><td>7-002 ® 21 30.5 37.5 901 J 4</td><td>254016</td><td>Rp % -Rp 2</td><td>FCD A 00-10 xx</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 13,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyFUm1r2zAQ/iuHYd+aWJLtqB6hbFnYh5WOshf2oS1Cts6Jh9+QZEgo+e89OWnabWzDoDvd3XP33GPdPUbYYIudV7WJ3kJUZKIyYoFSFAuZVFmBeZ7zgqcppsLILLqAqEWvjfaa6h+j4CjXj7bE5zuq0iKZqSGXacqYzAWbswCe8m1v6qr+R8Fg+xKde6ngebrIk7lMLkWah7IBbVs7V/edUycyd48RNQ40kkSw9PBAZRbL3hrV9KX2vZ0YDtpvQ9v4u0PrYluXpbaGgM5b7WsX3+7Lrbbtre1/YuldbMZu49TQl7HpyzGI5WZ9h7HIpWRMffXYNLrztsYC1ccPa7VeqfV8MFV0OBCFqm6w023gFf0fcgL4/TAB9DA0NXGnPeNTmoCbUW/QhZUj7DZRWHSgiOrGtsCwJU8o5HHnlXZq69sm9Fp6XTR4tfRb1IaMDe4VTYcfRAe7ijq7cgtMwg4ktO0FvAPOyIEViUM1s892DiK/ZFwsY8IG/OvUzfU5vL65hpUeN7Zf4TkYZr3e/ZiIA5P4mVXRm/2JnLmSM8YE3I+MaQTBIWHzDBJJR844fIKUcGaqFFnK+OJ8/TLAG5jRKc6hMPw9MDajlXa7Y/g0+jgzPuoTHU7aBc3+VOd+FJnm8KJRYGcu/yoUMKqb0eMWkBNvDuKMoNQWcvpYKOAUmJNLFwplk59MVpJ93ThoO+3LjyY7mgWcRQ8TqsU0p0IgGZI4pbZBD/j9J8CvwoQn9vz6vgVBosPDE/ZyOuY=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "b25b622aee526e6d36b95a38adf27c8b",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Stellantriebe FCD A 00-10 xx FCD A 00-15 xx FCD A 01-15 xx\n\nDUNGS Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "orig_elements": "eJztUk9P5CAU/yoNZ53SlpbiTZ242YsxUU/GEAqvI6YUAnQzZjLfXRjHOLuH3fMmnngPfv8eeU87BBMYmCPXCl0UCJqesq4bmlpSRaq27ukASoyCqbZm9YjOCmQgCiWiSPgdygUPdvESPnvg0kM6DoIVJQRjymq8wpl8eDdW6VH/BeC8lRDCF6JipGPNijZ9TViGOfBGh6DtHPgxzNMOJeEco2lqTPbPCeZBWq/4ZKWI1h8SOhFfsmz5GMCH0msphVeJGKIXUYfy7k2+CG/uvH0FGUOplnkTuLOyVFYu+bPCuZ2hrBmlGPP7CNMk5ug1DMBvrtd8fcXXK6dGtN+nCKOeYBYm50L/phwJ8c0dCMK5Safsac7y+JyIm0VsIOSREcwblAd16YbPixkgT1mR7BxhG7PIb3ZFsisuC4zPK1xstydte9JWH232+4xyK3z+n1/wkGWT/p+7I6uxH3ogeJA9a8nYdLjqFWVtS9RIVfe9O//h7qwfb3/cF9fWDEvISqlM3nYKp6vx0yQFtH9+B1teWzY=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "381cc2c5513db7ad7e8030a58c231325",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. FCD Wellenflansch 09 x 9 mm, @ 8 mm Bestell-Nr. 297480 Bestell-Nr. DMK DMK Durchfluss- Nennweite FCD Stellantrieb 225975 225978 09 225981 225982 12 225983 225984 225985 225986",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FCD Wellenflansch 09 x 9 mm, @ 8 mm Bestell-Nr. 297480</td><td>Bestell-Nr. DMK</td><td>DMK Durchfluss- Nennweite</td><td>FCD Stellantrieb</td></tr><tr><td/><td>225975</td><td/><td/></tr><tr><td/><td>225978</td><td/><td/></tr><tr><td>09</td><td>225981</td><td/><td/></tr><tr><td/><td>225982</td><td/><td/></tr><tr><td>12</td><td>225983</td><td/><td/></tr><tr><td/><td>225984</td><td/><td/></tr><tr><td/><td>225985</td><td/><td/></tr><tr><td/><td>225986</td><td/><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVd9v2jAQ/ldOedpDIY6TYHvqqq1De5lWTdqmPZQqMrGBTPkl26itKv732XGAwmAlL3z2+fvuzufLcf8SyFJWsjZZIYL3EBBBSb6YM8nm8TxPJhghxGLCBWVMTFIeXEFQScMFN9zyXwK3yHSzVrnc7mWWK2mhcxiRJEGIMIzGyIm786oRxaL4D6FVTS613jMilkxYPCYxxQlztFaqqtC6aGqd9cncvwTWsUsjjjFKNg+WpmTeKJGVTc5No7oMW25Wzm34S0ulQ1XkOVfCCrVR3BQ6/P6cr7iqvqvmj8yNDsW6XuqsbfJQNPnaFUuPmlqGmBGCUPbDyLLktVGFnMvsy+dpNr3NpuNWLILNxqawKEpZ88rlFbwt6QXmue0EvG3LwuZu7xn2x1a4XPOl1O7KgayXgbtoay1Zva7m0t0ySqzJyCeTcZ2tTFU6X9eGz0t5c21WkgsLyi1vbHT4bdOR9cJ61vkKEIMnYFBVV/ARqEW4tbWxlNGdGoO9QkLRdWilTv76aPrt685u1zC1XbFalGutR3An6/pRFkbuGC7w60L4g9ClFW5TnDfiuc9UOLPoFhinjKS77dGi83BSQi+RIHYgotHgOBRfIonwoSgeHicZLhleNToZJklxggbWzEn21UjQqOsvv3Nd8gkQGkUpPD295WVgRdKExAPrnqYED41CEL2o9Q7rToZLLokCqnnULa8/zAI6C24aCu8Onez6/4gZ2UeACKdnjvuHis49lPPN0Bk7PmF373mK7+wx4JSihDogp9QDLWE/aUI/IoNNPz7d2Px3QM7WOOUR7MfkbI2QoOdmZc9nW1qEgewlOLK7GF2lEDP7czRPwc86DxT8RPKAPcQeEg+eSSfgv0MP2IOldA0PvonBN6YXEA/9joF/LQ+9HMGp0sPZQQ8JghHY69vGga5z4Hjkw+HXDYc95P7stv+DP927BJuHvyP8kaU=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "5dcd3fd8775e9f95af8d0d78e521d2ae",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. 252401 252402 40-80 FCD A 00-15 xx 252404 254733 255724 257088 225987 225988 o8 ( 225989 100- 125 FCD A 01-15 xx 225990 225992 252400",
+    "metadata": {
+      "text_as_html": "<table><tr><td/><td>252401</td><td/><td/></tr><tr><td/><td>252402</td><td>40-80</td><td>FCD A 00-15 xx</td></tr><tr><td/><td>252404</td><td/><td/></tr><tr><td/><td>254733</td><td/><td/></tr><tr><td/><td>255724</td><td/><td/></tr><tr><td/><td>257088</td><td/><td/></tr><tr><td/><td>225987</td><td/><td/></tr><tr><td/><td>225988</td><td/><td/></tr><tr><td>o8 (</td><td>225989</td><td>100- 125</td><td>FCD A 01-15 xx</td></tr><tr><td>225990</td></tr><tr><td>225992</td></tr><tr><td>252400</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVd9v2jAQ/ldOedpDIY6TYHvqqq1De5lWTdqmPZQqMrGBTPkl26itKv732XGAwmAlL3z2+fvuzufLcf8SyFJWsjZZIYL3EBBBSb6YM8nm8TxPJhghxGLCBWVMTFIeXEFQScMFN9zyXwK3yHSzVrnc7mWWK2mhcxiRJEGIMIzGyIm786oRxaL4D6FVTS613jMilkxYPCYxxQlztFaqqtC6aGqd9cncvwTWsUsjjjFKNg+WpmTeKJGVTc5No7oMW25Wzm34S0ulQ1XkOVfCCrVR3BQ6/P6cr7iqvqvmj8yNDsW6XuqsbfJQNPnaFUuPmlqGmBGCUPbDyLLktVGFnMvsy+dpNr3NpuNWLILNxqawKEpZ88rlFbwt6QXmue0EvG3LwuZu7xn2x1a4XPOl1O7KgayXgbtoay1Zva7m0t0ySqzJyCeTcZ2tTFU6X9eGz0t5c21WkgsLyi1vbHT4bdOR9cJ61vkKEIMnYFBVV/ARqEW4tbWxlNGdGoO9QkLRdWilTv76aPrt685u1zC1XbFalGutR3An6/pRFkbuGC7w60L4g9ClFW5TnDfiuc9UOLPoFhinjKS77dGi83BSQi+RIHYgotHgOBRfIonwoSgeHicZLhleNToZJklxggbWzEn21UjQqOsvv3Nd8gkQGkUpPD295WVgRdKExAPrnqYED41CEL2o9Q7rToZLLokCqnnULa8/zAI6C24aCu8Onez6/4gZ2UeACKdnjvuHis49lPPN0Bk7PmF373mK7+wx4JSihDogp9QDLWE/aUI/IoNNPz7d2Px3QM7WOOUR7MfkbI2QoOdmZc9nW1qEgewlOLK7GF2lEDP7czRPwc86DxT8RPKAPcQeEg+eSSfgv0MP2IOldA0PvonBN6YXEA/9joF/LQ+9HMGp0sPZQQ8JghHY69vGga5z4Hjkw+HXDYc95P7stv+DP927BJuHvyP8kaU=",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "23cd2f160566c9a287f17d2267868d14",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. 252403 258048 258792",
+    "metadata": {
+      "text_as_html": "<table><tr><td>252403 258048 258792</td></tr><tr><td/></tr><tr><td/></tr><tr><td/></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyVVd9v2jAQ/ldOedpDIY6TYHvqqq1De5lWTdqmPZQqMrGBTPkl26itKv732XGAwmAlL3z2+fvuzufLcf8SyFJWsjZZIYL3EBBBSb6YM8nm8TxPJhghxGLCBWVMTFIeXEFQScMFN9zyXwK3yHSzVrnc7mWWK2mhcxiRJEGIMIzGyIm786oRxaL4D6FVTS613jMilkxYPCYxxQlztFaqqtC6aGqd9cncvwTWsUsjjjFKNg+WpmTeKJGVTc5No7oMW25Wzm34S0ulQ1XkOVfCCrVR3BQ6/P6cr7iqvqvmj8yNDsW6XuqsbfJQNPnaFUuPmlqGmBGCUPbDyLLktVGFnMvsy+dpNr3NpuNWLILNxqawKEpZ88rlFbwt6QXmue0EvG3LwuZu7xn2x1a4XPOl1O7KgayXgbtoay1Zva7m0t0ySqzJyCeTcZ2tTFU6X9eGz0t5c21WkgsLyi1vbHT4bdOR9cJ61vkKEIMnYFBVV/ARqEW4tbWxlNGdGoO9QkLRdWilTv76aPrt685u1zC1XbFalGutR3An6/pRFkbuGC7w60L4g9ClFW5TnDfiuc9UOLPoFhinjKS77dGi83BSQi+RIHYgotHgOBRfIonwoSgeHicZLhleNToZJklxggbWzEn21UjQqOsvv3Nd8gkQGkUpPD295WVgRdKExAPrnqYED41CEL2o9Q7rToZLLokCqnnULa8/zAI6C24aCu8Onez6/4gZ2UeACKdnjvuHis49lPPN0Bk7PmF373mK7+wx4JSihDogp9QDLWE/aUI/IoNNPz7d2Px3QM7WOOUR7MfkbI2QoOdmZc9nW1qEgewlOLK7GF2lEDP7czRPwc86DxT8RPKAPcQeEg+eSSfgv0MP2IOldA0PvonBN6YXEA/9joF/LQ+9HMGp0sPZQQ8JghHY69vGga5z4Hjkw+HXDYc95P7stv+DP927BJuHvyP8kaU=",
+      "is_continuation": true,
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "18bcbad08df73cb4845c956de489ca31",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. 14 … 16\n\n15 … 16\n\nStellantriebe FCD A 00-10 xx FCD A 00-15 xx FCD A 01-15 xx\n\nDUNGS Combustion Controls",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 14,
+      "orig_elements": "eJztlVFr2zAUhf+K0fMaX8myHO9ta9jYSwl0feqKkaWr1MO2jCRDSsh/n5SmNGWjhb0F8mRd655zzzUf+H5HsMcBx9B0mnzOiKDAhZFQl1RUGqFiNeVtaUTBahRFST5lZMAgtQwy9u9IOjTezk7hS42NchgfB0NacQ5Q1QwWkMSH+8HqznTvNEzOKvT+tYPWXNTFoiqWjNepbUI3dN53dvTNMcz9jkTjFKMoGPD9Q2xzqKzTTW+VDNYdEk4yPCbb/M6j87nrlJJOR6EPTobO5+sn9SjdsHb2N6rgcz2PG99MVuXaqjl9LH9lR8xZXVUAzW3AvpdjcB222Hy7XjWrr81qMWlD9vsYwXQ9jnJIucjHkqMgPE0HgZymvovZ45758ToKN7PcoE8rExw3JC06xTfNOA8tpi0pT5MDbsPhA/Ls18yAiYyK5PBivo6am2dJbP8LhSUIrKu2VIZWSyaxUIpjq4pSG14yfkHhPFAo36BQ/g8KWtWtqrTmdQsaCiMU0JaBUcioWEp5QeEMUXgzLovjsi8ZwBWFbLs9KcuTkj6Xp+D87EKP/2IGKmlKKQGEabVBnn4pxbIUzKDUQIsLM2fIzOru5vttdm2HdvbJKR7jbNv7UyR+DNGB7B/+ACsqn+w=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "2354a606496ad285dbadb56781c6c672",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. FCD Wellenflansch □ 9 x 9 mm, Ø 10 mm Bestell-Nr. DMK DMK FCD Bestell-Nr. 298013 Durchfluss- Stellantrieb Nennweite 254018 9 0 -0.02 254019 264382 264383 264384 Ø 12 40 - 80 FCD A 00-15 xx 1 2 5 . 0 3 5 . 9 3 254020 Ø 10h9 9 0 -0.1 1 . 0 0 - 9 254719 264385 264386 100 - 125 FCD A 01-15 xx",
+    "metadata": {
+      "text_as_html": "<table><tr><td>FCD Wellenflansch 09 x 9 mm, @ 10 mm Bestell-Nr. 298013</td><td>Bestell-Nr. DMK</td><td>DMK Durchfluss- Nennweite</td><td>FCD Stellantrieb</td></tr><tr><td>9-0.02 &amp; 30.5 39.5</td><td>254018 254019 264382 264383 264384</td><td>40-80</td><td>FCD A 00-15 xx</td></tr><tr><td>L 9-0.1 ™</td><td>254020 254719 264385 264386</td><td>100- 125</td><td>FCD A 01-15 xx</td></tr></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "orig_elements": "eJyFU01v2zAM/SuEDzs1tiR/JNqKYuuCXbYVBbZhh7YwFJmJPfgLkoylKPLfSzlO2qxFdzAoi4/k43v2zUOANTbYurwqgvcQpHKl1zEWCtNFliaodbbSGWfJPJNSySw4g6BBpwrlFOEfAn/IbTcYjYd3zLVBCmNDPk8SxuZSsJD54jHfdEW1rt4A9KbTaO0Tgsskk3E4jxcikR7Wo2kqa6uutflE5uYhoMaeRhwLluzuCGZQd6bI604r15mRYa9c6dtGvywaG5lKa2UKKrTOKFfZ6Ppel8o016b7g9rZqBjajc37TkdFpwcvlp11LUZCzueM5T8c1rVqnalwhfmXz8t8eZkvw75YB7sdUVhXNbaq8byC/5dMBe6+HwtU39cVcac9oylNhZtBbdD6lQNsN4FftKebvB2aFfoteUpXDrcuVzYvXVP7XudOrWq8OHclqoKC8ccLmg6/iQ62a+psdQlMwhYkNM0ZfATO6ACXJA5hZlcmBCEXjMfnEdX6+uep5fevx3s6w5I+i3JdD9bO4Arb9i9WDo8IP/m5EvtE5HlFB46rrrifqBYXckbfiIB3quk/QMzCFGIZpgQuxrRIE8YXMAYJIkvoY9mHeB+SIzRhswU7vnkin4CxGU9hu91fjzSmud/AT+ZwOwguxMk8wfy8+WFeug/ZEcOpK3CR/juLv5gVTbtGe5eC3eSgd+6lR0QlVRyenLodGCsWr9g1+kCP7/HSxhOLnpvx5BdMukpgsDfgDYWPPAQkBIcFg1N1gYOAFEJqFo9RUpyUPO5QysM0TniP9b3kq1IT3CdJYzjV1v8rh9/op9c02N09ArgCbNk=",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  },
+  {
+    "type": "CompositeElement",
+    "element_id": "55696620b6303c0a3815ab5051eca070",
+    "text": "Dieser Text ist für Produt: Stellantriebe_FCD. Produkt ID: 297700. Der Dokumentyp is Datenblatt. Weiteres Zubehör wie z.B. Wellenadapter oder Potentiometer zur Stellungsrückmeldung sind auf Anfrage lieferbar.\n\nStellantriebe FCD A 00-10 xx FCD A 00-15 xx FCD A 01-15 xx\n\nDUNGS Combustion Controls\n\nHausadresse\n\nKarl Dungs GmbH & Co. KG • Karl-Dungs-Platz 1 • D-73660 Urbach, Germany\n\nTel.: +49 7181-804-0 • Fax +49 7181-804-166 • e-mail: info@dungs.com • Internet www.dungs.com\n\n16 … 16",
+    "metadata": {
+      "data_source": {
+        "record_locator": {
+          "path": "/Users/riccardodestratis/PycharmProjects/dungs_poc/documents-one/297700_Stellantriebe_FCD_DB_D.pdf"
+        },
+        "date_created": "1744007920.0",
+        "date_modified": "1744007920.0",
+        "date_processed": "1744194693.738249",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      },
+      "filename": "297700_Stellantriebe_FCD_DB_D.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 15,
+      "orig_elements": "eJztlktv3DYQx78KoUMvzWpJiiJFn5pkYScIYCyQGAGaBAIfI1utXiCl+gV/9w433nZTBG1zXGBP0mge/M/oB5KfHjPooIdhrlufnZGMGygk01ABZeAqahphOGfaMmDMFk32gmQ9zMab2WD8Y5Ze6jguwcHehtoFwMeuIFNCUKo0pzlNyTt/P/q2af8lYAqjgxj/jmBaSF3kqqi40ClsgtC3MbbjEOtnMZ8eMyycZBQFp+LpC4YFcGPwdTc6M49hp3Ay800qu76KEOI6tM6Z4DExzsHMbVxv792NCf02jL+Bm+PaL8N1rKfRrf3oljSsuBoHWHOtFKX1+xm6zgxzaMFCff56U29e1Zt88k329IQSmraDwfSwG+9/pjwnzPfTLsFMU9eiduxz/ezGxOvFXENMLWcwXGep0Qm/1MPSW0hdsjKtPMPdnIp8hHaGAJH8uli4+bxQ2shAblsgD/mrnHxEMajQmwmjCA4ikO04Y5vtiL8arYclkJ3kNIiwy3fu9x66NBkS28ETszTk5dAEVEG6FhoI1oQ8yd13cmlCGu8f8CGpQnn/RA8qqmwhq8JaaX0ltbVOmKZipZAlV+aE3nGgJw/R+2Y5gsuRl4TSFaPk7u7ALA9M9tX8IXY4MOFL71RZMsWcVBaY1rzypqSipOzEzhGys7m6vHhPXo+9XWKqhK+49tjFQzTe9ljhe0i4RjCHAHidjjFbyQIkbjFVw6ypGP6iExLHh8Qbs0TjQxroj50tja+U8JoJcMoIJoVXoJTxnjdV4dUJhiOE4Z0JHdmkLshFb9+Qn3CDyMm7C/J54ZRzkvyrnX+17cz8QNjes1mpQkpKrvCW4m5ekAucuhnuD5E6H/EKFL7HkjEclCiZxYOG4UaiPANlNXd4SwGnxYmlI2TpA3T5GflZaKJYxVYVFSu6p+Xc3H3rYVLufbDqTdudkXZoxl92U8jd2O+9bwdkaICZ3N7e5n95/x9mmintJLVaG11Y7rWsgMuGWg6idIyfMDtCzNgzOBK/H2KwxZzLrylPX/4E8abs1g==",
+      "product_id": "297700",
+      "product_name": "Stellantriebe_FCD",
+      "document_type": "Datenblatt",
+      "product_category": "Stellantriebe"
+    }
+  }
+]
